@@ -224,7 +224,7 @@ if (selectedYear === "9")
 
     smallpic.src = "/hockey/img/logos/ny rangers.gif";
     
-        // MainFetchPopUp("/hockey/present/eastern/json/.json");
+        MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
 }
 
 if (selectedYear === "10")

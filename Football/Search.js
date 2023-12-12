@@ -103,7 +103,7 @@ function searchPlayers(query) {
     allPlayers.forEach(player => {
         Object.values(player).forEach(value => {
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
-                const uniqueKey = `${player.last_name}_${player.birth_date}`;
+                const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
                     return;

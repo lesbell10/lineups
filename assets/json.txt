@@ -1,20 +1,14 @@
 Football: 
 Update with this:
-(id start with 1), (full name), (img /football/img/players/{input}.webp), (position, like striker), team, (nationality like this: Canada), (description: 8 words) in json format
-
-
-
+(id start with 1), (last_name) (img /football/img/players/{last name}.webp), (full_name), team, (position, like striker), (nationality like this: Canada), (description: 8 words) in json format
 
 Hockey: 
 Update with this:
-(id start with 1), (full name), (img /hockey/img/players/{input}.jpg) team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
-
-
-
+(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name), team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
 
 Basket: 
 Update with this:
-(id start with 1), (full name), (img /basket/img/players/{input}.png), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
+(id start with 1), (last_name) (img /basket/img/players/{last name}.png), (full_name), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
 
 
 every player, every field, description in 8 words in json
@@ -33,3 +27,15 @@ every player, every field, description in 8 words in json
 
 football:
 remove the number before the id
+
+Update with this:
+{
+        "id": 1-,
+        "img": "/hockey/img/players/last name.jpg",
+        "full_name": "",
+        "team": "",
+        "nationality": "",
+        "position": "",
+        "height": in feet,
+        "description": "{8 words description}"
+    }

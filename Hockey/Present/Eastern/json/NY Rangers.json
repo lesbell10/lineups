@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "last_name": "Panarin",
+    "img": "/hockey/img/players/Panarin.jpg",
+    "full_name": "Artemi Panarin",
+    "team": "New York Rangers",
+    "nationality": "Russia",
+    "position": "Left Winger",
+    "description": "Talented Russian left winger for the New York Rangers."
+  },
+  {
+    "id": 2,
+    "last_name": "Zibanejad",
+    "img": "/hockey/img/players/Zibanejad.jpg",
+    "full_name": "Mika Zibanejad",
+    "team": "New York Rangers",
+    "nationality": "Sweden",
+    "position": "Center",
+    "description": "Swedish center playing for the New York Rangers."
+  },
+  {
+    "id": 3,
+    "last_name": "Kreider",
+    "img": "/hockey/img/players/Kreider.jpg",
+    "full_name": "Chris Kreider",
+    "team": "New York Rangers",
+    "nationality": "United States",
+    "position": "Right Winger",
+    "description": "Powerful American right winger in the New York Rangers' lineup."
+  },
+  {
+    "id": 4,
+    "last_name": "Fox",
+    "img": "/hockey/img/players/Fox.jpg",
+    "full_name": "Adam Fox",
+    "team": "New York Rangers",
+    "nationality": "United States",
+    "position": "Right Defenseman",
+    "description": "Promising right defenseman contributing to the New York Rangers' defense."
+  },
+  {
+    "id": 5,
+    "last_name": "KMiller",
+    "img": "/hockey/img/players/KMiller.jpg",
+    "full_name": "K'Andre Miller",
+    "team": "New York Rangers",
+    "nationality": "United States",
+    "position": "Left Defenseman",
+    "description": "Young left defenseman making his mark with the New York Rangers."
+  },
+  {
+    "id": 6,
+    "last_name": "Shesterkin",
+    "img": "/hockey/img/players/Shesterkin.jpg",
+    "full_name": "Igor Shesterkin",
+    "team": "New York Rangers",
+    "nationality": "Russia",
+    "position": "Goalie",
+    "description": "Impressive Russian goalie guarding the net for the New York Rangers."
+  }
+]
