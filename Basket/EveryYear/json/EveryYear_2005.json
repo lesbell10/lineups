@@ -1,72 +1,52 @@
 [
   {
     "id": 1,
-    "last_name": "S Nash",
+    "last_name": "Nash",
     "img": "/basket/img/players/S Nash.png",
     "full_name": "Steve Nash",
-    "birth_date": "07-02-1974",
-    "birthplace": "Johannesburg, South Africa",
-    "team": "Retired",
+    "team": "Phoenix Suns",
     "nationality": "Canada",
-    "positions": ["Point Guard"],
-    "height": "6'3\"",
-    "draft": "Phoenix Suns, round 1, #15 overall, 1996",
-    "description": "Two-time NBA MVP known for playmaking skills."
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Two-time NBA MVP and elite playmaker."
   },
   {
     "id": 2,
-    "last_name": "K Bryant",
+    "last_name": "Bryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
-    "birth_date": "23-08-1978",
-    "birthplace": "Philadelphia, USA",
-    "team": "Retired",
+    "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
-    "height": "6'6\"",
-    "draft": "Charlotte Hornets, round 1, #13 overall, 1996",
-    "description": "Legendary player known for scoring and competitiveness."
+    "description": "One of the greatest scorers in NBA history."
   },
   {
     "id": 3,
-    "last_name": "K Garnett",
-    "img": "/basket/img/players/K Garnett.png",
-    "full_name": "Kevin Garnett",
-    "birth_date": "19-05-1976",
-    "birthplace": "Greenville, USA",
-    "team": "Retired",
+    "last_name": "James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
-    "height": "6'11\"",
-    "draft": "Minnesota Timberwolves, round 1, #5 overall, 1995",
-    "description": "Versatile forward/center with intense defensive skills."
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Rising superstar with incredible versatility."
   },
   {
     "id": 4,
-    "last_name": "S O'Neal",
+    "last_name": "O'Neal",
     "img": "/basket/img/players/S O'Neal.png",
     "full_name": "Shaquille O'Neal",
-    "birth_date": "06-03-1972",
-    "birthplace": "Newark, USA",
-    "team": "Retired",
+    "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Center"],
-    "height": "7'1\"",
-    "draft": "Orlando Magic, round 1, #1 overall, 1992",
-    "description": "Dominant center known for his size and scoring ability."
+    "positions": ["Power Forward", "Center"],
+    "description": "Dominant force in the post and NBA champion."
   },
   {
     "id": 5,
-    "last_name": "T Duncan",
+    "last_name": "Duncan",
     "img": "/basket/img/players/T Duncan.png",
     "full_name": "Tim Duncan",
-    "birth_date": "25-04-1976",
-    "birthplace": "Christiansted, USA",
-    "team": "Retired",
+    "team": "San Antonio Spurs",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
-    "height": "6'11\"",
-    "draft": "San Antonio Spurs, round 1, #1 overall, 1997",
-    "description": "Legendary big man with incredible defensive and scoring abilities."
+    "description": "Legendary big man and NBA champion."
   }
 ]

@@ -1,14 +1,14 @@
 Football: 
-Update with this:
-(id start with 1), (last_name) (img /football/img/players/{last name}.webp), (full_name), team, (position, like striker), (nationality like this: Canada), (description: 8 words) in json format
+give me this:
+(id start with 1), (last_name) (img /football/img/players/{last name}.webp), (full_name at least 3 words), team, (position, like striker), (nationality like this: Canada), (description: 8 words) in json format
 
 Hockey: 
-Update with this:
-(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name), team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
+give me this:
+(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
 
 Basket: 
-Update with this:
-(id start with 1), (last_name) (img /basket/img/players/{last name}.png), (full_name), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
+give me this:
+(id start with 1), (last_name) (img /basket/img/players/{last name}.png), (full_name at least 2 words), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
 
 
 every player, every field, description in 8 words in json

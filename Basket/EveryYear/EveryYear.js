@@ -392,7 +392,7 @@ function updatePlayerInfo() {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
-        SF.textContent = "K Garnett";
+        SF.textContent = "L James";
         PF.textContent = "S O'Neal";
         C.textContent = "T Duncan";
 

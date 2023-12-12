@@ -175,7 +175,7 @@ nav.home {
     border: 2px solid black; /* Blue border */
     border-radius: 10px 0 0 10px; /* Rounded corners on the left side */
     outline: none; /* Remove default focus outline */
-    width: 230px; /* Width of the input */
+    width: 200px; /* Width of the input */
     box-shadow: -5px 5px 10px grey;
     margin-right: -5px;
 }

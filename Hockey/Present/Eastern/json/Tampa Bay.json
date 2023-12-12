@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Stamkos",
+        "img": "/hockey/img/players/Stamkos.jpg",
+        "full_name": "Steven Stamkos",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Elite center known for goal-scoring and leadership abilities."
+    },
+    {
+        "id": 2,
+        "last_name": "Point",
+        "img": "/hockey/img/players/Point.jpg",
+        "full_name": "Brayden Point",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Dynamic center with speed and offensive skills."
+    },
+    {
+        "id": 3,
+        "last_name": "Kucherov",
+        "img": "/hockey/img/players/Kucherov.jpg",
+        "full_name": "Nikita Kucherov",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Scoring winger with playmaking abilities and hockey IQ."
+    },
+    {
+        "id": 4,
+        "last_name": "Hedman",
+        "img": "/hockey/img/players/Hedman.jpg",
+        "full_name": "Victor Hedman",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Sweden",
+        "position": "Left Defenseman",
+        "description": "Elite defenseman with size, mobility, and offensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "Cernak",
+        "img": "/hockey/img/players/Cernak.jpg",
+        "full_name": "Erik Cernak",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Slovakia",
+        "position": "Right Defenseman",
+        "description": "Physical defenseman with strong defensive abilities."
+    },
+    {
+        "id": 6,
+        "last_name": "Vasilevskiy",
+        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "full_name": "Andrei Vasilevskiy",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Dominant goaltender with exceptional reflexes and consistency."
+    }
+]

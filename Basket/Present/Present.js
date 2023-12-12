@@ -27,18 +27,18 @@ function updatePlayerInfo() {
     C2.src = "/basket/img/players/" + C.textContent + ".png";
 
     
-    document.getElementById("smallpic").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Joel_Embiid_2019.jpg/800px-Joel_Embiid_2019.jpg";
+    smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
-smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "Joel Embiid's 2023-24 season can be characterized as a display of dominance in the NBA. Showcasing exceptional skill in scoring, rebounding, and defense, Embiid solidified his status as a top center. His leadership and impact on the Philadelphia 76ers were unmistakable."
-        })
+// smallpic.addEventListener('mouseover', () => {
+//             sideModal.style.display = 'block'
+//             sideModal.textContent = "Joel Embiid's 2023-24 season can be characterized as a display of dominance in the NBA. Showcasing exceptional skill in scoring, rebounding, and defense, Embiid solidified his status as a top center. His leadership and impact on the Philadelphia 76ers were unmistakable."
+//         })
 
-        smallpic.addEventListener("mouseout", () => {
-                    sideModal.style.display = 'none'; // Hide the modal
-        }); 
+//         smallpic.addEventListener("mouseout", () => {
+//                     sideModal.style.display = 'none'; // Hide the modal
+//         }); 
 
-    MainFetchPopUp("./Present.json"); 
+    // MainFetchPopUp("./Present.json"); 
 
      function clearAndFadeInElements() {
         const elements = [

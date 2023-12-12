@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Marner",
+        "img": "/hockey/img/players/Marner.jpg",
+        "full_name": "Mitch Marner",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Dynamic winger with playmaking skills and offensive prowess."
+    },
+    {
+        "id": 2,
+        "last_name": "Matthews",
+        "img": "/hockey/img/players/Matthews.jpg",
+        "full_name": "Auston Matthews",
+        "team": "Toronto Maple Leafs",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Elite goal-scoring center known for his scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Nylander",
+        "img": "/hockey/img/players/Nylander.jpg",
+        "full_name": "William Nylander",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Sweden",
+        "position": "Right Winger",
+        "description": "Skilled forward with a scoring touch and playmaking ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Rielly",
+        "img": "/hockey/img/players/Rielly.jpg",
+        "full_name": "Morgan Rielly",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Mobile defenseman with offensive skills and strong puck-moving abilities."
+    },
+    {
+        "id": 5,
+        "last_name": "Brodie",
+        "img": "/hockey/img/players/Brodie.jpg",
+        "full_name": "T.J. Brodie",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Solid defenseman known for his defensive reliability and smart play."
+    },
+    {
+        "id": 6,
+        "last_name": "Samsonov",
+        "img": "/hockey/img/players/Samsonov.jpg",
+        "full_name": "Ilya Samsonov",
+        "team": "Washington Capitals",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Young goaltender with great potential and athleticism in the net."
+    }
+]

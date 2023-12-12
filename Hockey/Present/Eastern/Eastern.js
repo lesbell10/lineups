@@ -245,7 +245,7 @@ if (selectedYear === "10")
 
     smallpic.src = "/hockey/img/logos/ottawa.gif";
     
-        // MainFetchPopUp("/hockey/present/eastern/json/.json");
+        MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
 }
 
 if (selectedYear === "11")

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Konecny",
+        "img": "/hockey/img/players/Konecny.jpg",
+        "full_name": "Travis Konecny",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Dynamic forward with speed and scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Couturier",
+        "img": "/hockey/img/players/Couturier.jpg",
+        "full_name": "Sean Couturier",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Two-way center known for defensive prowess and scoring."
+    },
+    {
+        "id": 3,
+        "last_name": "Atkinson",
+        "img": "/hockey/img/players/Atkinson.jpg",
+        "full_name": "Cam Atkinson",
+        "team": "Philadelphia Flyers",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "Sharpshooter with goal-scoring ability and speed."
+    },
+    {
+        "id": 4,
+        "last_name": "Sanheim",
+        "img": "/hockey/img/players/Sanheim.jpg",
+        "full_name": "Travis Sanheim",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Mobile defenseman with offensive upside and strong skating."
+    },
+    {
+        "id": 5,
+        "last_name": "York",
+        "img": "/hockey/img/players/York.jpg",
+        "full_name": "Cam York",
+        "team": "Philadelphia Flyers",
+        "nationality": "USA",
+        "position": "Right Defenseman",
+        "description": "Young defenseman with great puck-moving skills and vision."
+    },
+    {
+        "id": 6,
+        "last_name": "C Hart",
+        "img": "/hockey/img/players/C Hart.jpg",
+        "full_name": "Carter Hart",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Goaltender with strong positioning and calm demeanor."
+    }
+]

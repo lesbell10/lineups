@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "B Tkachuk",
+        "img": "/hockey/img/players/B Tkachuk.jpg",
+        "full_name": "Brady Tkachuk",
+        "team": "Ottawa Senators",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "Power forward known for physical play and goal-scoring."
+    },
+    {
+        "id": 2,
+        "last_name": "Stutzle",
+        "img": "/hockey/img/players/Stutzle.jpg",
+        "full_name": "Tim Stutzle",
+        "team": "Ottawa Senators",
+        "nationality": "Germany",
+        "position": "Center",
+        "description": "Young talent with speed and playmaking skills."
+    },
+    {
+        "id": 3,
+        "last_name": "Tarasenko",
+        "img": "/hockey/img/players/Tarasenko.jpg",
+        "full_name": "Vladimir Tarasenko",
+        "team": "Ottawa Senators",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Sniper with a lethal shot and offensive prowess."
+    },
+    {
+        "id": 4,
+        "last_name": "Chabot",
+        "img": "/hockey/img/players/Chabot.jpg",
+        "full_name": "Thomas Chabot",
+        "team": "Ottawa Senators",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Dynamic defenseman with excellent offensive and defensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "Chychrun",
+        "img": "/hockey/img/players/Chychrun.jpg",
+        "full_name": "Jakob Chychrun",
+        "team": "Ottawa Senators",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Solid two-way defenseman with physicality and offensive ability."
+    },
+    {
+        "id": 6,
+        "last_name": "Korpisalo",
+        "img": "/hockey/img/players/Korpisalo.jpg",
+        "full_name": "Joonas Korpisalo",
+        "team": "Ottawa Senators",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Goaltender known for quick reflexes and strong net presence."
+    }
+]
