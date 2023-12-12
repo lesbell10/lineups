@@ -1,0 +1,72 @@
+[
+    {
+    "id": 1,
+    "last_name": "S Nash",
+    "img": "/basket/img/players/S Nash.png",
+    "full_name": "Steve Nash",
+    "birth_date": "07-02-1974",
+    "birthplace": "Johannesburg, South Africa",
+    "team": "Retired",
+    "nationality": "Canada",
+    "positions": ["Point Guard"],
+    "height": "6'3\"",
+    "draft": "Phoenix Suns, round 1, #15 overall, 1996",
+    "description": "Two-time NBA MVP known for playmaking skills."
+  },
+  {
+    "id": 2,
+    "last_name": "K Bryant",
+    "img": "/basket/img/players/K Bryant.png",
+    "full_name": "Kobe Bryant",
+    "birth_date": "23-08-1978",
+    "birthplace": "Philadelphia, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "height": "6'6\"",
+    "draft": "Charlotte Hornets, round 1, #13 overall, 1996",
+    "description": "Legendary player known for scoring and competitiveness."
+  },
+  {
+    "id": 3,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "birth_date": "30-12-1984",
+    "birthplace": "Akron, USA",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "height": "6'9\"",
+    "draft": "Cleveland Cavaliers, round 1, #1 overall, 2003",
+    "description": "One of the greatest basketball players of all time."
+  },
+  {
+    "id": 4,
+    "last_name": "T Duncan",
+    "img": "/basket/img/players/T Duncan.png",
+    "full_name": "Tim Duncan",
+    "birth_date": "25-04-1976",
+    "birthplace": "Christiansted, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "height": "6'11\"",
+    "draft": "San Antonio Spurs, round 1, #1 overall, 1997",
+    "description": "Legendary big man with incredible defensive and scoring abilities."
+  },
+  {
+    "id": 5,
+    "last_name": "D Nowitzki",
+    "img": "/basket/img/players/D Nowitzki.png",
+    "full_name": "Dirk Nowitzki",
+    "birth_date": "19-06-1978",
+    "birthplace": "Wurzburg, Germany",
+    "team": "Retired",
+    "nationality": "Germany",
+    "positions": ["Power Forward"],
+    "height": "7'0\"",
+    "draft": "Milwaukee Bucks, round 1, #9 overall, 1998",
+    "description": "Seven-foot forward with a lethal jump shot."
+  }
+]

@@ -1,0 +1,155 @@
+[
+    {
+    "id": 1,
+    "last_name": "C Ronaldo",
+    "img": "/football/img/players/C Ronaldo.webp",
+    "full_name": "Cristiano Ronaldo",
+    "birth_date": "05-02-1985",
+    "birthplace": "Funchal, Portugal",
+    "position": "Centre Forward",
+    "team": "Al-Nassr",
+    "nationality": "Portugal",
+    "height": "6'2\"",
+    "description": "Iconic Portuguese forward, five Ballon d’Ors, prolific scorer"
+},
+
+{
+    "id": 2,
+    "last_name": "Messi",
+    "img": "/football/img/players/Messi.webp",
+    "full_name": "Lionel Messi",
+    "birth_date": "24-06-1987",
+    "birthplace": "Rosario, Argentina",
+    "position": "Forward",
+    "team": "Inter Miami",
+    "nationality": "Argentina",
+    "height": "5'7\"",
+    "description": "Legendary Argentine forward, record Ballon d’Ors, exceptional playmaker"
+},
+
+{
+    "id": 3,
+    "last_name": "E Hazard",
+    "img": "/football/img/players/E Hazard.webp",
+    "full_name": "Eden Hazard",
+    "birth_date": "07-01-1991",
+    "birthplace": "La Louvière, Belgium",
+    "position": "Left Winger",
+    "team": "Retired",
+    "nationality": "Belgium",
+    "height": "5'9\"",
+    "description": "Belgian winger, known for dribbling, Chelsea and Madrid"
+},
+
+{
+    "id": 4,
+    "last_name": "Neymar",
+    "img": "/football/img/players/Neymar.webp",
+    "full_name": "Neymar Jr",
+    "birth_date": "05-02-1992",
+    "birthplace": "Mogi das Cruzes, Brazil",
+    "position": "Forward",
+    "team": "Al-Hilal",
+    "nationality": "Brazil",
+    "height": "5'9\"",
+    "description": "Brazilian superstar forward, skillful, PSG and Brazil ace"
+},
+
+{
+    "id": 5,
+    "last_name": "De Bruyne",
+    "img": "/football/img/players/De Bruyne.webp",
+    "full_name": "Kevin De Bruyne",
+    "birth_date": "28-06-1991",
+    "birthplace": "Drongen, Belgium",
+    "position": "Central Midfielder",
+    "team": "Man City",
+    "nationality": "Belgium",
+    "height": "5'11\"",
+    "description": "Belgian midfielder, master passer, Manchester City key asset"
+},
+
+{
+    "id": 6,
+    "last_name": "Kante",
+    "img": "/football/img/players/Kante.webp",
+    "full_name": "N'Golo Kante",
+    "birth_date": "29-03-1991",
+    "birthplace": "Paris, France",
+    "position": "Defensive Midfielder",
+    "team": "Al-Ittihad",
+    "nationality": "France",
+    "height": "5'6\"",
+    "description": "French midfielder, exceptional tackler, key Chelsea player"
+},
+
+{
+    "id": 7,
+    "last_name": "Kimmich",
+    "img": "/football/img/players/Kimmich.webp",
+    "full_name": "Joshua Kimmich",
+    "birth_date": "08-02-1995",
+    "birthplace": "Rottweil, Germany",
+    "position": "Right-Back",
+    "team": "Bayern Munich",
+    "nationality": "Germany",
+    "height": "5'10\"",
+    "description": "German versatile midfielder, Bayern Munich's strategic playmaker"
+},
+
+{
+    "id": 8,
+    "last_name": "S Ramos",
+    "img": "/football/img/players/Ramos.webp",
+    "full_name": "Sergio Ramos",
+    "birth_date": "30-03-1986",
+    "birthplace": "Camas, Spain",
+    "position": "Centre-Back",
+    "team": "Sevilla",
+    "nationality": "Spain",
+    "height": "6'0\"",
+    "description": "Spanish defender, strong leader, Real Madrid legend"
+},
+
+{
+    "id": 9,
+    "last_name": "van Dijk",
+    "img": "/football/img/players/Van Dijk.webp",
+    "full_name": "Virgil van Dijk",
+    "birth_date": "08-07-1991",
+    "birthplace": "Breda, Netherlands",
+    "position": "Centre-Back",
+    "team": "Liverpool",
+    "nationality": "Netherlands",
+    "height": "6'4\"",
+    "description": "Dutch centre-back, defensive rock, Liverpool's backbone"
+},
+
+{
+    "id": 10,
+    "last_name": "Alba",
+    "img": "/football/img/players/Alba.webp",
+    "full_name": "Jordi Alba",
+    "birth_date": "21-03-1989",
+    "birthplace": "L'Hospitalet de Llobregat, Spain",
+    "position": "Left-Back",
+    "team": "Inter Miami",
+    "nationality": "Spain",
+    "height": "5'7\"",
+    "description": "Spanish left-back, Barcelona's speedy, attacking defender"
+},
+
+{
+    "id": 11,
+    "last_name": "Oblak",
+    "img": "/football/img/players/Oblak.webp",
+    "full_name": "Jan Oblak",
+    "birth_date": "07-01-1993",
+    "birthplace": "Škofja Loka, Slovenia",
+    "position": "Goalkeeper",
+    "team": "Atletico Madrid",
+    "nationality": "Slovenia",
+    "height": "6'2\"",
+    "description": "Slovenian goalkeeper, Atletico Madrid's reliable, top-class shot-stopper"
+}
+]

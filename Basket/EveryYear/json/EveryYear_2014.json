@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "last_name": "C Paul",
+    "img": "/basket/img/players/C Paul.png",
+    "full_name": "Chris Paul",
+    "birth_date": "06-05-1985",
+    "birthplace": "Winston-Salem, North Carolina, USA",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "height": "6'0\"",
+    "draft": "New Orleans Hornets, Round 1, #4 overall, 2005",
+    "description": "Veteran floor general and assist maestro."
+  },
+  {
+    "id": 2,
+    "last_name": "K Bryant",
+    "img": "/basket/img/players/K Bryant.png",
+    "full_name": "Kobe Bryant",
+    "birth_date": "23-08-1978",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "height": "6'6\"",
+    "draft": "Charlotte Hornets, Round 1, #13 overall, 1996",
+    "description": "NBA legend with five championship rings."
+  },
+  {
+    "id": 3,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "birth_date": "30-12-1984",
+    "birthplace": "Akron, Ohio, USA",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "height": "6'9\"",
+    "draft": "Cleveland Cavaliers, Round 1, #1 overall, 2003",
+    "description": "Four-time NBA champion and four-time MVP."
+  },
+  {
+    "id": 4,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/K Durant.png",
+    "full_name": "Kevin Durant",
+    "birth_date": "29-09-1988",
+    "birthplace": "Washington, D.C., USA",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "height": "6'10\"",
+    "draft": "Seattle SuperSonics, Round 1, #2 overall, 2007",
+    "description": "Two-time NBA champion and NBA Finals MVP."
+  },
+  {
+    "id": 5,
+    "last_name": "C Anthony",
+    "img": "/basket/img/players/C Anthony.png",
+    "full_name": "Carmelo Anthony",
+    "birth_date": "29-05-1984",
+    "birthplace": "Brooklyn, New York, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "height": "6'8\"",
+    "draft": "Denver Nuggets, Round 1, #3 overall, 2003",
+    "description": "Versatile scorer with multiple All-Star selections."
+  }
+]

@@ -1,0 +1,80 @@
+[
+    {
+    "id": 1,
+    "last_name": "Svechnikov",
+    "img": "/hockey/img/players/Svechnikov.jpg",
+    "full_name": "Andrei Svechnikov",
+    "birth_date": "26-03-2000",
+    "birthplace": "Barnaul, Russia",
+    "position": "Left Forward",
+    "team": "Carolina Hurricanes",
+    "nationality": "Russia",
+    "height": "6'2\"",
+    "description": "Talented Russian forward with scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "Aho",
+    "img": "/hockey/img/players/Aho.jpg",
+    "full_name": "Sebastian Aho",
+    "birth_date": "26-07-1997",
+    "birthplace": "Rauma, Finland",
+    "position": "Center Forward",
+    "team": "Carolina Hurricanes",
+    "nationality": "Finland",
+    "height": "6'0\"",
+    "description": "Finnish center with great offensive skills."
+  },
+  {
+    "id": 3,
+    "last_name": "Necas",
+    "img": "/hockey/img/players/Necas.jpg",
+    "full_name": "Martin Necas",
+    "birth_date": "15-01-1999",
+    "birthplace": "Nove Mesto na Morave, Czech Republic",
+    "position": "Right Forward",
+    "team": "Carolina Hurricanes",
+    "nationality": "Czech Republic",
+    "height": "6'2\"",
+    "description": "Young Czech forward with speed and playmaking ability."
+  },
+  {
+    "id": 4,
+    "last_name": "Slavin",
+    "img": "/hockey/img/players/Slavin.jpg",
+    "full_name": "Jaccob Slavin",
+    "birth_date": "01-05-1994",
+    "birthplace": "Denver, United States",
+    "position": "Left Defender",
+    "team": "Carolina Hurricanes",
+    "nationality": "United States",
+    "height": "6'3\"",
+    "description": "Solid left-back known for his defensive skills."
+  },
+  {
+    "id": 5,
+    "last_name": "Burns",
+    "img": "/hockey/img/players/Burns.jpg",
+    "full_name": "Brent Burns",
+    "birth_date": "09-03-1985",
+    "birthplace": "Barrie, Canada",
+    "position": "Right Defender",
+    "team": "Carolina Hurricanes",
+    "nationality": "Canada",
+    "height": "6'5\"",
+    "description": "Dynamic right-back with offensive prowess."
+  },
+  {
+    "id": 6,
+    "last_name": "Andersen",
+    "img": "/hockey/img/players/Andersen.jpg",
+    "full_name": "Frederik Andersen",
+    "birth_date": "02-10-1989",
+    "birthplace": "Herning, Denmark",
+    "position": "Goalkeeper",
+    "team": "Carolina Hurricanes",
+    "nationality": "Denmark",
+    "height": "6'4\"",
+    "description": "Talented Danish goalkeeper with excellent reflexes."
+  }
+]

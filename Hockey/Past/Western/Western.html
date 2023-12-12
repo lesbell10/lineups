@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL Best Western Past</title>
+    <link rel="stylesheet" href="/Hockey/nhl.css">
+</head>
+
+<body>
+    <nav>
+        <div class="home">
+            <a href="/Hockey/index.html">NHL</a>
+        </div>
+        <div class="right">
+            <a href="/Hockey/Past/Eastern/Eastern.html">BEST EASTERN</a>
+            <a class="active" href="Western.html">BEST WESTERN</a>
+            <a href="../Nations/Nations.html">BEST NATIONS</a>
+        </div>
+    </nav>
+
+    <div class="label">
+        <h3>2010-20</h3>
+    </div>
+
+    <select id="yearSelector">
+        <option value="0">ANAHEIM DUCKS</option>
+        <option value="1">ARIZONA COYOTES</option>
+        <option value="2">CALGARY FLAMES</option>
+        <option value="3">CHICAGO BLACKHAWKS</option>
+        <option value="4">COLORADO AVALANCHE</option>
+        <option value="5">DALLAS STARS</option>
+        <option value="6">EDMONTON OILERS</option>
+        <option value="7">LOS ANGELES KINGS</option>
+        <option value="8">MINNESOTA WILD</option>
+        <option value="9">NASHVILLE PREDATORS</option>
+        <option value="10">SAN JOSE SHARKS</option>
+        <option value="11">ST. LOUIS BLUES</option>
+        <option value="12">VANCOUVER CANUCKS</option>
+        <option value="13">VEGAS GOLDEN KNIGHTS</option>
+        <option value="14">WINNIPEG JETS</option>
+    </select>
+    </div>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search anything...">
+        <button id="searchButton">Show All</button>
+    </div>
+    </div>
+
+    <div id="count"></div>
+    <div id="results"></div>
+    <div id="desc"></div>
+    </div>
+    </div>
+    <div class="carousel">
+        <div class="carousel-item">
+            <p id="FL"></p>
+            <img id="FL2" src="" alt="FL Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="FC"></p>
+            <img id="FC2" src="" alt="FC Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="FR"></p>
+            <img id="FR2" src="" alt="FR Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="DL"></p>
+            <img id="DL2" src="" alt="DL Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="DR"></p>
+            <img id="DR2" src="" alt="DR Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="G"></p>
+            <img id="G2" src="" alt="G Player Image">
+        </div>
+
+    </div>
+
+    <button id="backButton">&lt;</button>
+    <button id="forwardButton">></button>
+
+    <img id="smallpic" class="second" alt="Small Image">
+
+    <script src="/Hockey/Search.js"></script>
+    <script src="/Hockey/DescriptionInMainPage.js"></script>
+    <script src="Western.js"></script>
+</body>
+
+</html>

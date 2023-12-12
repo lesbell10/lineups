@@ -1,0 +1,67 @@
+*, html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img, p {
+    animation: fadeIn 1s ease;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: linear-gradient(180deg, purple 0%, gray 75%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 70px;
+    width: 100%;
+    background: purple;
+    border-bottom: 2px solid black;  
+}
+
+.background {
+    flex: 1;
+    background-image: url("3\ sports.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+a, span {
+    position: relative;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    border-left: 2px solid black;
+    padding: 2px 40px;
+}
+
+a:hover {
+    color: black;
+    transition: .5s;
+}
+
+span {
+    font-size: 47px;
+}
+
+
+.right {
+    margin-left: -400px;
+}
+
+.right:first-child {
+    border-left: none;
+}

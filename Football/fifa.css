@@ -1,0 +1,621 @@
+*, html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url("img/wallpapers/main.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    opacity:1;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    min-height: 70px;
+    width: 100%;
+    background: grey;
+    border-bottom: 2px solid white;  
+}
+
+.background {
+    flex: 1;
+    background-image: url("img/wallpapers/Messi.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    position: relative;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    border-left: 2px solid white;
+    padding: 0px 40px;
+}
+
+.left a:first-of-type {
+    border-left: none;
+}
+
+a:hover {
+    color: black;
+    transition: .5s;
+}
+
+/* a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 80px;
+    height: 2px;
+    width: 0;
+    background-color: red;
+    transition: .5s;
+}
+
+a:hover::after {
+    width: 100%;
+} */
+
+.active {
+    color: purple;
+}
+
+select, .mainbutton {
+    padding: 10px;
+    display: flex;
+    font-size: 21.5px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 2px solid black; /* Blue border */
+    width: 28%;
+    margin-top: 5px;
+    margin-left: 6%;
+    background-color: white;
+    box-shadow: -5px 5px 10px grey;
+    outline: none;
+}
+
+.mainbutton {
+    justify-content: center;
+}
+
+option {
+    font-weight: bold;
+}
+
+   .carousel { 
+    font-weight: bold;
+    font-size:25px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+
+.carousel-item {
+  flex: 0 0 100%;
+  transition: transform 0.5s;
+}
+
+.carousel-item > p {
+    color: white;
+    background-color: black;
+    font-size:22px;
+    padding: 0 .3%;
+}
+
+.carousel img {
+    height: 13%;
+    cursor: pointer;
+}
+
+#smallpic {
+    position: absolute;
+    top: 55%;
+    left: 5%;
+}
+
+.second {
+    height: 300px;
+    object-fit: contain;
+}
+
+.label, .label2 {
+    margin-top: 30px;
+    margin-left: 130px;
+    font-size: 21px;
+    color: white;
+    background-color: black; 
+    padding-left: .5%;
+    max-width: 130px;
+    text-align: center;
+}
+
+.label2 {
+    opacity: 0;
+}
+
+nav.home {
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+}
+
+.end a {
+    border-left: none;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    margin: 20px 10px;
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid black; /* Blue border */
+    border-radius: 10px 0 0 10px; /* Rounded corners on the left side */
+    outline: none; /* Remove default focus outline */
+    width: 230px; /* Width of the input */
+    box-shadow: -5px 5px 10px grey;
+}
+
+#searchButton {
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: transparent; /* Blue background */
+    color: white;
+    border: 2px solid white;
+    border-radius: 0 10px 10px 0; /* Rounded corners on the right side */
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0px 5px 10px grey;
+    font-weight: bold;
+}
+
+#searchButton:hover {
+    background-color: white; /* Blue background */
+    color: black;
+}
+
+#searchInput:focus {
+    border-color: black; /* Darker blue border */
+    border-right: 3px solid black;
+}
+
+#results {
+    padding: 10px;
+    width: 100%;
+    margin: 0 auto;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    }
+
+    #desc {
+        margin: 0 auto;
+        width: 70%;
+        display: flex;
+        justify-content: center;
+    }
+
+    
+.player-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.player {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: transparent;
+    font-weight: bold;
+    height: 540px;
+    max-width: 280px;
+    box-shadow: -5px 5px 10px black;
+    border-color: grey;
+}
+
+.bubble {
+    display: flex;
+    flex-direction: column;
+}
+
+.player-info {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: transparent;
+    font-weight: bold;
+    height: 540px;
+    max-width: 280px;
+    box-shadow: -5px 5px 10px black;
+    border-color: grey;
+}
+
+.player-info img {
+    height: 194px;
+    width: 144px;
+}
+
+.player img {
+    height: 194px;
+    width: 144px;
+}
+
+.description {
+    margin-top: 40px;
+    font-weight: bold;
+    color: black;
+    font-size: 28px;
+}
+
+#STC {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 24%; /* Updated value */;
+}
+
+#STC2 {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 11%; /* Updated value */
+}
+
+#FR {
+    position: absolute;
+    left: 83%; /* Total: 83% */
+    top: 43%; /* Updated value */
+}
+
+#FR2 {
+    position: absolute;
+    left: 83%; /* Total: 83% */
+    top: 30%; /* Updated value */
+}
+
+#AMC {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 43%; /* Updated value */
+}
+
+#AMC2 {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 30% /* Updated value */
+}
+
+#FL {
+    position: absolute;
+    left: 41%; /* Total: 41% */
+    top: 43%; /* Updated value */
+}
+
+#FL2 {
+    position: absolute;
+    left: 41%; /* Total: 41% */
+    top: 30%; /* Updated value */
+}
+
+#CMR {
+    position: absolute;
+    left: 69%; /* Total: 69% */
+    top: 60%; /* Updated value */
+}
+
+#CMR2 {
+    position: absolute;
+    left: 69%; /* Total: 69% */
+    top: 47%; /* Updated value */
+}
+
+#CML {
+    position: absolute;
+    left: 55%; /* Total: 55% */
+    top: 60%; /* Updated value */
+}
+
+#CML2 {
+    position: absolute;
+    left: 55%; /* Total: 55% */
+    top: 47%; /* Updated value */
+}
+
+#DR {
+    position: absolute;
+    left: 83%; /* Total: 83% */
+    top: 78.5%; /* Updated value */
+}
+
+#DR2 {
+    position: absolute;
+    left: 83%; /* Total: 83% */
+    top: 65.5%; /* Updated value */
+}
+
+#DCR {
+    position: absolute;
+    left: 69%; /* Total: 69% */
+    top: 78.5%; /* Updated value */
+}
+
+#DCR2 {
+    position: absolute;
+    left: 69%; /* Total: 69% */
+    top: 65.5%; /* Updated value */
+}
+
+#DCL {
+    position: absolute;
+    left: 55%; /* Total: 55% */
+    top: 78.5%; /* Updated value */
+}
+
+#DCL2 {
+    position: absolute;
+    left: 55%; /* Total: 55% */
+    top: 65.5%; /* Updated value */
+}
+
+#DL {
+    position: absolute;
+    left: 41%; /* Total: 41% */
+    top: 78.5%; /* Updated value */
+    color: whitesmoke;
+}
+
+#DL2 {
+    position: absolute;
+    left: 41%; /* Total: 41% */
+    top: 65.5%; /* Updated value */
+}
+
+#GK {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 96.5%; /* Updated value */
+}
+
+#GK2 {
+    position: absolute;
+    left: 61.75%; /* Total: 61.75% */
+    top: 83.5%; /* Updated value */
+}
+
+/* #modal1 {
+    position: absolute;
+    top: 10%;
+    left: 47.5%;
+}
+
+#modal2 {
+    position: absolute;
+    top: 30%;
+    right: 18%;
+}
+
+#modal3 {
+    position: absolute;
+    top: 30%;
+    left: 47.5%;
+}
+
+#modal4 {
+    position: absolute;
+    top: 30%;
+    left: 27%;
+}
+
+#modal5 {
+    position: absolute;
+    top: 47%;
+    right: 32%;
+}
+
+#modal6 {
+    position: absolute;
+    top: 47%;
+    right: 46%;
+}
+
+#modal7 {
+    position: absolute;
+    top: 65%;
+    right: 18%;
+}
+
+#modal8 {
+    position: absolute;
+    top: 65%;
+    right: 32%;
+}
+
+#modal9 {
+    position: absolute;
+    top: 65%;
+    right: 46%;
+}
+
+#modal10 {
+    position: absolute;
+    top: 65%;
+    left: 27%;
+}
+
+#modal11 {
+    position: absolute;
+    top: 65.5%;
+    left: 47.5%;
+} */
+
+
+#backButton,
+#forwardButton {
+    background-color: black;
+display: flex;
+justify-content: center;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 5px 15px;
+  cursor: pointer;
+  border: solid 1px white;
+  width: 3%;
+  height: 5%;
+}
+
+#backButton {
+    position: absolute;
+    left: 5%;
+    top: 35%;
+}
+
+#forwardButton {
+    position: absolute;
+    right: 5%;
+    top: 35%;
+}
+        
+@keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    .fade-in {
+        animation: fadeIn 1s ease-in-out;
+    }
+
+    @media screen and (max-width: 1600px) {
+        /* .carousel {
+            font-size: 175%;
+        } */
+    }
+
+    .modal {
+    color: black;
+    width: 13%;
+    min-height: 15%;
+    display: none;
+    position: absolute;
+    padding: 1%;
+    right: 39.5%;
+    top: 12%;
+    background-color: lime;
+    border: 1px solid white;
+    border-radius:10%;
+    z-index: 100;
+    font-size: 16px;
+}
+
+.side-modal {
+    color: black;
+    font-weight: bold;
+    width: 28%;
+    min-height: 10%;
+    display: none;
+    position: absolute;
+    padding: 1%;
+    right: 66%;
+    top: 28%;
+    background-color: lime;
+    border: 1px solid white;
+    border-radius: 20px;
+    z-index: 100;
+    font-size: 17px;
+}
+
+.line {
+    margin: 10px 0;
+    color: black;
+}
+
+img, p {
+    animation: fadeIn 1.5s ease;
+}
+
+#count {
+    margin:30px;
+}
+
+#results h1 {
+    color: black;
+}
+
+#results h2 {
+    position: absolute;
+    top: 80px;
+    left: 1375px;
+    color: black;
+}
+
+h6 {
+    font-size: 29px;
+    margin-left: 30px;
+    margin-bottom: -10px;
+    color: black;
+}
+
+input::placeholder {
+    color: black;
+    font-size: 16px;
+}
+
+#pagination {
+    text-align: center;
+    margin: 30px 0;
+}
+
+#pagination button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#pagination button:hover {
+    background-color: grey;
+    color: white;
+}
+
+.active-page {
+  background-color: black; /* Change this to your desired background color */
+  color: purple; /* Change this to your desired text color */
+}

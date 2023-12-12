@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "last_name": "C Paul",
+    "img": "/basket/img/players/CPaul.png",
+    "full_name": "Chris Paul",
+    "birth_date": "06-05-1985",
+    "birthplace": "Winston-Salem, North Carolina, USA",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "height": "6'0\"",
+    "draft": "New Orleans Hornets, Round 1, #4 overall, 2005",
+    "description": "Veteran floor general and assist maestro."
+  },
+  {
+    "id": 2,
+    "last_name": "D Wade",
+    "img": "/basket/img/players/D Wade.png",
+    "full_name": "Dwyane Wade",
+    "birth_date": "17-01-1982",
+    "birthplace": "Chicago, Illinois, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "height": "6'4\"",
+    "draft": "Miami Heat, Round 1, #5 overall, 2003",
+    "description": "Three-time NBA champion and Finals MVP."
+  },
+  {
+    "id": 3,
+    "last_name": "K Bryant",
+    "img": "/basket/img/players/K Bryant.png",
+    "full_name": "Kobe Bryant",
+    "birth_date": "23-08-1978",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "height": "6'6\"",
+    "draft": "Charlotte Hornets, Round 1, #13 overall, 1996",
+    "description": "NBA legend with five championship rings."
+  },
+  {
+    "id": 4,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "birth_date": "30-12-1984",
+    "birthplace": "Akron, Ohio, USA",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "height": "6'9\"",
+    "draft": "Cleveland Cavaliers, Round 1, #1 overall, 2003",
+    "description": "Four-time NBA champion and four-time MVP."
+  },
+  {
+    "id": 5,
+    "last_name": "D Howard",
+    "img": "/basket/img/players/D Howard.png",
+    "full_name": "Dwight Howard",
+    "birth_date": "08-12-1985",
+    "birthplace": "Atlanta, Georgia, USA",
+    "team": "Free Agent",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "height": "6'10\"",
+    "draft": "Orlando Magic, Round 1, #1 overall, 2004",
+    "description": "Three-time NBA Defensive Player of the Year."
+  }
+]

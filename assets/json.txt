@@ -1,0 +1,35 @@
+Football: 
+Update with this:
+(id start with 1), (full name), (img /football/img/players/{input}.webp), (position, like striker), team, (nationality like this: Canada), (description: 8 words) in json format
+
+
+
+
+Hockey: 
+Update with this:
+(id start with 1), (full name), (img /hockey/img/players/{input}.jpg) team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
+
+
+
+
+Basket: 
+Update with this:
+(id start with 1), (full name), (img /basket/img/players/{input}.png), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
+
+
+every player, every field, description in 8 words in json
+
+
+    const search = document.querySelector(".search-container")
+    search.style.display = "none";
+    search.style.display = "block";
+
+    Fifa pics – transfermarkt - webp
+    Nhl pics – hockey-reference - jpg
+    Nba pics – espn - png
+
+
+
+
+football:
+remove the number before the id

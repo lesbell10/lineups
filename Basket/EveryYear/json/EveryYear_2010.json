@@ -1,0 +1,67 @@
+{
+  "1": {
+    "last_name": "C Paul",
+    "img": "/basket/img/players/C Paul.png",
+    "full_name": "Chris Paul",
+    "birth_date": "06-05-1985",
+    "birthplace": "Winston-Salem, USA",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "height": "6'0\"",
+    "draft": "New Orleans Hornets, round 1, #4 overall, 2005",
+    "description": "Talented point guard with excellent court vision."
+  },
+  "2": {
+    "last_name": "D Wade",
+    "img": "/basket/img/players/D Wade.png",
+    "full_name": "Dwyane Wade",
+    "birth_date": "17-01-1982",
+    "birthplace": "Chicago, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "height": "6'4\"",
+    "draft": "Miami Heat, round 1, #5 overall, 2003",
+    "description": "Dynamic shooting guard known for clutch performances."
+  },
+  "3": {
+    "last_name": "K Bryant",
+    "img": "/basket/img/players/K Bryant.png",
+    "full_name": "Kobe Bryant",
+    "birth_date": "23-08-1978",
+    "birthplace": "Philadelphia, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "height": "6'6\"",
+    "draft": "Charlotte Hornets, round 1, #13 overall, 1996",
+    "description": "Legendary player known for scoring and competitiveness."
+  },
+  "4": {
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "birth_date": "30-12-1984",
+    "birthplace": "Akron, USA",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "height": "6'9\"",
+    "draft": "Cleveland Cavaliers, round 1, #1 overall, 2003",
+    "description": "One of the greatest basketball players of all time."
+  },
+  "5": {
+    "last_name": "K Garnett",
+    "img": "/basket/img/players/K Garnett.png",
+    "full_name": "Kevin Garnett",
+    "birth_date": "19-05-1976",
+    "birthplace": "Greenville, USA",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "height": "6'11\"",
+    "draft": "Minnesota Timberwolves, round 1, #5 overall, 1995",
+    "description": "Versatile forward/center with intense defensive skills."
+  }
+}

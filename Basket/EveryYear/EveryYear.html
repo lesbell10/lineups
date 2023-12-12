@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Every Year</title>
+    <link rel="stylesheet" href="/Basket/nba.css">
+</head>
+
+<body>
+    <nav>
+        <div class="left">
+            <a href="/Basket/index.html">NBA</a>
+            <a class="active" href="EveryYear.html">BEST EVERY YEAR</a>
+            <a href="../Past/Past.html">2010-20</a>
+            <a href="../Present/Present.html">2023-24</a>
+        </div>
+    </nav>
+
+    <div class="mini-container">
+        <div class="combobox">
+            <div class="label">
+                <h3>2005-2024</h3>
+            </div>
+
+            <select id="yearSelector">
+                <option value="0">BEST IN 2005</option>
+                <option value="1">BEST IN 2006</option>
+                <option value="2">BEST IN 2007</option>
+                <option value="3">BEST IN 2008</option>
+                <option value="4">BEST IN 2009</option>
+                <option value="5">BEST IN 2010</option>
+                <option value="6">BEST IN 2011</option>
+                <option value="7">BEST IN 2012</option>
+                <option value="8">BEST IN 2013</option>
+                <option value="9">BEST IN 2014</option>
+                <option value="10">BEST IN 2015</option>
+                <option value="11">BEST IN 2016</option>
+                <option value="12">BEST IN 2017</option>
+                <option value="13">BEST IN 2018</option>
+                <option value="14">BEST IN 2019</option>
+                <option value="15">BEST IN 2020</option>
+                <option value="16">BEST IN 2021</option>
+                <option value="17">BEST IN 2022</option>
+                <option value="18">BEST IN 2023</option>
+                <option value="19">BEST IN 2024</option>
+            </select>
+        </div>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search anything...">
+            <button id="searchButton">Show All</button>
+        </div>
+    </div>
+    <div id="count"></div>
+    <div id="results"></div>
+    <div id="desc"></div>
+    <div id="pagination"></div>
+
+    </div>
+
+    </div>
+    <div class="carousel">
+        <div class="carousel-item">
+            <p id="PG"></p>
+            <img id="PG2" class="pimg1" src="" alt="PG Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="SG"></p>
+            <img id="SG2" class="pimg2" src="" alt="SG Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="SF"></p>
+            <img id="SF2" class="pimg3" src="" alt="SF Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="PF"></p>
+            <img id="PF2" class="pimg4" src="" alt="PF Player Image">
+        </div>
+
+        <div class="carousel-item">
+            <p id="C"></p>
+            <img id="C2" class="pimg5" src="" alt="C Player Image">
+        </div>
+
+    </div>
+
+    <button id="backButton">&lt;</button>
+    <button id="forwardButton">></button>
+
+    <img id="smallpic" class="second" alt="Small Image">
+
+    <script src="/Basket/Search.js"></script>
+    <script src="/Basket/DescriptionInMainPage.js"></script>
+    <script type="module" src="EveryYear.js"></script>
+</body>
+
+</html>
