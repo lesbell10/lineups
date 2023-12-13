@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hintz",
+        "img": "/hockey/img/players/Hintz.jpg",
+        "full_name": "Roope Hintz",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Left Winger",
+        "description": "Finnish left winger known for his speed and scoring ability with the Dallas Stars."
+    },
+    {
+        "id": 2,
+        "last_name": "Barkov",
+        "img": "/hockey/img/players/Barkov.jpg",
+        "full_name": "Aleksander Barkov",
+        "team": "Florida Panthers",
+        "nationality": "Finland",
+        "position": "Center",
+        "description": "Finnish center, a skilled two-way player and leader for the Florida Panthers."
+    },
+    {
+        "id": 3,
+        "last_name": "Rantanen",
+        "img": "/hockey/img/players/Rantanen.jpg",
+        "full_name": "Mikko Rantanen",
+        "team": "Colorado Avalanche",
+        "nationality": "Finland",
+        "position": "Right Winger",
+        "description": "Finnish right winger, known for his size and scoring prowess with the Colorado Avalanche."
+    },
+    {
+        "id": 4,
+        "last_name": "Heiskanen",
+        "img": "/hockey/img/players/Heiskanen.jpg",
+        "full_name": "Miro Heiskanen",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Left Defenseman",
+        "description": "Finnish defenseman, praised for his poise and defensive skills with the Dallas Stars."
+    },
+    {
+        "id": 5,
+        "last_name": "Lindell",
+        "img": "/hockey/img/players/Lindell.jpg",
+        "full_name": "Esa Lindell",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Right Defenseman",
+        "description": "Finnish defenseman, known for his solid defensive play and reliability with the Dallas Stars."
+    },
+    {
+        "id": 6,
+        "last_name": "Saros",
+        "img": "/hockey/img/players/Saros.jpg",
+        "full_name": "Juuse Saros",
+        "team": "Nashville Predators",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Finnish goaltender, recognized for his agility and consistency with the Nashville Predators."
+    }
+]

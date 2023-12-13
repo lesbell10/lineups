@@ -37,7 +37,7 @@ nav {
 
 a {
     position: relative;
-    font-size: 40px;
+    font-size: 38px;
     color: white;
     cursor: pointer;
     text-decoration: none;
@@ -318,13 +318,13 @@ nav.home {
 
 #PF {
     position: absolute;
-    left: 27%;               
+    left: 32%;               
     top: 88%; /* Updated value */
 }
 
 #PF2 {
     position: absolute;
-    left: 25%;                
+    left: 30%;                
     top: 65%; /* Updated value */
 }
 

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Ovechkin",
+        "img": "/hockey/img/players/Ovechkin.jpg",
+        "full_name": "Alex Ovechkin",
+        "team": "Washington Capitals",
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Russian left winger, renowned for his exceptional goal-scoring ability with the Washington Capitals."
+    },
+    {
+        "id": 2,
+        "last_name": "Kucherov",
+        "img": "/hockey/img/players/Kucherov.jpg",
+        "full_name": "Nikita Kucherov",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Center",
+        "description": "Russian center, known for his incredible skill and playmaking with the Tampa Bay Lightning."
+    },
+    {
+        "id": 3,
+        "last_name": "Panarin",
+        "img": "/hockey/img/players/Panarin.jpg",
+        "full_name": "Artemi Panarin",
+        "team": "New York Rangers",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger, famous for his offensive prowess and agility with the New York Rangers."
+    },
+    {
+        "id": 4,
+        "last_name": "Provorov",
+        "img": "/hockey/img/players/Provorov.jpg",
+        "full_name": "Ivan Provorov",
+        "team": "Philadelphia Flyers",
+        "nationality": "Russia",
+        "position": "Left Defenseman",
+        "description": "Russian defenseman, noted for his strong defensive skills and playmaking ability with the Philadelphia Flyers."
+    },
+    {
+        "id": 5,
+        "last_name": "Sergachev",
+        "img": "/hockey/img/players/Sergachev.jpg",
+        "full_name": "Mikhail Sergachev",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Right Defenseman",
+        "description": "Russian defenseman, appreciated for his physical play and offensive contributions with the Tampa Bay Lightning."
+    },
+    {
+        "id": 6,
+        "last_name": "Vasilevskiy",
+        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "full_name": "Andrei Vasilevskiy",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Russian goaltender, celebrated for his remarkable reflexes and consistency with the Tampa Bay Lightning."
+    }
+]

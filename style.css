@@ -39,7 +39,7 @@ nav {
 
 a, span {
     position: relative;
-    font-size: 40px;
+    font-size: 38px;
     color: white;
     cursor: pointer;
     text-decoration: none;
@@ -51,10 +51,6 @@ a, span {
 a:hover {
     color: black;
     transition: .5s;
-}
-
-span {
-    font-size: 47px;
 }
 
 

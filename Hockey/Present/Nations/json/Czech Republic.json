@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Necas",
+        "img": "/hockey/img/players/Necas.jpg",
+        "full_name": "Martin Necas",
+        "team": "Carolina Hurricanes",
+        "nationality": "Czech Republic",
+        "position": "Right Winger",
+        "description": "Czech right winger with speed and offensive skills for the Hurricanes."
+    },
+    {
+        "id": 2,
+        "last_name": "Hertl",
+        "img": "/hockey/img/players/Hertl.jpg",
+        "full_name": "Tomas Hertl",
+        "team": "San Jose Sharks",
+        "nationality": "Czech Republic",
+        "position": "Center",
+        "description": "Czech center known for versatility and scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Pastrnak",
+        "img": "/hockey/img/players/Pastrnak.jpg",
+        "full_name": "David Pastrnak",
+        "team": "Boston Bruins",
+        "nationality": "Czech Republic",
+        "position": "Right Winger",
+        "description": "Czech right winger and prolific scorer for the Bruins."
+    },
+    {
+        "id": 4,
+        "last_name": "Rutta",
+        "img": "/hockey/img/players/Rutta.jpg",
+        "full_name": "Jan Rutta",
+        "team": "Calgary Flames",
+        "nationality": "Czech Republic",
+        "position": "Right Defenseman",
+        "description": "Czech defenseman with a solid defensive game."
+    },
+    {
+        "id": 5,
+        "last_name": "Simek",
+        "img": "/hockey/img/players/Simek.jpg",
+        "full_name": "Radim Simek",
+        "team": "San Jose Sharks",
+        "nationality": "Czech Republic",
+        "position": "Left Defenseman",
+        "description": "Czech defenseman known for his physical play."
+    },
+    {
+        "id": 6,
+        "last_name": "Vanecek",
+        "img": "/hockey/img/players/Vanecek.jpg",
+        "full_name": "Vitek Vanecek",
+        "team": "Washington Capitals",
+        "nationality": "Czech Republic",
+        "position": "Goalie",
+        "description": "Czech goaltender with promising skills for the Capitals."
+    }
+]

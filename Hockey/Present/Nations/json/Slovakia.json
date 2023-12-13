@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Tatar",
+        "img": "/hockey/img/players/Tatar.jpg",
+        "full_name": "Tomas Tatar",
+        "team": "New Jersey Devils",
+        "nationality": "Slovakia",
+        "position": "Left Winger",
+        "description": "Slovak left winger, known for his agility and scoring touch with the New Jersey Devils."
+    },
+    {
+        "id": 2,
+        "last_name": "Ruzicka",
+        "img": "/hockey/img/players/Ruzicka.jpg",
+        "full_name": "Adam Ruzicka",
+        "team": "Calgary Flames",
+        "nationality": "Slovakia",
+        "position": "Center",
+        "description": "Slovak center, recognized for his size and skill in the offensive zone with the Calgary Flames."
+    },
+    {
+        "id": 3,
+        "last_name": "Slafkovsky",
+        "img": "/hockey/img/players/Slafkovsky.jpg",
+        "full_name": "Juraj Slafkovsky",
+        "team": "Montreal Canadiens",
+        "nationality": "Slovakia",
+        "position": "Right Winger",
+        "description": "Slovak right winger, noted for his physical presence and scoring ability, a promising talent for the Montreal Canadiens."
+    },
+    {
+        "id": 4,
+        "last_name": "Fehervary",
+        "img": "/hockey/img/players/Fehervary.jpg",
+        "full_name": "Martin Fehervary",
+        "team": "Washington Capitals",
+        "nationality": "Slovakia",
+        "position": "Left Defenseman",
+        "description": "Slovak defenseman, valued for his solid defensive play and mobility with the Washington Capitals."
+    },
+    {
+        "id": 5,
+        "last_name": "Cernak",
+        "img": "/hockey/img/players/Cernak.jpg",
+        "full_name": "Erik Cernak",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Slovakia",
+        "position": "Right Defenseman",
+        "description": "Slovak defenseman, known for his physicality and defensive reliability with the Tampa Bay Lightning."
+    },
+    {
+        "id": 6,
+        "last_name": "Halak",
+        "img": "/hockey/img/players/Halak.jpg",
+        "full_name": "Jaroslav Halak",
+        "team": "Vancouver Canucks",
+        "nationality": "Slovakia",
+        "position": "Goalie",
+        "description": "Slovak goaltender, renowned for his experience and consistency, currently with the Vancouver Canucks."
+    }
+]

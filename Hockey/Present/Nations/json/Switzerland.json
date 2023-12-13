@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Meier",
+        "img": "/hockey/img/players/Meier.jpg",
+        "full_name": "Timo Meier",
+        "team": "San Jose Sharks",
+        "nationality": "Switzerland",
+        "position": "Left Winger",
+        "description": "Swiss left winger known for his scoring ability and physical play. Plays for the San Jose Sharks in the NHL."
+    },
+    {
+        "id": 2,
+        "last_name": "Hischier",
+        "img": "/hockey/img/players/Hischier.jpg",
+        "full_name": "Nico Hischier",
+        "team": "New Jersey Devils",
+        "nationality": "Switzerland",
+        "position": "Center",
+        "description": "Swiss center, known for his playmaking skills and offensive prowess. Currently plays for the New Jersey Devils."
+    },
+    {
+        "id": 3,
+        "last_name": "Fiala",
+        "img": "/hockey/img/players/Fiala.jpg",
+        "full_name": "Kevin Fiala",
+        "team": "Minnesota Wild",
+        "nationality": "Switzerland",
+        "position": "Right Winger",
+        "description": "Swiss right winger, recognized for his quick skating and scoring touch. Represents the Minnesota Wild in the NHL."
+    },
+    {
+        "id": 4,
+        "last_name": "Josi",
+        "img": "/hockey/img/players/Josi.jpg",
+        "full_name": "Roman Josi",
+        "team": "Nashville Predators",
+        "nationality": "Switzerland",
+        "position": "Defenseman",
+        "description": "Swiss defenseman, celebrated for his defensive skills and leadership. Captain of the Nashville Predators."
+    },
+    {
+        "id": 5,
+        "last_name": "Siegenthaler",
+        "img": "/hockey/img/players/Siegenthaler.jpg",
+        "full_name": "Jonas Siegenthaler",
+        "team": "New Jersey Devils",
+        "nationality": "Switzerland",
+        "position": "Defenseman",
+        "description": "Swiss defenseman known for his solid defensive play and physicality. Plays for the New Jersey Devils."
+    },
+    {
+        "id": 6,
+        "last_name": "Genoni",
+        "img": "/hockey/img/players/Genoni.jpg",
+        "full_name": "Leonardo Genoni",
+        "team": "HC Davos",
+        "nationality": "Switzerland",
+        "position": "Goalie",
+        "description": "Swiss goaltender, renowned for his reflexes and consistency between the pipes. Active in the Swiss National League with HC Davos."
+    }
+]

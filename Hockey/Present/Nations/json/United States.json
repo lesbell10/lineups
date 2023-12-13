@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Robertson",
+        "img": "/hockey/img/players/Robertson.jpg",
+        "full_name": "Jason Robertson",
+        "team": "Dallas Stars",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, known for his scoring talent and offensive capabilities. Currently playing for the Dallas Stars."
+    },
+    {
+        "id": 2,
+        "last_name": "Matthews",
+        "img": "/hockey/img/players/Matthews.jpg",
+        "full_name": "Auston Matthews",
+        "team": "Toronto Maple Leafs",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center, renowned for his goal-scoring ability and playmaking skills. A key player for the Toronto Maple Leafs."
+    },
+    {
+        "id": 3,
+        "last_name": "M Tkachuk",
+        "img": "/hockey/img/players/M Tkachuk.jpg",
+        "full_name": "Matthew Tkachuk",
+        "team": "Calgary Flames",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger, noted for his physical play and scoring prowess. Plays for the Calgary Flames."
+    },
+    {
+        "id": 4,
+        "last_name": "Fox",
+        "img": "/hockey/img/players/Fox.jpg",
+        "full_name": "Adam Fox",
+        "team": "New York Rangers",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, celebrated for his puck-moving ability and offensive contributions. A standout player for the New York Rangers."
+    },
+    {
+        "id": 5,
+        "last_name": "McAvoy",
+        "img": "/hockey/img/players/McAvoy.jpg",
+        "full_name": "Charlie McAvoy",
+        "team": "Boston Bruins",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman known for his strong defensive play and ability to contribute offensively. Plays for the Boston Bruins."
+    },
+    {
+        "id": 6,
+        "last_name": "Hellebuyck",
+        "img": "/hockey/img/players/Hellebuyck.jpg",
+        "full_name": "Connor Hellebuyck",
+        "team": "Winnipeg Jets",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender, recognized for his consistency and impressive saves. A key player for the Winnipeg Jets."
+    }
+]

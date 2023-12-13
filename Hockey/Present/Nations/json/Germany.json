@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Stutzle",
+        "img": "/hockey/img/players/Stutzle.jpg",
+        "full_name": "Timo Stutzle",
+        "team": "Ottawa Senators",
+        "nationality": "Germany",
+        "position": "Left Winger",
+        "description": "German left winger, known for his dynamic play and offensive talent with the Ottawa Senators."
+    },
+    {
+        "id": 2,
+        "last_name": "Draisaitl",
+        "img": "/hockey/img/players/Draisaitl.jpg",
+        "full_name": "Leon Draisaitl",
+        "team": "Edmonton Oilers",
+        "nationality": "Germany",
+        "position": "Center",
+        "description": "German center, an elite scorer and playmaker for the Edmonton Oilers."
+    },
+    {
+        "id": 3,
+        "last_name": "Sturm",
+        "img": "/hockey/img/players/Sturm.jpg",
+        "full_name": "Nico Sturm",
+        "team": "San Jose Sharks",
+        "nationality": "Germany",
+        "position": "Right Winger",
+        "description": "German right winger, valued for his work ethic and versatility with the San Jose Sharks."
+    },
+    {
+        "id": 4,
+        "last_name": "Seider",
+        "img": "/hockey/img/players/Seider.jpg",
+        "full_name": "Moritz Seider",
+        "team": "Detroit Red Wings",
+        "nationality": "Germany",
+        "position": "Left Defenseman",
+        "description": "German defenseman, recognized for his physicality and defensive prowess with the Detroit Red Wings."
+    },
+    {
+        "id": 5,
+        "last_name": "Gawanke",
+        "img": "/hockey/img/players/Gawanke.jpg",
+        "full_name": "Leon Gawanke",
+        "team": "Winnipeg Jets",
+        "nationality": "Germany",
+        "position": "Right Defenseman",
+        "description": "German defenseman, known for his strong shot and solid defensive play."
+    },
+    {
+        "id": 6,
+        "last_name": "Grubauer",
+        "img": "/hockey/img/players/Grubauer.jpg",
+        "full_name": "Philipp Grubauer",
+        "team": "Seattle Kraken",
+        "nationality": "Germany",
+        "position": "Goalie",
+        "description": "German goaltender, renowned for his consistency and reflexes with the Seattle Kraken."
+    }
+]

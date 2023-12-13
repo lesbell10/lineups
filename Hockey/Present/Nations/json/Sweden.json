@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "last_name": "Pettersson",
+        "img": "/hockey/img/players/Pettersson.jpg",
+        "full_name": "Elias Pettersson",
+        "team": "Vancouver Canucks",
+        "nationality": "Swedish",
+        "position": "Forward",
+        "description": "Dynamic Swedish forward with incredible playmaking skills."
+    },
+    {
+        "id": 2,
+        "last_name": "Zibanejad",
+        "img": "/hockey/img/players/Zibanejad.jpg",
+        "full_name": "Mika Zibanejad",
+        "team": "New York Rangers",
+        "nationality": "Swedish",
+        "position": "Center",
+        "description": "Versatile center known for his scoring ability and leadership."
+    },
+    {
+        "id": 3,
+        "last_name": "Lindholm",
+        "img": "/hockey/img/players/Lindholm.jpg",
+        "full_name": "Erik Lindholm",
+        "team": "Calgary Flames",
+        "nationality": "Swedish",
+        "position": "Forward",
+        "description": "Crafty forward with excellent two-way play."
+    },
+    {
+        "id": 4,
+        "last_name": "Hedman",
+        "img": "/hockey/img/players/Hedman.jpg",
+        "full_name": "Victor Hedman",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Swedish",
+        "position": "Defenseman",
+        "description": "Elite defenseman with exceptional skating and defensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "E Karlsson",
+        "img": "/hockey/img/players/E Karlsson.jpg",
+        "full_name": "Erik Karlsson",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Swedish",
+        "position": "Defenseman",
+        "description": "Offensive-minded blueliner with incredible vision and puck-handling."
+    }
+]

@@ -37,6 +37,8 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
         smallpic.src = "https://cdn.countryflags.com/thumbs/canada/flag-button-round-250.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/canada.json");
     }
 
     if (selectedYear === "1") {
@@ -56,7 +58,10 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
         smallpic.src = "https://cdn.sofifa.net/meta/team/18718/240.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
     }
+
 
     if (selectedYear === "2") {
 
@@ -75,6 +80,8 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
             
         smallpic.src = "https://cdn.sofifa.net/meta/team/18570/240.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/finland.json");
     } 
     
     if (selectedYear === "3") {
@@ -94,6 +101,8 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
         smallpic.src = "https://cdn.sofifa.net/meta/team/18660/240.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/germany.json");
     }
 
     if (selectedYear === "4") {
@@ -112,7 +121,9 @@ function updatePlayerInfo() {
     DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
     G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "https://cdn.countryflags.com/thumbs/russia/flag-button-round-250.png";
+        smallpic.src = "https://cdn.countryflags.com/thumbs/russia/flag-button-round-250.png";
+        
+        MainFetchPopUp("/hockey/present/nations/json/russia.json");
 } 
 
     if (selectedYear === "5") {
@@ -132,6 +143,8 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
         
         smallpic.src = "https://cdn.sofifa.net/meta/team/18694/240.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
     }
     
     if (selectedYear === "6") {
@@ -151,6 +164,8 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
             
         smallpic.src = "https://cdn.sofifa.net/meta/team/18564/240.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/sweden.json");
     }
     
     if (selectedYear === "7") {
@@ -170,16 +185,19 @@ function updatePlayerInfo() {
 
         smallpic.src = "https://cdn.countryflags.com/thumbs/switzerland/flag-400.png";
 
+        MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
+        
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
     }
     
     if (selectedYear === "8") {
-    FL.textContent = "J. Robertson";
+    FL.textContent = "J Robertson";
     FC.textContent = "Matthews";
     FR.textContent = "M Tkachuk";
     DL.textContent = "Fox";
     DR.textContent = "McAvoy";
+    G.textContent = "Hellebuyck"
         
     FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
     FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
@@ -188,7 +206,9 @@ function updatePlayerInfo() {
     DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
     G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "https://cdn.sofifa.net/meta/team/18571/240.png";
+        smallpic.src = "https://cdn.sofifa.net/meta/team/18571/240.png";
+        
+        MainFetchPopUp("/hockey/present/nations/json/united states.json");
 }
     
     function clearAndFadeInElements() {
