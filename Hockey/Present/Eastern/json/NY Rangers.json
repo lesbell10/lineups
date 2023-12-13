@@ -25,7 +25,7 @@
     "img": "/hockey/img/players/Kreider.jpg",
     "full_name": "Chris Kreider",
     "team": "New York Rangers",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Right Winger",
     "description": "Powerful American right winger in the New York Rangers' lineup."
   },
@@ -35,7 +35,7 @@
     "img": "/hockey/img/players/Fox.jpg",
     "full_name": "Adam Fox",
     "team": "New York Rangers",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Right Defenseman",
     "description": "Promising right defenseman contributing to the New York Rangers' defense."
   },
@@ -45,7 +45,7 @@
     "img": "/hockey/img/players/K Miller.jpg",
     "full_name": "K'Andre Miller",
     "team": "New York Rangers",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Left Defenseman",
     "description": "Young left defenseman making his mark with the New York Rangers."
   },
