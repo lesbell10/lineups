@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Miller",
+        "img": "/hockey/img/players/JT Miller.jpg",
+        "full_name": "JT Miller",
+        "team": "Vancouver Canucks",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Versatile Canadian left winger for the Canucks."
+    },
+    {
+        "id": 2,
+        "last_name": "Pettersson",
+        "img": "/hockey/img/players/Pettersson.jpg",
+        "full_name": "Elias Pettersson",
+        "team": "Vancouver Canucks",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center and offensive playmaker for the Canucks."
+    },
+    {
+        "id": 3,
+        "last_name": "Kuzmenko",
+        "img": "/hockey/img/players/Kuzmenko.jpg",
+        "full_name": "Vladislav Kuzmenko",
+        "team": "Vancouver Canucks",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger with scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Q Hughes",
+        "img": "/hockey/img/players/Q Hughes.jpg",
+        "full_name": "Quinn Hughes",
+        "team": "Vancouver Canucks",
+        "nationality": "USA",
+        "position": "Left Defenseman",
+        "description": "American defenseman known for his offensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "Hronek",
+        "img": "/hockey/img/players/Hronek.jpg",
+        "full_name": "Filip Hronek",
+        "team": "Vancouver Canucks",
+        "nationality": "Czech Republic",
+        "position": "Right Defenseman",
+        "description": "Czech defenseman with strong offensive and defensive abilities."
+    },
+    {
+        "id": 6,
+        "last_name": "Demko",
+        "img": "/hockey/img/players/Demko.jpg",
+        "full_name": "Thatcher Demko",
+        "team": "Vancouver Canucks",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender known for his goaltending skills."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Kaprisov",
+        "img": "/hockey/img/players/Kaprisov.jpg",
+        "full_name": "Kirill Kaprisov",
+        "team": "Minnesota Wild",
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Talented Russian left winger for the Minnesota Wild."
+    },
+    {
+        "id": 2,
+        "last_name": "Eriksson Ek",
+        "img": "/hockey/img/players/Eriksson Ek.jpg",
+        "full_name": "Joel Eriksson Ek",
+        "team": "Minnesota Wild",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center known for his two-way play."
+    },
+    {
+        "id": 3,
+        "last_name": "Zuccarello",
+        "img": "/hockey/img/players/Zuccarello.jpg",
+        "full_name": "Mats Zuccarello",
+        "team": "Minnesota Wild",
+        "nationality": "Norway",
+        "position": "Right Winger",
+        "description": "Norwegian right winger and playmaker for the Wild."
+    },
+    {
+        "id": 4,
+        "last_name": "Brodin",
+        "img": "/hockey/img/players/Brodin.jpg",
+        "full_name": "Jonas Brodin",
+        "team": "Minnesota Wild",
+        "nationality": "Sweden",
+        "position": "Left Defenseman",
+        "description": "Swedish defenseman known for his defensive prowess."
+    },
+    {
+        "id": 5,
+        "last_name": "Spurgeon",
+        "img": "/hockey/img/players/Spurgeon.jpg",
+        "full_name": "Jared Spurgeon",
+        "team": "Minnesota Wild",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Solid Canadian defenseman and leader for the Wild."
+    },
+    {
+        "id": 6,
+        "last_name": "Gustavsson",
+        "img": "/hockey/img/players/Gustavsson.jpg",
+        "full_name": "Filip Gustavsson",
+        "team": "Minnesota Wild",
+        "nationality": "Sweden",
+        "position": "Goalie",
+        "description": "Young Swedish goaltender with potential."
+    }
+]

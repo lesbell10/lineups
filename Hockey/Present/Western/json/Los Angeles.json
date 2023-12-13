@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "last_name": "Fiala",
+        "img": "/hockey/img/players/Fiala.jpg",
+        "full_name": "Kevin Fiala",
+        "team": "Los Angeles Kings",
+        "nationality": "Switzerland",
+        "position": "Left Winger",
+        "description": "Swiss left winger known for his offensive abilities."
+    },
+    {
+        "id": 2,
+        "last_name": "Kopitar",
+        "img": "/hockey/img/players/Kopitar.jpg",
+        "full_name": "Anze Kopitar",
+        "team": "Los Angeles Kings",
+        "nationality": "Slovenia",
+        "position": "Center",
+        "description": "Slovenian center and captain of the Los Angeles Kings."
+    },
+    {
+        "id": 3,
+        "last_name": "Doughty",
+        "img": "/hockey/img/players/Doughty.jpg",
+        "full_name": "Drew Doughty",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Canadian defenseman with strong offensive and defensive skills."
+    },
+    {
+        "id": 4,
+        "last_name": "M Anderson",
+        "img": "/hockey/img/players/M Anderson.jpg",
+        "full_name": "Mikey Anderson",
+        "team": "Los Angeles Kings",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "Young American right winger with potential."
+    },
+    {
+        "id": 5,
+        "last_name": "C Talbot",
+        "img": "/hockey/img/players/C Talbot.jpg",
+        "full_name": "Cam Talbot",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Goaltender known for his solid netminding skills."
+    }
+]

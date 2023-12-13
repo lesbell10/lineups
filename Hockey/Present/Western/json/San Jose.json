@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hertl",
+        "img": "/hockey/img/players/Hertl.jpg",
+        "full_name": "Tomas Hertl",
+        "team": "San Jose Sharks",
+        "nationality": "Czech Republic",
+        "position": "Left Winger",
+        "description": "Czech left winger known for his versatility and skill."
+    },
+    {
+        "id": 2,
+        "last_name": "Couture",
+        "img": "/hockey/img/players/Couture.jpg",
+        "full_name": "Logan Couture",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center and captain of the San Jose Sharks."
+    },
+    {
+        "id": 3,
+        "last_name": "Duclair",
+        "img": "/hockey/img/players/Duclair.jpg",
+        "full_name": "Anthony Duclair",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger known for his offensive abilities."
+    },
+    {
+        "id": 4,
+        "last_name": "Vlasic",
+        "img": "/hockey/img/players/Vlasic.jpg",
+        "full_name": "Marc-Edouard Vlasic",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Solid Canadian defenseman for the San Jose Sharks."
+    },
+    {
+        "id": 5,
+        "last_name": "Ferraro",
+        "img": "/hockey/img/players/Ferraro.jpg",
+        "full_name": "Mario Ferraro",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Young Canadian defenseman known for his hustle and work ethic."
+    },
+    {
+        "id": 6,
+        "last_name": "Kahkonen",
+        "img": "/hockey/img/players/Kahkonen.jpg",
+        "full_name": "Kaapo Kahkonen",
+        "team": "San Jose Sharks",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Finnish goaltender with promising skills for the Sharks."
+    }
+]

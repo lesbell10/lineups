@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Landeskog",
+        "img": "/hockey/img/players/Landeskog.jpg",
+        "full_name": "Gabriel Landeskog",
+        "team": "Colorado Avalanche",
+        "nationality": "Sweden",
+        "position": "Left Winger",
+        "description": "Swedish left winger and captain of the Colorado Avalanche."
+    },
+    {
+        "id": 2,
+        "last_name": "MacKinnon",
+        "img": "/hockey/img/players/MacKinnon.jpg",
+        "full_name": "Nathan MacKinnon",
+        "team": "Colorado Avalanche",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Elite Canadian center and star player for the Avalanche."
+    },
+    {
+        "id": 3,
+        "last_name": "Rantanen",
+        "img": "/hockey/img/players/Rantanen.jpg",
+        "full_name": "Mikko Rantanen",
+        "team": "Colorado Avalanche",
+        "nationality": "Finland",
+        "position": "Right Winger",
+        "description": "Finnish right winger known for his scoring and playmaking."
+    },
+    {
+        "id": 4,
+        "last_name": "Makar",
+        "img": "/hockey/img/players/Makar.jpg",
+        "full_name": "Cale Makar",
+        "team": "Colorado Avalanche",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Young defenseman with offensive prowess for the Avalanche."
+    },
+    {
+        "id": 5,
+        "last_name": "D Toews",
+        "img": "/hockey/img/players/D Toews.jpg",
+        "full_name": "Devon Toews",
+        "team": "Colorado Avalanche",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Solid two-way defenseman for the Colorado Avalanche."
+    },
+    {
+        "id": 6,
+        "last_name": "Georgiev",
+        "img": "/hockey/img/players/Georgiev.jpg",
+        "full_name": "Alexandar Georgiev",
+        "team": "Colorado Avalanche",
+        "nationality": "Bulgaria",
+        "position": "Goalie",
+        "description": "Goaltender known for his agility and quick reflexes."
+    }
+]

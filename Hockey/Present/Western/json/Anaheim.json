@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Killorn",
+        "img": "/hockey/img/players/Killorn.jpg",
+        "full_name": "Alex Killorn",
+        "team": "Anaheim Ducks",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Versatile forward with scoring touch and physical play."
+    },
+    {
+        "id": 2,
+        "last_name": "Zegras",
+        "img": "/hockey/img/players/Zegras.jpg",
+        "full_name": "Trevor Zegras",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Young center with elite playmaking skills and offensive potential."
+    },
+    {
+        "id": 3,
+        "last_name": "Terry",
+        "img": "/hockey/img/players/Terry.jpg",
+        "full_name": "Troy Terry",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "Scoring winger known for his offensive contributions."
+    },
+    {
+        "id": 4,
+        "last_name": "Drysdale",
+        "img": "/hockey/img/players/Drysdale.jpg",
+        "full_name": "Jamie Drysdale",
+        "team": "Anaheim Ducks",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Young defenseman with great puck-moving skills and potential."
+    },
+    {
+        "id": 5,
+        "last_name": "Fowler",
+        "img": "/hockey/img/players/Fowler.jpg",
+        "full_name": "Cam Fowler",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Left Defenseman",
+        "description": "Veteran defenseman with strong two-way play and leadership."
+    },
+    {
+        "id": 6,
+        "last_name": "Gibson",
+        "img": "/hockey/img/players/Gibson.jpg",
+        "full_name": "John Gibson",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "Goaltender with outstanding reflexes and netminding skills."
+    }
+]

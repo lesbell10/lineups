@@ -3,11 +3,11 @@
     "id": 1,
     "last_name": "Suarez",
     "img": "/football/img/players/Suarez.webp",
-    "full_name": "Luis Alberto Suarez Diaz",
+    "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
     "birthplace": "Salto, Uruguay",
     "position": "Striker",
-    "team": "Unknown",
+    "team": "Gremio",
     "nationality": "Uruguay",
     "height": "6'0\"",
     "description": "Talented striker with a deadly goal-scoring instinct."
@@ -20,7 +20,7 @@
     "birth_date": "24-06-1987",
     "birthplace": "Rosario, Argentina",
     "position": "Forward",
-    "team": "Unknown",
+    "team": "Inter Miami",
     "nationality": "Argentina",
     "height": "5'7\"",
     "description": "One of the greatest footballers of all time."
@@ -33,7 +33,7 @@
     "birth_date": "28-06-1991",
     "birthplace": "Drongen, Belgium",
     "position": "Central Midfielder",
-    "team": "Unknown",
+    "team": "Man City",
     "nationality": "Belgium",
     "height": "6'2\"",
     "description": "Creative midfielder with exceptional passing abilities."
@@ -46,7 +46,7 @@
     "birth_date": "05-02-1985",
     "birthplace": "Funchal, Portugal",
     "position": "Forward",
-    "team": "Unknown",
+    "team": "Al Nassr",
     "nationality": "Portugal",
     "height": "6'2\"",
     "description": "Prolific goal scorer and a football icon."
@@ -59,7 +59,7 @@
     "birth_date": "09-09-1985",
     "birthplace": "Zadar, Croatia",
     "position": "Central Midfielder",
-    "team": "Unknown",
+    "team": "Real Madrid",
     "nationality": "Croatia",
     "height": "5'8\"",
     "description": "Maestro in midfield, known for his playmaking skills."
@@ -72,7 +72,7 @@
     "birth_date": "16-07-1988",
     "birthplace": "Sabadell, Spain",
     "position": "Defensive Midfielder",
-    "team": "Unknown",
+    "team": "Inter Miami",
     "nationality": "Spain",
     "height": "6'2\"",
     "description": "Master of positional play in the midfield."
@@ -85,7 +85,7 @@
     "birth_date": "06-05-1983",
     "birthplace": "Juazeiro, Brazil",
     "position": "Right-back",
-    "team": "Unknown",
+    "team": "Pumas",
     "nationality": "Brazil",
     "height": "5'8\"",
     "description": "Energetic right-back with a flair for attacking play."
@@ -98,7 +98,7 @@
     "birth_date": "30-03-1986",
     "birthplace": "Camas, Spain",
     "position": "Center-back",
-    "team": "Unknown",
+    "team": "Sevilla",
     "nationality": "Spain",
     "height": "6'0\"",
     "description": "Fearless defender and a goal-scoring threat from set pieces."
@@ -111,7 +111,7 @@
     "birth_date": "08-07-1991",
     "birthplace": "Breda, Netherlands",
     "position": "Center-back",
-    "team": "Unknown",
+    "team": "Livepool",
     "nationality": "Netherlands",
     "height": "6'4\"",
     "description": "Dominant presence in defense with great aerial ability."
@@ -124,7 +124,7 @@
     "birth_date": "12-05-1988",
     "birthplace": "Rio de Janeiro, Brazil",
     "position": "Left-back",
-    "team": "Unknown",
+    "team": "Fluminense",
     "nationality": "Brazil",
     "height": "5'9\"",
     "description": "Attacking full-back known for his dribbling skills."
@@ -137,7 +137,7 @@
     "birth_date": "27-03-1986",
     "birthplace": "Gelsenkirchen, Germany",
     "position": "Goalkeeper",
-    "team": "Unknown",
+    "team": "Bayern Munich",
     "nationality": "Germany",
     "height": "6'4\"",
     "description": "World-class goalkeeper known for his shot-stopping abilities."

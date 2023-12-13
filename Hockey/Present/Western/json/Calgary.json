@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Huberdeau",
+        "img": "/hockey/img/players/Huberdeau.jpg",
+        "full_name": "Jonathan Huberdeau",
+        "team": "Calgary Flames",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Talented Canadian left winger for the Florida Panthers."
+    },
+    {
+        "id": 2,
+        "last_name": "Kadri",
+        "img": "/hockey/img/players/Kadri.jpg",
+        "full_name": "Nazem Kadri",
+        "team": "Calgary Flames",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center playing for the Colorado Avalanche."
+    },
+    {
+        "id": 3,
+        "last_name": "E Lindholm",
+        "img": "/hockey/img/players/E Lindholm.jpg",
+        "full_name": "Elias Lindholm",
+        "team": "Calgary Flames",
+        "nationality": "Sweden",
+        "position": "Right Winger",
+        "description": "Swedish right winger known for his offensive skills."
+    },
+    {
+        "id": 4,
+        "last_name": "Weegar",
+        "img": "/hockey/img/players/Weegar.jpg",
+        "full_name": "MacKenzie Weegar",
+        "team": "Calgary Flames",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Solid defenseman with offensive and defensive contributions."
+    },
+    {
+        "id": 5,
+        "last_name": "Andersson",
+        "img": "/hockey/img/players/Andersson.jpg",
+        "full_name": "Rasmus Andersson",
+        "team": "Calgary Flames",
+        "nationality": "Sweden",
+        "position": "Right Defenseman",
+        "description": "Swedish defenseman with strong two-way play."
+    },
+    {
+        "id": 6,
+        "last_name": "Markstrom",
+        "img": "/hockey/img/players/Markstrom.jpg",
+        "full_name": "Jacob Markstrom",
+        "team": "Calgary Flames",
+        "nationality": "Sweden",
+        "position": "Goalie",
+        "description": "Goaltender known for his strong netminding skills."
+    }
+]

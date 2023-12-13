@@ -7,7 +7,7 @@
     "birth_date": "17-08-1977",
     "birthplace": "Les Ulis, France",
     "position": "Striker",
-    "team": "Arsenal FC",
+    "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
     "description": "Legendary striker known for his lethal finishing."
@@ -20,7 +20,7 @@
     "birth_date": "27-09-1976",
     "birthplace": "Rome, Italy",
     "position": "Attacking Midfielder",
-    "team": "AS Roma",
+    "team": "Retired",
     "nationality": "Italy",
     "height": "6'2\"",
     "description": "Italian midfield maestro with remarkable loyalty."
@@ -33,20 +33,20 @@
     "birth_date": "23-06-1972",
     "birthplace": "Marseille, France",
     "position": "Central Midfielder",
-    "team": "Real Madrid",
+    "team": "Retired",
     "nationality": "France",
     "height": "6'1\"",
     "description": "French playmaker known for elegance on the ball."
   },
   {
     "id": 4,
-    "last_name": "Ronaldinho de Assis",
+    "last_name": "Ronaldinho",
     "img": "/football/img/players/Ronaldinho.webp",
-    "full_name": "Ronaldinho",
+    "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
     "birthplace": "Porto Alegre, Brazil",
     "position": "Forward",
-    "team": "FC Barcelona",
+    "team": "Retired",
     "nationality": "Brazil",
     "height": "5'11\"",
     "description": "Brazilian flair and creativity in the attack."
@@ -59,7 +59,7 @@
     "birth_date": "30-05-1980",
     "birthplace": "Whiston, England",
     "position": "Central Midfielder",
-    "team": "Liverpool FC",
+    "team": "Retired",
     "nationality": "England",
     "height": "6'0\"",
     "description": "Liverpool legend and midfield dynamo."
@@ -72,7 +72,7 @@
     "birth_date": "23-06-1976",
     "birthplace": "Dakar, Senegal",
     "position": "Defensive Midfielder",
-    "team": "Arsenal FC",
+    "team": "Retired",
     "nationality": "France",
     "height": "6'4\"",
     "description": "Dominant midfielder with physical presence."
@@ -84,8 +84,8 @@
     "full_name": "Lilian Thuram",
     "birth_date": "01-01-1972",
     "birthplace": "Pointe-à-Pitre, Guadeloupe",
-    "position": "Defender",
-    "team": "Juventus FC",
+    "position": "Right-Back",
+    "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
     "description": "Rock-solid defender with unmatched consistency."
@@ -97,8 +97,8 @@
     "full_name": "Alessandro Nesta",
     "birth_date": "19-03-1976",
     "birthplace": "Rome, Italy",
-    "position": "Defender",
-    "team": "AC Milan",
+    "position": "Centre-Back",
+    "team": "Retired",
     "nationality": "Italy",
     "height": "6'2\"",
     "description": "Italian center-back renowned for his defensive prowess."
@@ -110,8 +110,8 @@
     "full_name": "Lúcio Ferreira",
     "birth_date": "08-05-1978",
     "birthplace": "Planaltina, Brazil",
-    "position": "Defender",
-    "team": "Inter Milan",
+    "position": "Centre-Back",
+    "team": "Retired",
     "nationality": "Brazil",
     "height": "6'2\"",
     "description": "Brazilian defender known for his physicality."
@@ -123,8 +123,8 @@
     "full_name": "Paolo Maldini",
     "birth_date": "26-06-1968",
     "birthplace": "Milan, Italy",
-    "position": "Defender",
-    "team": "AC Milan",
+    "position": "Left-Back",
+    "team": "Retired",
     "nationality": "Italy",
     "height": "6'1\"",
     "description": "Italian legend who excelled as a versatile defender."
@@ -137,7 +137,7 @@
     "birth_date": "28-01-1978",
     "birthplace": "Carrara, Italy",
     "position": "Goalkeeper",
-    "team": "Juventus FC",
+    "team": "Retired",
     "nationality": "Italy",
     "height": "6'4\"",
     "description": "World-class Italian goalkeeper with unparalleled experience."

@@ -1,6 +1,6 @@
 [
     {
-        "id": 7,
+        "id": 1,
         "last_name": "Ovechkin",
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
@@ -10,7 +10,7 @@
         "description": "Prolific goal-scorer and captain with an incredible shot."
     },
     {
-        "id": 8,
+        "id": 2,
         "last_name": "Kuznetsov",
         "img": "/hockey/img/players/Kuznetsov.jpg",
         "full_name": "Evgeny Kuznetsov",
@@ -20,7 +20,7 @@
         "description": "Creative playmaker with excellent puck-handling and passing skills."
     },
     {
-        "id": 9,
+        "id": 3,
         "last_name": "Wilson",
         "img": "/hockey/img/players/Wilson.jpg",
         "full_name": "Tom Wilson",
@@ -30,7 +30,7 @@
         "description": "Physical forward known for his hitting and scoring ability."
     },
     {
-        "id": 10,
+        "id": 4,
         "last_name": "Carlson",
         "img": "/hockey/img/players/Carlson.jpg",
         "full_name": "John Carlson",
@@ -40,7 +40,7 @@
         "description": "Offensive defenseman with strong offensive contributions."
     },
     {
-        "id": 11,
+        "id": 5,
         "last_name": "Fehervary",
         "img": "/hockey/img/players/Fehervary.jpg",
         "full_name": "Martin Fehervary",
@@ -50,7 +50,7 @@
         "description": "Young defenseman with solid defensive skills and potential."
     },
     {
-        "id": 12,
+        "id":6,
         "last_name": "Kuemper",
         "img": "/hockey/img/players/Kuemper.jpg",
         "full_name": "Darcy Kuemper",

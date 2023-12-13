@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Maccelli",
+        "img": "/hockey/img/players/Maccelli.jpg",
+        "full_name": "Matias Maccelli",
+        "team": "Arizona Coyotes",
+        "nationality": "Finland",
+        "position": "Left Winger",
+        "description": "Talented Finnish left winger for the Arizona Coyotes."
+    },
+    {
+        "id": 2,
+        "last_name": "Schmaltz",
+        "img": "/hockey/img/players/Schmaltz.jpg",
+        "full_name": "Nick Schmaltz",
+        "team": "Arizona Coyotes",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center playing for the Arizona Coyotes."
+    },
+    {
+        "id": 3,
+        "last_name": "Keller",
+        "img": "/hockey/img/players/Keller.jpg",
+        "full_name": "Clayton Keller",
+        "team": "Arizona Coyotes",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "Young right winger known for his offensive skills."
+    },
+    {
+        "id": 4,
+        "last_name": "Dumba",
+        "img": "/hockey/img/players/Dumba.jpg",
+        "full_name": "Matt Dumba",
+        "team": "Arizona Coyotes",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Solid defenseman with offensive contributions."
+    },
+    {
+        "id": 5,
+        "last_name": "Durzi",
+        "img": "/hockey/img/players/Durzi.jpg",
+        "full_name": "Sean Durzi",
+        "team": "Arizona Coyotes",
+        "nationality": "Canada",
+        "position": "Right Defenseman",
+        "description": "Young defenseman with potential and defensive skills."
+    },
+    {
+        "id": 6,
+        "last_name": "Vejmelka",
+        "img": "/hockey/img/players/Vejmelka.jpg",
+        "full_name": "Karel Vejmelka",
+        "team": "Arizona Coyotes",
+        "nationality": "Czech Republic",
+        "position": "Goalie",
+        "description": "Goaltender with strong netminding skills for the Coyotes."
+    }
+]

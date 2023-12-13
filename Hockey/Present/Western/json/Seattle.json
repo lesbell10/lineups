@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "McCann",
+        "img": "/hockey/img/players/McCann.jpg",
+        "full_name": "Jared McCann",
+        "team": "Seattle Kraken",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger with scoring ability for the Kraken."
+    },
+    {
+        "id": 2,
+        "last_name": "Beniers",
+        "img": "/hockey/img/players/Beniers.jpg",
+        "full_name": "Matthew Beniers",
+        "team": "Seattle Kraken",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Young American center with potential for the Kraken."
+    },
+    {
+        "id": 3,
+        "last_name": "Eberle",
+        "img": "/hockey/img/players/Eberle.jpg",
+        "full_name": "Jordan Eberle",
+        "team": "Seattle Kraken",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Experienced Canadian right winger for the Kraken."
+    },
+    {
+        "id": 4,
+        "last_name": "Dunn",
+        "img": "/hockey/img/players/Dunn.jpg",
+        "full_name": "Vince Dunn",
+        "team": "Seattle Kraken",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Canadian defenseman known for his offensive play."
+    },
+    {
+        "id": 5,
+        "last_name": "A Larsson",
+        "img": "/hockey/img/players/A Larsson.jpg",
+        "full_name": "Adam Larsson",
+        "team": "Seattle Kraken",
+        "nationality": "Sweden",
+        "position": "Right Defenseman",
+        "description": "Swedish defenseman known for his defensive skills."
+    },
+    {
+        "id": 6,
+        "last_name": "Grubauer",
+        "img": "/hockey/img/players/Grubauer.jpg",
+        "full_name": "Philipp Grubauer",
+        "team": "Seattle Kraken",
+        "nationality": "Germany",
+        "position": "Goalie",
+        "description": "German goaltender known for his netminding abilities."
+    }
+]

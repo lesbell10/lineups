@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Connor",
+        "img": "/hockey/img/players/Connor.jpg",
+        "full_name": "Kyle Connor",
+        "team": "Winnipeg Jets",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger known for his goal-scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Scheifele",
+        "img": "/hockey/img/players/Scheifele.jpg",
+        "full_name": "Mark Scheifele",
+        "team": "Winnipeg Jets",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center and offensive powerhouse for the Jets."
+    },
+    {
+        "id": 3,
+        "last_name": "Ehlers",
+        "img": "/hockey/img/players/Ehlers.jpg",
+        "full_name": "Nikolaj Ehlers",
+        "team": "Winnipeg Jets",
+        "nationality": "Denmark",
+        "position": "Right Winger",
+        "description": "Danish right winger known for his speed and skill."
+    },
+    {
+        "id": 4,
+        "last_name": "Morrissey",
+        "img": "/hockey/img/players/Morrissey.jpg",
+        "full_name": "Josh Morrissey",
+        "team": "Winnipeg Jets",
+        "nationality": "Canada",
+        "position": "Left Defenseman",
+        "description": "Canadian defenseman with a strong two-way game."
+    },
+    {
+        "id": 5,
+        "last_name": "Pionk",
+        "img": "/hockey/img/players/Pionk.jpg",
+        "full_name": "Neal Pionk",
+        "team": "Winnipeg Jets",
+        "nationality": "USA",
+        "position": "Right Defenseman",
+        "description": "American defenseman known for his offensive contributions."
+    },
+    {
+        "id": 6,
+        "last_name": "Hellebuyck",
+        "img": "/hockey/img/players/Hellebuyck.jpg",
+        "full_name": "Connor Hellebuyck",
+        "team": "Winnipeg Jets",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender and Vezina Trophy winner."
+    }
+]

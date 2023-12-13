@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hall",
+        "img": "/hockey/img/players/Hall.jpg",
+        "full_name": "Taylor Hall",
+        "team": "Chicago Blackhawks",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Talented Canadian left winger for the Buffalo Sabres."
+    },
+    {
+        "id": 2,
+        "last_name": "Bedard",
+        "img": "/hockey/img/players/Bedard.jpg",
+        "full_name": "Connor Bedard",
+        "team": "Chicago Blackhawks",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Young Canadian center with immense potential."
+    },
+    {
+        "id": 3,
+        "last_name": "Raddysh",
+        "img": "/hockey/img/players/Raddysh.jpg",
+        "full_name": "Taylor Raddysh",
+        "team": "Chicago Blackhawks",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger known for offensive contributions."
+    },
+    {
+        "id": 4,
+        "last_name": "S Jones",
+        "img": "/hockey/img/players/S Jones.jpg",
+        "full_name": "Seth Jones",
+        "team": "Chicago Blackhawks",
+        "nationality": "USA",
+        "position": "Right Defenseman",
+        "description": "Solid defenseman with offensive and defensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "C Murphy",
+        "img": "/hockey/img/players/C Murphy.jpg",
+        "full_name": "Connor Murphy",
+        "team": "Chicago Blackhawks",
+        "nationality": "USA",
+        "position": "Right Defenseman",
+        "description": "Defenseman known for his physical play and shot-blocking."
+    },
+    {
+        "id": 6,
+        "last_name": "Mrazek",
+        "img": "/hockey/img/players/Mrazek.jpg",
+        "full_name": "Petr Mrazek",
+        "team": "Chicago Blackhawks",
+        "nationality": "Czech Republic",
+        "position": "Goalie",
+        "description": "Goaltender with agility and strong netminding skills."
+    }
+]
