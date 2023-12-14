@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Ovechkin",
+        "img": "/hockey/img/players/Ovechkin.jpg",
+        "full_name": "Alex Ovechkin",
+        "team": "Washington Capitals",
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Russian left winger, one of the greatest goal scorers."
+    },
+    {
+        "id": 2,
+        "last_name": "Backstrom",
+        "img": "/hockey/img/players/Backstrom.jpg",
+        "full_name": "Nicklas Backstrom",
+        "team": "Washington Capitals",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center, known for his playmaking skills."
+    },
+    {
+        "id": 3,
+        "last_name": "Kuznetsov",
+        "img": "/hockey/img/players/Kuznetsov.jpg",
+        "full_name": "Evgeny Kuznetsov",
+        "team": "Washington Capitals",
+        "nationality": "Russia",
+        "position": "Center",
+        "description": "Russian center, skilled playmaker and scorer."
+    },
+    {
+        "id": 4,
+        "last_name": "Carlson",
+        "img": "/hockey/img/players/Carlson.jpg",
+        "full_name": "John Carlson",
+        "team": "Washington Capitals",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, key contributor on defense."
+    },
+    {
+        "id": 5,
+        "last_name": "M Green",
+        "img": "/hockey/img/players/M Green.jpg",
+        "full_name": "Mike Green",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, former Capitals star."
+    },
+    {
+        "id": 6,
+        "last_name": "Holtby",
+        "img": "/hockey/img/players/Holtby.jpg",
+        "full_name": "Braden Holtby",
+        "team": "Free Agent",
+        "nationality": "Canada",
+        "position": "Goaltender",
+        "description": "Canadian goaltender, former Capitals star."
+    }
+]

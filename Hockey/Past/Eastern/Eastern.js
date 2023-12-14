@@ -190,6 +190,7 @@ function updatePlayerInfo() {
         FC.textContent = "Backstrom";
         FR.textContent = "Kuznetsov";
         DL.textContent = "Carlson";
+        DR.textContent = "Green";
         G.textContent = "Holtby";
 
         smallpic.src = "/hockey/img/logos/washington.gif";

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "St Louis",
+        "img": "/hockey/img/players/St Louis.jpg",
+        "full_name": "Martin St Louis",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, former Lightning captain."
+    },
+    {
+        "id": 2,
+        "last_name": "Stamkos",
+        "img": "/hockey/img/players/Stamkos.jpg",
+        "full_name": "Steven Stamkos",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, known for his goal-scoring prowess."
+    },
+    {
+        "id": 3,
+        "last_name": "Kucherov",
+        "img": "/hockey/img/players/Kucherov.jpg",
+        "full_name": "Nikita Kucherov",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger, elite scoring talent."
+    },
+    {
+        "id": 4,
+        "last_name": "Hedman",
+        "img": "/hockey/img/players/Hedman.jpg",
+        "full_name": "Victor Hedman",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, Norris Trophy winner."
+    },
+    {
+        "id": 5,
+        "last_name": "McDonagh",
+        "img": "/hockey/img/players/McDonagh.jpg",
+        "full_name": "Ryan McDonagh",
+        "team": "Nashville Predators",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, leader on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "Vasilevskiy",
+        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "full_name": "Andrei Vasilevskiy",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Russian goaltender, one of the best in the league."
+    }
+]

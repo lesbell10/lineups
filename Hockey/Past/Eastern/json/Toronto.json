@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Tavares",
+        "img": "/hockey/img/players/Tavares.jpg",
+        "full_name": "John Tavares",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, captain of the Toronto Maple Leafs."
+    },
+    {
+        "id": 2,
+        "last_name": "Matthews",
+        "img": "/hockey/img/players/Matthews.jpg",
+        "full_name": "Auston Matthews",
+        "team": "Toronto Maple Leafs",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center, known for his goal-scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Marner",
+        "img": "/hockey/img/players/Marner.jpg",
+        "full_name": "Mitch Marner",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, playmaking specialist."
+    },
+    {
+        "id": 4,
+        "last_name": "Rielly",
+        "img": "/hockey/img/players/Rielly.jpg",
+        "full_name": "Morgan Rielly",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, key player on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Phaneuf",
+        "img": "/hockey/img/players/Phaneuf.jpg",
+        "full_name": "Dion Phaneuf",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, former Leafs captain."
+    },
+    {
+        "id": 6,
+        "last_name": "Andersen",
+        "img": "/hockey/img/players/Andersen.jpg",
+        "full_name": "Frederik Andersen",
+        "team": "Carolina Hurricanes",
+        "nationality": "Denmark",
+        "position": "Goalie",
+        "description": "Danish goaltender, backbone of the Leafs' defense."
+    }
+]

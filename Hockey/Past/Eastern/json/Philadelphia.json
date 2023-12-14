@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Giroux",
+        "img": "/hockey/img/players/Giroux.jpg",
+        "full_name": "Claude Giroux",
+        "team": "Ottawa Senators",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, captain of the Philadelphia Flyers."
+    },
+    {
+        "id": 2,
+        "last_name": "Couturier",
+        "img": "/hockey/img/players/Couturier.jpg",
+        "full_name": "Sean Couturier",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, known for defensive prowess."
+    },
+    {
+        "id": 3,
+        "last_name": "Voracek",
+        "img": "/hockey/img/players/Voracek.jpg",
+        "full_name": "Jakub Voracek",
+        "team": "Arizona Coyotes",
+        "nationality": "Czech Republic",
+        "position": "Right Winger",
+        "description": "Czech right winger, skilled playmaker."
+    },
+    {
+        "id": 4,
+        "last_name": "Timonen",
+        "img": "/hockey/img/players/Timonen.jpg",
+        "full_name": "Kimmo Timonen",
+        "team": "Retired",
+        "nationality": "Finland",
+        "position": "Defenseman",
+        "description": "Finnish defenseman, former Flyers captain."
+    },
+    {
+        "id": 5,
+        "last_name": "Provorov",
+        "img": "/hockey/img/players/Provorov.jpg",
+        "full_name": "Ivan Provorov",
+        "team": "Columbus Blue Jackets",
+        "nationality": "Russia",
+        "position": "Defenseman",
+        "description": "Russian defenseman, future star on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "Mason",
+        "img": "/hockey/img/players/Mason.jpg",
+        "full_name": "Steve Mason",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, former Flyers netminder."
+    }
+]

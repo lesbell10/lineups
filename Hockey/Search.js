@@ -85,6 +85,14 @@ Promise.all([
     loadJSON('/hockey/past/eastern/json/florida.json'),
     loadJSON('/hockey/past/eastern/json/montreal.json'),
     loadJSON('/hockey/past/eastern/json/new jersey.json'),
+    loadJSON('/hockey/past/eastern/json/ny islanders.json'),
+    loadJSON('/hockey/past/eastern/json/ny rangers.json'),
+    loadJSON('/hockey/past/eastern/json/ottawa.json'),
+    loadJSON('/hockey/past/eastern/json/philadelphia.json'),
+    loadJSON('/hockey/past/eastern/json/pittsburgh.json'),
+    loadJSON('/hockey/past/eastern/json/tampa bay.json'),
+    loadJSON('/hockey/past/eastern/json/toronto.json'),
+    loadJSON('/hockey/past/eastern/json/washington.json'),
 
 ]).then(files => {
     allPlayers = files.flat();
