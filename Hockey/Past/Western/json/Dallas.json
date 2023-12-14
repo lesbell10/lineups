@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Benn",
+        "img": "/hockey/img/players/Benn.jpg",
+        "full_name": "Jamie Benn",
+        "team": "Dallas Stars",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger, captain of the Dallas Stars."
+    },
+    {
+        "id": 2,
+        "last_name": "Seguin",
+        "img": "/hockey/img/players/Seguin.jpg",
+        "full_name": "Tyler Seguin",
+        "team": "Dallas Stars",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, skilled playmaker."
+    },
+    {
+        "id": 3,
+        "last_name": "Radulov",
+        "img": "/hockey/img/players/Radulov.jpg",
+        "full_name": "Alexander Radulov",
+        "team": "Ak Bars Kazan (Russia)",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger, known for offensive abilities."
+    },
+    {
+        "id": 4,
+        "last_name": "Klingberg",
+        "img": "/hockey/img/players/Klingberg.jpg",
+        "full_name": "John Klingberg",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, offensive threat on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Heiskanen",
+        "img": "/hockey/img/players/Heiskanen.jpg",
+        "full_name": "Miro Heiskanen",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Defenseman",
+        "description": "Finnish defenseman, rising star on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "Bishop",
+        "img": "/hockey/img/players/Bishop.jpg",
+        "full_name": "Ben Bishop",
+        "team": "Buffalo Sabres",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender, known for his size and skill."
+    }
+]

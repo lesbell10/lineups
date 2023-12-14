@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Gaudreau",
+        "img": "/hockey/img/players/Gaudreau.jpg",
+        "full_name": "Johnny Gaudreau",
+        "team": "Columbus Blue Jackets",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, known for his speed and skill."
+    },
+    {
+        "id": 2,
+        "last_name": "Monahan",
+        "img": "/hockey/img/players/Monahan.jpg",
+        "full_name": "Sean Monahan",
+        "team": "Montrel Canadiens",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, key offensive player for the Flames."
+    },
+    {
+        "id": 3,
+        "last_name": "M Tkachuk",
+        "img": "/hockey/img/players/M Tkachuk.jpg",
+        "full_name": "Matthew Tkachuk",
+        "team": "Florida Panthers",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger, known for his physical play."
+    },
+    {
+        "id": 4,
+        "last_name": "Giordano",
+        "img": "/hockey/img/players/Giordano.jpg",
+        "full_name": "Mark Giordano",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, captain of the Flames."
+    },
+    {
+        "id": 5,
+        "last_name": "Brodie",
+        "img": "/hockey/img/players/Brodie.jpg",
+        "full_name": "T.J. Brodie",
+        "team": "Calgary Flames",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, reliable presence on defense."
+    },
+    {
+        "id": 6,
+        "last_name": "Kiprusoff",
+        "img": "/hockey/img/players/Kiprusoff.jpg",
+        "full_name": "Miikka Kiprusoff",
+        "team": "San Jose Sharks",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Finnish goaltender, former Flames star and Vezina winner."
+    }
+]

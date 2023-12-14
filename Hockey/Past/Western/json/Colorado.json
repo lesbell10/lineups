@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Landeskog",
+        "img": "/hockey/img/players/Landeskog.jpg",
+        "full_name": "Gabriel Landeskog",
+        "team": "Colorado Avalanche",
+        "nationality": "Sweden",
+        "position": "Left Winger",
+        "description": "Swedish left winger, captain of the Colorado Avalanche."
+    },
+    {
+        "id": 2,
+        "last_name": "MacKinnon",
+        "img": "/hockey/img/players/MacKinnon.jpg",
+        "full_name": "Nathan MacKinnon",
+        "team": "Colorado Avalanche",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, dynamic offensive talent."
+    },
+    {
+        "id": 3,
+        "last_name": "Rantanen",
+        "img": "/hockey/img/players/Rantanen.jpg",
+        "full_name": "Mikko Rantanen",
+        "team": "Colorado Avalanche",
+        "nationality": "Finland",
+        "position": "Right Winger",
+        "description": "Finnish right winger, key offensive contributor."
+    },
+    {
+        "id": 4,
+        "last_name": "E Johnson",
+        "img": "/hockey/img/players/E Johnson.jpg",
+        "full_name": "Erik Johnson",
+        "team": "Colorado Avalanche",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, important presence on defense."
+    },
+    {
+        "id": 5,
+        "last_name": "Barrie",
+        "img": "/hockey/img/players/Barrie.jpg",
+        "full_name": "Tyson Barrie",
+        "team": "Nashville Predators",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, former Avalanche star."
+    },
+    {
+        "id": 6,
+        "last_name": "Varlamov",
+        "img": "/hockey/img/players/Varlamov.jpg",
+        "full_name": "Semyon Varlamov",
+        "team": "New York Islanders",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Russian goaltender, known for his strong goaltending."
+    }
+]

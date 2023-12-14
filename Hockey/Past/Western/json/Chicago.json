@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hossa",
+        "img": "/hockey/img/players/Hossa.jpg",
+        "full_name": "Marian Hossa",
+        "team": "Retired",
+        "nationality": "Slovakia",
+        "position": "Right Winger",
+        "description": "Slovak right winger, known for his two-way play."
+    },
+    {
+        "id": 2,
+        "last_name": "J Toews",
+        "img": "/hockey/img/players/J Toews.jpg",
+        "full_name": "Jonathan Toews",
+        "team": "Free Agent",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, captain of the Chicago Blackhawks."
+    },
+    {
+        "id": 3,
+        "last_name": "P Kane",
+        "img": "/hockey/img/players/P Kane.jpg",
+        "full_name": "Patrick Kane",
+        "team": "Detroit Red Wings",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger, known for his scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Keith",
+        "img": "/hockey/img/players/Keith.jpg",
+        "full_name": "Duncan Keith",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, key player on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Seabrook",
+        "img": "/hockey/img/players/Seabrook.jpg",
+        "full_name": "Brent Seabrook",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his physicality."
+    },
+    {
+        "id": 6,
+        "last_name": "Crawford",
+        "img": "/hockey/img/players/Crawford.jpg",
+        "full_name": "Corey Crawford",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, key part of the Blackhawks' success."
+    }
+]

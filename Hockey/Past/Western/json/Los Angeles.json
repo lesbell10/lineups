@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "D Brown",
+        "img": "/hockey/img/players/D Brown.jpg",
+        "full_name": "Dustin Brown",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, captain of the Los Angeles Kings."
+    },
+    {
+        "id": 2,
+        "last_name": "Kopitar",
+        "img": "/hockey/img/players/Kopitar.jpg",
+        "full_name": "Anze Kopitar",
+        "team": "Los Angeles Kings",
+        "nationality": "Slovenia",
+        "position": "Center",
+        "description": "Slovenian center, one of the NHL's top playmakers."
+    },
+    {
+        "id": 3,
+        "last_name": "Carter",
+        "img": "/hockey/img/players/Carter.jpg",
+        "full_name": "Jeff Carter",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, known for goal-scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Doughty",
+        "img": "/hockey/img/players/Doughty.jpg",
+        "full_name": "Drew Doughty",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, Norris Trophy winner."
+    },
+    {
+        "id": 5,
+        "last_name": "Muzzin",
+        "img": "/hockey/img/players/Muzzin.jpg",
+        "full_name": "Jake Muzzin",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, former Kings stalwart."
+    },
+    {
+        "id": 6,
+        "last_name": "Quick",
+        "img": "/hockey/img/players/Quick.jpg",
+        "full_name": "Jonathan Quick",
+        "team": "New York Rangers",
+        "nationality": "USA",
+        "position": "Goaltender",
+        "description": "American goaltender, known for his quick reflexes."
+    }
+]

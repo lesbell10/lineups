@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Rakell",
+        "img": "/hockey/img/players/Rakell.jpg",
+        "full_name": "Rickard Rakell",
+        "team": "Pittsburgh",
+        "nationality": "Sweden",
+        "position": "Left Winger",
+        "description": "Swedish left winger, known for his scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Getzlaf",
+        "img": "/hockey/img/players/Getzlaf.jpg",
+        "full_name": "Ryan Getzlaf",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, former captain of the Anaheim Ducks."
+    },
+    {
+        "id": 3,
+        "last_name": "Perry",
+        "img": "/hockey/img/players/Perry.jpg",
+        "full_name": "Corey Perry",
+        "team": "Chicago Blackhawks",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, former Ducks star."
+    },
+    {
+        "id": 4,
+        "last_name": "Fowler",
+        "img": "/hockey/img/players/Fowler.jpg",
+        "full_name": "Cam Fowler",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, key player on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "H Lindholm",
+        "img": "/hockey/img/players/H Lindholm.jpg",
+        "full_name": "Hampus Lindholm",
+        "team": "Boston Bruins",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, reliable presence on defense."
+    },
+    {
+        "id": 6,
+        "last_name": "Gibson",
+        "img": "/hockey/img/players/Gibson.jpg",
+        "full_name": "John Gibson",
+        "team": "Anaheim Ducks",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender, backbone of the Ducks' defense."
+    }
+]

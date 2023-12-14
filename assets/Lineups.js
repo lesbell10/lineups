@@ -27,7 +27,7 @@ if (selectedYear === "0") {
     GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
     smallpic.src = "";
-    
+
     MainFetchPopUp("");
 }
 
@@ -70,6 +70,6 @@ if (selectedYear === "0") {
     C2.src = "/basket/img/players/" + C.textContent + ".png";
 
     smallpic.src = "";
-    
+
     MainFetchPopUp("");
 }

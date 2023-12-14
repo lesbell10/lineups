@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Keller",
+        "img": "/hockey/img/players/Keller.jpg",
+        "full_name": "Clayton Keller",
+        "team": "Arizona Coyotes",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, known for his offensive skills."
+    },
+    {
+        "id": 2,
+        "last_name": "Doan",
+        "img": "/hockey/img/players/Doan.jpg",
+        "full_name": "Shane Doan",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, former captain of the Arizona Coyotes."
+    },
+    {
+        "id": 3,
+        "last_name": "Kessel",
+        "img": "/hockey/img/players/Kessel.jpg",
+        "full_name": "Phil Kessel",
+        "team": "Free Agent",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger, known for his scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Ekman-Larsson",
+        "img": "/hockey/img/players/Ekman-Larsson.jpg",
+        "full_name": "Oliver Ekman-Larsson",
+        "team": "Florida Panthers",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, leader on the Coyotes' blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Yandle",
+        "img": "/hockey/img/players/Yandle.jpg",
+        "full_name": "Keith Yandle",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, former Coyotes star."
+    },
+    {
+        "id": 6,
+        "last_name": "M Smith",
+        "img": "/hockey/img/players/M Smith.jpg",
+        "full_name": "Mike Smith",
+        "team": "Free Agent",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, known for his puck-handling skills."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Draisaitl",
+        "img": "/hockey/img/players/Draisaitl.jpg",
+        "full_name": "Leon Draisaitl",
+        "team": "Edmonton Oilers",
+        "nationality": "Germany",
+        "position": "Left Winger",
+        "description": "German left winger, known for his scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "McDavid",
+        "img": "/hockey/img/players/McDavid.jpg",
+        "full_name": "Connor McDavid",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, considered one of the league's best players."
+    },
+    {
+        "id": 3,
+        "last_name": "Eberle",
+        "img": "/hockey/img/players/Eberle.jpg",
+        "full_name": "Jordan Eberle",
+        "team": "Seattle Kraken",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, known for clutch goals."
+    },
+    {
+        "id": 4,
+        "last_name": "Klefbom",
+        "img": "/hockey/img/players/Klefbom.jpg",
+        "full_name": "Oscar Klefbom",
+        "team": "Free Agent",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, key player on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Nurse",
+        "img": "/hockey/img/players/Nurse.jpg",
+        "full_name": "Darnell Nurse",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, emerging star on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "C Talbot",
+        "img": "/hockey/img/players/C Talbot.jpg",
+        "full_name": "Cam Talbot",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, key part of the Oilers' netminding."
+    }
+]
