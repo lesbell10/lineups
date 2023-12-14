@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Kessel",
+        "img": "/hockey/img/players/Kessel.jpg",
+        "full_name": "Phil Kessel",
+        "team": "free agent",
+        "nationality": "American",
+        "position": "Right Winger",
+        "description": "American right winger, known for scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Matthews",
+        "img": "/hockey/img/players/Matthews.jpg",
+        "full_name": "Auston Matthews",
+        "team": "Toronto Maple Leafs",
+        "nationality": "American",
+        "position": "Center",
+        "description": "American center, goal-scoring sensation."
+    },
+    {
+        "id": 3,
+        "last_name": "P Kane",
+        "img": "/hockey/img/players/P Kane.jpg",
+        "full_name": "Patrick Kane",
+        "team": "Detroit Red Wings",
+        "nationality": "American",
+        "position": "Right Winger",
+        "description": "American right winger, known for his stickhandling."
+    },
+    {
+        "id": 4,
+        "last_name": "Suter",
+        "img": "/hockey/img/players/Suter.jpg",
+        "full_name": "Ryan Suter",
+        "team": "Dallas Stars",
+        "nationality": "American",
+        "position": "Defenseman",
+        "description": "American defenseman, reliable blueliner."
+    },
+    {
+        "id": 5,
+        "last_name": "Carlson",
+        "img": "/hockey/img/players/Carlson.jpg",
+        "full_name": "John Carlson",
+        "team": "Washington Capitals",
+        "nationality": "American",
+        "position": "Defenseman",
+        "description": "American defenseman, Norris Trophy winner."
+    },
+    {
+        "id": 6,
+        "last_name": "Quick",
+        "img": "/hockey/img/players/Quick.jpg",
+        "full_name": "Jonathan Quick",
+        "team": "New York Rangers",
+        "nationality": "American",
+        "position": "Goalie",
+        "description": "American goalie, known for his quick reflexes."
+    }
+]

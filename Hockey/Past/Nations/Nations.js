@@ -87,6 +87,7 @@ function updatePlayerInfo() {
 
     if (selectedYear === "3") {
         FL.textContent = "Rieder";
+        FC.textContent = "Draisaitl"; 
         FR.textContent = "Goc";
         DL.textContent = "Ehrhoff";
         DR.textContent = "Seidenberg";
@@ -320,6 +321,7 @@ const updateDropdown = () => {
 
     if (selectedYear === 3) {
         FL.textContent = "Rieder";
+        FC.textContent = "Draisaitl"; 
         FR.textContent = "Goc";
         DL.textContent = "Ehrhoff";
         DR.textContent = "Seidenberg";

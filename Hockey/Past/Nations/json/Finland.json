@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Laine",
+        "img": "/hockey/img/players/Laine.jpg",
+        "full_name": "Patrik Laine",
+        "team": "Columbus Blue Jackets",
+        "nationality": "Finland",
+        "position": "Right Winger",
+        "description": "Finnish right winger, known for his powerful shot."
+    },
+    {
+        "id": 2,
+        "last_name": "Barkov",
+        "img": "/hockey/img/players/Barkov.jpg",
+        "full_name": "Aleksander Barkov",
+        "team": "Florida Panthers",
+        "nationality": "Finland",
+        "position": "Center",
+        "description": "Finnish center, a two-way force for the Panthers."
+    },
+    {
+        "id": 3,
+        "last_name": "Rantanen",
+        "img": "/hockey/img/players/Rantanen.jpg",
+        "full_name": "Mikko Rantanen",
+        "team": "Colorado Avalanche",
+        "nationality": "Finland",
+        "position": "Right Winger",
+        "description": "Finnish right winger, a key part of the Avalanche's offense."
+    },
+    {
+        "id": 4,
+        "last_name": "Heiskanen",
+        "img": "/hockey/img/players/Heiskanen.jpg",
+        "full_name": "Miro Heiskanen",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Defenseman",
+        "description": "Finnish defenseman, rising star on the blue line for the Stars."
+    },
+    {
+        "id": 5,
+        "last_name": "Lindell",
+        "img": "/hockey/img/players/Lindell.jpg",
+        "full_name": "Esa Lindell",
+        "team": "Dallas Stars",
+        "nationality": "Finland",
+        "position": "Defenseman",
+        "description": "Finnish defenseman, known for his defensive skills."
+    },
+    {
+        "id": 6,
+        "last_name": "Saros",
+        "img": "/hockey/img/players/Saros.jpg",
+        "full_name": "Juuse Saros",
+        "team": "Nashville Predators",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Finnish goaltender, taking over the net for the Predators."
+    }
+]

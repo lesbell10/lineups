@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Rieder",
+        "img": "/hockey/img/players/Rieder.jpg",
+        "full_name": "Tobias Rieder",
+        "team": "Växjö Lakers (Sweden)",
+        "nationality": "Germany",
+        "position": "Left Winger",
+        "description": "German left winger, known for speed and penalty killing."
+    },
+    {
+        "id": 2,
+        "last_name": "Draisaitl",
+        "img": "/hockey/img/players/Draisaitl.jpg",
+        "full_name": "Leon Draisaitl",
+        "team": "Edmonton Oilers",
+        "nationality": "Germany",
+        "position": "Center",
+        "description": "German center, talented playmaker and goal scorer."
+    },
+    {
+        "id": 3,
+        "last_name": "Goc",
+        "img": "/hockey/img/players/Goc.jpg",
+        "full_name": "Marcel Goc",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Right Winger",
+        "description": "German right winger, versatile forward."
+    },
+    {
+        "id": 4,
+        "last_name": "Ehrhoff",
+        "img": "/hockey/img/players/Ehrhoff.jpg",
+        "full_name": "Christian Ehrhoff",
+        "team": "Krefeld Pinguine (Germany)",
+        "nationality": "Germany",
+        "position": "Defenseman",
+        "description": "German defenseman, offensive skills."
+    },
+    {
+        "id": 5,
+        "last_name": "Seidenberg",
+        "img": "/hockey/img/players/Seidenberg.jpg",
+        "full_name": "Dennis Seidenberg",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Defenseman",
+        "description": "German defenseman, solid defensive play."
+    },
+    {
+        "id": 6,
+        "last_name": "Grubauer",
+        "img": "/hockey/img/players/Grubauer.jpg",
+        "full_name": "Philipp Grubauer",
+        "team": "Seattle Kraken",
+        "nationality": "German",
+        "position": "Goalie",
+        "description": "German goaltender, known for his strong performances."
+    }
+]

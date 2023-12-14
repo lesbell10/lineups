@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Crosby",
+        "img": "/hockey/img/players/Crosby.jpg",
+        "full_name": "Sidney Crosby",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, regarded as one of the best."
+    },
+    {
+        "id": 2,
+        "last_name": "McDavid",
+        "img": "/hockey/img/players/McDavid.jpg",
+        "full_name": "Connor McDavid",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, known for speed and skill."
+    },
+    {
+        "id": 3,
+        "last_name": "J Toews",
+        "img": "/hockey/img/players/J Toews.jpg",
+        "full_name": "Jonathan Toews",
+        "team": "Free Agent",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, captain of the Chicago Blackhawks."
+    },
+    {
+        "id": 4,
+        "last_name": "Keith",
+        "img": "/hockey/img/players/Keith.jpg",
+        "full_name": "Duncan Keith",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, multiple Norris Trophy winner."
+    },
+    {
+        "id": 5,
+        "last_name": "Weber",
+        "img": "/hockey/img/players/Weber.jpg",
+        "full_name": "Shea Weber",
+        "team": "Arizona Coyotes",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his powerful shot."
+    },
+    {
+        "id": 6,
+        "last_name": "Price",
+        "img": "/hockey/img/players/Price.jpg",
+        "full_name": "Carey Price",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, one of the best in the world."
+    }
+]

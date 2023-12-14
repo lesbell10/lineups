@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hossa",
+        "img": "/hockey/img/players/Hossa.jpg",
+        "full_name": "Marian Hossa",
+        "team": "Retired",
+        "nationality": "Slovak",
+        "position": "Right Winger",
+        "description": "Slovak right winger, known for his two-way play."
+    },
+    {
+        "id": 2,
+        "last_name": "Gaborik",
+        "img": "/hockey/img/players/Gaborik.jpg",
+        "full_name": "Marian Gaborik",
+        "team": "Retired",
+        "nationality": "Slovak",
+        "position": "Right Winger",
+        "description": "Slovak right winger, known for his speed and scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Tatar",
+        "img": "/hockey/img/players/Tatar.jpg",
+        "full_name": "Tomas Tatar",
+        "team": "Colorado Avalanche",
+        "nationality": "Slovak",
+        "position": "Left Winger",
+        "description": "Slovak left winger, known for scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Chara",
+        "img": "/hockey/img/players/Chara.jpg",
+        "full_name": "Zdeno Chara",
+        "team": "Retired",
+        "nationality": "Slovak",
+        "position": "Defenseman",
+        "description": "Slovak defenseman, one of the tallest players in NHL history."
+    },
+    {
+        "id": 5,
+        "last_name": "Sekera",
+        "img": "/hockey/img/players/Sekera.jpg",
+        "full_name": "Retired",
+        "team": "Dallas Stars (formerly)",
+        "nationality": "Slovak",
+        "position": "Defenseman",
+        "description": "Slovak defenseman, known for his defensive skills."
+    },
+    {
+        "id": 6,
+        "last_name": "Halak",
+        "img": "/hockey/img/players/Halak.jpg",
+        "full_name": "Jaroslav Halak",
+        "team": "Free Agent",
+        "nationality": "Slovak",
+        "position": "Goalie",
+        "description": "Slovak goaltender, known for his quick reflexes."
+    }
+]

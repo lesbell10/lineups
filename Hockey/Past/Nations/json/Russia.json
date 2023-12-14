@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Ovechkin",
+        "img": "/hockey/img/players/Ovechkin.jpg",
+        "full_name": "Alex Ovechkin",
+        "team": "Washington Capitals",
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Russian left winger, one of the greatest goal scorers."
+    },
+    {
+        "id": 2,
+        "last_name": "Malkin",
+        "img": "/hockey/img/players/Malkin.jpg",
+        "full_name": "Evgeni Malkin",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Russia",
+        "position": "Center",
+        "description": "Russian center, skilled playmaker and goal scorer."
+    },
+    {
+        "id": 3,
+        "last_name": "Kucherov",
+        "img": "/hockey/img/players/Kucherov.jpg",
+        "full_name": "Nikita Kucherov",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger, known for his offensive prowess."
+    },
+    {
+        "id": 4,
+        "last_name": "Markov",
+        "img": "/hockey/img/players/Markov.jpg",
+        "full_name": "Andrei Markov",
+        "team": "Retired",
+        "nationality": "Russia",
+        "position": "Defenseman",
+        "description": "Russian defenseman, known for his puck-moving skills."
+    },
+    {
+        "id": 5,
+        "last_name": "Gonchar",
+        "img": "/hockey/img/players/Gonchar.jpg",
+        "full_name": "Sergei Gonchar",
+        "team": "Retired",
+        "nationality": "Russia",
+        "position": "Defenseman",
+        "description": "Russian defenseman, offensive capabilities on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "Vasilevskiy",
+        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "full_name": "Andrei Vasilevskiy",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Russian goaltender, outstanding reflexes and agility."
+    }
+]
