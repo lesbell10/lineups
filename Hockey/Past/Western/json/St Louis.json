@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Backes",
+        "img": "/hockey/img/players/Backes.jpg",
+        "full_name": "David Backes",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center, former captain of the Blues."
+    },
+    {
+        "id": 2,
+        "last_name": "O'Reilly",
+        "img": "/hockey/img/players/OReilly.jpg",
+        "full_name": "Ryan O'Reilly",
+        "team": "Nashville Predators",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, key player in the Blues' Cup win."
+    },
+    {
+        "id": 3,
+        "last_name": "Tarasenko",
+        "img": "/hockey/img/players/Tarasenko.jpg",
+        "full_name": "Vladimir Tarasenko",
+        "team": "Ottawa Senators",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger, scoring machine for the Blues."
+    },
+    {
+        "id": 4,
+        "last_name": "Pietrangelo",
+        "img": "/hockey/img/players/Pietrangelo.jpg",
+        "full_name": "Alex Pietrangelo",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, former Blues captain."
+    },
+    {
+        "id": 5,
+        "last_name": "Shattenkirk",
+        "img": "/hockey/img/players/Shattenkirk.jpg",
+        "full_name": "Kevin Shattenkirk",
+        "team": "Boston Bruins",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, offensive blue liner."
+    },
+    {
+        "id": 6,
+        "last_name": "Binnington",
+        "img": "/hockey/img/players/Binnington.jpg",
+        "full_name": "Jordan Binnington",
+        "team": "St Louis Blues",
+        "nationality": "Canada",
+        "position": "Goaltender",
+        "description": "Canadian goaltender, rookie sensation in the net."
+    }
+]

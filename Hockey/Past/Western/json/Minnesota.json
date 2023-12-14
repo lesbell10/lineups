@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Parise",
+        "img": "/hockey/img/players/Parise.jpg",
+        "full_name": "Zach Parise",
+        "team": "Free Agent",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, key offensive player."
+    },
+    {
+        "id": 2,
+        "last_name": "M Koivu",
+        "img": "/hockey/img/players/M Koivu.jpg",
+        "full_name": "Mikko Koivu",
+        "team": "Retired",
+        "nationality": "Finland",
+        "position": "Center",
+        "description": "Finnish center, longtime captain of the Wild."
+    },
+    {
+        "id": 3,
+        "last_name": "Pominville",
+        "img": "/hockey/img/players/Pominville.jpg",
+        "full_name": "Jason Pominville",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, known for scoring ability."
+    },
+    {
+        "id": 4,
+        "last_name": "Suter",
+        "img": "/hockey/img/players/Suter.jpg",
+        "full_name": "Ryan Suter",
+        "team": "Dallas Stars",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, key player on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Spurgeon",
+        "img": "/hockey/img/players/Spurgeon.jpg",
+        "full_name": "Jared Spurgeon",
+        "team": "Minnesota Wild",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his defensive skills."
+    },
+    {
+        "id": 6,
+        "last_name": "Dubnyk",
+        "img": "/hockey/img/players/Dubnyk.jpg",
+        "full_name": "Devan Dubnyk",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, solid presence in the net."
+    }
+]

@@ -64,7 +64,7 @@ Promise.all([
     loadJSON('/hockey/present/western/json/nashville.json'),
     loadJSON('/hockey/present/western/json/san jose.json'),
     loadJSON('/hockey/present/western/json/seattle.json'),
-    loadJSON('/hockey/present/western/json/seattle.json'),
+    loadJSON('/hockey/present/western/json/st louis.json'),
     loadJSON('/hockey/present/western/json/vancouver.json'),
     loadJSON('/hockey/present/western/json/vegas.json'),
     loadJSON('/hockey/present/western/json/winnipeg.json'),

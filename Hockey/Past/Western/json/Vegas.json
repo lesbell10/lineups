@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Marchessault",
+        "img": "/hockey/img/players/Marchessault.jpg",
+        "full_name": "Jonathan Marchessault",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger, key offensive player."
+    },
+    {
+        "id": 2,
+        "last_name": "W Karlsson",
+        "img": "/hockey/img/players/W Karlsson.jpg",
+        "full_name": "William Karlsson",
+        "team": "Vegas Golden Knights",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center, known for his scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Stone",
+        "img": "/hockey/img/players/Stone.jpg",
+        "full_name": "Mark Stone",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger, strong two-way player."
+    },
+    {
+        "id": 4,
+        "last_name": "Theodore",
+        "img": "/hockey/img/players/Theodore.jpg",
+        "full_name": "Shea Theodore",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, rising star on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Schmidt",
+        "img": "/hockey/img/players/Schmidt.jpg",
+        "full_name": "Nate Schmidt",
+        "team": "Vegas Golden Knights (formerly)",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, reliable on both ends."
+    },
+    {
+        "id": 6,
+        "last_name": "Fleury",
+        "img": "/hockey/img/players/Fleury.jpg",
+        "full_name": "Marc-André Fleury",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Goaltender",
+        "description": "Canadian goaltender, Stanley Cup champion."
+    }
+]

@@ -306,7 +306,7 @@ if (selectedYear === "11")
         
     smallpic.src = "/hockey/img/logos/st. louis.gif";
         
-    MainFetchPopUp("/hockey/present/western/json/st. louis.json");
+    MainFetchPopUp("/hockey/present/western/json/st louis.json");
 
 }
     if (selectedYear === "13")

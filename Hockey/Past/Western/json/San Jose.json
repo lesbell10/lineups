@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Couture",
+        "img": "/hockey/img/players/Couture.jpg",
+        "full_name": "Logan Couture",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, leader in goals for the Sharks."
+    },
+    {
+        "id": 2,
+        "last_name": "Thornton",
+        "img": "/hockey/img/players/Thornton.jpg",
+        "full_name": "Joe Thornton",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, future Hall of Famer."
+    },
+    {
+        "id": 3,
+        "last_name": "Pavelski",
+        "img": "/hockey/img/players/Pavelski.jpg",
+        "full_name": "Joe Pavelski",
+        "team": "Dallas Stars",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger, former Sharks captain."
+    },
+    {
+        "id": 4,
+        "last_name": "Burns",
+        "img": "/hockey/img/players/Burns.jpg",
+        "full_name": "Brent Burns",
+        "team": "Carolina Hurricanes",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, Norris Trophy winner."
+    },
+    {
+        "id": 5,
+        "last_name": "Vlasic",
+        "img": "/hockey/img/players/Vlasic.jpg",
+        "full_name": "Marc-Édouard Vlasic",
+        "team": "San Jose Sharks",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, key player on the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "M Jones",
+        "img": "/hockey/img/players/M Jones.jpg",
+        "full_name": "Martin Jones",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender, reliable in the net."
+    }
+]

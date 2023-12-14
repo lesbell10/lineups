@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "D Sedin",
+        "img": "/hockey/img/players/D Sedin.jpg",
+        "full_name": "Daniel Sedin",
+        "team": "Retired",
+        "nationality": "Sweden",
+        "position": "Left Winger",
+        "description": "Swedish left winger, one half of the Sedin twins."
+    },
+    {
+        "id": 2,
+        "last_name": "H Sedin",
+        "img": "/hockey/img/players/H Sedin.jpg",
+        "full_name": "Henrik Sedin",
+        "team": "Retired",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center, one half of the Sedin twins."
+    },
+    {
+        "id": 3,
+        "last_name": "Horvat",
+        "img": "/hockey/img/players/Horvat.jpg",
+        "full_name": "Bo Horvat",
+        "team": "New York Islanders",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, emerging leader for the Canucks."
+    },
+    {
+        "id": 4,
+        "last_name": "Edler",
+        "img": "/hockey/img/players/Edler.jpg",
+        "full_name": "Alexander Edler",
+        "team": "Free Agent",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, anchor on the blue line."
+    },
+    {
+        "id": 5,
+        "last_name": "Bieksa",
+        "img": "/hockey/img/players/Bieksa.jpg",
+        "full_name": "Kevin Bieksa",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for toughness."
+    },
+    {
+        "id": 6,
+        "last_name": "Luongo",
+        "img": "/hockey/img/players/Luongo.jpg",
+        "full_name": "Roberto Luongo",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Goaltender",
+        "description": "Canadian goaltender, one of the best in the league."
+    }
+]
