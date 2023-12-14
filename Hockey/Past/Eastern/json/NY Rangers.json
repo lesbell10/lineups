@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Panarin",
+        "img": "/hockey/img/players/Panarin.jpg",
+        "full_name": "Artemi Panarin",
+        "team": "New York Rangers",
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Russian left winger, elite scoring talent."
+    },
+    {
+        "id": 2,
+        "last_name": "Stepan",
+        "img": "/hockey/img/players/Stepan.jpg",
+        "full_name": "Derek Stepan",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center, known for playmaking skills."
+    },
+    {
+        "id": 3,
+        "last_name": "Zuccarello",
+        "img": "/hockey/img/players/Zuccarello.jpg",
+        "full_name": "Mats Zuccarello",
+        "team": "Minnesota Wild",
+        "nationality": "Norway",
+        "position": "Right Winger",
+        "description": "Norwegian right winger, playmaker and fan favorite."
+    },
+    {
+        "id": 4,
+        "last_name": "McDonagh",
+        "img": "/hockey/img/players/McDonagh.jpg",
+        "full_name": "Ryan McDonagh",
+        "team": "Nashville Predators",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, former Rangers captain."
+    },
+    {
+        "id": 5,
+        "last_name": "M Staal",
+        "img": "/hockey/img/players/M Staal.jpg",
+        "full_name": "Marc Staal",
+        "team": "Philadelphia Flyers",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his defensive play."
+    },
+    {
+        "id": 6,
+        "last_name": "Lundqvist",
+        "img": "/hockey/img/players/Lundqvist.jpg",
+        "full_name": "Henrik Lundqvist",
+        "team": "Retired",
+        "nationality": "Sweden",
+        "position": "Goaltender",
+        "description": "Swedish goaltender, one of the best in NHL history."
+    }
+]

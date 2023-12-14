@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "last_name": "Panarin",
+    "img": "/hockey/img/players/Panarin.jpg",
+    "full_name": "Artemi Panarin",
+    "team": "New York Rangers",
+    "nationality": "Russia",
+    "position": "Left Winger",
+    "description": "Talented Russian left winger for the New York Rangers."
+  },
+  {
+    "id": 2,
+    "last_name": "N Foligno",
+    "img": "/hockey/img/players/N Foligno.jpg",
+    "full_name": "Nick Foligno",
+    "team": "Chicago Blackhawks",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Canadian center and former captain of the Columbus Blue Jackets."
+  },
+  {
+    "id": 3,
+    "last_name": "Atkinson",
+    "img": "/hockey/img/players/Atkinson.jpg",
+    "full_name": "Cam Atkinson",
+    "team": "Philadelphia Flyers",
+    "nationality": "United States",
+    "position": "Right Winger",
+    "description": "Dynamic right winger for the Philadelphia Flyers."
+  },
+  {
+    "id": 4,
+    "last_name": "J Johnson",
+    "img": "/hockey/img/players/J Johnson.jpg",
+    "full_name": "Jack Johnson",
+    "team": "Colorado Avalanche",
+    "nationality": "United States",
+    "position": "Defenseman",
+    "description": "Experienced American left defenseman for the Colorado Avalanche."
+  },
+  {
+    "id": 5,
+    "last_name": "S Jones",
+    "img": "/hockey/img/players/S Jones.jpg",
+    "full_name": "Seth Jones",
+    "team": "Chicago Blackhawks",
+    "nationality": "United States",
+    "position": "Defenseman",
+    "description": "Talented right defenseman contributing to the Chicago Blackhawks' defense."
+  },
+  {
+    "id": 6,
+    "last_name": "Bobrovsky",
+    "img": "/hockey/img/players/Bobrovsky.jpg",
+    "full_name": "Sergei Bobrovsky",
+    "team": "Florida Panthers",
+    "nationality": "Russia",
+    "position": "Goalie",
+    "description": "Russian goaltender known for his outstanding saves with the Columbus Blue Jackets."
+  }
+]

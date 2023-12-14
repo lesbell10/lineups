@@ -1,6 +1,6 @@
 ----------------------------------------------- FOOTBALL ------------------------------------------
-[
-    {
+
+  {
     "id": 1,
     "last_name": "Henry",
     "img": "/football/img/players/Henry.webp",
@@ -8,95 +8,30 @@
     "team": "Retired",
     "nationality": "France",
     "position": "Striker",
-    "description": "Legendary striker known for his lethal finishing."
-  },
-  {
-    "id": 2,
-    "last_name": "Totti",
-    "img": "/football/img/players/Totti.webp",
-    "full_name": "Francesco Totti",
-    "team": "Retired",
-    "nationality": "Italy",
-    "position": "Attacking Midfielder",
-    "description": "Italian midfield maestro with remarkable loyalty."
+    "description": "(8 words.)"
   }
-]
 
 ----------------------------------------------- HOCKEY ------------------------------------------
 
-[
-    {
-        "id": 1,
-        "last_name" : "",
-        "img": "/hockey/img/players/{last_name}.jpg"
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "description": "8 words description.",
-    },
-    {
-        "id": 2,
-        "last_name" : "",
-        "img": "/hockey/img/players/{last_name}.jpg"
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "description": "8 words description.",
-    },
-        {
-        "id": 3,
-        "last_name" : "",
-        "img": "/hockey/img/players/{last_name}.jpg"
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "description": "8 words description.",
-    },
-    {
-        "id": 4,
-        "last_name" : "",
-        "img": "/hockey/img/players/{last_name}.jpg"
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "description": "8 words description.",
-    },
-    {
-        "id": 5,
-        "last_name" : "",
-        "img": "/hockey/img/players/{last_name}.jpg"
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "description": "8 words description.",
-    }
-]
------------------------------------------------ BASKET ------------------------------------------
-
-[
   {
     "id": 1,
-    "last_name": "Nash",
-    "img": "/basket/img/players/S Nash.png",
-    "full_name": "Steve Nash",
-    "team": "Phoenix Suns",
-    "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
-    "description": "Two-time NBA MVP and elite playmaker."
-  },
-  {
-    "id": 2,
-    "last_name": "Bryant",
-    "img": "/basket/img/players/K Bryant.png",
-    "full_name": "Kobe Bryant",
-    "team": "Los Angeles Lakers",
-    "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
-    "description": "One of the greatest scorers in NBA history."
+    "last_name" : "",
+    "img": "/hockey/img/players/{last_name}.jpg"
+    "full_name": "",
+    "team": "",
+    "nationality": "",
+    "position": "",
+    "description": "(8 words.)",
   }
-]
+----------------------------------------------- BASKET ------------------------------------------
+
+  {
+    "id": 1,
+    "last_name": "",
+    "img": "/basket/img/players/{last_name}.png",
+    "full_name": "",
+    "team": "",
+    "nationality": "",
+    "positions":,
+    "description": "(8 words.)"
+  }

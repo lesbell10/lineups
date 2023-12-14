@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Skinner",
+    "img": "/hockey/img/players/J Skinner.jpg",
+    "full_name": "Jeff Skinner",
+    "team": "Buffalo Sabres",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Dynamic Canadian left winger for the Buffalo Sabres."
+  },
+  {
+    "id": 2,
+    "last_name": "E Staal",
+    "img": "/hockey/img/players/E Staal.jpg",
+    "full_name": "Eric Staal",
+    "team": "Free Agent",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Canadian center and former captain of the Carolina Hurricanes."
+  },
+  {
+    "id": 3,
+    "last_name": "Aho",
+    "img": "/hockey/img/players/Aho.jpg",
+    "full_name": "Sebastian Aho",
+    "team": "Carolina Hurricanes",
+    "nationality": "Finland",
+    "position": "Right Winger",
+    "description": "Finnish right winger, a key player for the Carolina Hurricanes."
+  },
+  {
+    "id": 4,
+    "last_name": "Slavin",
+    "img": "/hockey/img/players/Slavin.jpg",
+    "full_name": "Jaccob Slavin",
+    "team": "Carolina Hurricanes",
+    "nationality": "United States",
+    "position": "Defenseman",
+    "description": "Solid left defenseman contributing to the Carolina Hurricanes' defense."
+  },
+  {
+    "id": 5,
+    "last_name": "Faulk",
+    "img": "/hockey/img/players/Faulk.jpg",
+    "full_name": "Justin Faulk",
+    "team": "St. Louis Blues",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Canadian right defenseman known for his defensive skills."
+  },
+  {
+    "id": 6,
+    "last_name": "C Ward",
+    "img": "/hockey/img/players/C Ward.jpg",
+    "full_name": "Cam Ward",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Goalie",
+    "description": "Former Hurricanes goalie and Stanley Cup champion."
+  }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Hall",
+        "img": "/hockey/img/players/Hall.jpg",
+        "full_name": "Taylor Hall",
+        "team": "Chicago Blackhawks",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger, former MVP, known for scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Henrique",
+        "img": "/hockey/img/players/Henrique.jpg",
+        "full_name": "Adam Henrique",
+        "team": "Anaheim Ducks",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, known for clutch playoff goals."
+    },
+    {
+        "id": 3,
+        "last_name": "Hischier",
+        "img": "/hockey/img/players/Hischier.jpg",
+        "full_name": "Nico Hischier",
+        "team": "New Jersey Devils",
+        "nationality": "Switzerland",
+        "position": "Center",
+        "description": "Swiss center, first overall pick in the NHL draft."
+    },
+    {
+        "id": 4,
+        "last_name": "A Greene",
+        "img": "/hockey/img/players/Greene.jpg",
+        "full_name": "Andy Greene",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, former Devils captain."
+    },
+    {
+        "id": 5,
+        "last_name": "Subban",
+        "img": "/hockey/img/players/Subban.jpg",
+        "full_name": "P.K. Subban",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Dynamic Canadian defenseman, known for his personality."
+    },
+    {
+        "id": 6,
+        "last_name": "Schneider",
+        "img": "/hockey/img/players/Schneider.jpg",
+        "full_name": "Cory Schneider",
+        "team": "Retired",
+        "nationality": "USA",
+        "position": "Goaltender",
+        "description": "American goaltender, known for his athleticism."
+    }
+]

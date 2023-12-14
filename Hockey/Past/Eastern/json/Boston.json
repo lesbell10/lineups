@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Marchand",
+        "img": "/hockey/img/players/Marchand.jpg",
+        "full_name": "Brad Marchand",
+        "team": "Boston Bruins",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger, known for his scoring ability and aggressive playing style. A key player for the Boston Bruins."
+    },
+    {
+        "id": 2,
+        "last_name": "Bergeron",
+        "img": "/hockey/img/players/Bergeron.jpg",
+        "full_name": "Patrice Bergeron",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, celebrated for his two-way play and leadership."
+    },
+    {
+        "id": 3,
+        "last_name": "Pastrnak",
+        "img": "/hockey/img/players/Pastrnak.jpg",
+        "full_name": "David Pastrnak",
+        "team": "Boston Bruins",
+        "nationality": "Czech Republic",
+        "position": "Right Winger",
+        "description": "Czech right winger, renowned for his excellent shooting and playmaking skills."
+    },
+    {
+        "id": 4,
+        "last_name": "Chara",
+        "img": "/hockey/img/players/Chara.jpg",
+        "full_name": "Zdeno Chara",
+        "team": "Retired",
+        "nationality": "Slovakia",
+        "position": "Defenseman",
+        "description": "Slovak defenseman, known for his towering presence and defensive prowess."
+    },
+    {
+        "id": 5,
+        "last_name": "Krug",
+        "img": "/hockey/img/players/Krug.jpg",
+        "full_name": "Torey Krug",
+        "team": "Boston Bruins",
+        "nationality": "United States",
+        "position": "Defenseman",
+        "description": "Noted for his offensive contributions from the blue line."
+    },
+    {
+        "id": 6,
+        "last_name": "Rask",
+        "img": "/hockey/img/players/Rask.jpg",
+        "full_name": "Tuukka Rask",
+        "team": "Retired",
+        "nationality": "Finland",
+        "position": "Goalie",
+        "description": "Recognized for his excellent reflexes and composure under pressure."
+    }
+]

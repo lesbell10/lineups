@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Pettersson.jpg",
         "full_name": "Elias Pettersson",
         "team": "Vancouver Canucks",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Forward",
         "description": "Dynamic Swedish forward with incredible playmaking skills."
     },
@@ -15,7 +15,7 @@
         "img": "/hockey/img/players/Zibanejad.jpg",
         "full_name": "Mika Zibanejad",
         "team": "New York Rangers",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Center",
         "description": "Versatile center known for his scoring ability and leadership."
     },
@@ -23,9 +23,9 @@
         "id": 3,
         "last_name": "Lindholm",
         "img": "/hockey/img/players/Lindholm.jpg",
-        "full_name": "Erik Lindholm",
+        "full_name": "Elias Lindholm",
         "team": "Calgary Flames",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Forward",
         "description": "Crafty forward with excellent two-way play."
     },
@@ -35,7 +35,7 @@
         "img": "/hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "team": "Tampa Bay Lightning",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Defenseman",
         "description": "Elite defenseman with exceptional skating and defensive skills."
     },
@@ -45,8 +45,19 @@
         "img": "/hockey/img/players/E Karlsson.jpg",
         "full_name": "Erik Karlsson",
         "team": "Pittsburgh Penguins",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Defenseman",
         "description": "Offensive-minded blueliner with incredible vision and puck-handling."
+    },
+    {
+        "id": 6,
+        "last_name": "Ullmark",
+        "img": "/hockey/img/players/Ullmark.jpg",
+        "full_name": "Linus Ullmark",
+        "team": "Boston Bruins",
+        "nationality": "Sweden",
+        "position": "Goaltender",
+        "description": "Swedish NHL goaltender known for strong netminding skills."
     }
+
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Pacioretty",
+        "img": "/hockey/img/players/Pacioretty.jpg",
+        "full_name": "Max Pacioretty",
+        "team": "Washington Capitals",
+        "nationality": "American",
+        "position": "Left Winger",
+        "description": "American left winger, former captain of the Montreal Canadiens."
+    },
+    {
+        "id": 2,
+        "last_name": "Tatar",
+        "img": "/hockey/img/players/Tatar.jpg",
+        "full_name": "Tomas Tatar",
+        "team": "Colorado Avalanche",
+        "nationality": "Slovak",
+        "position": "Left Winger",
+        "description": "Slovak left winger, known for scoring ability."
+    },
+    {
+        "id": 3,
+        "last_name": "Gallagher",
+        "img": "/hockey/img/players/Gallagher.jpg",
+        "full_name": "Brendan Gallagher",
+        "team": "Montreal Canadiens",
+        "nationality": "Canadian",
+        "position": "Right Winger",
+        "description": "Canadian right winger, heart and soul of the Canadiens."
+    },
+    {
+        "id": 4,
+        "last_name": "Subban",
+        "img": "/hockey/img/players/Subban.jpg",
+        "full_name": "P.K. Subban",
+        "team": "Retired",
+        "nationality": "Canadian",
+        "position": "Defenseman",
+        "description": "Dynamic Canadian defenseman, former Canadiens star."
+    },
+    {
+        "id": 5,
+        "last_name": "Weber",
+        "img": "/hockey/img/players/Weber.jpg",
+        "full_name": "Shea Weber",
+        "team": "Retired",
+        "nationality": "Canadian",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his powerful shot."
+    },
+    {
+        "id": 6,
+        "last_name": "Price",
+        "img": "/hockey/img/players/Price.jpg",
+        "full_name": "Carey Price",
+        "team": "Retired",
+        "nationality": "Canadian",
+        "position": "Goaltender",
+        "description": "Canadian goaltender, one of the best in the world."
+    }
+]

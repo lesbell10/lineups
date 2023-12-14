@@ -24,10 +24,10 @@
         "last_name": "M Tkachuk",
         "img": "/hockey/img/players/M Tkachuk.jpg",
         "full_name": "Matthew Tkachuk",
-        "team": "Calgary Flames",
+        "team": "Florida Panthers",
         "nationality": "USA",
         "position": "Right Winger",
-        "description": "American right winger, noted for his physical play and scoring prowess. Plays for the Calgary Flames."
+        "description": "American right winger, noted for his physical play and scoring prowess."
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "team": "New York Rangers",
         "nationality": "USA",
         "position": "Defenseman",
-        "description": "American defenseman, celebrated for his puck-moving ability and offensive contributions. A standout player for the New York Rangers."
+        "description": "American defenseman, celebrated for his puck-moving ability and offensive contributions"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "team": "Boston Bruins",
         "nationality": "USA",
         "position": "Defenseman",
-        "description": "American defenseman known for his strong defensive play and ability to contribute offensively. Plays for the Boston Bruins."
+        "description": "American defenseman known for his strong defensive play and ability to contribute offensively."
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "team": "Winnipeg Jets",
         "nationality": "USA",
         "position": "Goalie",
-        "description": "American goaltender, recognized for his consistency and impressive saves. A key player for the Winnipeg Jets."
+        "description": "American goaltender, recognized for his consistency and impressive saves."
     }
 ]

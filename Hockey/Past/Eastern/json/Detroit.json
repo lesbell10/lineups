@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Zetterberg",
+        "img": "/hockey/img/players/Zetterberg.jpg",
+        "full_name": "Henrik Zetterberg",
+        "team": "Retired",
+        "nationality": "Swedish",
+        "position": "Left Winger",
+        "description": "Swedish left winger, Detroit Red Wings captain, Stanley Cup winner."
+    },
+    {
+        "id": 2,
+        "last_name": "Datsyuk",
+        "img": "/hockey/img/players/Datsyuk.jpg",
+        "full_name": "Pavel Datsyuk",
+        "team": "Retired",
+        "nationality": "Russian",
+        "position": "Center",
+        "description": "Russian center, known for exceptional stickhandling and defensive play."
+    },
+    {
+        "id": 3,
+        "last_name": "Larkin",
+        "img": "/hockey/img/players/Larkin.jpg",
+        "full_name": "Dylan Larkin",
+        "team": "Detroit Red Wings",
+        "nationality": "American",
+        "position": "Center",
+        "description": "American center, known for speed and offensive abilities."
+    },
+    {
+        "id": 4,
+        "last_name": "Lidstrom",
+        "img": "/hockey/img/players/Lidstrom.jpg",
+        "full_name": "Nicklas Lidstrom",
+        "team": "Retired",
+        "nationality": "Swedish",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, one of the NHL's all-time greats."
+    },
+    {
+        "id": 5,
+        "last_name": "Kronwall",
+        "img": "/hockey/img/players/Kronwall.jpg",
+        "full_name": "Niklas Kronwall",
+        "team": "Retired",
+        "nationality": "Swedish",
+        "position": "Defenseman",
+        "description": "Swedish defenseman, known for bone-crushing hits and leadership."
+    },
+    {
+        "id": 6,
+        "last_name": "Howard",
+        "img": "/hockey/img/players/Howard.jpg",
+        "full_name": "Jimmy Howard",
+        "team": "Retired",
+        "nationality": "American",
+        "position": "Goaltender",
+        "description": "American goaltender, provided stability in the net for Detroit."
+    }
+]

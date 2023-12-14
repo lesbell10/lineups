@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "last_name": "Lee",
+        "img": "/hockey/img/players/Lee.jpg",
+        "full_name": "Anders Lee",
+        "team": "New York Islanders",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger, known for his goal-scoring ability."
+    },
+    {
+        "id": 2,
+        "last_name": "Tavares",
+        "img": "/hockey/img/players/Tavares.jpg",
+        "full_name": "John Tavares",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, former captain of the New York Islanders."
+    },
+    {
+        "id": 3,
+        "last_name": "Barzal",
+        "img": "/hockey/img/players/Barzal.jpg",
+        "full_name": "Mathew Barzal",
+        "team": "New York Islanders",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center, known for his playmaking skills."
+    },
+    {
+        "id": 4,
+        "last_name": "Leddy",
+        "img": "/hockey/img/players/Leddy.jpg",
+        "full_name": "Nick Leddy",
+        "team": "St. Louis Blues",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman, known for his speed and puck-moving abilities."
+    },
+    {
+        "id": 5,
+        "last_name": "Boychuk",
+        "img": "/hockey/img/players/Boychuk.jpg",
+        "full_name": "Johnny Boychuk",
+        "team": "Retired",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman, known for his physical play."
+    },
+    {
+        "id": 6,
+        "last_name": "Greiss",
+        "img": "/hockey/img/players/Greiss.jpg",
+        "full_name": "Thomas Greiss",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Goaltender",
+        "description": "German goaltender, known for his solid netminding."
+    }
+]
