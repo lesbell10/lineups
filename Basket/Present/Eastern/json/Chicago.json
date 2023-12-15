@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "Lo Ball",
+    "img": "/basket/img/players/Lo Ball.png",
+    "full_name": "Lonzo Ball",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Talented guard known for his playmaking skills."
+  },
+  {
+    "id": 2,
+    "last_name": "Z LaVine",
+    "img": "/basket/img/players/Z LaVine.png",
+    "full_name": "Zach LaVine",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "High-scoring guard with athleticism and versatility."
+  },
+  {
+    "id": 3,
+    "last_name": "A Caruso",
+    "img": "/basket/img/players/A Caruso.png",
+    "full_name": "Alex Caruso",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Defensive-minded guard known for his hustle."
+  },
+  {
+    "id": 4,
+    "last_name": "D DeRozan",
+    "img": "/basket/img/players/D DeRozan.png",
+    "full_name": "DeMar DeRozan",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Veteran scorer with a mid-range game."
+  },
+  {
+    "id": 5,
+    "last_name": "N Vucevic",
+    "img": "/basket/img/players/N Vucevic.png",
+    "full_name": "Nikola Vucevic",
+    "team": "Chicago Bulls",
+    "nationality": "Montenegro",
+    "positions": ["Center", "Power Forward"],
+    "description": "Skilled big man with scoring and rebounding ability."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Haliburton",
+    "img": "/basket/img/players/T Haliburton.png",
+    "full_name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Young guard with excellent court vision."
+  },
+  {
+    "id": 2,
+    "last_name": "B Brown",
+    "img": "/basket/img/players/B Brown.png",
+    "full_name": "Bruce Brown",
+    "team": "Indiana Pacers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile player known for his hustle and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "B Hield",
+    "img": "/basket/img/players/B Hield.png",
+    "full_name": "Buddy Hield",
+    "team": "Indiana Pacers",
+    "nationality": "Bahamas",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Sharpshooter with a deadly three-point shot."
+  },
+  {
+    "id": 4,
+    "last_name": "B Mathurin",
+    "img": "/basket/img/players/B Mathurin.png",
+    "full_name": "Bennedict Mathurin",
+    "team": "Indiana Pacers",
+    "nationality": "Canada",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Emerging talent with all-around skills."
+  },
+  {
+    "id": 5,
+    "last_name": "M Turner",
+    "img": "/basket/img/players/M Turner.png",
+    "full_name": "Myles Turner",
+    "team": "Indiana Pacers",
+    "nationality": "USA",
+    "positions": ["Center", "Power Forward"],
+    "description": "Elite shot-blocker and rim protector."
+  }
+]

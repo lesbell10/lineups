@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Herro",
+    "img": "/basket/img/players/T Herro.png",
+    "full_name": "Tyler Herro",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Young guard known for his scoring and shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "C Martin",
+    "img": "/basket/img/players/C Martin.png",
+    "full_name": "Caleb Martin",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Energetic player known for hustle and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his leadership."
+  },
+  {
+    "id": 4,
+    "last_name": "D Robinson",
+    "img": "/basket/img/players/D Robinson.png",
+    "full_name": "Duncan Robinson",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Sharpshooter with a lethal three-point shot."
+  },
+  {
+    "id": 5,
+    "last_name": "B Adebayo",
+    "img": "/basket/img/players/B Adebayo.png",
+    "full_name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Center", "Power Forward"],
+    "description": "Versatile big man known for his defensive skills."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Jones",
+    "img": "/basket/img/players/T Jones.png",
+    "full_name": "Tyrese Jones",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Point guard known for his ball-handling and defense."
+  },
+  {
+    "id": 2,
+    "last_name": "J Poole",
+    "img": "/basket/img/players/J Poole.png",
+    "full_name": "Jordan Poole",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring guard with a promising future."
+  },
+  {
+    "id": 3,
+    "last_name": "K Kuzma",
+    "img": "/basket/img/players/K Kuzma.png",
+    "full_name": "Kyle Kuzma",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Forward known for his scoring ability."
+  },
+  {
+    "id": 4,
+    "last_name": "D Avdija",
+    "img": "/basket/img/players/D Avdija.png",
+    "full_name": "Deni Avdija",
+    "team": "Washington Wizards",
+    "nationality": "Israel",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Young forward with potential and versatility."
+  },
+  {
+    "id": 5,
+    "last_name": "D Gallinari",
+    "img": "/basket/img/players/D Gallinari.png",
+    "full_name": "Danilo Gallinari",
+    "team": "Washington Wizards",
+    "nationality": "Italy",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Veteran forward known for his scoring."
+  }
+]

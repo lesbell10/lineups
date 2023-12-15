@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "S Dinwiddie",
+    "img": "/basket/img/players/S Dinwiddie.png",
+    "full_name": "Spencer Dinwiddie",
+    "team": "Brooklyn Nets",
+    "nationality": "United States",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Dynamic guard for the Brooklyn Nets, known for clutch plays."
+  },
+  {
+    "id": 6,
+    "last_name": "M Bridges",
+    "img": "/basket/img/players/Mik Bridges.png",
+    "full_name": "Mikal Bridges",
+    "team": "Brooklyn Nets",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Versatile forward with strong defensive skills."
+  },
+  {
+    "id": 3,
+    "last_name": "C Thomas",
+    "img": "/basket/img/players/C Thomas.png",
+    "full_name": "Cameron Thomas",
+    "team": "Brooklyn Nets",
+    "nationality": "United States",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Young talent on the Brooklyn Nets, a scoring machine."
+  },
+  {
+    "id": 4,
+    "last_name": "C Johnson",
+    "img": "/basket/img/players/C Johnson.png",
+    "full_name": "Cameron Johnson",
+    "team": "Brooklyn Nets",
+    "nationality": "United States",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Versatile forward for the Phoenix Suns, a three-point specialist."
+  },
+  {
+    "id": 5,
+    "last_name": "N Claxton",
+    "img": "/basket/img/players/N Claxton.png",
+    "full_name": "Nicolas Claxton",
+    "team": "Brooklyn Nets",
+    "nationality": "United States",
+    "positions": ["Center", "Power Forward"],
+    "description": "Rising star on the Brooklyn Nets, a shot-blocking presence."
+  }
+]

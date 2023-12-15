@@ -55,7 +55,7 @@ function updatePlayerInfo() {
 
     if (selectedYear === "2") {
         PG.textContent = "S Dinwiddie";
-        SG.textContent = "M Bridges";
+        SG.textContent = "Mik Bridges";
         SF.textContent = "C Thomas";
         PF.textContent = "C Johnson";
         C.textContent = "N Claxton";

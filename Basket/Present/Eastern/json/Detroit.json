@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "C Cunningham",
+    "img": "/basket/img/players/C Cunningham.png",
+    "full_name": "Cade Cunningham",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Highly-touted rookie with versatile skills."
+  },
+  {
+    "id": 2,
+    "last_name": "J Ivey",
+    "img": "/basket/img/players/J Ivey.png",
+    "full_name": "Jaden Ivey",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Young guard known for his scoring ability."
+  },
+  {
+    "id": 3,
+    "last_name": "A Thompson",
+    "img": "/basket/img/players/A Thompson.png",
+    "full_name": "Alize Thompson",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward with defensive skills."
+  },
+  {
+    "id": 4,
+    "last_name": "Boj Bogdanovic",
+    "img": "/basket/img/players/Boj Bogdanovic.png",
+    "full_name": "Bojan Bogdanovic",
+    "team": "Detroit Pistons",
+    "nationality": "Croatia",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Scoring forward with outside shooting."
+  },
+  {
+    "id": 5,
+    "last_name": "J Duren",
+    "img": "/basket/img/players/J Duren.png",
+    "full_name": "Jalen Duren",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Young center with shot-blocking ability."
+  }
+]

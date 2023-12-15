@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Maxey",
+    "img": "/basket/img/players/T Maxey.png",
+    "full_name": "Tyrese Maxey",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Young guard with scoring ability and speed."
+  },
+  {
+    "id": 2,
+    "last_name": "OK ubre Jr",
+    "img": "/basket/img/players/K Oubre Jr.png",
+    "full_name": "Kelly Oubre Jr.",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Athletic forward known for his defensive energy."
+  },
+  {
+    "id": 3,
+    "last_name": "T Harris",
+    "img": "/basket/img/players/T Harris.png",
+    "full_name": "Tobias Harris",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward with scoring and leadership."
+  },
+  {
+    "id": 4,
+    "last_name": "KJ Martin Jr",
+    "img": "/basket/img/players/KJ Martin Jr.png",
+    "full_name": "KJ Martin Jr",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Young forward with athleticism and potential."
+  },
+  {
+    "id": 5,
+    "last_name": "J Embiid",
+    "img": "/basket/img/players/J Embiid.png",
+    "full_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "nationality": "Cameroon",
+    "positions": ["Center"],
+    "description": "MVP-caliber center known for his scoring and defense."
+  }
+]

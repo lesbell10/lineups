@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Garland",
+    "img": "/basket/img/players/D Garland.png",
+    "full_name": "Darius Garland",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Young point guard with playmaking ability."
+  },
+  {
+    "id": 2,
+    "last_name": "D Mitchell",
+    "img": "/basket/img/players/D Mitchell.png",
+    "full_name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring guard with explosive athleticism."
+  },
+  {
+    "id": 3,
+    "last_name": "C LeVert",
+    "img": "/basket/img/players/C LeVert.png",
+    "full_name": "Caris LeVert",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Versatile forward with scoring ability."
+  },
+  {
+    "id": 4,
+    "last_name": "E Mobley",
+    "img": "/basket/img/players/E Mobley.png",
+    "full_name": "Evan Mobley",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Rookie with tremendous defensive potential."
+  },
+  {
+    "id": 5,
+    "last_name": "J Allen",
+    "img": "/basket/img/players/J Allen.png",
+    "full_name": "Jarrett Allen",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Rim-protecting center with strong rebounding skills."
+  }
+]

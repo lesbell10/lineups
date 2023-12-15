@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "M Fultz",
+    "img": "/basket/img/players/M Fultz.png",
+    "full_name": "Markelle Fultz",
+    "team": "Orlando Magic",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Talented guard with playmaking skills."
+  },
+  {
+    "id": 2,
+    "last_name": "Co Anthony",
+    "img": "/basket/img/players/Co Anthony.png",
+    "full_name": "Cole Anthony",
+    "team": "Orlando Magic",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Young guard with scoring and ball-handling ability."
+  },
+  {
+    "id": 3,
+    "last_name": "F Wagner",
+    "img": "/basket/img/players/F Wagner.png",
+    "full_name": "Franz Wagner",
+    "team": "Orlando Magic",
+    "nationality": "Germany",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Rookie forward with defensive skills."
+  },
+  {
+    "id": 4,
+    "last_name": "P Banchero",
+    "img": "/basket/img/players/P Banchero.png",
+    "full_name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Highly-touted rookie with all-around skills."
+  },
+  {
+    "id": 5,
+    "last_name": "W Carter Jr",
+    "img": "/basket/img/players/W Carter Jr.png",
+    "full_name": "Wendell Carter Jr",
+    "team": "Orlando Magic",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Young center known for his rebounding and defense."
+  }
+]

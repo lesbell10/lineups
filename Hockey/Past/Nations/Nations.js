@@ -23,7 +23,7 @@ function updatePlayerInfo() {
     if (selectedYear === "0") {
         FL.textContent = "Crosby";
         FC.textContent = "McDavid";
-        FR.textContent = "Toews";
+        FR.textContent = "J Toews";
         DL.textContent = "Keith";
         DR.textContent = "Weber";
         G.textContent = "Price";

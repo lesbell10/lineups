@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Lillard",
+    "img": "/basket/img/players/D Lillard.png",
+    "full_name": "Damian Lillard",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Elite point guard known for his deep three-pointers."
+  },
+  {
+    "id": 2,
+    "last_name": "K Middleton",
+    "img": "/basket/img/players/K Middleton.png",
+    "full_name": "Khris Middleton",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "All-Star forward with scoring and clutch ability."
+  },
+  {
+    "id": 3,
+    "last_name": "G Antetokounmpo",
+    "img": "/basket/img/players/G Antetokounmpo.png",
+    "full_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "nationality": "Greece",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Two-time NBA MVP known for his athleticism and versatility."
+  },
+  {
+    "id": 4,
+    "last_name": "B Portis",
+    "img": "/basket/img/players/B Portis.png",
+    "full_name": "Bobby Portis",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Energetic big man with scoring ability."
+  },
+  {
+    "id": 5,
+    "last_name": "B Lopez",
+    "img": "/basket/img/players/B Lopez.png",
+    "full_name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Shot-blocking center with a versatile offensive game."
+  }
+]

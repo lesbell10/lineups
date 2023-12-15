@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Schroder",
+    "img": "/basket/img/players/D Schroder.png",
+    "full_name": "Dennis Schroder",
+    "team": "Toronto Raptors",
+    "nationality": "Germany",
+    "positions": ["Point Guard"],
+    "description": "Experienced point guard with scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "OG Anunoby",
+    "img": "/basket/img/players/OG Anunoby.png",
+    "full_name": "OG Anunoby",
+    "team": "Toronto Raptors",
+    "nationality": "United Kingdom",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile forward known for his defense."
+  },
+  {
+    "id": 3,
+    "last_name": "S Barnes",
+    "img": "/basket/img/players/S Barnes.png",
+    "full_name": "Scottie Barnes",
+    "team": "Toronto Raptors",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Rookie forward with potential and athleticism."
+  },
+  {
+    "id": 4,
+    "last_name": "P Siakam",
+    "img": "/basket/img/players/P Siakam.png",
+    "full_name": "Pascal Siakam",
+    "team": "Toronto Raptors",
+    "nationality": "Cameroon",
+    "positions": ["Power Forward", "Center"],
+    "description": "All-Star forward known for his versatility."
+  },
+  {
+    "id": 5,
+    "last_name": "J Poeltl",
+    "img": "/basket/img/players/J Poeltl.png",
+    "full_name": "Jakob Poeltl",
+    "team": "Toronto Raptors",
+    "nationality": "Austria",
+    "positions": ["Center"],
+    "description": "Rim-protecting center with strong defensive skills."
+  }
+]

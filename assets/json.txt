@@ -2,9 +2,18 @@
     search.style.display = "none";
     search.style.display = "block";
 
+
+
+
+
+
+
+
+
     Fifa pics – transfermarkt - webp
     Nhl pics – hockey-reference - jpg
     Nba pics – espn - png
+
 
 
 

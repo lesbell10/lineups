@@ -4,7 +4,7 @@
     "last_name": "S Nash",
     "img": "/basket/img/players/S Nash.png",
     "full_name": "Steve Nash",
-    "team": "Phoenix Suns",
+    "team": "Retired",
     "nationality": "Canada",
     "positions": ["Point Guard", "Shooting Guard"],
     "description": "Two-time NBA MVP and elite playmaker."
@@ -14,7 +14,7 @@
     "last_name": "K Bryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
-    "team": "Los Angeles Lakers",
+    "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "One of the greatest scorers in NBA history."
@@ -24,7 +24,7 @@
     "last_name": "L James",
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
-    "team": "Cleveland Cavaliers",
+    "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Rising superstar with incredible versatility."
@@ -34,7 +34,7 @@
     "last_name": "S O'Neal",
     "img": "/basket/img/players/S O'Neal.png",
     "full_name": "Shaquille O'Neal",
-    "team": "Miami Heat",
+    "team": "Retired",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "Dominant force in the post and NBA champion."
@@ -44,7 +44,7 @@
     "last_name": "T Duncan",
     "img": "/basket/img/players/T Duncan.png",
     "full_name": "Tim Duncan",
-    "team": "San Antonio Spurs",
+    "team": "Retired",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "Legendary big man and NBA champion."

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "La Ball",
+    "img": "/basket/img/players/LA Ball.png",
+    "full_name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Exciting young talent with great playmaking ability."
+  },
+  {
+    "id": 2,
+    "last_name": "T Rozier III",
+    "img": "/basket/img/players/T Rozier III.png",
+    "full_name": "Terry Rozier III",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring guard with a strong outside shot."
+  },
+  {
+    "id": 3,
+    "last_name": "G Hayward",
+    "img": "/basket/img/players/G Hayward.png",
+    "full_name": "Gordon Hayward",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward with scoring and playmaking."
+  },
+  {
+    "id": 4,
+    "last_name": "PJ Washington",
+    "img": "/basket/img/players/PJ Washington.png",
+    "full_name": "PJ Washington",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Young power forward with a promising future."
+  },
+  {
+    "id": 5,
+    "last_name": "M Williams",
+    "img": "/basket/img/players/M Williams.png",
+    "full_name": "Marvin Williams",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Veteran presence in the frontcourt."
+  }
+]
