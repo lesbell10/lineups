@@ -50,7 +50,7 @@ Promise.all([
     loadJSON('/basket/present/eastern/json/orlando.json'),
     loadJSON('/basket/present/eastern/json/philadelphia.json'),
     loadJSON('/basket/present/eastern/json/toronto.json'),
-    // loadJSON('/basket/present/eastern/json/washington.json'),
+    loadJSON('/basket/present/eastern/json/washington.json'),
     // loadJSON('/basket/present/western/json/dallas.json'),
     // loadJSON('/basket/present/western/json/denver.json'),
     // loadJSON('/basket/present/western/json/golden state.json'),
