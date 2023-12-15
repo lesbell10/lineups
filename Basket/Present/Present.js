@@ -29,6 +29,8 @@ function updatePlayerInfo() {
     
     smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
+    MainFetchPopUp("/basket/present/present.json");
+
 // smallpic.addEventListener('mouseover', () => {
 //             sideModal.style.display = 'block'
 //             sideModal.textContent = "Joel Embiid's 2023-24 season can be characterized as a display of dominance in the NBA. Showcasing exceptional skill in scoring, rebounding, and defense, Embiid solidified his status as a top center. His leadership and impact on the Philadelphia 76ers were unmistakable."
@@ -65,56 +67,57 @@ function updatePlayerInfo() {
 // Initial update based on the default year (2020)
 updatePlayerInfo();
 
-function FetchPopUp(info) {
-    fetch(info)
-    .then(response => response.json())
-    .then(data => {
-        data.forEach(player => {
-            // Assuming each player's image has an ID like 'playerImage1', 'playerImage2', etc.
-            const imageElement = document.querySelector(`.carousel .carousel-item .pimg${player.id}`);
-            const modal = document.getElementById(`modal${player.id}`);
 
-            if (imageElement && modal) {
-                imageElement.addEventListener("mouseover", () => {
-                    modal.innerHTML = `
-                        <p>Full Name: ${player.full_name}</p>
-                        <p>Team: ${player.team}</p>
-                        <p>Nationality: ${player.nationality}</p>
-                        <p>Positions: ${player.positions}</p>
-                        <p>Height: ${player.height}</p>
-                        <p>Birth Date: ${player.birth_date}</p>
-                        <p>Birthplace: ${player.birthplace}</p>
-                        <p>Draft: ${player.draft}</p>
-                    `;
-                    modal.style.display = 'block'; // Show the modal
-                });
+// function FetchPopUp(info) {
+    //     fetch(info)
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         data.forEach(player => {
+    //             // Assuming each player's image has an ID like 'playerImage1', 'playerImage2', etc.
+    //             const imageElement = document.querySelector(`.carousel .carousel-item .pimg${player.id}`);
+    //             const modal = document.getElementById(`modal${player.id}`);
 
-                imageElement.addEventListener("mouseout", () => {
-                    modal.style.display = 'none'; // Hide the modal
-                });
-            }
-        });
+    //             if (imageElement && modal) {
+    //                 imageElement.addEventListener("mouseover", () => {
+    //                     modal.innerHTML = `
+    //                         <p>Full Name: ${player.full_name}</p>
+    //                         <p>Team: ${player.team}</p>
+    //                         <p>Nationality: ${player.nationality}</p>
+    //                         <p>Positions: ${player.positions}</p>
+    //                         <p>Height: ${player.height}</p>
+    //                         <p>Birth Date: ${player.birth_date}</p>
+    //                         <p>Birthplace: ${player.birthplace}</p>
+    //                         <p>Draft: ${player.draft}</p>
+    //                     `;
+    //                     modal.style.display = 'block'; // Show the modal
+    //                 });
+
+    //                 imageElement.addEventListener("mouseout", () => {
+    //                     modal.style.display = 'none'; // Hide the modal
+    //                 });
+    //             }
+    //         });
+    //     })
+    //     .catch(error => console.error('Error:', error));
+    // };
+
+    // -------------------- hide and show -------------------
+
+    const nav = document.querySelector("nav");
+    const backBtn = document.querySelector("#backButton")
+    const forBtn = document.querySelector("#forwardButton")
+    const search = document.querySelector(".search-container");
+
+    PG2.addEventListener('click', function () {
+        nav.style.display = "none";
+        backBtn.style.display = "none";
+        forBtn.style.display = "none";
+        search.style.display = "none";
     })
-    .catch(error => console.error('Error:', error));
-};
-
-// -------------------- hide and show -------------------
-
-        const nav = document.querySelector("nav");
-        const backBtn = document.querySelector("#backButton")
-        const forBtn = document.querySelector("#forwardButton")
-        const search = document.querySelector(".search-container");
-
-        PG2.addEventListener('click', function () {
-            nav.style.display = "none";
-            backBtn.style.display = "none";
-            forBtn.style.display = "none";
-            search.style.display = "none";
-        })
             
-        SG2.addEventListener('click', function () {
-            nav.style.display = "flex";
-            backBtn.style.display = "block";
-            forBtn.style.display = "block";
-            search.style.display = "block";
-        })
+    SG2.addEventListener('click', function () {
+        nav.style.display = "flex";
+        backBtn.style.display = "block";
+        forBtn.style.display = "block";
+        search.style.display = "block";
+    })

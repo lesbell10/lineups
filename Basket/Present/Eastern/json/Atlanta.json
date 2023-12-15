@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Young",
+    "img": "/basket/img/players/T Young.png",
+    "full_name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "nationality": "United States",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Versatile guard for the Atlanta Hawks."
+  },
+  {
+    "id": 2,
+    "last_name": "D Murray",
+    "img": "/basket/img/players/D Murray.png",
+    "full_name": "Dejounte Murray",
+    "team": "Atlanta Hawks",
+    "nationality": "United States",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Guard making an impact for the San Antonio Spurs."
+  },
+  {
+    "id": 3,
+    "last_name": "B Bogdanovic",
+    "img": "/basket/img/players/B Bogdanovic.png",
+    "full_name": "Bogdan Bogdanovic",
+    "team": "Atlanta Hawks",
+    "nationality": "Serbia",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Professional basketball player from Serbia."
+  },
+  {
+    "id": 4,
+    "last_name": "O Okongwu",
+    "img": "/basket/img/players/O Okongwu.png",
+    "full_name": "Onyeka Okongwu",
+    "team": "Atlanta Hawks",
+    "nationality": "United States",
+    "positions": ["Power Forward", "Center"],
+    "description": "Frontcourt player with potential on the Atlanta Hawks."
+  },
+  {
+    "id": 5,
+    "last_name": "C Capela",
+    "img": "/basket/img/players/C Capela.png",
+    "full_name": "Clint Capela",
+    "team": "Atlanta Hawks",
+    "nationality": "Switzerland",
+    "positions": ["Center", "Power Forward"],
+    "description": "Swiss big man anchoring the Atlanta Hawks' defense."
+  }
+]

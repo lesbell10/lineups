@@ -2,13 +2,13 @@
 
   {
     "id": 1,
-    "last_name": "Henry",
-    "img": "/football/img/players/Henry.webp",
-    "full_name": "Thierry Henry",
-    "team": "Retired",
-    "nationality": "France",
-    "position": "Striker",
-    "description": "(8 words.)"
+    "last_name": "",
+    "img": "/football/img/players/{last_name}}.webp",
+    "full_name": "",
+    "team": "",
+    "nationality": "(name)",
+    "position": "",
+    "description": "(8 words.)".
   }
 
 ----------------------------------------------- HOCKEY ------------------------------------------
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/{last_name}.jpg"
     "full_name": "",
     "team": "",
-    "nationality": "",
+    "nationality": "(name)",
     "position": "",
     "description": "(8 words.)",
   }
@@ -32,6 +32,8 @@
     "full_name": "",
     "team": "",
     "nationality": "",
-    "positions":,
+    "positions":(2 positions),
     "description": "(8 words.)"
   }
+
+  https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19

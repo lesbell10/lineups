@@ -34,6 +34,39 @@ Promise.all([
     loadJSON('/basket/everyyear/json/EveryYear_2023.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2024.json'),
     loadJSON('/basket/Others.json'),
+    loadJSON('/basket/present/present.json'),
+    loadJSON('/basket/past/past.json'),
+    loadJSON('/basket/present/eastern/json/atlanta.json'),
+    // loadJSON('/basket/present/eastern/json/brooklyn.json'),
+    // loadJSON('/basket/present/eastern/json/charlotte.json'),
+    // loadJSON('/basket/present/eastern/json/chicago.json'),
+    // loadJSON('/basket/present/eastern/json/cleveland.json'),
+    // loadJSON('/basket/present/eastern/json/detroit.json'),
+    // loadJSON('/basket/present/eastern/json/indiana.json'),
+    // loadJSON('/basket/present/eastern/json/miami.json'),
+    // loadJSON('/basket/present/eastern/json/milwaukee.json'),
+    // loadJSON('/basket/present/eastern/json/new york.json'),
+    // loadJSON('/basket/present/eastern/json/orlando.json'),
+    // loadJSON('/basket/present/eastern/json/philadelphia.json'),
+    // loadJSON('/basket/present/eastern/json/toronto.json'),
+    // loadJSON('/basket/present/eastern/json/washington.json'),
+    // loadJSON('/basket/present/western/json/dallas.json'),
+    // loadJSON('/basket/present/western/json/denver.json'),
+    // loadJSON('/basket/present/western/json/golden state.json'),
+    // loadJSON('/basket/present/western/json/houston.json'),
+    // loadJSON('/basket/present/western/json/la clippers.json'),
+    // loadJSON('/basket/present/western/json/la lakers.json'),
+    // loadJSON('/basket/present/western/json/memphis.json'),
+    // loadJSON('/basket/present/western/json/minnesota.json'),
+    // loadJSON('/basket/present/western/json/new orleans.json'),
+    // loadJSON('/basket/present/western/json/oklahoma city.json'),
+    // loadJSON('/basket/present/western/json/phoenix.json'),
+    // loadJSON('/basket/present/western/json/portland.json'),
+    // loadJSON('/basket/present/western/json/sacramemto.json'),
+    // loadJSON('/basket/present/western/json/san antonio.json'),
+    // loadJSON('/basket/present/western/json/utah.json'),
+
+
 ]).then(files => {
     allPlayers = files.flat();
     // Now allPlayers contains data from both files
@@ -43,7 +76,6 @@ Promise.all([
 function searchPlayers(query) {
     description.innerHTML = "";
     clearPageContentExceptNav();
-    label.style.display = "none";
     const uniquePlayers = new Map();
     
     // Normalize the query to lowercase for case-insensitive search
@@ -52,7 +84,7 @@ function searchPlayers(query) {
     allPlayers.forEach(player => {
         Object.values(player).forEach(value => {
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
-                const uniqueKey = `${player.last_name}_${player.birth_date}`;
+                const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
                     return;

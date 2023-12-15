@@ -1,62 +1,52 @@
 [
   {
     "id": 1,
-    "full_name": "Stephen Curry",
+    "last_name": "S Curry",
     "img": "/basket/img/players/S Curry.png",
-    "birth_date": "14-03-1988",
-    "birthplace": "Akron, USA",
+    "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": "Point Guard, Shooting Guard",
-    "height": "6'2\"",
-    "draft": "Golden State Warriors, round 1 #7 overall, 2009"
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "NBA superstar known for incredible three-point shooting."
   },
   {
     "id": 2,
-    "full_name": "LeBron James",
+    "last_name": "L James",
     "img": "/basket/img/players/L James.png",
-    "birth_date": "30-12-1984",
-    "birthplace": "Akron, USA",
+    "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": "Small Forward, Power Forward",
-    "height": "6'9\"",
-    "draft": "Cleveland Cavaliers, round 1 #1 overall, 2003"
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "One of the greatest basketball players of all time."
   },
   {
     "id": 3,
-    "full_name": "Giannis Antetokounmpo",
+    "last_name": "G Antetokounmpo",
     "img": "/basket/img/players/G Antetokounmpo.png",
-    "birth_date": "06-12-1994",
-    "birthplace": "Athens, Greece",
+    "full_name": "Giannis Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
-    "positions": "Small Forward, Power Forward",
-    "height": "6'11\"",
-    "draft": "Milwaukee Bucks, round 1 #15 overall, 2013"
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Dominant forward, known for versatility and athleticism."
   },
   {
     "id": 4,
-    "full_name": "Nikola Jokic",
+    "last_name": "N Jokic",
     "img": "/basket/img/players/N Jokic.png",
-    "birth_date": "19-02-1995",
-    "birthplace": "Sombor, Serbia",
+    "full_name": "Nikola Jokic",
     "team": "Denver Nuggets",
     "nationality": "Serbia",
-    "positions": "Center, Power Forward",
-    "height": "7'0\"",
-    "draft": "Denver Nuggets, round 2 #41 overall, 2014"
+    "positions": ["Center", "Power Forward"],
+    "description": "Skilled center, known for passing and basketball IQ."
   },
   {
     "id": 5,
-    "full_name": "Joel Embiid",
+    "last_name": "J Embiid",
     "img": "/basket/img/players/J Embiid.png",
-    "birth_date": "16-03-1994",
-    "birthplace": "Yaoundé, Cameroon",
+    "full_name": "Joel Embiid",
     "team": "Philadelphia 76ers",
     "nationality": "Cameroon",
-    "positions": "Center, Power Forward",
-    "height": "7'0\"",
-    "draft": "Philadelphia 76ers, round 1 #3 overall, 2014"
+    "positions": ["Center", "Power Forward"],
+    "description": "Dominant center with strong scoring and defense."
   }
 ]

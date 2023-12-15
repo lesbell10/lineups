@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL Best Nations Present</title>
+    <link rel="stylesheet" href="/Hockey/nhl.css">
+</head>
+
+<body>
+    <!-- HTML content remains the same -->
+    ...
+    <script>
+        const yearSelector = document.getElementById("yearSelector");
+        const positions = ["FL", "FC", "FR", "DL", "DR", "G"];
+        const smallpic = document.getElementById("smallpic");
+
+        const playerData = {
+            "0": {
+                names: ["MacKinnon", "McDavid", "Crosby", "Makar", "Hamilton", "Jarry"],
+                logo: "/hockey/img/logos/canada.png"
+            },
+            "1": {
+                names: ["Necas", "Hertl", "Pastrnak", "Rutta", "Simek", "Vanecek"],
+                logo: "/hockey/img/logos/czech republic.webp"
+            },
+            "2": {
+                names: ["Hintz", "Barkov", "Rantanen", "Heiskanen", "Lindell", "Saros"],
+                logo: ""
+            }
+            // Add other countries here...
+        };
+
+        function updatePlayerInfo() {
+            const selectedYear = yearSelector.value;
+            const country = playerData[selectedYear];
+
+            if (!country) return;
+
+            positions.forEach((position, index) => {
+                const playerElement = document.getElementById(position);
+                const playerImage = document.getElementById(position + '2');
+
+                playerElement.textContent = country.names[index];
+                playerImage.src = "/hockey/img/players/" + country.names[index] + ".jpg";
+            });
+
+            smallpic.src = country.logo;
+        }
+
+        yearSelector.addEventListener('change', updatePlayerInfo);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Holiday",
+    "img": "/basket/img/players/J Holiday.png",
+    "full_name": "Jrue Holiday",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Versatile guard with excellent defensive skills."
+  },
+  {
+    "id": 2,
+    "last_name": "D White",
+    "img": "/basket/img/players/D White.png",
+    "full_name": "Derrick White",
+    "team": "bOSTON cELTICS",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Emerging talent known for his defensive prowess."
+  },
+  {
+    "id": 3,
+    "last_name": "Brown",
+    "img": "/basket/img/players/Brown.png",
+    "full_name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Young and athletic forward, improving every season."
+  },
+  {
+    "id": 4,
+    "last_name": "Tatum",
+    "img": "/basket/img/players/Tatum.png",
+    "full_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Rising star known for his scoring ability."
+  },
+  {
+    "id": 5,
+    "last_name": "Porzingis",
+    "img": "/basket/img/players/Porzingis.png",
+    "full_name": "Kristaps Porziņģis",
+    "team": "Boston Celtics",
+    "nationality": "Latvia",
+    "positions": ["Power Forward", "Center"],
+    "description": "Talented big man with a unique skill set."
+  }
+]

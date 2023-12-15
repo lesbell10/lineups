@@ -192,3 +192,112 @@ function displayResults(players) {
     });
 }
 
+
+
+
+function updatePlayerInfo(selectedYear) {
+    const team = playerData[selectedYear];
+    if (!team) return;
+
+    team.players.forEach(player => {
+        const playerNameElement = document.getElementById(player.position);
+        const playerImageElement = document.getElementById(player.position + "2");
+
+        if (playerNameElement && playerImageElement) {
+            playerNameElement.textContent = player.name;
+            playerImageElement.src = `/football/img/players/${player.name}.webp`;
+        }
+    });
+
+    smallpic.src = `/football/img/logos/${team.teamName}.webp`;
+    MainFetchPopUp(`/football/present/clubs/json/${team.teamName}.json`);
+}
+
+yearSelector.addEventListener('change', () => updatePlayerInfo(yearSelector.value));
+
+
+
+
+const yearSelector = document.getElementById("yearSelector");
+const FL = document.getElementById("FL");
+const FL2 = document.getElementById("FL2");
+const FC = document.getElementById("FC");
+const FC2 = document.getElementById("FC2");
+const FR = document.getElementById("FR");
+const FR2 = document.getElementById("FR2");
+const DL = document.getElementById("DL");
+const DL2 = document.getElementById("DL2");
+const DR = document.getElementById("DR");
+const DR2 = document.getElementById("DR2");
+const G = document.getElementById("G");
+const G2 = document.getElementById("G2");
+const smallpic = document.getElementById("smallpic");
+
+let selectedYear = 0;
+
+function updatePlayerInfo() {
+
+    selectedYear = yearSelector.value;
+
+
+    if (selectedYear === "0") {
+
+        FL.textContent = "MacKinnon";
+        FC.textContent = "McDavid";
+        FR.textContent = "Crosby";
+        DL.textContent = "Makar";
+        DR.textContent = "Hamilton";
+        G.textContent = "Jarry";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/canada.png";
+
+        MainFetchPopUp("/hockey/present/nations/json/canada.json");
+    }
+
+    if (selectedYear === "1") {
+
+        FL.textContent = "Necas";
+        FC.textContent = "Hertl";
+        FR.textContent = "Pastrnak";
+        DL.textContent = "Rutta";
+        DR.textContent = "Simek";
+        G.textContent = "Vanecek";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/czech republic.webp";
+
+        MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+    }
+
+
+    if (selectedYear === "2") {
+
+        FL.textContent = "Hintz";
+        FC.textContent = "Barkov";
+        FR.textContent = "Rantanen";
+        DL.textContent = "Heiskanen";
+        DR.textContent = "Lindell";
+        G.textContent = "Saros";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+    }
+}

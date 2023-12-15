@@ -13,18 +13,19 @@ const smallpic = document.getElementById("smallpic");
 
 function updatePlayerInfo() {
 
-    SG.textContent = "Harden";
-    SG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png";
-    PG.textContent = "Curry";
-    PG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png";
-    SF.textContent = "James";
-    SF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png";
-    PF.textContent = "Durant";
-    PF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png";
-    C.textContent = "Davis";
-    C2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png";
+    SG.textContent = "J Harden";
+    PG.textContent = "S Curry";
+    SF.textContent = "L James";
+    PF.textContent = "K Durant";
+    C.textContent = "A Davis";
     
-    document.getElementById("smallpic").src = "https://i.pinimg.com/originals/0e/04/d7/0e04d70514c7ce1eaf1ea59c619d9c74.jpg";
+    PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+    SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+    SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+    PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+    C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+    smallpic.src = "/basket/img/wallpapers/james 4.jpg";
 
 
      function clearAndFadeInElements() {

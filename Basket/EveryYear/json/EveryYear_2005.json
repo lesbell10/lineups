@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "last_name": "Nash",
+    "last_name": "S Nash",
     "img": "/basket/img/players/S Nash.png",
     "full_name": "Steve Nash",
     "team": "Phoenix Suns",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "last_name": "Bryant",
+    "last_name": "K Bryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "team": "Los Angeles Lakers",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "last_name": "James",
+    "last_name": "L James",
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "team": "Cleveland Cavaliers",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "last_name": "O'Neal",
+    "last_name": "S O'Neal",
     "img": "/basket/img/players/S O'Neal.png",
     "full_name": "Shaquille O'Neal",
     "team": "Miami Heat",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "last_name": "Duncan",
+    "last_name": "T Duncan",
     "img": "/basket/img/players/T Duncan.png",
     "full_name": "Tim Duncan",
     "team": "San Antonio Spurs",

@@ -30,7 +30,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "https://content.sportslogos.net/logos/6/220/thumbs/22081902021.gif";
+        smallpic.src = "/basket/img/logos/atlanta.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/atlanta.json");
     }
 
     if (selectedYear === "1") {
@@ -46,7 +48,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/boston.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/boston.json");
     }
 
     if (selectedYear === "2") {
@@ -62,7 +66,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/brooklyn.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/brooklyn.json");
     }
 
     if (selectedYear === "3") {
@@ -78,7 +84,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Charlotte.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Charlotte.json");
     }
 
     if (selectedYear === "4") {
@@ -94,7 +102,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Chicago.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Chicago.json");
     }
 
     if (selectedYear === "5") {
@@ -110,7 +120,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Cleveland.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Cleveland.json");
     }
 
     if (selectedYear === "6") {
@@ -126,7 +138,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Detroit.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Detroit.json");
     }
 
     if (selectedYear === "7") {
@@ -142,7 +156,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Indiana.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Indiana.json");
     }
 
     if (selectedYear === "8") {
@@ -158,7 +174,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Miami.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Miami.json");
     }
 
     if (selectedYear === "9") {
@@ -174,7 +192,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Milwaukee.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Milwaukee.json");
     }
 
     if (selectedYear === "10") {
@@ -190,7 +210,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/New York.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/New York.json");
     }
 
     if (selectedYear === "11") {
@@ -206,7 +228,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Orlando.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Orlando.json");
     }
 
     if (selectedYear === "12") {
@@ -222,7 +246,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Philadelphia.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
     }
 
     if (selectedYear === "13") {
@@ -238,7 +264,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Toronto.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Toronto.json");
     }
 
     if (selectedYear === "14") {
@@ -254,7 +282,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Washington.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Washington.json");
     }
 
 
@@ -262,7 +292,7 @@ function updatePlayerInfo() {
         const elements = [
             SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -287,18 +317,18 @@ yearSelector.addEventListener("change", updatePlayerInfo);
 updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
+
 // Initialize the current index to 0
-    
-    // let currentIndex = 0;
-    
+
+// let currentIndex = 0;
+
 // Function to update the dropdown based on the currentIndex
-    
+
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear === "0") {
         PG.textContent = "T Young";
         SG.textContent = "D Murray";
         SF.textContent = "D Hunter";
@@ -311,7 +341,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "https://content.sportslogos.net/logos/6/220/thumbs/22081902021.gif";
+        smallpic.src = "/basket/img/logos/atlanta.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/atlanta.json");
     }
 
     if (selectedYear === 1) {
@@ -327,7 +359,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/boston.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/boston.json");
     }
 
     if (selectedYear === 2) {
@@ -343,7 +377,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/brooklyn.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/brooklyn.json");
     }
 
     if (selectedYear === 3) {
@@ -359,7 +395,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Charlotte.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Charlotte.json");
     }
 
     if (selectedYear === 4) {
@@ -375,7 +413,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Chicago.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Chicago.json");
     }
 
     if (selectedYear === 5) {
@@ -391,7 +431,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Cleveland.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Cleveland.json");
     }
 
     if (selectedYear === 6) {
@@ -407,7 +449,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Detroit.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Detroit.json");
     }
 
     if (selectedYear === 7) {
@@ -423,7 +467,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Indiana.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Indiana.json");
     }
 
     if (selectedYear === 8) {
@@ -439,7 +485,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Miami.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Miami.json");
     }
 
     if (selectedYear === 9) {
@@ -455,7 +503,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Milwaukee.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Milwaukee.json");
     }
 
     if (selectedYear === 10) {
@@ -471,12 +521,14 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/New York.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/New York.json");
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear === 12) {
         PG.textContent = "M Fultz";
-        SG.textContent = "C Anthony";
+        SG.textContent = "Co Anthony";
         SF.textContent = "F Wagner";
         PF.textContent = "P Banchero";
         C.textContent = "W Carter Jr";
@@ -487,7 +539,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Orlando.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Orlando.json");
     }
 
     if (selectedYear === 12) {
@@ -503,7 +557,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Philadelphia.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
     }
 
     if (selectedYear === 13) {
@@ -519,7 +575,9 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Toronto.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Toronto.json");
     }
 
     if (selectedYear === 14) {
@@ -535,14 +593,17 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/logos/Washington.gif";
+
+        MainFetchPopUp("/basket/present/eastern/json/Washington.json");
     }
+
 
     function clearAndFadeInElements() {
         const elements = [
-            SG,SG2,PG,PG2,SF,SF2,PF,PF2,C,C2
+            SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -558,40 +619,40 @@ const updateDropdown = () => {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }   // Event listener for the back button
+
+}   // Event listener for the back button
 backButton.addEventListener('click', () => {
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
-        const nav = document.querySelector("nav");
-        const backBtn = document.querySelector("#backButton")
-        const forBtn = document.querySelector("#forwardButton")
-        const search = document.querySelector(".search-container");
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
-        PG2.addEventListener('click', function () {
-            nav.style.display = "none";
-            backBtn.style.display = "none";
-            forBtn.style.display = "none";
-            search.style.display = "none";
-        })
-            
-        SG2.addEventListener('click', function () {
-            nav.style.display = "flex";
-            backBtn.style.display = "block";
-            forBtn.style.display = "block";
-            search.style.display = "block";
-        })
+const nav = document.querySelector("nav");
+const backBtn = document.querySelector("#backButton")
+const forBtn = document.querySelector("#forwardButton")
+const search = document.querySelector(".search-container");
+
+PG2.addEventListener('click', function () {
+    nav.style.display = "none";
+    backBtn.style.display = "none";
+    forBtn.style.display = "none";
+    search.style.display = "none";
+})
+
+SG2.addEventListener('click', function () {
+    nav.style.display = "flex";
+    backBtn.style.display = "block";
+    forBtn.style.display = "block";
+    search.style.display = "block";
+})
