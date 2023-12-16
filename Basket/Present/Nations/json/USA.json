@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "S Curry",
+    "img": "/basket/img/players/S Curry.png",
+    "full_name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Three-time NBA champion and elite shooter."
+  },
+  {
+    "id": 2,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "All-Star known for his leadership and scoring."
+  },
+  {
+    "id": 3,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA legend with multiple championships."
+  },
+  {
+    "id": 4,
+    "last_name": "J Tatum",
+    "img": "/basket/img/players/J Tatum.png",
+    "full_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Young star known for his scoring ability."
+  },
+  {
+    "id": 5,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/Durant.png",
+    "full_name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Two-time NBA champion and elite scorer."
+  }
+]
