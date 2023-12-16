@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "S Gilgeous-Alexander",
+    "img": "/basket/img/players/S Gilgeous-Alexander.png",
+    "full_name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "nationality": "Canada",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Talented guard known for his versatility."
+  },
+  {
+    "id": 2,
+    "last_name": "J Giddey",
+    "img": "/basket/img/players/J Giddey.png",
+    "full_name": "Josh Giddey",
+    "team": "Oklahoma City Thunder",
+    "nationality": "Australia",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Rookie guard with playmaking skills."
+  },
+  {
+    "id": 3,
+    "last_name": "J Williams",
+    "img": "/basket/img/players/J Williams.png",
+    "full_name": "Jeremiah Williams",
+    "team": "Oklahoma City Thunder",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Young forward with potential."
+  },
+  {
+    "id": 4,
+    "last_name": "L Dort",
+    "img": "/basket/img/players/L Dort.png",
+    "full_name": "Luguentz Dort",
+    "team": "Oklahoma City Thunder",
+    "nationality": "Canada",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Tenacious defender and scorer."
+  },
+  {
+    "id": 5,
+    "last_name": "C Holmgren",
+    "img": "/basket/img/players/C Holmgren.png",
+    "full_name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Rookie center with shot-blocking and versatility."
+  }
+]

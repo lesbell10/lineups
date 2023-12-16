@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Harden",
+    "img": "/basket/img/players/J Harden.png",
+    "full_name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring machine and former MVP."
+  },
+  {
+    "id": 2,
+    "last_name": "R Westbrook",
+    "img": "/basket/img/players/R Westbrook.png",
+    "full_name": "Russell Westbrook",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Triple-double machine and former MVP."
+  },
+  {
+    "id": 3,
+    "last_name": "P George",
+    "img": "/basket/img/players/P George.png",
+    "full_name": "Paul George",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for scoring and defense."
+  },
+  {
+    "id": 4,
+    "last_name": "K Leonard",
+    "img": "/basket/img/players/K Leonard.png",
+    "full_name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Two-time NBA Finals MVP with elite two-way skills."
+  },
+  {
+    "id": 5,
+    "last_name": "I Zubac",
+    "img": "/basket/img/players/I Zubac.png",
+    "full_name": "Ivica Zubac",
+    "team": "Los Angeles Clippers",
+    "nationality": "Croatia",
+    "positions": ["Center"],
+    "description": "Young center known for his rebounding and shot-blocking."
+  }
+]

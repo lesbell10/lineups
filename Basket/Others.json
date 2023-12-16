@@ -152,5 +152,75 @@
         "height": "6'3\"",
         "draft": "Boston Celtics, round 1, #3 overall, 1997",
         "description": "NBA Finals MVP and five-time All-Star."
-    }
+    },
+    {
+    "id": 17,
+    "last_name": "M Jordan",
+    "img": "/basket/img/players/M Jordan.webp",
+    "full_name": "Michael Jordan",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Arguably the greatest player in NBA history."
+  },
+  {
+    "id": 18,
+    "last_name": "M Johnson",
+    "img": "/basket/img/players/M Johnson.png",
+    "full_name": "Magic Johnson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Legendary point guard known for his passing and leadership."
+  },
+  {
+    "id": 19,
+    "last_name": "Bird",
+    "img": "/basket/img/players/L Bird.webp",
+    "full_name": "Larry Bird",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Iconic forward known for his scoring and rivalry with Magic."
+  },
+  {
+    "id": 20,
+    "last_name": "Barkley",
+    "img": "/basket/img/players/C Barkley.png",
+    "full_name": "Charles Barkley",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Hall of Famer known for his rebounding and personality."
+  },
+  {
+    "id": 21,
+    "last_name": "S Pippen",
+    "img": "/basket/img/players/S Pippen.webp",
+    "full_name": "Scottie Pippen",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward known for his defense and championships."
+  },
+  {
+    "id": 22,
+    "last_name": "R Miller",
+    "img": "/basket/img/players/R Miller.png",
+    "full_name": "Reggie Miller",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Sharpshooting guard with clutch performances."
+  },
+  {
+    "id": 23,
+    "last_name": "D Rodman",
+    "img": "/basket/img/players/D Rodman.png",
+    "full_name": "Dennis Rodman",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Rebounding specialist and defensive powerhouse."
+  }
 ]

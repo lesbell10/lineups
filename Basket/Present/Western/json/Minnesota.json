@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "A Edwards",
+    "img": "/basket/img/players/A Edwards.png",
+    "full_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Young wing with explosive scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "J McDaniels",
+    "img": "/basket/img/players/J McDaniels.png",
+    "full_name": "Jaden McDaniels",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile forward with defensive skills."
+  },
+  {
+    "id": 3,
+    "last_name": "N Reid",
+    "img": "/basket/img/players/N Reid.png",
+    "full_name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Young big man with scoring and rebounding skills."
+  },
+  {
+    "id": 4,
+    "last_name": "KA Towns",
+    "img": "/basket/img/players/KA Towns.png",
+    "full_name": "Karl-Anthony Towns",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "All-Star center known for his versatility."
+  },
+  {
+    "id": 5,
+    "last_name": "R Gobert",
+    "img": "/basket/img/players/R Gobert.png",
+    "full_name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "nationality": "France",
+    "positions": ["Center"],
+    "description": "Two-time Defensive Player of the Year and elite rim protector."
+  }
+]

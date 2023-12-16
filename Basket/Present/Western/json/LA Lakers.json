@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Russell",
+    "img": "/basket/img/players/D Russell.png",
+    "full_name": "D'Angelo Russell",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Scoring guard with ball-handling skills."
+  },
+  {
+    "id": 2,
+    "last_name": "A Reaves",
+    "img": "/basket/img/players/A Reaves.png",
+    "full_name": "Austin Reaves",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Rookie guard known for his hustle and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA legend with all-around skills and leadership."
+  },
+  {
+    "id": 4,
+    "last_name": "R Hachimura",
+    "img": "/basket/img/players/R Hachimura.png",
+    "full_name": "Rui Hachimura",
+    "team": "Los Angeles Lakers",
+    "nationality": "Japan",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Forward with scoring ability and international experience."
+  },
+  {
+    "id": 5,
+    "last_name": "A Davis",
+    "img": "/basket/img/players/A Davis.png",
+    "full_name": "Anthony Davis",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Elite big man known for his shot-blocking and versatility."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "C Sexton",
+    "img": "/basket/img/players/C Sexton.png",
+    "full_name": "Collin Sexton",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Scoring guard known for his speed and shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "J Clarkson",
+    "img": "/basket/img/players/J Clarkson.png",
+    "full_name": "Jordan Clarkson",
+    "team": "Utah Jazz",
+    "nationality": "Philippines/USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Sixth Man of the Year known for his scoring off the bench."
+  },
+  {
+    "id": 3,
+    "last_name": "L Markkanen",
+    "img": "/basket/img/players/L Markkanen.png",
+    "full_name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "nationality": "Finland",
+    "positions": ["Power Forward", "Center"],
+    "description": "Stretch forward known for his shooting."
+  },
+  {
+    "id": 4,
+    "last_name": "J Collins",
+    "img": "/basket/img/players/J Collins.png",
+    "full_name": "John Collins",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Versatile big man with athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "WKessler",
+    "img": "/basket/img/players/W Kessler.png",
+    "full_name": "Walker Kessler",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Rookie center with shot-blocking potential."
+  }
+]

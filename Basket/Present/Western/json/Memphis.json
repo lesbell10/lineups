@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Morant",
+    "img": "/basket/img/players/J Morant.png",
+    "full_name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Young star known for his athleticism and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "M Smart",
+    "img": "/basket/img/players/M Smart.png",
+    "full_name": "Marcus Smart",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Tenacious defender and versatile guard."
+  },
+  {
+    "id": 3,
+    "last_name": "D Bane",
+    "img": "/basket/img/players/D Bane.png",
+    "full_name": "Desmond Bane",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Sharpshooting forward and scorer."
+  },
+  {
+    "id": 4,
+    "last_name": "J Jackson Jr",
+    "img": "/basket/img/players/J Jackson Jr.png",
+    "full_name": "Jaren Jackson Jr.",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Young forward with shot-blocking and three-point shooting."
+  },
+  {
+    "id": 5,
+    "last_name": "S Adams",
+    "img": "/basket/img/players/S Adams.png",
+    "full_name": "Steven Adams",
+    "team": "Memphis Grizzlies",
+    "nationality": "New Zealand",
+    "positions": ["Center"],
+    "description": "Physical center known for his rebounding and toughness."
+  }
+]

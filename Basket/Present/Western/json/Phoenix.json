@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Booker",
+    "img": "/basket/img/players/D Booker.png",
+    "full_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring guard and key player for the Suns."
+  },
+  {
+    "id": 2,
+    "last_name": "B Beal",
+    "img": "/basket/img/players/B Beal.png",
+    "full_name": "Bradley Beal",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Elite scorer and dynamic shooting guard."
+  },
+  {
+    "id": 3,
+    "last_name": "E Gordon",
+    "img": "/basket/img/players/E Gordon.png",
+    "full_name": "Eric Gordon",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Veteran forward known for his three-point shooting."
+  },
+  {
+    "id": 4,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/K Durant.png",
+    "full_name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Two-time NBA Finals MVP and elite scorer."
+  },
+  {
+    "id": 5,
+    "last_name": "J Nurkic",
+    "img": "/basket/img/players/J Nurkic.png",
+    "full_name": "Jusuf Nurkic",
+    "team": "Phoenix Suns",
+    "nationality": "Bosnia and Herzegovina",
+    "positions": ["Center"],
+    "description": "Skilled center known for his rebounding and inside presence."
+  }
+]

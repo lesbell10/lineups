@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "CJ McCollum",
+    "img": "/basket/img/players/CJ McCollum.png",
+    "full_name": "CJ McCollum",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Scoring guard with a smooth jump shot."
+  },
+  {
+    "id": 2,
+    "last_name": "H Jones",
+    "img": "/basket/img/players/H Jones.png",
+    "full_name": "Herbert Jones",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Rookie forward known for his defensive skills."
+  },
+  {
+    "id": 3,
+    "last_name": "B Ingram",
+    "img": "/basket/img/players/B Ingram.png",
+    "full_name": "Brandon Ingram",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Scoring forward and former All-Star."
+  },
+  {
+    "id": 4,
+    "last_name": "Z Williamson",
+    "img": "/basket/img/players/Z Williamson.png",
+    "full_name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Young star with explosive athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "J Valanciunas",
+    "img": "/basket/img/players/J Valanciunas.png",
+    "full_name": "Jonas Valanciunas",
+    "team": "New Orleans Pelicans",
+    "nationality": "Lithuania",
+    "positions": ["Center"],
+    "description": "Skilled center known for his rebounding and inside presence."
+  }
+]

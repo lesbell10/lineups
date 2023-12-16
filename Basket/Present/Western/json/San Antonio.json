@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "V Wembanyama",
+    "img": "/basket/img/players/V Wembanyama.png",
+    "full_name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "nationality": "France",
+    "positions": ["Center"],
+    "description": "Highly-touted young center prospect."
+  },
+  {
+    "id": 2,
+    "last_name": "Tr Jones",
+    "img": "/basket/img/players/Tr Jones.png",
+    "full_name": "Tre Jones",
+    "team": "San Antonio Spurs",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Young point guard with playmaking skills."
+  },
+  {
+    "id": 3,
+    "last_name": "K Johnson",
+    "img": "/basket/img/players/K Johnson.png",
+    "full_name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Young forward known for his athleticism and energy."
+  },
+  {
+    "id": 4,
+    "last_name": "D Vassell",
+    "img": "/basket/img/players/D Vassell.png",
+    "full_name": "Devin Vassell",
+    "team": "San Antonio Spurs",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Versatile wing player with defensive skills."
+  },
+  {
+    "id": 5,
+    "last_name": "Z Collins",
+    "img": "/basket/img/players/Z Collins.png",
+    "full_name": "Zach Collins",
+    "team": "San Antonio Spurs",
+    "nationality": "USA",
+    "positions": ["Center", "Power Forward"],
+    "description": "Big man with potential and shot-blocking ability."
+  }
+]

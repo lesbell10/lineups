@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "M Brogdon",
+    "img": "/basket/img/players/M Brogdon.png",
+    "full_name": "Malcolm Brogdon",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Versatile guard known for his playmaking and shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "A Simons",
+    "img": "/basket/img/players/A Simons.png",
+    "full_name": "Anfernee Simons",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Young guard with scoring potential."
+  },
+  {
+    "id": 3,
+    "last_name": "S Sharpe",
+    "img": "/basket/img/players/S Sharpe.png",
+    "full_name": "Shareef Sharpe",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Rookie forward with potential and athleticism."
+  },
+  {
+    "id": 4,
+    "last_name": "D Ayton",
+    "img": "/basket/img/players/D Ayton.png",
+    "full_name": "Deandre Ayton",
+    "team": "Portland Trail Blazers",
+    "nationality": "Bahamas",
+    "positions": ["Center"],
+    "description": "Young center with inside scoring and rebounding skills."
+  },
+  {
+    "id": 5,
+    "last_name": "R Williams III",
+    "img": "/basket/img/players/R Williams III.png",
+    "full_name": "Robert Williams III",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Center", "Power Forward"],
+    "description": "Shot-blocking and athletic big man."
+  }
+]

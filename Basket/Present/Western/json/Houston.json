@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "F VanVleet",
+    "img": "/basket/img/players/F VanVleet.png",
+    "full_name": "Fred VanVleet",
+    "team": "Houston Rockets",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Talented guard known for his hustle and shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "J Green",
+    "img": "/basket/img/players/J Green.png",
+    "full_name": "Jalen Green",
+    "team": "Houston Rockets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Highly-touted rookie with scoring potential."
+  },
+  {
+    "id": 3,
+    "last_name": "D Brooks",
+    "img": "/basket/img/players/D Brooks.png",
+    "full_name": "Dillon Brooks",
+    "team": "Houston Rockets",
+    "nationality": "Canada",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Tough defender and scorer for the Grizzlies."
+  },
+  {
+    "id": 4,
+    "last_name": "J Smith Jr",
+    "img": "/basket/img/players/J Smith Jr.png",
+    "full_name": "Jalen Smith Jr.",
+    "team": "Houston Rockets",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Young forward with potential and athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "A Sengun",
+    "img": "/basket/img/players/A Sengun.png",
+    "full_name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "nationality": "Turkey",
+    "positions": ["Center", "Power Forward"],
+    "description": "Rookie center with post moves and rebounding skills."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "L Doncic",
+    "img": "/basket/img/players/L Doncic.png",
+    "full_name": "Luka Doncic",
+    "team": "Dallas Mavericks",
+    "nationality": "Slovenia",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Young star known for his playmaking and scoring."
+  },
+  {
+    "id": 2,
+    "last_name": "K Irving",
+    "img": "/basket/img/players/K Irving.png",
+    "full_name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Elite guard with exceptional ball-handling and scoring."
+  },
+  {
+    "id": 3,
+    "last_name": "T Hardaway Jr",
+    "img": "/basket/img/players/T Hardaway Jr.png",
+    "full_name": "Tim Hardaway Jr.",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Scoring forward known for his three-point shooting."
+  },
+  {
+    "id": 4,
+    "last_name": "G Williams",
+    "img": "/basket/img/players/G Williams.png",
+    "full_name": "Gregg Williams",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Rookie forward with potential and athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "D Lively II",
+    "img": "/basket/img/players/D Lively II.png",
+    "full_name": "Dereck Lively II",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Young center with shot-blocking ability."
+  }
+]

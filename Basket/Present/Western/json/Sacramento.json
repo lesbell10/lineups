@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Fox",
+    "img": "/basket/img/players/D Fox.png",
+    "full_name": "De'Aaron Fox",
+    "team": "Sacramento Kings",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Speedy point guard with playmaking ability."
+  },
+  {
+    "id": 2,
+    "last_name": "M Monk",
+    "img": "/basket/img/players/M Monk.png",
+    "full_name": "Malik Monk",
+    "team": "Sacramento Kings",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Scoring guard with three-point shooting."
+  },
+  {
+    "id": 3,
+    "last_name": "H Barnes",
+    "img": "/basket/img/players/H Barnes.png",
+    "full_name": "Harrison Barnes",
+    "team": "Sacramento Kings",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward with scoring and defensive skills."
+  },
+  {
+    "id": 4,
+    "last_name": "K Murray",
+    "img": "/basket/img/players/K Murray.png",
+    "full_name": "Keegan Murray",
+    "team": "Sacramento Kings",
+    "nationality": "USA",
+    "positions": ["Forward"],
+    "description": "A talented forward known for his scoring and versatility on the court."
+  },
+  {
+    "id": 5,
+    "last_name": "D Sabonis",
+    "img": "/basket/img/players/D Sabonis.png",
+    "full_name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "nationality": "Lithuania",
+    "positions": ["Center", "Power Forward"],
+    "description": "Skilled big man with rebounding and passing skills."
+  }
+]

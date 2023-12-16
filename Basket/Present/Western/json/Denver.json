@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Murray",
+    "img": "/basket/img/players/J Murray.png",
+    "full_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "nationality": "Canada",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Talented guard with scoring and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "K Caldwell-Pope",
+    "img": "/basket/img/players/K Caldwell-Pope.png",
+    "full_name": "Kentavious Caldwell-Pope",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Defensive-minded guard known for three-point shooting."
+  },
+  {
+    "id": 3,
+    "last_name": "M Porter Jr",
+    "img": "/basket/img/players/M Porter Jr.png",
+    "full_name": "Michael Porter Jr",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward with scoring and rebounding ability."
+  },
+  {
+    "id": 4,
+    "last_name": "A Gordon",
+    "img": "/basket/img/players/A Gordon.png",
+    "full_name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Athletic forward known for his defensive skills."
+  },
+  {
+    "id": 5,
+    "last_name": "N Jokic",
+    "img": "/basket/img/players/N Jokic.png",
+    "full_name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "nationality": "Serbia",
+    "positions": ["Center"],
+    "description": "MVP center known for his all-around skills."
+  }
+]
