@@ -30,7 +30,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png ";
         C2.src = "/basket/img/players/" + C.textContent + ".png ";
 
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
+        smallpic.src = "/basket/img/logos/europe.png";
+
+        MainFetchPopUp("/basket/present/nations/json/europe.json");
     }
 
 
@@ -38,7 +40,7 @@ function updatePlayerInfo() {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Murray";
         SF.textContent = "P Siakam";
-        PF.textContent = "KA Towns";
+        PF.textContent = "RJ Barrett";
         C.textContent = "J Embiid";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -47,7 +49,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
+        smallpic.src = "/basket/img/logos/rest of world.png";
+
+        MainFetchPopUp("/basket/present/nations/json/rest of world.json");
     }
 
     
@@ -64,7 +68,9 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
        
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
+        smallpic.src = "/basket/img/logos/usa.gif";
+
+        MainFetchPopUp("/basket/present/nations/json/usa.json");
         
     }
 
@@ -117,14 +123,16 @@ const updateDropdown = () => {
         PF.textContent = "D Sabonis";
         C.textContent = "K Porzingis";
 
-    PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-    SG2.src = "/basket/img/players/" + SG.textContent + ".png ";
-    SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-    PF2.src = "/basket/img/players/" + PF.textContent + ".png ";
-    C2.src = "/basket/img/players/" + C.textContent + ".png ";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png ";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png ";
+        C2.src = "/basket/img/players/" + C.textContent + ".png ";
 
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
-     }
+        smallpic.src = "/basket/img/logos/europe.png";
+
+        MainFetchPopUp("/basket/present/nations/json/europe.json");
+    }
 
 
     if (selectedYear === 1) {
@@ -134,32 +142,37 @@ const updateDropdown = () => {
         PF.textContent = "KA Towns";
         C.textContent = "J Embiid";
 
-    PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-    SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-    SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-    PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-    C2.src = "/basket/img/players/" + C.textContent + ".png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
+        smallpic.src = "/basket/img/logos/rest of world.png";
+
+        MainFetchPopUp("/basket/present/nations/json/rest of world.json");
     }
 
-    
-   if (selectedYear === 2) {
+
+    if (selectedYear === 2) {
         PG.textContent = "S Curry";
         SG.textContent = "J Butler";
         SF.textContent = "L James";
         PF.textContent = "J Tatum";
         C.textContent = "K Durant";
 
-    PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-    SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-    SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-    PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-       C2.src = "/basket/img/players/" + C.textContent + ".png";
-       
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
-        
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+        smallpic.src = "/basket/img/logos/usa.gif";
+
+        MainFetchPopUp("/basket/present/nations/json/usa.json");
+
     }
+
 
     function clearAndFadeInElements() {
         const elements = [

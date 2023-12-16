@@ -66,6 +66,9 @@ Promise.all([
     loadJSON('/basket/present/western/json/sacramento.json'),
     loadJSON('/basket/present/western/json/san antonio.json'),
     loadJSON('/basket/present/western/json/utah.json'),
+    // loadJSON('/basket/present/nations/json/usa.json'),
+    loadJSON('/basket/present/nations/json/europe.json'),
+    // loadJSON('/basket/present/nations/json/rest of world.json'),
 
 
 ]).then(files => {

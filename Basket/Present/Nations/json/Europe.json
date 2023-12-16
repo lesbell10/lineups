@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "L Doncic",
+    "img": "/basket/img/players/L Doncic.png",
+    "full_name": "Luka Dončić",
+    "team": "Dallas Mavericks",
+    "nationality": "Slovenia",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Young superstar known for his exceptional skills and court vision."
+  },
+  {
+    "id": 2,
+    "last_name": "N Jokic",
+    "img": "/basket/img/players/N Jokic.png",
+    "full_name": "Nikola Jokić",
+    "team": "Denver Nuggets",
+    "nationality": "Serbia",
+    "positions": ["Center"],
+    "description": "Reigning MVP and versatile big man with exceptional passing."
+  },
+  {
+    "id": 3,
+    "last_name": "G Antetokounmpo",
+    "img": "/basket/img/players/G Antetokounmpo.png",
+    "full_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "nationality": "Greece",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Two-time MVP and athletic forward known for his versatility."
+  },
+  {
+    "id": 4,
+    "last_name": "D Sabonis",
+    "img": "/basket/img/players/D Sabonis.png",
+    "full_name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "nationality": "Lithuania",
+    "positions": ["Center", "Power Forward"],
+    "description": "Skilled big man known for his rebounding and passing ability."
+  },
+  {
+    "id": 5,
+    "last_name": "K Porzingis",
+    "img": "/basket/img/players/K Porzingis.png",
+    "full_name": "Kristaps Porziņģis",
+    "team": "Boston Celtics",
+    "nationality": "Latvia",
+    "positions": ["Power Forward", "Center"],
+    "description": "Talented big man with shot-blocking and scoring skills."
+  }
+]

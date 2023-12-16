@@ -2,13 +2,13 @@
 
   {
     "id": 1,
-    "last_name": "",
+    "last_name": ,
     "img": "/football/img/players/{last_name}}.webp",
-    "full_name": "",
-    "team": "",
-    "nationality": "(name)",
-    "position": "",
-    "description": "(8 words.)".
+    "full_name": ,
+    "team": ,
+    "nationality": (name),
+    "position": ,
+    "description": (8 words.),
   }
 
 ----------------------------------------------- HOCKEY ------------------------------------------
