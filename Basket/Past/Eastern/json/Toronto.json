@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "K Lowry",
+    "img": "/basket/img/players/K Lowry.png",
+    "full_name": "Kyle Lowry",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his leadership and defense."
+  },
+  {
+    "id": 2,
+    "last_name": "D DeRozan",
+    "img": "/basket/img/players/D DeRozan.png",
+    "full_name": "DeMar DeRozan",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "All-Star wing known for his scoring and mid-range game."
+  },
+  {
+    "id": 3,
+    "last_name": "K Leonard",
+    "img": "/basket/img/players/K Leonard.png",
+    "full_name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Two-time NBA Finals MVP known for his defense and clutch performances."
+  },
+  {
+    "id": 4,
+    "last_name": "C Bosh",
+    "img": "/basket/img/players/C Bosh.png",
+    "full_name": "Chris Bosh",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA star known for his versatility and shot-blocking."
+  },
+  {
+    "id": 5,
+    "last_name": "J Valanciunas",
+    "img": "/basket/img/players/J Valanciunas.png",
+    "full_name": "Jonas Valanciunas",
+    "team": "New Orleans Pelicans",
+    "nationality": "Lithuania",
+    "positions": ["Center"],
+    "description": "Skilled big man known for his rebounding and inside scoring."
+  }
+]

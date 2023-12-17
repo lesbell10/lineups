@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "M Conley",
+    "img": "/basket/img/players/M Conley.png",
+    "full_name": "Mike Conley", 
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his playmaking and defense."
+  },
+  {
+    "id": 2,
+    "last_name": "T Allen",
+    "img": "/basket/img/players/T Allen.png",
+    "full_name": "Tony Allen",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Former NBA guard known for his tenacious defense."
+  },
+  {
+    "id": 3,
+    "last_name": "R Gay",
+    "img": "/basket/img/players/R Gay.png",
+    "full_name": "Rudy Gay",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward known for his scoring ability."
+  },
+  {
+    "id": 4,
+    "last_name": "Z Randolph",
+    "img": "/basket/img/players/Z Randolph.png",
+    "full_name": "Zach Randolph",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Former NBA forward known for his post play and rebounding."
+  },
+  {
+    "id": 5,
+    "last_name": "M Gasol",
+    "img": "/basket/img/players/M Gasol.png",
+    "full_name": "Marc Gasol",
+    "team": "Retired",
+    "nationality": "Spain",
+    "positions": ["Center"],
+    "description": "Former NBA center known for his passing and defense."
+  }
+]

@@ -69,6 +69,40 @@ Promise.all([
     loadJSON('/basket/present/nations/json/usa.json'),
     loadJSON('/basket/present/nations/json/europe.json'),
     loadJSON('/basket/present/nations/json/rest of world.json'),
+    loadJSON('/basket/past/eastern/json/atlanta.json'),
+    loadJSON('/basket/past/eastern/json/boston.json'),
+    loadJSON('/basket/past/eastern/json/brooklyn.json'),
+    loadJSON('/basket/past/eastern/json/charlotte.json'),
+    loadJSON('/basket/past/eastern/json/chicago.json'),
+    loadJSON('/basket/past/eastern/json/cleveland.json'),
+    loadJSON('/basket/past/eastern/json/detroit.json'),
+    loadJSON('/basket/past/eastern/json/indiana.json'),
+    loadJSON('/basket/past/eastern/json/miami.json'),
+    loadJSON('/basket/past/eastern/json/milwaukee.json'),
+    loadJSON('/basket/past/eastern/json/new york.json'),
+    loadJSON('/basket/past/eastern/json/orlando.json'),
+    loadJSON('/basket/past/eastern/json/philadelphia.json'),
+    loadJSON('/basket/past/eastern/json/toronto.json'),
+    loadJSON('/basket/past/eastern/json/washington.json'),
+    loadJSON('/basket/past/western/json/dallas.json'),
+    loadJSON('/basket/past/western/json/denver.json'),
+    loadJSON('/basket/past/western/json/golden state.json'),
+    loadJSON('/basket/past/western/json/houston.json'),
+    loadJSON('/basket/past/western/json/la clippers.json'),
+    loadJSON('/basket/past/western/json/la lakers.json'),
+    loadJSON('/basket/past/western/json/memphis.json'),
+    loadJSON('/basket/past/western/json/minnesota.json'),
+    loadJSON('/basket/past/western/json/new orleans.json'),
+    loadJSON('/basket/past/western/json/oklahoma city.json'),
+    loadJSON('/basket/past/western/json/phoenix.json'),
+    loadJSON('/basket/past/western/json/portland.json'),
+    loadJSON('/basket/past/western/json/sacramento.json'),
+    loadJSON('/basket/past/western/json/san antonio.json'),
+    loadJSON('/basket/past/western/json/utah.json'),
+    // loadJSON('/basket/past/nations/json/usa.json'),
+    // loadJSON('/basket/past/nations/json/europe.json'),
+    // loadJSON('/basket/past/nations/json/rest of world.json'),
+
 
 
 ]).then(files => {
@@ -178,7 +212,7 @@ document.querySelector("body").style.background = "grey";
     // Check if there are no players in the array
     if (playersToDisplay.length === 0) {
         // Display a 'no results found' message
-        resultsContainer.innerHTML = '<h1>No players found.</h1>';
+        resultsContainer.innerHTML = '<h1>No players found</h1>';
         document.getElementById('count').innerHTML = ""
         document.getElementById('pagination').innerHTML = ""
         return; // Exit the function as there's nothing more to do
@@ -227,7 +261,11 @@ document.querySelector("body").style.background = "grey";
         // Append the wrapperDiv to the resultsContainer
         resultsContainer.appendChild(wrapperDiv);
 
-         document.getElementById('count').innerHTML = `<h1>${players.length} player(s) found</h1>`
+        const message = players.length === 1
+            ? `<h1>${players.length} player found</h1>`
+            : `<h1>${players.length} players found</h1>`;
+
+         document.getElementById('count').innerHTML = message
     });
         addPaginationControls(pageCount, filteredPlayers);
 }

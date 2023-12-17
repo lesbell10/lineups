@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "G Dragic",
+    "img": "/basket/img/players/G Dragic.png",
+    "full_name": "Goran Dragic",
+    "team": "Milwaukee Bucks",
+    "nationality": "Slovenia",
+    "positions": ["Point Guard"],
+    "description": "Crafty point guard known for his scoring and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "D Wade",
+    "img": "/basket/img/players/D Wade.png",
+    "full_name": "Dwyane Wade",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "NBA legend known for his scoring and leadership."
+  },
+  {
+    "id": 3,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his tenacity and scoring ability."
+  },
+  {
+    "id": 4,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA legend with multiple championships and MVP awards."
+  },
+  {
+    "id": 5,
+    "last_name": "C Bosh",
+    "img": "/basket/img/players/C Bosh.png",
+    "full_name": "Chris Bosh",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA star known for his versatility and defense."
+  }
+]

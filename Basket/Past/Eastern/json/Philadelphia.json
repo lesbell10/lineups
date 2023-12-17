@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "B Simmons",
+    "img": "/basket/img/players/B Simmons.png",
+    "full_name": "Ben Simmons",
+    "team": "Brooklyn Nets",
+    "nationality": "Australia",
+    "positions": ["Point Guard", "Power Forward"],
+    "description": "Versatile player known for his defense and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "J Holiday",
+    "img": "/basket/img/players/J Holiday.png",
+    "full_name": "Jrue Holiday",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Two-way guard known for his defense and playmaking."
+  },
+  {
+    "id": 3,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his scoring and leadership."
+  },
+  {
+    "id": 4,
+    "last_name": "T Harris",
+    "img": "/basket/img/players/T Harris.png",
+    "full_name": "Tobias Harris",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward known for his scoring and clutch play."
+  },
+  {
+    "id": 5,
+    "last_name": "J Embiid",
+    "img": "/basket/img/players/J Embiid.png",
+    "full_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "nationality": "Cameroon",
+    "positions": ["Center"],
+    "description": "Dominant center and MVP candidate."
+  }
+]

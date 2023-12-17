@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "L Doncic",
+    "img": "/basket/img/players/L Doncic.png",
+    "full_name": "Luka Dončić",
+    "team": "Dallas Mavericks",
+    "nationality": "Slovenia",
+    "positions": ["Point Guard", "Shooting Guard", "Small Forward"],
+    "description": "Young superstar known for his scoring and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "J Kidd",
+    "img": "/basket/img/players/J Kidd.png",
+    "full_name": "Jason Kidd",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Hall of Fame point guard known for his passing and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "M Ellis",
+    "img": "/basket/img/players/M Ellis.png",
+    "full_name": "Monta Ellis",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Former NBA guard known for his scoring ability."
+  },
+  {
+    "id": 4,
+    "last_name": "D Nowitzki",
+    "img": "/basket/img/players/D Nowitzki.png",
+    "full_name": "Dirk Nowitzki",
+    "team": "Retired",
+    "nationality": "Germany",
+    "positions": ["Power Forward", "Center"],
+    "description": "NBA legend and all-time leading scorer for the Mavericks."
+  },
+  {
+    "id": 5,
+    "last_name": "T Chandler",
+    "img": "/basket/img/players/T Chandler.png",
+    "full_name": "Tyson Chandler",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Former NBA center known for his defense and rebounding."
+  }
+]

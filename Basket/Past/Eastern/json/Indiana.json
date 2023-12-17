@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "G Hill",
+    "img": "/basket/img/players/G Hill.png",
+    "full_name": "George Hill",
+    "team": "Indiana Pacers",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his defense and three-point shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "V Oladipo",
+    "img": "/basket/img/players/V Oladipo.png",
+    "full_name": "Victor Oladipo",
+    "team": "Houston Rockets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Talented two-way guard known for his athleticism."
+  },
+  {
+    "id": 3,
+    "last_name": "P George",
+    "img": "/basket/img/players/P George.png",
+    "full_name": "Paul George",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his scoring and defense."
+  },
+  {
+    "id": 4,
+    "last_name": "D West",
+    "img": "/basket/img/players/D West.png",
+    "full_name": "David West",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Former NBA player known for his toughness and mid-range game."
+  },
+  {
+    "id": 5,
+    "last_name": "R Hibbert",
+    "img": "/basket/img/players/R Hibbert.png",
+    "full_name": "Roy Hibbert",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Former All-Star center known for rim protection."
+  }
+]

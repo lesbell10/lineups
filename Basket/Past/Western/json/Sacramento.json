@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "I Thomas",
+    "img": "/basket/img/players/I Thomas.png",
+    "full_name": "Isaiah Thomas",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former All-Star point guard known for his scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "T Evans",
+    "img": "/basket/img/players/T Evans.png",
+    "full_name": "Tyreke Evans",
+    "team": "Broncos de Caracas (Venezuela)",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile wing player known for his scoring and playmaking."
+  },
+  {
+    "id": 3,
+    "last_name": "B Hield",
+    "img": "/basket/img/players/B Hield.png",
+    "full_name": "Buddy Hield",
+    "team": "Indiana Pacers",
+    "nationality": "Bahamas",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Sharpshooting guard known for his three-point shooting."
+  },
+  {
+    "id": 4,
+    "last_name": "R Gay",
+    "img": "/basket/img/players/R Gay.png",
+    "full_name": "Rudy Gay",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward known for his scoring and athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "D Cousins",
+    "img": "/basket/img/players/D Cousins.png",
+    "full_name": "DeMarcus Cousins",
+    "team": "Mets de Guaynabo (Puerto Rico)",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Versatile center with scoring and rebounding skills."
+  }
+]

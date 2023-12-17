@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Rose",
+    "img": "/basket/img/players/D Rose.png",
+    "full_name": "Derrick Rose",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former MVP known for his explosive athleticism."
+  },
+  {
+    "id": 2,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "All-Star known for his leadership and scoring."
+  },
+  {
+    "id": 3,
+    "last_name": "L Deng",
+    "img": "/basket/img/players/L Deng.png",
+    "full_name": "Luol Deng",
+    "team": "Retired",
+    "nationality": "South Sudan / UK",
+    "positions": ["Small Forward"],
+    "description": "Former NBA player known for his defensive prowess."
+  },
+  {
+    "id": 4,
+    "last_name": "C Boozer",
+    "img": "/basket/img/players/C Boozer.png",
+    "full_name": "Carlos Boozer",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Former NBA big man known for his scoring and rebounding."
+  },
+  {
+    "id": 5,
+    "last_name": "J Noah",
+    "img": "/basket/img/players/J Noah.png",
+    "full_name": "Joakim Noah",
+    "team": "Retired",
+    "nationality": "USA / France",
+    "positions": ["Center"],
+    "description": "Former NBA Defensive Player of the Year and versatile center."
+  }
+]

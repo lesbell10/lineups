@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Wall",
+    "img": "/basket/img/players/J Wall.png",
+    "full_name": "John Wall",
+    "team": "Houston Rockets",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Dynamic point guard known for his speed and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "B Beal",
+    "img": "/basket/img/players/B Beal.png",
+    "full_name": "Bradley Beal",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "High-scoring shooting guard and All-Star."
+  },
+  {
+    "id": 3,
+    "last_name": "G Arenas",
+    "img": "/basket/img/players/G Arenas.png",
+    "full_name": "Gilbert Arenas",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Former NBA star known for his scoring and clutch shots."
+  },
+  {
+    "id": 4,
+    "last_name": "O Porter Jr",
+    "img": "/basket/img/players/O Porter Jr.png",
+    "full_name": "Otto Porter Jr",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward known for his three-point shooting and defense."
+  },
+  {
+    "id": 5,
+    "last_name": "N Hilario",
+    "img": "/basket/img/players/N Hilario.png",
+    "full_name": "Nene Hilario",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "positions": ["Center"],
+    "description": "Former NBA center known for his post play and defense."
+  }
+]

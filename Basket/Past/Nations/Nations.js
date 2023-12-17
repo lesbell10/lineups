@@ -35,11 +35,11 @@ function updatePlayerInfo() {
         MainFetchPopUp("/basket/past/nations/json/usa.json");
 
     } if (selectedYear === "0") {
-        SG.textContent = "Doncic";
+        SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
-        SF.textContent = "Nowitzki";
+        SF.textContent = "D Nowitzki";
         PF.textContent = "G Antetokounmpo";
-        C.textContent = "Jokic";
+        C.textContent = "N Jokic";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -52,11 +52,11 @@ function updatePlayerInfo() {
         MainFetchPopUp("/basket/past/nations/json/europe.json");
 
     } if (selectedYear === "1") {
-        SG.textContent = "Ginobili";
+        SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
         SF.textContent = "Olajuwon";
-        PF.textContent = "Embiid";
-        C.textContent = "Bogut";
+        PF.textContent = "J Embiid";
+        C.textContent = "A Horford";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";

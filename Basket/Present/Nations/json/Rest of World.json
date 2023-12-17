@@ -31,13 +31,13 @@
   },
   {
     "id": 4,
-    "last_name": "RJ Barrett",
-    "img": "/basket/img/players/RJ Barrett.png",
-    "full_name": "RJ Barrett",
-    "team": "New York Knicks",
-    "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
-    "description": "Young forward with scoring potential."
+    "last_name": "A Horford",
+    "img": "/basket/img/players/A Horford.png",
+    "full_name": "Al Horford",
+    "team": "Boston Celtics",
+    "nationality": "Dominican Republic",
+    "positions": ["Power Forward", "Center"],
+    "description": "Veteran forward/center known for exceptional passing and defense."
   },
   {
     "id": 5,

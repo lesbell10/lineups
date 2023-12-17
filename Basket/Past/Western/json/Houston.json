@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "C Paul",
+    "img": "/basket/img/players/C Paul.png",
+    "full_name": "Chris Paul",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his leadership and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "J Harden",
+    "img": "/basket/img/players/J Harden.png",
+    "full_name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Former MVP and elite scorer known for his step-back three."
+  },
+  {
+    "id": 3,
+    "last_name": "R Westbrook",
+    "img": "/basket/img/players/R Westbrook.png",
+    "full_name": "Russell Westbrook",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Triple-double machine and explosive guard."
+  },
+  {
+    "id": 4,
+    "last_name": "C Capela",
+    "img": "/basket/img/players/C Capela.png",
+    "full_name": "Clint Capela",
+    "team": "Atlanta Hawks",
+    "nationality": "Switzerland",
+    "positions": ["Center"],
+    "description": "Athletic center known for his shot-blocking and rebounding."
+  },
+  {
+    "id": 5,
+    "last_name": "D Howard",
+    "img": "/basket/img/players/D Howard.png",
+    "full_name": "Dwight Howard",
+    "team": "Taoyuan Leopards (Taiwan)",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "NBA superstar and dominant big man."
+  }
+]

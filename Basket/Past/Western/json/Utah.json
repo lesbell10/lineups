@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "D Williams",
+    "img": "/basket/img/players/D Williams.png",
+    "full_name": "Deron Williams",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former All-Star point guard known for his playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "D Mitchell",
+    "img": "/basket/img/players/D Mitchell.png",
+    "full_name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Young star guard known for his scoring and athleticism."
+  },
+  {
+    "id": 3,
+    "last_name": "G Hayward",
+    "img": "/basket/img/players/G Hayward.png",
+    "full_name": "Gordon Hayward",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward known for his scoring and playmaking."
+  },
+  {
+    "id": 4,
+    "last_name": "A Jefferson",
+    "img": "/basket/img/players/A Jefferson.png",
+    "full_name": "Al Jefferson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA big man known for his low-post scoring."
+  },
+  {
+    "id": 5,
+    "last_name": "R Gobert",
+    "img": "/basket/img/players/R Gobert.png",
+    "full_name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "nationality": "France",
+    "positions": ["Center"],
+    "description": "Two-time NBA Defensive Player of the Year known for his shot-blocking and rebounding."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "R Rubio",
+    "img": "/basket/img/players/R Rubio.png",
+    "full_name": "Ricky Rubio",
+    "team": "Cleveland Cavaliers",
+    "nationality": "Spain",
+    "positions": ["Point Guard"],
+    "description": "Talented point guard known for his passing and court vision."
+  },
+  {
+    "id": 2,
+    "last_name": "A Wiggins",
+    "img": "/basket/img/players/A Wiggins.png",
+    "full_name": "Andrew Wiggins",
+    "team": "Golden State Warriors",
+    "nationality": "Canada",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile wing player known for his scoring ability."
+  },
+  {
+    "id": 3,
+    "last_name": "J Butler",
+    "img": "/basket/img/players/J Butler.png",
+    "full_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his scoring and defensive skills."
+  },
+  {
+    "id": 4,
+    "last_name": "K Love",
+    "img": "/basket/img/players/K Love.png",
+    "full_name": "Kevin Love",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "NBA champion and elite rebounder."
+  },
+  {
+    "id": 5,
+    "last_name": "KA Towns",
+    "img": "/basket/img/players/KA Towns.png",
+    "full_name": "Karl-Anthony Towns",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Young star center known for his scoring and rebounding."
+  }
+]

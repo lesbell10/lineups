@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "R Westbrook",
+    "img": "/basket/img/players/R Westbrook.png",
+    "full_name": "Russell Westbrook",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Triple-double machine and explosive guard."
+  },
+  {
+    "id": 2,
+    "last_name": "J Harden",
+    "img": "/basket/img/players/J Harden.png",
+    "full_name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Former MVP and elite scorer known for his step-back three."
+  },
+  {
+    "id": 3,
+    "last_name": "P George",
+    "img": "/basket/img/players/P George.png",
+    "full_name": "Paul George",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his scoring and defense."
+  },
+  {
+    "id": 4,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/K Durant.png",
+    "full_name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA superstar and one of the league's best scorers."
+  },
+  {
+    "id": 5,
+    "last_name": "S Ibaka",
+    "img": "/basket/img/players/S Ibaka.png",
+    "full_name": "Serge Ibaka",
+    "team": "Bayern Munich (Germany)",
+    "nationality": "Congo",
+    "positions": ["Power Forward", "Center"],
+    "description": "Versatile forward/center known for his shot-blocking and defense."
+  }
+]

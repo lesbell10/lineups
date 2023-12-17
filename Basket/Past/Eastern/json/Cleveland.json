@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "K Irving",
+    "img": "/basket/img/players/K Irving.png",
+    "full_name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Elite point guard known for his ball-handling and scoring."
+  },
+  {
+    "id": 2,
+    "last_name": "JR Smith",
+    "img": "/basket/img/players/JR Smith.png",
+    "full_name": "JR Smith",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Former NBA player known for his three-point shooting."
+  },
+  {
+    "id": 3,
+    "last_name": "L James",
+    "img": "/basket/img/players/L James.png",
+    "full_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA legend with multiple championships."
+  },
+  {
+    "id": 4,
+    "last_name": "K Love",
+    "img": "/basket/img/players/K Love.png",
+    "full_name": "Kevin Love",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Skilled forward known for his rebounding and shooting."
+  },
+  {
+    "id": 5,
+    "last_name": "T Thompson",
+    "img": "/basket/img/players/T Thompson.png",
+    "full_name": "Tristan Thompson",
+    "team": "Cleveland Cavaliers",
+    "nationality": "Canada",
+    "positions": ["Center"],
+    "description": "Rebounding specialist and rim protector."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "S Curry",
+    "img": "/basket/img/players/S Curry.png",
+    "full_name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "NBA superstar known for his incredible shooting and ball-handling."
+  },
+  {
+    "id": 2,
+    "last_name": "K Thompson",
+    "img": "/basket/img/players/K Thompson.png",
+    "full_name": "Klay Thompson",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Elite shooter and key part of the Warriors' success."
+  },
+  {
+    "id": 3,
+    "last_name": "A Iguodala",
+    "img": "/basket/img/players/A Iguodala.png",
+    "full_name": "Andre Iguodala",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Versatile forward known for his defense and clutch plays."
+  },
+  {
+    "id": 4,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/K Durant.png",
+    "full_name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "NBA superstar and one of the league's best scorers."
+  },
+  {
+    "id": 5,
+    "last_name": "D Green",
+    "img": "/basket/img/players/D Green.png",
+    "full_name": "Draymond Green",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Versatile forward known for his defense and playmaking."
+  }
+]

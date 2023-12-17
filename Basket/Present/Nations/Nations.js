@@ -40,7 +40,7 @@ function updatePlayerInfo() {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Murray";
         SF.textContent = "P Siakam";
-        PF.textContent = "RJ Barrett";
+        PF.textContent = "A Horford";
         C.textContent = "J Embiid";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";

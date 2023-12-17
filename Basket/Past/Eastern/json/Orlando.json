@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "J Nelson",
+    "img": "/basket/img/players/J Nelson.png",
+    "full_name": "Jameer Nelson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former NBA point guard known for his leadership."
+  },
+  {
+    "id": 2,
+    "last_name": "E Fournier",
+    "img": "/basket/img/players/E Fournier.png",
+    "full_name": "Evan Fournier",
+    "team": "New York Knicks",
+    "nationality": "France",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Talented scorer known for his offensive versatility."
+  },
+  {
+    "id": 3,
+    "last_name": "A Gordon",
+    "img": "/basket/img/players/A Gordon.png",
+    "full_name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Athletic forward known for his high-flying dunks and defense."
+  },
+  {
+    "id": 4,
+    "last_name": "N Vucevic",
+    "img": "/basket/img/players/N Vucevic.png",
+    "full_name": "Nikola Vucevic",
+    "team": "Chicago Bulls",
+    "nationality": "Montenegro",
+    "positions": ["Center"],
+    "description": "Skilled center known for his scoring and rebounding."
+  },
+  {
+    "id": 5,
+    "last_name": "D Howard",
+    "img": "/basket/img/players/D Howard.png",
+    "full_name": "Dwight Howard",
+    "team": "Beer Leopards (Taiwan)",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "NBA superstar and dominant big man."
+  }
+]

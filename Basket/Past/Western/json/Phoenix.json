@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "S Nash",
+    "img": "/basket/img/players/S Nash.png",
+    "full_name": "Steve Nash",
+    "team": "Retired",
+    "nationality": "Canada",
+    "positions": ["Point Guard"],
+    "description": "Two-time NBA MVP known for his playmaking and shooting."
+  },
+  {
+    "id": 2,
+    "last_name": "C Paul",
+    "img": "/basket/img/players/C Paul.png",
+    "full_name": "Chris Paul",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his leadership and playmaking."
+  },
+  {
+    "id": 3,
+    "last_name": "G Dragic",
+    "img": "/basket/img/players/G Dragic.png",
+    "full_name": "Goran Dragic",
+    "team": "Milwaukee Bucks",
+    "nationality": "Slovenia",
+    "positions": ["Point Guard"],
+    "description": "Talented point guard known for his scoring and speed."
+  },
+  {
+    "id": 4,
+    "last_name": "A Stoudemire",
+    "img": "/basket/img/players/A Stoudemire.png",
+    "full_name": "Amar'e Stoudemire",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA All-Star known for his athleticism and scoring."
+  },
+  {
+    "id": 5,
+    "last_name": "D Ayton",
+    "img": "/basket/img/players/D Ayton.png",
+    "full_name": "Deandre Ayton",
+    "team": "Portland Trail Blazers",
+    "nationality": "Bahamas",
+    "positions": ["Center"],
+    "description": "Young center with great potential known for his rebounding and inside presence."
+  }
+]

@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
     if (selectedYear === "1") {
         PG.textContent = "J Murray";
-        SG.textContent = "K Caldwell-Pope";
+        SG.textContent = "K Caldwell-P";
         SF.textContent = "M Porter Jr";
         PF.textContent = "A Gordon";
         C.textContent = "N Jokic";
@@ -356,7 +356,7 @@ const updateDropdown = () => {
 
     if (selectedYear === 1) {
         PG.textContent = "J Murray";
-        SG.textContent = "K Caldwell-Pope";
+        SG.textContent = "K Caldwell-P";
         SF.textContent = "M Porter Jr";
         PF.textContent = "A Gordon";
         C.textContent = "N Jokic";

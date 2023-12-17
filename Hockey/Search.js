@@ -225,7 +225,7 @@ function displayResults(players) {
     // Check if there are no players in the array
     if (playersToDisplay.length === 0) {
         // Display a 'no results found' message
-        resultsContainer.innerHTML = '<h1>No players found.</h1>';
+        resultsContainer.innerHTML = '<h1>No players found</h1>';
         document.getElementById('count').innerHTML = ""
         document.getElementById('pagination').innerHTML = ""
         return; // Exit the function as there's nothing more to do
@@ -274,7 +274,12 @@ function displayResults(players) {
         // Append the wrapperDiv to the resultsContainer
         resultsContainer.appendChild(wrapperDiv);
 
-        document.getElementById('count').innerHTML = `<h1>${players.length} player(s) found</h1>`
+        const message = players.length === 1
+            ? `<h1>${players.length} player found</h1>`
+            : `<h1>${players.length} players found</h1>`;
+
+        document.getElementById('count').innerHTML = message
+
     });
     addPaginationControls(pageCount, filteredPlayers);
 }

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "R Rondo",
+    "img": "/basket/img/players/R Rondo.png",
+    "full_name": "Rajon Rondo",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Veteran point guard known for his court vision and playmaking skills."
+  },
+  {
+    "id": 2,
+    "last_name": "I Thomas",
+    "img": "/basket/img/players/I Thomas.png",
+    "full_name": "Isaiah Thomas",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Scoring guard known for his ability to light up the scoreboard."
+  },
+  {
+    "id": 3,
+    "last_name": "J Tatum",
+    "img": "/basket/img/players/J Tatum.png",
+    "full_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Young star with a silky-smooth scoring touch and great potential."
+  },
+  {
+    "id": 4,
+    "last_name": "P Pierce",
+    "img": "/basket/img/players/P Pierce.png",
+    "full_name": "Paul Pierce",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Celtics legend known for clutch performances and scoring ability."
+  },
+  {
+    "id": 5,
+    "last_name": "K Garnett",
+    "img": "/basket/img/players/K Garnett.png",
+    "full_name": "Kevin Garnett",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Hall of Famer and fierce competitor known for his defensive prowess."
+  }
+]

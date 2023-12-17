@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "T Young",
+    "img": "/basket/img/players/T Young.png",
+    "full_name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Dynamic point guard known for his scoring and playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "J Johnson",
+    "img": "/basket/img/players/J Johnson.png",
+    "full_name": "Joe Johnson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile scorer with a long and successful NBA career."
+  },
+  {
+    "id": 3,
+    "last_name": "J Smith",
+    "img": "/basket/img/players/J Smith.png",
+    "full_name": "Josh Smith",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Athletic forward known for his shot-blocking and versatility."
+  },
+  {
+    "id": 4,
+    "last_name": "A Horford",
+    "img": "/basket/img/players/A Horford.png",
+    "full_name": "Al Horford",
+    "team": "Boston Celtics",
+    "nationality": "Dominican Republic",
+    "positions": ["Power Forward", "Center"],
+    "description": "Veteran big man with exceptional passing and defense."
+  },
+  {
+    "id": 5,
+    "last_name": "P Millsap",
+    "img": "/basket/img/players/P Millsap.png",
+    "full_name": "Paul Millsap",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Skilled forward known for his scoring and rebounding."
+  }
+]

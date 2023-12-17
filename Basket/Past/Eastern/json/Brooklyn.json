@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "K Irving",
+    "img": "/basket/img/players/K Irving.png",
+    "full_name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Elite point guard known for his ball-handling and scoring."
+  },
+  {
+    "id": 2,
+    "last_name": "D Williams",
+    "img": "/basket/img/players/D Williams.png",
+    "full_name": "Deron Williams",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former NBA star known for his playmaking abilities."
+  },
+  {
+    "id": 3,
+    "last_name": "J Johnson",
+    "img": "/basket/img/players/J Johnson.png",
+    "full_name": "Joe Johnson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile scorer with a long and successful NBA career."
+  },
+  {
+    "id": 4,
+    "last_name": "K Durant",
+    "img": "/basket/img/players/K Durant.png",
+    "full_name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Two-time NBA champion and elite scorer."
+  },
+  {
+    "id": 5,
+    "last_name": "B Lopez",
+    "img": "/basket/img/players/B Lopez.png",
+    "full_name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Skilled big man known for his shot-blocking and scoring in the paint."
+  }
+]

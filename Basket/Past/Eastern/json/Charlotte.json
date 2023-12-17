@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "K Walker",
+    "img": "/basket/img/players/K Walker.png",
+    "full_name": "Kemba Walker",
+    "team": "AS Monaco (France)",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Dynamic point guard known for his scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "G Henderson",
+    "img": "/basket/img/players/G Henderson.png",
+    "full_name": "Gerald Henderson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard"],
+    "description": "Former NBA player known for his athleticism and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "N Batum",
+    "img": "/basket/img/players/N Batum.png",
+    "full_name": "Nicolas Batum",
+    "team": "Philadelphia 76ers",
+    "nationality": "France",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward known for his defensive skills."
+  },
+  {
+    "id": 4,
+    "last_name": "A Jefferson",
+    "img": "/basket/img/players/A Jefferson.png",
+    "full_name": "Al Jefferson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA big man with a strong post game."
+  },
+  {
+    "id": 5,
+    "last_name": "C Zeller",
+    "img": "/basket/img/players/C Zeller.png",
+    "full_name": "Cody Zeller",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Solid center known for his hustle and rebounding."
+  }
+]

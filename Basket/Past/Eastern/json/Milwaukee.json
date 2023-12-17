@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "E Bledsoe",
+    "img": "/basket/img/players/E Bledsoe.png",
+    "full_name": "Eric Bledsoe",
+    "team": "Shanghai Sharks (China)",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Athletic point guard known for his defensive skills."
+  },
+  {
+    "id": 2,
+    "last_name": "M Brogdon",
+    "img": "/basket/img/players/M Brogdon.png",
+    "full_name": "Malcolm Brogdon",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Talented guard known for his efficiency and versatility."
+  },
+  {
+    "id": 3,
+    "last_name": "K Middleton",
+    "img": "/basket/img/players/K Middleton.png",
+    "full_name": "Khris Middleton",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "All-Star forward known for his scoring and clutch play."
+  },
+  {
+    "id": 4,
+    "last_name": "G Antetokounmpo",
+    "img": "/basket/img/players/G Antetokounmpo.png",
+    "full_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "nationality": "Greece",
+    "positions": ["Power Forward", "Center"],
+    "description": "NBA superstar and reigning MVP known for his versatility and athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "B Lopez",
+    "img": "/basket/img/players/B Lopez.png",
+    "full_name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Skilled big man known for his shot-blocking and three-point shooting."
+  }
+]

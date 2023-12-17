@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "R Jackson",
+    "img": "/basket/img/players/R Jackson.png",
+    "full_name": "Reggie Jackson",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Versatile point guard known for his scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "K Caldwell-P",
+    "img": "/basket/img/players/K Caldwell-P.png",
+    "full_name": "Kentavious Caldwell-P",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile wing player known for his three-point shooting and defense."
+  },
+  {
+    "id": 3,
+    "last_name": "T Harris",
+    "img": "/basket/img/players/T Harris.png",
+    "full_name": "Tobias Harris",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Versatile forward known for his scoring and defense."
+  },
+  {
+    "id": 4,
+    "last_name": "B Griffin",
+    "img": "/basket/img/players/B Griffin.png",
+    "full_name": "Blake Griffin",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "Former All-Star forward known for his athleticism."
+  },
+  {
+    "id": 5,
+    "last_name": "A Drummond",
+    "img": "/basket/img/players/A Drummond.png",
+    "full_name": "Andre Drummond",
+    "team": "Chicago Bulls",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Dominant rebounder and rim protector."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "R Felton",
+    "img": "/basket/img/players/R Felton.png",
+    "full_name": "Raymond Felton",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Former NBA point guard known for his playmaking."
+  },
+  {
+    "id": 2,
+    "last_name": "JR Smith",
+    "img": "/basket/img/players/JR Smith.png",
+    "full_name": "JR Smith",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Former NBA player known for his three-point shooting."
+  },
+  {
+    "id": 3,
+    "last_name": "C Anthony",
+    "img": "/basket/img/players/C Anthony.png",
+    "full_name": "Carmelo Anthony",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Future Hall of Famer and elite scorer."
+  },
+  {
+    "id": 4,
+    "last_name": "A Stoudemire",
+    "img": "/basket/img/players/A Stoudemire.png",
+    "full_name": "Amar'e Stoudemire",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Former NBA star known for his athleticism and scoring ability."
+  },
+  {
+    "id": 5,
+    "last_name": "K Porzingis",
+    "img": "/basket/img/players/K Porzingis.png",
+    "full_name": "Kristaps Porzingis",
+    "team": "Boston Celtics",
+    "nationality": "Latvia",
+    "positions": ["Power Forward", "Center"],
+    "description": "Versatile big man with shot-blocking and three-point shooting."
+  }
+]
