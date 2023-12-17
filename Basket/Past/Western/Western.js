@@ -120,7 +120,7 @@ function updatePlayerInfo() {
         PF.textContent = "D Howard";
         C.textContent = "P Gasol";
 
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".webp";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
@@ -215,7 +215,7 @@ function updatePlayerInfo() {
         PF.textContent = "A Stoudemire";
         C.textContent = "D Ayton";
 
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".webp";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
@@ -223,7 +223,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/phoenix.gif";
 
-        MainFetchPopUp("/basket/present/eastern/json/phoenix.json");
+        MainFetchPopUp("/basket/past/western/json/phoenix.json");
     }
 
     if (selectedYear === "11") {
@@ -274,7 +274,7 @@ function updatePlayerInfo() {
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".webp";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
@@ -446,7 +446,7 @@ const updateDropdown = () => {
         PF.textContent = "D Howard";
         C.textContent = "P Gasol";
 
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".webp";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
@@ -541,7 +541,7 @@ const updateDropdown = () => {
         PF.textContent = "A Stoudemire";
         C.textContent = "D Ayton";
 
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".webp";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
@@ -601,7 +601,7 @@ const updateDropdown = () => {
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".webp";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
         smallpic.src = "/basket/img/logos/san antonio.gif";

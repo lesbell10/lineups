@@ -13,8 +13,8 @@ const smallpic = document.getElementById("smallpic");
 
 function updatePlayerInfo() {
 
-    SG.textContent = "J Harden";
     PG.textContent = "S Curry";
+    SG.textContent = "J Harden";
     SF.textContent = "L James";
     PF.textContent = "K Durant";
     C.textContent = "A Davis";
@@ -27,6 +27,7 @@ function updatePlayerInfo() {
 
     smallpic.src = "/basket/img/wallpapers/james 4.jpg";
 
+    MainFetchPopUp("/basket/past/past.json");
 
      function clearAndFadeInElements() {
         const elements = [

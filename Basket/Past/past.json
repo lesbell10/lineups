@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "last_name": "J Harden",
     "img": "/basket/img/players/J Harden.png",
     "full_name": "James Harden",
@@ -10,7 +10,7 @@
     "description": "One of the best scorers in the NBA."
   },
   {
-    "id": 2,
+    "id": 1,
     "last_name": "S Curry",
     "img": "/basket/img/players/S Curry.png",
     "full_name": "Stephen Curry",

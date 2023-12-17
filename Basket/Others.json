@@ -44,7 +44,7 @@
   {
     "id": 6,
     "last_name": "V Carter",
-    "img": "/basket/img/players/V Carter.png",
+    "img": "/basket/img/players/V Carter.webp",
     "full_name": "Vince Carter",
     "birth_date": "26-01-1977",
     "birthplace": "Daytona Beach, USA",
@@ -222,5 +222,205 @@
     "nationality": "USA",
     "positions": ["Power Forward"],
     "description": "Rebounding specialist and defensive powerhouse."
+  },
+  {
+    "id": 24,
+    "last_name": "M Finley",
+    "img": "/basket/img/players/M Finley.webp",
+    "full_name": "Michael Finley",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Former NBA player known for his scoring ability and versatility."
+  },
+  {
+    "id": 25,
+    "last_name": "D Mutombo",
+    "img": "/basket/img/players/D Mutombo.png",
+    "full_name": "Dikembe Mutombo",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Legendary shot-blocker and defensive presence in the NBA."
+  },
+  {
+    "id": 26,
+    "last_name": "T Prince",
+    "img": "/basket/img/players/T Prince.png",
+    "full_name": "Tayshaun Prince",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward known for his defense and length."
+  },
+  {
+    "id": 27,
+    "last_name": "W Chamberlain",
+    "img": "/basket/img/players/W Chamberlain.webp",
+    "full_name": "Wilt Chamberlain",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "One of the greatest basketball players in history, known for his scoring and rebounding."
+  },
+  {
+    "id": 28,
+    "last_name": "K Abdul-Jabbar",
+    "img": "/basket/img/players/K Abdul-Jabbar.png",
+    "full_name": "Kareem Abdul-Jabbar",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "All-time leading scorer in NBA history, known for his skyhook shot."
+  },
+  {
+    "id": 29,
+    "last_name": "A Mourning",
+    "img": "/basket/img/players/A Mourning.png",
+    "full_name": "Alonzo Mourning",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Defensive stalwart and dominant big man in the NBA."
+  },
+  {
+    "id": 30,
+    "last_name": "T Hardaway Sr",
+    "img": "/basket/img/players/T Hardaway Sr.png",
+    "full_name": "Tim Hardaway Sr",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Dynamic point guard known for his crossover dribble and scoring ability."
+  },
+  {
+    "id": 31,
+    "last_name": "S Perkins",
+    "img": "/basket/img/players/S Perkins.png",
+    "full_name": "Sam Perkins",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Versatile big man with a smooth shooting touch."
+  },
+  {
+    "id": 32,
+    "last_name": "S Marion",
+    "img": "/basket/img/players/S Marion.webp",
+    "full_name": "Shawn Marion",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Defensive specialist and versatile forward."
+  },
+  {
+    "id": 33,
+    "last_name": "M Chalmers",
+    "img": "/basket/img/players/M Chalmers.png",
+    "full_name": "Mario Chalmers",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Point guard known for clutch performances in the NBA Finals."
+  },
+  {
+    "id": 34,
+    "last_name": "D Robinson",
+    "img": "/basket/img/players/Da Robinson.png",
+    "full_name": "David Robinson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Hall of Fame center known for his scoring and shot-blocking."
+  },
+  {
+    "id": 35,
+    "last_name": "C Drexler",
+    "img": "/basket/img/players/C Drexler.webp",
+    "full_name": "Clyde Drexler",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile guard-forward and NBA champion."
+  },
+  {
+    "id": 36,
+    "last_name": "P Ewing",
+    "img": "/basket/img/players/P Ewing.png",
+    "full_name": "Patrick Ewing",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Legendary center and dominant shot-blocker."
+  },
+  {
+    "id": 37,
+    "last_name": "J Stockton",
+    "img": "/basket/img/players/J Stockton.webp",
+    "full_name": "John Stockton",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "All-time assists leader in NBA history."
+  },
+  {
+    "id": 38,
+    "last_name": "G Hill",
+    "img": "/basket/img/players/G Hill.png",
+    "full_name": "Grant Hill",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "Versatile forward and multiple-time NBA All-Star."
+  },
+  {
+    "id": 39,
+    "last_name": "B Russell",
+    "img": "/basket/img/players/B Russell.png",
+    "full_name": "Bill Russell",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Legendary center with numerous NBA championships."
+  },
+  {
+    "id": 40,
+    "last_name": "D Wilkins",
+    "img": "/basket/img/players/D Wilkins.png",
+    "full_name": "Dominique Wilkins",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Small Forward"],
+    "description": "High-flying forward and prolific scorer."
+  },
+  {
+    "id": 41,
+    "last_name": "J Erving",
+    "img": "/basket/img/players/J Erving.webp",
+    "full_name": "Julius Erving",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Hall of Fame forward known for his acrobatic style of play."
+  },
+  {
+    "id": 42,
+    "last_name": "J West",
+    "img": "/basket/img/players/J West.webp",
+    "full_name": "Jerry West",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Hall of Fame guard and iconic NBA logo."
+  },
+  {
+    "id": 43,
+    "last_name": "G Payton",
+    "img": "/basket/img/players/G Payton.png",
+    "full_name": "Gary Payton",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard"],
+    "description": "Defensive specialist and Hall of Fame point guard."
   }
 ]

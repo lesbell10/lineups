@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "M Ginobili",
+    "img": "/basket/img/players/M Ginobili.png",
+    "full_name": "Manu Ginóbili",
+    "team": "Retired",
+    "nationality": "Argentina",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Legendary shooting guard known for his crafty play and championships."
+  },
+  {
+    "id": 2,
+    "last_name": "Y Ming",
+    "img": "/basket/img/players/Y Ming.png",
+    "full_name": "Yao Ming",
+    "team": "Retired",
+    "nationality": "China",
+    "positions": ["Center"],
+    "description": "Towering center and eight-time NBA All-Star."
+  },
+  {
+    "id": 3,
+    "last_name": "H Olajuwon",
+    "img": "/basket/img/players/H Olajuwon.webp",
+    "full_name": "Hakeem Olajuwon",
+    "team": "Retired",
+    "nationality": "Nigeria",
+    "positions": ["Center"],
+    "description": "NBA legend and one of the greatest centers in history."
+  },
+  {
+    "id": 4,
+    "last_name": "J Embiid",
+    "img": "/basket/img/players/J Embiid.png",
+    "full_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "nationality": "Cameroon",
+    "positions": ["Center"],
+    "description": "Dominant center known for his scoring and defense."
+  },
+  {
+    "id": 5,
+    "last_name": "A Horford",
+    "img": "/basket/img/players/A Horford.png",
+    "full_name": "Al Horford",
+    "team": "Boston Celtics",
+    "nationality": "Dominican Republic",
+    "positions": ["Power Forward", "Center"],
+    "description": "Veteran forward/center known for his versatility."
+  }
+]

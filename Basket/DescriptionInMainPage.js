@@ -11,6 +11,7 @@ function MainFetchPopUp(info) {
             if (imageElement) {
                 imageElement.addEventListener("click", () => {
                     clearPageContentExceptNav();
+                    hideSomeThings();
                     document.querySelector("body").style.background = "grey";
                     desc.innerHTML = `
                        <style>
@@ -80,5 +81,12 @@ function clearPageContentExceptNav() {
             element.textContent = "";
             element.src = "";
         }
+    }
+}
+
+function hideSomeThings() {
+    const mainButton = document.querySelector(".mainbutton");
+    if (mainButton) {
+        mainButton.style.display = "none";
     }
 }

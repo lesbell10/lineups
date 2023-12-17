@@ -112,42 +112,58 @@ const updateDropdown = () => {
 
     if (selectedYear === 2) {
         SG.textContent = "Harden";
-        SG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png";
         PG.textContent = "Curry";
-        PG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png";
         SF.textContent = "James";
-        SF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png";
         PF.textContent = "Durant";
-        PF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png";
         C.textContent = "Davis";
-        C2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png";
-        document.getElementById("smallpic").src = "https://www.worldometers.info/img/flags/us-flag.gif";
 
-    } if (selectedYear === 0) {
-        SG.textContent = "Doncic";
-        SG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+        smallpic.src = "/basket/img/logos/usa.gif";
+
+        MainFetchPopUp("/basket/past/nations/json/usa.json");
+
+    }
+    
+    if (selectedYear === 0) {
+        SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
-        PG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/2225.png";
-        SF.textContent = "Nowitzki";
-        SF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.png";
+        SF.textContent = "D Nowitzki";
         PF.textContent = "G Antetokounmpo";
-        PF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png";
-        C.textContent = "Jokic";
-        C2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png";
-        document.getElementById("smallpic").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/1280px-Flag_of_Europe.svg.png";
+        C.textContent = "N Jokic";
 
-    } if (selectedYear === 1) {
-        SG.textContent = "Ginobili";
-        SG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/1938.png";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+        smallpic.src = "/basket/img/logos/europe.png";
+
+        MainFetchPopUp("/basket/past/nations/json/europe.json");
+
+    }
+    
+    if (selectedYear === 1) {
+        SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
-        PG2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/2397.png";
-        SF.textContent = "Olajuwon";
-        SF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/165.png";
-        PF.textContent = "Embiid";
-        PF2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png";
-        C.textContent = "Bogut";
-        C2.src = "https://cdn.nba.com/headshots/nba/latest/1040x760/101106.png";
-        document.getElementById("smallpic").src = "https://www.bergerpaints.com/imaginecolours/wp-content/uploads/2016/09/flags-of-the-world-1170x693.png";
+        SF.textContent = "H Olajuwon";
+        PF.textContent = "J Embiid";
+        C.textContent = "A Horford";
+
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+        smallpic.src = "/basket/img/logos/rest of world.png";
+
+        MainFetchPopUp("/basket/past/nations/json/rest of world.json");
     }
 
     function clearAndFadeInElements() {

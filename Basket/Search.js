@@ -99,9 +99,9 @@ Promise.all([
     loadJSON('/basket/past/western/json/sacramento.json'),
     loadJSON('/basket/past/western/json/san antonio.json'),
     loadJSON('/basket/past/western/json/utah.json'),
-    // loadJSON('/basket/past/nations/json/usa.json'),
-    // loadJSON('/basket/past/nations/json/europe.json'),
-    // loadJSON('/basket/past/nations/json/rest of world.json'),
+    loadJSON('/basket/past/nations/json/usa.json'),
+    loadJSON('/basket/past/nations/json/europe.json'),
+    loadJSON('/basket/past/nations/json/rest of world.json'),
 
 
 
