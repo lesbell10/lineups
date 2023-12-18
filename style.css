@@ -58,6 +58,6 @@ a:hover {
     margin-left: -400px;
 }
 
-.right:first-child {
+a:first-child {
     border-left: none;
 }

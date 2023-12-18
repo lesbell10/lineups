@@ -10,7 +10,7 @@
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
     "height": "6'0\"",
-    "draft": "Philadelphia 76ers, round 1, #1 overall, 1996",
+
     "description": "Hall of Fame basketball legend."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'8\"",
-    "draft": "Toronto Raptors, round 1, #9 overall, 1997",
+
     "description": "NBA scoring champion and Hall of Famer."
   },
   {
@@ -38,7 +38,7 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'10\"",
-    "draft": "Orlando Magic, round 1, #1 overall, 1993",
+
     "description": "Five-time NBA All-Star and versatile big man."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'6\"",
-    "draft": "Golden State Warriors, round 1, #5 overall, 1998",
+
     "description": "High-flying dunk artist and eight-time All-Star."
   },
   {
@@ -66,7 +66,7 @@
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "height": "6'5\"",
-    "draft": "Minnesota Timberwolves, round 1, #5 overall, 1996",
+
     "description": "Three-point shooting specialist and two-time NBA champion."
   },
   {
@@ -80,7 +80,7 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'9\"",
-    "draft": "Undrafted",
+
     "description": "Four-time NBA Defensive Player of the Year."
   },
   {
@@ -94,7 +94,7 @@
     "nationality": "USA",
     "positions": ["Power Forward"],
     "height": "6'9\"",
-    "draft": "Utah Jazz, round 1, #13 overall, 1985",
+
     "description": "Two-time NBA MVP and one of the all-time greats."
   },
   {
@@ -108,7 +108,7 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'9\"",
-    "draft": "Vancouver Grizzlies, round 1, #3 overall, 1996",
+
     "description": "Skilled forward and former NBA All-Star."
   },
   {
@@ -136,7 +136,7 @@
         "nationality": "USA",
         "positions": ["Power Forward", "Center"],
         "height": "6'11\"",
-        "draft": "Washington Bullets, round 1, #4 overall, 1995",
+
         "description": "NBA champion known for his defensive skills."
     },
     {
@@ -150,7 +150,7 @@
         "nationality": "USA",
         "positions": ["Point Guard", "Shooting Guard"],
         "height": "6'3\"",
-        "draft": "Boston Celtics, round 1, #3 overall, 1997",
+
         "description": "NBA Finals MVP and five-time All-Star."
     },
     {
