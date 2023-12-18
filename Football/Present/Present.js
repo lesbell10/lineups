@@ -101,17 +101,24 @@ function updatePlayerInfo() {
 // Initial update based on the default year (2020)
 updatePlayerInfo();
 
-// -------------------- hide and show -------------------
+// for screenshots
 
-const nav = document.querySelector("nav");
-const search = document.querySelector(".search-container");
+// const nav = document.querySelector("nav");
+// const backBtn = document.querySelector("#backButton")
+// const forBtn = document.querySelector("#forwardButton")
+// const search = document.querySelector(".search-container");
 
-STC2.addEventListener('click', function () {
-    nav.style.display = "none";
-    search.style.display = "none";
-})
-    
-AMC2.addEventListener('click', function () {
-    nav.style.display = "flex";
-    search.style.display = "block";
-})
+// document.querySelector("#smallpic").addEventListener("click", () => {
+
+//     if (nav.style.display === "none" && backBtn.style.display === "none" && forBtn.style.display === "none" && search.style.display === "none") {
+//         nav.style.display = "flex";
+//         backBtn.style.display = "block";
+//         forBtn.style.display = "block";
+//         search.style.display = "block";
+//     } else {
+//         nav.style.display = "none";
+//         backBtn.style.display = "none";
+//         forBtn.style.display = "none";
+//         search.style.display = "none";
+//     }
+// });

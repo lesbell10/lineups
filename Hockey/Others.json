@@ -1750,5 +1750,135 @@
         "nationality": "Germany",
         "position": "Goaltender",
         "description": "German goaltender known for strong netminding."
+    },
+    {
+        "id": 153,
+        "last_name": "Duchene",
+        "img": "/hockey/img/players/Duchene.jpg",
+        "full_name": "Matt Duchene",
+        "team": "Dallas Stars",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Skilled center, known for playmaking and offensive prowess."
+    },
+    {
+        "id": 154,
+        "last_name": "Schenn",
+        "img": "/hockey/img/players/Schenn.jpg",
+        "full_name": "Brayden Schenn",
+        "team": "St Louis Blues",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Versatile center excels in scoring and physical play."
+    },
+    {
+        "id": 155,
+        "last_name": "Hayes",
+        "img": "/hockey/img/players/Hayes.jpg",
+        "full_name": "Kevin Hayes",
+        "team": "St Louis Blues",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Playmaking center with solid offensive and defensive skills."
+    },
+    {
+        "id": 156,
+        "last_name": "Bailey",
+        "img": "/hockey/img/players/Bailey.jpg",
+        "full_name": "Josh Bailey",
+        "team": "New York Islanders",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Left winger with playmaking ability and offensive contributions."
+    },
+    {
+        "id": 157,
+        "last_name": "Backlund",
+        "img": "/hockey/img/players/Backlund.jpg",
+        "full_name": "Mikael Backlund",
+        "team": "Calgary Flames",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Two-way center with defensive and offensive strengths."
+    },
+    {
+        "id": 158,
+        "last_name": "Oshie",
+        "img": "/hockey/img/players/Oshie.jpg",
+        "full_name": "TJ Oshie",
+        "team": "Washington Capitals",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "Right winger, known for goal-scoring and physicality."
+    },
+    {
+        "id": 159,
+        "last_name": "van Riemsdyk",
+        "img": "/hockey/img/players/van Riemsdyk.jpg",
+        "full_name": "James van Riemsdyk",
+        "team": "Boston Bruins",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "Left winger, noted for goal-scoring abilities."
+    },
+    {
+        "id": 160,
+        "last_name": "Teravainen",
+        "img": "/hockey/img/players/Teravainen.jpg",
+        "full_name": "Teuvo Teravainen",
+        "team": "Carolina Hurricanes",
+        "nationality": "Finland",
+        "position": "Left Winger",
+        "description": "Finnish left winger excels in offensive contributions."
+    },
+    {
+        "id": 161,
+        "last_name": "Smith",
+        "img": "/hockey/img/players/R Smith.jpg",
+        "full_name": "Reilly Smith",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Right winger known for goal-scoring and offensive skills."
+    },
+    {
+        "id": 162,
+        "last_name": "Guentzel",
+        "img": "/hockey/img/players/Guentzel.jpg",
+        "full_name": "Jake Guentzel",
+        "team": "Pittsburgh Penguins",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "Left winger, a playoff hero with goal-scoring talent."
+    },
+    {
+        "id": 163,
+        "last_name": "Toffoli",
+        "img": "/hockey/img/players/Toffoli.jpg",
+        "full_name": "Tyler Toffoli",
+        "team": "New Jersey Devils",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Canadian right winger with a knack for scoring."
+    },
+    {
+        "id": 164,
+        "last_name": "Trocheck",
+        "img": "/hockey/img/players/Trocheck.jpg",
+        "full_name": "Vincent Trocheck",
+        "team": "New York Rangers",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Two-way center excels in scoring and defense."
+    },
+    {
+        "id": 165,
+        "last_name": "Reinhart",
+        "img": "/hockey/img/players/Reinhart.jpg",
+        "full_name": "Sam Reinhart",
+        "team": "Florida Panthers",
+        "nationality": "Canada",
+        "position": "Right Winger",
+        "description": "Right winger known for goal-scoring and offensive ability."
     }
 ]

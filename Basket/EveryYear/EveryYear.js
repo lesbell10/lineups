@@ -868,21 +868,26 @@ forwardButton.addEventListener('click', () => {
     }
 });
 
-const nav = document.querySelector("nav");
-const backBtn = document.querySelector("#backButton")
-const forBtn = document.querySelector("#forwardButton")
-const search = document.querySelector(".search-container");
 
-PG2.addEventListener('click', function () {
-    nav.style.display = "none";
-    backBtn.style.display = "none";
-    forBtn.style.display = "none";
-    search.style.display = "none";
-})
 
-SG2.addEventListener('click', function () {
-    nav.style.display = "flex";
-    backBtn.style.display = "block";
-    forBtn.style.display = "block";
-    search.style.display = "block";
-})
+// for screenshots
+
+// const nav = document.querySelector("nav");
+// const backBtn = document.querySelector("#backButton")
+// const forBtn = document.querySelector("#forwardButton")
+// const search = document.querySelector(".search-container");
+
+// document.querySelector("#smallpic").addEventListener("click", () => {
+
+//     if (nav.style.display === "none" && backBtn.style.display === "none" && forBtn.style.display === "none" && search.style.display === "none") {
+//         nav.style.display = "flex";
+//         backBtn.style.display = "block";
+//         forBtn.style.display = "block";
+//         search.style.display = "block";
+//     } else {
+//         nav.style.display = "none";
+//         backBtn.style.display = "none";
+//         forBtn.style.display = "none";
+//         search.style.display = "none";
+//     }
+//  });

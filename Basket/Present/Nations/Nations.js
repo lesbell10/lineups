@@ -54,7 +54,7 @@ function updatePlayerInfo() {
         MainFetchPopUp("/basket/present/nations/json/rest of world.json");
     }
 
-    
+
     if (selectedYear === "2") {
         PG.textContent = "S Curry";
         SG.textContent = "J Butler";
@@ -67,20 +67,20 @@ function updatePlayerInfo() {
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
-       
+
         smallpic.src = "/basket/img/logos/usa.gif";
 
         MainFetchPopUp("/basket/present/nations/json/usa.json");
-        
+
     }
 
-    
+
 
     function clearAndFadeInElements() {
         const elements = [
             SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -105,13 +105,13 @@ yearSelector.addEventListener("change", updatePlayerInfo);
 updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
+
 // Initialize the current index to 0
-    
-    // let currentIndex = 0;
-    
+
+// let currentIndex = 0;
+
 // Function to update the dropdown based on the currentIndex
 
 const updateDropdown = () => {
@@ -176,9 +176,9 @@ const updateDropdown = () => {
 
     function clearAndFadeInElements() {
         const elements = [
-            SG,SG2,PG,PG2,SF,SF2,PF,PF2,C,C2
+            SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -194,40 +194,43 @@ const updateDropdown = () => {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }   // Event listener for the back button
+
+}   // Event listener for the back button
 backButton.addEventListener('click', () => {
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
-        const nav = document.querySelector("nav");
-        const backBtn = document.querySelector("#backButton")
-        const forBtn = document.querySelector("#forwardButton")
-        const search = document.querySelector(".search-container");
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
-        PG2.addEventListener('click', function () {
-            nav.style.display = "none";
-            backBtn.style.display = "none";
-            forBtn.style.display = "none";
-            search.style.display = "none";
-        })
-            
-        SG2.addEventListener('click', function () {
-            nav.style.display = "flex";
-            backBtn.style.display = "block";
-            forBtn.style.display = "block";
-            search.style.display = "block";
-        })
+// for screenshots
+
+// const nav = document.querySelector("nav");
+// const backBtn = document.querySelector("#backButton")
+// const forBtn = document.querySelector("#forwardButton")
+// const search = document.querySelector(".search-container");
+
+// document.querySelector("#smallpic").addEventListener("click", () => {
+
+//     if (nav.style.display === "none" && backBtn.style.display === "none" && forBtn.style.display === "none" && search.style.display === "none") {
+//         nav.style.display = "flex";
+//         backBtn.style.display = "block";
+//         forBtn.style.display = "block";
+//         search.style.display = "block";
+//     } else {
+//         nav.style.display = "none";
+//         backBtn.style.display = "none";
+//         forBtn.style.display = "none";
+//         search.style.display = "none";
+//     }
+// });
