@@ -10,7 +10,7 @@
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-        "draft": "Washington Capitals, Round 1, #1 overall, 2004",
+
         "description": "Russian forward, an iconic figure for the Washington Capitals"
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Russia",
         "position": "Center",
         "height": "6'3\"",
-        "draft": "Pittsburgh Penguins, Round 1, #2 overall, 2004",
+
         "description": "Russian center, a dynamic force for the Pittsburgh Penguins"
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "Canada",
         "position": "Right Winger",
         "height": "6'1\"",
-        "draft": "Dallas Stars, Round 1, #11 overall, 1995",
+
         "description": "Canadian right winger, a legendary player for the Calgary Flames"
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'1\"",
-        "draft": "Detroit Red Wings, Round 3, #53 overall, 1989",
+
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history"
     },
     {
@@ -66,7 +66,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'4\"",
-        "draft": "Calgary Flames, Round 1, #9 overall, 2003",
+
         "description": "Canadian defenseman, known for his physical play in the NHL"
     },
     {
@@ -80,7 +80,7 @@
         "nationality": "Canada",
         "position": "Goalie",
         "height": "6'3\"",
-        "draft": "New York Islanders, Round 1, #4 overall, 1997",
+
         "description": "Canadian goaltender, a reliable presence for the Vancouver Canucks"
     }
 ]

@@ -10,7 +10,7 @@
         "nationality": "Canada",
         "position": "Left Winger",
         "height": "6'4\"",
-        "draft": "Tampa Bay Lightning, Round 1, #1 overall, 1998",
+
         "description": "Canadian left winger, prominent figure for the Tampa Bay Lightning"
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-        "draft": "Pittsburgh Penguins, Round 1, #1 overall, 2005",
+
         "description": "Canadian center, cornerstone player for the Pittsburgh Penguins"
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'4\"",
-        "draft": "Boston Bruins, Round 1, #1 overall, 1997",
+
         "description": "Canadian center, skilled veteran for the San Jose Sharks"
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'1\"",
-        "draft": "Detroit Red Wings, Round 3, #53 overall, 1989",
+
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history"
     },
     {
@@ -66,7 +66,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'6\"",
-        "draft": "Hartford Whalers, Round 1, #2 overall, 1993",
+
         "description": "Canadian defenseman, dominant presence in the NHL"
     },
     {
@@ -80,7 +80,7 @@
         "nationality": "Canada",
         "position": "Goalie",
         "height": "6'3\"",
-        "draft": "New York Islanders, Round 1, #4 overall, 1997",
+
         "description": "Canadian goaltender, a reliable presence for the Vancouver Canucks"
     }
 ]

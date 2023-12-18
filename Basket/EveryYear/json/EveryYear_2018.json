@@ -10,7 +10,7 @@
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
     "height": "6'3\"",
-    "draft": "Oklahoma City Thunder, Round 1, #4 overall, 2008",
+
     "description": "Former NBA MVP and triple-double machine."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "USA",
     "positions": ["Shooting Guard", "Point Guard"],
     "height": "6'5\"",
-    "draft": "Oklahoma City Thunder, Round 1, #3 overall, 2009",
+
     "description": "Former NBA MVP and prolific scorer."
   },
   {
@@ -38,7 +38,7 @@
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'7\"",
-    "draft": "Indiana Pacers, Round 1, #15 overall, 2011",
+
     "description": "Two-time NBA Finals MVP."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-    "draft": "Cleveland Cavaliers, Round 1, #1 overall, 2003",
+
     "description": "Four-time NBA champion and four-time MVP."
   },
   {
@@ -66,7 +66,7 @@
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "height": "6'10\"",
-    "draft": "Seattle SuperSonics, Round 1, #2 overall, 2007",
+
     "description": "Two-time NBA champion and NBA Finals MVP."
   }
 ]

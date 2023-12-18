@@ -10,7 +10,7 @@
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
-    "draft": "New Orleans Hornets, round 1, #4 overall, 2005",
+
     "description": "Talented point guard with excellent court vision."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "USA",
     "positions": ["Small Forward", "Shooting Guard"],
     "height": "6'6\"",
-    "draft": "Charlotte Hornets, round 1, #13 overall, 1996",
+
     "description": "Legendary player known for scoring and competitiveness."
   },
   {
@@ -38,7 +38,7 @@
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-    "draft": "Cleveland Cavaliers, round 1, #1 overall, 2003",
+
     "description": "One of the greatest basketball players of all time."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'11\"",
-    "draft": "Minnesota Timberwolves, round 1, #5 overall, 1995",
+
     "description": "Versatile forward/center with intense defensive skills."
   },
   {
@@ -66,7 +66,6 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'11\"",
-    "draft": "San Antonio Spurs, round 1, #1 overall, 1997",
     "description": "Legendary big man with incredible defensive and scoring abilities."
   }
 ]

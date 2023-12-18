@@ -34,23 +34,23 @@ function updatePlayerInfo() {
 
 
 
-        //     smallpic.addEventListener('mouseover', () => {
-        //     sideModal.style.display = 'block'
-        //     sideModal.textContent = "In the 2022-23 NHL season, Connor McDavid delivered an outstanding performance with 64 goals and 89 assists over 82 games, totaling 153 points. This feat ranked as the 15th best in NHL history, earning him the prestigious Hart Trophy for the third time."
-        // })
+    //     smallpic.addEventListener('mouseover', () => {
+    //     sideModal.style.display = 'block'
+    //     sideModal.textContent = "In the 2022-23 NHL season, Connor McDavid delivered an outstanding performance with 64 goals and 89 assists over 82 games, totaling 153 points. This feat ranked as the 15th best in NHL history, earning him the prestigious Hart Trophy for the third time."
+    // })
 
-        // smallpic.addEventListener("mouseout", () => {
-        //             sideModal.style.display = 'none'; // Hide the modal
-        // }); 
-        
-        MainFetchPopUp("/hockey/present/present.json");
+    // smallpic.addEventListener("mouseout", () => {
+    //             sideModal.style.display = 'none'; // Hide the modal
+    // }); 
+
+    MainFetchPopUp("/hockey/present/present.json");
 
 
-     function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
-            FL,FL2,FC,FC2,FR,FR2,DL,DL2,DR,DR2,G,G2,
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -73,16 +73,16 @@ updatePlayerInfo();
 
 function FetchPopUp(info) {
     fetch(info)
-    .then(response => response.json())
-    .then(data => {
-        data.forEach(player => {
-            // Assuming each player's image has an ID like 'playerImage1', 'playerImage2', etc.
-            const imageElement = document.querySelector(`.carousel .carousel-item .pimg${player.id}`);
-            const modal = document.getElementById(`modal${player.id}`);
+        .then(response => response.json())
+        .then(data => {
+            data.forEach(player => {
+                // Assuming each player's image has an ID like 'playerImage1', 'playerImage2', etc.
+                const imageElement = document.querySelector(`.carousel .carousel-item .pimg${player.id}`);
+                const modal = document.getElementById(`modal${player.id}`);
 
-            if (imageElement && modal) {
-                imageElement.addEventListener("mouseover", () => {
-                    modal.innerHTML = `
+                if (imageElement && modal) {
+                    imageElement.addEventListener("mouseover", () => {
+                        modal.innerHTML = `
                         <p>Full Name: ${player.full_name}</p>
                         <p>Team: ${player.team}</p>
                         <p>Nationality: ${player.nationality}</p>
@@ -90,18 +90,18 @@ function FetchPopUp(info) {
                         <p>Height: ${player.height}</p>
                         <p>Birth Date: ${player.birth_date}</p>
                         <p>Birthplace: ${player.birthplace}</p>
-                        <p>Draft: ${player.draft}</p>
-                    `;
-                    modal.style.display = 'block'; // Show the modal
-                });
 
-                imageElement.addEventListener("mouseout", () => {
-                    modal.style.display = 'none'; // Hide the modal
-                });
-            }
-        });
-    })
-    .catch(error => console.error('Error:', error));
+                    `;
+                        modal.style.display = 'block'; // Show the modal
+                    });
+
+                    imageElement.addEventListener("mouseout", () => {
+                        modal.style.display = 'none'; // Hide the modal
+                    });
+                }
+            });
+        })
+        .catch(error => console.error('Error:', error));
 };
 
 // for screenshots

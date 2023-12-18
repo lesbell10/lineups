@@ -10,7 +10,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'0\"",
-        "draft": "Colorado Avalanche, Round 1, #1 overall, 2013",
+
         "description": "Dominant Canadian center, key player for Colorado Avalanche."
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-        "draft": "Edmonton Oilers, Round 1, #1 overall, 2015",
+
         "description": "Dynamic Canadian center, leading force for the Edmonton Oilers."
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "USA",
         "position": "Center",
         "height": "6'3\"",
-        "draft": "Toronto Maple Leafs, Round 1, #1 overall, 2016",
+
         "description": "Talented American center, pivotal for the Toronto Maple Leafs."
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Canada",
         "position": "Right Defenseman",
         "height": "6'0\"",
-        "draft": "Colorado Avalanche, Round 1, #4 overall, 2017",
+
         "description": "Canadian right defenseman, an asset to the Colorado Avalanche."
     },
     {
@@ -66,7 +66,7 @@
         "nationality": "Sweden",
         "position": "Left Defenseman",
         "height": "6'6\"",
-        "draft": "Tampa Bay Lightning, Round 1, #2 overall, 2009",
+
         "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
     },
     {
@@ -80,7 +80,7 @@
         "nationality": "Russia",
         "position": "Goalie",
         "height": "6'3\"",
-        "draft": "Tampa Bay Lightning, Round 1, #19 overall, 2012",
+
         "description": "Russian goaltender, a key asset for the Tampa Bay Lightning."
     }
 ]

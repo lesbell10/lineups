@@ -3,6 +3,7 @@ const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
 const itemsPerPage = 40;
+let includeRetired = true;
 
 // Function to load JSON data from a file
 function loadJSON(filePath) {
@@ -111,24 +112,28 @@ Promise.all([
 });
 
 // Search function/
-function searchPlayers(query) {
+function searchPlayers(query, includeRetired = true) {
     description.innerHTML = "";
     clearPageContentExceptNav();
     const uniquePlayers = new Map();
-    
+
     // Normalize the query to lowercase for case-insensitive search
     const normalizedQuery = query.toLowerCase();
-    
+
     allPlayers.forEach(player => {
+        if (!includeRetired && player.team === "Retired") {
+            return;
+        }
+
         Object.values(player).forEach(value => {
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
                 const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
                     return;
-                    }
-                }       
-            });
+                }
+            }
+        });
     });
 
     const results = Array.from(uniquePlayers.values());
@@ -201,8 +206,8 @@ function displayResults(players) {
     // Clear any existing content in the results container
     resultsContainer.innerHTML = '';
 
-document.querySelector("body").style.background = "grey";
-    
+    document.querySelector("body").style.background = "grey";
+
 
     const pageCount = Math.ceil(filteredPlayers.length / itemsPerPage);
     const startIndex = (currentPage - 1) * itemsPerPage;
@@ -232,7 +237,7 @@ document.querySelector("body").style.background = "grey";
         img.style.marginBottom = "10px";
         img.style.animation = "none"
 
-    // Create and set the player details using template literals, including "Current Team" or "Last Team"
+        // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `        
   <p style="animation: none;">${player.description}</p>
   <div class="line">-----------------------------</div>
@@ -240,14 +245,14 @@ document.querySelector("body").style.background = "grey";
   <p style="animation: none;">Nationality: ${player.nationality}</p>
   <p style="animation: none;">Position: ${player.positions}</p>   
 
-            `;       
-        
+            `;
+
         // Create a container for the description
 
         // const descriptionDiv = document.createElement('div');
         // descriptionDiv.className = 'description'; // Add a class for styling
         // descriptionDiv.innerHTML = `${player.description}`; // Add your description text
-        
+
         playerDiv.prepend(img);
 
         // Create a wrapper div to hold both playerDiv and descriptionDiv side by side
@@ -265,9 +270,9 @@ document.querySelector("body").style.background = "grey";
             ? `<h1>${players.length} player found</h1>`
             : `<h1>${players.length} players found</h1>`;
 
-         document.getElementById('count').innerHTML = message
+        document.getElementById('count').innerHTML = message
     });
-        addPaginationControls(pageCount, filteredPlayers);
+    addPaginationControls(pageCount, filteredPlayers);
 }
 
 // Function to create pagination controls
@@ -278,7 +283,7 @@ function addPaginationControls(pageCount, filteredPlayers) {
     for (let i = 1; i <= pageCount; i++) {
         const pageButton = document.createElement('button');
         pageButton.innerText = i;
-        pageButton.addEventListener('click', function() {
+        pageButton.addEventListener('click', function () {
             currentPage = i;
             displayResults(filteredPlayers);
             setActivePageButton(i); // Call the function to set the active page button
@@ -287,8 +292,8 @@ function addPaginationControls(pageCount, filteredPlayers) {
         paginationContainer.appendChild(pageButton);
     }
 
-      // Set the active page button initially
-      setActivePageButton(currentPage);
+    // Set the active page button initially
+    setActivePageButton(currentPage);
 }
 
 // Function to set the active page button
@@ -307,23 +312,54 @@ function setActivePageButton(activePageIndex) {
     }
 }
 
-    const searchInput = document.getElementById("searchInput");
-    const searchButton = document.getElementById("searchButton");
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
 
-    // Event listener for the search button
-    searchButton.addEventListener("click", function() {
-        hideSomeThings();
-        const query = "";
-        searchInput.value = ""
-        searchPlayers(query);
-    });
+// Event listener for the search button
+searchButton.addEventListener("click", function () {
+    includeRetired = true
+    hideSomeThings();
+    const query = "";
+    searchInput.value = ""
+    searchPlayers(query, includeRetired);
+    activeButton.style.backgroundColor = "red"
+});
 
-     // Event listener for the 'Enter' key in the search input
-    searchInput.addEventListener("input", function() {
+// Event listener for the 'Enter' key in the search input
+searchInput.addEventListener("input", function () {
+    includeRetired = true
+    hideSomeThings();
+    const query = searchInput.value;
+    searchPlayers(query, includeRetired);
+});
+
+// Event listener for the 'Active' button
+const activeButton = document.getElementById("retiredFilter");
+
+activeButton.addEventListener("click", function () {
+    // Check the current background color
+    const backgroundColor = activeButton.style.backgroundColor;
+
+    if (backgroundColor === "red" || backgroundColor === "") {
+        includeRetired = false; // Set to exclude retired players
+        const query = searchInput.value;
+        searchPlayers(query, includeRetired);
+        activeButton.style.backgroundColor = "green";
+    } else {
+        includeRetired = true;
         hideSomeThings();
-            const query = searchInput.value;
-        searchPlayers(query);
-    });
+        const query = searchInput.value;
+        searchPlayers(query, includeRetired);
+        activeButton.style.backgroundColor = "red";
+    }
+});
+
+
+searchInput.addEventListener('input', function () {
+    const activeButton = document.getElementById("retiredFilter");
+    activeButton.style.backgroundColor = "red"
+})
+
 
 function hideSomeThings() {
     const mainButton = document.querySelector(".mainbutton");
@@ -332,6 +368,6 @@ function hideSomeThings() {
     }
 }
 
-searchInput.addEventListener("focus", function() {
+searchInput.addEventListener("focus", function () {
     currentPage = 1;
 });

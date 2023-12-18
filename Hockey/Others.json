@@ -10,7 +10,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'0\"",
-        "draft": "Edmonton Oilers, round 1, #1 overall, 1978",
+
         "description": "NHL's all-time leading scorer, 'The Great One.'"
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'4\"",
-        "draft": "Pittsburgh Penguins, round 1, #1 overall, 1984",
+
         "description": "Tremendous scoring ability, 'Super Mario.'"
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'0\"",
-        "draft": "Boston Bruins, signed as a free agent",
+
         "description": "Revolutionized the role of defensemen in hockey."
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Canada",
         "position": "Right Wing",
         "height": "6'0\"",
-        "draft": "Not applicable, started in the NHL in 1946",
+
         "description": "Legendary power forward, 'Mr. Hockey.'"
     },
     {
@@ -66,7 +66,7 @@
         "nationality": "Canada",
         "position": "Right Wing",
         "height": "5'10\"",
-        "draft": "Not applicable, started in the NHL in 1942",
+
         "description": "First player to score 50 goals in 50 games."
     },
     {
@@ -80,7 +80,7 @@
         "nationality": "Canada",
         "position": "Left Wing",
         "height": "5'10\"",
-        "draft": "Not applicable, started in the NHL in 1957",
+
         "description": "One of the greatest goal scorers in NHL history."
     },
     {
@@ -94,7 +94,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'3\"",
-        "draft": "Not applicable, started in the NHL in 1950",
+
         "description": "Elegant center, captain of the Canadiens."
     },
     {
@@ -108,7 +108,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'9\"",
-        "draft": "Chicago Blackhawks, round 1, #14 overall, 1959",
+
         "description": "Skilled center, 4-time Art Ross Trophy winner."
     },
     {
@@ -122,7 +122,7 @@
         "nationality": "Canada",
         "position": "Right Wing",
         "height": "6'0\"",
-        "draft": "Montreal Canadiens, round 1, #1 overall, 1971",
+
         "description": "Flamboyant scorer, 'The Flower.'"
     },
     {
@@ -136,7 +136,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-        "draft": "Not applicable, started in the NHL in 1963",
+
         "description": "Prolific goal scorer and playmaker."
     },
     {
@@ -150,7 +150,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'0\"",
-        "draft": "Boston Bruins, round 1, #8 overall, 1979",
+
         "description": "One of the greatest defensemen in NHL history."
     },
     {
@@ -164,7 +164,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-        "draft": "Edmonton Oilers, round 3, #48 overall, 1979",
+
         "description": "Captain of the Oilers during their dynasty."
     },
     {
@@ -178,7 +178,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'0\"",
-        "draft": "Edmonton Oilers, round 1, #6 overall, 1980",
+
         "description": "Offensive-minded defenseman, exceptional skating."
     },
     {
@@ -192,7 +192,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'4\"",
-        "draft": "Montreal Canadiens, round 1, #20 overall, 1971",
+
         "description": "Towering presence on defense, Hall of Famer."
     },
     {
@@ -206,7 +206,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-        "draft": "Not applicable, started in the NHL in 1975",
+
         "description": "Two-way center, key part of Islanders dynasty."
     },
     {
@@ -220,7 +220,7 @@
         "nationality": "Canada",
         "position": "Right Wing",
         "height": "6'0\"",
-        "draft": "New York Islanders, round 1, #15 overall, 1977",
+
         "description": "Prolific goal scorer, 9 consecutive 50-goal seasons."
     },
     {
@@ -234,7 +234,7 @@
         "nationality": "Canada",
         "position": "Right Wing",
         "height": "5'10\"",
-        "draft": "Calgary Flames, round 6, #117 overall, 1984",
+
         "description": "One of the most lethal goal scorers in NHL history."
     },
     {
@@ -248,7 +248,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'8\"",
-        "draft": "Detroit Red Wings, round 1, #2 overall, 1971",
+
         "description": "Dynamic center, prolific scorer."
     },
   {
@@ -262,7 +262,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "5'11\"",
-    "draft": "Detroit Red Wings, round 1, #4 overall, 1983",
+
     "description": "Respected leader, 3-time Stanley Cup champion."
   },
   {
@@ -276,7 +276,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'3\"",
-    "draft": "Hartford Whalers, round 1, #4 overall, 1981",
+
     "description": "All-time assists leader among centers."
   },
   {
@@ -290,7 +290,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'0\"",
-    "draft": "Not applicable, started in the NHL in 1973",
+
     "description": "Captain of the Islanders during dynasty years."
   },
   {
@@ -304,7 +304,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "5'10\"",
-    "draft": "Boston Bruins, round 1, #7 overall, 1965",
+
     "description": "Back-to-back Stanley Cup-winning goaltender."
   },
   {
@@ -318,7 +318,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "6'0\"",
-    "draft": "Not applicable, started in the NHL in 1952",
+
     "description": "Innovative goalie, introduced the mask to hockey."
   },
   {
@@ -332,7 +332,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "6'2\"",
-    "draft": "Montreal Canadiens, round 3, #51 overall, 1984",
+
     "description": "Legendary goaltender, known for clutch playoff performances."
   },
   {
@@ -346,7 +346,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "5'11\"",
-    "draft": "Not applicable, started in the NHL in 1950",
+
     "description": "One of the NHL's greatest goaltenders of all time."
   },
   {
@@ -360,7 +360,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "6'4\"",
-    "draft": "Boston Bruins, round 1, #14 overall, 1964",
+
     "description": "Hall of Fame goaltender, dominant in the 1970s."
   },
   {
@@ -374,7 +374,7 @@
     "nationality": "Canada",
     "position": "Left Wing",
     "height": "6'0\"",
-    "draft": "Not applicable, started in the NHL in 1955",
+
     "description": "Longtime Bruins captain and scoring winger."
   },
   {
@@ -388,7 +388,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "5'9\"",
-    "draft": "Not applicable, started in the NHL in 1953",
+
     "description": "Fan-favorite goaltender, part of Leafs' Cup wins."
   },
   {
@@ -402,7 +402,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "5'9\"",
-    "draft": "Not applicable, started in the NHL in 1960",
+
     "description": "Leafs legend, Conn Smythe Trophy winner."
   },
   {
@@ -416,7 +416,7 @@
     "nationality": "Czech Republic",
     "position": "Goalie",
     "height": "6'1\"",
-    "draft": "Chicago Blackhawks, round 10, #199 overall, 1983",
+
     "description": "Acrobatic and unconventional goaltending style."
   },
   {
@@ -430,7 +430,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-    "draft": "Philadelphia Flyers, round 2, #17 overall, 1969",
+
     "description": "Flyers' captain during the 'Broad Street Bullies' era."
   },
   {
@@ -444,7 +444,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "5'10\"",
-    "draft": "Not applicable, started in the NHL in 1949",
+
     "description": "NHL's first ironman, known for his donut shops."
   },
   {
@@ -458,7 +458,7 @@
     "nationality": "USA",
     "position": "Defenseman",
     "height": "6'1\"",
-    "draft": "Montreal Canadiens, round 2, #40 overall, 1981",
+
     "description": "One of the NHL's most durable defensemen."
   },
   {
@@ -472,7 +472,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'1\"",
-    "draft": "Calgary Flames, round 1, #15 overall, 1981",
+
     "description": "Legendary slap shot, Norris Trophy winner."
   },
   {
@@ -486,7 +486,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "5'10\"",
-    "draft": "Edmonton Oilers, round 1, #8 overall, 1981",
+
     "description": "Key goaltender during the Oilers' dynasty."
   },
   {
@@ -500,7 +500,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'0\"",
-    "draft": "New York Rangers, round 1, #2 overall, 1966",
+
     "description": "Offensive defenseman, Hall of Famer."
   },
   {
@@ -514,7 +514,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "5'11\"",
-    "draft": "Not applicable, started in the NHL in 1947",
+
     "description": "One of the best defensemen of his era."
   },
   {
@@ -528,7 +528,7 @@
     "nationality": "Finland",
     "position": "Right Wing",
     "height": "6'0\"",
-    "draft": "Not applicable, started in the NHL in 1980",
+
     "description": "Finnish scoring sensation, key Oiler in the 1980s."
   },
   {
@@ -542,7 +542,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "5'11\"",
-    "draft": "Undrafted",
+
     "description": "Legendary Canadian goaltender with a storied NHL career."
   },
   {
@@ -556,7 +556,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "6'0\"",
-    "draft": "Undrafted",
+
     "description": "Canadian left winger known for his scoring prowess."
   },
   {
@@ -570,7 +570,7 @@
     "nationality": "Canada",
     "position": "Defenseman/Center",
     "height": "5'11\"",
-    "draft": "Undrafted",
+
     "description": "Versatile Canadian player excelling as a defenseman and center."
   },
   {
@@ -584,7 +584,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "5'7\"",
-    "draft": "Undrafted",
+
     "description": "Legendary Montreal Canadien center with numerous Stanley Cups."
   },
   {
@@ -598,7 +598,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "5'9\"",
-    "draft": "Undrafted",
+
     "description": "Pioneer Canadian center known for his speed and skill."
   },
   {
@@ -612,7 +612,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "5'11\"",
-    "draft": "St. Louis Blues, round 7 #134 overall, 1982",
+
     "description": "Canadian center with a successful NHL career."
   },
   {
@@ -626,7 +626,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-    "draft": "Buffalo Sabres, round 1 #1 overall, 1970",
+
     "description": "French-Canadian center with a Hall of Fame career."
   },
   {
@@ -640,7 +640,7 @@
     "nationality": "Canada",
     "position": "Goalie",
     "height": "6'3\"",
-    "draft": "Philadelphia Flyers, round 6 #119 overall, 1982",
+
     "description": "Canadian goalie known for his aggressive playing style."
   },
      {
@@ -654,7 +654,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-    "draft": "St. Louis Blues, round 1, #7 overall, 1976",
+
     "description": "Canadian center with impressive playmaking skills."
   },
   {
@@ -668,7 +668,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "6'3\"",
-    "draft": "New Jersey Devils, round 1, #2 overall, 1987",
+
     "description": "Canadian left winger known for goal-scoring ability."
   },
   {
@@ -682,7 +682,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-    "draft": "Undrafted",
+
     "description": "Canadian center with a successful NHL career."
   },
   {
@@ -696,7 +696,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "6'1\"",
-    "draft": "Los Angeles Kings, round 9, #171 overall, 1984",
+
     "description": "Canadian left winger and Hall of Famer."
   },
   {
@@ -710,7 +710,7 @@
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-    "draft": "Toronto Maple Leafs, round 1, #8 overall, 1970",
+
     "description": "Canadian center known for a historic 10-point game."
   },
   {
@@ -724,7 +724,7 @@
     "nationality": "Russia",
     "position": "Right Winger",
     "height": "5'10\"",
-    "draft": "Vancouver Canucks, round 6, #113 overall, 1989",
+
     "description": "Russian right winger known for speed and goal-scoring."
   },
   {
@@ -738,7 +738,7 @@
     "nationality": "Canada",
     "position": "Right Winger",
     "height": "5'9\"",
-    "draft": "Undrafted",
+
     "description": "Canadian right winger with a booming slapshot."
   },
   {
@@ -752,7 +752,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'2\"",
-    "draft": "Los Angeles Kings, round 1, #4 overall, 1980",
+
     "description": "Canadian defenseman known for offensive contributions."
   },
   {
@@ -766,7 +766,7 @@
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'2\"",
-    "draft": "Washington Capitals, round 1, #5 overall, 1982",
+
     "description": "Canadian defenseman known for physical play and leadership."
   },
     {
@@ -780,7 +780,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'1\"",
-  "draft": "St. Louis Blues, round 1, #9 overall, 1988",
+
   "description": "Canadian center known for his two-way play."
 },
 {
@@ -794,7 +794,7 @@
   "nationality": "Canada",
   "position": "Defenseman",
   "height": "5'11\"",
-  "draft": "Undrafted",
+
   "description": "Legendary Canadian defenseman with multiple Norris Trophies."
 },
 {
@@ -808,7 +808,7 @@
   "nationality": "Sweden",
   "position": "Defenseman",
   "height": "6'0\"",
-  "draft": "Undrafted",
+
   "description": "Swedish defenseman who paved the way for Europeans."
 },
 {
@@ -822,7 +822,7 @@
   "nationality": "Russia",
   "position": "Center",
   "height": "6'2\"",
-  "draft": "Detroit Red Wings, round 4, #74 overall, 1989",
+
   "description": "Russian center with elite skills and versatility."
 },
 {
@@ -836,7 +836,7 @@
   "nationality": "USA",
   "position": "Defenseman",
   "height": "6'0\"",
-  "draft": "Buffalo Sabres, round 1, #6 overall, 1982",
+
   "description": "American defenseman known for offensive contributions."
 },
 {
@@ -850,7 +850,7 @@
   "nationality": "USA",
   "position": "Center",
   "height": "6'3\"",
-  "draft": "Minnesota North Stars, round 1, #1 overall, 1988",
+
   "description": "American center and all-time leading scorer among U.S. players."
 },
 {
@@ -864,7 +864,7 @@
   "nationality": "Finland",
   "position": "Right Winger",
   "height": "6'0\"",
-  "draft": "Winnipeg Jets, round 1, #10 overall, 1988",
+
   "description": "Finnish right winger known for goal-scoring and speed."
 },
 {
@@ -878,7 +878,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "5'11\"",
-  "draft": "Undrafted",
+
   "description": "Canadian center and elite playmaker with great vision."
 },
 {
@@ -892,7 +892,7 @@
   "nationality": "Canada",
   "position": "Right Winger",
   "height": "6'1\"",
-  "draft": "Edmonton Oilers, round 4, #69 overall, 1979",
+
   "description": "Canadian right winger with clutch playoff performances."
 },
 {
@@ -906,7 +906,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "5'11\"",
-  "draft": "Winnipeg Jets, round 1, #1 overall, 1981",
+
   "description": "Canadian center and Hall of Famer with scoring ability."
 },
 {
@@ -920,7 +920,7 @@
   "nationality": "Canada",
   "position": "Defenseman",
   "height": "6'0\"",
-  "draft": "Boston Bruins, round 1, #8 overall, 1979",
+
   "description": "Legendary Canadian defenseman and multiple Norris winner."
 },
 {
@@ -934,7 +934,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'2\"",
-  "draft": "Calgary Flames, round 2, #27 overall, 1985",
+
   "description": "Canadian center and goal-scoring leader in his era."
 },
 {
@@ -948,7 +948,7 @@
   "nationality": "Canada",
   "position": "Left Winger",
   "height": "6'2\"",
-  "draft": "Montreal Canadiens, round 1, #8 overall, 1973",
+
   "description": "Canadian left winger and one of the best defensive forwards."
 },
 {
@@ -962,7 +962,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'4\"",
-  "draft": "Quebec Nordiques, round 1, #1 overall, 1991",
+
   "description": "Canadian center known for his size and scoring ability."
 },
 {
@@ -976,7 +976,7 @@
   "nationality": "Canada",
   "position": "Defenseman",
   "height": "6'0\"",
-  "draft": "Montreal Canadiens, round 1, #5 overall, 1969",
+
   "description": "Canadian defenseman and member of the Big Three."
 },
 {
@@ -990,7 +990,7 @@
   "nationality": "USA",
   "position": "Center",
   "height": "5'10\"",
-  "draft": "New York Islanders, round 1, #3 overall, 1983",
+
   "description": "American center and prolific goal scorer in the NHL."
 },
 {
@@ -1004,7 +1004,7 @@
   "nationality": "Canada",
   "position": "Left Winger",
   "height": "6'0\"",
-  "draft": "Detroit Red Wings, round 2, #22 overall, 1986",
+
   "description": "Canadian left winger and key part of Rangers' Cup win."
 },
 {
@@ -1018,7 +1018,7 @@
   "nationality": "USA",
   "position": "Defenseman",
   "height": "6'0\"",
-  "draft": "New York Rangers, round 1, #9 overall, 1986",
+
   "description": "American defenseman and Conn Smythe Trophy winner."
 },
 {
@@ -1032,7 +1032,7 @@
   "nationality": "USA",
   "position": "Left Winger",
   "height": "6'2\"",
-  "draft": "Winnipeg Jets, round 1, #19 overall, 1990",
+
   "description": "American left winger and power forward in the NHL."
 },
 {
@@ -1046,7 +1046,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'1\"",
-  "draft": "Buffalo Sabres, round 1, #1 overall, 1987",
+
   "description": "Canadian center and playmaker with a successful career."
 },
 {
@@ -1060,7 +1060,7 @@
   "nationality": "Canada",
   "position": "Right Winger",
   "height": "5'6\"",
-  "draft": "Calgary Flames, round 8, #166 overall, 1987",
+
   "description": "Canadian right winger known for speed and determination."
 },
 {
@@ -1074,7 +1074,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'0\"",
-  "draft": "Montreal Canadiens, round 2, #44 overall, 1979",
+
   "description": "Canadian center known for defensive excellence and leadership."
 },
 {
@@ -1088,7 +1088,7 @@
   "nationality": "Canada",
   "position": "Center",
   "height": "6'0\"",
-  "draft": "Tampa Bay Lightning, round 3, #64 overall, 1998",
+
   "description": "Canadian center with playmaking skills and Stanley Cup success."
 },
  {

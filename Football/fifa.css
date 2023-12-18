@@ -620,3 +620,23 @@ input::placeholder {
   background-color: black; /* Change this to your desired background color */
   color: purple; /* Change this to your desired text color */
 }
+
+#retiredFilter {
+    position: absolute;
+    right: 75px;
+    top:130px;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: red;
+    border: white solid 2px;
+    cursor: pointer;
+}
+
+.act_players {
+    position: absolute;
+    right: 120px;
+    font-size: 18px;
+    top: 135px;
+    color: white;
+}

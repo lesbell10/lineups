@@ -2,6 +2,7 @@ const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
 const itemsPerPage = 40;
+let includeRetired = true;
 
 // Function to load JSON data from a file
 function loadJSON(filePath) {
@@ -92,24 +93,28 @@ Promise.all([
 });
 
 // Search function/
-function searchPlayers(query) {
+function searchPlayers(query, includeRetired = true) {
     description.innerHTML = "";
     clearPageContentExceptNav();
     const uniquePlayers = new Map();
-    
+
     // Normalize the query to lowercase for case-insensitive search
     const normalizedQuery = query.toLowerCase();
-    
+
     allPlayers.forEach(player => {
+        if (!includeRetired && player.team === "Retired") {
+            return;
+        }
+
         Object.values(player).forEach(value => {
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
                 const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
                     return;
-                    }
-                }       
-            });
+                }
+            }
+        });
     });
 
     const results = Array.from(uniquePlayers.values());
@@ -143,7 +148,7 @@ function clearPageContentExceptNav() {
 
     // Clear the player information elements (you can add more if needed)
     const playerInfoElements = [
-       document.getElementById("STC"),
+        document.getElementById("STC"),
         document.getElementById("STC2"),
         document.getElementById("FR"),
         document.getElementById("FR2"),
@@ -202,7 +207,7 @@ function displayResults(players) {
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
     const playersToDisplay = filteredPlayers.slice(startIndex, endIndex);
-    
+
     // Check if there are no players in the array
     if (playersToDisplay.length === 0) {
         // Display a 'no results found' message
@@ -218,7 +223,7 @@ function displayResults(players) {
         // Create a div element for each player
         const playerDiv = document.createElement('div');
         playerDiv.className = 'player';
-        
+
         // Create and set the image element
         const img = document.createElement('img');
         img.src = player.img;
@@ -227,7 +232,7 @@ function displayResults(players) {
         img.style.marginBottom = "10px";
         img.style.animation = "none"
 
-        
+
 
         // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `        
@@ -237,13 +242,13 @@ function displayResults(players) {
         <p style="animation: none;">Nationality: ${player.nationality}</p>
         <p style="animation: none;">Position: ${player.position}</p>
         `;
-        
+
         // Create a container for the description
 
         // const descriptionDiv = document.createElement('div');
         // descriptionDiv.className = 'description'; // Add a class for styling
         // descriptionDiv.innerHTML = `${player.description}`; // Add your description text
-        
+
         playerDiv.prepend(img);
 
         // Create a wrapper div to hold both playerDiv and descriptionDiv side by side
@@ -275,7 +280,7 @@ function addPaginationControls(pageCount, filteredPlayers) {
     for (let i = 1; i <= pageCount; i++) {
         const pageButton = document.createElement('button');
         pageButton.innerText = i;
-        pageButton.addEventListener('click', function() {
+        pageButton.addEventListener('click', function () {
             currentPage = i;
             displayResults(filteredPlayers);
             setActivePageButton(i); // Call the function to set the active page button
@@ -303,23 +308,53 @@ function setActivePageButton(activePageIndex) {
     }
 }
 
-    const searchInput = document.getElementById("searchInput");
-    const searchButton = document.getElementById("searchButton");
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
 
-    // Event listener for the search button
-    searchButton.addEventListener("click", function() {
-        hideSomeThings();
-        const query = "";
-        searchInput.value = ""
-        searchPlayers(query);
-    });
+// Event listener for the search button
+searchButton.addEventListener("click", function () {
+    includeRetired = true
+    hideSomeThings();
+    const query = "";
+    searchInput.value = ""
+    searchPlayers(query, includeRetired);
+    activeButton.style.backgroundColor = "red"
+});
 
-     // Event listener for the 'Enter' key in the search input
-    searchInput.addEventListener("input", function() {
+// Event listener for the 'Enter' key in the search input
+searchInput.addEventListener("input", function () {
+    includeRetired = true
+    hideSomeThings();
+    const query = searchInput.value;
+    searchPlayers(query, includeRetired);
+});
+
+// Event listener for the 'Active' button
+const activeButton = document.getElementById("retiredFilter");
+
+activeButton.addEventListener("click", function () {
+    // Check the current background color
+    const backgroundColor = activeButton.style.backgroundColor;
+
+    if (backgroundColor === "red" || backgroundColor === "") {
+        includeRetired = false; // Set to exclude retired players
+        const query = searchInput.value;
+        searchPlayers(query, includeRetired);
+        activeButton.style.backgroundColor = "green";
+    } else {
+        includeRetired = true;
         hideSomeThings();
         const query = searchInput.value;
-        searchPlayers(query);
-    });
+        searchPlayers(query, includeRetired);
+        activeButton.style.backgroundColor = "red";
+    }
+});
+
+
+searchInput.addEventListener('input', function () {
+    const activeButton = document.getElementById("retiredFilter");
+    activeButton.style.backgroundColor = "red"
+})
 
 function hideSomeThings() {
     const mainButton = document.querySelector(".mainbutton");
@@ -328,6 +363,6 @@ function hideSomeThings() {
     }
 }
 
-searchInput.addEventListener("focus", function() {
+searchInput.addEventListener("focus", function () {
     currentPage = 1;
 });

@@ -10,7 +10,7 @@
   "nationality": "USA",
   "positions": ["Point Guard", "Shooting Guard"],
   "height": "6'2\"",
-  "draft": "Golden State Warriors, round 1, #7 overall, 2009",
+
   "description": "Sharpshooting guard known for his three-point prowess."
 },
 {
@@ -24,7 +24,7 @@
   "nationality": "USA",
   "positions": ["Small Forward", "Power Forward"],
   "height": "6'10\"",
-  "draft": "Seattle SuperSonics, round 1, #2 overall, 2007",
+
   "description": "Versatile forward with scoring ability and multiple championships."
 },
 {
@@ -38,7 +38,7 @@
   "nationality": "USA",
   "positions": ["Small Forward", "Power Forward"],
   "height": "6'9\"",
-  "draft": "Cleveland Cavaliers, round 1, #1 overall, 2003",
+
   "description": "NBA superstar known for his all-around skills and leadership."
 },
 {
@@ -52,7 +52,7 @@
   "nationality": "Greece",
   "positions": ["Power Forward", "Center"],
   "height": "6'11\"",
-  "draft": "Milwaukee Bucks, round 1, #15 overall, 2013",
+
   "description": "Greek Freak known for his athleticism and versatility."
 },
 {
@@ -66,7 +66,7 @@
   "nationality": "Serbia",
   "positions": ["Center", "Power Forward"],
   "height": "6'11\"",
-  "draft": "Denver Nuggets, round 2, #41 overall, 2014",
+
   "description": "Serbian big man with exceptional passing skills and versatility."
 }
 

@@ -9,7 +9,7 @@
         "nationality": "Sweden",
         "position": "Left Winger",
         "height": "6'0\"",
-        "draft": "Pittsburgh Penguins, Round 1, #16 overall, 1991",
+
         "description": "Swedish left winger, a scoring sensation for the Vancouver Canucks.",
         "img": "/hockey/img/players/Naslund.jpg"
     },
@@ -23,7 +23,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-        "draft": "Quebec Nordiques, Round 1, #15 overall, 1987",
+
         "description": "Canadian center, a legendary figure for the Colorado Avalanche.",
         "img": "/hockey/img/players/Sakic.jpg"
     },
@@ -37,7 +37,7 @@
         "nationality": "Canada",
         "position": "Right Winger",
         "height": "6'1\"",
-        "draft": "Dallas Stars, Round 1, #11 overall, 1995",
+
         "description": "Canadian right winger, a prolific scorer for the Calgary Flames.",
         "img": "/hockey/img/players/Iginla.jpg"
     },
@@ -51,7 +51,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'1\"",
-        "draft": "New Jersey Devils, Round 1, #3 overall, 1991",
+
         "description": "Canadian defenseman, a key figure for the New Jersey Devils.",
         "img": "/hockey/img/players/S Niedermayer.jpg"
     },
@@ -65,7 +65,7 @@
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'6\"",
-        "draft": "Hartford Whalers, Round 1, #2 overall, 1993",
+
         "description": "Canadian defenseman, a dominant presence in the NHL.",
         "img": "/hockey/img/players/Pronger.jpg"
     },
@@ -79,7 +79,7 @@
         "nationality": "Canada",
         "position": "Goalie",
         "height": "6'2\"",
-        "draft": "New Jersey Devils, Round 1, #20 overall, 1990",
+
         "description": "Canadian goaltender, a legendary figure for the New Jersey Devils.",
         "img": "/hockey/img/players/Brodeur.jpg"
     }

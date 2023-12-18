@@ -10,7 +10,7 @@
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-        "draft": "Washington Capitals, Round 1, #1 overall, 2004",
+
         "description": "Russian forward, an iconic figure for the Washington Capitals."
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-        "draft": "Pittsburgh Penguins, Round 1, #1 overall, 2005",
+
         "description": "Canadian center, the cornerstone of the Pittsburgh Penguins."
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "USA",
         "position": "Right Winger",
         "height": "5'11\"",
-        "draft": "Chicago Blackhawks, Round 1, #1 overall, 2007",
+
         "description": "American right winger, a prolific scorer for the Chicago Blackhawks."
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Canada",
         "position": "Right Defenseman",
         "height": "6'4\"",
-        "draft": "Nashville Predators, Round 2, #49 overall, 2003",
+
         "description": "Canadian right defenseman, known for his leadership."
     },
     {
@@ -66,7 +66,7 @@
         "nationality": "Canada",
         "position": "Right Defenseman",
         "height": "6'0\"",
-        "draft": "Montreal Canadiens, Round 2, #43 overall, 2007",
+
         "description": "Canadian right defenseman, known for his charisma and play."
     },
     {
@@ -80,7 +80,7 @@
         "nationality": "Sweden",
         "position": "Goalie",
         "height": "6'1\"",
-        "draft": "Not Drafted",
+
         "description": "Swedish goaltender, a legendary presence in the NHL."
     }
 ]

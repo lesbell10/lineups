@@ -10,7 +10,7 @@
     "nationality": "USA",
     "position": "Left Winger",
     "height": "5'9\"",
-    "draft": "Calgary Flames, round 4, #104 overall, 2011",
+
     "description": "Dynamic left winger known for his scoring ability."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "6'2\"",
-    "draft": "Colorado Avalanche, Round 1, #4 overall, 2017",
+
     "description": "Dynamic left-winger with incredible playmaking skills."
 },
   {
@@ -38,7 +38,7 @@
     "nationality": "Finland",
     "position": "Right Winger",
     "height": "6'5\"",
-    "draft": "Winnipeg Jets, round 1, #2 overall, 2016",
+
     "description": "Finnish winger with a powerful scoring shot."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "USA",
     "position": "Left Defenseman",
     "height": "6'2\"",
-    "draft": "Columbus Blue Jackets, round 1, #8 overall, 2015",
+
     "description": "Solid left defenseman with offensive contributions."
   },
   {
@@ -66,7 +66,7 @@
     "nationality": "Russia",
     "position": "Right Defenseman",
     "height": "6'1\"",
-    "draft": "Philadelphia Flyers, round 1, #7 overall, 2015",
+
     "description": "Russian right defenseman with defensive prowess."
   },
   {
@@ -80,7 +80,7 @@
     "nationality": "Latvia",
     "position": "Goalie",
     "height": "6'3\"",
-    "draft": "Columbus Blue Jackets, round 3, #76 overall, 2014",
+
     "description": "Latvian goaltender with strong reflexes and saves."
   }
 ]

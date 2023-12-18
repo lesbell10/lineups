@@ -10,7 +10,7 @@
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-        "draft": "Washington Capitals, Round 1, #1 overall, 2004",
+
         "description": "Russian forward, an iconic figure for the Washington Capitals."
     },
     {
@@ -24,7 +24,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-        "draft": "Edmonton Oilers, Round 1, #1 overall, 2015",
+
         "description": "Dynamic Canadian center, leading force for the Edmonton Oilers."
     },
     {
@@ -38,7 +38,7 @@
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-        "draft": "Pittsburgh Penguins, Round 1, #1 overall, 2005",
+
         "description": "Canadian center, the cornerstone of the Pittsburgh Penguins."
     },
     {
@@ -52,7 +52,7 @@
         "nationality": "Sweden",
         "position": "Left Defenseman",
         "height": "6'6\"",
-        "draft": "Tampa Bay Lightning, Round 1, #2 overall, 2009",
+
         "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
     },
     {
@@ -66,7 +66,6 @@
         "nationality": "Canada",
         "position": "Right Defenseman",
         "height": "6'5\"",
-        "okay": "Minnesota Wild, Round 1, #20 overall, 2003",
         "description": "Canadian right defenseman, a key player for the Carolina Hurricanes."
     },
     {
@@ -80,7 +79,7 @@
         "nationality": "Russia",
         "position": "Goalie",
         "height": "6'3\"",
-        "draft": "Tampa Bay Lightning, Round 1, #19 overall, 2012",
+
         "description": "Russian goaltender, a key asset for the Tampa Bay Lightning."
     }
 ]

@@ -10,7 +10,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "6'0\"",
-    "draft": "St. Louis Blues, round 1, #26 overall, 2007",
+
     "description": "Experienced left winger with scoring ability."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "USA",
     "position": "Center",
     "height": "6'1\"",
-    "draft": "Detroit Red Wings, round 1, #15 overall, 2014",
+
     "description": "Young American center with speed and skill."
   },
   {
@@ -38,7 +38,7 @@
     "nationality": "USA",
     "position": "Right Winger",
     "height": "5'7\"",
-    "draft": "Chicago Blackhawks, round 2, #39 overall, 2016",
+
     "description": "Dynamic right winger known for his scoring ability."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "Germany",
     "position": "Left Defenseman",
     "height": "6'4\"",
-    "draft": "Detroit Red Wings, round 1, #6 overall, 2019",
+
     "description": "Talented German left defenseman with great size."
   },
   {
@@ -66,7 +66,7 @@
     "nationality": "USA",
     "position": "Right Defenseman",
     "height": "6'3\"",
-    "draft": "Edmonton Oilers, round 2, #45 overall, 2006",
+
     "description": "Experienced right defenseman with offensive skills."
   },
   {
@@ -80,7 +80,7 @@
     "nationality": "Finland",
     "position": "Goalie",
     "height": "6'3\"",
-    "draft": "St. Louis Blues, round 4, #94 overall, 2014",
+
     "description": "Finnish goaltender known for his agility and quick reflexes."
   }
 ]

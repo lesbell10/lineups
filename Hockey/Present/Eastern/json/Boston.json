@@ -10,7 +10,7 @@
     "nationality": "Canada",
     "position": "Left Winger",
     "height": "5'9\"",
-    "draft": "Boston Bruins, round 3, #71 overall, 2006",
+
     "description": "Canadian left winger known for his scoring ability."
   },
   {
@@ -24,7 +24,7 @@
     "nationality": "Czech Republic",
     "position": "Center",
     "height": "6'3\"",
-    "draft": "New Jersey Devils, round 1, #6 overall, 2015",
+
     "description": "Czech center with strong offensive and defensive skills."
   },
   {
@@ -38,7 +38,7 @@
     "nationality": "Czech Republic",
     "position": "Right Winger",
     "height": "6'0\"",
-    "draft": "Boston Bruins, round 1, #25 overall, 2014",
+
     "description": "Czech right winger known for his goal-scoring prowess."
   },
   {
@@ -52,7 +52,7 @@
     "nationality": "USA",
     "position": "Defenseman",
     "height": "6'1\"",
-    "draft": "Boston Bruins, round 1, #14 overall, 2016",
+
     "description": "American defenseman known for his strong two-way play."
   },
   {
@@ -66,7 +66,7 @@
     "nationality": "USA",
     "position": "Defenseman",
     "height": "6'5\"",
-    "draft": "Boston Bruins, round 2, #37 overall, 2015",
+
     "description": "Tall American defenseman known for his defensive skills."
   },
   {
@@ -80,7 +80,7 @@
     "nationality": "Sweden",
     "position": "Goalie",
     "height": "6'4\"",
-    "draft": "Buffalo Sabres, round 6, #163 overall, 2012",
+
     "description": "Swedish goalie known for his size and strong goaltending."
   }
 ]

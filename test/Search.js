@@ -46,10 +46,10 @@ function searchPlayers(query) {
     description.innerHTML = "";
     clearPageContentExceptNav();
     const uniquePlayers = new Map();
-    
+
     // Normalize the query to lowercase for case-insensitive search
     const normalizedQuery = query.toLowerCase();
-    
+
     allPlayers.forEach(player => {
         Object.values(player).forEach(value => {
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
@@ -57,9 +57,9 @@ function searchPlayers(query) {
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
                     return;
-                    }
-                }       
-            });
+                }
+            }
+        });
     });
 
     const results = Array.from(uniquePlayers.values());
@@ -163,7 +163,7 @@ function displayResults(players) {
         img.style.marginBottom = "10px";
         img.style.animation = "none"
 
-    // Create and set the player details using template literals, including "Current Team" or "Last Team"
+        // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `        
   <p style="animation: none;">${player.description}</p>
   <div class="line">--------------------------------------</div>
@@ -174,15 +174,15 @@ function displayResults(players) {
   <p style="animation: none;">Height: ${player.height}</p>
   <p style="animation: none;">Birth Date: ${player.birth_date}</p>
   <p style="animation: none;">Birthplace: ${player.birthplace}</p>
-  <p style="animation: none;">Draft: ${player.draft}</p>           
-            `;       
-        
+
+            `;
+
         // Create a container for the description
 
         // const descriptionDiv = document.createElement('div');
         // descriptionDiv.className = 'description'; // Add a class for styling
         // descriptionDiv.innerHTML = `${player.description}`; // Add your description text
-        
+
         playerDiv.prepend(img);
 
         // Create a wrapper div to hold both playerDiv and descriptionDiv side by side
@@ -210,7 +210,7 @@ function addPaginationControls(pageCount, filteredPlayers) {
     for (let i = 1; i <= pageCount; i++) {
         const pageButton = document.createElement('button');
         pageButton.innerText = i;
-        pageButton.addEventListener('click', function() {
+        pageButton.addEventListener('click', function () {
             currentPage = i;
             displayResults(filteredPlayers);
             setActivePageButton(i); // Call the function to set the active page button
@@ -239,26 +239,26 @@ function setActivePageButton(activePageIndex) {
 }
 
 
-    const searchInput = document.getElementById("searchInput");
-    const searchButton = document.getElementById("searchButton");
+const searchInput = document.getElementById("searchInput");
+const searchButton = document.getElementById("searchButton");
 
-   // Event listener for the search button
-    searchButton.addEventListener("click", function() {
-        hideSomeThings()
-        const query = "";
-        searchInput.value = ""
-        searchPlayers(query);
-       
-    });
+// Event listener for the search button
+searchButton.addEventListener("click", function () {
+    hideSomeThings()
+    const query = "";
+    searchInput.value = ""
+    searchPlayers(query);
 
-     // Event listener for the 'Enter' key in the search input
-    searchInput.addEventListener("input", function() {
-        hideSomeThings()
-        const query = searchInput.value;
-        searchPlayers(query);
-        
-    });
-    
+});
+
+// Event listener for the 'Enter' key in the search input
+searchInput.addEventListener("input", function () {
+    hideSomeThings()
+    const query = searchInput.value;
+    searchPlayers(query);
+
+});
+
 function hideSomeThings() {
     const mainButton = document.querySelector(".mainbutton");
     if (mainButton) {
@@ -266,6 +266,6 @@ function hideSomeThings() {
     }
 }
 
-searchInput.addEventListener("focus", function() {
+searchInput.addEventListener("focus", function () {
     currentPage = 1;
 });
