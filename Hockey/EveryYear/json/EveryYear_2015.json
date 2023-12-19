@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-        "birthplace": "Moscow, Russia",
+
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-        "birthplace": "Cole Harbour, Canada",
+
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/P Kane.jpg",
         "full_name": "Patrick Kane",
         "birth_date": "19-11-1988",
-        "birthplace": "Buffalo, USA",
+
         "team": "Detroit Red Wings",
         "nationality": "USA",
         "position": "Right Winger",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Weber.jpg",
         "full_name": "Shea Weber",
         "birth_date": "14-08-1985",
-        "birthplace": "Sicamous, Canada",
+
         "team": "Arizona Coyotes",
         "nationality": "Canada",
         "position": "Right Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Subban.jpg",
         "full_name": "P.K. Subban",
         "birth_date": "13-05-1989",
-        "birthplace": "Toronto, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Lundqvist.jpg",
         "full_name": "Henrik Lundqvist",
         "birth_date": "02-03-1982",
-        "birthplace": "Åre, Sweden",
+
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Goalie",

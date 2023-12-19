@@ -6,7 +6,7 @@
     "full_name": "Allen Iverson",
     "birth_date": "07-06-1975",
     "birthplace": "Hampton, USA",
-    "team": "Retired",
+    "team": "Philadelphia 76ers (Retired)",
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
     "height": "6'0\"",
@@ -20,7 +20,7 @@
     "full_name": "Tracy McGrady",
     "birth_date": "24-05-1979",
     "birthplace": "Bartow, USA",
-    "team": "Retired",
+    "team": "Orlando Magic (Retired)",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'8\"",
@@ -48,7 +48,7 @@
     "full_name": "Vince Carter",
     "birth_date": "26-01-1977",
     "birthplace": "Daytona Beach, USA",
-    "team": "Retired",
+    "team": "Toronto (Retired)",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'6\"",
@@ -158,7 +158,7 @@
     "last_name": "M Jordan",
     "img": "/basket/img/players/M Jordan.webp",
     "full_name": "Michael Jordan",
-    "team": "Retired",
+    "team": "Chicago Bulls (Retired)",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Arguably the greatest player in NBA history."
@@ -198,7 +198,7 @@
     "last_name": "S Pippen",
     "img": "/basket/img/players/S Pippen.webp",
     "full_name": "Scottie Pippen",
-    "team": "Retired",
+    "team": "Chicago Bulls (Retired)",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "description": "Versatile forward known for his defense and championships."
@@ -348,7 +348,7 @@
     "last_name": "P Ewing",
     "img": "/basket/img/players/P Ewing.png",
     "full_name": "Patrick Ewing",
-    "team": "Retired",
+    "team": "ŉew York Knicks (Retired)",
     "nationality": "USA",
     "positions": ["Center"],
     "description": "Legendary center and dominant shot-blocker."
@@ -638,7 +638,7 @@
     "last_name": "L Stephenson Jr",
     "img": "/basket/img/players/L Stephenson Jr.png",
     "full_name": "Lance Stephenson",
-    "team": "Retired",
+    "team": "Iowa Wolves (G League)",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Flashy and energetic guard-forward known for his ball-handling."
@@ -658,7 +658,7 @@
     "last_name": "T Gibson",
     "img": "/basket/img/players/T Gibson.png",
     "full_name": "Taj Gibson",
-    "team": "Retired",
+    "team": "New York Knicks",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "Defensive-minded forward-center with a long NBA career."
@@ -718,7 +718,7 @@
     "last_name": "H Whiteside",
     "img": "/basket/img/players/H Whiteside.png",
     "full_name": "Hassan Whiteside",
-    "team": "Retired",
+    "team": "Piratas de Quebradillas (Puerto Rico)",
     "nationality": "USA",
     "positions": ["Center"],
     "description": "Shot-blocking specialist and dominant presence in the paint."
@@ -728,7 +728,7 @@
     "last_name": "B Knight",
     "img": "/basket/img/players/B Knight.png",
     "full_name": "Brandon Knight",
-    "team": "Retired",
+    "team": "Piratas de Quebradillas (Puerto Rico)",
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
     "description": "Scoring guard known for his offensive versatility."
@@ -748,7 +748,7 @@
     "last_name": "A Bradley",
     "img": "/basket/img/players/A Bradley.png",
     "full_name": "Avery Bradley",
-    "team": "Retired",
+    "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Point Guard"],
     "description": "Defensive-minded guard known for his perimeter defense."
@@ -758,7 +758,7 @@
     "last_name": "J Crowder",
     "img": "/basket/img/players/J Crowder.png",
     "full_name": "Jae Crowder",
-    "team": "Miami Heat",
+    "team": " Milwaukee Bucks",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Versatile forward known for his defensive prowess."
@@ -768,7 +768,7 @@
     "last_name": "R Hood",
     "img": "/basket/img/players/R Hood.png",
     "full_name": "Rodney Hood",
-    "team": "Sacramento Kings",
+    "team": "Los Angeles Clippers",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Scoring wing with a smooth jump shot."
@@ -778,7 +778,7 @@
     "last_name": "J Parker",
     "img": "/basket/img/players/J Parker.png",
     "full_name": "Jabari Parker",
-    "team": "Sacramento Kings",
+    "team": "FC Barcelona (Spain)",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Talented forward with scoring ability."
@@ -798,27 +798,17 @@
     "last_name": "D Waiters",
     "img": "/basket/img/players/D Waiters.png",
     "full_name": "Dion Waiters",
-    "team": "Retired",
+    "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "description": "Scoring guard known for his confidence and shot-making ability."
-  },
-  {
-    "id": 83,
-    "last_name": "EE Kanter",
-    "img": "/basket/img/players/E Kanter.png",
-    "full_name": "Enes Kanter",
-    "team": "Retired",
-    "nationality": "Turkey",
-    "positions": ["Center"],
-    "description": "Skilled Turkish center with a strong inside game."
   },
   {
     "id": 84,
     "last_name": "TJ Warren",
     "img": "/basket/img/players/TJ Warren.png",
     "full_name": "TJ Warren",
-    "team": "Indiana Pacers",
+    "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "description": "Scoring forward known for his ability to put up points."
@@ -828,16 +818,16 @@
     "last_name": "M Harrell",
     "img": "/basket/img/players/M Harrell.png",
     "full_name": "Montrezl Harrell",
-    "team": "Charlotte Hornets",
+    "team": "Philadelphia 76ers",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "High-energy forward-center and former Sixth Man of the Year."
   },
   {
     "id": 86,
-    "last_name": "M Bagley",
+    "last_name": "M Bagley III",
     "img": "/basket/img/players/M Bagley III.png",
-    "full_name": "Marvin Bagley",
+    "full_name": "Marvin Bagley III",
     "team": "Detroit Pistons",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
@@ -848,7 +838,7 @@
     "last_name": "J Richardson",
     "img": "/basket/img/players/J Richardson.png",
     "full_name": "Josh Richardson",
-    "team": "San Antonio Spurs",
+    "team": "Miami Heat",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Versatile wing player known for his defensive skills."
@@ -868,7 +858,7 @@
     "last_name": "R Covington",
     "img": "/basket/img/players/R Covington.png",
     "full_name": "Robert Covington",
-    "team": "Golden State Warriors",
+    "team": "Philadelphia 76ers",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Defensive-minded forward known for his shot-blocking."
@@ -898,7 +888,7 @@
     "last_name": "J Grant",
     "img": "/basket/img/players/J Grant.png",
     "full_name": "Jerami Grant",
-    "team": "Detroit Pistons",
+    "team": "Portland Trail Blazers",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Versatile forward with scoring and defensive skills."
@@ -908,7 +898,7 @@
     "last_name": "J Ingles",
     "img": "/basket/img/players/J Ingles.png",
     "full_name": "Joe Ingles",
-    "team": "Utah Jazz",
+    "team": "Orlando Magic",
     "nationality": "Australia",
     "positions": ["Small Forward", "Shooting Guard"],
     "description": "Crafty forward known for his three-point shooting."
@@ -926,7 +916,7 @@
   {
     "id": 95,
     "last_name": "E Okafor",
-    "img": "/basket/img/players/E Okafor.png",
+    "img": "/basket/img/players/E Okafor.avif",
     "full_name": "Emeka Okafor",
     "team": "Retired",
     "nationality": "USA",

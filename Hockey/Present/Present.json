@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Draisaitl.jpg",
     "full_name": "Leon Draisaitl",
     "birth_date": "27-10-1995",
-    "birthplace": "Cologne, Germany",
+
     "team": "Edmonton Oilers",
     "nationality": "Germany",
     "position": "Center",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/McDavid.jpg",
     "full_name": "Connor McDavid",
     "birth_date": "13-01-1997",
-    "birthplace": "Richmond Hill, Canada",
+
     "team": "Edmonton Oilers",
     "nationality": "Canada",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Pastrnak.jpg",
     "full_name": "David Pastrnak",
     "birth_date": "25-05-1996",
-    "birthplace": "Havirov, Czech Republic",
+
     "team": "Boston Bruins",
     "nationality": "Czech Republic",
     "position": "Right Winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Makar.jpg",
     "full_name": "Cale Makar",
     "birth_date": "30-10-1998",
-    "birthplace": "Calgary, Canada",
+
     "team": "Colorado Avalanche",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Josi.jpg",
     "full_name": "Roman Josi",
     "birth_date": "01-06-1990",
-    "birthplace": "Bern, Switzerland",
+
     "team": "Nashville Predators",
     "nationality": "Switzerland",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Vasilevskiy.jpg",
     "full_name": "Andrei Vasilevskiy",
     "birth_date": "25-07-1994",
-    "birthplace": "Tyumen, Russia",
+
     "team": "Tampa Bay Lightning",
     "nationality": "Russia",
     "position": "Goalie",

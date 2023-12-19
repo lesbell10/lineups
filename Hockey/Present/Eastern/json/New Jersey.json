@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Bratt.jpg",
     "full_name": "Jesper Bratt",
     "birth_date": "30-07-1998",
-    "birthplace": "Stockholm, Sweden",
+
     "team": "New Jersey Devils",
     "nationality": "Sweden",
     "position": "Left winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/J Hughes.jpg",
     "full_name": "Jack Hughes",
     "birth_date": "14-05-2001",
-    "birthplace": "Orlando, USA",
+
     "team": "New Jersey Devils",
     "nationality": "USA",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Hischier.jpg",
     "full_name": "Nico Hischier",
     "birth_date": "04-01-1999",
-    "birthplace": "Brig, Switzerland",
+
     "team": "New Jersey Devils",
     "nationality": "Switzerland",
     "position": "Center",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Hamilton.jpg",
     "full_name": "Dougie Hamilton",
     "birth_date": "17-06-1993",
-    "birthplace": "Toronto, Canada",
+
     "team": "New Jersey Devils",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Siegenthaler.jpg",
     "full_name": "Jonas Siegenthaler",
     "birth_date": "06-05-1997",
-    "birthplace": "Zurich, Switzerland",
+
     "team": "New Jersey Devils",
     "nationality": "Switzerland",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Vanecek.jpg",
     "full_name": "Vitek Vanecek",
     "birth_date": "09-01-1996",
-    "birthplace": "Havlickuv Brod, Czech Republic",
+
     "team": "New Jersey Devils",
     "nationality": "Czech Republic",
     "position": "Goalie",

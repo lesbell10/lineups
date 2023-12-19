@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Svechnikov.jpg",
     "full_name": "Andrei Svechnikov",
     "birth_date": "26-03-2000",
-    "birthplace": "Barnaul, Russia",
+
     "position": "Left Forward",
     "team": "Carolina Hurricanes",
     "nationality": "Russia",
@@ -18,7 +18,7 @@
     "img": "/hockey/img/players/Aho.jpg",
     "full_name": "Sebastian Aho",
     "birth_date": "26-07-1997",
-    "birthplace": "Rauma, Finland",
+
     "position": "Center Forward",
     "team": "Carolina Hurricanes",
     "nationality": "Finland",
@@ -31,7 +31,7 @@
     "img": "/hockey/img/players/Necas.jpg",
     "full_name": "Martin Necas",
     "birth_date": "15-01-1999",
-    "birthplace": "Nove Mesto na Morave, Czech Republic",
+
     "position": "Right Forward",
     "team": "Carolina Hurricanes",
     "nationality": "Czech Republic",
@@ -44,7 +44,7 @@
     "img": "/hockey/img/players/Slavin.jpg",
     "full_name": "Jaccob Slavin",
     "birth_date": "01-05-1994",
-    "birthplace": "Denver, USA",
+
     "position": "Left Defender",
     "team": "Carolina Hurricanes",
     "nationality": "USA",
@@ -57,7 +57,7 @@
     "img": "/hockey/img/players/Burns.jpg",
     "full_name": "Brent Burns",
     "birth_date": "09-03-1985",
-    "birthplace": "Barrie, Canada",
+
     "position": "Right Defender",
     "team": "Carolina Hurricanes",
     "nationality": "Canada",
@@ -70,7 +70,7 @@
     "img": "/hockey/img/players/Andersen.jpg",
     "full_name": "Frederik Andersen",
     "birth_date": "02-10-1989",
-    "birthplace": "Herning, Denmark",
+
     "position": "Goalkeeper",
     "team": "Carolina Hurricanes",
     "nationality": "Denmark",

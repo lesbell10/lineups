@@ -5,7 +5,7 @@
     "img": "/football/img/players/Dzeko.webp",
     "full_name": "Edin Dzeko",
     "birth_date": "17-03-1986",
-    "birthplace": "Sarajevo, Bosnia and Herzegovina",
+
     "position": "Striker",
     "team": "Fenerbahce",
     "nationality": "Bosnia and Herzegovina",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Mkhitaryan.webp",
     "full_name": "Henrikh Mkhitaryan",
     "birth_date": "21-01-1989",
-    "birthplace": "Yerevan, Armenia",
+
     "position": "Attacking Midfielder",
     "team": "Inter Milan",
     "nationality": "Armenia",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Totti.webp",
     "full_name": "Francesco Totti",
     "birth_date": "27-09-1976",
-    "birthplace": "Rome, Italy",
+
     "position": "Attacking Midfielder",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/El Shaarawy.webp",
     "full_name": "Stephan El Shaarawy",
     "birth_date": "27-10-1992",
-    "birthplace": "Savona, Italy",
+
     "position": "Forward",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Pjanic.webp",
     "full_name": "Miralem Pjanic",
     "birth_date": "02-04-1990",
-    "birthplace": "Tuzla, Bosnia and Herzegovina",
+
     "position": "Central Midfielder",
     "team": "Sharjah",
     "nationality": "Bosnia and Herzegovina",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/De Rossi.webp",
     "full_name": "Daniele De Rossi",
     "birth_date": "24-07-1983",
-    "birthplace": "Rome, Italy",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "Italy",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Florenzi.webp",
     "full_name": "Alessandro Florenzi",
     "birth_date": "11-03-1991",
-    "birthplace": "Rome, Italy",
+
     "position": "Right-Back",
     "team": "AC Milan",
     "nationality": "Italy",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Smalling.webp",
     "full_name": "Chris Smalling",
     "birth_date": "22-11-1989",
-    "birthplace": "London, England",
+
     "position": "Center-Back",
     "team": "AS Roma",
     "nationality": "England",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Manolas.webp",
     "full_name": "Kostas Manolas",
     "birth_date": "14-06-1991",
-    "birthplace": "Naxos, Greece",
+
     "position": "Center-Back",
     "team": "Sharjah",
     "nationality": "Greece",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Kolarov.webp",
     "full_name": "Aleksandar Kolarov",
     "birth_date": "10-11-1985",
-    "birthplace": "Belgrade, Serbia",
+
     "position": "Left-Back",
     "team": "Retired",
     "nationality": "Serbia",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Szczesny.webp",
     "full_name": "Wojciech Szczesny",
     "birth_date": "18-04-1990",
-    "birthplace": "Warsaw, Poland",
+
     "position": "Goalkeeper",
     "team": "Juventus",
     "nationality": "Poland",

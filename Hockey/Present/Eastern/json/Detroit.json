@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Perron.jpg",
     "full_name": "David Perron",
     "birth_date": "28-05-1988",
-    "birthplace": "Sherbrooke, Canada",
+
     "team": "Detroit Red Wings",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Larkin.jpg",
     "full_name": "Dylan Larkin",
     "birth_date": "30-07-1996",
-    "birthplace": "Waterford, USA",
+
     "team": "Detroit Red Wings",
     "nationality": "USA",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/DeBrincat.jpg",
     "full_name": "Alex DeBrincat",
     "birth_date": "18-12-1997",
-    "birthplace": "Farmington Hills, USA",
+
     "team": "Detroit Red Wings",
     "nationality": "USA",
     "position": "Right Winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Seider.jpg",
     "full_name": "Moritz Seider",
     "birth_date": "06-04-2001",
-    "birthplace": "Zell am See, Austria",
+
     "team": "Detroit Red Wings",
     "nationality": "Germany",
     "position": "Left Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Petry.jpg",
     "full_name": "Jeff Petry",
     "birth_date": "09-12-1987",
-    "birthplace": "Ann Arbor, USA",
+
     "team": "Detroit Red Wings",
     "nationality": "USA",
     "position": "Right Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Husso.jpg",
     "full_name": "Ville Husso",
     "birth_date": "06-02-1995",
-    "birthplace": "Helsinki, Finland",
+
     "team": "Detroit Red Wings",
     "nationality": "Finland",
     "position": "Goalie",

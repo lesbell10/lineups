@@ -5,7 +5,7 @@
         "img": "/football/img/players/Morata.webp",
         "full_name": "Alvaro Morata",
         "birth_date": "23-10-1992",
-        "birthplace": "Madrid, Spain",
+
         "position": "Striker",
         "team": "Atletico Madrid",
         "nationality": "Spain",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/D Olmo.webp",
         "full_name": "Dani Olmo",
         "birth_date": "07-05-1998",
-        "birthplace": "Terrassa, Spain",
+
         "position": "Forward",
         "team": "RB Leipzig",
         "nationality": "Spain",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Pedri.webp",
         "full_name": "Pedri Gonzalez",
         "birth_date": "25-11-2002",
-        "birthplace": "Tegueste, Spain",
+
         "position": "Central Midfielder",
         "team": "Barcelona",
         "nationality": "Spain",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Gavi.webp",
         "full_name": "Gavi Hernandez",
         "birth_date": "05-08-2004",
-        "birthplace": "Terrassa, Spain",
+
         "position": "Attacking Midfielder",
         "team": "FC Barcelona",
         "nationality": "Spain",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Koke.webp",
         "full_name": "Koke",
         "birth_date": "08-01-1992",
-        "birthplace": "Madrid, Spain",
+
         "position": "Central Midfielder",
         "team": "Atletico Madrid",
         "nationality": "Spain",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Rodri.webp",
         "full_name": "Rodrigo Hernandez",
         "birth_date": "22-06-1996",
-        "birthplace": "Madrid, Spain",
+
         "position": "Defensive Midfielder",
         "team": "Manchester City",
         "nationality": "Spain",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/P Porro.webp",
         "full_name": "Pedro Porro",
         "birth_date": "13-02-2000",
-        "birthplace": "Madrid, Spain",
+
         "position": "Right-back",
         "team": "Tottenham",
         "nationality": "Spain",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/P Torres.webp",
         "full_name": "Pau Torres",
         "birth_date": "16-11-1997",
-        "birthplace": "Villarreal, Spain",
+
         "position": "Center-back",
         "team": "Villarreal",
         "nationality": "Spain",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Laporte.webp",
         "full_name": "Aymeric Laporte",
         "birth_date": "27-05-1994",
-        "birthplace": "Agen, France",
+
         "position": "Center-back",
         "team": "Al Nassr",
         "nationality": "Spain",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Balde.webp",
         "full_name": "Boubacar Balde",
         "birth_date": "17-12-2003",
-        "birthplace": "Dakar, Senegal",
+
         "position": "Left-back",
         "team": "Barcelona",
         "nationality": "Senegal",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/U Simon.webp",
         "full_name": "Unai Simon",
         "birth_date": "11-03-1997",
-        "birthplace": "Vitoria-Gasteiz, Spain",
+
         "position": "Goalkeeper",
         "team": "Athletic Bilbao",
         "nationality": "Spain",

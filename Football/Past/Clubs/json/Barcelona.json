@@ -5,7 +5,7 @@
     "img": "/football/img/players/Suarez.webp",
     "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
-    "birthplace": "Salto, Uruguay",
+
     "position": "Striker",
     "team": "Gremio",
     "nationality": "Uruguay",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Messi.webp",
     "full_name": "Lionel Messi",
     "birth_date": "24-06-1987",
-    "birthplace": "Rosario, Argentina",
+
     "position": "Forward",
     "team": "Inter Miami",
     "nationality": "Argentina",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Iniesta.webp",
     "full_name": "Andres Iniesta",
     "birth_date": "11-05-1984",
-    "birthplace": "Fuentealbilla, Spain",
+
     "position": "Attacking Midfielder",
     "team": "Emirates",
     "nationality": "Spain",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Neymar.webp",
     "full_name": "Neymar da Silva Jr",
     "birth_date": "05-02-1992",
-    "birthplace": "Mogi das Cruzes, Brazil",
+
     "position": "Forward",
     "team": "FL",
     "nationality": "Brazil",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Xavi.webp",
     "full_name": "Xavi Hernandez",
     "birth_date": "25-01-1980",
-    "birthplace": "Terrassa, Spain",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "Spain",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Busquets.webp",
     "full_name": "Sergio Busquets",
     "birth_date": "16-07-1988",
-    "birthplace": "Sabadell, Spain",
+
     "position": "Defensive Midfielder",
     "team": "Inter Miami",
     "nationality": "Spain",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/D Alves.webp",
     "full_name": "Daniel Alves",
     "birth_date": "06-05-1983",
-    "birthplace": "Juazeiro, Brazil",
+
     "position": "Right Back",
     "team": "Retired",
     "nationality": "Brazil",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Pique.webp",
     "full_name": "Gerard Pique",
     "birth_date": "02-02-1987",
-    "birthplace": "Barcelona, Spain",
+
     "position": "Center-Back",
     "team": "Retired",
     "nationality": "Spain",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Mascherano.webp",
     "full_name": "Javier Mascherano",
     "birth_date": "08-06-1984",
-    "birthplace": "San Lorenzo, Argentina",
+
     "position": "Center-Back",
     "team": "Retired",
     "nationality": "Argentina",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Alba.webp",
     "full_name": "Jordi Alba",
     "birth_date": "21-03-1989",
-    "birthplace": "L'Hospitalet de Llobregat, Spain",
+
     "position": "Left Back",
     "team": "Inter Miami",
     "nationality": "Spain",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/terStegen.webp",
     "full_name": "Marc-Andre ter Stegen",
     "birth_date": "30-04-1992",
-    "birthplace": "Mönchengladbach, Germany",
+
     "position": "Goalkeeper",
     "team": "Barcelona",
     "nationality": "Germany",

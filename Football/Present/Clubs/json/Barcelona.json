@@ -5,7 +5,7 @@
     "img": "/football/img/players/Lewandowski.webp",
     "full_name": "Robert Lewandowski",
     "birth_date": "21-08-1988",
-    "birthplace": "Warsaw, Poland",
+
     "position": "Striker",
     "team": "Barcelona",
     "nationality": "Poland",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/J Felix.webp",
     "full_name": "Joao Felix",
     "birth_date": "10-11-1999",
-    "birthplace": "Viseu, Portugal",
+
     "position": "Forward",
     "team": "Barcelona",
     "nationality": "Portugal",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Pedri.webp",
     "full_name": "Pedri Gonzalez",
     "birth_date": "25-11-2002",
-    "birthplace": "Tegueste, Spain",
+
     "position": "Central Midfielder",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Gavi.webp",
     "full_name": "Gavi Hernandez",
     "birth_date": "05-08-2004",
-    "birthplace": "Terrassa, Spain",
+
     "position": "Atacking Midfielder",
     "team": "FC Barcelona",
     "nationality": "Spain",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Gundogan.webp",
     "full_name": "Ilkay Gundogan",
     "birth_date": "24-10-1990",
-    "birthplace": "Gelsenkirchen, Germany",
+
     "position": "Central Midfielder",
     "team": "Barcelona",
     "nationality": "Germany",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/F de Jong.webp",
     "full_name": "Frenkie de Jong",
     "birth_date": "12-05-1997",
-    "birthplace": "Arkel, Netherlands",
+
     "position": "Central Midfielder",
     "team": "Barcelona",
     "nationality": "Netherlands",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Cancelo.webp",
     "full_name": "Joao Cancelo",
     "birth_date": "27-05-1994",
-    "birthplace": "Barreiro, Portugal",
+
     "position": "Right-back",
     "team": "Barcelona",
     "nationality": "Portugal",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Kounde.webp",
     "full_name": "Jules Kounde",
     "birth_date": "12-11-1998",
-    "birthplace": "Paris, France",
+
     "position": "Center-back",
     "team": "Barcelona",
     "nationality": "France",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/R Araujo.webp",
     "full_name": "Ronald Araujo",
     "birth_date": "07-03-1999",
-    "birthplace": "Rivera, Uruguay",
+
     "position": "Center-back",
     "team": "Barcelona",
     "nationality": "Uruguay",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Balde.webp",
     "full_name": "Boubacar Balde",
     "birth_date": "17-12-2003",
-    "birthplace": "Dakar, Senegal",
+
     "position": "Left-back",
     "team": "Barcelona",
     "nationality": "Senegal",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/ter Stegen.webp",
     "full_name": "Marc-Andre ter Stegen",
     "birth_date": "30-04-1992",
-    "birthplace": "Mönchengladbach, Germany",
+
     "position": "Goalkeeper",
     "team": "Barcelona",
     "nationality": "Germany",

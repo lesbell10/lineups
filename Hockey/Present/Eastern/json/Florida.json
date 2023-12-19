@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Verhaeghe.jpg",
     "full_name": "Carter Verhaeghe",
     "birth_date": "23-08-1995",
-    "birthplace": "Waterdown, Canada",
+
     "team": "Florida Panthers",
     "nationality": "Canada",
     "position": "Left winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Barkov.jpg",
     "full_name": "Aleksander Barkov",
     "birth_date": "02-09-1995",
-    "birthplace": "Tampere, Finland",
+
     "team": "Florida Panthers",
     "nationality": "Finland",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/M Tkachuk.jpg",
     "full_name": "Matthew Tkachuk",
     "birth_date": "11-12-1997",
-    "birthplace": "Scottsdale, USA",
+
     "team": "Florida Panthers",
     "nationality": "USA",
     "position": "Left winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Ekblad.jpg",
     "full_name": "Aaron Ekblad",
     "birth_date": "07-02-1996",
-    "birthplace": "Windsor, Canada",
+
     "team": "Florida Panthers",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Montour.jpg",
     "full_name": "Brandon Montour",
     "birth_date": "11-04-1994",
-    "birthplace": "Brantford, Canada",
+
     "team": "Florida Panthers",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Bobrovsky.jpg",
     "full_name": "Sergei Bobrovsky",
     "birth_date": "20-09-1988",
-    "birthplace": "Novokuznetsk, Russia",
+
     "team": "Florida Panthers",
     "nationality": "Russia",
     "position": "Goalie",

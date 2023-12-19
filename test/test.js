@@ -3,18 +3,18 @@ function startProgram() {
     // Your code that depends on allPlayers can go here
 
     // Example: Add an event listener for the search button
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function () {
         const searchInput = document.getElementById("searchInput");
         const searchButton = document.getElementById("searchButton");
 
         // Event listener for the search button
-        searchButton.addEventListener("click", function() {
+        searchButton.addEventListener("click", function () {
             const query = searchInput.value;
             searchPlayersByName(query);
         });
 
         // Event listener for the 'Enter' key in the search input
-        searchInput.addEventListener("keypress", function(event) {
+        searchInput.addEventListener("keypress", function (event) {
             if (event.key === "Enter") {
                 const query = searchInput.value;
                 searchPlayersByName(query);
@@ -67,8 +67,8 @@ function searchPlayersByName(query) {
 
     allPlayers.forEach(player => {
         if (player.full_name.toLowerCase().includes(query.toLowerCase())) {
-            
-        // Use full_name and birth_date as a unique key
+
+            // Use full_name and birth_date as a unique key
             const uniqueKey = `${player.full_name}_${player.birth_date}`;
 
 
@@ -161,7 +161,7 @@ function displayResults(players) {
         img.style.display = "block";
         img.style.marginBottom = "10px";
 
-    // Create and set the player details using template literals, including "Current Team" or "Last Team"
+        // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `
             <p>Full Name: ${player.full_name}</p>
             <p>Team: ${player.team}</p>
@@ -169,14 +169,14 @@ function displayResults(players) {
             <p>Position: ${player.position}</p>
             <p>Height: ${player.height}</p>
             <p>Birth Date: ${player.birth_date}</p>
-            <p>Birthplace: ${player.birthplace}</p>
-    `;       
-        
+
+    `;
+
         // Create a container for the description
         const descriptionDiv = document.createElement('div');
         descriptionDiv.className = 'description'; // Add a class for styling
         descriptionDiv.innerHTML = `${player.description}`; // Add your description text
-        
+
         playerDiv.prepend(img);
 
         // Create a wrapper div to hold both playerDiv and descriptionDiv side by side

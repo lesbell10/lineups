@@ -5,7 +5,7 @@
   "img": "/football/img/players/van Persie.webp",
   "full_name": "Robin van Persie",
   "birth_date": "06-08-1983",
-  "birthplace": "Rotterdam, Netherlands",
+
   "position": "Striker",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -18,7 +18,7 @@
   "img": "/football/img/players/A Sanchez.webp",
   "full_name": "Alexis Sanchez",
   "birth_date": "19-12-1988",
-  "birthplace": "Tocopilla, Chile",
+
   "position": "Forward",
   "team": "Inter Milan",
   "nationality": "Chile",
@@ -31,7 +31,7 @@
   "img": "/football/img/players/Ozil.webp",
   "full_name": "Mesut Ozil",
   "birth_date": "15-10-1988",
-  "birthplace": "Gelsenkirchen, Germany",
+
   "position": "Attacking Midfielder",
   "team": "Retired",
   "nationality": "Germany",
@@ -44,7 +44,7 @@
   "img": "/football/img/players/Aubameyang.webp",
   "full_name": "P-E Aubameyang",
   "birth_date": "18-06-1989",
-  "birthplace": "Laval, France",
+
   "position": "Forward",
   "team": "Marseille",
   "nationality": "Gabon",
@@ -57,7 +57,7 @@
   "img": "/football/img/players/Cazorla.webp",
   "full_name": "Santi Cazorla",
   "birth_date": "13-12-1984",
-  "birthplace": "Lugo, Spain",
+
   "position": "Central Midfielder",
   "team": "Real Oviedo",
   "nationality": "Spain",
@@ -70,7 +70,7 @@
   "img": "/football/img/players/Xhaka.webp",
   "full_name": "Granit Xhaka",
   "birth_date": "27-09-1992",
-  "birthplace": "Basel, Switzerland",
+
   "position": "Central Midfielder",
   "team": "Bayer Leverkusen",
   "nationality": "Switzerland",
@@ -83,7 +83,7 @@
   "img": "/football/img/players/Sagna.webp",
   "full_name": "Bacary Sagna",
   "birth_date": "14-02-1983",
-  "birthplace": "Sens, France",
+
   "position": "Right Back",
   "team": "Retired",
   "nationality": "France",
@@ -96,7 +96,7 @@
   "img": "/football/img/players/Koscielny.webp",
   "full_name": "Laurent Koscielny",
   "birth_date": "10-09-1985",
-  "birthplace": "Tulle, France",
+
   "position": "Center-Back",
   "team": "Retired",
   "nationality": "France",
@@ -109,7 +109,7 @@
   "img": "/football/img/players/Mustafi.webp",
   "full_name": "Shkodran Mustafi",
   "birth_date": "17-04-1992",
-  "birthplace": "Bad Hersfeld, Germany",
+
   "position": "Center-Back",
   "team": "Levante",
   "nationality": "Germany",
@@ -122,7 +122,7 @@
   "img": "/football/img/players/Monreal.webp",
   "full_name": "Nacho Monreal",
   "birth_date": "26-02-1986",
-  "birthplace": "Pamplona, Spain",
+
   "position": "Left Back",
   "team": "Retired",
   "nationality": "Spain",
@@ -135,7 +135,7 @@
   "img": "/football/img/players/Cech.webp",
   "full_name": "Petr Cech",
   "birth_date": "20-05-1982",
-  "birthplace": "Plzen, Czech Republic",
+
   "position": "Goalkeeper",
   "team": "Retired",
   "nationality": "Czech Republic",

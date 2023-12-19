@@ -5,7 +5,7 @@
         "img": "/football/img/players/T Muller.webp",
         "full_name": "Thomas Muller",
         "birth_date": "13-09-1989",
-        "birthplace": "Weilheim, Germany",
+
         "position": "Striker",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Sane.webp",
         "full_name": "Leroy Sane",
         "birth_date": "11-01-1996",
-        "birthplace": "Essen, Germany",
+
         "position": "Right Winger",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Ozil.webp",
         "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Germany",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Reus.webp",
         "full_name": "Marco Reus",
         "birth_date": "31-05-1989",
-        "birthplace": "Dortmund, Germany",
+
         "position": "Right Winger",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
-        "birthplace": "Greifswald, Germany",
+
         "position": "Cenrtal Midfielder",
         "team": "Real Madrid",
         "nationality": "Germany",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Schweinsteiger.webp",
         "full_name": "B Schweinsteiger",
         "birth_date": "01-08-1984",
-        "birthplace": "Kolbermoor, Germany",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Germany",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
-        "birthplace": "Rottweil, Germany",
+
         "position": "Right-back",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Hummels.webp",
         "full_name": "Mats Hummels",
         "birth_date": "16-12-1988",
-        "birthplace": "Bergisch Gladbach, Germany",
+
         "position": "Center-back",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Boateng.webp",
         "full_name": "Jerome Boateng",
         "birth_date": "03-09-1988",
-        "birthplace": "Berlin, Germany",
+
         "position": "Center-back",
         "team": "Lyon",
         "nationality": "Germany",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Lahm.webp",
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
-        "birthplace": "Munich, Germany",
+
         "position": "Left-back",
         "team": "Retired",
         "nationality": "Germany",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Neuer.webp",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "position": "Goalkeeper",
         "team": "Bayern Munich",
         "nationality": "Germany",

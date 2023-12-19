@@ -5,7 +5,7 @@
     "img": "/football/img/players/La Martinez.webp",
     "full_name": "Lautaro Martinez",
     "birth_date": "22-08-1997",
-    "birthplace": "Bahía Blanca, Argentina",
+
     "position": "Striker",
     "team": "Inter Milan",
     "nationality": "Argentina",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Cuadrado.webp",
     "full_name": "Juan Cuadrado",
     "birth_date": "26-05-1988",
-    "birthplace": "Necoclí, Colombia",
+
     "position": "Right Wing Back",
     "team": "Inter Milan",
     "nationality": "Colombia",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Mkhitaryan.webp",
     "full_name": "Henrikh Mkhitaryan",
     "birth_date": "21-01-1989",
-    "birthplace": "Yerevan, Armenia",
+
     "position": "Attacking Midfielder",
     "team": "Inter Milan",
     "nationality": "Armenia",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/M Thuram.webp",
     "full_name": "Marcus Thuram",
     "birth_date": "06-08-1997",
-    "birthplace": "Parma, Italy",
+
     "position": "Forward Left",
     "team": "Inter Milan",
     "nationality": "France",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Barella.webp",
     "full_name": "Nicolo Barella",
     "birth_date": "07-02-1997",
-    "birthplace": "Cagliari, Italy",
+
     "position": "Central Midfielder",
     "team": "Inter Milan",
     "nationality": "Italy",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Calhanoglu.webp",
     "full_name": "Hakan Calhanoglu",
     "birth_date": "08-02-1994",
-    "birthplace": "Mannheim, Germany",
+
     "position": "Central Midfielder",
     "team": "Inter Milan",
     "nationality": "Turkey",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Pavard.webp",
     "full_name": "Benjamin Pavard",
     "birth_date": "28-03-1996",
-    "birthplace": "Maubeuge, France",
+
     "position": "Right Defender",
     "team": "Inter Milan",
     "nationality": "France",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/de Vrij.webp",
     "full_name": "Stefan de Vrij",
     "birth_date": "05-02-1992",
-    "birthplace": "Ouderkerk aan den IJssel, Netherlands",
+
     "position": "Central Defender Right",
     "team": "Inter Milan",
     "nationality": "Netherlands",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Bastoni.webp",
     "full_name": "Alessandro Bastoni",
     "birth_date": "13-04-1999",
-    "birthplace": "Casalmaggiore, Italy",
+
     "position": "Central Defender Left",
     "team": "Inter Milan",
     "nationality": "Italy",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Dimarco.webp",
     "full_name": "Federico Dimarco",
     "birth_date": "10-11-1997",
-    "birthplace": "Milan, Italy",
+
     "position": "Defender Left",
     "team": "Inter Milan",
     "nationality": "Italy",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Sommer.webp",
     "full_name": "Yann Sommer",
     "birth_date": "17-12-1988",
-    "birthplace": "Morges, Switzerland",
+
     "position": "Goalkeeper",
     "team": "Inter Milan",
     "nationality": "Switzerland",

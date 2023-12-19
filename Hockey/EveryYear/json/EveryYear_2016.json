@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/J Toews.jpg",
         "full_name": "Jonathan Toews",
         "birth_date": "29-04-1988",
-        "birthplace": "Winnipeg, Canada",
+
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
         "position": "Center",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-        "birthplace": "Cole Harbour, Canada",
+
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/P Kane.jpg",
         "full_name": "Patrick Kane",
         "birth_date": "19-11-1988",
-        "birthplace": "Buffalo, USA",
+
         "team": "Chicago Blackhawks",
         "nationality": "USA",
         "position": "Right Winger",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Keith.jpg",
         "full_name": "Duncan Keith",
         "birth_date": "16-07-1983",
-        "birthplace": "Winnipeg, Canada",
+
         "team": "Edmonton Oilers",
         "nationality": "Canada",
         "position": "Left Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Subban.jpg",
         "full_name": "P.K. Subban",
         "birth_date": "13-05-1989",
-        "birthplace": "Toronto, Canada",
+
         "team": "New Jersey Devils",
         "nationality": "Canada",
         "position": "Right Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Quick.jpg",
         "full_name": "Jonathan Quick",
         "birth_date": "21-01-1986",
-        "birthplace": "Milford, USA",
+
         "team": "Los Angeles Kings",
         "nationality": "USA",
         "position": "Goalie",

@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Nelson.jpg",
     "full_name": "Brock Nelson",
     "birth_date": "15-10-1991",
-    "birthplace": "Warroad, USA",
+
     "team": "New York Islanders",
     "nationality": "USA",
     "position": "Center",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Barzal.jpg",
     "full_name": "Mathew Barzal",
     "birth_date": "26-05-1997",
-    "birthplace": "Coquitlam, Canada",
+
     "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Center",
@@ -33,13 +33,13 @@
     "img": "/hockey/img/players/Horvat.jpg",
     "full_name": "Bo Horvat",
     "birth_date": "05-04-1995",
-    "birthplace": "London, Canada",
+
     "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
 
-    "description": "Talented center and captain of the Vancouver Canucks."
+    "description": "Talented center and former captain."
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Pelech.jpg",
     "full_name": "Adam Pelech",
     "birth_date": "16-08-1994",
-    "birthplace": "Toronto, Canada",
+
     "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Pulock.jpg",
     "full_name": "Ryan Pulock",
     "birth_date": "06-10-1994",
-    "birthplace": "Dauphin, Canada",
+
     "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Sorokin.jpg",
     "full_name": "Ilya Sorokin",
     "birth_date": "04-08-1995",
-    "birthplace": "Mezhdurechensk, Russia",
+
     "team": "New York Islanders",
     "nationality": "Russia",
     "position": "Goalie",

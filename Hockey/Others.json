@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Gretzky.jpg",
         "full_name": "Wayne Gretzky",
         "birth_date": "26-01-1961",
-        "birthplace": "Brantford, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/lemieux.jpg",
         "full_name": "Mario Lemieux",
         "birth_date": "05-10-1965",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/orr.jpg",
         "full_name": "Bobby Orr",
         "birth_date": "20-03-1948",
-        "birthplace": "Parry Sound, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/howe.jpg",
         "full_name": "Gordie Howe",
         "birth_date": "31-03-1928",
-        "birthplace": "Floral, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Wing",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/m richard.jpg",
         "full_name": "Maurice Richard",
         "birth_date": "04-08-1921",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Wing",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/bo hull.jpg",
         "full_name": "Bobby Hull",
         "birth_date": "03-01-1939",
-        "birthplace": "Pointe Anne, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Left Wing",
@@ -89,7 +89,7 @@
         "img": "/hockey/img/players/beliveau.jpg",
         "full_name": "Jean Beliveau",
         "birth_date": "31-08-1931",
-        "birthplace": "Trois-Rivieres, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -103,7 +103,7 @@
         "img": "/hockey/img/players/mikita.jpg",
         "full_name": "Stan Mikita",
         "birth_date": "20-05-1940",
-        "birthplace": "Sokolce, Slovakia",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -117,7 +117,7 @@
         "img": "/hockey/img/players/lafleur.jpg",
         "full_name": "Guy Lafleur",
         "birth_date": "20-09-1951",
-        "birthplace": "Thurso, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Wing",
@@ -131,7 +131,7 @@
         "img": "/hockey/img/players/esposito.jpg",
         "full_name": "Phil Esposito",
         "birth_date": "20-02-1942",
-        "birthplace": "Sault Ste. Marie, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -145,7 +145,7 @@
         "img": "/hockey/img/players/bourque.jpg",
         "full_name": "Raymond Bourque",
         "birth_date": "28-12-1960",
-        "birthplace": "Saint-Laurent, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -159,7 +159,7 @@
         "img": "/hockey/img/players/messier.jpg",
         "full_name": "Mark Messier",
         "birth_date": "18-01-1961",
-        "birthplace": "Edmonton, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -173,7 +173,7 @@
         "img": "/hockey/img/players/coffey.jpg",
         "full_name": "Paul Coffey",
         "birth_date": "01-06-1961",
-        "birthplace": "Weston, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -187,7 +187,7 @@
         "img": "/hockey/img/players/robinson.jpg",
         "full_name": "Larry Robinson",
         "birth_date": "02-06-1951",
-        "birthplace": "Winchester, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -201,7 +201,7 @@
         "img": "/hockey/img/players/trottier.jpg",
         "full_name": "Bryan Trottier",
         "birth_date": "17-07-1956",
-        "birthplace": "Val Marie, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -215,7 +215,7 @@
         "img": "/hockey/img/players/bossy.jpg",
         "full_name": "Mike Bossy",
         "birth_date": "22-01-1957",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Wing",
@@ -229,7 +229,7 @@
         "img": "/hockey/img/players/br Hull.jpg",
         "full_name": "Brett Hull",
         "birth_date": "09-08-1964",
-        "birthplace": "Belleville, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Wing",
@@ -243,7 +243,7 @@
         "img": "/hockey/img/players/dionne.jpg",
         "full_name": "Marcel Dionne",
         "birth_date": "03-08-1951",
-        "birthplace": "Drummondville, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -257,7 +257,7 @@
     "img": "/hockey/img/players/Yzerman.jpg",
     "full_name": "Steve Yzerman",
     "birth_date": "09-05-1965",
-    "birthplace": "Cranbrook, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -271,7 +271,7 @@
     "img": "/hockey/img/players/Francis.jpg",
     "full_name": "Ron Francis",
     "birth_date": "01-03-1963",
-    "birthplace": "Sault Ste. Marie, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -285,7 +285,7 @@
     "img": "/hockey/img/players/Potvin.jpg",
     "full_name": "Denis Potvin",
     "birth_date": "29-10-1953",
-    "birthplace": "Ottawa, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -299,7 +299,7 @@
     "img": "/hockey/img/players/Parent.jpg",
     "full_name": "Bernie Parent",
     "birth_date": "03-04-1945",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -313,7 +313,7 @@
     "img": "/hockey/img/players/Plante.jpg",
     "full_name": "Jacques Plante",
     "birth_date": "17-01-1929",
-    "birthplace": "Shawinigan Falls, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -327,7 +327,7 @@
     "img": "/hockey/img/players/P Roy.jpg",
     "full_name": "Patrick Roy",
     "birth_date": "05-10-1965",
-    "birthplace": "Quebec City, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -341,7 +341,7 @@
     "img": "/hockey/img/players/Sawchuk.jpg",
     "full_name": "Terry Sawchuk",
     "birth_date": "28-12-1929",
-    "birthplace": "Winnipeg, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -355,7 +355,7 @@
     "img": "/hockey/img/players/Dryden.jpg",
     "full_name": "Ken Dryden",
     "birth_date": "08-08-1947",
-    "birthplace": "Hamilton, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -369,7 +369,7 @@
     "img": "/hockey/img/players/Bucyk.jpg",
     "full_name": "Johnny Bucyk",
     "birth_date": "12-05-1935",
-    "birthplace": "Edmonton, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Left Wing",
@@ -383,7 +383,7 @@
     "img": "/hockey/img/players/Bower.jpg",
     "full_name": "Johnny Bower",
     "birth_date": "08-11-1924",
-    "birthplace": "Prince Albert, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -397,7 +397,7 @@
     "img": "/hockey/img/players/Keon.jpg",
     "full_name": "Dave Keon",
     "birth_date": "22-03-1940",
-    "birthplace": "Noranda, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -411,7 +411,7 @@
     "img": "/hockey/img/players/Hasek.jpg",
     "full_name": "Dominik Hasek",
     "birth_date": "29-01-1965",
-    "birthplace": "Pardubice, Czechoslovakia",
+
     "team": "Retired",
     "nationality": "Czech Republic",
     "position": "Goalie",
@@ -425,7 +425,7 @@
     "img": "/hockey/img/players/Clarke.jpg",
     "full_name": "Bobby Clarke",
     "birth_date": "13-08-1949",
-    "birthplace": "Flin Flon, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -439,7 +439,7 @@
     "img": "/hockey/img/players/Horton.jpg",
     "full_name": "Tim Horton",
     "birth_date": "12-01-1930",
-    "birthplace": "Cochrane, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -453,7 +453,7 @@
     "img": "/hockey/img/players/Chelios.jpg",
     "full_name": "Chris Chelios",
     "birth_date": "25-01-1962",
-    "birthplace": "Chicago, USA",
+
     "team": "Retired",
     "nationality": "USA",
     "position": "Defenseman",
@@ -467,7 +467,7 @@
     "img": "/hockey/img/players/MacInnis.jpg",
     "full_name": "Al MacInnis",
     "birth_date": "11-07-1963",
-    "birthplace": "Inverness, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -481,7 +481,7 @@
     "img": "/hockey/img/players/Fuhr.jpg",
     "full_name": "Grant Fuhr",
     "birth_date": "28-09-1962",
-    "birthplace": "Spruce Grove, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -495,7 +495,7 @@
     "img": "/hockey/img/players/Park.jpg",
     "full_name": "Brad Park",
     "birth_date": "06-07-1948",
-    "birthplace": "Toronto, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -509,7 +509,7 @@
     "img": "/hockey/img/players/Harvey.jpg",
     "full_name": "Doug Harvey",
     "birth_date": "19-12-1924",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -523,7 +523,7 @@
     "img": "/hockey/img/players/Kurri.jpg",
     "full_name": "Jari Kurri",
     "birth_date": "18-05-1960",
-    "birthplace": "Helsinki, Finland",
+
     "team": "Retired",
     "nationality": "Finland",
     "position": "Right Wing",
@@ -537,7 +537,7 @@
     "img": "/hockey/img/players/G Hall.jpg",
     "full_name": "Glenn Hall",
     "birth_date": "03-10-1931",
-    "birthplace": "Humboldt, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -551,7 +551,7 @@
     "img": "/hockey/img/players/Mahovlich.jpg",
     "full_name": "Frank Mahovlich",
     "birth_date": "10-01-1938",
-    "birthplace": "Timmins, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -565,7 +565,7 @@
     "img": "/hockey/img/players/R Kelly.jpg",
     "full_name": "Red Kelly",
     "birth_date": "09-07-1927",
-    "birthplace": "Simcoe, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman/Center",
@@ -579,7 +579,7 @@
     "img": "/hockey/img/players/H Richard.jpg",
     "full_name": "Henri Richard",
     "birth_date": "29-02-1936",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -593,7 +593,7 @@
     "img": "/hockey/img/players/Morenz.jpg",
     "full_name": "Howie Morenz",
     "birth_date": "21-09-1902",
-    "birthplace": "Mitchell, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -607,7 +607,7 @@
     "img": "/hockey/img/players/Gilmour.jpg",
     "full_name": "Doug Gilmour",
     "birth_date": "25-06-1963",
-    "birthplace": "Kingston, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -621,7 +621,7 @@
     "img": "/hockey/img/players/Perreault.jpg",
     "full_name": "Gilbert Perreault",
     "birth_date": "13-11-1950",
-    "birthplace": "Victoriaville, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -635,7 +635,7 @@
     "img": "/hockey/img/players/Hextall.jpg",
     "full_name": "Ron Hextall",
     "birth_date": "03-05-1964",
-    "birthplace": "Brandon, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",
@@ -649,7 +649,7 @@
     "img": "/hockey/img/players/Federko.jpg",
     "full_name": "Bernie Federko",
     "birth_date": "12-05-1956",
-    "birthplace": "Foam Lake, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -663,7 +663,7 @@
     "img": "/hockey/img/players/Shanahan.jpg",
     "full_name": "Brendan Shanahan",
     "birth_date": "23-01-1969",
-    "birthplace": "Etobicoke, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -677,7 +677,7 @@
     "img": "/hockey/img/players/Ullman.jpg",
     "full_name": "Norm Ullman",
     "birth_date": "26-12-1935",
-    "birthplace": "Provost, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -691,7 +691,7 @@
     "img": "/hockey/img/players/Robitaille.jpg",
     "full_name": "Luc Robitaille",
     "birth_date": "17-02-1966",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -705,7 +705,7 @@
     "img": "/hockey/img/players/Sittler.jpg",
     "full_name": "Darryl Sittler",
     "birth_date": "18-09-1950",
-    "birthplace": "Kitchener, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -719,7 +719,7 @@
     "img": "/hockey/img/players/P Bure.jpg",
     "full_name": "Pavel Bure",
     "birth_date": "31-03-1971",
-    "birthplace": "Moscow, Russia",
+
     "team": "Retired",
     "nationality": "Russia",
     "position": "Right Winger",
@@ -733,7 +733,7 @@
     "img": "/hockey/img/players/Geoffrion.jpg",
     "full_name": "Bernie Geoffrion",
     "birth_date": "14-02-1931",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Right Winger",
@@ -747,7 +747,7 @@
     "img": "/hockey/img/players/L Murphy.jpg",
     "full_name": "Larry Murphy",
     "birth_date": "08-03-1961",
-    "birthplace": "Scarborough, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -761,7 +761,7 @@
     "img": "/hockey/img/players/Stevens.jpg",
     "full_name": "Scott Stevens",
     "birth_date": "01-04-1964",
-    "birthplace": "Kitchener, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -775,7 +775,7 @@
   "img": "/hockey/img/players/Brind'Amour.jpg",
   "full_name": "Rod Brind'Amour",
   "birth_date": "09-08-1970",
-  "birthplace": "Ottawa, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -789,7 +789,7 @@
   "img": "/hockey/img/players/Shore.jpg",
   "full_name": "Eddie Shore",
   "birth_date": "25-11-1902",
-  "birthplace": "Fort Qu'Appelle, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Defenseman",
@@ -803,7 +803,7 @@
   "img": "/hockey/img/players/Salming.jpg",
   "full_name": "Borje Salming",
   "birth_date": "17-04-1951",
-  "birthplace": "Sodertalje, Sweden",
+
   "team": "Retired",
   "nationality": "Sweden",
   "position": "Defenseman",
@@ -817,7 +817,7 @@
   "img": "/hockey/img/players/Fedorov.jpg",
   "full_name": "Sergei Fedorov",
   "birth_date": "13-12-1969",
-  "birthplace": "Pskov, Russia",
+
   "team": "Retired",
   "nationality": "Russia",
   "position": "Center",
@@ -831,7 +831,7 @@
   "img": "/hockey/img/players/Housley.jpg",
   "full_name": "Phil Housley",
   "birth_date": "09-03-1964",
-  "birthplace": "Saint Paul, USA",
+
   "team": "Retired",
   "nationality": "USA",
   "position": "Defenseman",
@@ -845,7 +845,7 @@
   "img": "/hockey/img/players/Modano.jpg",
   "full_name": "Mike Modano",
   "birth_date": "07-06-1970",
-  "birthplace": "Livonia, USA",
+
   "team": "Retired",
   "nationality": "USA",
   "position": "Center",
@@ -859,7 +859,7 @@
   "img": "/hockey/img/players/Selanne.jpg",
   "full_name": "Teemu Selanne",
   "birth_date": "03-07-1970",
-  "birthplace": "Helsinki, Finland",
+
   "team": "Retired",
   "nationality": "Finland",
   "position": "Right Winger",
@@ -873,7 +873,7 @@
   "img": "/hockey/img/players/Oates.jpg",
   "full_name": "Adam Oates",
   "birth_date": "27-08-1962",
-  "birthplace": "Toronto, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -887,7 +887,7 @@
   "img": "/hockey/img/players/G Anderson.jpg",
   "full_name": "Glenn Anderson",
   "birth_date": "02-10-1960",
-  "birthplace": "Vancouver, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Right Winger",
@@ -901,7 +901,7 @@
   "img": "/hockey/img/players/Hawerchuk.jpg",
   "full_name": "Dale Hawerchuk",
   "birth_date": "04-04-1963",
-  "birthplace": "Toronto, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -915,7 +915,7 @@
   "img": "/hockey/img/players/Bourque.jpg",
   "full_name": "Ray Bourque",
   "birth_date": "28-12-1960",
-  "birthplace": "Saint-Laurent, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Defenseman",
@@ -929,7 +929,7 @@
   "img": "/hockey/img/players/Nieuwendyk.jpg",
   "full_name": "Joe Nieuwendyk",
   "birth_date": "10-09-1966",
-  "birthplace": "Oshawa, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -943,7 +943,7 @@
   "img": "/hockey/img/players/Gainey.jpg",
   "full_name": "Bob Gainey",
   "birth_date": "13-12-1953",
-  "birthplace": "Peterborough, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Left Winger",
@@ -957,7 +957,7 @@
   "img": "/hockey/img/players/Lindros.jpg",
   "full_name": "Eric Lindros",
   "birth_date": "28-02-1973",
-  "birthplace": "London, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -971,7 +971,7 @@
   "img": "/hockey/img/players/Lapointe.jpg",
   "full_name": "Guy Lapointe",
   "birth_date": "18-03-1948",
-  "birthplace": "Montreal, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Defenseman",
@@ -985,7 +985,7 @@
   "img": "/hockey/img/players/LaFontaine.jpg",
   "full_name": "Pat LaFontaine",
   "birth_date": "22-02-1965",
-  "birthplace": "St. Louis, USA",
+
   "team": "Retired",
   "nationality": "USA",
   "position": "Center",
@@ -999,7 +999,7 @@
   "img": "/hockey/img/players/Graves.jpg",
   "full_name": "Adam Graves",
   "birth_date": "12-04-1968",
-  "birthplace": "Toronto, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Left Winger",
@@ -1013,7 +1013,7 @@
   "img": "/hockey/img/players/Leetch.jpg",
   "full_name": "Brian Leetch",
   "birth_date": "03-03-1968",
-  "birthplace": "Corpus Christi, USA",
+
   "team": "Retired",
   "nationality": "USA",
   "position": "Defenseman",
@@ -1027,7 +1027,7 @@
   "img": "/hockey/img/players/K Tkachuk.jpg",
   "full_name": "Keith Tkachuk",
   "birth_date": "28-03-1972",
-  "birthplace": "Melrose, USA",
+
   "team": "Retired",
   "nationality": "USA",
   "position": "Left Winger",
@@ -1041,7 +1041,7 @@
   "img": "/hockey/img/players/Turgeon.jpg",
   "full_name": "Pierre Turgeon",
   "birth_date": "29-08-1969",
-  "birthplace": "Rouyn-Noranda, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
@@ -1055,7 +1055,7 @@
   "img": "/hockey/img/players/T Fleury.jpg",
   "full_name": "Theoren Fleury",
   "birth_date": "29-06-1968",
-  "birthplace": "Oxbow, Canada",
+
   "team": "Retired",
   "nationality": "Canada",
   "position": "Right Winger",
@@ -1069,7 +1069,7 @@
   "img": "/hockey/img/players/Carbonneau.jpg",
   "full_name": "Guy Carbonneau",
   "birth_date": "18-03-1960",
-  "birthplace": "Sept-Îles, Canada",
+
   "team": "Montreal Canadiens",
   "nationality": "Canada",
   "position": "Center",
@@ -1083,7 +1083,7 @@
   "img": "/hockey/img/players/B Richards.jpg",
   "full_name": "Brad Richards",
   "birth_date": "02-05-1980",
-  "birthplace": "Murray Harbour, Canada",
+
   "team": "Tampa Bay Lightning",
   "nationality": "Canada",
   "position": "Center",

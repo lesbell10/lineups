@@ -173,7 +173,7 @@ function displayResults(players) {
   <p style="animation: none;">Position: ${player.position}</p>
   <p style="animation: none;">Height: ${player.height}</p>
   <p style="animation: none;">Birth Date: ${player.birth_date}</p>
-  <p style="animation: none;">Birthplace: ${player.birthplace}</p>
+
 
             `;
 

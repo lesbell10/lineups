@@ -5,7 +5,7 @@
     "img": "/football/img/players/Henry.webp",
     "full_name": "Thierry Henry",
     "birth_date": "17-08-1977",
-    "birthplace": "Les Ulis, France",
+
     "position": "Striker",
     "team": "Retired",
     "nationality": "France",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Totti.webp",
     "full_name": "Francesco Totti",
     "birth_date": "27-09-1976",
-    "birthplace": "Rome, Italy",
+
     "position": "Attacking Midfielder",
     "team": "Retired",
     "nationality": "Italy",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "birth_date": "23-06-1972",
-    "birthplace": "Marseille, France",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "France",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Ronaldinho.webp",
     "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
-    "birthplace": "Porto Alegre, Brazil",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Brazil",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Gerrard.webp",
     "full_name": "Steven Gerrard",
     "birth_date": "30-05-1980",
-    "birthplace": "Whiston, England",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "England",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Vieira.webp",
     "full_name": "Patrick Vieira",
     "birth_date": "23-06-1976",
-    "birthplace": "Dakar, Senegal",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "France",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Thuram.webp",
     "full_name": "Lilian Thuram",
     "birth_date": "01-01-1972",
-    "birthplace": "Pointe-à-Pitre, Guadeloupe",
+
     "position": "Right-Back",
     "team": "Retired",
     "nationality": "France",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Nesta.webp",
     "full_name": "Alessandro Nesta",
     "birth_date": "19-03-1976",
-    "birthplace": "Rome, Italy",
+
     "position": "Centre-Back",
     "team": "Retired",
     "nationality": "Italy",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Lucio.webp",
     "full_name": "Lúcio Ferreira",
     "birth_date": "08-05-1978",
-    "birthplace": "Planaltina, Brazil",
+
     "position": "Centre-Back",
     "team": "Retired",
     "nationality": "Brazil",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Maldini.webp",
     "full_name": "Paolo Maldini",
     "birth_date": "26-06-1968",
-    "birthplace": "Milan, Italy",
+
     "position": "Left-Back",
     "team": "Retired",
     "nationality": "Italy",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Buffon.webp",
     "full_name": "Gianluigi Buffon",
     "birth_date": "28-01-1978",
-    "birthplace": "Carrara, Italy",
+
     "position": "Goalkeeper",
     "team": "Retired",
     "nationality": "Italy",

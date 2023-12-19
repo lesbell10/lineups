@@ -5,7 +5,7 @@
         "img": "/football/img/players/T Muller.webp",
         "full_name": "Thomas Muller",
         "birth_date": "13-09-1989",
-        "birthplace": "Weilheim, Germany",
+
         "position": "Striker",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Sane.webp",
         "full_name": "Leroy Sane",
         "birth_date": "11-01-1996",
-        "birthplace": "Essen, Germany",
+
         "position": "Forward",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Wirtz.webp",
         "full_name": "Florian Wirtz",
         "birth_date": "03-05-2003",
-        "birthplace": "Pulheim, Germany",
+
         "position": "Attacking Midfielder",
         "team": "Bayer Leverkusen",
         "nationality": "Germany",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Musiala.webp",
         "full_name": "Jamal Musiala",
         "birth_date": "26-02-2003",
-        "birthplace": "Stuttgart, Germany",
+
         "position": "Attacking Midfielder",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Gundogan.webp",
         "full_name": "Ilkay Gundogan",
         "birth_date": "24-10-1990",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "position": "Central Midfielder",
         "team": "Barcelona",
         "nationality": "Germany",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
-        "birthplace": "Greifswald, Germany",
+
         "position": "Central Midfielder",
         "team": "Real Madrid",
         "nationality": "Germany",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
-        "birthplace": "Rottweil, Germany",
+
         "position": "Central Midfielder, Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Rudiger.webp",
         "full_name": "Antonio Rudiger",
         "birth_date": "03-03-1993",
-        "birthplace": "Berlin, Germany",
+
         "position": "Center-back",
         "team": "Real Madrid",
         "nationality": "Germany",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Sule.webp",
         "full_name": "Niklas Sule",
         "birth_date": "03-09-1995",
-        "birthplace": "Frankfurt, Germany",
+
         "position": "Center-back",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Gosens.webp",
         "full_name": "Robin Gosens",
         "birth_date": "05-07-1994",
-        "birthplace": "Emmerich am Rhein, Germany",
+
         "position": "Left-back",
         "team": "Union Berlin",
         "nationality": "Germany",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/ter Stegen.webp",
         "full_name": "Marc-Andre ter Stegen",
         "birth_date": "30-04-1992",
-        "birthplace": "Mönchengladbach, Germany",
+
         "position": "Goalkeeper",
         "team": "Barcelona",
         "nationality": "Germany",

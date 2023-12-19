@@ -5,12 +5,12 @@
         "img": "/football/img/players/Lewandowski.webp",
         "full_name": "Robert Lewandowski",
         "birth_date": "21-08-1988",
-        "birthplace": "Warsaw, Poland",
+
         "position": "Centre Forward",
         "team": "Barcelona",
         "nationality": "Poland",
         "height": "6'1\"",
-        "description": "Prolific Polish striker, Bayern and Barcelona goal machine"
+        "description": "Prolific Polish striker, Barcelona goal machine"
     },
     {
         "id": 2,
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,12 +31,12 @@
         "img": "/football/img/players/Benzema.webp",
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
-        "birthplace": "Lyon, France",
+
         "position": "Centre Forward",
         "team": "Al-Ittihad",
         "nationality": "France",
         "height": "6'1\"",
-        "description": "French striker, Real Madrid's key forward, clinical finisher"
+        "description": "French striker, former Real Madrid's key forward, clinical finisher"
     },
     {
         "id": 4,
@@ -44,9 +44,9 @@
         "img": "/football/img/players/Mbappe.webp",
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
-        "birthplace": "Bondy, France",
+
         "position": "Forward",
-        "team": "Paris SG",
+        "team": "PSG",
         "nationality": "France",
         "height": "5'10\"",
         "description": "French prodigy, PSG's fast, skillful young forward"
@@ -57,7 +57,7 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-        "birthplace": "Drongen, Belgium",
+
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -70,12 +70,12 @@
         "img": "/football/img/players/Casemiro.webp",
         "full_name": "Carlos Casemiro",
         "birth_date": "23-02-1992",
-        "birthplace": "São José dos Campos, Brazil",
+
         "position": "Defensive Midfielder",
         "team": "Manchster United",
         "nationality": "Brazil",
         "height": "6'1\"",
-        "description": "Brazilian midfielder, defensive prowess, Real Madrid's midfield anchor"
+        "description": "Brazilian midfielder, defensive prowess, Manchester United's midfield anchor"
     },
     {
         "id": 7,
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
-        "birthplace": "Rottweil, Germany",
+
         "position": "Right-Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/R Dias.webp",
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
-        "birthplace": "Amadora, Portugal",
+
         "position": "Centre-Back",
         "team": "Man City",
         "nationality": "Portugal",
@@ -109,9 +109,9 @@
         "img": "/football/img/players/Marquinhos.webp",
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
-        "birthplace": "São Paulo, Brazil",
+
         "position": "Centre-Back",
-        "team": "Paris SG",
+        "team": "PSG",
         "nationality": "Brazil",
         "height": "6'0\"",
         "description": "Brazilian versatile defender, PSG's reliable, tactical leader"
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Cancelo.webp",
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
-        "birthplace": "Barreiro, Portugal",
+
         "position": "Right-Back",
         "team": "Barcelona",
         "nationality": "Portugal",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
-        "birthplace": "Bree, Belgium",
+
         "position": "Goalkeeper",
         "team": "Real Madrid",
         "nationality": "Belgium",

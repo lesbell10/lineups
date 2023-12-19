@@ -5,12 +5,12 @@
     "img": "/football/img/players/Benzema.webp",
     "full_name": "Karim Benzema",
     "birth_date": "19-12-1987",
-    "birthplace": "Lyon, France",
+
     "position": "Striker",
     "team": "Al-Ittihad",
     "nationality": "France",
     "height": "6'1\"",
-    "description": "Talented French striker playing for Real Madrid."
+    "description": "French striker, former Real Madrid's key forward, clinical finisher."
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Ribery.webp",
     "full_name": "Franck Ribery",
     "birth_date": "07-04-1983",
-    "birthplace": "Boulogne-sur-Mer, France",
+
     "position": "Left Winger",
     "team": "Retired",
     "nationality": "France",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Griezmann.webp",
     "full_name": "Antoine Griezmann",
     "birth_date": "21-03-1991",
-    "birthplace": "Mâcon, France",
+
     "position": "Atacking Midfielder",
     "team": "Atletico Madrid",
     "nationality": "France",
@@ -44,12 +44,12 @@
     "img": "/football/img/players/Mbappe.webp",
     "full_name": "Kylian Mbappe",
     "birth_date": "20-12-1998",
-    "birthplace": "Bondy, France",
+
     "position": "Forward",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "France",
     "height": "5'10\"",
-    "description": "Young French sensation, a star at Paris Saint-Germain."
+    "description": "Young French sensation, a star at PSG."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Pogba.webp",
     "full_name": "Paul Pogba",
     "birth_date": "15-03-1993",
-    "birthplace": "Lagny-sur-Marne, France",
+
     "position": "Central Midfielder",
     "team": "Juventus",
     "nationality": "France",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Kante.webp",
     "full_name": "N'Golo Kante",
     "birth_date": "29-03-1991",
-    "birthplace": "Paris, France",
+
     "position": "Defensive Midfielder",
     "team": "Al-Ittihad",
     "nationality": "France",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Sagna.webp",
     "full_name": "Bacary Sagna",
     "birth_date": "14-02-1983",
-    "birthplace": "Sens, France",
+
     "position": "Right-Back",
     "team": "Retired",
     "nationality": "France",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Varane.webp",
     "full_name": "Raphael Varane",
     "birth_date": "25-04-1993",
-    "birthplace": "Lille, France",
+
     "position": "Center-Back",
     "team": "Manchester United",
     "nationality": "France",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Koscielny.webp",
     "full_name": "Laurent Koscielny",
     "birth_date": "10-09-1985",
-    "birthplace": "Tulle, France",
+
     "position": "Center-Back",
     "team": "Retired",
     "nationality": "France",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Evra.webp",
     "full_name": "Patrice Evra",
     "birth_date": "15-05-1981",
-    "birthplace": "Dakar, Senegal",
+
     "position": "Left-Back",
     "team": "Retired",
     "nationality": "France",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Lloris.webp",
     "full_name": "Hugo Lloris",
     "birth_date": "26-12-1986",
-    "birthplace": "Nice, France",
+
     "position": "Goalkeeper",
     "team": "Tottenham Hotspur",
     "nationality": "France",

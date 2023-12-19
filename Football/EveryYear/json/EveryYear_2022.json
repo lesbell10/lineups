@@ -4,20 +4,20 @@
         "full_name": "Robert Lewandowski",
         "last_name": "Lewandowski",
         "birth_date": "21-08-1988",
-        "birthplace": "Warszawa, Poland",
+
         "nationality": "Poland",
         "position": "Centre Forward",
         "height": "6'1\"",
         "img": "/football/img/players/Lewandowski.webp",
         "team": "Barcelona",
-        "description": "Prolific Polish striker, Bayern and Barcelona goal machine"
+        "description": "Prolific Polish striker, Barcelona goal machine"
     },
     {
         "id": 2,
         "full_name": "Mohamed Salah",
         "last_name": "Salah",
         "birth_date": "15-06-1992",
-        "birthplace": "Nagrig, Basyoun, Egypt",
+
         "nationality": "Egypt",
         "position": "Right Winger",
         "height": "5'9\"",
@@ -31,7 +31,7 @@
         "full_name": "Lionel Messi",
         "last_name": "Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "nationality": "Argentina",
         "position": "Attacking Midfielder",
         "height": "5'7\"",
@@ -44,7 +44,7 @@
         "full_name": "Cristiano Ronaldo",
         "last_name": "C Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "nationality": "Portugal",
         "position": "Left Winger",
         "height": "6'2\"",
@@ -57,7 +57,7 @@
         "full_name": "Kevin De Bruyne",
         "last_name": "De Bruyne",
         "birth_date": "28-06-1991",
-        "birthplace": "Drongen, Belgium",
+
         "nationality": "Belgium",
         "position": "Central Midfielder",
         "height": "5'11\"",
@@ -70,7 +70,7 @@
         "full_name": "N'Golo Kante",
         "last_name": "Kante",
         "birth_date": "29-03-1991",
-        "birthplace": "Paris, France",
+
         "nationality": "France",
         "position": "Defensive Midfielder",
         "height": "5'7\"",
@@ -83,7 +83,7 @@
         "full_name": "Joshua Kimmich",
         "last_name": "Kimmich",
         "birth_date": "08-02-1995",
-        "birthplace": "Rottweil, Germany",
+
         "nationality": "Germany",
         "position": "Right Back",
         "height": "5'10\"",
@@ -96,7 +96,7 @@
         "full_name": "Virgil van Dijk",
         "last_name": "van Dijk",
         "birth_date": "08-07-1991",
-        "birthplace": "Breda, Netherlands",
+
         "nationality": "Netherlands",
         "position": "Centre-Back",
         "height": "6'4\"",
@@ -109,7 +109,7 @@
         "full_name": "Ruben Dias",
         "last_name": "R Dias",
         "birth_date": "14-05-1997",
-        "birthplace": "Amadora, Portugal",
+
         "nationality": "Portugal",
         "position": "Centre-Back",
         "height": "6'1\"",
@@ -122,7 +122,7 @@
         "full_name": "Joao Cancelo",
         "last_name": "Cancelo",
         "birth_date": "27-05-1994",
-        "birthplace": "Barreiro, Portugal",
+
         "nationality": "Portugal",
         "position": "Right-Back",
         "height": "5'11\"",
@@ -135,7 +135,7 @@
         "full_name": "Manuel Neuer",
         "last_name": "Neuer",
         "birth_date": "27-03-1986",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "nationality": "Germany",
         "position": "Goalkeeper",
         "height": "6'4\"",

@@ -5,7 +5,7 @@
         "img": "/football/img/players/Ibrahimovic.webp",
         "full_name": "Zlatan Ibrahimović",
         "birth_date": "03-10-1981",
-        "birthplace": "Malmö, Sweden",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Sweden",
@@ -18,9 +18,9 @@
         "img": "/football/img/players/Mbappe.webp",
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
-        "birthplace": "Bondy, France",
+
         "position": "Forward",
-        "team": "Paris Saint-Germain",
+        "team": "PSG",
         "nationality": "France",
         "height": "6'0\"",
         "description": "World-class forward with incredible speed."
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
-        "birthplace": "Mogi das Cruzes, Brazil",
+
         "position": "Forward",
         "team": "Al Hilal",
         "nationality": "Brazil",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Di Maria.webp",
         "full_name": "Angel Di Maria",
         "birth_date": "14-02-1988",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Forward",
         "team": "Benfica",
         "nationality": "Argentina",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Verratti.webp",
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
-        "birthplace": "Pescara, Italy",
+
         "position": "Central Midfielder",
         "team": "Al Arabi",
         "nationality": "Italy",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/T Motta.webp",
         "full_name": "Thiago Motta",
         "birth_date": "28-08-1982",
-        "birthplace": "Sao Bernardo do Campo, Brazil",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Italy",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/D Alves.webp",
         "full_name": "Daniel Alves",
         "birth_date": "06-05-1983",
-        "birthplace": "Juazeiro, Brazil",
+
         "position": "Defender",
         "team": "Retired",
         "nationality": "Brazil",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/T Silva.webp",
         "full_name": "Thiago Silva",
         "birth_date": "22-09-1984",
-        "birthplace": "Rio de Janeiro, Brazil",
+
         "position": "Defender",
         "team": "Chelsea",
         "nationality": "Brazil",
@@ -109,9 +109,9 @@
         "img": "/football/img/players/Marquinhos.webp",
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
-        "birthplace": "São Paulo, Brazil",
+
         "position": "Defender",
-        "team": "Paris Saint-Germain",
+        "team": "PSG",
         "nationality": "Brazil",
         "height": "6'0\"",
         "description": "Versatile defender known for his composure."
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Bernat.webp",
         "full_name": "Juan Bernat",
         "birth_date": "01-03-1993",
-        "birthplace": "Cullera, Spain",
+
         "position": "Defender",
         "team": "Benfica",
         "nationality": "Spain",
@@ -135,9 +135,9 @@
         "img": "/football/img/players/K Navas.webp",
         "full_name": "Keylor Navas",
         "birth_date": "15-12-1986",
-        "birthplace": "Perez Zeledon, Costa Rica",
+
         "position": "Goalkeeper",
-        "team": "Paris Saint-Germain",
+        "team": "PSG",
         "nationality": "Costa Rica",
         "height": "6'1\"",
         "description": "Talented goalkeeper with great reflexes."

@@ -5,7 +5,7 @@
     "img": "/football/img/players/Osimhen.webp",
     "full_name": "Victor Osimhen",
     "birth_date": "29-12-1998",
-    "birthplace": "Lagos, Nigeria",
+
     "position": "Striker",
     "team": "Napoli",
     "nationality": "Nigeria",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Politano.webp",
     "full_name": "Matteo Politano",
     "birth_date": "03-08-1993",
-    "birthplace": "Rome, Italy",
+
     "position": "Right Winger",
     "team": "Napoli",
     "nationality": "Italy",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Zielinski.webp",
     "full_name": "Piotr Zielinski",
     "birth_date": "20-05-1994",
-    "birthplace": "Zabrze, Poland",
+
     "position": "Attacking Midfielder",
     "team": "Napoli",
     "nationality": "Poland",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Kvaratskhelia.webp",
     "full_name": "Khvicha Kvaratskhelia",
     "birth_date": "12-05-2001",
-    "birthplace": "Tkibuli, Georgia",
+
     "position": "Forward Left",
     "team": "Napoli",
     "nationality": "Georgia",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Lobotka.webp",
     "full_name": "Stanislav Lobotka",
     "birth_date": "25-11-1994",
-    "birthplace": "Trenčín, Slovakia",
+
     "position": "Central Midfielder",
     "team": "Napoli",
     "nationality": "Slovakia",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Z Anguissa.webp",
     "full_name": "Frank Zambo A",
     "birth_date": "16-11-1995",
-    "birthplace": "Yaoundé, Cameroon",
+
     "position": "Central Midfielder",
     "team": "Napoli",
     "nationality": "Cameroon",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Di Lorenzo.webp",
     "full_name": "Davide Di Lorenzo",
     "birth_date": "08-04-1997",
-    "birthplace": "Naples, Italy",
+
     "position": "Right Defender",
     "team": "Napoli",
     "nationality": "Italy",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Rrahmani.webp",
     "full_name": "Amir Rrahmani",
     "birth_date": "24-02-1994",
-    "birthplace": "Prishtina, Kosovo",
+
     "position": "Central Defender Right",
     "team": "Napoli",
     "nationality": "Kosovo",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/J Jesus.webp",
     "full_name": "Juan Jesus",
     "birth_date": "01-09-1996",
-    "birthplace": "Bissau, Guinea-Bissau",
+
     "position": "Central Defender Left",
     "team": "Napoli",
     "nationality": "Portugal",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/M Rui.webp",
     "full_name": "Mario Rui",
     "birth_date": "27-05-1991",
-    "birthplace": "Sines, Portugal",
+
     "position": "Defender Left",
     "team": "Napoli",
     "nationality": "Portugal",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Meret.webp",
     "full_name": "Alex Meret",
     "birth_date": "22-03-1997",
-    "birthplace": "Udine, Italy",
+
     "position": "Goalkeeper",
     "team": "Napoli",
     "nationality": "Italy",

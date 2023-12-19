@@ -5,7 +5,7 @@
   "img": "/football/img/players/Kane.webp",
   "full_name": "Harry Kane",
   "birth_date": "28-07-1993",
-  "birthplace": "London, England",
+
   "position": "Striker",
   "team": "Bayern Munich",
   "nationality": "England",
@@ -18,7 +18,7 @@
   "img": "/football/img/players/van der Vaart.webp",
   "full_name": "Rafael van der Vaart",
   "birth_date": "11-02-1983",
-  "birthplace": "Heemskerk, Netherlands",
+
   "position": "Attacking Midfielder",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -31,7 +31,7 @@
   "img": "/football/img/players/Eriksen.webp",
   "full_name": "Christian Eriksen",
   "birth_date": "14-02-1992",
-  "birthplace": "Middelfart, Denmark",
+
   "position": "Central Midfielder",
   "team": "Manchester United",
   "nationality": "Denmark",
@@ -44,7 +44,7 @@
   "img": "/football/img/players/Son.webp",
   "full_name": "Heung-Min Son",
   "birth_date": "08-07-1992",
-  "birthplace": "Chuncheon, South Korea",
+
   "position": "Forward",
   "team": "Tottenham Hotspur",
   "nationality": "South Korea",
@@ -57,7 +57,7 @@
   "img": "/football/img/players/Modric.webp",
   "full_name": "Luka Modric",
   "birth_date": "09-09-1985",
-  "birthplace": "Zadar, Croatia",
+
   "position": "Central Midfielder",
   "team": "Real Madrid",
   "nationality": "Croatia",
@@ -70,7 +70,7 @@
   "img": "/football/img/players/M Dembele.webp",
   "full_name": "Mousa Dembele",
   "birth_date": "16-07-1987",
-  "birthplace": "Antwerp, Belgium",
+
   "position": "Dfensive Midfielder",
   "team": "Retired",
   "nationality": "Belgium",
@@ -83,7 +83,7 @@
   "img": "/football/img/players/Walker.webp",
   "full_name": "Kyle Walker",
   "birth_date": "28-05-1990",
-  "birthplace": "Sheffield, England",
+
   "position": "Right Back",
   "team": "Manchester City",
   "nationality": "England",
@@ -96,7 +96,7 @@
   "img": "/football/img/players/Alderweireld.webp",
   "full_name": "Toby Alderweireld",
   "birth_date": "02-03-1989",
-  "birthplace": "Wilrijk, Belgium",
+
   "position": "Center-Back",
   "team": "Royal Antwerp",
   "nationality": "Belgium",
@@ -109,7 +109,7 @@
   "img": "/football/img/players/Vertonghen.webp",
   "full_name": "Jan Vertonghen",
   "birth_date": "24-04-1987",
-  "birthplace": "Sint-Niklaas, Belgium",
+
   "position": "Center-Back",
   "team": "Anderlecht",
   "nationality": "Belgium",
@@ -122,7 +122,7 @@
   "img": "/football/img/players/D Rose.webp",
   "full_name": "Danny Rose",
   "birth_date": "02-07-1990",
-  "birthplace": "Doncaster, England",
+
   "position": "Left Back",
   "team": "Watford",
   "nationality": "England",
@@ -135,7 +135,7 @@
   "img": "/football/img/players/Lloris.webp",
   "full_name": "Hugo Lloris",
   "birth_date": "26-12-1986",
-  "birthplace": "Nice, France",
+
   "position": "Goalkeeper",
   "team": "Tottenham Hotspur",
   "nationality": "France",

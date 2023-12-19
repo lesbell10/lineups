@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Dach.jpg",
     "full_name": "Kirby Dach",
     "birth_date": "21-01-2001",
-    "birthplace": "St. Albert, Canada",
+
     "team": "Montreal Canadiens",
     "nationality": "Canada",
     "position": "Center",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Suzuki.jpg",
     "full_name": "Nick Suzuki",
     "birth_date": "10-08-1999",
-    "birthplace": "London, Canada",
+
     "team": "Montreal Canadiens",
     "nationality": "Canada",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Caufield.jpg",
     "full_name": "Cole Caufield",
     "birth_date": "02-01-2001",
-    "birthplace": "Mosinee, USA",
+
     "team": "Montreal Canadiens",
     "nationality": "USA",
     "position": "Right winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Matheson.jpg",
     "full_name": "Michael Matheson",
     "birth_date": "27-02-1994",
-    "birthplace": "Pointe-Claire, Canada",
+
     "team": "Montreal Canadiens",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Guhle.jpg",
     "full_name": "Kaiden Guhle",
     "birth_date": "18-01-2002",
-    "birthplace": "Sherwood Park, Canada",
+
     "team": "Montreal Canadiens",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/J Allen.jpg",
     "full_name": "Jake Allen",
     "birth_date": "07-08-1990",
-    "birthplace": "Fredericton, Canada",
+
     "team": "Montreal Canadiens",
     "nationality": "Canada",
     "position": "Goalie",

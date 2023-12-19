@@ -5,7 +5,7 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-        "birthplace": "Liverpool, England",
+
         "nationality": "England",
         "position": "Centre-Forward",
         "height": "5'9\"",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "nationality": "Argentina",
         "position": "Attacking Midfielder, Right Winger",
         "height": "5'7\"",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
-        "birthplace": "Fuentealbilla, Spain",
+
         "nationality": "Spain",
         "position": "Attacking Midfielder",
         "height": "5'7\"",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "nationality": "Portugal",
         "position": "Left Winger",
         "height": "6'2\"",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernández",
         "birth_date": "25-01-1980",
-        "birthplace": "Terrassa, Spain",
+
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'7\"",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Busquets.webp",
         "full_name": "Sergio Busquets",
         "birth_date": "16-07-1988",
-        "birthplace": "Badia del Vallès, Spain",
+
         "nationality": "Spain",
         "position": "Defensive Midfielder",
         "height": "6'2\"",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/D Alves.webp",
         "full_name": "Daniel Alves",
         "birth_date": "06-05-1983",
-        "birthplace": "Juazeiro, Brazil",
+
         "nationality": "Brazil",
         "position": "Right-Back",
         "height": "5'8\"",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Vidic.webp",
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
-        "birthplace": "Titovo Užice, Serbia",
+
         "nationality": "Serbia",
         "position": "Centre-Back",
         "height": "6'3\"",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-        "birthplace": "Camas, Spain",
+
         "nationality": "Spain",
         "position": "Centre-Back",
         "height": "6'0\"",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
-        "birthplace": "London, England",
+
         "nationality": "England",
         "position": "Left-Back",
         "height": "5'9\"",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
-        "birthplace": "Móstoles, Madrid, Spain",
+
         "nationality": "Spanish",
         "position": "Goalkeeper",
         "height": "6'1\"",

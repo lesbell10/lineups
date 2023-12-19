@@ -5,7 +5,7 @@
     "img": "/football/img/players/Rodrygo.webp",
     "full_name": "Rodrygo Silva",
     "birth_date": "09-01-2001",
-    "birthplace": "Osasco, Brazil",
+
     "position": "Forward",
     "team": "Real Madrid",
     "nationality": "Brazil",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Valverde.webp",
     "full_name": "Federico Valverde",
     "birth_date": "22-07-1998",
-    "birthplace": "Montevideo, Uruguay",
+
     "position": "Right Winger, Central Midfielder",
     "team": "Real Madrid",
     "nationality": "Uruguay",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Bellingham.webp",
     "full_name": "Jude Bellingham",
     "birth_date": "29-06-2003",
-    "birthplace": "Stourbridge, England",
+
     "position": "Attacking Midfielder",
     "team": "Real Madrid",
     "nationality": "England",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Vinicius jr.webp",
     "full_name": "Vinicius de Oliveira Jr",
     "birth_date": "12-07-2000",
-    "birthplace": "São Gonçalo, Brazil",
+
     "position": "Left Winger",
     "team": "Real Madrid",
     "nationality": "Brazil",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Kroos.webp",
     "full_name": "Toni Kroos",
     "birth_date": "04-01-1990",
-    "birthplace": "Greifswald, Germany",
+
     "position": "Central Midfielder",
     "team": "Real Madrid",
     "nationality": "Germany",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Tchouameni.webp",
     "full_name": "Aurelien Tchouaméni",
     "birth_date": "27-01-2000",
-    "birthplace": "Rouen, France",
+
     "position": "Defensive Midfielder",
     "team": "Real Madrid",
     "nationality": "France",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Carvajal.webp",
     "full_name": "Daniel Carvajal",
     "birth_date": "11-01-1992",
-    "birthplace": "Leganés, Spain",
+
     "position": "Right Back",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/E Militao.webp",
     "full_name": "Eder Militao",
     "birth_date": "18-01-1998",
-    "birthplace": "Sertãozinho, Brazil",
+
     "position": "Center Back",
     "team": "Real Madrid",
     "nationality": "Brazil",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Alaba.webp",
     "full_name": "David Alaba",
     "birth_date": "24-06-1992",
-    "birthplace": "Vienna, Austria",
+
     "position": "Center Back",
     "team": "Real Madrid",
     "nationality": "Austria",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Camavinga.webp",
     "full_name": "Eduardo Camavinga",
     "birth_date": "10-11-2002",
-    "birthplace": "Miconje, Angola",
+
     "position": "Defensive Midfielder, Left Back",
     "team": "Real Madrid",
     "nationality": "France",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Kepa.webp",
     "full_name": "Kepa Arrizabalaga",
     "birth_date": "03-10-1994",
-    "birthplace": "Ondarroa, Spain",
+
     "position": "Goalkeeper",
     "team": "Real Madrid",
     "nationality": "Spain",

@@ -5,7 +5,7 @@
         "img": "/football/img/players/Kane.webp",
         "full_name": "Harry Edward Kane",
         "birth_date": "28-07-1993",
-        "birthplace": "London, England",
+
         "position": "Striker",
         "team": "Bayern Munich",
         "nationality": "England",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Sterling.webp",
         "full_name": "Raheem Sterling",
         "birth_date": "08-12-1994",
-        "birthplace": "Kingston, Jamaica",
+
         "position": "Left Winger",
         "team": "Chelsea",
         "nationality": "England",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-        "birthplace": "Liverpool, England",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "England",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Rashford.webp",
         "full_name": "Marcus Rashford",
         "birth_date": "31-10-1997",
-        "birthplace": "Manchester, England",
+
         "position": "Forward",
         "team": "Manchester United",
         "nationality": "England",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Gerrard.webp",
         "full_name": "Steven Gerrard",
         "birth_date": "30-05-1980",
-        "birthplace": "Whiston, England",
+
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "England",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Henderson.webp",
         "full_name": "Jordan Henderson",
         "birth_date": "17-06-1990",
-        "birthplace": "Sunderland, England",
+
         "position": "Defensive Midfielder",
         "team": "Al-Ettifaq",
         "nationality": "England",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Alexander-A.webp",
         "full_name": "Trent Alexander-A",
         "birth_date": "07-10-1998",
-        "birthplace": "Liverpool, England",
+
         "position": "Right-back",
         "team": "Liverpool",
         "nationality": "England",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Terry.webp",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
-        "birthplace": "Barking, England",
+
         "position": "Center-back",
         "team": "Retired",
         "nationality": "England",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Ferdinand.webp",
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
-        "birthplace": "Peckham, England",
+
         "position": "Center-back",
         "team": "Retired",
         "nationality": "England",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
-        "birthplace": "Stepney, England",
+
         "position": "Left-back",
         "team": "Retired",
         "nationality": "England",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/J Hart.webp",
         "full_name": "John Hart",
         "birth_date": "19-04-1987",
-        "birthplace": "Shrewsbury, England",
+
         "position": "Goalkeeper",
         "team": "Celtic",
         "nationality": "England",

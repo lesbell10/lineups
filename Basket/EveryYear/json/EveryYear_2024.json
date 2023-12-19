@@ -5,7 +5,7 @@
       "full_name": "Stephen Curry",
       "img": "/basket/img/players/S Curry.png",
       "birth_date": "14-03-1988",
-      "birthplace": "Akron, USA",
+
       "team": "Golden State Warriors",
       "nationality": "USA",
       "positions": ["Point Guard", "Shooting Guard"],
@@ -19,7 +19,7 @@
       "full_name": "LeBron James",
       "img": "/basket/img/players/l james.png",
       "birth_date": "30-12-1984",
-      "birthplace": "Akron, USA",
+
       "team": "Los Angeles Lakers",
       "nationality": "USA",
       "positions": ["Small Forward", "Power Forward"],
@@ -33,7 +33,7 @@
       "full_name": "G Antetokounmpo",
       "img": "/basket/img/players/g Antetokounmpo.png",
       "birth_date": "06-12-1994",
-      "birthplace": "Athens, Greece",
+
       "team": "Milwaukee Bucks",
       "nationality": "Greece",
       "positions": ["Small Forward", "Power Forward"],
@@ -47,7 +47,7 @@
       "full_name": "Nikola Jokic",
       "img": "/basket/img/players/N Jokic.png",
       "birth_date": "19-02-1995",
-      "birthplace": "Sombor, Serbia",
+
       "team": "Denver Nuggets",
       "nationality": "Serbia",
       "positions": ["Center", "Power Forward"],
@@ -61,7 +61,7 @@
       "full_name": "Joel Embiid",
       "img": "/basket/img/players/j embiid.png",
       "birth_date": "16-03-1994",
-      "birthplace": "Yaoundé, Cameroon",
+
       "team": "Philadelphia 76ers",
       "nationality": "Cameroon",
       "positions": ["Center", "Power Forward"],

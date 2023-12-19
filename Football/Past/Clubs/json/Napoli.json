@@ -5,7 +5,7 @@
   "img": "/football/img/players/Cavani.webp",
   "full_name": "Edinson Cavani",
   "birth_date": "14-02-1987",
-  "birthplace": "Salto, Uruguay",
+
   "position": "Striker",
   "team": "Boca Juniors",
   "nationality": "Uruguay",
@@ -18,7 +18,7 @@
   "img": "/football/img/players/Mertens.webp",
   "full_name": "Dries Mertens",
   "birth_date": "06-05-1987",
-  "birthplace": "Leuven, Belgium",
+
   "position": "Forward",
   "team": "Galatasaray",
   "nationality": "Belgium",
@@ -31,7 +31,7 @@
   "img": "/football/img/players/Hamsik.webp",
   "full_name": "Marek Hamsik",
   "birth_date": "27-07-1987",
-  "birthplace": "Banská Bystrica, Slovakia",
+
   "position": "Attacking Midfielder",
   "team": "Retired",
   "nationality": "Slovakia",
@@ -44,7 +44,7 @@
   "img": "/football/img/players/Insigne.webp",
   "full_name": "Lorenzo Insigne",
   "birth_date": "04-06-1991",
-  "birthplace": "Naples, Italy",
+
   "position": "Forward",
   "team": "Toronto FC",
   "nationality": "Italy",
@@ -57,7 +57,7 @@
   "img": "/football/img/players/Allan.webp",
   "full_name": "Allan Marques",
   "birth_date": "08-01-1991",
-  "birthplace": "Rio de Janeiro, Brazil",
+
   "position": "Defensive Midfielder",
   "team": "Al Wahda",
   "nationality": "Brazil",
@@ -70,7 +70,7 @@
   "img": "/football/img/players/Jorginho.webp",
   "full_name": "Jorginho Frello",
   "birth_date": "20-12-1991",
-  "birthplace": "Imbituba, Brazil",
+
   "position": "Defensive Midfielder",
   "team": "Arsenal",
   "nationality": "Italy",
@@ -83,7 +83,7 @@
   "img": "/football/img/players/Maggio.webp",
   "full_name": "Christian Maggio",
   "birth_date": "11-02-1982",
-  "birthplace": "Montecchio Maggiore, Italy",
+
   "position": "Right Back",
   "team": "Retired",
   "nationality": "Italy",
@@ -96,7 +96,7 @@
   "img": "/football/img/players/Koulibaly.webp",
   "full_name": "Kalidou Koulibaly",
   "birth_date": "20-06-1991",
-  "birthplace": "Saint-Dié-des-Vosges, France",
+
   "position": "Center-Back",
   "team": "Al-Hilal",
   "nationality": "Senegal",
@@ -109,7 +109,7 @@
   "img": "/football/img/players/R Albiol.webp",
   "full_name": "Raul Albiol",
   "birth_date": "04-09-1985",
-  "birthplace": "Villamarchante, Spain",
+
   "position": "Center-Back",
   "team": "Villarreal",
   "nationality": "Spain",
@@ -122,7 +122,7 @@
   "img": "/football/img/players/Ghoulam.webp",
   "full_name": "Faouzi Ghoulam",
   "birth_date": "01-02-1991",
-  "birthplace": "Saint-Priest-en-Jarez, France",
+
   "position": "Left Back",
   "team": "Hatayspor",
   "nationality": "Algeria",
@@ -135,7 +135,7 @@
   "img": "/football/img/players/P Reina.webp",
   "full_name": "Pepe Reina",
   "birth_date": "31-08-1982",
-  "birthplace": "Madrid, Spain",
+
   "position": "Goalkeeper",
   "team": "Villarreal",
   "nationality": "Spain",

@@ -5,7 +5,7 @@
     "img": "/football/img/players/Morata.webp",
     "full_name": "Alvaro Morata",
     "birth_date": "23-10-1992",
-    "birthplace": "Madrid, Spain",
+
     "position": "Striker",
     "team": "Atletico Madrid",
     "nationality": "Spain",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/De Paul.webp",
     "full_name": "Rodrigo De Paul",
     "birth_date": "24-05-1994",
-    "birthplace": "Sarandí, Argentina",
+
     "position": "Right Winger",
     "team": "Atletico Madrid",
     "nationality": "Argentina",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Griezmann.webp",
     "full_name": "Antoine Griezmann",
     "birth_date": "21-03-1991",
-    "birthplace": "Mâcon, France",
+
     "position": "Attacking Midfielder",
     "team": "Atletico Madrid",
     "nationality": "France",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/M Depay.webp",
     "full_name": "Memphis Depay",
     "birth_date": "13-02-1994",
-    "birthplace": "Moorsele, Netherlands",
+
     "position": "Forward Left",
     "team": "Atletico Madrid",
     "nationality": "Netherlands",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/M Llorente.webp",
     "full_name": "Marcos Llorente",
     "birth_date": "30-01-1995",
-    "birthplace": "Madrid, Spain",
+
     "position": "Central Midfielder",
     "team": "Atletico Madrid",
     "nationality": "Spain",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Koke.webp",
     "full_name": "Koke",
     "birth_date": "08-01-1992",
-    "birthplace": "Madrid, Spain",
+
     "position": "Central Midfielder",
     "team": "Atletico Madrid",
     "nationality": "Spain",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Molina.webp",
     "full_name": "Nahuel Molina",
     "birth_date": "27-01-1998",
-    "birthplace": "Rosario, Argentina",
+
     "position": "Right-back",
     "team": "Atletico Madrid",
     "nationality": "Argentina",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Gimenez.webp",
     "full_name": "Jose Maria Gimenez",
     "birth_date": "20-01-1995",
-    "birthplace": "Toledo, Uruguay",
+
     "position": "Central Defender Right",
     "team": "Atletico Madrid",
     "nationality": "Uruguay",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Savic.webp",
     "full_name": "Stefan Savic",
     "birth_date": "08-01-1991",
-    "birthplace": "Mojkovac, Montenegro",
+
     "position": "Central Defender Left",
     "team": "Atletico Madrid",
     "nationality": "Montenegro",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Hermoso.webp",
     "full_name": "Mario Hermoso",
     "birth_date": "18-04-1995",
-    "birthplace": "Madrid, Spain",
+
     "position": "Defender Left",
     "team": "Atletico Madrid",
     "nationality": "Spain",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Oblak.webp",
     "full_name": "Jan Oblak",
     "birth_date": "07-01-1993",
-    "birthplace": "Škofja Loka, Slovenia",
+
     "position": "Goalkeeper",
     "team": "Atletico Madrid",
     "nationality": "Slovenia",

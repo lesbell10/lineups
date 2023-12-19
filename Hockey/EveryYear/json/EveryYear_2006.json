@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Iginla.jpg",
     "full_name": "Jarome Iginla",
     "birth_date": "01-07-1977",
-    "birthplace": "Edmonton, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Right Winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Sakic.jpg",
     "full_name": "Joe Sakic",
     "birth_date": "07-07-1969",
-    "birthplace": "Burnaby, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/P Forsberg.jpg",
     "full_name": "Peter Forsberg",
     "birth_date": "20-07-1973",
-    "birthplace": "Örnsköldsvik, Sweden",
+
     "team": "Retired",
     "nationality": "Sweden",
     "position": "Right Winger / Center",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/S Niedermayer.jpg",
     "full_name": "Scott Niedermayer",
     "birth_date": "31-08-1973",
-    "birthplace": "Edmonton, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Lidstrom.jpg",
     "full_name": "Nicklas Lidstrom",
     "birth_date": "28-04-1970",
-    "birthplace": "Krylbo, Sweden",
+
     "team": "Retired",
     "nationality": "Sweden",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Brodeur.jpg",
     "full_name": "Martin Brodeur",
     "birth_date": "06-05-1972",
-    "birthplace": "Montreal, Canada",
+
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goalie",

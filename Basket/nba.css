@@ -126,6 +126,7 @@ option {
     position: absolute;
     bottom: 100px;
     left: 50px;
+    cursor: pointer;
 }
 
 .second {

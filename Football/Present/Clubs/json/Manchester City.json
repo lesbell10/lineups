@@ -5,7 +5,7 @@
     "img": "/football/img/players/Haaland.webp",
     "full_name": "Erling Haaland",
     "birth_date": "21-07-2000",
-    "birthplace": "Leeds, England",
+
     "position": "Striker",
     "team": "Manchester City",
     "nationality": "Norway",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/B Silva.webp",
     "full_name": "Bernardo Silva",
     "birth_date": "10-08-1994",
-    "birthplace": "Lisbon, Portugal",
+
     "position": "Forward",
     "team": "Manchester City",
     "nationality": "Portugal",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Foden.webp",
     "full_name": "Phil Foden",
     "birth_date": "28-05-2000",
-    "birthplace": "Stockport, England",
+
     "position": "Right Winger",
     "team": "Manchester City",
     "nationality": "England",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Grealish.webp",
     "full_name": "Jack Grealish",
     "birth_date": "10-09-1995",
-    "birthplace": "Solihull, England",
+
     "position": "Left Winger",
     "team": "Manchester City",
     "nationality": "England",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/De Bruyne.webp",
     "full_name": "Kevin De Bruyne",
     "birth_date": "28-06-1991",
-    "birthplace": "Drongen, Belgium",
+
     "position": "Central Midfielder",
     "team": "Manchester City",
     "nationality": "Belgium",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Rodri.webp",
     "full_name": "Rodrigo Hernandez",
     "birth_date": "22-06-1996",
-    "birthplace": "Madrid, Spain",
+
     "position": "Defensive Midfielder",
     "team": "Manchester City",
     "nationality": "Spain",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Walker.webp",
     "full_name": "Kyle Walker",
     "birth_date": "28-05-1990",
-    "birthplace": "Sheffield, England",
+
     "position": "Right Back",
     "team": "Manchester City",
     "nationality": "England",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/R Dias.webp",
     "full_name": "Ruben Dias",
     "birth_date": "14-05-1997",
-    "birthplace": "Amadora, Portugal",
+
     "position": "Central Defender",
     "team": "Manchester City",
     "nationality": "Portugal",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Stones.webp",
     "full_name": "John Stones",
     "birth_date": "28-05-1994",
-    "birthplace": "Barnsley, England",
+
     "position": "Central Defender",
     "team": "Manchester City",
     "nationality": "England",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Gvardiol.webp",
     "full_name": "Josko Gvardiol",
     "birth_date": "23-01-2002",
-    "birthplace": "Zagreb, Croatia",
+
     "position": "Left Back",
     "team": "Manchester City",
     "nationality": "Croatia",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Ederson.webp",
     "full_name": "Ederson Moraes",
     "birth_date": "17-08-1993",
-    "birthplace": "Osasco, Brazil",
+
     "position": "Goalkeeper",
     "team": "Manchester City",
     "nationality": "Brazil",

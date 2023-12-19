@@ -17,7 +17,7 @@
     "team": "Chicago Blackhawks",
     "nationality": "Canada",
     "position": "Center",
-    "description": "Canadian center and former captain of the Columbus Blue Jackets."
+    "description": "Canadian center and former captain."
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "img": "/hockey/img/players/Atkinson.jpg",
     "full_name": "Cam Atkinson",
     "team": "Philadelphia Flyers",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Right Winger",
     "description": "Dynamic right winger for the Philadelphia Flyers."
   },
@@ -35,7 +35,7 @@
     "img": "/hockey/img/players/J Johnson.jpg",
     "full_name": "Jack Johnson",
     "team": "Colorado Avalanche",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Defenseman",
     "description": "Experienced American left defenseman for the Colorado Avalanche."
   },
@@ -45,7 +45,7 @@
     "img": "/hockey/img/players/S Jones.jpg",
     "full_name": "Seth Jones",
     "team": "Chicago Blackhawks",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Defenseman",
     "description": "Talented right defenseman contributing to the Chicago Blackhawks' defense."
   },

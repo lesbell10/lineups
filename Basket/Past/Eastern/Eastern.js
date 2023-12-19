@@ -33,6 +33,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/atlanta.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/atlanta.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Atlanta Hawks, established in 1946, have a storied NBA history with roots in Buffalo, Tri-Cities, and St. Louis. Relocating to Atlanta in 1968, they've had iconic players and moments, highlighted by a championship in 1958 and consistent playoff appearances."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "1") {
@@ -51,6 +60,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/boston.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/boston.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Boston Celtics, founded in 1946, boast a rich NBA legacy with a record 17 championships.Known for legendary players like Bill Russell and Larry Bird, they epitomize excellence, tradition, and rivalry, particularly with the Los Angeles Lakers, cementing a storied sports history."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "2") {
@@ -71,6 +89,15 @@ function updatePlayerInfo() {
 
     MainFetchPopUp("/basket/past/eastern/json/brooklyn.json");
 
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Brooklyn Nets, established in 1967, began as the New Jersey Americans in the ABA, later becoming the New Jersey Nets. Joining the NBA in 1976, they've seen varied success, relocating to Brooklyn in 2012, and evolving into a high-profile team."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
+
   }
 
   if (selectedYear === "3") {
@@ -90,6 +117,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/charlotte.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/charlotte.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Charlotte Hornets, founded in 1988, experienced relocation to New Orleans in 2002, and Charlotte's subsequent NBA revival in 2004 as the Bobcats. In 2014, they reclaimed the Hornets name, building a legacy marked by community connection and developing talent."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "4") {
@@ -109,6 +145,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/chicago.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/chicago.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Chicago Bulls, established in 1966, soared to global prominence in the 1990s with six NBA championships, largely thanks to Michael Jordan's legendary tenure. Known for their fierce competitiveness, the Bulls have been a cornerstone of Chicago's sports culture and NBA history."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "5") {
@@ -128,6 +173,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/cleveland.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/cleveland.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Cleveland Cavaliers, founded in 1970, reached prominence with a 2016 NBA Championship, largely credited to LeBron James. Known for their dramatic comeback in the finals and passionate fan base, the Cavaliers have become a significant and resilient presence in the NBA."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "6") {
@@ -147,6 +201,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/detroit.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/detroit.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Detroit Pistons, established in 1941 as the Fort Wayne Pistons, moved to Detroit in 1957. Renowned for their "Bad Boys" era in the late 1980s and early 2000s success, they've won three NBA championships, known for their tough, defensive-minded play."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "7") {
@@ -166,6 +229,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/indiana.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/indiana.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Indiana Pacers, founded in 1967 in the ABA, joined the NBA in 1976. Known for their strong defense and team play, they enjoyed success in the 1990s and early 2000s, with notable players like Reggie Miller, though an NBA title has eluded them."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "8") {
@@ -185,6 +257,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/miami.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/miami.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Miami Heat, established in 1988, quickly became a formidable NBA team. Gaining prominence in the 2000s, they secured three championships, notably with LeBron James and Dwyane Wade. Known for their strong culture and leadership, the Heat continue to be a competitive force."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "9") {
@@ -204,6 +285,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/milwaukee.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/milwaukee.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Milwaukee Bucks, founded in 1968, quickly found success with a 1971 NBA Championship led by Kareem Abdul - Jabbar.Known for their resilience, the Bucks re - emerged as a powerhouse with Giannis Antetokounmpo, clinching another title in 2021 after a 50 - year drought."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "10") {
@@ -223,6 +313,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/new york.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/new york.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The New York Knicks, one of the NBA's original teams founded in 1946, have a storied history with two championships in the 1970s. Playing in the iconic Madison Square Garden, they've had periods of prominence, marked by passionate fans and memorable playoff runs."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "11") {
@@ -242,6 +341,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/orlando.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/orlando.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Orlando Magic, established in 1989, quickly made an impact in the NBA with stars like Shaquille O'Neal and Penny Hardaway. Despite reaching the NBA Finals twice, a championship has eluded them. Known for their dynamic play, they remain a prominent Florida franchise."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "12") {
@@ -261,6 +369,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/philadelphia.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/philadelphia.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Philadelphia 76ers, founded in 1946 as the Syracuse Nationals before relocating in 1963, have a rich history with three NBA championships. Known for legendary players like Wilt Chamberlain and Julius Erving, the 76ers have been a significant, enduring presence in the league."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "13") {
@@ -280,6 +397,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/toronto.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/toronto.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Toronto Raptors, established in 1995 as part of the NBA's expansion into Canada, have grown into a formidable team. They achieved a pinnacle of success with their 2019 NBA Championship. Known for their diverse and passionate fan base, they've become a prominent Eastern Conference contender."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
   if (selectedYear === "14") {
@@ -299,6 +425,15 @@ function updatePlayerInfo() {
     smallpic.src = "/basket/img/logos/washington.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/washington.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "The Washington Wizards, originally the Chicago Packers in 1961 and undergoing several name changes, settled in Washington D.C. in 1974. With a history highlighted by a 1978 NBA Championship, they've had periods of success and iconic players, contributing to a rich basketball legacy."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
 }
@@ -649,23 +784,23 @@ const updateDropdown = () => {
 
   }
 }
-  // Event listener for the back button
-  backButton.addEventListener('click', () => {
-    if (selectedYear > 0) {
-      selectedYear--;
-      yearSelector.value = selectedYear;
-      updateDropdown();
-    }
-  });
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+  if (selectedYear > 0) {
+    selectedYear--;
+    yearSelector.value = selectedYear;
+    updateDropdown();
+  }
+});
 
-  // Event listener for the forward button
-  forwardButton.addEventListener('click', () => {
-    if (selectedYear < yearSelector.options.length - 1) {
-      selectedYear++;
-      yearSelector.value = selectedYear;
-      updateDropdown();
-    }
-  });
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+  if (selectedYear < yearSelector.options.length - 1) {
+    selectedYear++;
+    yearSelector.value = selectedYear;
+    updateDropdown();
+  }
+});
 
 // for screenshots
 

@@ -5,7 +5,7 @@
         "img": "/football/img/players/F Torres.webp",
         "full_name": "Fernando Torres",
         "birth_date": "20-03-1984",
-        "birthplace": "Madrid, Spain",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Spain",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/D Silva.webp",
         "full_name": "David Silva",
         "birth_date": "08-01-1986",
-        "birthplace": "Arguineguin, Spain",
+
         "position": "Left Winger",
         "team": "Retired",
         "nationality": "Spain",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
-        "birthplace": "Fuentealbilla, Spain",
+
         "position": "Midfielder",
         "team": "Emirates",
         "nationality": "Spain",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/D Villa.webp",
         "full_name": "David Villa",
         "birth_date": "03-12-1981",
-        "birthplace": "Langreo, Spain",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Spain",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
-        "birthplace": "Terrassa, Spain",
+
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "Spain",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Busquets.webp",
         "full_name": "Sergio Busquets",
         "birth_date": "16-07-1988",
-        "birthplace": "Sabadell, Spain",
+
         "position": "Midfielder",
         "team": "Inter Miami",
         "nationality": "Spain",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Carvajal.webp",
         "full_name": "Daniel Carvajal",
         "birth_date": "11-01-1992",
-        "birthplace": "Leganes, Spain",
+
         "position": "Right-back",
         "team": "Real Madrid",
         "nationality": "Spain",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-        "birthplace": "Camas, Spain",
+
         "position": "Center-back",
         "team": "Sevilla",
         "nationality": "Spain",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Pique.webp",
         "full_name": "Gerard Pique",
         "birth_date": "02-02-1987",
-        "birthplace": "Barcelona, Spain",
+
         "position": "Center-back",
         "team": "Retired",
         "nationality": "Spain",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Alba.webp",
         "full_name": "Jordi Alba",
         "birth_date": "21-03-1989",
-        "birthplace": "L'Hospitalet de Llobregat, Spain",
+
         "position": "Left-back",
         "team": "Inter Miami",
         "nationality": "Spain",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/de Gea.webp",
         "full_name": "David de Gea",
         "birth_date": "07-11-1990",
-        "birthplace": "Madrid, Spain",
+
         "position": "Goalkeeper",
         "team": "Free Agent",
         "nationality": "Spain",

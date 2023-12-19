@@ -5,7 +5,7 @@
     "img": "/basket/img/players/C Paul.png",
     "full_name": "Chris Paul",
     "birth_date": "06-05-1985",
-    "birthplace": "Winston-Salem, USA",
+
     "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard"],
@@ -19,7 +19,7 @@
     "img": "/basket/img/players/D Wade.png",
     "full_name": "Dwyane Wade",
     "birth_date": "17-01-1982",
-    "birthplace": "Chicago, USA",
+
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard"],
@@ -33,7 +33,7 @@
     "img": "/basket/img/players/K Bryant.webp",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-    "birthplace": "Philadelphia, USA",
+
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Small Forward", "Shooting Guard"],
@@ -47,7 +47,7 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-    "birthplace": "Akron, USA",
+
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
@@ -61,7 +61,7 @@
     "img": "/basket/img/players/D Howard.png",
     "full_name": "Dwight Howard",
     "birth_date": "08-12-1985",
-    "birthplace": "Atlanta, USA",
+
     "team": "Beer Leopards (Taiwan)",
     "nationality": "USA",
     "positions": ["Center"],

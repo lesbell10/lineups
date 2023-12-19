@@ -5,7 +5,7 @@
         "img": "/football/img/players/Immobile.webp",
         "full_name": "Ciro Immobile",
         "birth_date": "20-02-1990",
-        "birthplace": "Torre Annunziata, Italy",
+
         "position": "Striker",
         "team": "Lazio",
         "nationality": "Italy",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Berardi.webp",
         "full_name": "Domenico Berardi",
         "birth_date": "01-08-1994",
-        "birthplace": "Cariati, Italy",
+
         "position": "Forward",
         "team": "Sassuolo",
         "nationality": "Italy",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Barella.webp",
         "full_name": "Nicolo Barella",
         "birth_date": "07-02-1997",
-        "birthplace": "Cagliari, Italy",
+
         "position": "Central Midfielder",
         "team": "Inter Milan",
         "nationality": "Italy",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Insigne.webp",
         "full_name": "Lorenzo Insigne",
         "birth_date": "04-06-1991",
-        "birthplace": "Naples, Italy",
+
         "position": "Forward",
         "team": "Toronto FC",
         "nationality": "Italy",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Verratti.webp",
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
-        "birthplace": "Pescara, Italy",
+
         "position": "Central Midfielder",
         "team": "Al-Arabi",
         "nationality": "Italy",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Jorginho.webp",
         "full_name": "Jorginho Frello",
         "birth_date": "20-12-1991",
-        "birthplace": "Imbituba, Brazil",
+
         "position": "Defensive Midfielder",
         "team": "Arsenal",
         "nationality": "Italy",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Florenzi.webp",
         "full_name": "Alessandro Florenzi",
         "birth_date": "11-03-1991",
-        "birthplace": "Rome, Italy",
+
         "position": "Right-back",
         "team": "AC Milan",
         "nationality": "Italy",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Bonucci.webp",
         "full_name": "Leonardo Bonucci",
         "birth_date": "01-05-1987",
-        "birthplace": "Viterbo, Italy",
+
         "position": "Center-back",
         "team": "Union Berlin",
         "nationality": "Italy",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Chiellini.webp",
         "full_name": "Giorgio Chiellini",
         "birth_date": "14-08-1984",
-        "birthplace": "Pisa, Italy",
+
         "position": "Center-back",
         "team": "Los Angeles FC",
         "nationality": "Italy",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Spinazzola.webp",
         "full_name": "Leonardo Spinazzola",
         "birth_date": "25-03-1993",
-        "birthplace": "Foligno, Italy",
+
         "position": "Left-back",
         "team": "AS Roma",
         "nationality": "Italy",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Buffon.webp",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
-        "birthplace": "Carrara, Italy",
+
         "position": "Goalkeeper",
         "team": "Retired",
         "nationality": "Italy",

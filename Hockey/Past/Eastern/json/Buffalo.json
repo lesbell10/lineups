@@ -15,7 +15,7 @@
     "img": "/hockey/img/players/Eichel.jpg",
     "full_name": "Jack Eichel",
     "team": "Vegas Golden Knights",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Center",
     "description": "Star center and former captain for the Buffalo Sabres."
   },
@@ -55,7 +55,7 @@
     "img": "/hockey/img/players/R Miller.jpg",
     "full_name": "Ryan Miller",
     "team": "Retired",
-    "nationality": "United States",
+    "nationality": "USA",
     "position": "Goalie",
     "description": "Former Sabres goalie, known for his outstanding saves."
   }

@@ -89,7 +89,7 @@ function FetchPopUp(info) {
                         <p>Position: ${player.position}</p>
                         <p>Height: ${player.height}</p>
                         <p>Birth Date: ${player.birth_date}</p>
-                        <p>Birthplace: ${player.birthplace}</p>
+
 
                     `;
                         modal.style.display = 'block'; // Show the modal

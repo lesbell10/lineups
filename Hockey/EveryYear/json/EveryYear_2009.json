@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-        "birthplace": "Moscow, Russia",
+
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/Malkin.jpg",
         "full_name": "Evgeni Malkin",
         "birth_date": "31-07-1986",
-        "birthplace": "Magnitogorsk, Russia",
+
         "team": "Pittsburgh Penguins",
         "nationality": "Russia",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/Iginla.jpg",
         "full_name": "Jarome Iginla",
         "birth_date": "01-07-1977",
-        "birthplace": "Edmonton, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Winger",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-        "birthplace": "Krylbo, Sweden",
+
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Phaneuf.jpg",
         "full_name": "Dion Phaneuf",
         "birth_date": "10-04-1985",
-        "birthplace": "Edmonton, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "birth_date": "04-04-1979",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goalie",

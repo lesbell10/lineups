@@ -5,7 +5,7 @@
         "img": "/football/img/players/van Persie.webp",
         "full_name": "Robin van Persie",
         "birth_date": "06-08-1983",
-        "birthplace": "Rotterdam, Netherlands",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Robben.webp",
         "full_name": "Arjen Robben",
         "birth_date": "23-01-1984",
-        "birthplace": "Bedum, Netherlands",
+
         "position": "Right Wing",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Sneijder.webp",
         "full_name": "Wesley Sneijder",
         "birth_date": "09-06-1984",
-        "birthplace": "Utrecht, Netherlands",
+
         "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/M Depay.webp",
         "full_name": "Memphis Depay",
         "birth_date": "13-02-1994",
-        "birthplace": "Moordrecht, Netherlands",
+
         "position": "Forward",
         "team": "Atletico Madrid",
         "nationality": "Netherlands",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Wijnaldum.webp",
         "full_name": "Georginio Wijnaldum",
         "birth_date": "11-11-1990",
-        "birthplace": "Rotterdam, Netherlands",
+
         "position": "Central Midfielder",
         "team": "Al-Ettifaq",
         "nationality": "Netherlands",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/F de Jong.webp",
         "full_name": "Frenkie de Jong",
         "birth_date": "12-05-1997",
-        "birthplace": "Arkel, Netherlands",
+
         "position": "Midfielder",
         "team": "Barcelona",
         "nationality": "Netherlands",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Dumfries.webp",
         "full_name": "Denzel Dumfries",
         "birth_date": "18-04-1996",
-        "birthplace": "Tiel, Netherlands",
+
         "position": "Right-back",
         "team": "Inter Milan",
         "nationality": "Netherlands",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
-        "birthplace": "Breda, Netherlands",
+
         "position": "Center-back",
         "team": "Liverpool",
         "nationality": "Netherlands",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/de Ligt.webp",
         "full_name": "Matthijs de Ligt",
         "birth_date": "12-08-1999",
-        "birthplace": "Leiderdorp, Netherlands",
+
         "position": "Center-back",
         "team": "Bayern Munich",
         "nationality": "Netherlands",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/D Blind.webp",
         "full_name": "Daley Blind",
         "birth_date": "09-03-1990",
-        "birthplace": "Amsterdam, Netherlands",
+
         "position": "Left-back",
         "team": "Girona",
         "nationality": "Netherlands",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Cillessen.webp",
         "full_name": "Jasper Cillessen",
         "birth_date": "22-04-1989",
-        "birthplace": "Nijmegen, Netherlands",
+
         "position": "Goalkeeper",
         "team": "NEC",
         "nationality": "Netherlands",

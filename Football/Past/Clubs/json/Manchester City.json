@@ -5,7 +5,7 @@
         "img": "/football/img/players/Aguero.webp",
         "full_name": "Sergio Aguero",
         "birth_date": "02-06-1988",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Argentina",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/D Silva.webp",
         "full_name": "David Silva",
         "birth_date": "08-01-1986",
-        "birthplace": "Las Palmas, Spain",
+
         "position": "Left Winger",
         "team": "Retired",
         "nationality": "Spain",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-        "birthplace": "Drongen, Belgium",
+
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Sterling.webp",
         "full_name": "Raheem Sterling",
         "birth_date": "08-12-1994",
-        "birthplace": "Kingston, Jamaica",
+
         "position": "Left Winger",
         "team": "Chelsea",
         "nationality": "England",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Y Toure.webp",
         "full_name": "Yaya Toure",
         "birth_date": "13-05-1983",
-        "birthplace": "Bouaké, Ivory Coast",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Ivory Coast",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Fernandinho.webp",
         "full_name": "Fernandinho Luiz ",
         "birth_date": "04-05-1985",
-        "birthplace": "Londrina, Brazil",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Brazil",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Walker.webp",
         "full_name": "Kyle Walker",
         "birth_date": "28-05-1990",
-        "birthplace": "Sheffield, England",
+
         "position": "Defender",
         "team": "Manchester City",
         "nationality": "England",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Kompany.webp",
         "full_name": "Vincent Kompany",
         "birth_date": "10-04-1986",
-        "birthplace": "Uccle, Belgium",
+
         "position": "Defender",
         "team": "Retired",
         "nationality": "Belgium",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Otamendi.webp",
         "full_name": "Nicolas Otamendi",
         "birth_date": "12-02-1988",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Defender",
         "team": "Benfica",
         "nationality": "Argentina",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Kolarov.webp",
         "full_name": "Aleksandar Kolarov",
         "birth_date": "10-11-1985",
-        "birthplace": "Belgrade, Serbia",
+
         "position": "Defender",
         "team": "Retired",
         "nationality": "Serbia",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Ederson.webp",
         "full_name": "Ederson Moraes",
         "birth_date": "17-08-1993",
-        "birthplace": "Osasco, Brazil",
+
         "position": "Goalkeeper",
         "team": "Manchester City",
         "nationality": "Brazil",

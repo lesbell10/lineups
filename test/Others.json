@@ -5,7 +5,7 @@
         "img": "/football/img/players/Pele.webp",
         "full_name": "Edson Arantes do Nascimento \"Pele\"",
         "birth_date": "23-10-1940",
-        "birthplace": "Três Corações, Brazil",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Brazil",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Maradona.webp",
         "full_name": "Diego Armando Maradona",
         "birth_date": "30-10-1960",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Argentina",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/J Cruyff.webp",
         "full_name": "Hendrik Johannes Cruijff \"Johan Cruyff\"",
         "birth_date": "25-04-1947",
-        "birthplace": "Amsterdam, Netherlands",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Beckenbauer.webp",
         "full_name": "Franz Anton Beckenbauer",
         "birth_date": "11-09-1945",
-        "birthplace": "Munich, Germany",
+
         "position": "Defender",
         "team": "Retired",
         "nationality": "Germany",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/di Stefano.webp",
         "full_name": "Alfredo Stefano Di Stefano Laulhé",
         "birth_date": "04-07-1926",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Argentina",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Platini.webp",
         "full_name": "Michel François Platini",
         "birth_date": "21-06-1955",
-        "birthplace": "Joeuf, France",
+
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "France",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/G Best.webp",
         "full_name": "George Best",
         "birth_date": "22-05-1946",
-        "birthplace": "Belfast, Northern Ireland",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Northern Ireland",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/puskas.webp",
         "full_name": "Ferenc Zsolt Puskas",
         "birth_date": "02-04-1927",
-        "birthplace": "Budapest, Hungary",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Hungary",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/charlton.webp",
         "full_name": "Robert Charlton",
         "birth_date": "11-10-1937",
-        "birthplace": "Ashington, England",
+
         "position": "Midfielder",
         "team": "Retired",
         "nationality": "England",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/van basten.webp",
         "full_name": "Marcel van Basten",
         "birth_date": "31-10-1964",
-        "birthplace": "Utrecht, Netherlands",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/g muller.webp",
         "full_name": "Gerhard Muller",
         "birth_date": "03-11-1945",
-        "birthplace": "Nördlingen, Germany",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Germany",
@@ -148,7 +148,7 @@
         "img": "/football/img/players/meazza.webp",
         "full_name": "Giuseppe Antonio Meazza",
         "birth_date": "23-08-1910",
-        "birthplace": "Milan, Italy",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Italy",
@@ -161,7 +161,7 @@
         "img": "/football/img/players/r baggio.webp",
         "full_name": "Roberto Baggio",
         "birth_date": "18-02-1967",
-        "birthplace": "Caldogno, Italy",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Italy",
@@ -174,7 +174,7 @@
         "img": "/football/img/players/g weah.webp",
         "full_name": "George Tawlon Manneh Oppong Ousman Weah",
         "birth_date": "01-10-1966",
-        "birthplace": "Monrovia, Liberia",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Liberia",
@@ -187,7 +187,7 @@
         "img": "/football/img/players/Romario.webp",
         "full_name": "Romario de Souza Faria",
         "birth_date": "29-01-1966",
-        "birthplace": "Rio de Janeiro, Brazil",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Brazil",
@@ -200,7 +200,7 @@
         "img": "/football/img/players/Baresi.webp",
         "full_name": "Franco Baresi",
         "birth_date": "08-05-1960",
-        "birthplace": "Travagliato, Italy",
+
         "position": "Centre-Back",
         "team": "Retired",
         "nationality": "Italy",
@@ -213,7 +213,7 @@
         "img": "/football/img/players/Matthaus.webp",
         "full_name": "Lothar Matthaus",
         "birth_date": "21-03-1961",
-        "birthplace": "Erlangen, Germany",
+
         "position": "Midfielder",
         "team": "Retired",
         "nationality": "Germany",
@@ -226,7 +226,7 @@
         "img": "/football/img/players/Dalglish.webp",
         "full_name": "Kenny Dalglish",
         "birth_date": "04-03-1951",
-        "birthplace": "Glasgow, Scotland",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Scotland",
@@ -239,7 +239,7 @@
         "img": "/football/img/players/Gullit.webp",
         "full_name": "Ruud Gullit",
         "birth_date": "01-09-1962",
-        "birthplace": "Amsterdam, Netherlands",
+
         "position": "Midfielder",
         "team": "Retired",
         "nationality": "Netherlands",
@@ -252,7 +252,7 @@
       "img": "/football/img/players/Socrates.webp",
       "full_name": "Socrates Brasileiro Sampaio de Souza Vieira de Oliveira",
       "birth_date": "19-02-1954",
-      "birthplace": "Belém, Brazil",
+
       "position": "Midfielder",
       "team": "Retired",
       "nationality": "Brazil",
@@ -266,7 +266,7 @@
     "img": "/football/img/players/Bale.webp",
     "full_name": "Gareth Frank Bale",
     "birth_date": "16-07-1989",
-    "birthplace": "Cardiff, Wales",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Wales",
@@ -279,7 +279,7 @@
     "img": "/football/img/players/Coutinho.webp",
     "full_name": "Philippe Coutinho Correia",
     "birth_date": "12-06-1992",
-    "birthplace": "Rio de Janeiro, Brazil",
+
     "position": "Attacking Midfielder",
     "team": "Al-Duhail",
     "nationality": "Brazil",
@@ -292,7 +292,7 @@
     "img": "/football/img/players/Thiago.webp",
     "full_name": "Thiago Alcântara do Nascimento",
     "birth_date": "11-04-1991",
-    "birthplace": "San Pietro Vernotico, Italy",
+
     "position": "Central Midfielder",
     "team": "Liverpool",
     "nationality": "Spain",
@@ -305,7 +305,7 @@
     "img": "/football/img/players/del piero.webp",
     "full_name": "Alessandro Del Piero",
     "birth_date": "09-11-1974",
-    "birthplace": "Conegliano, Italy",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Italy",
@@ -318,7 +318,7 @@
     "img": "/football/img/players/R Carlos.webp",
     "full_name": "Roberto Carlos",
     "birth_date": "10-04-1973",
-    "birthplace": "Garça, Brazil",
+
     "position": "Left-back",
     "team": "Retired",
     "nationality": "Brazil",
@@ -331,7 +331,7 @@
     "img": "/football/img/players/Beckham.webp",
     "full_name": "David Beckham",
     "birth_date": "02-05-1975",
-    "birthplace": "London, England",
+
     "position": "Right Midfielder",
     "team": "Retired",
     "nationality": "England",
@@ -344,7 +344,7 @@
     "img": "/football/img/players/raul.webp",
     "full_name": "Raul Gonzalez Blanco",
     "birth_date": "27-06-1977",
-    "birthplace": "Madrid, Spain",
+
     "position": "Striker",
     "team": "Retired",
     "nationality": "Spain",
@@ -357,7 +357,7 @@
     "img": "/football/img/players/Shevchenko.webp",
     "full_name": "Andriy Shevchenko",
     "birth_date": "29-09-1976",
-    "birthplace": "Dvirkivshchyna, Ukraine",
+
     "position": "Striker",
     "team": "Retired",
     "nationality": "Ukraine",
@@ -370,7 +370,7 @@
     "img": "/football/img/players/ballack.webp",
     "full_name": "Michael Ballack",
     "birth_date": "26-09-1976",
-    "birthplace": "Görlitz, Germany",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "Germany",
@@ -383,7 +383,7 @@
     "img": "/football/img/players/figo.webp",
     "full_name": "Luis Figo",
     "birth_date": "04-11-1972",
-    "birthplace": "Lisbon, Portugal",
+
     "position": "Right Winger",
     "team": "Retired",
     "nationality": "Portugal",
@@ -396,7 +396,7 @@
     "img": "/football/img/players/nedved.webp",
     "full_name": "Pavel Nedvěd",
     "birth_date": "30-08-1972",
-    "birthplace": "Cheb, Czech Republic",
+
     "position": "Midfielder",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -409,7 +409,7 @@
     "img": "/football/img/players/r keane.webp",
     "full_name": "Roy Keane",
     "birth_date": "10-08-1971",
-    "birthplace": "Cork, Ireland",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "Ireland",
@@ -422,7 +422,7 @@
     "img": "/football/img/players/Campbell.webp",
     "full_name": "Sol Campbell",
     "birth_date": "18-09-1974",
-    "birthplace": "London, England",
+
     "position": "Defender",
     "team": "Retired",
     "nationality": "England",
@@ -435,7 +435,7 @@
     "img": "/football/img/players/van Nistelrooy.webp",
     "full_name": "Ruud van Nistelrooy",
     "birth_date": "01-07-1976",
-    "birthplace": "Oss, Netherlands",
+
     "position": "Striker",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -448,7 +448,7 @@
     "img": "/football/img/players/Hierro.webp",
     "full_name": "Fernando Ruiz Hierro",
     "birth_date": "23-03-1968",
-    "birthplace": "Vélez-Málaga, Spain",
+
     "position": "Defender",
     "team": "Retired",
     "nationality": "Spain",
@@ -461,7 +461,7 @@
     "img": "/football/img/players/Kahn.webp",
     "full_name": "Oliver Rolf Kahn",
     "birth_date": "15-06-1969",
-    "birthplace": "Karlsruhe, Germany",
+
     "position": "Goalkeeper",
     "team": "Retired",
     "nationality": "Germany",
@@ -474,7 +474,7 @@
     "img": "/football/img/players/Crespo.webp",
     "full_name": "Hernán Jorge Crespo",
     "birth_date": "05-07-1975",
-    "birthplace": "Florida, Argentina",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Argentina",
@@ -487,7 +487,7 @@
     "img": "/football/img/players/Cafu.webp",
     "full_name": "Marcos Evangelista de Morais 'Cafu'",
     "birth_date": "07-06-1970",
-    "birthplace": "São Paulo, Brazil",
+
     "position": "Right-back",
     "team": "Retired",
     "nationality": "Brazil",
@@ -500,7 +500,7 @@
     "img": "/football/img/players/Drogba.webp",
     "full_name": "Didier Yves Drogba Tébily",
     "birth_date": "11-03-1978",
-    "birthplace": "Abidjan, Ivory Coast",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Ivory Coast",
@@ -514,7 +514,7 @@
     "img": "/football/img/players/Ayala.webp",
     "full_name": "Roberto Fabián Ayala",
     "birth_date": "14-04-1973",
-    "birthplace": "Paraná, Argentina",
+
     "position": "Defender",
     "team": "Retired",
     "nationality": "Argentina",
@@ -527,7 +527,7 @@
     "img": "/football/img/players/Davids.webp",
     "full_name": "Edgar Steven Davids",
     "birth_date": "13-03-1973",
-    "birthplace": "Paramaribo, Suriname",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -540,7 +540,7 @@
     "img": "/football/img/players/Hagi.webp",
     "full_name": "Gheorghe Hagi",
     "birth_date": "05-02-1965",
-    "birthplace": "Săcele, Romania",
+
     "position": "Midfielder",
     "team": "Retired",
     "nationality": "Romania",
@@ -553,7 +553,7 @@
     "img": "/football/img/players/Riquelme.webp",
     "full_name": "Juan Román Riquelme",
     "birth_date": "24-06-1978",
-    "birthplace": "San Fernando, Argentina",
+
     "position": "Attacking Midfielder",
     "team": "Retired",
     "nationality": "Argentina",
@@ -566,7 +566,7 @@
     "img": "/football/img/players/H Larsson.webp",
     "full_name": "Henrik Edward Larsson",
     "birth_date": "20-09-1971",
-    "birthplace": "Helsingborg, Sweden",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Sweden",
@@ -579,7 +579,7 @@
     "img": "/football/img/players/Makelele.webp",
     "full_name": "Claude Makélélé",
     "birth_date": "18-02-1973",
-    "birthplace": "Kinshasa, Zaire (now DR Congo)",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "France",
@@ -592,7 +592,7 @@
     "img": "/football/img/players/P Kluivert.webp",
     "full_name": "Patrick Stephan Kluivert",
     "birth_date": "01-07-1976",
-    "birthplace": "Amsterdam, Netherlands",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -605,7 +605,7 @@
     "img": "/football/img/players/Lehmann.webp",
     "full_name": "Jens Gerhard Lehmann",
     "birth_date": "10-11-1969",
-    "birthplace": "Esslingen am Neckar, West Germany",
+
     "position": "Goalkeeper",
     "team": "Retired",
     "nationality": "Germany",
@@ -618,7 +618,7 @@
     "img": "/football/img/players/Costacurta.webp",
     "full_name": "Alessio Costacurta",
     "birth_date": "24-04-1966",
-    "birthplace": "Orago, Italy",
+
     "position": "Defender",
     "team": "Retired",
     "nationality": "Italy",
@@ -631,7 +631,7 @@
    "img": "/football/img/players/Coco.webp",
    "full_name": "Francesco Coco",
    "birth_date": "08-01-1977",
-   "birthplace": "Paterson, New Jersey, USA",
+
    "position": "Left-back",
    "team": "Retired",
    "nationality": "Italy",
@@ -644,7 +644,7 @@
    "img": "/football/img/players/Redondo.webp",
    "full_name": "Fernando Redondo",
    "birth_date": "06-07-1969",
-   "birthplace": "Adrogué, Argentina",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Argentina",
@@ -657,7 +657,7 @@
    "img": "/football/img/players/Ljungberg.webp",
    "full_name": "Freddie Ljungberg",
    "birth_date": "16-04-1977",
-   "birthplace": "Vittsjö, Sweden",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "Sweden",
@@ -670,7 +670,7 @@
    "img": "/football/img/players/Rui Costa.webp",
    "full_name": "Rui Costa",
    "birth_date": "29-03-1972",
-   "birthplace": "Amadora, Portugal",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Portugal",
@@ -683,7 +683,7 @@
    "img": "/football/img/players/Giggs.webp",
    "full_name": "Ryan Giggs",
    "birth_date": "29-11-1973",
-   "birthplace": "Cardiff, Wales",
+
    "position": "Left Winger",
    "team": "Retired",
    "nationality": "Wales",
@@ -696,7 +696,7 @@
    "img": "/football/img/players/Mendieta.webp",
    "full_name": "Gaizka Mendieta",
    "birth_date": "27-03-1974",
-   "birthplace": "Bilbao, Spain",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "Spain",
@@ -709,7 +709,7 @@
    "img": "/football/img/players/Okocha.webp",
    "full_name": "Jay-Jay Okocha",
    "birth_date": "14-08-1973",
-   "birthplace": "Enugu, Nigeria",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Nigeria",
@@ -722,7 +722,7 @@
    "img": "/football/img/players/Batistuta.webp",
    "full_name": "Gabriel Batistuta",
    "birth_date": "01-02-1969",
-   "birthplace": "Avellaneda, Argentina",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Argentina",
@@ -735,7 +735,7 @@
    "img": "/football/img/players/dida.webp",
    "full_name": "Dida",
    "birth_date": "07-10-1973",
-   "birthplace": "Irará, Brazil",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Brazil",
@@ -748,7 +748,7 @@
    "img": "/football/img/players/Klose.webp",
    "full_name": "Miroslav Klose",
    "birth_date": "09-06-1978",
-   "birthplace": "Opole, Poland",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Germany",
@@ -761,7 +761,7 @@
    "img": "/football/img/players/Adriano.webp",
    "full_name": "Adriano Leite Ribeiro",
    "birth_date": "17-02-1982",
-   "birthplace": "Rio de Janeiro, Brazil",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Brazil",
@@ -774,7 +774,7 @@
    "img": "/football/img/players/Toldo.webp",
    "full_name": "Francesco Toldo",
    "birth_date": "02-12-1971",
-   "birthplace": "Padua, Italy",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Italy",
@@ -787,7 +787,7 @@
    "img": "/football/img/players/Desailly.webp",
    "full_name": "Marcel Desailly",
    "birth_date": "07-09-1968",
-   "birthplace": "Accra, Ghana",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "France",
@@ -800,7 +800,7 @@
    "img": "/football/img/players/Owen.webp",
    "full_name": "Michael Owen",
    "birth_date": "14-12-1979",
-   "birthplace": "Chester, England",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "England",
@@ -813,7 +813,7 @@
    "img": "/football/img/players/van der Sar.webp",
    "full_name": "Edwin van der Sar",
    "birth_date": "29-10-1970",
-   "birthplace": "Voorhout, Netherlands",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Netherlands",
@@ -826,7 +826,7 @@
    "img": "/football/img/players/A Mutu.webp",
    "full_name": "Adrian Mutu",
    "birth_date": "08-01-1979",
-   "birthplace": "Călinești, Romania",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Romania",
@@ -839,7 +839,7 @@
    "img": "/football/img/players/Vieri.webp",
    "full_name": "Christian Vieri",
    "birth_date": "12-07-1973",
-   "birthplace": "Bologna, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -852,7 +852,7 @@
    "img": "/football/img/players/Zola.webp",
    "full_name": "Gianfranco Zola",
    "birth_date": "05-07-1966",
-   "birthplace": "Oliena, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -866,7 +866,7 @@
    "img": "/football/img/players/Valeron.webp",
    "full_name": "Juan Carlos Valerón",
    "birth_date": "17-06-1975",
-   "birthplace": "Arguineguín, Spain",
+
    "position": "Attackin Midfielder",
    "team": "Retired",
    "nationality": "Spain",
@@ -880,7 +880,7 @@
    "img": "/football/img/players/Vicente.webp",
    "full_name": "Vicente Rodríguez",
    "birth_date": "16-07-1981",
-   "birthplace": "Valencia, Spain",
+
    "position": "Left Winger",
    "team": "Retired",
    "nationality": "Spain",
@@ -894,7 +894,7 @@
    "img": "/football/img/players/Veron.webp",
    "full_name": "Juan Sebastián Verón",
    "birth_date": "09-03-1975",
-   "birthplace": "La Plata, Argentina",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Argentina",
@@ -908,7 +908,7 @@
    "img": "/football/img/players/C Lopez.webp",
    "full_name": "Claudio López",
    "birth_date": "17-07-1974",
-   "birthplace": "Río Tercero, Argentina",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Argentina",
@@ -922,7 +922,7 @@
    "img": "/football/img/players/Miccoli.webp",
    "full_name": "Fabrizio Miccoli",
    "birth_date": "27-06-1979",
-   "birthplace": "Nardò, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -935,7 +935,7 @@
    "img": "/football/img/players/H Nakata.webp",
    "full_name": "Hidetoshi Nakata",
    "birth_date": "22-01-1977",
-   "birthplace": "Yamanashi, Japan",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Japan",
@@ -949,7 +949,7 @@
    "img": "/football/img/players/Gattuso.webp",
    "full_name": "Gennaro Gattuso",
    "birth_date": "09-01-1978",
-   "birthplace": "Corigliano Calabro, Italy",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Italy",
@@ -963,7 +963,7 @@
    "img": "/football/img/players/Tacchinardi.webp",
    "full_name": "Alessio Tacchinardi",
    "birth_date": "23-07-1975",
-   "birthplace": "Crema, Italy",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Italy",
@@ -977,7 +977,7 @@
    "img": "/football/img/players/Montella.webp",
    "full_name": "Vincenzo Montella",
    "birth_date": "18-06-1974",
-   "birthplace": "Pomigliano d'Arco, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -990,7 +990,7 @@
   "img": "/football/img/players/trezeguet.webp",
   "full_name": "David Sergio Trezeguet",
   "birth_date": "15-10-1977",
-  "birthplace": "Rouen, France",
+
   "position": "Striker",
   "team": "Retired",
   "nationality": "France",
@@ -1003,7 +1003,7 @@
     "img": "/football/img/players/Di Canio.webp",
     "full_name": "Paolo Di Canio",
     "birth_date": "09-07-1968",
-    "birthplace": "Rome, Italy",
+
     "position": "Forward",
     "team": "Retired",
     "nationality": "Italy",
@@ -1016,7 +1016,7 @@
     "img": "/football/img/players/Pires.webp",
     "full_name": "Robert Emmanuel Pires",
     "birth_date": "29-10-1973",
-    "birthplace": "Reims, France",
+
     "position": "Left Winger",
     "team": "Retired",
     "nationality": "France",
@@ -1029,7 +1029,7 @@
     "img": "/football/img/players/T Motta.webp",
     "full_name": "Thiago Motta Santana",
     "birth_date": "28-08-1982",
-    "birthplace": "São Bernardo do Campo, Brazil",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "Italy",
@@ -1042,7 +1042,7 @@
       "img": "/football/img/players/Cambiasso.webp",
       "full_name": "Esteban Matías Cambiasso",
       "birth_date": "18-08-1980",
-      "birthplace": "Buenos Aires, Argentina",
+
       "position": "Defensive Midfielder",
       "team": "Retired",
       "nationality": "Argentina",
@@ -1055,7 +1055,7 @@
       "img": "/football/img/players/Samuel.webp",
       "full_name": "Walter Adrián Samuel",
       "birth_date": "23-03-1978",
-      "birthplace": "Buenos Aires, Argentina",
+
       "position": "Defender",
       "team": "Retired",
       "nationality": "Argentina",
@@ -1068,7 +1068,7 @@
    "img": "/football/img/players/Cordoba.webp",
    "full_name": "Iván Ramiro Córdoba",
    "birth_date": "11-08-1976",
-   "birthplace": "Rionegro, Colombia",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Colombia",
@@ -1081,7 +1081,7 @@
    "img": "/football/img/players/Joaquin.webp",
    "full_name": "Joaquín Sánchez Rodríguez",
    "birth_date": "21-07-1981",
-   "birthplace": "El Puerto de Santa María, Spain",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "Spain",
@@ -1094,7 +1094,7 @@
    "img": "/football/img/players/Aimar.webp",
    "full_name": "Pablo César Aimar",
    "birth_date": "03-11-1979",
-   "birthplace": "Río Cuarto, Argentina",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Argentina",
@@ -1107,7 +1107,7 @@
    "img": "/football/img/players/Chivu.webp",
    "full_name": "Cristian Eugen Chivu",
    "birth_date": "26-10-1980",
-   "birthplace": "Reșița, Romania",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Romania",
@@ -1120,7 +1120,7 @@
    "img": "/football/img/players/Sorin.webp",
    "full_name": "Juan Pablo Sorín",
    "birth_date": "05-05-1976",
-   "birthplace": "Buenos Aires, Argentina",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Argentina",
@@ -1133,7 +1133,7 @@
    "img": "/football/img/players/van Bommel.webp",
    "full_name": "Mark Peter Gertruda Andreas van Bommel",
    "birth_date": "22-04-1977",
-   "birthplace": "Maasbracht, Netherlands",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Netherlands",
@@ -1146,7 +1146,7 @@
    "img": "/football/img/players/Makaay.webp",
    "full_name": "Roy Rudolph Makaay",
    "birth_date": "09-03-1975",
-   "birthplace": "Wijchen, Netherlands",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Netherlands",
@@ -1159,7 +1159,7 @@
    "img": "/football/img/players/Santa Cruz.webp",
    "full_name": "Roque Luis Santa Cruz Cantero",
    "birth_date": "16-08-1981",
-   "birthplace": "Asunción, Paraguay",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Paraguay",
@@ -1172,7 +1172,7 @@
    "img": "/football/img/players/Reiziger.webp",
    "full_name": "Michael John Reiziger",
    "birth_date": "03-05-1973",
-   "birthplace": "Amsterdam, Netherlands",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Netherlands",
@@ -1185,7 +1185,7 @@
    "img": "/football/img/players/Mido.webp",
    "full_name": "Ahmed Hossam Hussein Abdelhamid",
    "birth_date": "23-02-1983",
-   "birthplace": "Cairo, Egypt",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Egypt",
@@ -1198,7 +1198,7 @@
    "img": "/football/img/players/kanu.webp",
    "full_name": "Nwankwo Kanu",
    "birth_date": "01-08-1976",
-   "birthplace": "Owerri, Nigeria",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Nigeria",
@@ -1211,7 +1211,7 @@
    "img": "/football/img/players/X Alonso.webp",
    "full_name": "Xabier Alonso Olano",
    "birth_date": "25-11-1981",
-   "birthplace": "Tolosa, Spain",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Spain",
@@ -1224,7 +1224,7 @@
    "img": "/football/img/players/Foe.webp",
    "full_name": "Marc-Vivien Foé",
    "birth_date": "01-05-1975",
-   "birthplace": "Yaoundé, Cameroon",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Cameroon",
@@ -1237,7 +1237,7 @@
    "img": "/football/img/players/Bakayoko.png",
    "full_name": "Ibrahima Bakayoko",
    "birth_date": "31-12-1976",
-   "birthplace": "Abidjan, Ivory Coast",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Ivory Coast",
@@ -1250,7 +1250,7 @@
    "img": "/football/img/players/B Kalou.webp",
    "full_name": "Bonaventure Kalou",
    "birth_date": "12-01-1978",
-   "birthplace": "Oumé, Ivory Coast",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Ivory Coast",
@@ -1263,7 +1263,7 @@
    "img": "/football/img/players/S Kalou.webp",
    "full_name": "Salomon Armand Magloire Kalou",
    "birth_date": "05-08-1985",
-   "birthplace": "Oumé, Ivory Coast",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Ivory Coast",
@@ -1276,7 +1276,7 @@
    "img": "/football/img/players/Adebayor.webp",
    "full_name": "Sheyi Emmanuel Adebayor",
    "birth_date": "26-02-1984",
-   "birthplace": "Lomé, Togo",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Togo",
@@ -1289,7 +1289,7 @@
    "img": "/football/img/players/Mikel.webp",
    "full_name": "John Michael Nchekwube Obinna",
    "birth_date": "22-04-1987",
-   "birthplace": "Jos, Nigeria",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Nigeria",
@@ -1302,7 +1302,7 @@
    "img": "/football/img/players/O Martins.webp",
    "full_name": "Obafemi Akinwunmi Martins",
    "birth_date": "28-10-1984",
-   "birthplace": "Lagos, Nigeria",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Nigeria",
@@ -1315,7 +1315,7 @@
   "img": "/football/img/players/P Neville.webp",
   "full_name": "Philip John Neville",
   "birth_date": "21-01-1977",
-  "birthplace": "Bury, England",
+
   "position": "Defender",
   "team": "Manchester United",
   "nationality": "England",
@@ -1328,7 +1328,7 @@
    "img": "/football/img/players/Yobo.webp",
    "full_name": "Joseph Michael Yobo",
    "birth_date": "06-09-1980",
-   "birthplace": "Kono, Nigeria",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Nigeria",
@@ -1341,7 +1341,7 @@
    "img": "/football/img/players/McManaman.webp",
    "full_name": "Steve McManaman",
    "birth_date": "11-02-1972",
-   "birthplace": "Kirkdale, England",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "England",
@@ -1354,7 +1354,7 @@
    "img": "/football/img/players/P Robinson.webp",
    "full_name": "Paul William Robinson",
    "birth_date": "15-10-1979",
-   "birthplace": "Leeds, England",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "England",
@@ -1367,7 +1367,7 @@
    "img": "/football/img/players/Heskey.webp",
    "full_name": "Emile William Ivanhoe Heskey",
    "birth_date": "11-01-1978",
-   "birthplace": "Leicester, England",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "England",
@@ -1380,7 +1380,7 @@
    "img": "/football/img/players/Dyer.webp",
    "full_name": "Kieron Courtney Dyer",
    "birth_date": "29-12-1978",
-   "birthplace": "Ipswich, England",
+
    "position": "Cenrtal Midfielder",
    "team": "Retired",
    "nationality": "England",
@@ -1393,7 +1393,7 @@
    "img": "/football/img/players/Fowler.webp",
    "full_name": "Robbie Fowler",
    "birth_date": "09-04-1975",
-   "birthplace": "Toxteth, England",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "England",
@@ -1406,7 +1406,7 @@
    "img": "/football/img/players/G Neville.webp",
    "full_name": "Gary Alexander Neville",
    "birth_date": "18-02-1975",
-   "birthplace": "Bury, England",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "England",
@@ -1419,7 +1419,7 @@
    "img": "/football/img/players/W Brown.webp",
    "full_name": "Wesley Michael Brown",
    "birth_date": "13-10-1979",
-   "birthplace": "Manchester, England",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "England",
@@ -1432,7 +1432,7 @@
    "img": "/football/img/players/Scholes.webp",
    "full_name": "Paul Scholes",
    "birth_date": "16-11-1974",
-   "birthplace": "Salford, England",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "England",
@@ -1445,7 +1445,7 @@
    "img": "/football/img/players/W Bridge.webp",
    "full_name": "Wayne Michael Bridge",
    "birth_date": "05-08-1980",
-   "birthplace": "Southampton, England",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "England",
@@ -1458,7 +1458,7 @@
    "img": "/football/img/players/G Speed.webp",
    "full_name": "Gary Andrew Speed",
    "birth_date": "08-09-1969",
-   "birthplace": "Mancot, Wales",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Wales",
@@ -1471,7 +1471,7 @@
    "img": "/football/img/players/Viduka.webp",
    "full_name": "Mark Viduka",
    "birth_date": "09-10-1975",
-   "birthplace": "Melbourne, Australia",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Australia",
@@ -1484,7 +1484,7 @@
    "img": "/football/img/players/A Smith.webp",
    "full_name": "Alan Smith",
    "birth_date": "28-10-1980",
-   "birthplace": "Leeds, England",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "England",
@@ -1497,7 +1497,7 @@
    "img": "/football/img/players/Solano.webp",
    "full_name": "Nolberto Albino Solano Todco",
    "birth_date": "12-12-1974",
-   "birthplace": "Callao, Peru",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "Peru",
@@ -1510,7 +1510,7 @@
    "img": "/football/img/players/C Bellamy.webp",
    "full_name": "Craig Douglas Bellamy",
    "birth_date": "13-07-1979",
-   "birthplace": "Cardiff, Wales",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Wales",
@@ -1523,7 +1523,7 @@
    "img": "/football/img/players/Given.webp",
    "full_name": "Shay John Given",
    "birth_date": "20-04-1976",
-   "birthplace": "Lifford, Ireland",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Ireland",
@@ -1536,7 +1536,7 @@
    "img": "/football/img/players/Giuly.webp",
    "full_name": "Ludovic Giuly",
    "birth_date": "10-07-1976",
-   "birthplace": "Lyon, France",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "France",
@@ -1549,7 +1549,7 @@
    "img": "/football/img/players/Marchena.webp",
    "full_name": "Carlos Marchena López",
    "birth_date": "31-07-1979",
-   "birthplace": "Las Cabezas de San Juan, Spain",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Spain",
@@ -1562,7 +1562,7 @@
    "img": "/football/img/players/Tristan.webp",
    "full_name": "Diego Tristán Herrera",
    "birth_date": "05-01-1976",
-   "birthplace": "La Algaba, Spain",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Spain",
@@ -1575,7 +1575,7 @@
    "img": "/football/img/players/Juninho.webp",
    "full_name": "Antônio Augusto Ribeiro Reis Júnior",
    "birth_date": "30-01-1975",
-   "birthplace": "Recife, Brazil",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Brazil",
@@ -1588,7 +1588,7 @@
    "img": "/football/img/players/Solari.webp",
    "full_name": "Santiago Hernán Solari Poggio",
    "birth_date": "17-10-1976",
-   "birthplace": "Rosario, Argentina",
+
    "position": "Left Winger",
    "team": "Retired",
    "nationality": "Argentina",
@@ -1601,7 +1601,7 @@
    "img": "/football/img/players/Saviola.webp",
    "full_name": "Javier Pedro Saviola Fernández",
    "birth_date": "11-12-1981",
-   "birthplace": "Buenos Aires, Argentina",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Argentina",
@@ -1614,7 +1614,7 @@
    "img": "/football/img/players/Salas.webp",
    "full_name": "Marcelo Alfonso Salas Espinoza",
    "birth_date": "24-12-1974",
-   "birthplace": "Temuco, Chile",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Chile",
@@ -1627,7 +1627,7 @@
    "img": "/football/img/players/Dudek.webp",
    "full_name": "Jerzy Henryk Dudek",
    "birth_date": "23-03-1973",
-   "birthplace": "Rybnik, Poland",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Poland",
@@ -1640,7 +1640,7 @@
    "img": "/football/img/players/Smicer.webp",
    "full_name": "Vladimír Smicer",
    "birth_date": "24-05-1973",
-   "birthplace": "Děčín, Czechoslovakia",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Czech Republic",
@@ -1653,7 +1653,7 @@
    "img": "/football/img/players/Baros.webp",
    "full_name": "Milan Baroš",
    "birth_date": "28-10-1981",
-   "birthplace": "Valašské Meziříčí, Czechoslovakia",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Czech Republic",
@@ -1666,7 +1666,7 @@
    "img": "/football/img/players/Hyypia.webp",
    "full_name": "Sami Tuomas Hyypiä",
    "birth_date": "07-10-1973",
-   "birthplace": "Porvoo, Finland",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Finland",
@@ -1679,7 +1679,7 @@
    "img": "/football/img/players/Kewell.webp",
    "full_name": "Harry Kewell",
    "birth_date": "22-09-1978",
-   "birthplace": "Sydney, Australia",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Australia",
@@ -1692,7 +1692,7 @@
    "img": "/football/img/players/D Cisse.webp",
    "full_name": "Djibril Cissé",
    "birth_date": "12-08-1981",
-   "birthplace": "Arles, France",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "France",
@@ -1705,7 +1705,7 @@
    "img": "/football/img/players/Hamann.webp",
    "full_name": "Dietmar Johann Wolfgang Hamann",
    "birth_date": "27-08-1973",
-   "birthplace": "Waldsassen, West Germany",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Germany",
@@ -1718,7 +1718,7 @@
    "img": "/football/img/players/Podolski.webp",
    "full_name": "Lukas Josef Podolski",
    "birth_date": "04-06-1985",
-   "birthplace": "Gliwice, Poland",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Germany",
@@ -1731,7 +1731,7 @@
    "img": "/football/img/players/T Cahill.webp",
    "full_name": "Timothy Filiga Cahill",
    "birth_date": "06-12-1979",
-   "birthplace": "Sydney, Australia",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Australia",
@@ -1744,7 +1744,7 @@
    "img": "/football/img/players/Carragher.webp",
    "full_name": "James Lee Duncan Carragher",
    "birth_date": "28-01-1978",
-   "birthplace": "Bootle, England",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "England",
@@ -1757,7 +1757,7 @@
    "img": "/football/img/players/Carrick.webp",
    "full_name": "Michael Carrick",
    "birth_date": "28-07-1981",
-   "birthplace": "Wallsend, England",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "England",
@@ -1770,7 +1770,7 @@
    "img": "/football/img/players/Anelka.webp",
    "full_name": "Nicolas Sébastien Anelka",
    "birth_date": "14-03-1979",
-   "birthplace": "Le Chesnay, France",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "France",
@@ -1783,7 +1783,7 @@
    "img": "/football/img/players/Kanoute.webp",
    "full_name": "Frédéric Oumar Kanouté",
    "birth_date": "02-09-1977",
-   "birthplace": "Sainte-Foy-lès-Lyon, France",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Mali",
@@ -1796,7 +1796,7 @@
    "img": "/football/img/players/R Keane.webp",
    "full_name": "Robert David Keane",
    "birth_date": "08-07-1980",
-   "birthplace": "Dublin, Ireland",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Ireland",
@@ -1809,7 +1809,7 @@
    "img": "/football/img/players/G Silva.webp",
    "full_name": "Gilberto Aparecido da Silva",
    "birth_date": "07-10-1976",
-   "birthplace": "Lagoa da Prata, Brazil",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Brazil",
@@ -1822,7 +1822,7 @@
    "img": "/football/img/players/Cudicini.webp",
    "full_name": "Carlo Cudicini",
    "birth_date": "06-09-1973",
-   "birthplace": "Milan, Italy",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Italy",
@@ -1835,7 +1835,7 @@
    "img": "/football/img/players/Gallas.webp",
    "full_name": "William Gallas",
    "birth_date": "17-08-1977",
-   "birthplace": "Asnières-sur-Seine, France",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "France",
@@ -1848,7 +1848,7 @@
    "img": "/football/img/players/Crouch.webp",
    "full_name": "Peter James Crouch",
    "birth_date": "30-01-1981",
-   "birthplace": "Macclesfield, England",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "England",
@@ -1861,7 +1861,7 @@
    "img": "/football/img/players/Rosicky.webp",
    "full_name": "Tomáš Rosický",
    "birth_date": "04-10-1980",
-   "birthplace": "Praha, Czechoslovakia",
+
    "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Czech Republic",
@@ -1874,7 +1874,7 @@
    "img": "/football/img/players/L Toni.webp",
    "full_name": "Luca Toni",
    "birth_date": "26-05-1977",
-   "birthplace": "Pavullo nel Frignano, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -1887,7 +1887,7 @@
    "img": "/football/img/players/Barzagli.webp",
    "full_name": "Andrea Barzagli",
    "birth_date": "08-05-1981",
-   "birthplace": "Fiesole, Italy",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Italy",
@@ -1900,7 +1900,7 @@
    "img": "/football/img/players/Oddo.webp",
    "full_name": "Massimo Oddo",
    "birth_date": "14-06-1976",
-   "birthplace": "Città Sant'Angelo, Italy",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Italy",
@@ -1913,7 +1913,7 @@
    "img": "/football/img/players/Grosso.webp",
    "full_name": "Fabio Grosso",
    "birth_date": "28-11-1977",
-   "birthplace": "Rome, Italy",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Italy",
@@ -1926,7 +1926,7 @@
    "img": "/football/img/players/Materazzi.webp",
    "full_name": "Marco Materazzi",
    "birth_date": "19-08-1973",
-   "birthplace": "Lecce, Italy",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Italy",
@@ -1939,7 +1939,7 @@
    "img": "/football/img/players/Perrotta.webp",
    "full_name": "Simone Perrotta",
    "birth_date": "17-09-1977",
-   "birthplace": "Ascoli Piceno, Italy",
+
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "Italy",
@@ -1952,7 +1952,7 @@
    "img": "/football/img/players/Quagliarella.webp",
    "full_name": "Fabio Quagliarella",
    "birth_date": "31-01-1983",
-   "birthplace": "Castellammare di Stabia, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -1965,7 +1965,7 @@
    "img": "/football/img/players/Peruzzi.webp",
    "full_name": "Angelo Peruzzi",
    "birth_date": "16-02-1970",
-   "birthplace": "Blera, Italy",
+
    "position": "Goalkeeper",
    "team": "Retired",
    "nationality": "Italy",
@@ -1978,7 +1978,7 @@
    "img": "/football/img/players/Delvecchio.webp",
    "full_name": "Marco Delvecchio",
    "birth_date": "09-04-1973",
-   "birthplace": "Milan, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -1991,7 +1991,7 @@
    "img": "/football/img/players/Iaquinta.webp",
    "full_name": "Vincenzo Iaquinta",
    "birth_date": "21-11-1979",
-   "birthplace": "Cutro, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -2004,7 +2004,7 @@
    "img": "/football/img/players/S Inzaghi.webp",
    "full_name": "Simone Inzaghi",
    "birth_date": "05-04-1976",
-   "birthplace": "Piacenza, Italy",
+
    "position": "Forward",
    "team": "Retired",
    "nationality": "Italy",
@@ -2017,7 +2017,7 @@
    "img": "/football/img/players/Camoranesi.webp",
    "full_name": "Mauro Germán Camoranesi",
    "birth_date": "04-10-1976",
-   "birthplace": "Tandil, Argentina",
+
    "position": "Right Winger",
    "team": "Retired",
    "nationality": "Argentina",
@@ -2030,7 +2030,7 @@
    "img": "/football/img/players/Panucci.webp",
    "full_name": "Christian Panucci",
    "birth_date": "12-04-1973",
-   "birthplace": "Savona, Italy",
+
    "position": "Defender",
    "team": "Retired",
    "nationality": "Italy",
@@ -2043,7 +2043,7 @@
    "img": "/football/img/players/Pessotto.webp",
    "full_name": "Gianluca Pessotto",
    "birth_date": "11-08-1970",
-   "birthplace": "Latisana, Italy",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Italy",
@@ -2056,7 +2056,7 @@
    "img": "/football/img/players/Di Livio.webp",
    "full_name": "Angelo Di Livio",
    "birth_date": "26-07-1966",
-   "birthplace": "Rome, Italy",
+
    "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Italy",
@@ -2069,9 +2069,9 @@
    "img": "/football/img/players/Tudor.webp",
    "full_name": "Igor Tudor",
    "birth_date": "16-04-1978",
-   "birthplace": "Split, Yugoslavia",
+
    "position": "Defender",
-   "team": "Retired",
+   "team": "Juventus (Retired)",
    "nationality": "Croatia",
    "height": "6'2\"",
    "description": "Croatian defender with strength and aerial ability."
@@ -2082,9 +2082,9 @@
    "img": "/football/img/players/Jankulovski.webp",
    "full_name": "Marek Jankulovski",
    "birth_date": "09-05-1977",
-   "birthplace": "Ostrava, Czechoslovakia",
+
    "position": "Defender",
-   "team": "Retired",
+   "team": "AC Milan (Retired)",
    "nationality": "Czech Republic",
    "height": "6'0\"",
    "description": "Czech defender known for his versatility and attacking runs."
@@ -2095,9 +2095,9 @@
   "img": "/football/img/players/F Inzaghi.webp",
   "full_name": "Filippo Giovanni Inzaghi",
   "birth_date": "09-08-1973",
-  "birthplace": "Piacenza, Italy",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "AC Milan (Retired)",
   "nationality": "Italy",
   "height": "6'2\"",
   "description": "Prolific Italian forward, known for his goal-scoring prowess."
@@ -2108,9 +2108,9 @@
     "img": "/football/img/players/Deco.webp",
     "full_name": "Anderson Luís de Souza",
     "birth_date": "27-08-1977",
-    "birthplace": "São Bernardo do Campo, Brazil",
+
     "position": "Attacking Midfielder",
-    "team": "Retired",
+    "team": "Barcelona (Retired)",
     "nationality": "Portugal",
     "height": "5'8\"",
     "description": "Creative playmaker and two-time UEFA Champions League winner."
@@ -2121,9 +2121,9 @@
     "img": "/football/img/players/Forlan.webp",
     "full_name": "Diego Forlán Corazzo",
     "birth_date": "19-05-1979",
-    "birthplace": "Montevideo, Uruguay",
+
     "position": "Forward",
-    "team": "Retired",
+    "team": "Atletico Madrid (Retired)",
     "nationality": "Uruguay",
     "height": "5'11\"",
     "description": "Uruguayan football legend and Golden Shoe winner."
@@ -2134,9 +2134,9 @@
     "img": "/football/img/players/Tevez.webp",
     "full_name": "Carlos Alberto Tevez",
     "birth_date": "05-02-1984",
-    "birthplace": "Buenos Aires, Argentina",
+
     "position": "Forward",
-    "team": "Retired",
+    "team": "Mancheste City (Retired)",
     "nationality": "Argentina",
     "height": "5'8\"",
     "description": "Skilled striker known for his work rate and goals."
@@ -2147,7 +2147,7 @@
     "img": "/football/img/players/R Firmino.webp",
     "full_name": "Roberto Firmino Barbosa de Oliveira",
     "birth_date": "02-10-1991",
-    "birthplace": "Maceió, Brazil",
+
     "position": "Forward",
     "team": "Al-Ahli",
     "nationality": "Brazil",
@@ -2160,7 +2160,7 @@
     "img": "/football/img/players/Isco.webp",
     "full_name": "Francisco Román Alarcón Suárez",
     "birth_date": "21-04-1992",
-    "birthplace": "Benalmádena, Spain",
+
     "position": "Attacking Midfielder",
     "team": "Real Betis",
     "nationality": "Spain",
@@ -2173,7 +2173,7 @@
     "img": "/football/img/players/Vidal.webp",
     "full_name": "Arturo Erasmo Vidal Pardo",
     "birth_date": "22-05-1987",
-    "birthplace": "Santiago, Chile",
+
     "position": "Central Midfielder",
     "team": "Athletico Paranaense",
     "nationality": "Chile",
@@ -2186,7 +2186,7 @@
     "img": "/football/img/players/Parejo.webp",
     "full_name": "Daniel Parejo Muñoz",
     "birth_date": "16-04-1989",
-    "birthplace": "Coslada, Spain",
+
     "position": "Central Midfielder",
     "team": "Villarreal CF",
     "nationality": "Spain",
@@ -2199,7 +2199,7 @@
     "img": "/football/img/players/J Rodriguez.webp",
     "full_name": "James David Rodríguez Rubio",
     "birth_date": "12-07-1991",
-    "birthplace": "Cúcuta, Colombia",
+
     "position": "Attacking Midfielder",
     "team": "Sao Paulo",
     "nationality": "Colombia",
@@ -2212,7 +2212,7 @@
     "img": "/football/img/players/Werner.webp",
     "full_name": "Timo Werner",
     "birth_date": "06-03-1996",
-    "birthplace": "Stuttgart, Germany",
+
     "position": "Forward",
     "team": "RB Leipzig",
     "nationality": "Germany",
@@ -2225,7 +2225,7 @@
     "img": "/football/img/players/Gnabry.webp",
     "full_name": "Serge David Gnabry",
     "birth_date": "14-07-1995",
-    "birthplace": "Stuttgart, Germany",
+
     "position": "Forward",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -2238,7 +2238,7 @@
     "img": "/football/img/players/Ziyech.webp",
     "full_name": "Hakim Ziyech",
     "birth_date": "19-03-1993",
-    "birthplace": "Dronten, Netherlands",
+
     "position": "Right Winger",
     "team": "Galatasaray",
     "nationality": "Netherlands",
@@ -2251,7 +2251,7 @@
     "img": "/football/img/players/Lemar.webp",
     "full_name": "Thomas Lemar",
     "birth_date": "12-11-1995",
-    "birthplace": "Baie-Mahault, Guadeloupe",
+
     "position": "Left Winger",
     "team": "Atlético Madrid",
     "nationality": "France",
@@ -2264,7 +2264,7 @@
     "img": "/football/img/players/HM Son.webp",
     "full_name": "Son Heung-min",
     "birth_date": "08-07-1992",
-    "birthplace": "Chuncheon, South Korea",
+
     "position": "Forward",
     "team": "Tottenham Hotspur",
     "nationality": "South Korea",
@@ -2277,7 +2277,7 @@
     "img": "/football/img/players/Mahrez.webp",
     "full_name": "Riyad Karim Mahrez",
     "birth_date": "21-02-1991",
-    "birthplace": "Sarcelles, France",
+
     "position": "Forward",
     "team": "Al-Ahli",
     "nationality": "Algeria",
@@ -2290,9 +2290,9 @@
   "img": "/football/img/players/Rivaldo.webp",
   "full_name": "Rivaldo Vítor Borba Ferreira",
   "birth_date": "19-04-1972",
-  "birthplace": "Recife, Brazil",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Barcelona (Retired)",
   "nationality": "Brazil",
   "height": "6'1\"",
   "description": "Legendary Brazilian forward with incredible skill and goals."
@@ -2303,9 +2303,9 @@
   "img": "/football/img/players/Barthez.webp",
   "full_name": "Fabien Alain Barthez",
   "birth_date": "28-06-1971",
-  "birthplace": "Lavelanet, France",
+
   "position": "Goalkeeper",
-  "team": "Retired",
+  "team": "Manchester United (Retired)",
   "nationality": "France",
   "height": "6'0\"",
   "description": "Renowned French goalkeeper, a World Cup champion."
@@ -2316,9 +2316,9 @@
   "img": "/football/img/players/Denilson.webp",
   "full_name": "Denilson de Oliveira Araújo",
   "birth_date": "24-08-1977",
-  "birthplace": "Diadema, Brazil",
+
   "position": "Left Winger",
-  "team": "Retired",
+  "team": "Real Betis (Retired)",
   "nationality": "Brazil",
   "height": "5'11\"",
   "description": "Skillful Brazilian midfielder known for his dribbling abilities."
@@ -2329,7 +2329,7 @@
   "img": "/football/img/players/A Pele.webp",
   "full_name": "Abedi Ayew Pele",
   "birth_date": "05-11-1964",
-  "birthplace": "Kumasi, Ghana",
+
   "position": "Atttacking Midfielder",
   "team": "Retired",
   "nationality": "Ghana",
@@ -2342,7 +2342,7 @@
   "img": "/football/img/players/Vialli.webp",
   "full_name": "Gianluca Vialli",
   "birth_date": "09-07-1964",
-  "birthplace": "Cremona, Italy",
+
   "position": "Forward",
   "team": "Retired",
   "nationality": "Italy",
@@ -2355,9 +2355,9 @@
   "img": "/football/img/players/Schmeichel.webp",
   "full_name": "Peter Bolesław Schmeichel",
   "birth_date": "18-11-1963",
-  "birthplace": "Glamsbjerg, Denmark",
+
   "position": "Goalkeeper",
-  "team": "Retired",
+  "team": "Manchester United (Retired)",
   "nationality": "Denmark",
   "height": "6'3\"",
   "description": "Legendary Danish goalkeeper, known for his time at Manchester United."
@@ -2368,9 +2368,9 @@
   "img": "/football/img/players/Bergkamp.webp",
   "full_name": "Dennis Nicolaas Maria Bergkamp",
   "birth_date": "10-05-1969",
-  "birthplace": "Amsterdam, Netherlands",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Arsenal (Retired)",
   "nationality": "Netherlands",
   "height": "6'2\"",
   "description": "Dutch football legend known for his creativity and skill."
@@ -2381,9 +2381,9 @@
   "img": "/football/img/players/D Villa.webp",
   "full_name": "David Villa Sánchez",
   "birth_date": "03-12-1981",
-  "birthplace": "Langreo, Spain",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Barcelona (Retired)",
   "nationality": "Spain",
   "height": "5'9\"",
   "description": "Spanish striker and World Cup champion with a prolific career."
@@ -2395,7 +2395,7 @@
   "img": "/football/img/players/Klinsmann.webp",
   "full_name": "Jürgen Klinsmann",
   "birth_date": "30-07-1964",
-  "birthplace": "Göppingen, West Germany",
+
   "position": "Forward",
   "team": "Retired",
   "nationality": "Germany",
@@ -2408,9 +2408,9 @@
   "img": "/football/img/players/Lineker.webp",
   "full_name": "Gary Winston Lineker",
   "birth_date": "30-11-1960",
-  "birthplace": "Leicester, England",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Barcelona (Retired)",
   "nationality": "England",
   "height": "5'10\"",
   "description": "English football icon and top goal-scorer in the 1986 World Cup."
@@ -2421,9 +2421,9 @@
   "img": "/football/img/players/Shearer.webp",
   "full_name": "Alan Shearer",
   "birth_date": "13-08-1970",
-  "birthplace": "Gosforth, England",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Newcastle (Retired)",
   "nationality": "England",
   "height": "6'0\"",
   "description": "One of England's greatest strikers and Premier League top scorer."
@@ -2434,9 +2434,9 @@
   "img": "/football/img/players/J Cesar.webp",
   "full_name": "Julio Cesar Soares Espindola",
   "birth_date": "03-09-1979",
-  "birthplace": "Duque de Caxias, Brazil",
+
   "position": "Goalkeeper",
-  "team": "Retired",
+  "team": "Inter Milan (Retired)",
   "nationality": "Brazil",
   "height": "6'4\"",
   "description": "Brazilian goalkeeper known for his excellence in shot-stopping."
@@ -2447,9 +2447,9 @@
   "img": "/football/img/players/Bebeto.webp",
   "full_name": "José Roberto Gama de Oliveira",
   "birth_date": "16-02-1964",
-  "birthplace": "Salvador, Brazil",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Deportivo (Retired)",
   "nationality": "Brazil",
   "height": "5'8\"",
   "description": "Brazilian football legend, known for his goal-scoring abilities."
@@ -2460,9 +2460,9 @@
   "img": "/football/img/players/Dunga.webp",
   "full_name": "Carlos Caetano Bledorn Verri",
   "birth_date": "31-10-1963",
-  "birthplace": "Ijuí, Brazil",
+
   "position": "Defensive Midfielder",
-  "team": "Retired",
+  "team": "Fiorentina (Retired)",
   "nationality": "Brazil",
   "height": "5'9\"",
   "description": "Former Brazilian captain and World Cup-winning midfielder."
@@ -2473,9 +2473,9 @@
   "img": "/football/img/players/Eusebio.webp",
   "full_name": "Eusébio da Silva Ferreira",
   "birth_date": "25-01-1942",
-  "birthplace": "Maputo, Mozambique",
+
   "position": "Forward",
-  "team": "Retired",
+  "team": "Benfica (Retired)",
   "nationality": "Portugal",
   "height": "5'9\"",
   "description": "Portuguese football legend and one of the greatest forwards."
@@ -2486,9 +2486,9 @@
   "img": "/football/img/players/Zico.webp",
   "full_name": "Arthur Antunes Coimbra",
   "birth_date": "03-03-1953",
-  "birthplace": "Rio de Janeiro, Brazil",
+
   "position": "Attacking Midfielder",
-  "team": "Retired",
+  "team": "Flamengo (Retired)",
   "nationality": "Brazil",
   "height": "5'7\"",
   "description": "Brazilian football legend, known for his skill and playmaking."

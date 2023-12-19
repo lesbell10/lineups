@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alex Ovechkin",
         "birth_date": "17-09-1985",
-        "birthplace": "Moscow, Russia",
+
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/Thornton.jpg",
         "full_name": "Joe Thornton",
         "birth_date": "02-07-1979",
-        "birthplace": "London, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/Jagr.jpg",
         "full_name": "Jaromir Jagr",
         "birth_date": "15-02-1972",
-        "birthplace": "Kladno, Czechoslovakia",
+
         "team": "Retired",
         "nationality": "Czech Republic",
         "position": "Right Winger",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-        "birthplace": "Krylbo, Sweden",
+
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Pronger.jpg",
         "full_name": "Chris Pronger",
         "birth_date": "10-10-1974",
-        "birthplace": "Dryden, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Brodeur.jpg",
         "full_name": "Martin Brodeur",
         "birth_date": "06-05-1972",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goalie",

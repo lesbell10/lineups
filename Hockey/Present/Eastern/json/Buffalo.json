@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/J Skinner.jpg",
     "full_name": "Jeff Skinner",
     "birth_date": "16-05-1992",
-    "birthplace": "Markham, Canada",
+
     "team": "Buffalo Sabres",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Thompson.jpg",
     "full_name": "Tage Thompson",
     "birth_date": "30-10-1997",
-    "birthplace": "Phoenix, Arizona, USA",
+
     "team": "Buffalo Sabres",
     "nationality": "USA",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Tuch.jpg",
     "full_name": "Alex Tuch",
     "birth_date": "10-05-1996",
-    "birthplace": "Syracuse, USA",
+
     "team": "Buffalo Sabres",
     "nationality": "USA",
     "position": "Right Winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Dahlin.jpg",
     "full_name": "Rasmus Dahlin",
     "birth_date": "13-04-2000",
-    "birthplace": "Trollhattan, Sweden",
+
     "team": "Buffalo Sabres",
     "nationality": "Sweden",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Power.jpg",
     "full_name": "Owen Power",
     "birth_date": "22-11-2002",
-    "birthplace": "Mississauga, Canada",
+
     "team": "Buffalo Sabres",
     "nationality": "Canada",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Luukkonen.jpg",
     "full_name": "Ukko-Pekka Luukkonen",
     "birth_date": "09-03-1999",
-    "birthplace": "Espoo, Finland",
+
     "team": "Buffalo Sabres",
     "nationality": "Finland",
     "position": "Goalie",

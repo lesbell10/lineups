@@ -5,7 +5,7 @@
     "img": "/football/img/players/Lewandowski.webp",
     "full_name": "Robert Lewandowski",
     "birth_date": "21-08-1988",
-    "birthplace": "Warsaw, Poland",
+
     "position": "Striker",
     "team": "Barcelona",
     "nationality": "Poland",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Robben.webp",
     "full_name": "Arjen Robben",
     "birth_date": "23-01-1984",
-    "birthplace": "Bedum, Netherlands",
+
     "position": "Right Winger",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/T Muller.webp",
     "full_name": "Thomas Muller",
     "birth_date": "13-09-1989",
-    "birthplace": "Weilheim in Oberbayern, Germany",
+
     "position": "Forward",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Ribery.webp",
     "full_name": "Franck Ribery",
     "birth_date": "07-04-1983",
-    "birthplace": "Boulogne-sur-Mer, France",
+
     "position": "Left Winger",
     "team": "Retired",
     "nationality": "France",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Thiago.webp",
     "full_name": "Thiago Alcantara",
     "birth_date": "11-04-1991",
-    "birthplace": "San Pietro Vernotico, Italy",
+
     "position": "Central Midfielder",
     "team": "Liverpool",
     "nationality": "Spain",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Schweinsteiger.webp",
     "full_name": "B Schweinsteiger",
     "birth_date": "01-08-1984",
-    "birthplace": "Kolbermoor, Germany",
+
     "position": "Defensive Midfielder",
     "team": "Retired",
     "nationality": "Germany",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Lahm.webp",
     "full_name": "Philipp Lahm",
     "birth_date": "11-11-1983",
-    "birthplace": "Munich, Germany",
+
     "position": "Right Back",
     "team": "Retired",
     "nationality": "Germany",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Hummels.webp",
     "full_name": "Mats Hummels",
     "birth_date": "16-12-1988",
-    "birthplace": "Bergisch Gladbach, Germany",
+
     "position": "Center-Back",
     "team": "Borussia Dortmund",
     "nationality": "Germany",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Boateng.webp",
     "full_name": "Jerome Boateng",
     "birth_date": "03-09-1988",
-    "birthplace": "Berlin, Germany",
+
     "position": "Center-Back",
     "team": "Lyon",
     "nationality": "Germany",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Alaba.webp",
     "full_name": "David Alaba",
     "birth_date": "24-06-1992",
-    "birthplace": "Vienna, Austria",
+
     "position": "Left Back",
     "team": "Real Madrid",
     "nationality": "Austria",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Neuer.webp",
     "full_name": "Manuel Neuer",
     "birth_date": "27-03-1986",
-    "birthplace": "Gelsenkirchen, Germany",
+
     "position": "Goalkeeper",
     "team": "Bayern Munich",
     "nationality": "Germany",

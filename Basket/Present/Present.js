@@ -31,14 +31,14 @@ function updatePlayerInfo() {
 
     MainFetchPopUp("/basket/present/present.json");
 
-    // smallpic.addEventListener('mouseover', () => {
-    //             sideModal.style.display = 'block'
-    //             sideModal.textContent = "Joel Embiid's 2023-24 season can be characterized as a display of dominance in the NBA. Showcasing exceptional skill in scoring, rebounding, and defense, Embiid solidified his status as a top center. His leadership and impact on the Philadelphia 76ers were unmistakable."
-    //         })
+    smallpic.addEventListener('mouseover', () => {
+                sideModal.style.display = 'block'
+        sideModal.textContent = "Joel Embiid is an elite NBA center known for his dominant scoring, rebounding, and shot-blocking abilities. Playing for the Philadelphia 76ers, he's a multiple-time All-Star and MVP candidate, often displaying a unique combination of size, skill, and agility on the court."
+            })
 
-    //         smallpic.addEventListener("mouseout", () => {
-    //                     sideModal.style.display = 'none'; // Hide the modal
-    //         }); 
+            smallpic.addEventListener("mouseout", () => {
+                        sideModal.style.display = 'none'; // Hide the modal
+            }); 
 
     // MainFetchPopUp("./Present.json"); 
 
@@ -86,7 +86,7 @@ updatePlayerInfo();
 //                         <p>Positions: ${player.positions}</p>
 //                         <p>Height: ${player.height}</p>
 //                         <p>Birth Date: ${player.birth_date}</p>
-//                         <p>Birthplace: ${player.birthplace}</p>
+
 
 //                     `;
 //                     modal.style.display = 'block'; // Show the modal

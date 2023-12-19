@@ -5,7 +5,7 @@
         "img": "/football/img/players/Lukaku.webp",
         "full_name": "Romelu Lukaku",
         "birth_date": "13-05-1993",
-        "birthplace": "Antwerp, Belgium",
+
         "position": "Striker",
         "team": "Chelsea FC",
         "nationality": "Belgium",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Doku.webp",
         "full_name": "Jeremy Doku",
         "birth_date": "27-05-2002",
-        "birthplace": "Antwerp, Belgium",
+
         "position": "Forward",
         "team": "Stade Rennais FC",
         "nationality": "Belgium",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-        "birthplace": "Drongen, Belgium",
+
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Trossard.webp",
         "full_name": "Leandro Trossard",
         "birth_date": "04-12-1994",
-        "birthplace": "Waterschei, Belgium",
+
         "position": "Forward",
         "team": "Arsenal",
         "nationality": "Belgium",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Tielemans.webp",
         "full_name": "Youri Tielemans",
         "birth_date": "07-05-1997",
-        "birthplace": "Sint-Pieters-Leeuw, Belgium",
+
         "position": "Central Midfielder",
         "team": "Aston Villa",
         "nationality": "Belgium",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Witsel.webp",
         "full_name": "Axel Witsel",
         "birth_date": "12-01-1989",
-        "birthplace": "Liège, Belgium",
+
         "position": "Midfielder, Central Defender",
         "team": "Atletico Madrid",
         "nationality": "Belgium",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Castagne.webp",
         "full_name": "Timothy Castagne",
         "birth_date": "05-12-1995",
-        "birthplace": "Arlon, Belgium",
+
         "position": "Defender",
         "team": "Leicester City FC",
         "nationality": "Belgium",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Alderweireld.webp",
         "full_name": "Toby Alderweireld",
         "birth_date": "02-03-1989",
-        "birthplace": "Wilrijk, Belgium",
+
         "position": "Defender",
         "team": "Al-Duhail SC",
         "nationality": "Belgium",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Vertonghen.webp",
         "full_name": "Jan Vertonghen",
         "birth_date": "24-04-1987",
-        "birthplace": "Sint-Niklaas, Belgium",
+
         "position": "Defender",
         "team": "Benfica",
         "nationality": "Belgium",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Theate.webp",
         "full_name": "Arthur Theate",
         "birth_date": "25-05-2000",
-        "birthplace": "Brussels, Belgium",
+
         "position": "Defender",
         "team": "Stade Rennais FC",
         "nationality": "Belgium",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
-        "birthplace": "Bree, Belgium",
+
         "position": "Goalkeeper",
         "team": "Real Madrid",
         "nationality": "Belgium",

@@ -4,7 +4,7 @@
         "last_name": "Henry",
         "full_name": "Thierry Henry",
         "birth_date": "17-08-1977",
-        "birthplace": "Les Ulis, France",
+
         "nationality": "France",
         "position": "Striker",
         "height": "6'2",
@@ -17,7 +17,7 @@
         "last_name": "C Ronaldo",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2",
@@ -30,7 +30,7 @@
         "last_name": "Rooney",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-        "birthplace": "Liverpool, England",
+
         "nationality": "England",
         "position": "Second Striker",
         "height": "5'9",
@@ -43,7 +43,7 @@
         "last_name": "Ronaldinho",
         "full_name": "Ronaldinho de Assis",
         "birth_date": "21-03-1980",
-        "birthplace": "Porto Alegre, Brazil",
+
         "nationality": "Brazil",
         "position": "Forward",
         "height": "5'10",
@@ -56,7 +56,7 @@
         "last_name": "Fabregas",
         "full_name": "Francesc Fabregas",
         "birth_date": "04-05-1987",
-        "birthplace": "Arenys de Mar, Spain",
+
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'10",
@@ -69,7 +69,7 @@
         "last_name": "Gerrard",
         "full_name": "Steven Gerrard",
         "birth_date": "30-05-1980",
-        "birthplace": "Whiston, England",
+
         "nationality": "England",
         "position": "Central Midfielder",
         "height": "6'0",
@@ -82,7 +82,7 @@
         "last_name": "S Ramos",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-        "birthplace": "Camas, Spain",
+
         "nationality": "Spain",
         "position": "Right-Back",
         "height": "6'0",
@@ -95,7 +95,7 @@
         "last_name": "Nesta",
         "full_name": "Alessandro Nesta",
         "birth_date": "19-03-1976",
-        "birthplace": "Roma, Italy",
+
         "nationality": "Italy",
         "position": "Centre-Back",
         "height": "6'2",
@@ -108,7 +108,7 @@
         "last_name": "Terry",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
-        "birthplace": "Barking, England",
+
         "nationality": "England",
         "position": "Centre-Back",
         "height": "6'2",
@@ -121,7 +121,7 @@
         "last_name": "Zanetti",
         "full_name": "Javier Zanetti",
         "birth_date": "10-08-1973",
-        "birthplace": "Dock Sud, Argentina",
+
         "nationality": "Argentina",
         "position": "Right-Back",
         "height": "5'10",
@@ -134,7 +134,7 @@
         "last_name": "Buffon",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
-        "birthplace": "Carrara, Italy",
+
         "nationality": "Italy",
         "position": "Goalkeeper",
         "height": "6'4",

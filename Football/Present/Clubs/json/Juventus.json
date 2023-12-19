@@ -5,7 +5,7 @@
     "img": "/football/img/players/Vlahovic.webp",
     "full_name": "Dusan Vlahovic",
     "birth_date": "28-01-2000",
-    "birthplace": "Belgrade, Serbia",
+
     "position": "Striker",
     "team": "Juventus",
     "nationality": "Serbia",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Chiesa.webp",
     "full_name": "Federico Chiesa",
     "birth_date": "25-10-1997",
-    "birthplace": "Genoa, Italy",
+
     "position": "Left Winger",
     "team": "Juventus",
     "nationality": "Italy",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Pogba.webp",
     "full_name": "Paul Pogba",
     "birth_date": "15-03-1993",
-    "birthplace": "Lagny-sur-Marne, France",
+
     "position": "Central Midfielder",
     "team": "Juventus",
     "nationality": "France",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Kostic.webp",
     "full_name": "Filip Kostic",
     "birth_date": "01-11-1992",
-    "birthplace": "Kragujevac, Serbia",
+
     "position": "Forward",
     "team": "Juventus",
     "nationality": "Serbia",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Locatelli.webp",
     "full_name": "Manuel Locatelli",
     "birth_date": "08-01-1998",
-    "birthplace": "Lecco, Italy",
+
     "position": "Central Midfielder",
     "team": "Juventus",
     "nationality": "Italy",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Rabiot.webp",
     "full_name": "Adrien Rabiot",
     "birth_date": "03-04-1995",
-    "birthplace": "Saint-Maurice, France",
+
     "position": "Central Midfielder",
     "team": "Juventus",
     "nationality": "France",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Danilo.webp",
     "full_name": "Danilo Luiz",
     "birth_date": "15-07-1991",
-    "birthplace": "Bicas, Brazil",
+
     "position": "Right-Back",
     "team": "Juventus",
     "nationality": "Brazil",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Bremer.webp",
     "full_name": "Gleison Bremer",
     "birth_date": "18-02-1997",
-    "birthplace": "Rio de Janeiro, Brazil",
+
     "position": "Center-Back",
     "team": "Juventus",
     "nationality": "Brazil",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Gatti.webp",
     "full_name": "Leonardo Gatti",
     "birth_date": "24-09-1996",
-    "birthplace": "Turin, Italy",
+
     "position": "Center-Back",
     "team": "Juventus",
     "nationality": "Italy",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/A Sandro.webp",
     "full_name": "Alex Sandro",
     "birth_date": "26-01-1991",
-    "birthplace": "Catanduva, Brazil",
+
     "position": "Left-Back",
     "team": "Juventus",
     "nationality": "Brazil",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Szczesny.webp",
     "full_name": "Wojciech Szczesny",
     "birth_date": "18-04-1990",
-    "birthplace": "Warsaw, Poland",
+
     "position": "Goalkeeper",
     "team": "Juventus",
     "nationality": "Poland",

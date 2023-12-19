@@ -5,7 +5,7 @@
         "img": "/football/img/players/Lukaku.webp",
         "full_name": "Romelu Lukaku",
         "birth_date": "13-05-1993",
-        "birthplace": "Antwerp, Belgium",
+
         "position": "Striker",
         "team": "AS Roma",
         "nationality": "Belgium",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Mertens.webp",
         "full_name": "Dries Mertens",
         "birth_date": "06-05-1987",
-        "birthplace": "Leuven, Belgium",
+
         "position": "Forward",
         "team": "Galatasaray",
         "nationality": "Belgium",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-        "birthplace": "Drongen, Belgium",
+
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/E Hazard.webp",
         "full_name": "Eden Hazard",
         "birth_date": "07-01-1991",
-        "birthplace": "La Louvière, Belgium",
+
         "position": "Left Winger",
         "team": "Retired",
         "nationality": "Belgium",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Tielemans.webp",
         "full_name": "Youri Tielemans",
         "birth_date": "07-05-1997",
-        "birthplace": "Sint-Pieters-Leeuw, Belgium",
+
         "position": "Central Midfielder",
         "team": "Aston Villa",
         "nationality": "Belgium",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Witsel.webp",
         "full_name": "Axel Witsel",
         "birth_date": "12-01-1989",
-        "birthplace": "Liège, Belgium",
+
         "position": "Central Midfielder",
         "team": "Atletico Madrid",
         "nationality": "Belgium",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Meunier.webp",
         "full_name": "Thomas Meunier",
         "birth_date": "12-09-1991",
-        "birthplace": "Sainte-Ode, Belgium",
+
         "position": "Right-back",
         "team": "Retired",
         "nationality": "Belgium",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Kompany.webp",
         "full_name": "Vincent Kompany",
         "birth_date": "10-04-1986",
-        "birthplace": "Uccle, Belgium",
+
         "position": "Center-back",
         "team": "Retired",
         "nationality": "Belgium",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Alderweireld.webp",
         "full_name": "Toby Alderweireld",
         "birth_date": "02-03-1989",
-        "birthplace": "Wilrijk, Belgium",
+
         "position": "Center-back",
         "team": "Royal Antwerp",
         "nationality": "Belgium",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Vertonghen.webp",
         "full_name": "Jan Vertonghen",
         "birth_date": "24-04-1987",
-        "birthplace": "Sint-Niklaas, Belgium",
+
         "position": "Left-back",
         "team": "Anderlecht",
         "nationality": "Belgium",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
-        "birthplace": "Bree, Belgium",
+
         "position": "Goalkeeper",
         "team": "Real Madrid",
         "nationality": "Belgium",

@@ -5,7 +5,7 @@
     "img": "/football/img/players/Haaland.webp",
     "full_name": "Erling Haaland",
     "birth_date": "21-07-2000",
-    "birthplace": "Leeds, England",
+
     "position": "Forward",
     "team": "Manchester City",
     "nationality": "Norway",
@@ -18,9 +18,9 @@
     "img": "/football/img/players/Mbappe.webp",
     "full_name": "Kylian Mbappe",
     "birth_date": "20-12-1998",
-    "birthplace": "Bondy, France",
+
     "position": "Forward",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "France",
     "height": "6'0\"",
     "description": "World-class forward known for his blistering pace and skill."
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Messi.webp",
     "full_name": "Lionel Messi",
     "birth_date": "24-06-1987",
-    "birthplace": "Rosario, Argentina",
+
     "position": "Forward",
     "team": "Inter Miami",
     "nationality": "Argentina",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Vinicius Jr.webp",
     "full_name": "Vinicius de Oliveira Jr",
     "birth_date": "12-07-2000",
-    "birthplace": "São Gonçalo, Brazil",
+
     "position": "Forward",
     "team": "Real Madrid",
     "nationality": "Brazil",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/De_Bruyne.webp",
     "full_name": "Kevin De Bruyne",
     "birth_date": "28-06-1991",
-    "birthplace": "Drongen, Belgium",
+
     "position": "Central Midfielder",
     "team": "Manchester City",
     "nationality": "Belgium",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Rodri.webp",
     "full_name": "Rodrigo Hernandez",
     "birth_date": "22-06-1996",
-    "birthplace": "Madrid, Spain",
+
     "position": "Defensive Midfielder",
     "team": "Manchester City",
     "nationality": "Spain",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Cancelo.webp",
     "full_name": "Joao Cancelo",
     "birth_date": "27-05-1994",
-    "birthplace": "Barreiro, Portugal",
+
     "position": "Right-Back",
     "team": "Barcelona",
     "nationality": "Portugal",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/van_Dijk.webp",
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
-    "birthplace": "Breda, Netherlands",
+
     "position": "Defender",
     "team": "Liverpool",
     "nationality": "Netherlands",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/R_Dias.webp",
     "full_name": "Ruben Dias",
     "birth_date": "14-05-1997",
-    "birthplace": "Amadora, Portugal",
+
     "position": "Defender",
     "team": "Manchester City",
     "nationality": "Portugal",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Robertson.webp",
     "full_name": "Andy Robertson",
     "birth_date": "11-03-1994",
-    "birthplace": "Glasgow, Scotland",
+
     "position": "Defender",
     "team": "Liverpool",
     "nationality": "Scotland",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Courtois.webp",
     "full_name": "Thibaut Courtois",
     "birth_date": "11-05-1992",
-    "birthplace": "Bree, Belgium",
+
     "position": "Goalkeeper",
     "team": "Real Madrid",
     "nationality": "Belgium",

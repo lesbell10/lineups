@@ -5,7 +5,7 @@
         "img": "/football/img/players/Higuain.webp",
         "full_name": "Gonzalo Higuain",
         "birth_date": "10-12-1987",
-        "birthplace": "Brest, France",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Argentina",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Aguero.webp",
         "full_name": "Sergio Aguero",
         "birth_date": "02-06-1988",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Argentina",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Di_Maria.webp",
         "full_name": "Angel Di Maria",
         "birth_date": "14-02-1988",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Left Winger",
         "team": "Benfica",
         "nationality": "Argentina",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Banega.webp",
         "full_name": "Ever Banega",
         "birth_date": "29-06-1988",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Central Midfielder",
         "team": "Al Shabab",
         "nationality": "Argentina",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Mascherano.webp",
         "full_name": "Javier Mascherano",
         "birth_date": "08-06-1984",
-        "birthplace": "San Lorenzo, Argentina",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Argentina",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Zabaleta.webp",
         "full_name": "Pablo Zabaleta",
         "birth_date": "16-01-1985",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Right-back",
         "team": "Retired",
         "nationality": "Argentina",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Otamendi.webp",
         "full_name": "Nicolas Otamendi",
         "birth_date": "12-02-1988",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Center-back",
         "team": "Benfica",
         "nationality": "Argentina",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Garay.webp",
         "full_name": "Ezequiel Garay",
         "birth_date": "10-10-1986",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Center-back",
         "team": "Retired",
         "nationality": "Argentina",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Tagliafico.webp",
         "full_name": "Nicolas Tagliafico",
         "birth_date": "31-08-1992",
-        "birthplace": "Rojas, Argentina",
+
         "position": "Left-back",
         "team": "Lyon",
         "nationality": "Argentina",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/E Martinez.webp",
         "full_name": "Emiliano Martinez",
         "birth_date": "02-09-1992",
-        "birthplace": "Mar del Plata, Argentina",
+
         "position": "Goalkeeper",
         "team": "Aston Villa",
         "nationality": "Argentina",

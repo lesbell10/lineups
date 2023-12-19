@@ -102,7 +102,9 @@ function searchPlayers(query, includeRetired = true) {
     const normalizedQuery = query.toLowerCase();
 
     allPlayers.forEach(player => {
-        if (!includeRetired && player.team === "Retired") {
+
+        let regex = new RegExp("\\bRetired\\b", "i");
+        if (!includeRetired && regex.test(player.team)) {
             return;
         }
 

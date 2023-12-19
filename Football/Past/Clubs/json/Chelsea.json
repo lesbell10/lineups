@@ -5,7 +5,7 @@
     "img": "/football/img/players/Drogba.webp",
     "full_name": "Didier Drogba",
     "birth_date": "11-03-1978",
-    "birthplace": "Abidjan, Ivory Coast",
+
     "position": "Striker",
     "team": "Retired",
     "nationality": "Ivory Coast",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Willian.webp",
     "full_name": "Willian Borges",
     "birth_date": "09-08-1988",
-    "birthplace": "Ribeirao Pires, Brazil",
+
     "position": "Left Winger",
     "team": "Fulham",
     "nationality": "Brazil",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Lampard.webp",
     "full_name": "Frank Lampard",
     "birth_date": "20-06-1978",
-    "birthplace": "Romford, England",
+
     "position": "Attacking Midfielder",
     "team": "Retired",
     "nationality": "England",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/E Hazard.webp",
     "full_name": "Eden Hazard",
     "birth_date": "07-01-1991",
-    "birthplace": "La Louviere, Belgium",
+
     "position": "Left Winger",
     "team": "Retired",
     "nationality": "Belgium",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Fabregas.webp",
     "full_name": "Francesc Fabregas",
     "birth_date": "04-05-1987",
-    "birthplace": "Arenys de Mar, Spain",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "Spain",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Kante.webp",
     "full_name": "N'Golo Kante",
     "birth_date": "29-03-1991",
-    "birthplace": "Paris, France",
+
     "position": "Defensive Midfielder",
     "team": "Al-Ittihad",
     "nationality": "France",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Azpilicueta.webp",
     "full_name": "Cesar Azpilicueta",
     "birth_date": "28-08-1989",
-    "birthplace": "Pamplona, Spain",
+
     "position": "Right Back",
     "team": "Atletico Madrid",
     "nationality": "Spain",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Terry.webp",
     "full_name": "John Terry",
     "birth_date": "07-12-1980",
-    "birthplace": "Barking, England",
+
     "position": "Center-Back",
     "team": "Retired",
     "nationality": "England",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/G Cahill.webp",
     "full_name": "Gary Cahill",
     "birth_date": "19-12-1985",
-    "birthplace": "Sheffield, England",
+
     "position": "Center-Back",
     "team": "Retired",
     "nationality": "England",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/A Cole.webp",
     "full_name": "Ashley Cole",
     "birth_date": "20-12-1980",
-    "birthplace": "Stepney, England",
+
     "position": "Left Back",
     "team": "Retired",
     "nationality": "England",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Courtois.webp",
     "full_name": "Thibaut Courtois",
     "birth_date": "11-05-1992",
-    "birthplace": "Bree, Belgium",
+
     "position": "Goalkeeper",
     "team": "Real Madrid",
     "nationality": "Belgium",

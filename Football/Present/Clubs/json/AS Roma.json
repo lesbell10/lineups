@@ -5,7 +5,7 @@
     "img": "/football/img/players/Lukaku.webp",
     "full_name": "Romelu Lukaku",
     "birth_date": "13-05-1993",
-    "birthplace": "Antwerp, Belgium",
+
     "position": "Striker",
     "team": "AS Roma",
     "nationality": "Belgium",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Aouar.webp",
     "full_name": "Houssem Aouar",
     "birth_date": "30-06-1998",
-    "birthplace": "Lyon, France",
+
     "position": "Central Midfielder",
     "team": "AS Roma",
     "nationality": "France",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Dybala.webp",
     "full_name": "Paulo Dybala",
     "birth_date": "15-11-1993",
-    "birthplace": "Laguna Larga, Argentina",
+
     "position": "Attacking Midfielder",
     "team": "AS Roma",
     "nationality": "Argentina",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Pellegrini.webp",
     "full_name": "Lorenzo Pellegrini",
     "birth_date": "19-06-1996",
-    "birthplace": "Rome, Italy",
+
     "position": "Forward Left",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/R Sanches.webp",
     "full_name": "Renato Sanches",
     "birth_date": "18-08-1997",
-    "birthplace": "Lisbon, Portugal",
+
     "position": "Central Midfielder",
     "team": "AS Roma",
     "nationality": "Portugal",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Cristante.webp",
     "full_name": "Bryan Cristante",
     "birth_date": "03-03-1995",
-    "birthplace": "San Vito al Tagliamento, Italy",
+
     "position": "Central Midfielder",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Karsdorp.webp",
     "full_name": "Rick Karsdorp",
     "birth_date": "11-02-1995",
-    "birthplace": "Schoonhoven, Netherlands",
+
     "position": "Right Defender",
     "team": "AS Roma",
     "nationality": "Netherlands",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Smalling.webp",
     "full_name": "Chris Smalling",
     "birth_date": "22-11-1989",
-    "birthplace": "Greenwich, England",
+
     "position": "Central Defender Right",
     "team": "AS Roma",
     "nationality": "England",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/G Mancini.webp",
     "full_name": "Gianmaria Mancini",
     "birth_date": "17-04-1996",
-    "birthplace": "Pontedera, Italy",
+
     "position": "Central Defender Left",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Spinazzola.webp",
     "full_name": "Leonardo Spinazzola",
     "birth_date": "25-03-1993",
-    "birthplace": "Foligno, Italy",
+
     "position": "Defender Left",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/R Patricio.webp",
     "full_name": "Rui Patricio",
     "birth_date": "15-02-1988",
-    "birthplace": "Marrazes, Portugal",
+
     "position": "Goalkeeper",
     "team": "AS Roma",
     "nationality": "Portugal",

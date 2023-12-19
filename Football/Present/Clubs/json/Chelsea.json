@@ -5,7 +5,7 @@
     "img": "/football/img/players/N Jackson.webp",
     "full_name": "Nicolas Jackson",
     "birth_date": "20-11-2000",
-    "birthplace": "Accra, Ghana",
+
     "position": "Striker",
     "team": "Chelsea",
     "nationality": "Ghana",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Sterling.webp",
     "full_name": "Raheem Sterling",
     "birth_date": "08-12-1994",
-    "birthplace": "Kingston, Jamaica",
+
     "position": "Left Winger",
     "team": "Chelsea",
     "nationality": "England",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Nkunku.webp",
     "full_name": "Christopher Nkunku",
     "birth_date": "14-11-1997",
-    "birthplace": "Lagny-sur-Marne, France",
+
     "position": "Attacking Midfielder",
     "team": "Chelsea",
     "nationality": "France",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Mudryk.webp",
     "full_name": "Mykola Mudryk",
     "birth_date": "20-04-1999",
-    "birthplace": "Kyiv, Ukraine",
+
     "position": "Forward",
     "team": "Chelsea",
     "nationality": "Ukraine",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/E Fernandez.webp",
     "full_name": "Enzo Fernandez",
     "birth_date": "17-01-2001",
-    "birthplace": "San Martín, Buenos Aires, Argentina",
+
     "position": "Central Midfielder",
     "team": "Chelsea",
     "nationality": "Argentina",
@@ -68,9 +68,9 @@
     "id": 6,
     "last_name": "Caicedo",
     "img": "/football/img/players/Caicedo.webp",
-    "full_name": "Jefferson Caicedo",
+    "full_name": "Moises Caicedo",
     "birth_date": "23-04-1993",
-    "birthplace": "Esmeraldas, Ecuador",
+
     "position": "Defensive Midfielder",
     "team": "Chelsea",
     "nationality": "Ecuador",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/R James.webp",
     "full_name": "Reece James",
     "birth_date": "08-12-1999",
-    "birthplace": "London, England",
+
     "position": "Right-back",
     "team": "Chelsea",
     "nationality": "England",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/T Silva.webp",
     "full_name": "Thiago Silva",
     "birth_date": "22-09-1984",
-    "birthplace": "Rio de Janeiro, Brazil",
+
     "position": "Center-back",
     "team": "Chelsea",
     "nationality": "Brazil",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Disasi.webp",
     "full_name": "Axel Disasi",
     "birth_date": "11-03-1998",
-    "birthplace": "Saint-Denis, France",
+
     "position": "Center-back",
     "team": "Chelsea",
     "nationality": "France",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Chilwell.webp",
     "full_name": "Ben Chilwell",
     "birth_date": "21-12-1996",
-    "birthplace": "Milton Keynes, England",
+
     "position": "Left-back",
     "team": "Chelsea",
     "nationality": "England",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/R Sanchez.webp",
     "full_name": "Robert Sanchez",
     "birth_date": "23-06-1994",
-    "birthplace": "Cartagena, Colombia",
+
     "position": "Goalkeeper",
     "team": "Chelsea",
     "nationality": "Colombia",

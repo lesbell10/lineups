@@ -5,7 +5,7 @@
     "img": "/football/img/players/D Jota.webp",
     "full_name": "Diogo Jota",
     "birth_date": "04-12-1996",
-    "birthplace": "Porto, Portugal",
+
     "position": "Striker",
     "team": "Liverpool",
     "nationality": "Portugal",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Salah.webp",
     "full_name": "Mohamed Salah",
     "birth_date": "15-06-1992",
-    "birthplace": "Nagrig, Egypt",
+
     "position": "Forward",
     "team": "Liverpool",
     "nationality": "Egypt",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Gakpo.webp",
     "full_name": "Cody Gakpo",
     "birth_date": "07-05-1999",
-    "birthplace": "Eindhoven, Netherlands",
+
     "position": "Attacking Midfielder",
     "team": "Liverpool",
     "nationality": "Netherlands",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/L Diaz.webp",
     "full_name": "Luis Diaz",
     "birth_date": "13-11-1997",
-    "birthplace": "Santa Marta, Colombia",
+
     "position": "Forward",
     "team": "Liverpool",
     "nationality": "Colombia",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Szoboszlai.webp",
     "full_name": "Dominik Szoboszlai",
     "birth_date": "25-10-2000",
-    "birthplace": "Székesfehérvár, Hungary",
+
     "position": "Central Midfielder",
     "team": "Liverpool",
     "nationality": "Hungary",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Mac Allister.webp",
     "full_name": "Alexis Mac Allister",
     "birth_date": "24-12-1998",
-    "birthplace": "Santa Rosa, Argentina",
+
     "position": "Central Midfielder",
     "team": "Liverpool",
     "nationality": "Argentina",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Alexander-A.webp",
     "full_name": "Trent Alexander-A",
     "birth_date": "07-10-1998",
-    "birthplace": "Liverpool, England",
+
     "position": "Right-back",
     "team": "Liverpool",
     "nationality": "England",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/van Dijk.webp",
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
-    "birthplace": "Breda, Netherlands",
+
     "position": "Center-back",
     "team": "Liverpool",
     "nationality": "Netherlands",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Konate.webp",
     "full_name": "Ibrahima Konate",
     "birth_date": "25-05-1999",
-    "birthplace": "Paris, France",
+
     "position": "Center-back",
     "team": "Liverpool",
     "nationality": "France",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Robertson.webp",
     "full_name": "Andy Robertson",
     "birth_date": "11-03-1994",
-    "birthplace": "Glasgow, Scotland",
+
     "position": "Left-back",
     "team": "Liverpool",
     "nationality": "Scotland",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Alisson.webp",
     "full_name": "Alisson Becker",
     "birth_date": "02-10-1992",
-    "birthplace": "Novo Hamburgo, Brazil",
+
     "position": "Goalkeeper",
     "team": "Liverpool",
     "nationality": "Brazil",

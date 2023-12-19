@@ -5,7 +5,7 @@
         "img": "/football/img/players/D Jota.webp",
         "full_name": "Diogo Jota",
         "birth_date": "04-12-1996",
-        "birthplace": "Amadora, Portugal",
+
         "position": "Forward",
         "team": "Liverpool",
         "nationality": "Portugal",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/B Silva.webp",
         "full_name": "Bernardo Silva",
         "birth_date": "10-08-1994",
-        "birthplace": "Lisbon, Portugal",
+
         "position": "Attacking Midfielder",
         "team": "Manchester City",
         "nationality": "Portugal",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/B Fernandes.webp",
         "full_name": "Bruno Fernandes",
         "birth_date": "08-09-1994",
-        "birthplace": "Maia, Portugal",
+
         "position": "Attacking Midfielder",
         "team": "Manchester United",
         "nationality": "Portugal",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/J Moutinho.webp",
         "full_name": "Joao Moutinho",
         "birth_date": "08-09-1986",
-        "birthplace": "Barcarena, Portugal",
+
         "position": "Central Midfielder",
         "team": "Braga",
         "nationality": "Portugal",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/R Neves.webp",
         "full_name": "Ruben Neves",
         "birth_date": "13-03-1997",
-        "birthplace": "Vila Nova de Gaia, Portugal",
+
         "position": "Central Midfielder",
         "team": "Al Hilal",
         "nationality": "Portugal",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Cancelo.webp",
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
-        "birthplace": "Barreiro, Portugal",
+
         "position": "Right-back",
         "team": "Barcelona",
         "nationality": "Portugal",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Pepe.webp",
         "full_name": "Pepe",
         "birth_date": "26-02-1983",
-        "birthplace": "Maceió, Brazil",
+
         "position": "Center-back",
         "team": "Porto",
         "nationality": "Portugal",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/R Dias.webp",
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
-        "birthplace": "Amadora, Portugal",
+
         "position": "Center-back",
         "team": "Manchester City",
         "nationality": "Portugal",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/R Guerreiro.webp",
         "full_name": "Raphael Guerreiro",
         "birth_date": "22-12-1993",
-        "birthplace": "Le Blanc-Mesnil, France",
+
         "position": "Left-back",
         "team": "Bayern Munich",
         "nationality": "Portugal",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/R Patricio.webp",
         "full_name": "Rui Patrício",
         "birth_date": "15-02-1988",
-        "birthplace": "Marrazes, Portugal",
+
         "position": "Goalkeeper",
         "team": "AS Roma",
         "nationality": "Portugal",

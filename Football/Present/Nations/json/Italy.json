@@ -5,7 +5,7 @@
         "img": "/football/img/players/Immobile.webp",
         "full_name": "Ciro Immobile",
         "birth_date": "20-02-1990",
-        "birthplace": "Torre Annunziata, Italy",
+
         "position": "Striker",
         "team": "Lazio",
         "nationality": "Italy",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Berardi.webp",
         "full_name": "Domenico Berardi",
         "birth_date": "01-08-1994",
-        "birthplace": "Cariati, Italy",
+
         "position": "Forward",
         "team": "Sassuolo",
         "nationality": "Italy",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Barella.webp",
         "full_name": "Nicolo Barella",
         "birth_date": "07-02-1997",
-        "birthplace": "Cagliari, Italy",
+
         "position": "Central Midfielder",
         "team": "Inter Milan",
         "nationality": "Italy",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Chiesa.webp",
         "full_name": "Federico Chiesa",
         "birth_date": "25-10-1997",
-        "birthplace": "Genoa, Italy",
+
         "position": "Forward",
         "team": "Juventus",
         "nationality": "Italy",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Verratti.webp",
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
-        "birthplace": "Pescara, Italy",
+
         "position": "CentralMidfielder",
         "team": "Al-Arabi",
         "nationality": "Italy",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Tonali.webp",
         "full_name": "Sandro Tonali",
         "birth_date": "08-05-2000",
-        "birthplace": "Lodi, Italy",
+
         "position": "Central Midfielder",
         "team": "Newcastle",
         "nationality": "Italy",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Di Lorenzo.webp",
         "full_name": "Diego Di Lorenzo",
         "birth_date": "17-03-1994",
-        "birthplace": "Naples, Italy",
+
         "position": "Right-back",
         "team": "Napoli",
         "nationality": "Italy",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/G Mancini.webp",
         "full_name": "Gianmaria Mancini",
         "birth_date": "17-04-1996",
-        "birthplace": "Pontedera, Italy",
+
         "position": "Center-back",
         "team": "AS Roma",
         "nationality": "Italy",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Bastoni.webp",
         "full_name": "Alessandro Bastoni",
         "birth_date": "13-04-1999",
-        "birthplace": "Casalmaggiore, Italy",
+
         "position": "Center-back",
         "team": "Inter Milan",
         "nationality": "Italy",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Dimarco.webp",
         "full_name": "Federico Dimarco",
         "birth_date": "10-11-1997",
-        "birthplace": "Milan, Italy",
+
         "position": "Left-back",
         "team": "Inter Milan",
         "nationality": "Italy",
@@ -135,9 +135,9 @@
         "img": "/football/img/players/Donnarumma.webp",
         "full_name": "Gianluigi Donnarumma",
         "birth_date": "25-02-1999",
-        "birthplace": "Castellammare di Stabia, Italy",
+
         "position": "Goalkeeper",
-        "team": "Paris Saint-Germain",
+        "team": "PSG",
         "nationality": "Italy",
         "height": "6'5\"",
         "description": "Towering goalkeeper with incredible reflexes."

@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Gaudreau.jpg",
     "full_name": "Johnny Gaudreau",
     "birth_date": "13-08-1993",
-    "birthplace": "Salem, USA",
+
     "team": "Columbus Blue Jackets",
     "nationality": "USA",
     "position": "Left Winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/K Johnson.jpg",
     "full_name": "Kent Johnson",
     "birth_date": "01-10-2001",
-    "birthplace": "Port Moody, Canada",
+
     "team": "Columbus Blue Jackets",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Laine.jpg",
     "full_name": "Patrik Laine",
     "birth_date": "19-04-1998",
-    "birthplace": "Tampere, Finland",
+
     "team": "Columbus Blue Jackets",
     "nationality": "Finland",
     "position": "Right Winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/Werenski.jpg",
     "full_name": "Zach Werenski",
     "birth_date": "19-07-1997",
-    "birthplace": "Grosse Pointe, USA",
+
     "team": "Columbus Blue Jackets",
     "nationality": "USA",
     "position": "Left Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Provorov.jpg",
     "full_name": "Ivan Provorov",
     "birth_date": "13-01-1997",
-    "birthplace": "Yaroslavl, Russia",
+
     "team": "Columbus Blue Jackets",
     "nationality": "Russia",
     "position": "Right Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Merzlikins.jpg",
     "full_name": "Elvis Merzlikins",
     "birth_date": "13-04-1994",
-    "birthplace": "Riga, Latvia",
+
     "team": "Columbus Blue Jackets",
     "nationality": "Latvia",
     "position": "Goalie",

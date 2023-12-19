@@ -4,7 +4,7 @@
         "last_name" : "Naslund",
         "full_name": "Markus Naslund",
         "birth_date": "30-07-1973",
-        "birthplace": "Örnsköldsvik, Sweden",
+
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Left Winger",
@@ -18,7 +18,7 @@
         "last_name" : "Sakic",
         "full_name": "Joe Sakic",
         "birth_date": "07-07-1969",
-        "birthplace": "Burnaby, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
@@ -32,7 +32,7 @@
         "last_name" : "Iginla",
         "full_name": "Jarome Iginla",
         "birth_date": "01-07-1977",
-        "birthplace": "Edmonton, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Winger",
@@ -46,7 +46,7 @@
         "last_name" : "S Niedermayer",
         "full_name": "Scott Niedermayer",
         "birth_date": "31-08-1973",
-        "birthplace": "Edmonton, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -60,7 +60,7 @@
         "last_name" : "Pronger",
         "full_name": "Chris Pronger",
         "birth_date": "10-10-1974",
-        "birthplace": "Dryden, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -74,7 +74,7 @@
         "last_name" : "Brodeur",
         "full_name": "Martin Brodeur",
         "birth_date": "06-05-1972",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goalie",

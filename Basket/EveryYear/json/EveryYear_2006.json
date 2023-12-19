@@ -5,7 +5,7 @@
     "img": "/basket/img/players/S Nash.webp",
     "full_name": "Steve Nash",
     "birth_date": "07-02-1974",
-    "birthplace": "Johannesburg, South Africa",
+
     "team": "Retired",
     "nationality": "Canada",
     "positions": ["Point Guard"],
@@ -19,7 +19,7 @@
     "img": "/basket/img/players/K Bryant.webp",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-    "birthplace": "Philadelphia, USA",
+
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
@@ -33,7 +33,7 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-    "birthplace": "Akron, USA",
+
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
@@ -47,7 +47,7 @@
     "img": "/basket/img/players/T Duncan.webp",
     "full_name": "Tim Duncan",
     "birth_date": "25-04-1976",
-    "birthplace": "Christiansted, USA",
+
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
@@ -61,7 +61,7 @@
     "img": "/basket/img/players/D Nowitzki.png",
     "full_name": "Dirk Nowitzki",
     "birth_date": "19-06-1978",
-    "birthplace": "Wurzburg, Germany",
+
     "team": "Retired",
     "nationality": "Germany",
     "positions": ["Power Forward"],

@@ -5,7 +5,7 @@
     "img": "/football/img/players/G Jesus.webp",
     "full_name": "Gabriel Jesus",
     "birth_date": "03-04-1997",
-    "birthplace": "Sao Paulo, Brazil",
+
     "position": "Striker",
     "team": "Arsenal",
     "nationality": "Brazil",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Saka.webp",
     "full_name": "Bukayo Saka",
     "birth_date": "05-09-2001",
-    "birthplace": "London, England",
+
     "position": "Right Winger",
     "team": "Arsenal",
     "nationality": "England",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Odegaard.webp",
     "full_name": "Martin Odegaard",
     "birth_date": "17-12-1998",
-    "birthplace": "Drammen, Norway",
+
     "position": "Attacking Midfielder",
     "team": "Arsenal",
     "nationality": "Norway",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Martinelli.webp",
     "full_name": "Gabriel Martinelli",
     "birth_date": "18-06-2001",
-    "birthplace": "Guarulhos, Brazil",
+
     "position": "Forward",
     "team": "Arsenal",
     "nationality": "Brazil",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Partey.webp",
     "full_name": "Thomas Partey",
     "birth_date": "13-06-1993",
-    "birthplace": "Odumase Krobo, Ghana",
+
     "position": "Central Midfielder",
     "team": "Arsenal",
     "nationality": "Ghana",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Rice.webp",
     "full_name": "Declan Rice",
     "birth_date": "14-01-1999",
-    "birthplace": "London, England",
+
     "position": "Defensive Midfielder",
     "team": "Arsenal",
     "nationality": "England",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/B White.webp",
     "full_name": "Ben White",
     "birth_date": "08-10-1997",
-    "birthplace": "Poole, England",
+
     "position": "Right-Back",
     "team": "Arsenal",
     "nationality": "England",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/Saliba.webp",
     "full_name": "William Saliba",
     "birth_date": "24-03-2001",
-    "birthplace": "Bondy, France",
+
     "position": "Center-Back",
     "team": "Arsenal",
     "nationality": "France",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Gabriel.webp",
     "full_name": "Gabriel Magalhães",
     "birth_date": "19-12-1997",
-    "birthplace": "São Paulo, Brazil",
+
     "position": "Defender",
     "team": "Arsenal",
     "nationality": "Brazil",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Zinchenko.webp",
     "full_name": "Oleksandr Zinchenko",
     "birth_date": "15-12-1996",
-    "birthplace": "Radomyshl, Ukraine",
+
     "position": "Left-Back",
     "team": "Arsenal",
     "nationality": "Ukraine",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/D Raya.webp",
     "full_name": "David Raya",
     "birth_date": "28-09-1995",
-    "birthplace": "Jaén, Spain",
+
     "position": "Goalkeeper",
     "team": "Arsenal",
     "nationality": "Spain",

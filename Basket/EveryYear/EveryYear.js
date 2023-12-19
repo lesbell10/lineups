@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 window.onload = function () {
     smallpic.style.scale = '1.5'
@@ -40,6 +41,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joel Embiid is an elite NBA center known for his dominant scoring, rebounding, and shot-blocking abilities. Playing for the Philadelphia 76ers, he's a multiple-time All-Star and MVP candidate, often displaying a unique combination of size, skill, and agility on the court."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "18") {
@@ -59,6 +69,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/Jokic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center.Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "17") {
@@ -78,6 +97,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/curry.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional three - point shooting skills.A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "16") {
@@ -97,6 +125,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/antetokounmpo.jpg";
 
         MainFetchPopUp("./json/EveryYear_2021.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Giannis Antetokounmpo, a Greek NBA superstar playing for the Milwaukee Bucks, is known for his versatility and dominance on the court. He has earned multiple MVP titles, showcasing exceptional athleticism and skill in scoring, rebounding, and defense, greatly influencing contemporary basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "15") {
@@ -116,6 +153,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/harden.png";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "James Harden, an NBA star renowned for his time with the Philadelphia 76ers and now with the Los Angeles Clippers, excels as a scorer and playmaker. Known for his signature step-back three and adept passing, Harden has won an MVP and multiple scoring titles."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "14") {
@@ -135,6 +181,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/durant.jpg"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility.A multiple - time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "13") {
@@ -155,6 +210,14 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("./json/EveryYear_2018.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "LeBron James, an iconic NBA figure playing for the Los Angeles Lakers, is known for his extraordinary athleticism and basketball IQ. A multiple-time MVP and NBA champion, James excels in scoring, playmaking, and leadership, significantly impacting the sport's evolution and culture."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "12") {
@@ -174,6 +237,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/leonard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kawhi Leonard, an NBA star known for his tenure with the San Antonio Spurs and Toronto Raptors, stands out for his defensive prowess and efficient scoring. A two-time NBA champion and Finals MVP, Leonard's quiet demeanor contrasts with his impactful, versatile on-court presence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "11") {
@@ -193,6 +265,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/davis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot - blocking, and scoring ability.A multiple - time All - Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "10") {
@@ -212,6 +293,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/duncan.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tim Duncan, a retired NBA legend with the San Antonio Spurs, is revered for his consistency, fundamental skills, and quiet leadership. A five-time NBA champion and two-time MVP, Duncan's professionalism and dominance as a power forward/center have left a profound legacy."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "9") {
@@ -231,6 +321,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/paul.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Chris Paul, an elite NBA point guard known for his tenure with teams like the New Orleans Hornets and Phoenix Suns, excels in playmaking and defense. A multiple-time All-Star and assists leader, Paul's leadership and basketball IQ have significantly impacted the game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "8") {
@@ -247,9 +346,18 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "https://i.pinimg.com/originals/e2/21/a5/e221a5fe2cf6d5344162a2bfc5ba1621.jpg";
+        smallpic.src = "/basket/img/wallpapers/bryant.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kobe Bryant, a legendary NBA figure with the Los Angeles Lakers, was celebrated for his scoring, work ethic, and competitive spirit. A five-time NBA champion and MVP, Bryant's Mamba Mentality inspired a generation, leaving an enduring legacy in basketball history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "7") {
@@ -269,6 +377,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/howard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dwight Howard, an NBA center known for his peak years with the Orlando Magic, stands out for his defensive skills and athleticism. An eight-time All-Star and three-time Defensive Player of the Year, Howard's impact on defense and rebounding has been substantial."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
 
     }
 
@@ -290,6 +407,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Carmelo Anthony, an NBA star known for his tenure with the Denver Nuggets and New York Knicks, is celebrated for his scoring ability, particularly his mid-range game. A ten-time All-Star, Anthony's offensive prowess and leadership have made a significant impact on the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
+
     }
 
     if (selectedYear === "5") {
@@ -310,6 +436,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kevin Garnett, a retired NBA power forward and center, known for his tenure with the Minnesota Timberwolves and Boston Celtics, was celebrated for his intensity, defensive prowess, and versatility.An NBA champion and MVP, Garnett's passion and skill greatly influenced the game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
+
     }
 
     if (selectedYear === "4") {
@@ -329,6 +464,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/wade.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dwyane Wade, a retired NBA legend primarily with the Miami Heat, is renowned for his scoring, playmaking, and defensive skills. A three-time NBA champion and Finals MVP, Wade's dynamic style and leadership played a pivotal role in shaping Miami's championship legacy."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "3") {
@@ -348,6 +492,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/james 2.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy.."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "2") {
@@ -367,6 +520,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/nash.jpg";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Steve Nash, a retired NBA player, primarily with the Phoenix Suns, is celebrated for his extraordinary playmaking and shooting abilities. A two-time MVP known for his efficient offense and visionary passing, Nash significantly influenced the game's tempo and style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "1") {
@@ -386,6 +548,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/nowitzki.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dirk Nowitzki, a retired NBA star with the Dallas Mavericks, is renowned for revolutionizing the power forward position with his unique shooting ability. The German-born player, an NBA champion and MVP, is celebrated for his loyalty, leadership, and impact on international basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     if (selectedYear === "0") {
@@ -405,6 +576,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/wallpapers/O'Neal.webp";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Shaquille O'Neal, a retired NBA legend, dominated as a center for teams like the Lakers and Heat. Known for his immense size and strength, Shaq won multiple championships and MVP awards, leaving a lasting legacy as one of the greatest centers ever."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        }); 
     }
 
     function clearAndFadeInElements() {
@@ -465,6 +645,15 @@ const updateDropdown = () => {
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joel Embiid is an elite NBA center known for his dominant scoring, rebounding, and shot-blocking abilities. Playing for the Philadelphia 76ers, he's a multiple-time All-Star and MVP candidate, often displaying a unique combination of size, skill, and agility on the court."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === 18) {
@@ -484,6 +673,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/Jokic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center.Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 17) {
@@ -503,6 +701,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/curry.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional three - point shooting skills.A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 16) {
@@ -522,6 +729,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/antetokounmpo.jpg";
 
         MainFetchPopUp("./json/EveryYear_2021.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Giannis Antetokounmpo, a Greek NBA superstar playing for the Milwaukee Bucks, is known for his versatility and dominance on the court. He has earned multiple MVP titles, showcasing exceptional athleticism and skill in scoring, rebounding, and defense, greatly influencing contemporary basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 15) {
@@ -532,9 +748,24 @@ const updateDropdown = () => {
         PF.textContent = "K Durant";
         C.textContent = "G Antetokounmpo";
 
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
         smallpic.src = "/basket/img/wallpapers/harden.png";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "James Harden, an NBA star renowned for his time with the Philadelphia 76ers and now with the Los Angeles Clippers, excels as a scorer and playmaker. Known for his signature step-back three and adept passing, Harden has won an MVP and multiple scoring titles."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 14) {
@@ -554,6 +785,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/durant.jpg"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility.A multiple - time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 13) {
@@ -574,6 +814,14 @@ const updateDropdown = () => {
 
         MainFetchPopUp("./json/EveryYear_2018.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "LeBron James, an iconic NBA figure playing for the Los Angeles Lakers, is known for his extraordinary athleticism and basketball IQ. A multiple-time MVP and NBA champion, James excels in scoring, playmaking, and leadership, significantly impacting the sport's evolution and culture."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 12) {
@@ -593,6 +841,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/leonard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kawhi Leonard, an NBA star known for his tenure with the San Antonio Spurs and Toronto Raptors, stands out for his defensive prowess and efficient scoring. A two-time NBA champion and Finals MVP, Leonard's quiet demeanor contrasts with his impactful, versatile on-court presence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 11) {
@@ -612,6 +869,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/davis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot - blocking, and scoring ability.A multiple - time All - Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 10) {
@@ -631,6 +897,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/duncan.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tim Duncan, a retired NBA legend with the San Antonio Spurs, is revered for his consistency, fundamental skills, and quiet leadership. A five-time NBA champion and two-time MVP, Duncan's professionalism and dominance as a power forward/center have left a profound legacy."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 9) {
@@ -650,6 +925,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/paul.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Chris Paul, an elite NBA point guard known for his tenure with teams like the New Orleans Hornets and Phoenix Suns, excels in playmaking and defense. A multiple-time All-Star and assists leader, Paul's leadership and basketball IQ have significantly impacted the game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 8) {
@@ -669,6 +953,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/bryant.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kobe Bryant, a legendary NBA figure with the Los Angeles Lakers, was celebrated for his scoring, work ethic, and competitive spirit. A five-time NBA champion and MVP, Bryant's Mamba Mentality inspired a generation, leaving an enduring legacy in basketball history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 7) {
@@ -688,6 +981,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/howard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dwight Howard, an NBA center known for his peak years with the Orlando Magic, stands out for his defensive skills and athleticism. An eight-time All-Star and three-time Defensive Player of the Year, Howard's impact on defense and rebounding has been substantial."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -709,6 +1011,15 @@ const updateDropdown = () => {
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Carmelo Anthony, an NBA star known for his tenure with the Denver Nuggets and New York Knicks, is celebrated for his scoring ability, particularly his mid-range game. A ten-time All-Star, Anthony's offensive prowess and leadership have made a significant impact on the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === 5) {
@@ -729,6 +1040,15 @@ const updateDropdown = () => {
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Kevin Garnett, a retired NBA power forward and center, known for his tenure with the Minnesota Timberwolves and Boston Celtics, was celebrated for his intensity, defensive prowess, and versatility.An NBA champion and MVP, Garnett's passion and skill greatly influenced the game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === 4) {
@@ -748,6 +1068,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/wade.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dwyane Wade, a retired NBA legend primarily with the Miami Heat, is renowned for his scoring, playmaking, and defensive skills. A three-time NBA champion and Finals MVP, Wade's dynamic style and leadership played a pivotal role in shaping Miami's championship legacy."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 3) {
@@ -767,6 +1096,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/james 2.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy.."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 2) {
@@ -786,6 +1124,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/nash.jpg";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Steve Nash, a retired NBA player, primarily with the Phoenix Suns, is celebrated for his extraordinary playmaking and shooting abilities. A two-time MVP known for his efficient offense and visionary passing, Nash significantly influenced the game's tempo and style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 1) {
@@ -805,13 +1152,22 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/nowitzki.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Dirk Nowitzki, a retired NBA star with the Dallas Mavericks, is renowned for revolutionizing the power forward position with his unique shooting ability. The German-born player, an NBA champion and MVP, is celebrated for his loyalty, leadership, and impact on international basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === 0) {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
-        SF.textContent = "K Garnett";
+        SF.textContent = "L James";
         PF.textContent = "S O'Neal";
         C.textContent = "T Duncan";
 
@@ -824,6 +1180,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/wallpapers/O'Neal.webp";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Shaquille O'Neal, a retired NBA legend, dominated as a center for teams like the Lakers and Heat. Known for his immense size and strength, Shaq won multiple championships and MVP awards, leaving a lasting legacy as one of the greatest centers ever."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 

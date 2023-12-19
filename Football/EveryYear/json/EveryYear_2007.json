@@ -5,7 +5,7 @@
         "img": "/football/img/players/Henry.webp",
         "full_name": "Thierry Henry",
         "birth_date": "17-08-1977",
-        "birthplace": "Les Ulis, France",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "France",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Totti.webp",
         "full_name": "Francesco Totti",
         "birth_date": "27-09-1976",
-        "birthplace": "Roma, Italy",
+
         "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Italy",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-        "birthplace": "Liverpool, England",
+
         "position": "Centre Forward",
         "team": "Retired",
         "nationality": "England",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Ronaldinho.webp",
         "full_name": "Ronaldinho de Assis",
         "birth_date": "21-03-1980",
-        "birthplace": "Porto Alegre, Brazil",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Brazil",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Lampard.webp",
         "full_name": "Frank Lampard",
         "birth_date": "20-06-1978",
-        "birthplace": "London, England",
+
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "England",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Gerrard.webp",
         "full_name": "Steven Gerrard",
         "birth_date": "30-05-1980",
-        "birthplace": "Whiston, England",
+
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "England",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Zambrotta.webp",
         "full_name": "Gianluca Zambrotta",
         "birth_date": "19-02-1977",
-        "birthplace": "Como, Italy",
+
         "position": "Right-Back",
         "team": "Retired",
         "nationality": "Italy",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Terry.webp",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
-        "birthplace": "Barking, England",
+
         "position": "Centre-Back",
         "team": "Retired",
         "nationality": "England",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/F Cannavaro.webp",
         "full_name": "Fabio Cannavaro",
         "birth_date": "13-09-1973",
-        "birthplace": "Naples, Italy",
+
         "position": "Center-Back",
         "team": "Retired",
         "nationality": "Italy",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Abidal.webp",
         "full_name": "Eric Abidal",
         "birth_date": "11-09-1979",
-        "birthplace": "Lyon, France",
+
         "position": "Left-Back",
         "team": "Retired",
         "nationality": "France",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Buffon.webp",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
-        "birthplace": "Carrara, Italy",
+
         "position": "Goalkeeper",
         "team": "Retired",
         "nationality": "Italy",

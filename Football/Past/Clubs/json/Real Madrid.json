@@ -5,12 +5,12 @@
         "img": "/football/img/players/Benzema.webp",
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
-        "birthplace": "Lyon, France",
+
         "position": "Striker",
         "team": "Al Ittihad",
         "nationality": "France",
         "height": "6'1\"",
-        "description": "Talented striker with great link-up play."
+        "description": "French striker, former Real Madrid's key forward, clinical finisher."
     },
     {
         "id": 2,
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Bale.webp",
         "full_name": "Gareth Bale",
         "birth_date": "16-07-1989",
-        "birthplace": "Cardiff, Wales",
+
         "position": "Forward",
         "team": "Retired",
         "nationality": "Wales",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Ozil.webp",
         "full_name": "Mesut Özil",
         "birth_date": "15-10-1988",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Germany",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Modric.webp",
         "full_name": "Luka Modric",
         "birth_date": "09-09-1985",
-        "birthplace": "Zadar, Croatia",
+
         "position": "Central Midfielder",
         "team": "Real Madrid",
         "nationality": "Croatia",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
-        "birthplace": "Greifswald, Germany",
+
         "position": "Central Midfielder",
         "team": "Real Madrid",
         "nationality": "Germany",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Carvajal.webp",
         "full_name": "Daniel Carvajal",
         "birth_date": "11-01-1992",
-        "birthplace": "Leganés, Spain",
+
         "position": "Defender",
         "team": "Real Madrid",
         "nationality": "Spain",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-        "birthplace": "Camas, Spain",
+
         "position": "Defender",
         "team": "Sevilla",
         "nationality": "Spain",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Varane.webp",
         "full_name": "Raphael Varane",
         "birth_date": "25-04-1993",
-        "birthplace": "Lille, France",
+
         "position": "Centre-Back",
         "team": "Manchester United",
         "nationality": "France",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Marcelo.webp",
         "full_name": "Marcelo Vieira",
         "birth_date": "12-05-1988",
-        "birthplace": "Rio de Janeiro, Brazil",
+
         "position": "Left-Back",
         "team": "Fluminense",
         "nationality": "Brazil",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
-        "birthplace": "Bree, Belgium",
+
         "position": "Goalkeeper",
         "team": "Real Madrid",
         "nationality": "Belgium",

@@ -5,7 +5,7 @@
         "img": "/football/img/players/La Martinez.webp",
         "full_name": "Lautaro Martinez",
         "birth_date": "22-08-1997",
-        "birthplace": "Bahía Blanca, Argentina",
+
         "position": "Striker",
         "team": "Inter Milan",
         "nationality": "Argentina",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Alvarez.webp",
         "full_name": "Julian Alvarez",
         "birth_date": "19-01-1999",
-        "birthplace": "Buenos Aires, Argentina",
+
         "position": "Forward",
         "team": "Manchester City",
         "nationality": "Argentina",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/De Paul.webp",
         "full_name": "Rodrigo De Paul",
         "birth_date": "24-05-1994",
-        "birthplace": "Sarandí, Argentina",
+
         "position": "Right Winger",
         "team": "Atletico Madrid",
         "nationality": "Argentina",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/E Fernandez.webp",
         "full_name": "Enzo  Fernandez",
         "birth_date": "17-01-2001",
-        "birthplace": "San Martín, Buenos Aires, Argentina",
+
         "position": "Central Midfielder",
         "team": "Chelsea",
         "nationality": "Argentina",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Mac Allister.webp",
         "full_name": "Alexis Mac Allister",
         "birth_date": "24-12-1998",
-        "birthplace": "Santa Rosa, Argentina",
+
         "position": "Central Midfielder",
         "team": "Liverpool",
         "nationality": "Argentina",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Molina.webp",
         "full_name": "Nahuel Molina",
         "birth_date": "27-01-1998",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Right-back",
         "team": "Atletico Madrid",
         "nationality": "Argentina",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/C Romero.webp",
         "full_name": "Cristian Romero",
         "birth_date": "27-04-1998",
-        "birthplace": "Cordoba, Argentina",
+
         "position": "Center-back",
         "team": "Tottenham Hotspur",
         "nationality": "Argentina",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Li Martinez.webp",
         "full_name": "Lisandro Martinez",
         "birth_date": "18-01-1998",
-        "birthplace": "Guarani, Paraguay",
+
         "position": "Center-back",
         "team": "Manchester United",
         "nationality": "Argentina",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Acuna.webp",
         "full_name": "Marcos Acuna",
         "birth_date": "28-10-1991",
-        "birthplace": "Zarate, Argentina",
+
         "position": "Left-back",
         "team": "Sevilla",
         "nationality": "Argentina",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/E Martinez.webp",
         "full_name": "Emiliano Martinez",
         "birth_date": "02-09-1992",
-        "birthplace": "Mar del Plata, Argentina",
+
         "position": "Goalkeeper",
         "team": "Aston Villa",
         "nationality": "Argentina",

@@ -5,7 +5,7 @@
     "img": "/football/img/players/Suarez.webp",
     "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
-    "birthplace": "Salto, Uruguay",
+
     "position": "Striker",
     "team": "Gremio",
     "nationality": "Uruguay",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Salah.webp",
     "full_name": "Mohamed Salah",
     "birth_date": "15-06-1992",
-    "birthplace": "Nagrig, Egypt",
+
     "position": "Forward",
     "team": "Liverpool",
     "nationality": "Egypt",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Coutinho.webp",
     "full_name": "Philippe Coutinho",
     "birth_date": "12-06-1992",
-    "birthplace": "Rio de Janeiro, Brazil",
+
     "position": "Attacking Midfielder",
     "team": "Al-Duhail",
     "nationality": "Brazil",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Mane.webp",
     "full_name": "Sadio Mane",
     "birth_date": "10-04-1992",
-    "birthplace": "Bambali, Senegal",
+
     "position": "Left Winger",
     "team": "Al Nassr",
     "nationality": "Senegal",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Gerrard.webp",
     "full_name": "Steven Gerrard",
     "birth_date": "30-05-1980",
-    "birthplace": "Whiston, England",
+
     "position": "Central Midfielder",
     "team": "Retired",
     "nationality": "England",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Fabinho.webp",
     "full_name": "Fabinho Henrique",
     "birth_date": "23-10-1993",
-    "birthplace": "Campinas, Brazil",
+
     "position": "Defensive Midfielder",
     "team": "Al Ittihad",
     "nationality": "Brazil",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Alexander-A.webp",
     "full_name": "Trent Alexander-A",
     "birth_date": "07-10-1998",
-    "birthplace": "Liverpool, England",
+
     "position": "Right Back",
     "team": "Liverpool",
     "nationality": "England",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/van Dijk.webp",
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
-    "birthplace": "Breda, Netherlands",
+
     "position": "Center-Back",
     "team": "Liverpool",
     "nationality": "Netherlands",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Matip.webp",
     "full_name": "Joel Matip",
     "birth_date": "08-08-1991",
-    "birthplace": "Bochum, Germany",
+
     "position": "Center-Back",
     "team": "Liverpool",
     "nationality": "Cameroon",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/Robertson.webp",
     "full_name": "Andy Robertson",
     "birth_date": "11-03-1994",
-    "birthplace": "Glasgow, Scotland",
+
     "position": "Left Back",
     "team": "Liverpool",
     "nationality": "Scotland",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Alisson.webp",
     "full_name": "Alisson Becker",
     "birth_date": "02-10-1992",
-    "birthplace": "Novo Hamburgo, Brazil",
+
     "position": "Goalkeeper",
     "team": "Liverpool",
     "nationality": "Brazil",

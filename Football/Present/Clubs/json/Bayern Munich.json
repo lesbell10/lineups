@@ -5,7 +5,7 @@
     "img": "/football/img/players/Kane.webp",
     "full_name": "Harry Kane",
     "birth_date": "28-07-1993",
-    "birthplace": "London, England",
+
     "position": "Striker",
     "team": "Bayern Munich",
     "nationality": "England",
@@ -18,7 +18,7 @@
     "img": "/football/img/players/Sane.webp",
     "full_name": "Leroy Sane",
     "birth_date": "11-01-1996",
-    "birthplace": "Essen, Germany",
+
     "position": "Right Winger",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -31,7 +31,7 @@
     "img": "/football/img/players/Musiala.webp",
     "full_name": "Jamal Musiala",
     "birth_date": "26-02-2003",
-    "birthplace": "Stuttgart, Germany",
+
     "position": "Attacking Midfielder",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -44,7 +44,7 @@
     "img": "/football/img/players/Coman.webp",
     "full_name": "Kingsley Coman",
     "birth_date": "13-06-1996",
-    "birthplace": "Paris, France",
+
     "position": "Right Winger",
     "team": "Bayern Munich",
     "nationality": "France",
@@ -57,7 +57,7 @@
     "img": "/football/img/players/Kimmich.webp",
     "full_name": "Joshua Kimmich",
     "birth_date": "08-02-1995",
-    "birthplace": "Rottweil, Germany",
+
     "position": "Central Midfielder, Right Back",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -70,7 +70,7 @@
     "img": "/football/img/players/Goretzka.webp",
     "full_name": "Leon Goretzka",
     "birth_date": "06-02-1995",
-    "birthplace": "Bochum, Germany",
+
     "position": "Defensive Midfielder",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -83,7 +83,7 @@
     "img": "/football/img/players/Laimer.webp",
     "full_name": "Konrad Laimer",
     "birth_date": "27-05-1997",
-    "birthplace": "Salzburg, Austria",
+
     "position": "Defensive Midfielder",
     "team": "Bayern Munich",
     "nationality": "Austria",
@@ -96,7 +96,7 @@
     "img": "/football/img/players/de Ligt.webp",
     "full_name": "Matthijs de Ligt",
     "birth_date": "12-08-1999",
-    "birthplace": "Leiderdorp, Netherlands",
+
     "position": "Center-Back",
     "team": "Bayern Munich",
     "nationality": "Netherlands",
@@ -109,7 +109,7 @@
     "img": "/football/img/players/Min j.webp",
     "full_name": "Min-Jae Kim",
     "birth_date": "15-01-1987",
-    "birthplace": "Seoul, South Korea",
+
     "position": "Center-Back",
     "team": "Bayern Munich",
     "nationality": "South Korea",
@@ -122,7 +122,7 @@
     "img": "/football/img/players/A Davies.webp",
     "full_name": "Alphonso Davies",
     "birth_date": "02-11-2000",
-    "birthplace": "Buduburam, Ghana",
+
     "position": "Left-Back",
     "team": "Bayern Munich",
     "nationality": "Canada",
@@ -135,7 +135,7 @@
     "img": "/football/img/players/Neuer.webp",
     "full_name": "Manuel Neuer",
     "birth_date": "27-03-1986",
-    "birthplace": "Gelsenkirchen, Germany",
+
     "position": "Goalkeeper",
     "team": "Bayern Munich",
     "nationality": "Germany",

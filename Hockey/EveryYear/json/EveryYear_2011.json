@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-        "birthplace": "Moscow, Russia",
+
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-        "birthplace": "Cole Harbour, Canada",
+
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/Datsyuk.jpg",
         "full_name": "Pavel Datsyuk",
         "birth_date": "20-07-1978",
-        "birthplace": "Sverdlovsk, Russia",
+
         "team": "Retired",
         "nationality": "Russia",
         "position": "Center",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-        "birthplace": "Krylbo, Sweden",
+
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Weber.jpg",
         "full_name": "Shea Weber",
         "birth_date": "14-08-1985",
-        "birthplace": "Sicamous, Canada",
+
         "team": "Arizona Coyotes",
         "nationality": "Canada",
         "position": "Right Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "birth_date": "04-04-1979",
-        "birthplace": "Montreal, Canada",
+
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goalie",

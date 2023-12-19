@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/MacKinnon.jpg",
         "full_name": "Nathan MacKinnon",
         "birth_date": "01-09-1995",
-        "birthplace": "Halifax, Canada",
+
         "team": "Colorado Avalanche",
         "nationality": "Canada",
         "position": "Center",
@@ -19,7 +19,7 @@
         "img": "/hockey/img/players/McDavid.jpg",
         "full_name": "Connor McDavid",
         "birth_date": "13-01-1997",
-        "birthplace": "Richmond Hill, Canada",
+
         "team": "Edmonton Oilers",
         "nationality": "Canada",
         "position": "Center",
@@ -33,7 +33,7 @@
         "img": "/hockey/img/players/Matthews.jpg",
         "full_name": "Auston Matthews",
         "birth_date": "17-09-1997",
-        "birthplace": "San Ramon, USA",
+
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
         "position": "Center",
@@ -47,7 +47,7 @@
         "img": "/hockey/img/players/Makar.jpg",
         "full_name": "Cale Makar",
         "birth_date": "30-10-1998",
-        "birthplace": "Calgary, Canada",
+
         "team": "Colorado Avalanche",
         "nationality": "Canada",
         "position": "Right Defenseman",
@@ -61,7 +61,7 @@
         "img": "/hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "birth_date": "18-12-1990",
-        "birthplace": "Örnsköldsvik, Sweden",
+
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
         "position": "Left Defenseman",
@@ -75,7 +75,7 @@
         "img": "/hockey/img/players/Vasilevskiy.jpg",
         "full_name": "Andrei Vasilevskiy",
         "birth_date": "25-07-1994",
-        "birthplace": "Tyumen, Russia",
+
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",
         "position": "Goalie",

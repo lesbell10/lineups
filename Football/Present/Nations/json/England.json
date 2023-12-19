@@ -5,7 +5,7 @@
         "img": "/football/img/players/Kane.webp",
         "full_name": "Harry Kane",
         "birth_date": "28-07-1993",
-        "birthplace": "London, England",
+
         "position": "Striker",
         "team": "Bayern Munich",
         "nationality": "England",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Saka.webp",
         "full_name": "Bukayo Saka",
         "birth_date": "05-09-2001",
-        "birthplace": "London, England",
+
         "position": "Forward",
         "team": "Arsenal",
         "nationality": "England",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Grealish.webp",
         "full_name": "Jack Grealish",
         "birth_date": "10-09-1995",
-        "birthplace": "Solihull, England",
+
         "position": "Winger",
         "team": "Manchester City",
         "nationality": "England",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Rashford.webp",
         "full_name": "Marcus Rashford",
         "birth_date": "31-10-1997",
-        "birthplace": "Manchester, England",
+
         "position": "Forward",
         "team": "Manchester United",
         "nationality": "England",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Bellingham.webp",
         "full_name": "Jude Bellingham",
         "birth_date": "29-06-2003",
-        "birthplace": "Stourbridge, England",
+
         "position": "Attacking Midfielder",
         "team": "Real Madrid",
         "nationality": "England",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Rice.webp",
         "full_name": "Declan Rice",
         "birth_date": "14-01-1999",
-        "birthplace": "London, England",
+
         "position": "Defensive Midfielder",
         "team": "Arsenal",
         "nationality": "England",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Alexander-A.webp",
         "full_name": "Trent Alexander-A",
         "birth_date": "07-10-1998",
-        "birthplace": "Liverpool, England",
+
         "position": "Right-back",
         "team": "Liverpool",
         "nationality": "England",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Stones.webp",
         "full_name": "John Stones",
         "birth_date": "28-05-1994",
-        "birthplace": "Barnsley, England",
+
         "position": "Center-back",
         "team": "Manchester City",
         "nationality": "England",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Tomori.webp",
         "full_name": "Fikayo Tomori",
         "birth_date": "19-12-1997",
-        "birthplace": "Calgary, Canada",
+
         "position": "Center-back",
         "team": "AC Milan",
         "nationality": "England",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Shaw.webp",
         "full_name": "Luke Shaw",
         "birth_date": "12-07-1995",
-        "birthplace": "Kingston upon Thames, England",
+
         "position": "Left-back",
         "team": "Manchester United",
         "nationality": "England",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Ramsdale.webp",
         "full_name": "Aaron Ramsdale",
         "birth_date": "14-05-1998",
-        "birthplace": "Stoke-on-Trent, England",
+
         "position": "Goalkeeper",
         "team": "Arsenal",
         "nationality": "England",

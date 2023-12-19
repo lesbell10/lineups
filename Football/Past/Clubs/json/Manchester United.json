@@ -5,7 +5,7 @@
   "img": "/football/img/players/Ibrahimovic.webp",
   "full_name": "Zlatan Ibrahimovic",
   "birth_date": "03-10-1981",
-  "birthplace": "Malmo, Sweden",
+
   "position": "Striker",
   "team": "Retired",
   "nationality": "Sweden",
@@ -18,7 +18,7 @@
   "img": "/football/img/players/van Persie.webp",
   "full_name": "Robin van Persie",
   "birth_date": "06-08-1983",
-  "birthplace": "Rotterdam, Netherlands",
+
   "position": "Forward",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -31,7 +31,7 @@
   "img": "/football/img/players/Rooney.webp",
   "full_name": "Wayne Rooney",
   "birth_date": "24-10-1985",
-  "birthplace": "Liverpool, England",
+
   "position": "Forward",
   "team": "Retired",
   "nationality": "England",
@@ -44,7 +44,7 @@
   "img": "/football/img/players/Di Maria.webp",
   "full_name": "Angel Di Maria",
   "birth_date": "14-02-1988",
-  "birthplace": "Rosario, Argentina",
+
   "position": "Left Winger",
   "team": "Benfica",
   "nationality": "Argentina",
@@ -57,7 +57,7 @@
   "img": "/football/img/players/Pogba.webp",
   "full_name": "Paul Pogba",
   "birth_date": "15-03-1993",
-  "birthplace": "Lagny-sur-Marne, France",
+
   "position": "Central Midfielder",
   "team": "Juventus",
   "nationality": "France",
@@ -70,7 +70,7 @@
   "img": "/football/img/players/Carrick.webp",
   "full_name": "Michael Carrick",
   "birth_date": "28-07-1981",
-  "birthplace": "Wallsend, England",
+
   "position": "Defensive Midfielder",
   "team": "Retired",
   "nationality": "England",
@@ -83,7 +83,7 @@
   "img": "/football/img/players/Valencia.webp",
   "full_name": "Antonio Valencia",
   "birth_date": "04-08-1985",
-  "birthplace": "Nueva Loja, Ecuador",
+
   "position": "Right Back",
   "team": "Retired",
   "nationality": "Ecuador",
@@ -96,7 +96,7 @@
   "img": "/football/img/players/Ferdinand.webp",
   "full_name": "Rio Ferdinand",
   "birth_date": "07-11-1978",
-  "birthplace": "Peckham, England",
+
   "position": "Center-Back",
   "team": "Retired",
   "nationality": "England",
@@ -109,7 +109,7 @@
   "img": "/football/img/players/Vidic.webp",
   "full_name": "Nemanja Vidic",
   "birth_date": "21-10-1981",
-  "birthplace": "Uzice, Serbia",
+
   "position": "Center-Back",
   "team": "Retired",
   "nationality": "Serbia",
@@ -122,7 +122,7 @@
   "img": "/football/img/players/Evra.webp",
   "full_name": "Patrice Evra",
   "birth_date": "15-05-1981",
-  "birthplace": "Dakar, Senegal",
+
   "position": "Left Back",
   "team": "Retired",
   "nationality": "France",
@@ -135,7 +135,7 @@
   "img": "/football/img/players/De Gea.webp",
   "full_name": "David de Gea",
   "birth_date": "07-11-1990",
-  "birthplace": "Madrid, Spain",
+
   "position": "Goalkeeper",
   "team": "Free Agent",
   "nationality": "Spain",

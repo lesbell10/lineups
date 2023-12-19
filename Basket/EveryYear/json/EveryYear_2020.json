@@ -5,7 +5,7 @@
     "img": "/basket/img/players/J Harden.png",
     "full_name": "James Harden",
     "birth_date": "26-08-1989",
-    "birthplace": "Los Angeles, California, USA",
+
     "team": "Los Angeles Clippers",
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
@@ -19,7 +19,7 @@
     "img": "/basket/img/players/K Leonard.png",
     "full_name": "Kawhi Leonard",
     "birth_date": "29-06-1991",
-    "birthplace": "Los Angeles, California, USA",
+
     "team": "Los Angeles Clippers",
     "nationality": "USA",
     "positions": ["Small Forward"],
@@ -33,7 +33,7 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-    "birthplace": "Akron, Ohio, USA",
+
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
@@ -47,7 +47,7 @@
     "img": "/basket/img/players/K Durant.png",
     "full_name": "Kevin Durant",
     "birth_date": "29-09-1988",
-    "birthplace": "Washington, D.C., USA",
+
     "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
@@ -61,7 +61,7 @@
     "img": "/basket/img/players/G Antetokounmpo.png",
     "full_name": "G Antetokounmpo",
     "birth_date": "06-12-1994",
-    "birthplace": "Athens, Greece",
+
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
     "positions": ["Power Forward"],

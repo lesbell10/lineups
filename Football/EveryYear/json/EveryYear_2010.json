@@ -5,7 +5,7 @@
         "img": "/football/img/players/F Torres.webp",
         "full_name": "Fernando Torres",
         "birth_date": "20-03-1984",
-        "birthplace": "Fuenlabrada, Spain",
+
         "position": "Striker",
         "team": "Retired",
         "nationality": "Spain",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Attacking Midfielder, Right Winger",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Kaka.webp",
         "full_name": "Ricardo Kaka",
         "birth_date": "22-04-1982",
-        "birthplace": "Gama, Brazil",
+
         "position": "Attacking Midfield",
         "team": "Retired",
         "nationality": "Brazil",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "position": "Left Winger",
         "team": "Al-Nassr",
         "nationality": "Portugal",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernández",
         "birth_date": "25-01-1980",
-        "birthplace": "Terrassa, Spain",
+
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "Spain",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Essien.webp",
         "full_name": "Michael Essien",
         "birth_date": "03-12-1982",
-        "birthplace": "Accra, Ghana",
+
         "position": "Defensive Midfield",
         "team": "Retired",
         "nationality": "Ghana",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/D Alves.webp",
         "full_name": "Daniel Alves",
         "birth_date": "06-05-1983",
-        "birthplace": "Juazeiro, Brazil",
+
         "position": "Right-Back",
         "team": "Pumas",
         "nationality": "Brazil",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Puyol.webp",
         "full_name": "Carles Puyol",
         "birth_date": "13-04-1978",
-        "birthplace": "La Pobla de Segur, Spain",
+
         "position": "Centre-Back",
         "team": "Retired",
         "nationality": "Spain",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Ferdinand.webp",
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
-        "birthplace": "London, England",
+
         "position": "Centre-Back",
         "team": "Retired",
         "nationality": "England",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
-        "birthplace": "London, England",
+
         "position": "Left-Back",
         "team": "Retired",
         "nationality": "England",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Buffon.webp",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
-        "birthplace": "Carrara, Italy",
+
         "position": "Goalkeeper",
         "team": "Retired",
         "nationality": "Italy",

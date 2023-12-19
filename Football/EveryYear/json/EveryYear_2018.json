@@ -5,7 +5,7 @@
         "img": "/football/img/players/Suarez.webp",
         "full_name": "Luis Suarez",
         "birth_date": "24-01-1987",
-        "birthplace": "Salto, Uruguay",
+
         "position": "Centre-Forward",
         "team": "Gremio",
         "nationality": "Uruguay",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-        "birthplace": "Funchal, Portugal",
+
         "position": "Forward",
         "team": "Al-Nassr",
         "nationality": "Portugal",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-        "birthplace": "Rosario, Argentina",
+
         "position": "Attacking Midfielder",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
-        "birthplace": "Mogi das Cruzes, Brazil",
+
         "position": "Forward",
         "team": "Al-Hilal",
         "nationality": "Brazil",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Modric.webp",
         "full_name": "Luka Modric",
         "birth_date": "09-09-1985",
-        "birthplace": "Zadar, Croatia",
+
         "position": "Central Midfield",
         "team": "Real Madrid",
         "nationality": "Croatia",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
-        "birthplace": "Greifswald, Germany",
+
         "position": "Defensive Midfield",
         "team": "Real Madrid",
         "nationality": "Germany",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Carvajal.webp",
         "full_name": "Daniel Carvajal",
         "birth_date": "11-01-1992",
-        "birthplace": "Leganés, Madrid, Spain",
+
         "position": "Right-Back",
         "team": "Real Madrid",
         "nationality": "Spain",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-        "birthplace": "Camas, Spain",
+
         "position": "Centre-Back",
         "team": "Sevilla",
         "nationality": "Spain",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Chiellini.webp",
         "full_name": "Giorgio Chiellini",
         "birth_date": "14-08-1984",
-        "birthplace": "Pisa, Italy",
+
         "position": "Centre-Back",
         "team": "Los Angeles FC",
         "nationality": "Italy",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/Marcelo.webp",
         "full_name": "Marcelo Vieira",
         "birth_date": "12-05-1988",
-        "birthplace": "Rio de Janeiro, Brazil",
+
         "position": "Left-Back",
         "team": "Fluminense",
         "nationality": "Brazil",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Neuer.webp",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
-        "birthplace": "Gelsenkirchen, Germany",
+
         "position": "Goalkeeper",
         "team": "Bayern Munich",
         "nationality": "Germany",

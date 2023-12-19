@@ -5,7 +5,7 @@
   "img": "/football/img/players/Falcao.webp",
   "full_name": "Radamel Falcao",
   "birth_date": "10-02-1986",
-  "birthplace": "Santa Marta, Colombia",
+
   "position": "Striker",
   "team": "Rayo Vallecano",
   "nationality": "Colombia",
@@ -18,7 +18,7 @@
   "img": "/football/img/players/Carrasco.webp",
   "full_name": "Yannick Carrasco",
   "birth_date": "04-09-1993",
-  "birthplace": "Ixelles, Belgium",
+
   "position": "Left Winger",
   "team": "Al-Shabab",
   "nationality": "Belgium",
@@ -31,7 +31,7 @@
   "img": "/football/img/players/Griezmann.webp",
   "full_name": "Antoine Griezmann",
   "birth_date": "21-03-1991",
-  "birthplace": "Mâcon, France",
+
   "position": "Forward",
   "team": "Atletico Madrid",
   "nationality": "France",
@@ -44,7 +44,7 @@
   "img": "/football/img/players/Turan.webp",
   "full_name": "Arda Turan",
   "birth_date": "30-01-1987",
-  "birthplace": "Istanbul, Turkey",
+
   "position": "Left Winger",
   "team": "Galatasaray",
   "nationality": "Turkey",
@@ -57,7 +57,7 @@
   "img": "/football/img/players/Koke.webp",
   "full_name": "Koke",
   "birth_date": "08-01-1992",
-  "birthplace": "Madrid, Spain",
+
   "position": "Central Midfielder",
   "team": "Atletico Madrid",
   "nationality": "Spain",
@@ -70,7 +70,7 @@
   "img": "/football/img/players/Saul.webp",
   "full_name": "Saul Niguez",
   "birth_date": "21-11-1994",
-  "birthplace": "Elche, Spain",
+
   "position": "Central Midfielder",
   "team": "Atletico Madrid",
   "nationality": "Spain",
@@ -83,7 +83,7 @@
   "img": "/football/img/players/Juanfran.webp",
   "full_name": "Juan Francisco Torres",
   "birth_date": "09-01-1985",
-  "birthplace": "Crevillent, Spain",
+
   "position": "Right Back",
   "team": "Retired",
   "nationality": "Spain",
@@ -96,7 +96,7 @@
   "img": "/football/img/players/Godin.webp",
   "full_name": "Diego Godin",
   "birth_date": "16-02-1986",
-  "birthplace": "Rosario, Uruguay",
+
   "position": "Center-Back",
   "team": "Retired",
   "nationality": "Uruguay",
@@ -109,7 +109,7 @@
   "img": "/football/img/players/Miranda.webp",
   "full_name": "Joao Miranda",
   "birth_date": "07-09-1984",
-  "birthplace": "Paranavaí, Brazil",
+
   "position": "Center-Back",
   "team": "Retired",
   "nationality": "Brazil",
@@ -122,7 +122,7 @@
   "img": "/football/img/players/F Luis.webp",
   "full_name": "Filipe Luis",
   "birth_date": "09-08-1985",
-  "birthplace": "Jaraguá do Sul, Brazil",
+
   "position": "Left Back",
   "team": "Retired",
   "nationality": "Brazil",
@@ -135,7 +135,7 @@
   "img": "/football/img/players/Oblak.webp",
   "full_name": "Jan Oblak",
   "birth_date": "07-01-1993",
-  "birthplace": "Škofja Loka, Slovenia",
+
   "position": "Goalkeeper",
   "team": "Atletico Madrid",
   "nationality": "Slovenia",

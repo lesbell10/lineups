@@ -5,9 +5,9 @@
     "img": "/football/img/players/G Ramos.webp",
     "full_name": "Goncalo Ramos",
     "birth_date": "20-06-2001",
-    "birthplace": "Olhão, Portugal",
+
     "position": "Striker",
-    "team": "Benfica",
+    "team": "PSG",
     "nationality": "Portugal",
     "height": "6'0\"",
     "description": "Promising striker with excellent finishing skills"  
@@ -18,9 +18,9 @@
     "img": "/football/img/players/O Dembele.webp",
     "full_name": "Ousmane Dembele",
     "birth_date": "15-05-1997",
-    "birthplace": "Vernon, France",
+
     "position": "Forward",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "France",
     "height": "5'10\"",
     "description": "Talented forward known for his dribbling and speed."
@@ -31,9 +31,9 @@
     "img": "/football/img/players/Asensio.webp",
     "full_name": "Marco Asensio",
     "birth_date": "21-01-1996",
-    "birthplace": "Palma, Spain",
+
     "position": "Right Winger",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Spain",
     "height": "6'0\"",
     "description": "Creative midfielder with great vision and passing."
@@ -44,9 +44,9 @@
     "img": "/football/img/players/Mbappe.webp",
     "full_name": "Kylian Mbappe",
     "birth_date": "20-12-1998",
-    "birthplace": "Bondy, France",
+
     "position": "Forward",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "France",
     "height": "6'0\"",
     "description": "World-class forward known for his blistering pace and skill."
@@ -57,9 +57,9 @@
     "img": "/football/img/players/Vitinha.webp",
     "full_name": "Vitinha Ferreira",
     "birth_date": "05-09-1999",
-    "birthplace": "Porto, Portugal",
+
     "position": "Central Midfielder",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Portugal",
     "height": "5'8\"",
     "description": "Young midfielder with flair and creativity."
@@ -70,9 +70,9 @@
     "img": "/football/img/players/Ugarte.webp",
     "full_name": "Federico Ugarte",
     "birth_date": "22-07-1998",
-    "birthplace": "Montevideo, Uruguay",
+
     "position": "Defensive Midfielder",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Uruguay",
     "height": "6'0\"",
     "description": "Talented Uruguayan midfielder with great potential."
@@ -83,9 +83,9 @@
     "img": "/football/img/players/Hakimi.webp",
     "full_name": "Achraf Hakimi",
     "birth_date": "04-11-1998",
-    "birthplace": "Madrid, Spain",
+
     "position": "Defender",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Morocco",
     "height": "5'11\"",
     "description": "Attack-minded full-back known for his speed and versatility."
@@ -96,9 +96,9 @@
     "img": "/football/img/players/Marquinhos.webp",
     "full_name": "Marquinhos Correa",
     "birth_date": "14-05-1994",
-    "birthplace": "São Paulo, Brazil",
+
     "position": "Defender",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Brazil",
     "height": "6'0\"",
     "description": "Versatile defender and captain with strong defensive skills."
@@ -109,9 +109,9 @@
     "img": "/football/img/players/Skriniar.webp",
     "full_name": "Milan Skriniar",
     "birth_date": "11-02-1995",
-    "birthplace": "Ziar nad Hronom, Slovakia",
+
     "position": "Defender",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Slovakia",
     "height": "6'2\"",
     "description": "Solid center-back known for his aerial ability."
@@ -122,9 +122,9 @@
     "img": "/football/img/players/L Hernandez.webp",
     "full_name": "Lucas Hernandez",
     "birth_date": "14-02-1996",
-    "birthplace": "Marseille, France",
+
     "position": "Defender",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "France",
     "height": "6'0\"",
     "description": "Versatile defender who can play left-back or center-back."
@@ -135,9 +135,9 @@
     "img": "/football/img/players/Donnarumma.webp",
     "full_name": "Gianluigi Donnarumma",
     "birth_date": "25-02-1999",
-    "birthplace": "Castellammare di Stabia, Italy",
+
     "position": "Goalkeeper",
-    "team": "Paris Saint-Germain",
+    "team": "PSG",
     "nationality": "Italy",
     "height": "6'5\"",
     "description": "Towering goalkeeper with exceptional shot-stopping abilities."

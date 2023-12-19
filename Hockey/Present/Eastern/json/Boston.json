@@ -5,7 +5,7 @@
     "img": "/hockey/img/players/Marchand.jpg",
     "full_name": "Brad Marchand",
     "birth_date": "11-05-1988",
-    "birthplace": "Halifax, Canada",
+
     "team": "Boston Bruins",
     "nationality": "Canada",
     "position": "Left Winger",
@@ -19,7 +19,7 @@
     "img": "/hockey/img/players/Zacha.jpg",
     "full_name": "Pavel Zacha",
     "birth_date": "06-04-1997",
-    "birthplace": "Brno, Czech Republic",
+
     "team": "Boston Bruins",
     "nationality": "Czech Republic",
     "position": "Center",
@@ -33,7 +33,7 @@
     "img": "/hockey/img/players/Pastrnak.jpg",
     "full_name": "David Pastrnak",
     "birth_date": "25-05-1996",
-    "birthplace": "Havirov, Czech Republic",
+
     "team": "Boston Bruins",
     "nationality": "Czech Republic",
     "position": "Right Winger",
@@ -47,7 +47,7 @@
     "img": "/hockey/img/players/McAvoy.jpg",
     "full_name": "Charlie McAvoy",
     "birth_date": "21-12-1997",
-    "birthplace": "Long Beach, USA",
+
     "team": "Boston Bruins",
     "nationality": "USA",
     "position": "Defenseman",
@@ -61,7 +61,7 @@
     "img": "/hockey/img/players/Carlo.jpg",
     "full_name": "Brandon Carlo",
     "birth_date": "26-11-1996",
-    "birthplace": "Colorado Springs, USA",
+
     "team": "Boston Bruins",
     "nationality": "USA",
     "position": "Defenseman",
@@ -75,7 +75,7 @@
     "img": "/hockey/img/players/Ullmark.jpg",
     "full_name": "Linus Ullmark",
     "birth_date": "31-07-1993",
-    "birthplace": "Lugnvik, Sweden",
+
     "team": "Boston Bruins",
     "nationality": "Sweden",
     "position": "Goalie",
