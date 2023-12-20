@@ -3563,5 +3563,585 @@
     "nationality": "Brazil",
     "position": "Forward",
     "description": "Professional footballer from Brazil."
-}
+},
+  {
+    "id": 330,
+    "last_name": "Akanji",
+    "img": "/football/img/players/Akanji.webp",
+    "full_name": "Manuel Akanji",
+    "team": "Manchester City",
+    "nationality": "Switzerland",
+    "position": "Centre-Back",
+    "description": "Talented Swiss defender playing at the highest level."
+  },
+  {
+    "id": 331,
+    "last_name": "Kovacic",
+    "img": "/football/img/players/Kovacic.webp",
+    "full_name": "Mateo Kovacic",
+    "team": "Manchester City",
+    "nationality": "Croatia",
+    "position": "Central Midfielder",
+    "description": "Midfield maestro with great vision and passing skills."
+  },
+  {
+    "id": 332,
+    "last_name": "N Ake",
+    "img": "/football/img/players/N Ake.webp",
+    "full_name": "Nathan Ake",
+    "team": "Manchester City",
+    "nationality": "Netherlands",
+    "position": "Centre-Back",
+    "description": "Versatile Dutch defender capable of playing multiple positions."
+  },
+  {
+    "id": 333,
+    "last_name": "Ortega",
+    "img": "/football/img/players/Ortega.webp",
+    "full_name": "Stefan Ortega",
+    "team": "Manchester City",
+    "nationality": "Germay",
+    "position": "Goalkeper",
+    "description": "A skilled, agile, German goalkeeper"
+  },
+  {
+    "id": 334,
+    "last_name": "R Lewis",
+    "img": "/football/img/players/R Lewis.webp",
+    "full_name": "Rico Lewis",
+    "team": "Manchester City",
+    "nationality": "England",
+    "position": "Defender",
+    "description": "Northern Irish left-back known for his pace and crossing."
+  },
+  {
+    "id": 335,
+    "last_name": "Ferland Mendy",
+    "img": "/football/img/players/F Mendy.webp",
+    "full_name": "Ferland Mendy",
+    "team": "Real Madrid",
+    "nationality": "France",
+    "position": "Defender",
+    "description": "Solid French left-back with defensive prowess."
+  },
+  {
+    "id": 336,
+    "last_name": "Joselu",
+    "img": "/football/img/players/Joselu.webp",
+    "full_name": "Joselu Sanmartín",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Forward",
+    "description": "Experienced Spanish striker with a good goal-scoring record."
+  },
+  {
+    "id": 337,
+    "last_name": "Andriy Lunin",
+    "img": "/football/img/players/Lunin.webp",
+    "full_name": "Andriy Lunin",
+    "team": "Real Madrid",
+    "nationality": "Ukraine",
+    "position": "Goalkeeper",
+    "description": "Talented Ukrainian goalkeeper with great reflexes."
+  },
+  {
+    "id": 338,
+    "last_name": "Mazraoui",
+    "img": "/football/img/players/Mazraoui.webp",
+    "full_name": "Noussair Mazraoui",
+    "team": "Bayern Munich",
+    "nationality": "Morocco",
+    "position": "Right-Back",
+    "description": "Versatile Moroccan full-back known for his attacking prowess."
+  },
+  {
+    "id": 339,
+    "last_name": "Dayot Upamecano",
+    "img": "/football/img/players/Upamecano.webp",
+    "full_name": "Dayot Upamecano",
+    "team": "Bayern Munich",
+    "nationality": "France",
+    "position": "Centre-Back",
+    "description": "French center-back known for his strength and tackling ability."
+  },
+  {
+    "id": 340,
+    "last_name": "M Tel",
+    "img": "/football/img/players/M Tel.webp",
+    "full_name": "Mathys Tel",
+    "team": "Bayern Munich",
+    "nationality": "France",
+    "position": "Unknown",
+    "description": "Promising young talent making strides in the football world."
+  },
+  {
+    "id": 341,
+    "last_name": "B Sarr",
+    "img": "/football/img/players/B Sarr.webp",
+    "full_name": "Bouna Sarr",
+    "team": "Bayern Munich",
+    "nationality": "Senegal",
+    "position": "Centre-Back",
+    "description": "Senegalese right-back known for his defensive skills."
+  },
+  {
+    "id": 342,
+    "last_name": "Kessie",
+    "img": "/football/img/players/Kessie.webp",
+    "full_name": "Franck Kessie",
+    "team": "Al-Ahli",
+    "nationality": "Ivory Coast",
+    "position": "Defensive Midfielder",
+    "description": "Ivorian midfielder with excellent ball control and physicality."
+  },
+  {
+    "id": 343,
+    "last_name": "Raphinha",
+    "img": "/football/img/players/Raphinha.webp",
+    "full_name": "Raphinha Dias",
+    "team": "Barcelona",
+    "nationality": "Brazil",
+    "position": "Right Winger",
+    "description": "Creative Brazilian midfielder known for his dribbling skills."
+  },
+  {
+    "id": 344,
+    "last_name": "Christensen",
+    "img": "/football/img/players/Christensen.webp",
+    "full_name": "Andreas Christensen",
+    "team": "Barcelona",
+    "nationality": "Denmark",
+    "position": "Centre-Back",
+    "description": "Danish center-back with strong defensive abilities."
+  },
+  {
+    "id": 345,
+    "last_name": "Fe Torres",
+    "img": "/football/img/players/Fe Torres.webp",
+    "full_name": "Ferran Torres",
+    "team": "Manchester City",
+    "nationality": "Spain",
+    "position": "Forward",
+    "description": "Spanish forward known for his pace and goal-scoring prowess."
+  },
+  {
+    "id": 346,
+    "last_name": "O Romeu",
+    "img": "/football/img/players/O Romeu.webp",
+    "full_name": "Oriol Romeu",
+    "team": "Barcelona",
+    "nationality": "Spain",
+    "position": "Defensive Midfielder",
+    "description": "Spanish midfielder with strong defensive qualities."
+  },
+  {
+    "id": 347,
+    "last_name": "S Roberto",
+    "img": "/football/img/players/S Roberto.webp",
+    "full_name": "Sergi Roberto",
+    "team": "Barcelona",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Versatile Spanish midfielder known for his work ethic."
+  },
+  {
+    "id": 348,
+    "last_name": "M Alonso",
+    "img": "/football/img/players/M Alonso.webp",
+    "full_name": "Marcos Alonso",
+    "team": "Barcelona",
+    "nationality": "Spain",
+    "position": "Defender",
+    "description": "Spanish left-back known for his attacking prowess."
+  },
+  {
+    "id": 349,
+    "last_name": "D Nunez",
+    "img": "/football/img/players/D Nunez.webp",
+    "full_name": "Darwin Nunez",
+    "team": "Benfica",
+    "nationality": "Uruguay",
+    "position": "Forward",
+    "description": "Uruguayan striker with a promising future in football."
+  },
+  {
+    "id": 350,
+    "last_name": "W Endo",
+    "img": "/football/img/players/W Endo.webp",
+    "full_name": "Wataru Endo",
+    "team": "Liverpool",
+    "nationality": "Japan",
+    "position": "Defensive Midfielder",
+    "description": "Japanese midfielder known for his versatility."
+  },
+  {
+    "id": 351,
+    "last_name": "Matip",
+    "img": "/football/img/players/Matip.webp",
+    "full_name": "Joel Matip",
+    "team": "Liverpool",
+    "nationality": "Cameroon",
+    "position": "Centre-Back",
+    "description": "Cameroonian center-back with strong defensive abilities."
+  },
+  {
+    "id": 352,
+    "last_name": "Gravenberch",
+    "img": "/football/img/players/Gravenberch.webp",
+    "full_name": "Ryan Gravenberch",
+    "team": "Liverpool",
+    "nationality": "Netherlands",
+    "position": "Central Midfielder",
+    "description": "Dutch midfielder known for his composure on the ball."
+  },
+  {
+    "id": 353,
+    "last_name": "J Gomez",
+    "img": "/football/img/players/J Gomez.webp",
+    "full_name": "Joe Gomez",
+    "team": "Liverpool",
+    "nationality": "England",
+    "position": "Centre-Back",
+    "description": "English defender known for his pace and defensive skills."
+  },
+  {
+    "id": 354,
+    "last_name": "H Elliott",
+    "img": "/football/img/players/H Elliott.webp",
+    "full_name": "Harvey Elliott",
+    "team": "Liverpool",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "description": "Young English midfielder with great potential."
+  },
+  {
+    "id": 355,
+    "last_name": "C Jones",
+    "img": "/football/img/players/C Jones.webp",
+    "full_name": "Curtis Jones",
+    "team": "Liverpool",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "Talented English midfielder emerging at Liverpool."
+  },
+  {
+    "id": 356,
+    "last_name": "Tsimikas",
+    "img": "/football/img/players/Tsimikas.webp",
+    "full_name": "Konstantinos Tsimikas",
+    "team": "Liverpool",
+    "nationality": "Greece",
+    "position": "Left-Back",
+    "description": "Greek left-back known for his crossing ability."
+  },
+  {
+    "id": 357,
+    "last_name": "Kelleher",
+    "img": "/football/img/players/Kelleher.webp",
+    "full_name": "Caoimhin Kelleher",
+    "team": "Liverpool",
+    "nationality": "Ireland",
+    "position": "Goalkeeper",
+    "description": "Irish goalkeeper with great shot-stopping skills."
+  },
+  {
+    "id": 358,
+    "last_name": "K Muani",
+    "img": "/football/img/players/K Muani.webp",
+    "full_name": "Randal Kolo Muani",
+    "team": "Nantes",
+    "nationality": "France",
+    "position": "Forward",
+    "description": "French striker with pace and dribbling skills."
+  },
+  {
+    "id": 359,
+    "last_name": "KI Lee",
+    "img": "/football/img/players/KI Lee.webp",
+    "full_name": "Kang In Lee",
+    "team": "PSG",
+    "nationality": "South Korea",
+    "position": "Right Winger",
+    "description": "South Korean playmaker with creativity."
+  },
+  {
+    "id": 360,
+    "last_name": "Mukiele",
+    "img": "/football/img/players/Mukiele.webp",
+    "full_name": "Nordi Mukiele",
+    "team": "PSG",
+    "nationality": "France",
+    "position": "Right-Back",
+    "description": "French defender known for his versatility."
+  },
+  {
+    "id": 361,
+    "last_name": "Soler",
+    "img": "/football/img/players/Soler.webp",
+    "full_name": "Carlos Soler",
+    "team": "PSG",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Spanish midfielder with passing and dribbling skills."
+  },
+  {
+    "id": 362,
+    "last_name": "Fabian",
+    "img": "/football/img/players/Fabian.webp",
+    "full_name": "Fabian Ruiz",
+    "team": "PSG",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Spanish midfielder known for his technical ability."
+  },
+  {
+    "id": 363,
+    "last_name": "Kimpembe",
+    "img": "/football/img/players/Kimpembe.webp",
+    "full_name": "Presnel Kimpembe",
+    "team": "PSG",
+    "nationality": "France",
+    "position": "Centre-Back",
+    "description": "French center-back with good defensive attributes."
+  },
+  {
+    "id": 364,
+    "last_name": "N Mendes",
+    "img": "/football/img/players/N Mendes.webp",
+    "full_name": "Nuno Mendes",
+    "team": "PSG",
+    "nationality": "Portugal",
+    "position": "Left-Back",
+    "description": "Portuguese left-back known for his attacking runs."
+  },
+  {
+    "id": 365,
+    "last_name": "Acerbi",
+    "img": "/football/img/players/Acerbi.webp",
+    "full_name": "Francesco Acerbi",
+    "team": "Inter Milan",
+    "nationality": "Italy",
+    "position": "Centre-Back",
+    "description": "Italian center-back with solid defensive skills."
+  },
+  {
+    "id": 366,
+    "last_name": "K Havertz",
+    "img": "/football/img/players/K Havertz.webp",
+    "full_name": "Kai Havertz",
+    "team": "Arsenal",
+    "nationality": "Germany",
+    "position": "Attacking Midfielder",
+    "description": "German playmaker with great vision and versatility."
+  },
+  {
+    "id": 367,
+    "last_name": "J Timber",
+    "img": "/football/img/players/J Timber.webp",
+    "full_name": "Jurrien Timber",
+    "team": "Arsenal",
+    "nationality": "Netherlands",
+    "position": "Right-Back",
+    "description": "Dutch defender known for his composure and passing ability."
+  },
+  {
+    "id": 368,
+    "last_name": "T Tomiyasu",
+    "img": "/football/img/players/T Tomiyasu.webp",
+    "full_name": "Takehiro Tomiyasu",
+    "team": "Arsenal",
+    "nationality": "Japan",
+    "position": "Right-Back",
+    "description": "Japanese versatile defender with strong aerial presence."
+  },
+  {
+    "id": 369,
+    "last_name": "Nketiah",
+    "img": "/football/img/players/Nketiah.webp",
+    "full_name": "Eddie Nketiah",
+    "team": "Arsenal",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "Young English striker with a knack for scoring goals."
+  },
+  {
+    "id": 370,
+    "last_name": "R Nelson",
+    "img": "/football/img/players/R Nelson.webp",
+    "full_name": "Reiss Nelson",
+    "team": "Arsenal",
+    "nationality": "England",
+    "position": "Forward",
+    "description": "English forward with dribbling skills."
+  },
+  {
+    "id": 371,
+    "last_name": "Elneny",
+    "img": "/football/img/players/Elneny.webp",
+    "full_name": "Mohamed Elneny",
+    "team": "Arsenal",
+    "nationality": "Egypt",
+    "position": "Central Midfielder",
+    "description": "Egyptian midfielder known for his work rate."
+  },
+  {
+    "id": 372,
+    "last_name": "M Mount",
+    "img": "/football/img/players/M Mount.webp",
+    "full_name": "Mason Mount",
+    "team": "Manchester United",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "English midfielder with creativity and work ethic."
+  },
+  {
+    "id": 373,
+    "last_name": "A Wan-Bissaka",
+    "img": "/football/img/players/A Wan-Bissaka.webp",
+    "full_name": "Aaron Wan-Bissaka",
+    "team": "Manchester United",
+    "nationality": "England",
+    "position": "Right-Back",
+    "description": "English right-back known for his tackling and defensive skills."
+  },
+  {
+    "id": 374,
+    "last_name": "Pellistri",
+    "img": "/football/img/players/Pellistri.webp",
+    "full_name": "Facundo Pellistri",
+    "team": "Manchester United",
+    "nationality": "Uruguay",
+    "position": "Forward",
+    "description": "Young Uruguayan forward with potential."
+  },
+  {
+    "id": 375,
+    "last_name": "A Garnacho",
+    "img": "/football/img/players/A Garnacho.webp",
+    "full_name": "Alejandro Garnacho",
+    "team": "Manchester United",
+    "nationality": "Spain",
+    "position": "Left Winger",
+    "description": "Spanish forward making waves at Manchester United."
+  },
+  {
+    "id": 376,
+    "last_name": "Malacia",
+    "img": "/football/img/players/Malacia.webp",
+    "full_name": "Tyrell Malacia",
+    "team": "Manchester United",
+    "nationality": "Netherlands",
+    "position": "Left-Back",
+    "description": "Dutch left-back known for his pace and defensive skills."
+  },
+  {
+    "id": 377,
+    "last_name": "S Reguilon",
+    "img": "/football/img/players/S Reguilon.webp",
+    "full_name": "Sergio Reguilon",
+    "team": "Manchester United",
+    "nationality": "Spain",
+    "position": "Left-Back",
+    "description": "Spanish left-back with attacking prowess."
+  },
+  {
+    "id": 378,
+    "last_name": "McTominay",
+    "img": "/football/img/players/McTominay.webp",
+    "full_name": "Scott McTominay",
+    "team": "Manchester United",
+    "nationality": "Scotland",
+    "position": "Central Midfielder",
+    "description": "Scottish midfielder known for his physicality."
+  },
+  {
+    "id": 379,
+    "last_name": "A Martial",
+    "img": "/football/img/players/A Martial.webp",
+    "full_name": "Anthony Martial",
+    "team": "Manchester United",
+    "nationality": "France",
+    "position": "Forward",
+    "description": "French forward with dribbling and goal-scoring skills."
+  },
+  {
+    "id": 380,
+    "last_name": "Lindelof",
+    "img": "/football/img/players/Lindelof.webp",
+    "full_name": "Victor Lindelof",
+    "team": "Manchester United",
+    "nationality": "Sweden",
+    "position": "Centre-Back",
+    "description": "Swedish center-back with good passing ability."
+  },
+  {
+    "id": 381,
+    "last_name": "S Amrabat",
+    "img": "/football/img/players/S Amrabat.webp",
+    "full_name": "Sofyan Amrabat",
+    "team": "Manchester United",
+    "nationality": "Morocco",
+    "position": "Defensive Midfielder",
+    "description": "Moroccan midfielder known for his ball control."
+  },
+  {
+    "id": 382,
+    "last_name": "Mainoo",
+    "img": "/football/img/players/Mainoo.webp",
+    "full_name": "Kobbie Mainoo",
+    "team": "Manchester United",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "Upcoming talent with potential."
+  },
+  {
+    "id": 383,
+    "last_name": "A Milik",
+    "img": "/football/img/players/A Milik.webp",
+    "full_name": "Arkadiusz Milik",
+    "team": "Marseille",
+    "nationality": "Poland",
+    "position": "Striker",
+    "description": "Polish striker with a good goal-scoring record."
+  },
+  {
+    "id": 384,
+    "last_name": "W Fofana",
+    "img": "/football/img/players/W Fofana.webp",
+    "full_name": "Wesley Fofana",
+    "team": "Chelsea",
+    "nationality": "France",
+    "position": "Centre-Back",
+    "description": "French center-back with promising talent."
+  },
+  {
+    "id": 385,
+    "last_name": "Cucurella",
+    "img": "/football/img/players/Cucurella.webp",
+    "full_name": "Marc Cucurella",
+    "team": "Chelsea",
+    "nationality": "Spain",
+    "position": "Left-Back",
+    "description": "Spanish midfielder known for his versatility."
+  },
+  {
+    "id": 386,
+    "last_name": "C Gallagher",
+    "img": "/football/img/players/C Gallagher.webp",
+    "full_name": "Conor Gallagher",
+    "team": "Chelsea",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "Young English midfielder with great potential."
+  },
+  {
+    "id": 387,
+    "last_name": "Broja",
+    "img": "/football/img/players/Broja.webp",
+    "full_name": "Armando Broja",
+    "team": "Chelsea",
+    "nationality": "Albania",
+    "position": "Striker",
+    "description": "Albanian forward with promising talent."
+  }
 ]

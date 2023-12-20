@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0
 
@@ -34,6 +35,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/basket/past/nations/json/usa.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The USA Basketball National Team, formed in 1936, has a storied history. Dominating in Olympics and World Championships, they blend NBA/WNBA talent with college stars. Their global influence is vast, exemplifying excellence and popularizing basketball worldwide."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     } if (selectedYear === "0") {
         SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
@@ -51,7 +61,18 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/basket/past/nations/json/europe.json");
 
-    } if (selectedYear === "1") {
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "European basketball, introduced in the 1920s, quickly gained popularity. It led to the formation of clubs, leagues, and the prestigious EuroLeague. The sport's growth in Europe has been marked by strong national teams and a significant influence on global basketball."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+    
+    if (selectedYear === "1") {
         SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
         SF.textContent = "Olajuwon";
@@ -67,6 +88,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/rest of world.png";
 
         MainFetchPopUp("/basket/past/nations/json/rest of world.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Basketball, invented in 1891 in the USA, rapidly spread worldwide. It became an Olympic sport in 1936. Globally, leagues, clubs, and international competitions flourished, showcasing diverse talents and styles, making basketball a universally beloved and influential sport."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 }
 
@@ -128,7 +158,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/past/nations/json/usa.json");
 
     }
-    
+
     if (selectedYear === 0) {
         SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
@@ -147,7 +177,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/past/nations/json/europe.json");
 
     }
-    
+
     if (selectedYear === 1) {
         SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";

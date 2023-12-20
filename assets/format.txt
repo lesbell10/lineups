@@ -3,7 +3,7 @@
   {
     "id": 1,
     "last_name": ,
-    "img": "/football/img/players/{last_name}}.webp",
+    "img": "/football/img/players/{last_name}.webp",
     "full_name": ,
     "team": ,
     "nationality": (name),

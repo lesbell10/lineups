@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 function updatePlayerInfo() {
 

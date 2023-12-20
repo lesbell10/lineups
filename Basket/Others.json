@@ -44,7 +44,7 @@
   {
     "id": 6,
     "last_name": "V Carter",
-    "img": "/basket/img/players/V Carter.webp",
+    "img": "/basket/img/players/V Carter.png",
     "full_name": "Vince Carter",
     "birth_date": "26-01-1977",
     "birthplace": "Daytona Beach, USA",
@@ -156,7 +156,7 @@
     {
     "id": 17,
     "last_name": "M Jordan",
-    "img": "/basket/img/players/M Jordan.webp",
+    "img": "/basket/img/players/M Jordan.png",
     "full_name": "Michael Jordan",
     "team": "Chicago Bulls (Retired)",
     "nationality": "USA",
@@ -176,7 +176,7 @@
   {
     "id": 19,
     "last_name": "Bird",
-    "img": "/basket/img/players/L Bird.webp",
+    "img": "/basket/img/players/L Bird.png",
     "full_name": "Larry Bird",
     "team": "Retired",
     "nationality": "USA",
@@ -196,7 +196,7 @@
   {
     "id": 21,
     "last_name": "S Pippen",
-    "img": "/basket/img/players/S Pippen.webp",
+    "img": "/basket/img/players/S Pippen.png",
     "full_name": "Scottie Pippen",
     "team": "Chicago Bulls (Retired)",
     "nationality": "USA",
@@ -226,7 +226,7 @@
   {
     "id": 24,
     "last_name": "M Finley",
-    "img": "/basket/img/players/M Finley.webp",
+    "img": "/basket/img/players/M Finley.png",
     "full_name": "Michael Finley",
     "team": "Retired",
     "nationality": "USA",
@@ -256,7 +256,7 @@
   {
     "id": 27,
     "last_name": "W Chamberlain",
-    "img": "/basket/img/players/W Chamberlain.webp",
+    "img": "/basket/img/players/W Chamberlain.png",
     "full_name": "Wilt Chamberlain",
     "team": "Retired",
     "nationality": "USA",
@@ -306,7 +306,7 @@
   {
     "id": 32,
     "last_name": "S Marion",
-    "img": "/basket/img/players/S Marion.webp",
+    "img": "/basket/img/players/S Marion.png",
     "full_name": "Shawn Marion",
     "team": "Retired",
     "nationality": "USA",
@@ -336,7 +336,7 @@
   {
     "id": 35,
     "last_name": "C Drexler",
-    "img": "/basket/img/players/C Drexler.webp",
+    "img": "/basket/img/players/C Drexler.png",
     "full_name": "Clyde Drexler",
     "team": "Retired",
     "nationality": "USA",
@@ -356,7 +356,7 @@
   {
     "id": 37,
     "last_name": "J Stockton",
-    "img": "/basket/img/players/J Stockton.webp",
+    "img": "/basket/img/players/J Stockton.png",
     "full_name": "John Stockton",
     "team": "Retired",
     "nationality": "USA",
@@ -396,7 +396,7 @@
   {
     "id": 41,
     "last_name": "J Erving",
-    "img": "/basket/img/players/J Erving.webp",
+    "img": "/basket/img/players/J Erving.png",
     "full_name": "Julius Erving",
     "team": "Retired",
     "nationality": "USA",
@@ -406,7 +406,7 @@
   {
     "id": 42,
     "last_name": "J West",
-    "img": "/basket/img/players/J West.webp",
+    "img": "/basket/img/players/J West.png",
     "full_name": "Jerry West",
     "team": "Retired",
     "nationality": "USA",
@@ -922,5 +922,105 @@
     "nationality": "USA",
     "positions": ["Center"],
     "description": "Former Rookie of the Year known for his shot-blocking."
+  },
+    {
+    "id": 96,
+    "last_name": "Hunter",
+    "img": "/basket/img/players/Hunter.png",
+    "full_name": "De’Andre Hunter",
+    "team": "Atlanta Hawks",
+    "nationality": "USA",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Versatile wing with defensive skills and scoring ability."
+  },
+  {
+    "id": 97,
+    "last_name": "Miller",
+    "img": "/basket/img/players/B Miller.png",
+    "full_name": "Brandon Miller",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Former NBA player known for his backcourt skills."
+  },
+  {
+    "id": 98,
+    "last_name": "Williams",
+    "img": "/basket/img/players/Williams.png",
+    "full_name": "Mark Williams",
+    "team": "Charlotte Hornets",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Rising center with shot-blocking and rebounding skills."
+  },
+  {
+    "id": 99,
+    "last_name": "Braun",
+    "img": "/basket/img/players/Braun.png",
+    "full_name": "Christian Braun",
+    "team": "Denver Nuggets",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Sharpshooting guard known for his perimeter scoring."
+  },
+  {
+    "id": 100,
+    "last_name": "Looney",
+    "img": "/basket/img/players/Looney.png",
+    "full_name": "Kevon Looney",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Forward-center with rebounding and defensive abilities."
+  },
+  {
+    "id": 101,
+    "last_name": "Toppin",
+    "img": "/basket/img/players/Toppin.png",
+    "full_name": "Obi Toppin",
+    "team": "Indiana Pacers",
+    "nationality": "USA",
+    "positions": ["Power Forward"],
+    "description": "High-flying forward known for his dunking prowess."
+  },
+  {
+    "id": 102,
+    "last_name": "Melton",
+    "img": "/basket/img/players/Melton.png",
+    "full_name": "De’Anthony Melton",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Guard with defensive skills and playmaking ability."
+  },
+  {
+    "id": 103,
+    "last_name": "Huerter",
+    "img": "/basket/img/players/Huerter.png",
+    "full_name": "Kevin Huerter",
+    "team": "Sacramento Kings",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Shooter with three-point range and playmaking skills."
+  },
+  {
+    "id": 104,
+    "last_name": "Lyles",
+    "img": "/basket/img/players/Lyles.png",
+    "full_name": "Trey Lyles",
+    "team": "Sacramento Kings",
+    "nationality": "Canada",
+    "positions": ["Power Forward"],
+    "description": "Canadian forward known for his inside scoring ability."
+  },
+  {
+    "id": 105,
+    "last_name": "Boucher",
+    "img": "/basket/img/players/Boucher.png",
+    "full_name": "Chris Boucher",
+    "team": "Toronto Raptors",
+    "nationality": "Canada",
+    "positions": ["Power Forward", "Center"],
+    "description": "Canadian forward-center with shot-blocking and versatility."
   }
 ]

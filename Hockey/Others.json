@@ -996,7 +996,7 @@
 {
   "id": 80,
   "last_name": "Graves",
-  "img": "/hockey/img/players/Graves.jpg",
+  "img": "/hockey/img/players/A Graves.jpg",
   "full_name": "Adam Graves",
   "birth_date": "12-04-1968",
 
@@ -1108,7 +1108,7 @@
     "full_name": "Jean-Sébastien Giguère",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goaltender",
+    "position": "Goalie",
     "description": "Outstanding goaltender with remarkable skills."
 },
 {
@@ -1128,7 +1128,7 @@
       "full_name": "Nikolai Khabibulin",
       "team": "Retired",
       "nationality": "Russia",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Russian goaltender with strong netminding skills."
   },
   {
@@ -1148,7 +1148,7 @@
       "full_name": "Tim Thomas",
       "team": "Retired",
       "nationality": "USA",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Unorthodox goaltender known for his successful career."
   },
   {
@@ -1223,8 +1223,8 @@
   },
   {
       "id": 100,
-      "last_name": "D Savard",
-      "img": "/hockey/img/players/D Savard.jpg",
+      "last_name": "De Savard",
+      "img": "/hockey/img/players/De Savard.jpg",
       "full_name": "Denis Savard",
       "team": "Retired",
       "nationality": "Canada",
@@ -1238,7 +1238,7 @@
       "full_name": "Ed Belfour",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Competitive Canadian goaltender with great success."
   },
   {
@@ -1318,7 +1318,7 @@
       "full_name": "Marty Turco",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Canadian goaltender known for puck-handling skills."
   },
   {
@@ -1338,7 +1338,7 @@
       "full_name": "Curtis Joseph",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Acrobatic Canadian goaltender with long career."
   },
   {
@@ -1378,7 +1378,7 @@
       "full_name": "Chris Osgood",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goaltender",
+      "position": "Goalie",
       "description": "Steady Canadian goaltender with NHL success."
   },
   {
@@ -1478,7 +1478,7 @@
         "full_name": "Jose Theodore",
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Goaltender",
+        "position": "Goalie",
         "description": "Canadian goaltender known for acrobatic saves."
     },
     {
@@ -1638,7 +1638,7 @@
         "full_name": "Evgeni Nabokov",
         "team": "Retired",
         "nationality": "Kazakhstan",
-        "position": "Goaltender",
+        "position": "Goalie",
         "description": "Kazakhstani goaltender known for solid netminding."
     },
     {
@@ -1748,7 +1748,7 @@
         "full_name": "Olaf Kolzig",
         "team": "Retired",
         "nationality": "Germany",
-        "position": "Goaltender",
+        "position": "Goalie",
         "description": "German goaltender known for strong netminding."
     },
     {
@@ -1880,5 +1880,345 @@
         "nationality": "Canada",
         "position": "Right Winger",
         "description": "Right winger known for goal-scoring and offensive ability."
+    },
+    {
+        "id": 166,
+        "last_name": "McTavish",
+        "img": "/hockey/img/players/McTavish.jpg",
+        "full_name": "Mason McTavish",
+        "team": "Anaheim Ducks",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Young Canadian center with promising offensive skills."
+    },
+    {
+        "id": 167,
+        "last_name": "Swayman",
+        "img": "/hockey/img/players/Swayman.jpg",
+        "full_name": "Jeremy Swayman",
+        "team": "Boston Bruins",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender with potential and solid goaltending skills."
+    },
+    {
+        "id": 168,
+        "last_name": "Cozens",
+        "img": "/hockey/img/players/Cozens.jpg",
+        "full_name": "Dylan Cozens",
+        "team": "Buffalo Sabres",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center known for versatility and offensive capabilities."
+    },
+    {
+        "id": 169,
+        "last_name": "Hanifin",
+        "img": "/hockey/img/players/Hanifin.jpg",
+        "full_name": "Noah Hanifin",
+        "team": "Calgary Flames",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman with solid defensive and offensive skills."
+    },
+    {
+        "id": 170,
+        "last_name": "Pesce",
+        "img": "/hockey/img/players/Pesce.jpg",
+        "full_name": "Brett Pesce",
+        "team": "Carolina Hurricanes",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman excelling in defensive play and stability."
+    },
+    {
+        "id": 171,
+        "last_name": "Skjei",
+        "img": "/hockey/img/players/Skjei.jpg",
+        "full_name": "Brady Skjei",
+        "team": "Carolina Hurricanes",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman with solid defensive and offensive contributions."
+    },
+    {
+        "id": 172,
+        "last_name": "Orlov",
+        "img": "/hockey/img/players/Orlov.jpg",
+        "full_name": "Dmitry Orlov",
+        "team": "Dmitry Orlov",
+        "nationality": "Russia",
+        "position": "Defenseman",
+        "description": "Russian defenseman known for offensive skills and versatility."
+    },
+    {
+        "id": 173,
+        "last_name": "Byram",
+        "img": "/hockey/img/players/Byram.jpg",
+        "full_name": "Bowen Byram",
+        "team": "Colorado Avalanche",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Young Canadian defenseman with promising potential and versatility."
+    },
+    {
+        "id": 174,
+        "last_name": "Nichushkin",
+        "img": "/hockey/img/players/Nichushkin.jpg",
+        "full_name": "Valeri Nichushkin",
+        "team": "Colorado Avalanche",
+        "nationality": "Russia",
+        "position": "Right Winger",
+        "description": "Russian right winger with offensive flair and versatility."
+    },
+    {
+        "id": 175,
+        "last_name": "Severson",
+        "img": "/hockey/img/players/Severson.jpg",
+        "full_name": "Damon Severson",
+        "team": "Columbus Blue Jackets",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman excelling in defensive play and stability."
+    },
+    {
+        "id": 176,
+        "last_name": "Gostisbehere",
+        "img": "/hockey/img/players/Gostisbehere.jpg",
+        "full_name": "Shayne Gostisbehere",
+        "team": "Detroit Red Wings",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman known for offensive contributions and puck-moving skills."
+    },
+    {
+        "id": 177,
+        "last_name": "Hyman",
+        "img": "/hockey/img/players/Hyman.jpg",
+        "full_name": "Zach Hyman",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger with tenacity and goal-scoring ability."
+    },
+    {
+        "id": 178,
+        "last_name": "Bouchard",
+        "img": "/hockey/img/players/Bouchard.jpg",
+        "full_name": "Evan Bouchard",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Young Canadian defenseman with offensive potential and versatility."
+    },
+    {
+        "id": 179,
+        "last_name": "E Kane",
+        "img": "/hockey/img/players/E Kane.jpg",
+        "full_name": "Evander Kane",
+        "team": "Edmonton Oilers",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger with goal-scoring and physical play."
+    },
+    {
+        "id": 180,
+        "last_name": "Forsling",
+        "img": "/hockey/img/players/Forsling.jpg",
+        "full_name": "Gustav Forsling",
+        "team": "Florida Panthers",
+        "nationality": "Sweden",
+        "position": "Defenseman",
+        "description": "Swedish defenseman known for his defensive skills and versatility."
+    },
+    {
+        "id": 181,
+        "last_name": "Kempe",
+        "img": "/hockey/img/players/Kempe.jpg",
+        "full_name": "Adrian Kempe",
+        "team": "Los Angeles Kings",
+        "nationality": "Sweden",
+        "position": "Center",
+        "description": "Swedish center with offensive ability and defensive contributions."
+    },
+    {
+        "id": 182,
+        "last_name": "Danault",
+        "img": "/hockey/img/players/Danault.jpg",
+        "full_name": "Phillip Danault",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center known for two-way play and faceoff skills."
+    },
+    {
+        "id": 183,
+        "last_name": "Dubois",
+        "img": "/hockey/img/players/Dubois.jpg",
+        "full_name": "Pierre-Luc Dubois",
+        "team": "Los Angeles Kings",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center with offensive skills and two-way play."
+    },
+    {
+        "id": 184,
+        "last_name": "Boldy",
+        "img": "/hockey/img/players/Boldy.jpg",
+        "full_name": "Matt Boldy",
+        "team": "Minnesota Wild",
+        "nationality": "USA",
+        "position": "Left Winger",
+        "description": "American left winger with goal-scoring and playmaking ability."
+    },
+    {
+        "id": 185,
+        "last_name": "Savard",
+        "img": "/hockey/img/players/Da Savard.jpg",
+        "full_name": "David Savard",
+        "team": "Montreal Canadiens",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman known for defensive stability and physicality."
+    },
+    {
+        "id": 186,
+        "last_name": "Marino",
+        "img": "/hockey/img/players/Marino.jpg",
+        "full_name": "John Marino",
+        "team": "New Jersey Devils",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman with solid two-way play and versatility."
+    },
+    {
+        "id": 187,
+        "last_name": "Dobson",
+        "img": "/hockey/img/players/Dobson.jpg",
+        "full_name": "Noah Dobson",
+        "team": "New York Islanders",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman known for his defensive skills and puck-moving ability."
+    },
+    {
+        "id": 188,
+        "last_name": "Norris",
+        "img": "/hockey/img/players/Norris.jpg",
+        "full_name": "Josh Norris",
+        "team": "Ottawa Senators",
+        "nationality": "USA",
+        "position": "Center",
+        "description": "American center with goal-scoring ability and two-way play."
+    },
+    {
+        "id": 189,
+        "last_name": "R Graves",
+        "img": "/hockey/img/players/R Graves.jpg",
+        "full_name": "Ryan Graves",
+        "team": "Pittsburgh Penguins",
+        "nationality": "Canada",
+        "position": "Defenseman",
+        "description": "Canadian defenseman known for defensive play and physicality."
+    },
+    {
+        "id": 190,
+        "last_name": "Burakovsky",
+        "img": "/hockey/img/players/Burakovsky.jpg",
+        "full_name": "Andre Burakovsky",
+        "team": "Seattle Kraken",
+        "nationality": "Sweden",
+        "position": "Left Winger",
+        "description": "Austrian left winger with scoring ability and offensive flair."
+    },
+    {
+        "id": 191,
+        "last_name": "Dumoulin",
+        "img": "/hockey/img/players/Dumoulin.jpg",
+        "full_name": "Brian Dumoulin",
+        "team": "Seattle Kraken",
+        "nationality": "USA",
+        "position": "Defenseman",
+        "description": "American defenseman known for his defensive reliability."
+    },
+    {
+        "id": 192,
+        "last_name": "Bjorkstrand",
+        "img": "/hockey/img/players/Bjorkstrand.jpg",
+        "full_name": "Oliver Bjorkstrand",
+        "team": "Seattle Kraken",
+        "nationality": "Denmark",
+        "position": "Right Winger",
+        "description": "Danish right winger with a knack for goal-scoring."
+    },
+    {
+        "id": 193,
+        "last_name": "Hagel",
+        "img": "/hockey/img/players/Hagel.jpg",
+        "full_name": "Brandon Hagel",
+        "team": "Tampa Bay Lightning",
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger known for energy and work ethic."
+    },
+    {
+        "id": 194,
+        "last_name": "Samsonov",
+        "img": "/hockey/img/players/Samsonov.jpg",
+        "full_name": "Ilya Samsonov",
+        "team": "Toronto Maple Leafs",
+        "nationality": "Russia",
+        "position": "Goalie",
+        "description": "Russian goaltender with potential and solid goaltending skills."
+    },
+    {
+        "id": 195,
+        "last_name": "Boeser",
+        "img": "/hockey/img/players/Boeser.jpg",
+        "full_name": "Brock Boeser",
+        "team": "Vancouver Canucks",
+        "nationality": "USA",
+        "position": "Right Winger",
+        "description": "American right winger known for goal-scoring and offensive skills."
+    },
+    {
+        "id": 196,
+        "last_name": "Hill",
+        "img": "/hockey/img/players/Hill.jpg",
+        "full_name": "Adin Hill",
+        "team": "Vegas Golden Knights",
+        "nationality": "USA",
+        "position": "Goalie",
+        "description": "American goaltender with potential and solid goaltending skills."
+    },
+    {
+        "id": 197,
+        "last_name": "Stephenson",
+        "img": "/hockey/img/players/Stephenson.jpg",
+        "full_name": "Chandler Stephenson",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Center",
+        "description": "Canadian center with playmaking and defensive capabilities."
+    },
+    {
+        "id": 198,
+        "last_name": "L Thompson",
+        "img": "/hockey/img/players/L Thompson.jpg",
+        "full_name": "Logan Thompson",
+        "team": "Vegas Golden Knights",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender with potential and solid goaltending skills."
+    },
+    {
+        "id": 199,
+        "last_name": "Kuemper",
+        "img": "/hockey/img/players/Kuemper.jpg",
+        "full_name": "Darcy Kuemper",
+        "team": "Washington Capitals",
+        "nationality": "Canada",
+        "position": "Goalie",
+        "description": "Canadian goaltender known for strong netminding and consistency."
     }
 ]

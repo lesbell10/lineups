@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0
 
@@ -204,7 +205,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Detroit Pistons, established in 1941 as the Fort Wayne Pistons, moved to Detroit in 1957. Renowned for their "Bad Boys" era in the late 1980s and early 2000s success, they've won three NBA championships, known for their tough, defensive-minded play."
+      sideModal.textContent = "The Detroit Pistons, established in 1941 as the Fort Wayne Pistons, moved to Detroit in 1957. Renowned for their Bad Boys era in the late 1980s and early 2000s success, they've won three NBA championships, known for their tough, defensive-minded play."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -372,7 +373,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Philadelphia 76ers, founded in 1946 as the Syracuse Nationals before relocating in 1963, have a rich history with three NBA championships. Known for legendary players like Wilt Chamberlain and Julius Erving, the 76ers have been a significant, enduring presence in the league."
+      sideModal.textContent = "The Philadelphia 76ers, founded in 1946 as the Syracuse Nationals before relocating in 1963, have a rich history with three NBA championships. Known for legendary players like Wilt Chamberlain, Julius Erving and Allen Iverson, the 76ers have been a significant, enduring presence in the league."
     })
 
     smallpic.addEventListener("mouseout", () => {

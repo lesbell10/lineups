@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0
 
@@ -33,6 +34,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/atlanta.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/atlanta.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 NBA season, the Atlanta Hawks finished with a balanced 41-41 record, ranking first in the Southeast Division and seventh in the Eastern Conference. Their journey, marked by a coaching change, concluded with a first-round playoff exit against the Boston Celtics."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "1") {
@@ -51,6 +62,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/boston.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/boston.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 NBA season, the Boston Celtics, under first-year head coach Joe Mazzulla, achieved a 57-25 record, their best in 13 years. They reached the Eastern Conference Finals, showcasing resilience and skill, led by Jayson Tatum's historic scoring performance."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "2") {
@@ -69,6 +90,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/brooklyn.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/brooklyn.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brooklyn Nets' 2022-23 season was a rollercoaster, finishing with a 45-37 record and ranking sixth in the Eastern Conference. Amidst coaching changes and challenges, they showcased resilience with a 12-game win streak but also faced a 5-game losing streak, reflecting a period of transition and adaptation in the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "3") {
@@ -87,6 +118,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Charlotte.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Charlotte.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Charlotte Hornets faced a challenging 2022-23 NBA season, finishing with a 27-55 record. This placed them last in the Southeast Division and 14th in the Eastern Conference. The season was marked by a coaching change, with Steve Clifford replacing James Borrego. Despite some potential, the team struggled to find a consistent winning strategy, resulting in a season without a playoff appearance."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "4") {
@@ -105,6 +146,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Chicago.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Chicago.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Chicago Bulls experienced an inconsistent 2022-23 season, finishing with a 40-42 record. This performance placed them tenth in the Eastern Conference and third in the Central Division, making them part of the play-in tournament. However, their season was marked by a failure to advance to the playoffs. The Bulls displayed potential in some games but couldn't maintain a consistent winning momentum throughout the season"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "5") {
@@ -123,6 +174,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Cleveland.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Cleveland.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Cleveland Cavaliers concluded the 2022-23 season with a commendable 51-31 record, securing second place in the Central Division and fourth in the Eastern Conference. Their season was highlighted by the acquisition of Donovan Mitchell and marked a return to the playoffs for the first time since 2018. However, their postseason journey ended in the first round with a defeat to the New York Knicks in five games."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "6") {
@@ -141,6 +202,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Detroit.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Detroit.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Detroit Pistons faced significant challenges in the 2022-23 NBA season, finishing with a 17-65 record. This performance placed them at the bottom of both the Central Division and the Eastern Conference. Their season marked the fourth consecutive year without a playoff appearance and was the final season under head coach Dwane Casey. The team’s struggle was evident, resulting in one of the worst records in their franchise history and highlighting a phase of rebuilding and development."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "7") {
@@ -159,6 +230,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Indiana.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Indiana.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Indiana Pacers' 2022-23 NBA season ended with a 35-47 record, placing them fourth in the Central Division and eleventh in the Eastern Conference. Notable achievements included Tyrese Haliburton's first NBA All-Star appearance and Buddy Hield breaking the franchise record for most three-pointers in a season. The season was marked by key trades and the emergence of promising talents like Bennedict Mathurin and Andrew Nembhard, signaling a period of rebuilding and growth for the team."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "8") {
@@ -177,6 +258,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Miami.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Miami.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Miami Heat concluded the 2022-23 NBA season with a 44-38 record, winning the Southeast Division. They made a remarkable playoff run, upsetting the top-seeded Milwaukee Bucks in the first round and reaching the NBA Finals, where they lost to the Denver Nuggets. The season was also marked by Udonis Haslem's retirement after a 20-year career with the Heat."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "9") {
@@ -195,6 +286,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Milwaukee.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Milwaukee.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "10") {
@@ -213,6 +314,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/New York.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/New York.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "11") {
@@ -231,6 +342,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Orlando.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Orlando.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "12") {
@@ -249,6 +370,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Philadelphia.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "13") {
@@ -267,6 +398,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Toronto.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Toronto.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "14") {
@@ -285,6 +426,16 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/Washington.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Washington.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 

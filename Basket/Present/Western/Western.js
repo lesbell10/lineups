@@ -10,6 +10,7 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0
 
@@ -33,6 +34,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/dallas.gif";
 
         MainFetchPopUp("/basket/present/western/json/dallas.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "1") {
@@ -52,6 +62,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/denver.gif";
 
         MainFetchPopUp("/basket/present/western/json/denver.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "2") {
@@ -71,6 +90,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/golden state.gif";
 
         MainFetchPopUp("/basket/present/western/json/golden state.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "3") {
@@ -89,6 +117,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/houston.gif";
 
         MainFetchPopUp("/basket/present/western/json/houston.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "4") {
@@ -108,6 +145,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/la clippers.gif";
 
         MainFetchPopUp("/basket/present/western/json/la clippers.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "5") {
@@ -126,6 +172,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/la lakers.gif";
 
         MainFetchPopUp("/basket/present/western/json/la lakers.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "6") {
@@ -144,6 +199,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/memphis.gif";
 
         MainFetchPopUp("/basket/present/western/json/memphis.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "7") {
@@ -163,6 +227,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/minnesota.gif";
 
         MainFetchPopUp("/basket/present/western/json/minnesota.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "8") {
@@ -182,6 +255,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/new orleans.gif";
 
         MainFetchPopUp("/basket/present/western/json/new orleans.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "9") {
@@ -200,6 +282,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/oklahoma city.gif";
 
         MainFetchPopUp("/basket/present/western/json/oklahoma city.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "10") {
@@ -218,6 +309,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/phoenix.gif";
 
         MainFetchPopUp("/basket/present/western/json/phoenix.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "11") {
@@ -237,6 +337,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/portland.gif";
 
         MainFetchPopUp("/basket/present/western/json/portland.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "12") {
@@ -256,6 +365,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/sacramento.gif";
 
         MainFetchPopUp("/basket/present/western/json/sacramento.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "13") {
@@ -275,6 +393,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/san antonio.gif";
 
         MainFetchPopUp("/basket/present/western/json/san antonio.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "14") {
@@ -293,6 +420,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/utah.gif";
 
         MainFetchPopUp("/basket/present/western/json/utah.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
