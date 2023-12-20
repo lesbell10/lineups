@@ -535,6 +535,7 @@ h6 {
     background-color: red;
     border: white solid 2px;
     cursor: pointer;
+    display: none;
 }
 
 .act_players {
@@ -543,4 +544,5 @@ h6 {
     font-size: 18px;
     top: 135px;
     color: white;
+    display: none;
 }

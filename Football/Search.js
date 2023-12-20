@@ -312,6 +312,7 @@ function setActivePageButton(activePageIndex) {
 
 const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
+const activeLabel = document.querySelector(".act_players")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
@@ -320,6 +321,10 @@ searchButton.addEventListener("click", function () {
     const query = "";
     searchInput.value = ""
     searchPlayers(query, includeRetired);
+
+    activeLabel.style.display = 'block'
+    activeButton.style.display = "block"
+    
     activeButton.style.backgroundColor = "red"
 });
 

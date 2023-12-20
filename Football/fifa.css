@@ -632,6 +632,7 @@ input::placeholder {
     background-color: red;
     border: white solid 2px;
     cursor: pointer;
+    display: none;
 }
 
 .act_players {
@@ -640,4 +641,5 @@ input::placeholder {
     font-size: 18px;
     top: 135px;
     color: white;
+    display: none;
 }

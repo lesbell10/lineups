@@ -22,6 +22,7 @@ const DL2 = document.getElementById("DL2");
 const GK = document.getElementById("GK");
 const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0;
 
@@ -29,7 +30,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
     
-    if (selectedYear === "10") {
+    if (selectedYear == 10) {
         STC.textContent = "Aguero";
         FR.textContent = "D Silva";
         AMC.textContent = "De Bruyne";
@@ -575,7 +576,7 @@ function updatePlayerInfo() {
     const updateDropdown = () => {
         // yearSelector.selectedIndex = currentIndex;
 
-           if (selectedYear === 10) {
+           if (selectedYear == 10) {
         STC.textContent = "Aguero";
         FR.textContent = "D Silva";
         AMC.textContent = "De Bruyne";

@@ -12,6 +12,7 @@ const DR2 = document.getElementById("DR2");
 const G = document.getElementById("G");
 const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
+const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0
 

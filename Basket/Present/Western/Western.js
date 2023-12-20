@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Dallas Mavericks' 2022-23 season featured Luka Dončić's standout performances, supported by players like Spencer Dinwiddie and Dorian Finney-Smith. Their strategic plays and offensive focus, combined with team efforts, aimed to solidify their position in the NBA's challenging Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -65,7 +65,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Denver Nuggets' 2022-23 season was highlighted by the exceptional play of Nikola Jokić, supported by Jamal Murray and Aaron Gordon. Their blend of high-scoring offense and teamwork aimed to make a significant impact in the NBA's competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -93,7 +93,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Golden State Warriors' 2022-23 season showcased the stellar performances of Stephen Curry, Klay Thompson, and Draymond Green. With their dynamic offense and solid defense, they aimed to continue their legacy in the NBA, competing strongly in the Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -120,7 +120,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Houston Rockets' 2022-23 season, led by young talents like Jalen Green and Kevin Porter Jr., was focused on rebuilding and growth. They faced challenges in the Western Conference, aiming to develop team chemistry and individual skills for future success in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -148,7 +148,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In the 2022-23 season, the Los Angeles Clippers, led by Kawhi Leonard and Paul George, showcased a blend of strong defense and strategic offense. Role players like Reggie Jackson and Marcus Morris Sr. contributed significantly, aiming to elevate the team in the competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -175,7 +175,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The 2022-23 Los Angeles Lakers, led by LeBron James and Anthony Davis, displayed varied performances. With key contributions from Russell Westbrook and others, they navigated challenges in team cohesion and injuries, striving for consistency in the highly competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -202,7 +202,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Memphis Grizzlies' 2022-23 season was marked by the impressive play of Ja Morant, supported by key players like Jaren Jackson Jr. and Desmond Bane. Their energetic and cohesive team play aimed to establish them as a formidable force in the NBA's Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -230,7 +230,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Minnesota Timberwolves' 2022-23 season featured standout performances from Karl-Anthony Towns and Anthony Edwards. With a focus on building team synergy and improving defense, they aimed to strengthen their presence in the competitive Western Conference of the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -258,7 +258,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The New Orleans Pelicans' 2022-23 season was highlighted by the dynamic play of Brandon Ingram and CJ McCollum. With a focus on developing young talent and enhancing team cohesion, they aimed to assert themselves as a rising force in the NBA's Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -285,7 +285,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Oklahoma City Thunder's 2022-23 season was characterized by a young and evolving roster, led by Shai Gilgeous-Alexander. Focusing on player development and team-building, they aimed to lay a strong foundation for future success in the NBA's competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -312,7 +312,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Phoenix Suns' 2022-23 season saw strong performances from Devin Booker and Chris Paul, bolstered by key contributions from Deandre Ayton. They aimed to maintain their high-level play and deep postseason runs, making them a prominent contender in the NBA's Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -340,7 +340,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Portland Trail Blazers' 2022-23 season was anchored by Damian Lillard's leadership and scoring prowess, with significant support from players like CJ McCollum. They focused on improving team dynamics and resilience, aiming to elevate their standing in the NBA's competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -368,7 +368,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Sacramento Kings' 2022-23 season, led by De'Aaron Fox and supported by players like Tyrese Haliburton, focused on building a cohesive unit and enhancing their competitive edge. Their aim was to grow as a team and strengthen their presence in the NBA's Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -396,7 +396,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The San Antonio Spurs' 2022-23 season was a time of transition and youth development, with players like Dejounte Murray and Keldon Johnson taking on leadership roles. Emphasizing fundamentals and team growth, they aimed to build a foundation for future success in the NBA's Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {

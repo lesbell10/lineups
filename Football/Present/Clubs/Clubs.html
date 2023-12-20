@@ -19,36 +19,40 @@
             <a href="/Football/Present/Present.html">2023-24</a>
         </div>
     </nav>
-<div class="mini-container">
-    <div class="combobox">
-        <div class="label">
-            <h3>2023-24</h3>
+    <div class="mini-container">
+        <div class="combobox">
+            <div class="label">
+                <h3>2023-24</h3>
+            </div>
+
+            <select id="yearSelector">
+                <option value="0">AC MILAN</option>
+                <option value="1">ARSENAL</option>
+                <option value="2">AS ROMA</option>
+                <option value="3">ATLETICO MADRID</option>
+                <option value="4">BARCELONA</option>
+                <option value="5">BAYERN MUNICH</option>
+                <option value="6">CHELSEA</option>
+                <option value="7">INTER MILAN</option>
+                <option value="8">JUVENTUS</option>
+                <option value="9">LIVERPOOL</option>
+                <option value="10">MAN CITY</option>
+                <option value="11">MAN UTD</option>
+                <option value="12">NAPOLI</option>
+                <option value="13">PARIS SAINT-GERMAIN</option>
+                <option value="14">REAL MADRID</option>
+                <option value="15">TOTTENHAM</option>
+            </select>
         </div>
 
-    <select id="yearSelector">
-        <option value="0">AC MILAN</option>
-        <option value="1">ARSENAL</option>
-        <option value="2">AS ROMA</option>
-        <option value="3">ATLETICO MADRID</option>
-        <option value="4">BARCELONA</option>
-        <option value="5">BAYERN MUNICH</option>
-        <option value="6">CHELSEA</option>
-        <option value="7">INTER MILAN</option>
-        <option value="8">JUVENTUS</option>
-        <option value="9">LIVERPOOL</option>
-        <option value="10">MAN CITY</option>
-        <option value="11">MAN UTD</option>
-        <option value="12">NAPOLI</option>
-        <option value="13">PARIS SAINT-GERMAIN</option>
-        <option value="14">REAL MADRID</option>
-        <option value="15">TOTTENHAM</option>
-    </select>
-    </div>
-
-    <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Search anything...">
-        <button id="searchButton">Show All</button>
-    </div>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search anything...">
+            <button id="searchButton">Show All</button>
+        </div>
+        <div>
+            <label class="act_players">Active Only</label>
+            <button id="retiredFilter"></button>
+        </div>
     </div>
 
     <div id="count"></div>
@@ -118,6 +122,7 @@
     <button id="forwardButton">></button>
 
     <img id="smallpic" class="second" alt="Small Image">
+    <div class="side-modal"></div>
 
     <script src="/Football/Search.js"></script>
     <script src="/Football/DescriptionInMainPage.js"></script>

@@ -22,7 +22,7 @@ const DL2 = document.getElementById("DL2");
 const GK = document.getElementById("GK");
 const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
-
+const sideModal = document.querySelector(".side-modal")
 
 
 function updatePlayerInfo() {
