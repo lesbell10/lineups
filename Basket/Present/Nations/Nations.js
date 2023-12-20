@@ -34,6 +34,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/europe.png";
 
         MainFetchPopUp("/basket/present/nations/json/europe.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
@@ -53,6 +62,15 @@ function updatePlayerInfo() {
         smallpic.src = "/basket/img/logos/rest of world.png";
 
         MainFetchPopUp("/basket/present/nations/json/rest of world.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
@@ -73,6 +91,14 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/basket/present/nations/json/usa.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 

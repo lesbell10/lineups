@@ -289,7 +289,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Milwaukee Bucks' 2022-23 season was characterized by strong performances, with Giannis Antetokounmpo leading the team. They maintained a competitive edge in the Eastern Conference, showcasing resilience, teamwork, and strategic plays, reinforcing their status as a formidable force in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -317,7 +317,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The New York Knicks' 2022-23 season was marked by dynamic plays and a determined spirit. With a blend of seasoned veterans and rising stars, they exhibited moments of brilliance on the court, striving to make a significant impact in the competitive Eastern Conference of the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Orlando Magic's 2022-23 season was a period of growth and development, featuring a young, talented roster. They focused on building team chemistry and honing skills, facing challenges in the competitive Eastern Conference while showing potential for a promising future in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -373,7 +373,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Philadelphia 76ers' 2022-23 season showcased their strong contention in the NBA, with notable performances from key players. They demonstrated a blend of offensive prowess and defensive strength, maintaining a significant presence in the Eastern Conference and aiming for high postseason achievements."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -401,7 +401,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Toronto Raptors' 2022-23 season was marked by resilience and tactical ingenuity. With a mix of experienced leaders and emerging talents, they navigated the competitive Eastern Conference, displaying a strong defensive game and a versatile offense, aiming to solidify their standing in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -429,7 +429,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Washington Wizards' 2022-23 season was a journey of perseverance and team cohesion. Balancing experienced veterans with emerging talent, they faced the challenges of the Eastern Conference with a focus on strategic plays and individual skill development, aiming to enhance their position in the NBA landscape."
         })
 
         smallpic.addEventListener("mouseout", () => {
