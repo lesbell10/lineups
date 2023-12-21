@@ -52,7 +52,16 @@ function updatePlayerInfo() {
 
     smallpic.src = "/football/img/wallpapers/haaland.jpg";
 
-        MainFetchPopUp("/football/present/present.json");
+    MainFetchPopUp("/football/present/present.json");
+    
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = ""
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 
 // smallpic.addEventListener('mouseover', () => {
 //             sideModal.style.display = 'block'

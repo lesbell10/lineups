@@ -37,9 +37,18 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-                smallpic.src = "/hockey/img/logos/canada.png";  
+        smallpic.src = "/hockey/img/logos/canada.png";
 
         MainFetchPopUp("/hockey/present/nations/json/canada.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "1") {
@@ -58,9 +67,18 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/czech republic.webp";  
+        smallpic.src = "/hockey/img/logos/czech republic.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
@@ -79,12 +97,21 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-            
-        smallpic.src = "/hockey/img/logos/finland.webp";  
+
+        smallpic.src = "/hockey/img/logos/finland.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/finland.json");
-    } 
-    
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
     if (selectedYear === "3") {
 
         FL.textContent = "Stutzle";
@@ -101,34 +128,52 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/germany.webp";  
+        smallpic.src = "/hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "4") {
 
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Kucherov";
-    FR.textContent = "Panarin";
-    DL.textContent = "Provorov";
-    DR.textContent = "Sergachev";
-    G.textContent = "Vasilevskiy";
-        
-    FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Kucherov";
+        FR.textContent = "Panarin";
+        DL.textContent = "Provorov";
+        DR.textContent = "Sergachev";
+        G.textContent = "Vasilevskiy";
 
-        smallpic.src = "/hockey/img/logos/russia.png";  
-        
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/russia.png";
+
         MainFetchPopUp("/hockey/present/nations/json/russia.json");
-} 
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
     if (selectedYear === "5") {
-        
+
         FL.textContent = "Tatar";
         FC.textContent = "Ruzicka";
         FR.textContent = "Slafkovsky";
@@ -142,12 +187,21 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-        
-        smallpic.src = "/hockey/img/logos/slovakia.webp";  
+
+        smallpic.src = "/hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
+
     if (selectedYear === "6") {
 
         FL.textContent = "Pettersson";
@@ -163,12 +217,21 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-            
-        smallpic.src = "/hockey/img/logos/sweden.webp";  
+
+        smallpic.src = "/hockey/img/logos/sweden.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/sweden.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
+
     if (selectedYear === "7") {
         FL.textContent = "Meier";
         FC.textContent = "Hischier";
@@ -184,73 +247,91 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/switzerland.png";  
+        smallpic.src = "/hockey/img/logos/switzerland.png";
 
         MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
-        
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
     }
-    
+
     if (selectedYear === "8") {
-    FL.textContent = "J Robertson";
-    FC.textContent = "Matthews";
-    FR.textContent = "M Tkachuk";
-    DL.textContent = "Fox";
-    DR.textContent = "McAvoy";
-    G.textContent = "Hellebuyck"
-        
-    FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL.textContent = "J Robertson";
+        FC.textContent = "Matthews";
+        FR.textContent = "M Tkachuk";
+        DL.textContent = "Fox";
+        DR.textContent = "McAvoy";
+        G.textContent = "Hellebuyck"
 
-        smallpic.src = "/hockey/img/logos/usa.webp";  
-        
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/usa.webp";
+
         MainFetchPopUp("/hockey/present/nations/json/united states.json");
-}
-    
-    function clearAndFadeInElements() {
-            const elements = [
-                FL,FL2,FC,FC2,FR,FR2,DL,DL2,DR,DR2,G,G2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
 
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    // Listen for changes in the year selection
-    yearSelector.addEventListener("change", updatePlayerInfo);
+    function clearAndFadeInElements() {
+        const elements = [
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
+        ];
 
-    // Initial update based on the default year (2020)
-    updatePlayerInfo();
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
+        }
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
+}
+
+// Listen for changes in the year selection
+yearSelector.addEventListener("change", updatePlayerInfo);
+
+// Initial update based on the default year (2020)
+updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
-    const updateDropdown = () => {
-    
-           if (selectedYear === "0") {
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
+
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
+const updateDropdown = () => {
+
+    if (selectedYear === "0") {
 
         FL.textContent = "MacKinnon";
         FC.textContent = "McDavid";
@@ -266,7 +347,7 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-                smallpic.src = "/hockey/img/logos/canada.png";
+        smallpic.src = "/hockey/img/logos/canada.png";
 
 
         MainFetchPopUp("/hockey/present/nations/json/canada.json");
@@ -288,7 +369,7 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-                smallpic.src = "/hockey/img/logos/czech republic.webp";
+        smallpic.src = "/hockey/img/logos/czech republic.webp";
 
 
         MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
@@ -310,12 +391,12 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-            
-        smallpic.src = "/hockey/img/logos/finland.webp";  
+
+        smallpic.src = "/hockey/img/logos/finland.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/finland.json");
-    } 
-    
+    }
+
     if (selectedYear === 3) {
 
         FL.textContent = "Stutzle";
@@ -332,34 +413,34 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/germany.webp";  
+        smallpic.src = "/hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/germany.json");
     }
 
     if (selectedYear === 4) {
 
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Kucherov";
-    FR.textContent = "Panarin";
-    DL.textContent = "Provorov";
-    DR.textContent = "Sergachev";
-    G.textContent = "Vasilevskiy";
-        
-    FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Kucherov";
+        FR.textContent = "Panarin";
+        DL.textContent = "Provorov";
+        DR.textContent = "Sergachev";
+        G.textContent = "Vasilevskiy";
 
-        smallpic.src = "/hockey/img/logos/russia.png";  
-        
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/russia.png";
+
         MainFetchPopUp("/hockey/present/nations/json/russia.json");
-} 
+    }
 
     if (selectedYear === 5) {
-        
+
         FL.textContent = "Tatar";
         FC.textContent = "Ruzicka";
         FR.textContent = "Slafkovsky";
@@ -373,12 +454,12 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-        
-        smallpic.src = "/hockey/img/logos/slovakia.webp";  
+
+        smallpic.src = "/hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
     }
-    
+
     if (selectedYear === 6) {
 
         FL.textContent = "Pettersson";
@@ -394,12 +475,12 @@ function updatePlayerInfo() {
         DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-            
-        smallpic.src = "/hockey/img/logos/sweden.webp";  
+
+        smallpic.src = "/hockey/img/logos/sweden.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/sweden.json");
     }
-    
+
     if (selectedYear === 7) {
         FL.textContent = "Meier";
         FC.textContent = "Hischier";
@@ -415,72 +496,72 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/switzerland.png";  
+        smallpic.src = "/hockey/img/logos/switzerland.png";
 
         MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
-        
+
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
     }
-    
+
     if (selectedYear === 8) {
-    FL.textContent = "J Robertson";
-    FC.textContent = "Matthews";
-    FR.textContent = "M Tkachuk";
-    DL.textContent = "Fox";
-    DR.textContent = "McAvoy";
-    G.textContent = "Hellebuyck"
-        
-    FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL.textContent = "J Robertson";
+        FC.textContent = "Matthews";
+        FR.textContent = "M Tkachuk";
+        DL.textContent = "Fox";
+        DR.textContent = "McAvoy";
+        G.textContent = "Hellebuyck"
 
-        smallpic.src = "/hockey/img/logos/usa.webp";  
-        
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/usa.webp";
+
         MainFetchPopUp("/hockey/present/nations/json/united states.json");
-}
+    }
 
-         function clearAndFadeInElements() {
-            const elements = [
-                FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
+    function clearAndFadeInElements() {
+        const elements = [
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
+        ];
 
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
+        }
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
             for (const element of elements) {
-                element.classList.add("fade-in");
+                element.classList.remove("fade-in");
             }
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
 
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
-    
-    }   // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    })
+}   // Event listener for the back button
+backButton.addEventListener('click', () => {
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+})
 
 // for screenshots
 

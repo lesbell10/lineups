@@ -35,12 +35,21 @@ function updatePlayerInfo() {
 
     MainFetchPopUp("/hockey/past/past.json");
 
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = ""
+    })
 
-     function clearAndFadeInElements() {
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
+
+
+    function clearAndFadeInElements() {
         const elements = [
-            FL,FL2,FC,FC2,FR,FR2,DL,DL2,DR,DR2,G,G2,
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {

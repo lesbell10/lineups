@@ -29,7 +29,7 @@ let selectedYear = 0;
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
-    
+
     if (selectedYear === "4") {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
@@ -58,6 +58,15 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/france.webp"
 
         MainFetchPopUp("/football/past/nations/json/france.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The France national football team, founded in 1904, is celebrated for winning two FIFA World Cups and two UEFA European Championships. Led by iconic players like Zinedine Zidane and Thierry Henry, Les Bleus are known for their strong defense and attacking flair, making them a global football powerhouse."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "2") {
@@ -84,16 +93,25 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/brazil.webp"
 
         MainFetchPopUp("/football/past/nations/json/brazil.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brazil national football team, founded in 1914, is one of the most successful in history, winning five FIFA World Cups. Known for its attacking flair, it has produced legendary players like Pelé, Ronaldo, and Neymar, making it an iconic force in international football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
+
     if (selectedYear === "9") {
-        
+
         STC.textContent = "F Torres";
-        FR.textContent = "Silva";
+        FR.textContent = "D Silva";
         AMC.textContent = "Iniesta";
         FL.textContent = "D Villa";
         CMR.textContent = "Xavi";
@@ -120,10 +138,19 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/past/nations/json/spain.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Spain national football team, founded in 1904, experienced a golden era in the 21st century, winning the FIFA World Cup in 2010 and consecutive UEFA European Championships in 2008 and 2012. La Roja is celebrated for its tiki-taka style of play and top-tier talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "3") {
-        
+
         STC.textContent = "Kane";
         FR.textContent = "Sterling";
         AMC.textContent = "Rooney";
@@ -147,15 +174,24 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/england.webp"
 
         MainFetchPopUp("/football/past/nations/json/england.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The England national football team, formed in 1870, has a rich history. They won the FIFA World Cup in 1966 and have produced iconic players like Bobby Charlton and David Beckham. The Three Lions have a passionate fanbase and a storied rivalry with Germany."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "5") {
-        
+
         STC.textContent = "Muller";
         FR.textContent = "Sane";
         AMC.textContent = "Ozil";
@@ -167,7 +203,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Boateng";
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -183,6 +219,15 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/germany.webp"
 
         MainFetchPopUp("/football/past/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Germany national football team, established in 1908, is a powerhouse in international football. They've won four FIFA World Cups and three UEFA European Championships, known for their disciplined play and renowned players like Franz Beckenbauer and Miroslav Klose."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "0") {
@@ -208,15 +253,24 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";       
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/argentina.webp"
 
         MainFetchPopUp("/football/past/nations/json/argentina.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Argentina national football team, founded in 1901, has a storied history. They've won two FIFA World Cups and produced legendary players like Diego Maradona and Lionel Messi. La Albiceleste is known for its passionate fans and attacking style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "6") {
-        
+
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
         AMC.textContent = "Barella";
@@ -239,13 +293,22 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";        
-        
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/italy.webp"
 
         MainFetchPopUp("/football/past/nations/json/italy.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Italy national football team, formed in 1898, is a football powerhouse with four FIFA World Cup victories and one UEFA European Championship title. Known for strong defense, iconic players, and a rich football culture, they are one of Europe's most successful teams."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
+
     if (selectedYear === "8") {
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
@@ -258,7 +321,7 @@ function updatePlayerInfo() {
         DCL.textContent = "R Dias";
         DL.textContent = "R Guerreiro";
         GK.textContent = "R Patricio";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -274,10 +337,18 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/portugal.webp"
 
         MainFetchPopUp("/football/past/nations/json/portugal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Portugal national football team, founded in 1914, has risen to prominence with UEFA European Championship and UEFA Nations League triumphs. Led by Cristiano Ronaldo, Portugal is known for its attacking style and has established itself as a competitive force in international football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
-    if (selectedYear === "1")
-    {
+
+    if (selectedYear === "1") {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
@@ -300,15 +371,24 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";        
-        
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/belgium.webp"
 
         MainFetchPopUp("/football/past/nations/json/belgium.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Belgium national football team, founded in 1904, has become a formidable force in recent years. With a golden generation of talent, they achieved high FIFA World Cup and UEFA European Championship finishes, showcasing their attacking prowess and strong defense on the international stage."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
-    
-    if (selectedYear === "7") { 
+
+
+    if (selectedYear === "7") {
 
         STC.textContent = "van Persie";
         FR.textContent = "Robben";
@@ -321,7 +401,7 @@ function updatePlayerInfo() {
         DCL.textContent = "de Ligt";
         DL.textContent = "Blind";
         GK.textContent = "Cillessen";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -337,58 +417,67 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/netherlands.webp"
 
         MainFetchPopUp("/football/past/nations/json/netherlands.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Netherlands national football team, established in 1905, is known for its stylish Total Football. They've reached FIFA World Cup finals multiple times but haven't won. With iconic players like Johan Cruyff and Marco van Basten, the Oranje has left a mark on football history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
 
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
 
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
-        clearAndFadeInElements();
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
     }
+    clearAndFadeInElements();
+}
 
-    // Listen for changes in the year selection
-    yearSelector.addEventListener("change", updatePlayerInfo);
+// Listen for changes in the year selection
+yearSelector.addEventListener("change", updatePlayerInfo);
 
-    // Initial update based on the default year (2020)
-    updatePlayerInfo();
+// Initial update based on the default year (2020)
+updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
-    const updateDropdown = () => {
-        // yearSelector.selectedIndex = currentIndex;
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
 
-        if (selectedYear === 4) {
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
+const updateDropdown = () => {
+    // yearSelector.selectedIndex = currentIndex;
+
+    if (selectedYear === 4) {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
         AMC.textContent = "Griezmann";
@@ -414,7 +503,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/france.webp"
-            
+
         MainFetchPopUp("/football/past/nations/json/france.json");
 
     }
@@ -443,16 +532,16 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/brazil.webp"
 
         MainFetchPopUp("/football/past/nations/json/brazil.json");
     }
-    
+
     if (selectedYear === 9) {
-        
+
         STC.textContent = "F Torres";
-        FR.textContent = "Silva";
+        FR.textContent = "D Silva";
         AMC.textContent = "Iniesta";
         FL.textContent = "D Villa";
         CMR.textContent = "Xavi";
@@ -479,9 +568,9 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/past/nations/json/spain.json");
     }
-    
+
     if (selectedYear === 3) {
-        
+
         STC.textContent = "Kane";
         FR.textContent = "Sterling";
         AMC.textContent = "Rooney";
@@ -505,14 +594,14 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/england.webp"
 
         MainFetchPopUp("/football/past/nations/json/england.json");
     }
-    
+
     if (selectedYear === 5) {
-        
+
         STC.textContent = "Muller";
         FR.textContent = "Sane";
         AMC.textContent = "Ozil";
@@ -524,7 +613,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Boateng";
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -565,7 +654,7 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";       
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/argentina.webp"
 
@@ -573,7 +662,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear === 6) {
-        
+
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
         AMC.textContent = "Barella";
@@ -596,13 +685,13 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";        
-        
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/italy.webp"
 
         MainFetchPopUp("/football/past/nations/json/italy.json");
     }
-    
+
     if (selectedYear === 7) {
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
@@ -615,7 +704,7 @@ function updatePlayerInfo() {
         DCL.textContent = "R Dias";
         DL.textContent = "R Guerreiro";
         GK.textContent = "R Patricio";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -632,9 +721,8 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/past/nations/json/portugal.json");
     }
-    
-    if (selectedYear === 1)
-    {
+
+    if (selectedYear === 1) {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
@@ -657,15 +745,15 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";        
-        
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/belgium.webp"
 
         MainFetchPopUp("/football/past/nations/json/belgium.json");
     }
-    
-    
-    if (selectedYear === 8) { 
+
+
+    if (selectedYear === 8) {
 
         STC.textContent = "van Persie";
         FR.textContent = "Robben";
@@ -678,7 +766,7 @@ function updatePlayerInfo() {
         DCL.textContent = "de Ligt";
         DL.textContent = "Blind";
         GK.textContent = "Cillessen";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -696,7 +784,7 @@ function updatePlayerInfo() {
         MainFetchPopUp("/football/past/nations/json/netherlands.json");
     }
 
-function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
             FR, FR2,
@@ -710,7 +798,7 @@ function clearAndFadeInElements() {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -726,27 +814,27 @@ function clearAndFadeInElements() {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }
 
- // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        console.log(selectedYear)
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+}
+
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+    console.log(selectedYear)
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 

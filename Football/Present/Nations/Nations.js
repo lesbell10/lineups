@@ -29,7 +29,7 @@ let selectedYear = 0;
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
-    
+
     if (selectedYear === "4") {
 
         STC.textContent = "Mbappe";
@@ -43,7 +43,7 @@ function updatePlayerInfo() {
         DCL.textContent = "L Hernandez";
         DL.textContent = "T Hernandez";
         GK.textContent = "Maignan";
-    
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -55,10 +55,19 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/france.webp"
 
         MainFetchPopUp("/football/present/nations/json/france.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022-23 season was significant as it included the 2022 FIFA World Cup, held in Qatar. Coached by Didier Deschamps, the team is known for its depth of talent, including stars like Kylian Mbappé, Antoine Griezmann, and N'Golo Kanté. France's style of play combines technical skill, speed, and tactical flexibility, making them a formidable force."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "2") {
@@ -91,6 +100,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/nations/json/brazil.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brazil national football team, coached by Tite, showed skillful and attacking style of play during the 2022-23 season. They couldn't add up to their record 5 world cup trophies in Qatar."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "9") {
@@ -122,6 +140,15 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/spain.webp"
 
         MainFetchPopUp("/football/present/nations/json/spain.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Spain national football team, known for their possession-based style and technical proficiency, approached the 2022-23 season with a focus on youth development and tactical innovation. Under coach Luis Enrique, the team featured a blend of experienced players and emerging talents like Pedri, Ferran Torres, and Ansu Fati."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "3") {
@@ -153,6 +180,15 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/england.webp"
 
         MainFetchPopUp("/football/present/nations/json/england.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Under the guidance of manager Gareth Southgate, England was known for its blend of experienced players like Harry Kane and young talents like Phil Foden and Jude Bellingham. England's playing style had evolved to combine traditional English physicality with modern, dynamic attacking football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "5") {
@@ -184,6 +220,15 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/germany.webp"
 
         MainFetchPopUp("/football/present/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "0") {
@@ -199,7 +244,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Li Martinez";
         DL.textContent = "Acuna";
         GK.textContent = "E Martinez";
-    
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -211,185 +256,230 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/argentina.webp"
 
         MainFetchPopUp("/football/present/nations/json/argentina.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-        if (selectedYear === "6") {
+    if (selectedYear === "6") {
 
-            STC.textContent = "Immobile";
-            FR.textContent = "Berardi";
-            AMC.textContent = "Barella";
-            FL.textContent = "Chiesa";
-            CMR.textContent = "Verratti";
-            CML.textContent = "Tonali";
-            DR.textContent = "Di Lorenzo";
-            DCR.textContent = "G Mancini";
-            DCL.textContent = "Bastoni";
-            DL.textContent = "Dimarco";
-            GK.textContent = "Donnarumma";
+        STC.textContent = "Immobile";
+        FR.textContent = "Berardi";
+        AMC.textContent = "Barella";
+        FL.textContent = "Chiesa";
+        CMR.textContent = "Verratti";
+        CML.textContent = "Tonali";
+        DR.textContent = "Di Lorenzo";
+        DCR.textContent = "G Mancini";
+        DCL.textContent = "Bastoni";
+        DL.textContent = "Dimarco";
+        GK.textContent = "Donnarumma";
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/italy.webp"
+        smallpic.src = "/football/img/logos/italy.webp"
 
-            MainFetchPopUp("/football/present/nations/json/italy.json");
+        MainFetchPopUp("/football/present/nations/json/italy.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "8") {
+
+        STC.textContent = "D Jota";
+        FR.textContent = "B Silva";
+        AMC.textContent = "B Fernandes";
+        FL.textContent = "R Leao";
+        CMR.textContent = "R Neves";
+        CML.textContent = "Palhinha";
+        DR.textContent = "Cancelo";
+        DCR.textContent = "R Dias";
+        DCL.textContent = "D Pereira";
+        DL.textContent = "Guerreiro";
+        GK.textContent = "D Costa";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/portugal.webp"
+
+        MainFetchPopUp("/football/present/nations/json/portugal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "1") {
+        STC.textContent = "Lukaku";
+        FR.textContent = "Doku";
+        AMC.textContent = "De Bruyne";
+        FL.textContent = "Trossard";
+        CMR.textContent = "Tielemans";
+        CML.textContent = "Witsel";
+        DR.textContent = "Castagne";
+        DCR.textContent = "Alderweireld";
+        DCL.textContent = "Vertonghen";
+        DL.textContent = "Theate";
+        GK.textContent = "Courtois";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/belgium.webp"
+
+        MainFetchPopUp("/football/present/nations/json/belgium.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "7") {
+
+        STC.textContent = "Gakpo";
+        FR.textContent = "Malen";
+        AMC.textContent = "M Depay";
+        FL.textContent = "Danjuma";
+        CMR.textContent = "Berghuis";
+        CML.textContent = "F de Jong";
+        DR.textContent = "Frimpong";
+        DCR.textContent = "van Dijk";
+        DCL.textContent = "de Ligt";
+        DL.textContent = "N Ake";
+        GK.textContent = "Flekken";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/netherlands.webp"
+
+        MainFetchPopUp("/football/present/nations/json/netherlands.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
+
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
 
-        if (selectedYear === "8") {
-
-            STC.textContent = "D Jota";
-            FR.textContent = "B Silva";
-            AMC.textContent = "B Fernandes";
-            FL.textContent = "R Leao";
-            CMR.textContent = "R Neves";
-            CML.textContent = "Palhinha";
-            DR.textContent = "Cancelo";
-            DCR.textContent = "R Dias";
-            DCL.textContent = "D Pereira";
-            DL.textContent = "Guerreiro";
-            GK.textContent = "D Costa";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-
-            smallpic.src = "/football/img/logos/portugal.webp"
-
-            MainFetchPopUp("/football/present/nations/json/portugal.json");
-        }
-
-        if (selectedYear === "1") {
-            STC.textContent = "Lukaku";
-            FR.textContent = "Doku";
-            AMC.textContent = "De Bruyne";
-            FL.textContent = "Trossard";
-            CMR.textContent = "Tielemans";
-            CML.textContent = "Witsel";
-            DR.textContent = "Castagne";
-            DCR.textContent = "Alderweireld";
-            DCL.textContent = "Vertonghen";
-            DL.textContent = "Theate";
-            GK.textContent = "Courtois";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-            smallpic.src = "/football/img/logos/belgium.webp"
-
-            MainFetchPopUp("/football/present/nations/json/belgium.json");
-        }
-
-        if (selectedYear === "7") {
-
-            STC.textContent = "Gakpo";
-            FR.textContent = "Malen";
-            AMC.textContent = "M Depay";
-            FL.textContent = "Danjuma";
-            CMR.textContent = "Berghuis";
-            CML.textContent = "F de Jong";
-            DR.textContent = "Frimpong";
-            DCR.textContent = "van Dijk";
-            DCL.textContent = "de Ligt";
-            DL.textContent = "N Ake";
-            GK.textContent = "Flekken";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-            smallpic.src = "/football/img/logos/netherlands.webp"
-
-            MainFetchPopUp("/football/present/nations/json/netherlands.json");
-        }
-
-    
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
-
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
             for (const element of elements) {
-                element.classList.add("fade-in");
+                element.classList.remove("fade-in");
             }
-
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
     }
+    clearAndFadeInElements();
+}
 
-    // Listen for changes in the year selection
-    yearSelector.addEventListener("change", updatePlayerInfo);
+// Listen for changes in the year selection
+yearSelector.addEventListener("change", updatePlayerInfo);
 
-    // Initial update based on the default year (2020)
-    updatePlayerInfo();
+// Initial update based on the default year (2020)
+updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
-    const updateDropdown = () => {
-        // yearSelector.selectedIndex = currentIndex;
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
 
-         if (selectedYear === 4) {
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
+const updateDropdown = () => {
+    // yearSelector.selectedIndex = currentIndex;
+
+    if (selectedYear === 4) {
 
         STC.textContent = "Mbappe";
         FR.textContent = "O Dembele";
@@ -402,7 +492,7 @@ function updatePlayerInfo() {
         DCL.textContent = "L Hernandez";
         DL.textContent = "T Hernandez";
         GK.textContent = "Maignan";
-    
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -414,10 +504,10 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/france.webp"
-             
-        MainFetchPopUp("/football/present/nations/json/france.json");    
+
+        MainFetchPopUp("/football/present/nations/json/france.json");
     }
 
     if (selectedYear === 2) {
@@ -557,7 +647,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Li Martinez";
         DL.textContent = "Acuna";
         GK.textContent = "E Martinez";
-    
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -569,186 +659,186 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/argentina.webp"
 
         MainFetchPopUp("/football/present/nations/json/argentina.json");
     }
-        if (selectedYear === 6) {
+    if (selectedYear === 6) {
 
-            STC.textContent = "Immobile";
-            FR.textContent = "Berardi";
-            AMC.textContent = "Barella";
-            FL.textContent = "Chiesa";
-            CMR.textContent = "Verratti";
-            CML.textContent = "Tonali";
-            DR.textContent = "Di Lorenzo";
-            DCR.textContent = "G Mancini";
-            DCL.textContent = "Bastoni";
-            DL.textContent = "Dimarco";
-            GK.textContent = "Donnarumma";
+        STC.textContent = "Immobile";
+        FR.textContent = "Berardi";
+        AMC.textContent = "Barella";
+        FL.textContent = "Chiesa";
+        CMR.textContent = "Verratti";
+        CML.textContent = "Tonali";
+        DR.textContent = "Di Lorenzo";
+        DCR.textContent = "G Mancini";
+        DCL.textContent = "Bastoni";
+        DL.textContent = "Dimarco";
+        GK.textContent = "Donnarumma";
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/italy.webp"
+        smallpic.src = "/football/img/logos/italy.webp"
 
-            MainFetchPopUp("/football/present/nations/json/italy.json");
-        }
-
-        if (selectedYear === 8) {
-
-            STC.textContent = "D Jota";
-            FR.textContent = "B Silva";
-            AMC.textContent = "B Fernandes";
-            FL.textContent = "R Leao";
-            CMR.textContent = "R Neves";
-            CML.textContent = "Palhinha";
-            DR.textContent = "Cancelo";
-            DCR.textContent = "R Dias";
-            DCL.textContent = "D Pereira";
-            DL.textContent = "Guerreiro";
-            GK.textContent = "D Costa";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-
-            smallpic.src = "/football/img/logos/portugal.webp"
-
-            MainFetchPopUp("/football/present/nations/json/portugal.json");
-        }
-
-        if (selectedYear === 1) {
-            STC.textContent = "Lukaku";
-            FR.textContent = "Doku";
-            AMC.textContent = "De Bruyne";
-            FL.textContent = "Trossard";
-            CMR.textContent = "Tielemans";
-            CML.textContent = "Witsel";
-            DR.textContent = "Castagne";
-            DCR.textContent = "Alderweireld";
-            DCL.textContent = "Vertonghen";
-            DL.textContent = "Theate";
-            GK.textContent = "Courtois";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-            smallpic.src = "/football/img/logos/belgium.webp"
-
-            MainFetchPopUp("/football/present/nations/json/begium.json");
-        }
-
-        if (selectedYear === 7) {
-
-            STC.textContent = "Gakpo";
-            FR.textContent = "Malen";
-            AMC.textContent = "M Depay";
-            FL.textContent = "Danjuma";
-            CMR.textContent = "Berghuis";
-            CML.textContent = "F de Jong";
-            DR.textContent = "Frimpong";
-            DCR.textContent = "van Dijk";
-            DCL.textContent = "de Ligt";
-            DL.textContent = "N Ake";
-            GK.textContent = "Flekken";
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-            smallpic.src = "/football/img/logos/netherlands.webp"
-
-            MainFetchPopUp("/football/present/nations/json/netherlands.json");
-        }
-
-
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
-
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
-
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
-    
+        MainFetchPopUp("/football/present/nations/json/italy.json");
     }
 
-    // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        console.log(selectedYear)
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
+    if (selectedYear === 8) {
+
+        STC.textContent = "D Jota";
+        FR.textContent = "B Silva";
+        AMC.textContent = "B Fernandes";
+        FL.textContent = "R Leao";
+        CMR.textContent = "R Neves";
+        CML.textContent = "Palhinha";
+        DR.textContent = "Cancelo";
+        DCR.textContent = "R Dias";
+        DCL.textContent = "D Pereira";
+        DL.textContent = "Guerreiro";
+        GK.textContent = "D Costa";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/portugal.webp"
+
+        MainFetchPopUp("/football/present/nations/json/portugal.json");
+    }
+
+    if (selectedYear === 1) {
+        STC.textContent = "Lukaku";
+        FR.textContent = "Doku";
+        AMC.textContent = "De Bruyne";
+        FL.textContent = "Trossard";
+        CMR.textContent = "Tielemans";
+        CML.textContent = "Witsel";
+        DR.textContent = "Castagne";
+        DCR.textContent = "Alderweireld";
+        DCL.textContent = "Vertonghen";
+        DL.textContent = "Theate";
+        GK.textContent = "Courtois";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/belgium.webp"
+
+        MainFetchPopUp("/football/present/nations/json/begium.json");
+    }
+
+    if (selectedYear === 7) {
+
+        STC.textContent = "Gakpo";
+        FR.textContent = "Malen";
+        AMC.textContent = "M Depay";
+        FL.textContent = "Danjuma";
+        CMR.textContent = "Berghuis";
+        CML.textContent = "F de Jong";
+        DR.textContent = "Frimpong";
+        DCR.textContent = "van Dijk";
+        DCL.textContent = "de Ligt";
+        DL.textContent = "N Ake";
+        GK.textContent = "Flekken";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/netherlands.webp"
+
+        MainFetchPopUp("/football/present/nations/json/netherlands.json");
+    }
+
+
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
+
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
+
+}
+
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+    console.log(selectedYear)
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 

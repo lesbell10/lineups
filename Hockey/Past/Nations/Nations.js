@@ -40,6 +40,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/nations/json/canada.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "1") {
@@ -60,6 +69,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/czech republic.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/czech republic.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -83,12 +101,21 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/nations/json/finland.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
     if (selectedYear === "3") {
         FL.textContent = "Rieder";
-        FC.textContent = "Draisaitl"; 
+        FC.textContent = "Draisaitl";
         FR.textContent = "Goc";
         DL.textContent = "Ehrhoff";
         DR.textContent = "Seidenberg";
@@ -104,6 +131,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -127,6 +163,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/nations/json/russia.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "5") {
@@ -147,6 +192,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/slovakia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -170,6 +224,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/nations/json/sweden.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "7") {
@@ -190,6 +253,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/switzerland.png"
 
         MainFetchPopUp("/hockey/past/nations/json/switzerland.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -212,6 +284,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/usa.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/united states.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -322,7 +403,7 @@ const updateDropdown = () => {
 
     if (selectedYear === 3) {
         FL.textContent = "Rieder";
-        FC.textContent = "Draisaitl"; 
+        FC.textContent = "Draisaitl";
         FR.textContent = "Goc";
         DL.textContent = "Ehrhoff";
         DR.textContent = "Seidenberg";

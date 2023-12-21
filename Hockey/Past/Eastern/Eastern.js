@@ -14,7 +14,7 @@ const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
-let selectedYear= 0;
+let selectedYear = 0;
 
 function updatePlayerInfo() {
 
@@ -40,6 +40,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/boston.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "1") {
@@ -58,8 +67,17 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
         smallpic.src = "/hockey/img/logos/buffalo.gif";
-        
+
         MainFetchPopUp("/hockey/past/eastern/json/buffalo.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -82,6 +100,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/carolina.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "3") {
@@ -102,6 +129,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/columbus.gif";
 
         MainFetchPopUp("/hockey/past/eastern/json/columbus.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -124,6 +160,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/detroit.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "5") {
@@ -145,9 +190,18 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/florida.json");
 
-    } 
-    
-    if(selectedYear === "6") {
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+
+    if (selectedYear === "6") {
         FL.textContent = "Pacioretty";
         FC.textContent = "Tatar";
         FR.textContent = "Gallagher";
@@ -166,8 +220,17 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/montreal.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "7") {
         FL.textContent = "Hall";
         FC.textContent = "Henrique";
@@ -187,8 +250,17 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/new jersey.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "8") {
         FL.textContent = "Lee";
         FC.textContent = "Tavares";
@@ -208,8 +280,17 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/ny islanders.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "9") {
         FL.textContent = "Panarin";
         FC.textContent = "Stepan";
@@ -229,6 +310,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/ny rangers.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     } if (selectedYear === "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
@@ -245,8 +335,17 @@ function updatePlayerInfo() {
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
         smallpic.src = "/hockey/img/logos/ottawa.gif";
-        
+
         MainFetchPopUp("/hockey/past/eastern/json/ottawa.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     } if (selectedYear === "11") {
         FL.textContent = "Giroux";;
@@ -266,6 +365,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/philadelphia.gif";
 
         MainFetchPopUp("/hockey/past/eastern/json/philadelphia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -288,6 +396,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/pittsburgh.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "13") {
@@ -308,6 +425,15 @@ function updatePlayerInfo() {
         smallpic.src = "/hockey/img/logos/tampa bay.gif";
 
         MainFetchPopUp("/hockey/past/eastern/json/tampa bay.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -330,6 +456,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/toronto.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "15") {
@@ -351,6 +486,24 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/hockey/past/eastern/json/washington.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     function clearAndFadeInElements() {

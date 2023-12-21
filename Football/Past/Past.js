@@ -55,9 +55,16 @@ function updatePlayerInfo() {
 
     MainFetchPopUp("/football/past/past.json");
 
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = "Lionel Messi, an Argentine football legend, is renowned for his extraordinary dribbling, playmaking, and goal-scoring abilities. He spent the majority of his career at Barcelona, earning numerous Ballon d'Or awards and titles, before joining Paris Saint-Germain in 2021 and Inter Miami in 2023. Messi is widely regarded as one of the greatest footballers of all time."
+    })
 
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 
-     function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
             FR, FR2,
@@ -71,7 +78,7 @@ function updatePlayerInfo() {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {

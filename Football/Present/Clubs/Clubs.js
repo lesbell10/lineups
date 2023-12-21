@@ -29,7 +29,7 @@ let selectedYear = 0;
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
-    
+
     if (selectedYear === "10") {
 
         STC.textContent = "Haaland";
@@ -57,8 +57,17 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/man city.webp";
-        
+
         MainFetchPopUp("/football/present/clubs/json/manchester city.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "n the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -89,10 +98,17 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/real madrid.webp";
-        
+
         MainFetchPopUp("/football/present/clubs/json/real madrid.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
+        })
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "13") {
@@ -124,11 +140,18 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/paris saint-germain.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
+        })
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "5") {
-        
+
         STC.textContent = "Kane"
         FR.textContent = "Sane"
         AMC.textContent = "Musiala"
@@ -154,13 +177,22 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/bayern munich.webp";
-        
+
         MainFetchPopUp("/football/present/clubs/json/bayern munich.json");
 
-        
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+
     }
     if (selectedYear === "9") {
-        
+
         STC.textContent = "D Jota"
         FR.textContent = "Salah"
         AMC.textContent = "Gakpo"
@@ -189,6 +221,15 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/liverpool.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
@@ -216,58 +257,76 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/barcelona.webp";
 
         MainFetchPopUp("/football/present/clubs/json/barcelona.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022–23 season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-        if (selectedYear === "6") {
-            STC.textContent = "N Jackson"
-            FR.textContent = "Sterling"
-            AMC.textContent = "Nkunku"
-            FL.textContent = "Mudryk"
-            CMR.textContent = "E Fernandez"
-            CML.textContent = "Caicedo"
-            DR.textContent = "R James"
-            DCR.textContent = "T Silva"
-            DCL.textContent = "Disasi"
-            DL.textContent = "Chilwell"
-            GK.textContent = "R Sanchez"
+    if (selectedYear === "6") {
+        STC.textContent = "N Jackson"
+        FR.textContent = "Sterling"
+        AMC.textContent = "Nkunku"
+        FL.textContent = "Mudryk"
+        CMR.textContent = "E Fernandez"
+        CML.textContent = "Caicedo"
+        DR.textContent = "R James"
+        DCR.textContent = "T Silva"
+        DCL.textContent = "Disasi"
+        DL.textContent = "Chilwell"
+        GK.textContent = "R Sanchez"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/chelsea.webp";
+        smallpic.src = "/football/img/logos/chelsea.webp";
 
-            MainFetchPopUp("/football/present/clubs/json/chelsea.json");
+        MainFetchPopUp("/football/present/clubs/json/chelsea.json");
 
-        }
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022–23 season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
+        })
 
-        if (selectedYear === "11") {
-            STC.textContent = "Hojlund"
-            FR.textContent = "Sancho"
-            AMC.textContent = "B Fernandes"
-            FL.textContent = "Rashford"
-            CMR.textContent = "Eriksen"
-            CML.textContent = "Casemiro"
-            DR.textContent = "Dalot"
-            DCR.textContent = "Varane"
-            DCL.textContent = "Li Martinez"
-            DL.textContent = "Shaw"
-            GK.textContent = "Onana"
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    }
+
+    if (selectedYear === "11") {
+        STC.textContent = "Hojlund"
+        FR.textContent = "Sancho"
+        AMC.textContent = "B Fernandes"
+        FL.textContent = "Rashford"
+        CMR.textContent = "Eriksen"
+        CML.textContent = "Casemiro"
+        DR.textContent = "Dalot"
+        DCR.textContent = "Varane"
+        DCL.textContent = "Li Martinez"
+        DL.textContent = "Shaw"
+        GK.textContent = "Onana"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -283,21 +342,30 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/manchester united.json");
 
-    }
-        if (selectedYear === "8") {
-            STC.textContent = "Vlahovic"
-            FR.textContent = "Chiesa"
-            AMC.textContent = "Pogba"
-            FL.textContent = "Kostic"
-            CMR.textContent = "Locatelli"
-            CML.textContent = "Rabiot"
-            DR.textContent = "Danilo"
-            DCR.textContent = "Bremer"
-            DCL.textContent = "Gatti"
-            DL.textContent = "A Sandro"
-            GK.textContent = "Szczesny"
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+        })
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+    if (selectedYear === "8") {
+        STC.textContent = "Vlahovic"
+        FR.textContent = "Chiesa"
+        AMC.textContent = "Pogba"
+        FL.textContent = "Kostic"
+        CMR.textContent = "Locatelli"
+        CML.textContent = "Rabiot"
+        DR.textContent = "Danilo"
+        DCR.textContent = "Bremer"
+        DCL.textContent = "Gatti"
+        DL.textContent = "A Sandro"
+        GK.textContent = "Szczesny"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -313,84 +381,32 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/juventus.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
+        })
 
-        }
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-        if (selectedYear === "1") {
-            STC.textContent = "G Jesus"
-            FR.textContent = "Saka"
-            AMC.textContent = "Odegaard"
-            FL.textContent = "Martinelli"
-            CMR.textContent = "Partey"
-            CML.textContent = "Rice"
-            DR.textContent = "B White"
-            DCR.textContent = "Saliba"
-            DCL.textContent = "Gabriel"
-            DL.textContent = "Zinchenko"
-            GK.textContent = "D Raya"
-            
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/arsenal.webp";
-                
-            MainFetchPopUp("/football/present/clubs/json/arsenal.json");
-        
-        }
-        if (selectedYear === "7") {
-            STC.textContent = "La Martinez"
-            FR.textContent = "Cuadrado"
-            AMC.textContent = "Mkhitaryan"
-            FL.textContent = "M Thuram"
-            CMR.textContent = "Barella"
-            CML.textContent = "Calhanoglu"
-            DR.textContent = "Pavard"
-            DCR.textContent = "de Vrij"
-            DCL.textContent = "Bastoni"
-            DL.textContent = "Dimarco"
-            GK.textContent = "Sommer"
+    }
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+    if (selectedYear === "1") {
+        STC.textContent = "G Jesus"
+        FR.textContent = "Saka"
+        AMC.textContent = "Odegaard"
+        FL.textContent = "Martinelli"
+        CMR.textContent = "Partey"
+        CML.textContent = "Rice"
+        DR.textContent = "B White"
+        DCR.textContent = "Saliba"
+        DCL.textContent = "Gabriel"
+        DL.textContent = "Zinchenko"
+        GK.textContent = "D Raya"
 
-           smallpic.src = "/football/img/logos/inter milan.webp";
-            
-            MainFetchPopUp("/football/present/clubs/json/inter milan.json"); 
-
-        }
-        
-        if (selectedYear === "3") {
-            STC.textContent = "Morata"
-            FR.textContent = "De Paul"
-            AMC.textContent = "Griezmann"
-            FL.textContent = "M Depay"
-            CMR.textContent = "M Llorente"
-            CML.textContent = "Koke"
-            DR.textContent = "Molina"
-            DCR.textContent = "Gimenez"
-            DCL.textContent = "Savic"
-            DL.textContent = "Hermoso"
-            GK.textContent = "Oblak"
-
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -401,28 +417,116 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
+        smallpic.src = "/football/img/logos/arsenal.webp";
+
+        MainFetchPopUp("/football/present/clubs/json/arsenal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+    if (selectedYear === "7") {
+        STC.textContent = "La Martinez"
+        FR.textContent = "Cuadrado"
+        AMC.textContent = "Mkhitaryan"
+        FL.textContent = "M Thuram"
+        CMR.textContent = "Barella"
+        CML.textContent = "Calhanoglu"
+        DR.textContent = "Pavard"
+        DCR.textContent = "de Vrij"
+        DCL.textContent = "Bastoni"
+        DL.textContent = "Dimarco"
+        GK.textContent = "Sommer"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/inter milan.webp";
+
+        MainFetchPopUp("/football/present/clubs/json/inter milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+
+    if (selectedYear === "3") {
+        STC.textContent = "Morata"
+        FR.textContent = "De Paul"
+        AMC.textContent = "Griezmann"
+        FL.textContent = "M Depay"
+        CMR.textContent = "M Llorente"
+        CML.textContent = "Koke"
+        DR.textContent = "Molina"
+        DCR.textContent = "Gimenez"
+        DCL.textContent = "Savic"
+        DL.textContent = "Hermoso"
+        GK.textContent = "Oblak"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/atletico madrid.webp";
-            
+
         MainFetchPopUp("/football/present/clubs/json/atletico madrid.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
+        })
 
-        }
-        
-        if (selectedYear === "0") {
-            STC.textContent = "Giroud"
-            FR.textContent = "Pulisic"
-            AMC.textContent = "Loftus-C"
-            FL.textContent = "R Leao"
-            CMR.textContent = "Bennacer"
-            CML.textContent = "Krunic"
-            DR.textContent = "Calabria"
-            DCR.textContent = "Tomori"
-            DCL.textContent = "Kjaer"
-            DL.textContent = "T Hernandez"
-            GK.textContent = "Maignan"
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+
+    }
+
+    if (selectedYear === "0") {
+        STC.textContent = "Giroud"
+        FR.textContent = "Pulisic"
+        AMC.textContent = "Loftus-C"
+        FL.textContent = "R Leao"
+        CMR.textContent = "Bennacer"
+        CML.textContent = "Krunic"
+        DR.textContent = "Calabria"
+        DCR.textContent = "Tomori"
+        DCL.textContent = "Kjaer"
+        DL.textContent = "T Hernandez"
+        GK.textContent = "Maignan"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -434,26 +538,35 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/ac milan.webp";
-            
-            MainFetchPopUp("/football/present/clubs/json/ac milan.json");
-            
-        }
-        
-        if (selectedYear === "12") {
-            STC.textContent = "Osimhen"
-            FR.textContent = "Politano"
-            AMC.textContent = "Zielinski"
-            FL.textContent = "Kvaratskhelia"
-            CMR.textContent = "Lobotka"
-            CML.textContent = "Z Anguissa"
-            DR.textContent = "Di Lorenzo"
-            DCR.textContent = "Rrahmani"
-            DCL.textContent = "J Jesus"
-            DL.textContent = "M Rui"
-            GK.textContent = "Meret"
+        smallpic.src = "/football/img/logos/ac milan.webp";
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        MainFetchPopUp("/football/present/clubs/json/ac milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    }
+
+    if (selectedYear === "12") {
+        STC.textContent = "Osimhen"
+        FR.textContent = "Politano"
+        AMC.textContent = "Zielinski"
+        FL.textContent = "Kvaratskhelia"
+        CMR.textContent = "Lobotka"
+        CML.textContent = "Z Anguissa"
+        DR.textContent = "Di Lorenzo"
+        DCR.textContent = "Rrahmani"
+        DCL.textContent = "J Jesus"
+        DL.textContent = "M Rui"
+        GK.textContent = "Meret"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -464,28 +577,37 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
         smallpic.src = "/football/img/logos/napoli.webp";
 
         MainFetchPopUp("/football/present/clubs/json/napoli.json");
 
-            
-        }
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
+        })
 
-        if (selectedYear === "15") {
-            STC.textContent = "M Son"
-            FR.textContent = "Kulusevski"
-            AMC.textContent = "Maddison"
-            FL.textContent = "B Johnson"
-            CMR.textContent = "Hojbjerg"
-            CML.textContent = "Bentancur"
-            DR.textContent = "P Porro"
-            DCR.textContent = "C Romero"
-            DCL.textContent = "van de Ven"
-            DL.textContent = "Udogie"
-            GK.textContent = "Vicario"
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+
+    }
+
+    if (selectedYear === "15") {
+        STC.textContent = "M Son"
+        FR.textContent = "Kulusevski"
+        AMC.textContent = "Maddison"
+        FL.textContent = "B Johnson"
+        CMR.textContent = "Hojbjerg"
+        CML.textContent = "Bentancur"
+        DR.textContent = "P Porro"
+        DCR.textContent = "C Romero"
+        DCL.textContent = "van de Ven"
+        DL.textContent = "Udogie"
+        GK.textContent = "Vicario"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -501,22 +623,31 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/tottenham.json");
 
-        }
-        if (selectedYear === "2") {
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tottenham's 2022-23 season wasa a difficult one. They finishedd 8th in the league and Hary Kane, who departed for Bayern Munich in th summer, netted 32 goals. Antonio Conte led the team until March 26."
+        })
 
-            STC.textContent = "Lukaku"
-            FR.textContent = "Aouar"
-            AMC.textContent = "Dybala"
-            FL.textContent = "Pellegrini"
-            CMR.textContent = "R Sanches"
-            CML.textContent = "Cristante"
-            DR.textContent = "Karsdorp"
-            DCR.textContent = "Smalling"
-            DCL.textContent = "G Mancini"
-            DL.textContent = "Spinazzola"
-            GK.textContent = "R Patricio"
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    }
+    if (selectedYear === "2") {
+
+        STC.textContent = "Lukaku"
+        FR.textContent = "Aouar"
+        AMC.textContent = "Dybala"
+        FL.textContent = "Pellegrini"
+        CMR.textContent = "R Sanches"
+        CML.textContent = "Cristante"
+        DR.textContent = "Karsdorp"
+        DCR.textContent = "Smalling"
+        DCL.textContent = "G Mancini"
+        DL.textContent = "Spinazzola"
+        GK.textContent = "R Patricio"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -531,59 +662,68 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/as roma.webp";
 
         MainFetchPopUp("/football/present/clubs/json/as roma.json");
-            
-        }
 
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            smallpic.classList.add("fade-in")
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
+        })
 
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                smallpic.classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
     }
 
-    // Listen for changes in the year selection
-    yearSelector.addEventListener("change", updatePlayerInfo);
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
 
-    // Initial update based on the default year (2020)
-    updatePlayerInfo();
+        smallpic.classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
+        }
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            smallpic.classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
+}
+
+// Listen for changes in the year selection
+yearSelector.addEventListener("change", updatePlayerInfo);
+
+// Initial update based on the default year (2020)
+updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
-    const updateDropdown = () => {
-        // yearSelector.selectedIndex = currentIndex;
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
 
-        if (selectedYear === 10) {
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
+const updateDropdown = () => {
+    // yearSelector.selectedIndex = currentIndex;
+
+    if (selectedYear === 10) {
 
         STC.textContent = "Haaland";
         FR.textContent = "B Silva";
@@ -642,7 +782,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/real madrid.webp";
-        
+
         MainFetchPopUp("/football/present/clubs/json/real madrid.json");
 
 
@@ -681,7 +821,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear === 5) {
-        
+
         STC.textContent = "Kane"
         FR.textContent = "Sane"
         AMC.textContent = "Musiala"
@@ -707,13 +847,13 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/bayern munich.webp";
-        
+
         MainFetchPopUp("/football/present/clubs/json/bayern munich.json");
 
-        
+
     }
     if (selectedYear === 9) {
-        
+
         STC.textContent = "D Jota"
         FR.textContent = "Salah"
         AMC.textContent = "Gakpo"
@@ -769,58 +909,58 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/barcelona.webp";
 
         MainFetchPopUp("/football/present/clubs/json/barcelona.json");
 
     }
 
-        if (selectedYear === 6) {
-            STC.textContent = "N Jackson"
-            FR.textContent = "Sterling"
-            AMC.textContent = "Nkunku"
-            FL.textContent = "Mudryk"
-            CMR.textContent = "E Fernandez"
-            CML.textContent = "Caicedo"
-            DR.textContent = "R James"
-            DCR.textContent = "T Silva"
-            DCL.textContent = "Disasi"
-            DL.textContent = "Chilwell"
-            GK.textContent = "R Sanchez"
+    if (selectedYear === 6) {
+        STC.textContent = "N Jackson"
+        FR.textContent = "Sterling"
+        AMC.textContent = "Nkunku"
+        FL.textContent = "Mudryk"
+        CMR.textContent = "E Fernandez"
+        CML.textContent = "Caicedo"
+        DR.textContent = "R James"
+        DCR.textContent = "T Silva"
+        DCL.textContent = "Disasi"
+        DL.textContent = "Chilwell"
+        GK.textContent = "R Sanchez"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/chelsea.webp";
 
         MainFetchPopUp("/football/present/clubs/json/chelsea.json");
 
-        }
+    }
 
-        if (selectedYear === 11) {
-            STC.textContent = "Hojlund"
-            FR.textContent = "Sancho"
-            AMC.textContent = "B Fernandes"
-            FL.textContent = "Rashford"
-            CMR.textContent = "Eriksen"
-            CML.textContent = "Casemiro"
-            DR.textContent = "Dalot"
-            DCR.textContent = "Varane"
-            DCL.textContent = "Li Martinez"
-            DL.textContent = "Shaw"
-            GK.textContent = "Onana"
+    if (selectedYear === 11) {
+        STC.textContent = "Hojlund"
+        FR.textContent = "Sancho"
+        AMC.textContent = "B Fernandes"
+        FL.textContent = "Rashford"
+        CMR.textContent = "Eriksen"
+        CML.textContent = "Casemiro"
+        DR.textContent = "Dalot"
+        DCR.textContent = "Varane"
+        DCL.textContent = "Li Martinez"
+        DL.textContent = "Shaw"
+        GK.textContent = "Onana"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -837,20 +977,20 @@ function updatePlayerInfo() {
         MainFetchPopUp("/football/present/clubs/json/manchester united.json");
 
     }
-        if (selectedYear === 8) {
-            STC.textContent = "Vlahovic"
-            FR.textContent = "Chiesa"
-            AMC.textContent = "Pogba"
-            FL.textContent = "Kostic"
-            CMR.textContent = "Locatelli"
-            CML.textContent = "Rabiot"
-            DR.textContent = "Danilo"
-            DCR.textContent = "Bremer"
-            DCL.textContent = "Gatti"
-            DL.textContent = "A Sandro"
-            GK.textContent = "Szczesny"
+    if (selectedYear === 8) {
+        STC.textContent = "Vlahovic"
+        FR.textContent = "Chiesa"
+        AMC.textContent = "Pogba"
+        FL.textContent = "Kostic"
+        CMR.textContent = "Locatelli"
+        CML.textContent = "Rabiot"
+        DR.textContent = "Danilo"
+        DCR.textContent = "Bremer"
+        DCL.textContent = "Gatti"
+        DL.textContent = "A Sandro"
+        GK.textContent = "Szczesny"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -867,21 +1007,21 @@ function updatePlayerInfo() {
         MainFetchPopUp("/football/present/clubs/json/juventus.json");
 
 
-        }
+    }
 
-        if (selectedYear === 1) {
-            STC.textContent = "G Jesus"
-            FR.textContent = "Saka"
-            AMC.textContent = "Odegaard"
-            FL.textContent = "Martinelli"
-            CMR.textContent = "Partey"
-            CML.textContent = "Rice"
-            DR.textContent = "B White"
-            DCR.textContent = "Saliba"
-            DCL.textContent = "Gabriel"
-            DL.textContent = "Zinchenko"
-            GK.textContent = "D Raya"
-            
+    if (selectedYear === 1) {
+        STC.textContent = "G Jesus"
+        FR.textContent = "Saka"
+        AMC.textContent = "Odegaard"
+        FL.textContent = "Martinelli"
+        CMR.textContent = "Partey"
+        CML.textContent = "Rice"
+        DR.textContent = "B White"
+        DCR.textContent = "Saliba"
+        DCL.textContent = "Gabriel"
+        DL.textContent = "Zinchenko"
+        GK.textContent = "D Raya"
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
@@ -895,24 +1035,24 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/arsenal.webp";
-                ;
+        ;
         MainFetchPopUp("/football/present/clubs/json/arsenal.json");
-        
-        }
-        if (selectedYear === 7) {
-            STC.textContent = "La Martinez"
-            FR.textContent = "Cuadrado"
-            AMC.textContent = "Mkhitaryan"
-            FL.textContent = "M Thuram"
-            CMR.textContent = "Barella"
-            CML.textContent = "Calhanoglu"
-            DR.textContent = "Pavard"
-            DCR.textContent = "de Vrij"
-            DCL.textContent = "Bastoni"
-            DL.textContent = "Dimarco"
-            GK.textContent = "Sommer"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    }
+    if (selectedYear === 7) {
+        STC.textContent = "La Martinez"
+        FR.textContent = "Cuadrado"
+        AMC.textContent = "Mkhitaryan"
+        FL.textContent = "M Thuram"
+        CMR.textContent = "Barella"
+        CML.textContent = "Calhanoglu"
+        DR.textContent = "Pavard"
+        DCR.textContent = "de Vrij"
+        DCL.textContent = "Bastoni"
+        DL.textContent = "Dimarco"
+        GK.textContent = "Sommer"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -928,22 +1068,22 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/inter milan.json");
 
-        }
-        
-        if (selectedYear === 3) {
-            STC.textContent = "Morata"
-            FR.textContent = "De Paul"
-            AMC.textContent = "Griezmann"
-            FL.textContent = "M Depay"
-            CMR.textContent = "M Llorente"
-            CML.textContent = "Koke"
-            DR.textContent = "Molina"
-            DCR.textContent = "Gimenez"
-            DCL.textContent = "Savic"
-            DL.textContent = "Hermoso"
-            GK.textContent = "Oblak"
+    }
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    if (selectedYear === 3) {
+        STC.textContent = "Morata"
+        FR.textContent = "De Paul"
+        AMC.textContent = "Griezmann"
+        FL.textContent = "M Depay"
+        CMR.textContent = "M Llorente"
+        CML.textContent = "Koke"
+        DR.textContent = "Molina"
+        DCR.textContent = "Gimenez"
+        DCL.textContent = "Savic"
+        DL.textContent = "Hermoso"
+        GK.textContent = "Oblak"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -954,28 +1094,28 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
         smallpic.src = "/football/img/logos/atletico madrid.webp";
 
         MainFetchPopUp("/football/present/clubs/json/atletico madrid.json");
 
 
-        }
-        
-        if (selectedYear === 0) {
-            STC.textContent = "Giroud"
-            FR.textContent = "Pulisic"
-            AMC.textContent = "Loftus-C"
-            FL.textContent = "R Leao"
-            CMR.textContent = "Bennacer"
-            CML.textContent = "Krunic"
-            DR.textContent = "Calabria"
-            DCR.textContent = "Tomori"
-            DCL.textContent = "Kjaer"
-            DL.textContent = "T Hernandez"
-            GK.textContent = "Maignan"
+    }
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    if (selectedYear === 0) {
+        STC.textContent = "Giroud"
+        FR.textContent = "Pulisic"
+        AMC.textContent = "Loftus-C"
+        FL.textContent = "R Leao"
+        CMR.textContent = "Bennacer"
+        CML.textContent = "Krunic"
+        DR.textContent = "Calabria"
+        DCR.textContent = "Tomori"
+        DCL.textContent = "Kjaer"
+        DL.textContent = "T Hernandez"
+        GK.textContent = "Maignan"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -989,24 +1129,24 @@ function updatePlayerInfo() {
 
         smallpic.src = "/football/img/logos/ac milan.webp";
 
-            MainFetchPopUp("/football/present/clubs/json/ac milan.json");
-            
-        }
-        
-        if (selectedYear === 12) {
-            STC.textContent = "Osimhen"
-            FR.textContent = "Politano"
-            AMC.textContent = "Zielinski"
-            FL.textContent = "Kvaratskhelia"
-            CMR.textContent = "Lobotka"
-            CML.textContent = "Z Anguissa"
-            DR.textContent = "Di Lorenzo"
-            DCR.textContent = "Rrahmani"
-            DCL.textContent = "J Jesus"
-            DL.textContent = "M Rui"
-            GK.textContent = "Meret"
+        MainFetchPopUp("/football/present/clubs/json/ac milan.json");
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    }
+
+    if (selectedYear === 12) {
+        STC.textContent = "Osimhen"
+        FR.textContent = "Politano"
+        AMC.textContent = "Zielinski"
+        FL.textContent = "Kvaratskhelia"
+        CMR.textContent = "Lobotka"
+        CML.textContent = "Z Anguissa"
+        DR.textContent = "Di Lorenzo"
+        DCR.textContent = "Rrahmani"
+        DCL.textContent = "J Jesus"
+        DL.textContent = "M Rui"
+        GK.textContent = "Meret"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -1017,28 +1157,28 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
         smallpic.src = "/football/img/logos/napoli.webp";
 
         MainFetchPopUp("/football/present/clubs/json/napoli.json");
 
-            
-        }
 
-        if (selectedYear === 15) {
-            STC.textContent = "M Son"
-            FR.textContent = "Kulusevski"
-            AMC.textContent = "Maddison"
-            FL.textContent = "B Johnson"
-            CMR.textContent = "Hojbjerg"
-            CML.textContent = "Bentancur"
-            DR.textContent = "P Porro"
-            DCR.textContent = "C Romero"
-            DCL.textContent = "van de Ven"
-            DL.textContent = "Udogie"
-            GK.textContent = "Vicario"
+    }
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+    if (selectedYear === 15) {
+        STC.textContent = "M Son"
+        FR.textContent = "Kulusevski"
+        AMC.textContent = "Maddison"
+        FL.textContent = "B Johnson"
+        CMR.textContent = "Hojbjerg"
+        CML.textContent = "Bentancur"
+        DR.textContent = "P Porro"
+        DCR.textContent = "C Romero"
+        DCL.textContent = "van de Ven"
+        DL.textContent = "Udogie"
+        GK.textContent = "Vicario"
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
         FL2.src = "/football/img/players/" + FL.textContent + ".webp";
@@ -1054,91 +1194,91 @@ function updatePlayerInfo() {
 
         MainFetchPopUp("/football/present/clubs/json/tottenham.json");
 
-        }
-        if (selectedYear === 2) {
+    }
+    if (selectedYear === 2) {
 
-            STC.textContent = "Lukaku"
-            FR.textContent = "Aouar"
-            AMC.textContent = "Dybala"
-            FL.textContent = "Pellegrini"
-            CMR.textContent = "R Sanches"
-            CML.textContent = "Cristante"
-            DR.textContent = "Karsdorp"
-            DCR.textContent = "Smalling"
-            DCL.textContent = "G Mancini"
-            DL.textContent = "Spinazzola"
-            GK.textContent = "R Patricio"
+        STC.textContent = "Lukaku"
+        FR.textContent = "Aouar"
+        AMC.textContent = "Dybala"
+        FL.textContent = "Pellegrini"
+        CMR.textContent = "R Sanches"
+        CML.textContent = "Cristante"
+        DR.textContent = "Karsdorp"
+        DCR.textContent = "Smalling"
+        DCL.textContent = "G Mancini"
+        DL.textContent = "Spinazzola"
+        GK.textContent = "R Patricio"
 
-            STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-            FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-            AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
-            FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-            CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-            CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-            DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-            DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-            DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-            DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-            GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-            smallpic.src = "/football/img/logos/as roma.webp";
+        smallpic.src = "/football/img/logos/as roma.webp";
 
-            MainFetchPopUp("/football/present/clubs/json/as roma.json");
-            
-        }
+        MainFetchPopUp("/football/present/clubs/json/as roma.json");
 
-
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            smallpic.classList.add("fade-in")
-
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
-
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                smallpic.classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
-    
     }
 
-    // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        console.log(selectedYear)
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
+
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
+
+        smallpic.classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            smallpic.classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
+
+}
+
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+    console.log(selectedYear)
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 

@@ -429,7 +429,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Washington Wizards' 2022-23 season was a journey of perseverance and team cohesion. Balancing experienced veterans with emerging talent, they faced the challenges of the Eastern Conference with a focus on strategic plays and individual skill development, aiming to enhance their position in the NBA landscape."
+            sideModal.textContent = "The Washington Wizards' 2022-23 season was led by Bradley Beal, with important roles played by players like Kyle Kuzma. Focusing on improving their overall team play and consistency, they aimed to enhance their competitiveness in the NBA's Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {

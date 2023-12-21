@@ -20,413 +20,593 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "19") { 
-    FL.textContent = "Draisaitl";
-    FC.textContent = "McDavid";
-    FR.textContent = "Pastrnak";
-    DL.textContent = "Makar";
-    DR.textContent = "Josi";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === "19") {
+        FL.textContent = "Draisaitl";
+        FC.textContent = "McDavid";
+        FR.textContent = "Pastrnak";
+        DL.textContent = "Makar";
+        DR.textContent = "Josi";
+        G.textContent = "Vasilevskiy";
 
-    smallpic.src = "/hockey/img/wallpapers/mcdavid.jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2024.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/mcdavid.jpg";
 
-if (selectedYear === "18") {
-    FL.textContent = "MacKinnon";
-    FC.textContent = "McDavid";
-    FR.textContent = "Matthews";
-    DL.textContent = "Makar";
-    DR.textContent = "Hedman";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2024.json");
 
-    smallpic.src = "/hockey/img/wallpapers/matthews.jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-    MainFetchPopUp("./json/EveryYear_2023.json");
-}
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-if (selectedYear === "17") {
-    FL.textContent = "Crosby";
-    FC.textContent = "McDavid";
-    FR.textContent = "MacKinnon";
-    DL.textContent = "Hedman";
-    DR.textContent = "Josi";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === "18") {
+        FL.textContent = "MacKinnon";
+        FC.textContent = "McDavid";
+        FR.textContent = "Matthews";
+        DL.textContent = "Makar";
+        DR.textContent = "Hedman";
+        G.textContent = "Vasilevskiy";
 
-    smallpic.src = "/hockey/img/wallpapers/mackinnon.jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2022.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/matthews.jpg";
 
-if (selectedYear === "16") {
-    FL.textContent = "Draisaitl";
-    FC.textContent = "McDavid";
-    FR.textContent = "MacKinnon";
-    DL.textContent = "Hedman";
-    DR.textContent = "Makar";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2023.json");
 
-    smallpic.src = "/hockey/img/wallpapers/draisaitl.jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    MainFetchPopUp("./json/EveryYear_2021.json");
-}
+    if (selectedYear === "17") {
+        FL.textContent = "Crosby";
+        FC.textContent = "McDavid";
+        FR.textContent = "MacKinnon";
+        DL.textContent = "Hedman";
+        DR.textContent = "Josi";
+        G.textContent = "Vasilevskiy";
 
-if (selectedYear === "15") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "McDavid";
-    FR.textContent = "Crosby";
-    DL.textContent = "Hedman";
-    DR.textContent = "Burns";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
+        smallpic.src = "/hockey/img/wallpapers/mackinnon.jpg";
 
-    MainFetchPopUp("./json/EveryYear_2020.json");
-}
+        MainFetchPopUp("./json/EveryYear_2022.json");
 
-if (selectedYear === "14") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Kucherov";
-    DL.textContent = "Hedman";
-    DR.textContent = "E Karlsson";
-    G.textContent = "Price";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-    smallpic.src = "/hockey/img/wallpapers/kucherov.png"
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    MainFetchPopUp("./json/EveryYear_2019.json");
-}
+    if (selectedYear === "16") {
+        FL.textContent = "Draisaitl";
+        FC.textContent = "McDavid";
+        FR.textContent = "MacKinnon";
+        DL.textContent = "Hedman";
+        DR.textContent = "Makar";
+        G.textContent = "Vasilevskiy";
 
-if (selectedYear === "13") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "McDavid";
-    FR.textContent = "Crosby";
-    DL.textContent = "Hedman";
-    DR.textContent = "Keith";
-    G.textContent = "Holtby";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/ovechkin.png";
+        smallpic.src = "/hockey/img/wallpapers/draisaitl.jpg";
 
 
-    MainFetchPopUp("./json/EveryYear_2018.json");
-}
+        MainFetchPopUp("./json/EveryYear_2021.json");
 
-if (selectedYear === "12") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "E Karlsson";
-    DR.textContent = "Weber";
-    G.textContent = "Price";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-    smallpic.src = "/hockey/img/wallpapers/price.jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    MainFetchPopUp("./json/EveryYear_2017.json");
-}
+    if (selectedYear === "15") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "McDavid";
+        FR.textContent = "Crosby";
+        DL.textContent = "Hedman";
+        DR.textContent = "Burns";
+        G.textContent = "Vasilevskiy";
 
-if (selectedYear === "11") {
-    FL.textContent = "J Toews";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "Keith";
-    DR.textContent = "Subban";
-    G.textContent = "Quick";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/toews.jpg";
+        smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
 
-    MainFetchPopUp("./json/EveryYear_2016.json");
-}
+        MainFetchPopUp("./json/EveryYear_2020.json");
 
-if (selectedYear === "10") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "Weber";
-    DR.textContent = "Subban";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-    smallpic.src = "/hockey/img/wallpapers/kane.jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    MainFetchPopUp("./json/EveryYear_2015.json");
-}
+    if (selectedYear === "14") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Kucherov";
+        DL.textContent = "Hedman";
+        DR.textContent = "E Karlsson";
+        G.textContent = "Price";
 
-if (selectedYear === "9") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Malkin";
-    DL.textContent = "Chara";
-    DR.textContent = "Weber";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/malkin.jpg";
+        smallpic.src = "/hockey/img/wallpapers/kucherov.png"
 
-    MainFetchPopUp("./json/EveryYear_2014.json");
-}
+        MainFetchPopUp("./json/EveryYear_2019.json");
 
-if (selectedYear === "8") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Chara";
-    DR.textContent = "E Karlsson";
-    G.textContent = "Quick";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-    smallpic.src = "/hockey/img/wallpapers/chara.jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    MainFetchPopUp("./json/EveryYear_2013.json");
-}
+    if (selectedYear === "13") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "McDavid";
+        FR.textContent = "Crosby";
+        DL.textContent = "Hedman";
+        DR.textContent = "Keith";
+        G.textContent = "Holtby";
 
-if (selectedYear === "7") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Stamkos";
-    DL.textContent = "Chara";
-    DR.textContent = "Weber";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-  smallpic.src = "/hockey/img/wallpapers/stamkos.jpg";
-  
-    MainFetchPopUp("./json/EveryYear_2012.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/ovechkin.png";
 
-if (selectedYear === "6") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Weber";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/lidstrom.avif";
+        MainFetchPopUp("./json/EveryYear_2018.json");
 
-    MainFetchPopUp("./json/EveryYear_2011.json");
-}
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-if (selectedYear === "5") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Chara";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/datsyuk.jpg";
+    if (selectedYear === "12") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "E Karlsson";
+        DR.textContent = "Weber";
+        G.textContent = "Price";
 
-    MainFetchPopUp("./json/EveryYear_2010.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === "4") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Malkin";
-    FR.textContent = "Iginla";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Phaneuf";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/price.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+        MainFetchPopUp("./json/EveryYear_2017.json");
 
-    MainFetchPopUp("./json/EveryYear_2009.json");
-}
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-if (selectedYear === "3") {
-    FL.textContent = "Lecavalier";
-    FC.textContent = "Crosby";
-    FR.textContent = "Thornton";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Pronger";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+    if (selectedYear === "11") {
+        FL.textContent = "J Toews";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "Keith";
+        DR.textContent = "Subban";
+        G.textContent = "Quick";
 
-    MainFetchPopUp("./json/EveryYear_2008.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === "2") {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Thornton";
-    FR.textContent = "Jagr";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Pronger";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/toews.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+        MainFetchPopUp("./json/EveryYear_2016.json");
 
-    MainFetchPopUp("./json/EveryYear_2007.json");
-}
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
 
-if (selectedYear === "1") {
-    FL.textContent = "Iginla";
-    FC.textContent = "Sakic";
-    FR.textContent = "P Forsberg";
-    DL.textContent = "S Niedermayer";
-    DR.textContent = "Lidstrom";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+    if (selectedYear === "10") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "Weber";
+        DR.textContent = "Subban";
+        G.textContent = "Lundqvist";
 
-    MainFetchPopUp("./json/EveryYear_2006.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === "0") {
-    FL.textContent = "Naslund";
-    FC.textContent = "Sakic";
-    FR.textContent = "Iginla";
-    DL.textContent = "S Niedermayer";
-    DR.textContent = "Pronger";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/kane.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+        MainFetchPopUp("./json/EveryYear_2015.json");
 
-    MainFetchPopUp("./json/EveryYear_2005.json");
-}
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "9") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Malkin";
+        DL.textContent = "Chara";
+        DR.textContent = "Weber";
+        G.textContent = "Lundqvist";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/malkin.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2014.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "8") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Chara";
+        DR.textContent = "E Karlsson";
+        G.textContent = "Quick";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/chara.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2013.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "7") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Stamkos";
+        DL.textContent = "Chara";
+        DR.textContent = "Weber";
+        G.textContent = "Lundqvist";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/stamkos.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2012.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "6") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Weber";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/lidstrom.avif";
+
+        MainFetchPopUp("./json/EveryYear_2011.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "5") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Chara";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/datsyuk.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2010.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "4") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Malkin";
+        FR.textContent = "Iginla";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Phaneuf";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "3") {
+        FL.textContent = "Lecavalier";
+        FC.textContent = "Crosby";
+        FR.textContent = "Thornton";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "2") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Thornton";
+        FR.textContent = "Jagr";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+
+        MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "1") {
+        FL.textContent = "Iginla";
+        FC.textContent = "Sakic";
+        FR.textContent = "P Forsberg";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Lidstrom";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "0") {
+        FL.textContent = "Naslund";
+        FC.textContent = "Sakic";
+        FR.textContent = "Iginla";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
 
     function clearAndFadeInElements() {
         const elements = [
-            FL,FL2,FC,FC2,FR,FR2,DL,DL2,DR,DR2,G,G2,
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -451,423 +631,423 @@ yearSelector.addEventListener("change", updatePlayerInfo);
 updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
+
 // Initialize the current index to 0
-    
-    // let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
+
+// let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-if (selectedYear === 19) { 
-    FL.textContent = "Draisaitl";
-    FC.textContent = "McDavid";
-    FR.textContent = "Pastrnak";
-    DL.textContent = "Makar";
-    DR.textContent = "Josi";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === 19) {
+        FL.textContent = "Draisaitl";
+        FC.textContent = "McDavid";
+        FR.textContent = "Pastrnak";
+        DL.textContent = "Makar";
+        DR.textContent = "Josi";
+        G.textContent = "Vasilevskiy";
 
-    smallpic.src = "/hockey/img/wallpapers/mcdavid.jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2024.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/mcdavid.jpg";
 
-if (selectedYear === 18) {
-    FL.textContent = "MacKinnon";
-    FC.textContent = "McDavid";
-    FR.textContent = "Matthews";
-    DL.textContent = "Makar";
-    DR.textContent = "Hedman";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2024.json");
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/matthews.jpg";
+    if (selectedYear === 18) {
+        FL.textContent = "MacKinnon";
+        FC.textContent = "McDavid";
+        FR.textContent = "Matthews";
+        DL.textContent = "Makar";
+        DR.textContent = "Hedman";
+        G.textContent = "Vasilevskiy";
 
-    MainFetchPopUp("./json/EveryYear_2023.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === 17) {
-    FL.textContent = "Crosby";
-    FC.textContent = "McDavid";
-    FR.textContent = "MacKinnon";
-    DL.textContent = "Hedman";
-    DR.textContent = "Josi";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/matthews.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/mackinnon.jpg";
+        MainFetchPopUp("./json/EveryYear_2023.json");
+    }
 
-    MainFetchPopUp("./json/EveryYear_2022.json");
-}
+    if (selectedYear === 17) {
+        FL.textContent = "Crosby";
+        FC.textContent = "McDavid";
+        FR.textContent = "MacKinnon";
+        DL.textContent = "Hedman";
+        DR.textContent = "Josi";
+        G.textContent = "Vasilevskiy";
 
-if (selectedYear === 16) {
-    FL.textContent = "Draisaitl";
-    FC.textContent = "McDavid";
-    FR.textContent = "MacKinnon";
-    DL.textContent = "Hedman";
-    DR.textContent = "Makar";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/draisaitl.jpg";
+        smallpic.src = "/hockey/img/wallpapers/mackinnon.jpg";
 
+        MainFetchPopUp("./json/EveryYear_2022.json");
+    }
 
-    MainFetchPopUp("./json/EveryYear_2021.json");
-}
+    if (selectedYear === 16) {
+        FL.textContent = "Draisaitl";
+        FC.textContent = "McDavid";
+        FR.textContent = "MacKinnon";
+        DL.textContent = "Hedman";
+        DR.textContent = "Makar";
+        G.textContent = "Vasilevskiy";
 
-if (selectedYear === 15) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "McDavid";
-    FR.textContent = "Crosby";
-    DL.textContent = "Hedman";
-    DR.textContent = "Burns";
-    G.textContent = "Vasilevskiy";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
-
-    MainFetchPopUp("./json/EveryYear_2020.json");
-}
-
-if (selectedYear === 14) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Kucherov";
-    DL.textContent = "Hedman";
-    DR.textContent = "E Karlsson";
-    G.textContent = "Price";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-
-    smallpic.src = "/hockey/img/wallpapers/kucherov.png"
-
-    MainFetchPopUp("./json/EveryYear_2019.json");
-}
-
-if (selectedYear === 13) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "McDavid";
-    FR.textContent = "Crosby";
-    DL.textContent = "Hedman";
-    DR.textContent = "Keith";
-    G.textContent = "Holtby";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-
-    smallpic.src = "/hockey/img/wallpapers/ovechkin.png";
+        smallpic.src = "/hockey/img/wallpapers/draisaitl.jpg";
 
 
-    MainFetchPopUp("./json/EveryYear_2018.json");
-}
+        MainFetchPopUp("./json/EveryYear_2021.json");
+    }
 
-if (selectedYear === 12) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "E Karlsson";
-    DR.textContent = "Weber";
-    G.textContent = "Price";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === 15) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "McDavid";
+        FR.textContent = "Crosby";
+        DL.textContent = "Hedman";
+        DR.textContent = "Burns";
+        G.textContent = "Vasilevskiy";
 
-    smallpic.src = "/hockey/img/wallpapers/price.jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2017.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
 
-if (selectedYear === 11) {
-    FL.textContent = "J Toews";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "Keith";
-    DR.textContent = "Subban";
-    G.textContent = "Quick";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2020.json");
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/toews.jpg";
+    if (selectedYear === 14) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Kucherov";
+        DL.textContent = "Hedman";
+        DR.textContent = "E Karlsson";
+        G.textContent = "Price";
 
-    MainFetchPopUp("./json/EveryYear_2016.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === 10) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "P Kane";
-    DL.textContent = "Weber";
-    DR.textContent = "Subban";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/kucherov.png"
 
-    smallpic.src = "/hockey/img/wallpapers/kane.jpg";
+        MainFetchPopUp("./json/EveryYear_2019.json");
+    }
 
-    MainFetchPopUp("./json/EveryYear_2015.json");
-}
+    if (selectedYear === 13) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "McDavid";
+        FR.textContent = "Crosby";
+        DL.textContent = "Hedman";
+        DR.textContent = "Keith";
+        G.textContent = "Holtby";
 
-if (selectedYear === 9) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Malkin";
-    DL.textContent = "Chara";
-    DR.textContent = "Weber";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/malkin.jpg";
+        smallpic.src = "/hockey/img/wallpapers/ovechkin.png";
 
-    MainFetchPopUp("./json/EveryYear_2014.json");
-}
 
-if (selectedYear === 8) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Chara";
-    DR.textContent = "E Karlsson";
-    G.textContent = "Quick";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2018.json");
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/chara.jpg";
+    if (selectedYear === 12) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "E Karlsson";
+        DR.textContent = "Weber";
+        G.textContent = "Price";
 
-    MainFetchPopUp("./json/EveryYear_2013.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === 7) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Stamkos";
-    DL.textContent = "Chara";
-    DR.textContent = "Weber";
-    G.textContent = "Lundqvist";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/price.jpg";
 
-  smallpic.src = "/hockey/img/wallpapers/stamkos.jpg";
-  
-    MainFetchPopUp("./json/EveryYear_2012.json");
-}
+        MainFetchPopUp("./json/EveryYear_2017.json");
+    }
 
-if (selectedYear === 6) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Weber";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === 11) {
+        FL.textContent = "J Toews";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "Keith";
+        DR.textContent = "Subban";
+        G.textContent = "Quick";
 
-    smallpic.src = "/hockey/img/wallpapers/lidstrom.avif";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2011.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/toews.jpg";
 
-if (selectedYear === 5) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Crosby";
-    FR.textContent = "Datsyuk";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Chara";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2016.json");
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/datsyuk.jpg";
+    if (selectedYear === 10) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "P Kane";
+        DL.textContent = "Weber";
+        DR.textContent = "Subban";
+        G.textContent = "Lundqvist";
 
-    MainFetchPopUp("./json/EveryYear_2010.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === 4) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Malkin";
-    FR.textContent = "Iginla";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Phaneuf";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/kane.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+        MainFetchPopUp("./json/EveryYear_2015.json");
+    }
 
-    MainFetchPopUp("./json/EveryYear_2009.json");
-}
+    if (selectedYear === 9) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Malkin";
+        DL.textContent = "Chara";
+        DR.textContent = "Weber";
+        G.textContent = "Lundqvist";
 
-if (selectedYear === 3) {
-    FL.textContent = "Lecavalier";
-    FC.textContent = "Crosby";
-    FR.textContent = "Thornton";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Pronger";
-    G.textContent = "Luongo";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+        smallpic.src = "/hockey/img/wallpapers/malkin.jpg";
 
-    MainFetchPopUp("./json/EveryYear_2008.json");
-}
+        MainFetchPopUp("./json/EveryYear_2014.json");
+    }
 
-if (selectedYear === 2) {
-    FL.textContent = "Ovechkin";
-    FC.textContent = "Thornton";
-    FR.textContent = "Jagr";
-    DL.textContent = "Lidstrom";
-    DR.textContent = "Pronger";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    if (selectedYear === 8) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Chara";
+        DR.textContent = "E Karlsson";
+        G.textContent = "Quick";
 
-    smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-    MainFetchPopUp("./json/EveryYear_2007.json");
-}
+        smallpic.src = "/hockey/img/wallpapers/chara.jpg";
 
-if (selectedYear === 1) {
-    FL.textContent = "Iginla";
-    FC.textContent = "Sakic";
-    FR.textContent = "P Forsberg";
-    DL.textContent = "S Niedermayer";
-    DR.textContent = "Lidstrom";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        MainFetchPopUp("./json/EveryYear_2013.json");
+    }
 
-    smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+    if (selectedYear === 7) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Stamkos";
+        DL.textContent = "Chara";
+        DR.textContent = "Weber";
+        G.textContent = "Lundqvist";
 
-    MainFetchPopUp("./json/EveryYear_2006.json");
-}
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-if (selectedYear === 0) {
-    FL.textContent = "Naslund";
-    FC.textContent = "Sakic";
-    FR.textContent = "Iginla";
-    DL.textContent = "S Niedermayer";
-    DR.textContent = "Pronger";
-    G.textContent = "Brodeur";
-	
-	FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        smallpic.src = "/hockey/img/wallpapers/stamkos.jpg";
 
-    smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+        MainFetchPopUp("./json/EveryYear_2012.json");
+    }
 
-    MainFetchPopUp("./json/EveryYear_2005.json");
-}
+    if (selectedYear === 6) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Weber";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/lidstrom.avif";
+
+        MainFetchPopUp("./json/EveryYear_2011.json");
+    }
+
+    if (selectedYear === 5) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Crosby";
+        FR.textContent = "Datsyuk";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Chara";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/datsyuk.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2010.json");
+    }
+
+    if (selectedYear === 4) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Malkin";
+        FR.textContent = "Iginla";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Phaneuf";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2009.json");
+    }
+
+    if (selectedYear === 3) {
+        FL.textContent = "Lecavalier";
+        FC.textContent = "Crosby";
+        FR.textContent = "Thornton";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2008.json");
+    }
+
+    if (selectedYear === 2) {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Thornton";
+        FR.textContent = "Jagr";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+
+        MainFetchPopUp("./json/EveryYear_2007.json");
+    }
+
+    if (selectedYear === 1) {
+        FL.textContent = "Iginla";
+        FC.textContent = "Sakic";
+        FR.textContent = "P Forsberg";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Lidstrom";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2006.json");
+    }
+
+    if (selectedYear === 0) {
+        FL.textContent = "Naslund";
+        FC.textContent = "Sakic";
+        FR.textContent = "Iginla";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2005.json");
+    }
 
     function clearAndFadeInElements() {
         const elements = [
-            FL,FL2,FC,FC2,FR,FR2,DL,DL2,DR,DR2,G,G2,
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -883,24 +1063,24 @@ if (selectedYear === 0) {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }   // Event listener for the back button
+
+}   // Event listener for the back button
 backButton.addEventListener('click', () => {
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 

@@ -29,7 +29,7 @@ let selectedYear = 0;
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
-    
+
     if (selectedYear == 10) {
         STC.textContent = "Aguero";
         FR.textContent = "D Silva";
@@ -56,8 +56,17 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/man city.webp";
-        
+
         MainFetchPopUp("/football/past/clubs/json/manchester city.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Founded in 1880, Manchester City is a prominent English football club based in Manchester. The club has experienced periods of success, including recent Premier League titles under manager Pep Guardiola, becoming a powerhouse in English football with a strong squad and fanbase."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "14") {
@@ -86,8 +95,17 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/real madrid.webp";
-        
+
         MainFetchPopUp("/football/past/clubs/json/real madrid.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Real Madrid, founded in 1902, is one of the most storied football clubs globally. Based in Madrid, Spain, they've won numerous domestic and international titles, including multiple UEFA Champions League and La Liga titles, with a rich history of legendary players and coaches."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "13") {
@@ -118,10 +136,19 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/logos/paris sg.webp";
 
         MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Paris Saint-Germain (PSG), founded in 1970, is a top-tier football club based in Paris, France. PSG has become a powerhouse in European football, boasting star-studded squads and winning numerous Ligue 1 titles and domestic cups. They've made a significant impact in the UEFA Champions League and have a growing global fanbase."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-        if (selectedYear === "5") {
-            
+    if (selectedYear === "5") {
+
         STC.textContent = "Lewandowksi";
         FR.textContent = "Robben";
         AMC.textContent = "Muller";
@@ -133,7 +160,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Boateng";
         DL.textContent = "Alaba";
         GK.textContent = "Neuer";
-            
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -146,58 +173,76 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-       smallpic.src = "/football/img/logos/bayern munich.webp";
-        
-        MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
-    }
-    
-    if (selectedYear === "9") {
-        
-    STC.textContent = "Suarez";
-    FR.textContent = "Salah";
-    AMC.textContent = "Coutinho";
-    FL.textContent = "Mane";
-    CMR.textContent = "Gerrard";
-    CML.textContent = "Fabinho";
-    DR.textContent = "Alexander-A";
-    DCR.textContent = "van Dijk";
-    DCL.textContent = "Matip";
-    DL.textContent = "Robertson";
-    GK.textContent = "Alisson";
+        smallpic.src = "/football/img/logos/bayern munich.webp";
 
-    STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-    FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-    AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-    FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-    CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-    CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-    DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-    DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-    DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-    DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-    GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+        MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Founded in 1900, Bayern Munich, based in Munich, Germany, is one of the most successful football clubs globally. They've consistently dominated the Bundesliga, with numerous league titles, and have won the UEFA Champions League multiple times. Bayern is known for its rich history, top-class players, and iconic Allianz Arena."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "9") {
+
+        STC.textContent = "Suarez";
+        FR.textContent = "Salah";
+        AMC.textContent = "Coutinho";
+        FL.textContent = "Mane";
+        CMR.textContent = "Gerrard";
+        CML.textContent = "Fabinho";
+        DR.textContent = "Alexander-A";
+        DCR.textContent = "van Dijk";
+        DCL.textContent = "Matip";
+        DL.textContent = "Robertson";
+        GK.textContent = "Alisson";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/liverpool.webp";
 
         MainFetchPopUp("/football/past/clubs/json/liverpool.json");
 
-        
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Liverpool Football Club, founded in 1892, is a storied English football club based in Liverpool, Merseyside. Known as The Reds, they have a rich history of success, including numerous English league titles and UEFA Champions League triumphs. Liverpool has a passionate global fanbase and a legendary Anfield stadium."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+
     }
 
     if (selectedYear === "4") {
-        
-    STC.textContent = "Suarez";
-    FR.textContent = "Messi";
-    AMC.textContent = "Iniesta";
-    FL.textContent = "Neymar";
-    CMR.textContent = "Xavi";
-    CML.textContent = "Busquets";
-    DR.textContent = "D Alves";
-    DCR.textContent = "Pique";
-    DCL.textContent = "Mascherano";
-    DL.textContent = "Alba";
-    GK.textContent = "ter Stegen";
-        
+
+        STC.textContent = "Suarez";
+        FR.textContent = "Messi";
+        AMC.textContent = "Iniesta";
+        FL.textContent = "Neymar";
+        CMR.textContent = "Xavi";
+        CML.textContent = "Busquets";
+        DR.textContent = "D Alves";
+        DCR.textContent = "Pique";
+        DCL.textContent = "Mascherano";
+        DL.textContent = "Alba";
+        GK.textContent = "ter Stegen";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -208,27 +253,36 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";    
-        
-       smallpic.src = "/football/img/logos/barcelona.webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/barcelona.webp";
 
         MainFetchPopUp("/football/past/clubs/json/barcelona.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Founded in 1899, Barcelona Football Club, commonly known as FC Barcelona or Barça, is one of the most iconic football clubs globally. Based in Barcelona, Spain, the club has a rich history, characterized by La Liga titles, Copa del Rey wins, and multiple UEFA Champions League victories. Barcelona is renowned for its tiki-taka style of play and has produced legendary players like Lionel Messi, Xavi, and Andrés Iniesta. The Camp Nou is its iconic home stadium, and the club has a passionate global fanbase."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     if (selectedYear === "6") {
 
-    STC.textContent = "Drogba";
-    FR.textContent = "Willian";
-    AMC.textContent = "Lampard";
-    FL.textContent = "Hazard";
-    CMR.textContent = "Fabregas";
-    CML.textContent = "Kante";
-    DR.textContent = "Azpilicueta";
-    DCR.textContent = "Terry";
-    DCL.textContent = "G Cahill";
-    DL.textContent = "A Cole";
-    GK.textContent = "Courtois";
-        
+        STC.textContent = "Drogba";
+        FR.textContent = "Willian";
+        AMC.textContent = "Lampard";
+        FL.textContent = "E Hazard";
+        CMR.textContent = "Fabregas";
+        CML.textContent = "Kante";
+        DR.textContent = "Azpilicueta";
+        DCR.textContent = "Terry";
+        DCL.textContent = "G Cahill";
+        DL.textContent = "A Cole";
+        GK.textContent = "Courtois";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -240,27 +294,36 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-            smallpic.src = "/football/img/logos/chelsea.webp";
 
-            MainFetchPopUp("/football/past/clubs/json/chelsea.json");
+        smallpic.src = "/football/img/logos/chelsea.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/chelsea.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Chelsea Football Club, founded in 1905, is a prominent English football club based in London. Known as the Blues, they've enjoyed success in the Premier League, FA Cup, and UEFA Champions League, with a strong presence in European football. Stamford Bridge is their iconic home stadium."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
-    if (selectedYear === "11") { 
-        
-    STC.textContent = "Ibrahimovic";
-    FR.textContent = "van Persie";
-    AMC.textContent = "Rooney";
-    FL.textContent = "Di Maria";
-    CMR.textContent = "Pogba";
-    CML.textContent = "Carrick";
-    DR.textContent = "Valencia";
-    DCR.textContent = "Ferdinand";
-    DCL.textContent = "Vidic";
-    DL.textContent = "Evra";
-    GK.textContent = "De Gea";
-        
+    if (selectedYear === "11") {
+
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "van Persie";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Di Maria";
+        CMR.textContent = "Pogba";
+        CML.textContent = "Carrick";
+        DR.textContent = "Valencia";
+        DCR.textContent = "Ferdinand";
+        DCL.textContent = "Vidic";
+        DL.textContent = "Evra";
+        GK.textContent = "De Gea";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -272,26 +335,35 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/man utd.webp";
 
         MainFetchPopUp("/football/past/clubs/json/manchester united.json");
-    
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Manchester United Football Club, founded in 1878, is one of the most storied football clubs in the world. Based in Manchester, England, they've won numerous English league titles, FA Cups, and UEFA Champions League trophies. Old Trafford is their iconic home stadium."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "8") {
-    STC.textContent = "Higuain";
-    FR.textContent = "D Costa";
-    AMC.textContent = "Dybala";
-    FL.textContent = "C Ronaldo";
-    CMR.textContent = "Pjanic";
-    CML.textContent = "Pirlo";
-    DR.textContent = "Cuadrado";
-    DCR.textContent = "Bonucci";
-    DCL.textContent = "Chiellini";
-    DL.textContent = "A Sandro";
-    GK.textContent = "Buffon";
-        
+        STC.textContent = "Higuain";
+        FR.textContent = "D Costa";
+        AMC.textContent = "Dybala";
+        FL.textContent = "C Ronaldo";
+        CMR.textContent = "Pjanic";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Cuadrado";
+        DCR.textContent = "Bonucci";
+        DCL.textContent = "Chiellini";
+        DL.textContent = "A Sandro";
+        GK.textContent = "Buffon";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -303,13 +375,22 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/juventus.webp";
 
         MainFetchPopUp("/football/past/clubs/json/juventus.json");
-        
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Juventus Football Club, founded in 1897, is a renowned Italian football club based in Turin. Known as Juve, they have a rich history of Serie A titles and Coppa Italia victories. Juventus is recognized for its iconic black and white striped jerseys and plays its home matches at the Allianz Stadium (formerly known as the Juventus Stadium)."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    
+
     if (selectedYear === "1") {
         STC.textContent = "van Persie";
         FR.textContent = "A Sanchez";
@@ -334,26 +415,35 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
-            smallpic.src = "/football/img/logos/arsenal.webp";
-                
-            MainFetchPopUp("/football/past/clubs/json/arsenal.json");
-              
+
+        smallpic.src = "/football/img/logos/arsenal.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/arsenal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Arsenal Football Club, founded in 1886, is a prominent English football club based in Islington, London. Known as the Gunners, they have a storied history in the English Premier League, with multiple league titles and FA Cup victories. Arsenal plays its home matches at the Emirates Stadium."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "7") {
-    STC.textContent = "D Milito";
-    FR.textContent = "Alexis";
-    AMC.textContent = "Sneijder";
-    FL.textContent = "Perisic";
-    CMR.textContent = "Nainggolan";
-    CML.textContent = "Cambiasso";
-    DR.textContent = "Maicon";
-    DCR.textContent = "Skriniar";
-    DCL.textContent = "de Vrij";
-    DL.textContent = "Chivu";
-    GK.textContent = "Handanovic";
-        
+        STC.textContent = "D Milito";
+        FR.textContent = "Alexis";
+        AMC.textContent = "Sneijder";
+        FL.textContent = "Perisic";
+        CMR.textContent = "Nainggolan";
+        CML.textContent = "Cambiasso";
+        DR.textContent = "Maicon";
+        DCR.textContent = "Skriniar";
+        DCL.textContent = "de Vrij";
+        DL.textContent = "Chivu";
+        GK.textContent = "Handanovic";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -365,26 +455,35 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-           smallpic.src = "/football/img/logos/inter milan.webp";
-            
-            MainFetchPopUp("/football/past/clubs/json/inter milan.json"); 
-    
+
+        smallpic.src = "/football/img/logos/inter milan.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/inter milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Inter Milan, officially known as FC Internazionale Milano, is a prestigious Italian football club based in Milan. Founded in 1908, Inter has a rich history of Serie A titles, Coppa Italia victories, and international success, including winning the UEFA Champions League. They play their home matches at the San Siro Stadium, sharing it with their city rivals, AC Milan."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-        
+
     if (selectedYear === "3") {
-    STC.textContent = "Falcao";
-    FR.textContent = "Carrasco";
-    AMC.textContent = "Griezmann";
-    FL.textContent = "Turan";
-    CMR.textContent = "Koke";
-    CML.textContent = "Saul";
-    DR.textContent = "Juanfran";
-    DCR.textContent = "Godin";
-    DCL.textContent = "Miranda";
-    DL.textContent = "F Luis";
-    GK.textContent = "Oblak";
-        
+        STC.textContent = "Falcao";
+        FR.textContent = "Carrasco";
+        AMC.textContent = "Griezmann";
+        FL.textContent = "Turan";
+        CMR.textContent = "Koke";
+        CML.textContent = "Saul";
+        DR.textContent = "Juanfran";
+        DCR.textContent = "Godin";
+        DCL.textContent = "Miranda";
+        DL.textContent = "F Luis";
+        GK.textContent = "Oblak";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -396,56 +495,35 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
         smallpic.src = "/football/img/logos/atletico madrid.webp";
-            
+
         MainFetchPopUp("/football/past/clubs/json/atletico madrid.json");
-            
-}
-        
-    if (selectedYear === "0") {
-    STC.textContent = "Ibrahimovic";
-    FR.textContent = "Cassano";
-    AMC.textContent = "Kaka";
-    FL.textContent = "Robinho";
-    CMR.textContent = "Seedorf";
-    CML.textContent = "Pirlo";
-    DR.textContent = "Abate";
-    DCR.textContent = "T Silva";
-    DCL.textContent = "Nesta";
-    DL.textContent = "Antonini";
-    GK.textContent = "Abbiati";
-        
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-            smallpic.src = "/football/img/logos/ac milan.webp";
-            
-            MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Atlético Madrid, often referred to simply as Atlético, is a prominent Spanish football club based in Madrid. Founded in 1903, Atlético has a strong tradition in La Liga and Copa del Rey, with a notable rivalry against Real Madrid. They have also achieved success in European competitions, including winning the UEFA Europa League and reaching the UEFA Champions League final. Wanda Metropolitano Stadium serves as their home ground."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-        
-    if (selectedYear === "12") { 
-    STC.textContent = "Cavani";
-    FR.textContent = "Mertens";
-    AMC.textContent = "Hamsik";
-    FL.textContent = "Insigne";
-    CMR.textContent = "Allan";
-    CML.textContent = "Jorginho";
-    DR.textContent = "Maggio";
-    DCR.textContent = "Koulibaly";
-    DCL.textContent = "Albiol";
-    DL.textContent = "Ghoulam";
-    GK.textContent = "P Reina";
-        
+
+    if (selectedYear === "0") {
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "Cassano";
+        AMC.textContent = "Kaka";
+        FL.textContent = "Robinho";
+        CMR.textContent = "Seedorf";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Abate";
+        DCR.textContent = "T Silva";
+        DCL.textContent = "Nesta";
+        DL.textContent = "Antonini";
+        GK.textContent = "Abbiati";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -457,26 +535,74 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
+        smallpic.src = "/football/img/logos/ac milan.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "AC Milan, officially Associazione Calcio Milan, is an iconic Italian football club based in Milan. Founded in 1899, AC Milan has a storied history of Serie A titles, Coppa Italia victories, and international success, including multiple UEFA Champions League titles. They play their home matches at the San Siro Stadium, which they share with Inter Milan."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear === "12") {
+        STC.textContent = "Cavani";
+        FR.textContent = "Mertens";
+        AMC.textContent = "Hamsik";
+        FL.textContent = "Insigne";
+        CMR.textContent = "Allan";
+        CML.textContent = "Jorginho";
+        DR.textContent = "Maggio";
+        DCR.textContent = "Koulibaly";
+        DCL.textContent = "Albiol";
+        DL.textContent = "Ghoulam";
+        GK.textContent = "P Reina";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/napoli.webp";
 
         MainFetchPopUp("/football/past/clubs/json/napoli.json");
-        
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Napoli, officially known as Società Sportiva Calcio Napoli, is a prominent Italian football club based in Naples. Founded in 1926, Napoli has a strong presence in Serie A and has won league titles and Coppa Italia trophies. The club is known for its passionate fanbase and plays its home matches at the Stadio Diego Armando Maradona, formerly known as the Stadio San Paolo, named after the legendary Argentine player Diego Maradona."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
     if (selectedYear === "15") {
-    STC.textContent = "Kane";
-    FR.textContent = "van der Vaart";
-    AMC.textContent = "Eriksen";
-    FL.textContent = "HM Son";
-    CMR.textContent = "Modric";
-    CML.textContent = "M Dembele";
-    DR.textContent = "Walker";
-    DCR.textContent = "Alderweireld";
-    DCL.textContent = "Vertonghen";
-    DL.textContent = "D Rose";
-    GK.textContent = "Lloris";
-        
+        STC.textContent = "Kane";
+        FR.textContent = "van der Vaart";
+        AMC.textContent = "Eriksen";
+        FL.textContent = "HM Son";
+        CMR.textContent = "Modric";
+        CML.textContent = "M Dembele";
+        DR.textContent = "Walker";
+        DCR.textContent = "Alderweireld";
+        DCL.textContent = "Vertonghen";
+        DL.textContent = "D Rose";
+        GK.textContent = "Lloris";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -488,10 +614,19 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/tottenham.webp";
 
         MainFetchPopUp("/football/past/clubs/json/tottenham.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tottenham Hotspur, a distinguished English football club based in London, competes in the Premier League. Known for its vibrant playing style and dedicated fanbase, the club boasts a rich history with multiple trophies. Its modern stadium and navy-blue and white colors are iconic."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
@@ -508,7 +643,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Manolas";
         DL.textContent = "Kolarov";
         GK.textContent = "Szczesny";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -520,63 +655,72 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-       smallpic.src = "/football/img/logos/as roma.webp";
+
+        smallpic.src = "/football/img/logos/as roma.webp";
 
         MainFetchPopUp("/football/past/clubs/json/as roma.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "AS Roma, an iconic Italian football club based in Rome, is celebrated for its passionate fan base and rich history.Founded in 1927, it competes in Serie A, Italy's top division. Known for its deep-rooted local identity, Roma has won multiple league titles and cups, showcasing a legacy of talented players and memorable matches. The team's colors, red and yellow, symbolize Rome's traditional hues, reflecting the city's ancient heritage."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    
 
-        function clearAndFadeInElements() {
-            const elements = [
-                STC, STC2,
-                FR, FR2,
-                AMC, AMC2,
-                FL, FL2,
-                CMR, CMR2,
-                CML, CML2,
-                DR, DR2,
-                DCR, DCR2,
-                DCL, DCL2,
-                DL, DL2,
-                GK, GK2,
-            ];
-        
-            document.getElementById("smallpic").classList.add("fade-in")
 
-            for (const element of elements) {
-                element.classList.add("fade-in");
-            }
+    function clearAndFadeInElements() {
+        const elements = [
+            STC, STC2,
+            FR, FR2,
+            AMC, AMC2,
+            FL, FL2,
+            CMR, CMR2,
+            CML, CML2,
+            DR, DR2,
+            DCR, DCR2,
+            DCL, DCL2,
+            DL, DL2,
+            GK, GK2,
+        ];
 
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
-        clearAndFadeInElements();
+
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
+            for (const element of elements) {
+                element.classList.remove("fade-in");
+            }
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
     }
+    clearAndFadeInElements();
+}
 
-    // Listen for changes in the year selection
-    yearSelector.addEventListener("change", updatePlayerInfo);
+// Listen for changes in the year selection
+yearSelector.addEventListener("change", updatePlayerInfo);
 
-    // Initial update based on the default year (2020)
-    updatePlayerInfo();
+// Initial update based on the default year (2020)
+updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
-    const updateDropdown = () => {
-        // yearSelector.selectedIndex = currentIndex;
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
 
-           if (selectedYear == 10) {
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
+const updateDropdown = () => {
+    // yearSelector.selectedIndex = currentIndex;
+
+    if (selectedYear == 10) {
         STC.textContent = "Aguero";
         FR.textContent = "D Silva";
         AMC.textContent = "De Bruyne";
@@ -602,7 +746,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/man city.webp";
-        
+
         MainFetchPopUp("/football/past/clubs/json/manchester city.json");
     }
 
@@ -632,7 +776,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/real madrid.webp";
-        
+
         MainFetchPopUp("/football/past/clubs/json/real madrid.json");
     }
 
@@ -666,8 +810,8 @@ function updatePlayerInfo() {
         MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
     }
 
-        if (selectedYear === 5) {
-            
+    if (selectedYear === 5) {
+
         STC.textContent = "Lewandowksi";
         FR.textContent = "Robben";
         AMC.textContent = "Muller";
@@ -679,7 +823,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Boateng";
         DL.textContent = "Alaba";
         GK.textContent = "Neuer";
-            
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -692,58 +836,25 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-       smallpic.src = "/football/img/logos/bayern munich.webp";
-        
+        smallpic.src = "/football/img/logos/bayern munich.webp";
+
         MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
     }
-    
+
     if (selectedYear === 9) {
-        
-    STC.textContent = "Suarez";
-    FR.textContent = "Salah";
-    AMC.textContent = "Coutinho";
-    FL.textContent = "Mane";
-    CMR.textContent = "Gerrard";
-    CML.textContent = "Fabinho";
-    DR.textContent = "Alexander-A";
-    DCR.textContent = "van Dijk";
-    DCL.textContent = "Matip";
-    DL.textContent = "Robertson";
-    GK.textContent = "Alisson";
 
-    STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-    FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-    AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-    FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-    CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-    CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-    DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-    DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-    DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-    DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-    GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-        smallpic.src = "/football/img/logos/liverpool.webp";
+        STC.textContent = "Suarez";
+        FR.textContent = "Salah";
+        AMC.textContent = "Coutinho";
+        FL.textContent = "Mane";
+        CMR.textContent = "Gerrard";
+        CML.textContent = "Fabinho";
+        DR.textContent = "Alexander-A";
+        DCR.textContent = "van Dijk";
+        DCL.textContent = "Matip";
+        DL.textContent = "Robertson";
+        GK.textContent = "Alisson";
 
-        MainFetchPopUp("/football/past/clubs/json/liverpool.json");
-
-        
-    }
-
-    if (selectedYear === 4) {
-        
-    STC.textContent = "Suarez";
-    FR.textContent = "Messi";
-    AMC.textContent = "Iniesta";
-    FL.textContent = "Neymar";
-    CMR.textContent = "Xavi";
-    CML.textContent = "Busquets";
-    DR.textContent = "D Alves";
-    DCR.textContent = "Pique";
-    DCL.textContent = "Mascherano";
-    DL.textContent = "Alba";
-    GK.textContent = "ter Stegen";
-        
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -754,27 +865,60 @@ function updatePlayerInfo() {
         DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";    
-        
-       smallpic.src = "/football/img/logos/barcelona.webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/liverpool.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/liverpool.json");
+
+
+    }
+
+    if (selectedYear === 4) {
+
+        STC.textContent = "Suarez";
+        FR.textContent = "Messi";
+        AMC.textContent = "Iniesta";
+        FL.textContent = "Neymar";
+        CMR.textContent = "Xavi";
+        CML.textContent = "Busquets";
+        DR.textContent = "D Alves";
+        DCR.textContent = "Pique";
+        DCL.textContent = "Mascherano";
+        DL.textContent = "Alba";
+        GK.textContent = "ter Stegen";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/logos/barcelona.webp";
 
         MainFetchPopUp("/football/past/clubs/json/barcelona.json");
     }
 
     if (selectedYear === 6) {
 
-    STC.textContent = "Drogba";
-    FR.textContent = "Willian";
-    AMC.textContent = "Lampard";
-    FL.textContent = "Hazard";
-    CMR.textContent = "Fabregas";
-    CML.textContent = "Kante";
-    DR.textContent = "Azpilicueta";
-    DCR.textContent = "Terry";
-    DCL.textContent = "G Cahill";
-    DL.textContent = "A Cole";
-    GK.textContent = "Courtois";
-        
+        STC.textContent = "Drogba";
+        FR.textContent = "Willian";
+        AMC.textContent = "Lampard";
+        FL.textContent = "E Hazard";
+        CMR.textContent = "Fabregas";
+        CML.textContent = "Kante";
+        DR.textContent = "Azpilicueta";
+        DCR.textContent = "Terry";
+        DCL.textContent = "G Cahill";
+        DL.textContent = "A Cole";
+        GK.textContent = "Courtois";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -786,27 +930,27 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-            smallpic.src = "/football/img/logos/chelsea.webp";
 
-            MainFetchPopUp("/football/past/clubs/json/chelsea.json");
+        smallpic.src = "/football/img/logos/chelsea.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/chelsea.json");
 
     }
 
-    if (selectedYear === 11) { 
-        
-    STC.textContent = "Ibrahimovic";
-    FR.textContent = "van Persie";
-    AMC.textContent = "Rooney";
-    FL.textContent = "Di Maria";
-    CMR.textContent = "Pogba";
-    CML.textContent = "Carrick";
-    DR.textContent = "Valencia";
-    DCR.textContent = "Ferdinand";
-    DCL.textContent = "Vidic";
-    DL.textContent = "Evra";
-    GK.textContent = "De Gea";
-        
+    if (selectedYear === 11) {
+
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "van Persie";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Di Maria";
+        CMR.textContent = "Pogba";
+        CML.textContent = "Carrick";
+        DR.textContent = "Valencia";
+        DCR.textContent = "Ferdinand";
+        DCL.textContent = "Vidic";
+        DL.textContent = "Evra";
+        GK.textContent = "De Gea";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -818,26 +962,26 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/man utd.webp";
 
         MainFetchPopUp("/football/past/clubs/json/manchester united.json");
-    
+
     }
-    
+
     if (selectedYear === 8) {
-    STC.textContent = "Higuain";
-    FR.textContent = "D Costa";
-    AMC.textContent = "Dybala";
-    FL.textContent = "C Ronaldo";
-    CMR.textContent = "Pjanic";
-    CML.textContent = "Pirlo";
-    DR.textContent = "Cuadrado";
-    DCR.textContent = "Bonucci";
-    DCL.textContent = "Chiellini";
-    DL.textContent = "A Sandro";
-    GK.textContent = "Buffon";
-        
+        STC.textContent = "Higuain";
+        FR.textContent = "D Costa";
+        AMC.textContent = "Dybala";
+        FL.textContent = "C Ronaldo";
+        CMR.textContent = "Pjanic";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Cuadrado";
+        DCR.textContent = "Bonucci";
+        DCL.textContent = "Chiellini";
+        DL.textContent = "A Sandro";
+        GK.textContent = "Buffon";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -849,13 +993,13 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/juventus.webp";
 
         MainFetchPopUp("/football/past/clubs/json/juventus.json");
-        
+
     }
-    
+
     if (selectedYear === 1) {
         STC.textContent = "van Persie";
         FR.textContent = "A Sanchez";
@@ -880,26 +1024,26 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
-            smallpic.src = "/football/img/logos/arsenal.webp";
-                
-            MainFetchPopUp("/football/past/clubs/json/arsenal.json");
-              
+
+        smallpic.src = "/football/img/logos/arsenal.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/arsenal.json");
+
     }
 
     if (selectedYear === 7) {
-    STC.textContent = "D Milito";
-    FR.textContent = "Alexis";
-    AMC.textContent = "Sneijder";
-    FL.textContent = "Perisic";
-    CMR.textContent = "Nainggolan";
-    CML.textContent = "Cambiasso";
-    DR.textContent = "Maicon";
-    DCR.textContent = "Skriniar";
-    DCL.textContent = "de Vrij";
-    DL.textContent = "Chivu";
-    GK.textContent = "Handanovic";
-        
+        STC.textContent = "D Milito";
+        FR.textContent = "Alexis";
+        AMC.textContent = "Sneijder";
+        FL.textContent = "Perisic";
+        CMR.textContent = "Nainggolan";
+        CML.textContent = "Cambiasso";
+        DR.textContent = "Maicon";
+        DCR.textContent = "Skriniar";
+        DCL.textContent = "de Vrij";
+        DL.textContent = "Chivu";
+        GK.textContent = "Handanovic";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -911,26 +1055,26 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-           smallpic.src = "/football/img/logos/inter milan.webp";
-            
-            MainFetchPopUp("/football/past/clubs/json/inter milan.json"); 
-    
+
+        smallpic.src = "/football/img/logos/inter milan.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/inter milan.json");
+
     }
-        
+
     if (selectedYear === 3) {
-    STC.textContent = "Falcao";
-    FR.textContent = "Carrasco";
-    AMC.textContent = "Griezmann";
-    FL.textContent = "Turan";
-    CMR.textContent = "Koke";
-    CML.textContent = "Saul";
-    DR.textContent = "Juanfran";
-    DCR.textContent = "Godin";
-    DCL.textContent = "Miranda";
-    DL.textContent = "F Luis";
-    GK.textContent = "Oblak";
-        
+        STC.textContent = "Falcao";
+        FR.textContent = "Carrasco";
+        AMC.textContent = "Griezmann";
+        FL.textContent = "Turan";
+        CMR.textContent = "Koke";
+        CML.textContent = "Saul";
+        DR.textContent = "Juanfran";
+        DCR.textContent = "Godin";
+        DCL.textContent = "Miranda";
+        DL.textContent = "F Luis";
+        GK.textContent = "Oblak";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -942,56 +1086,26 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
         smallpic.src = "/football/img/logos/atletico madrid.webp";
-            
+
         MainFetchPopUp("/football/past/clubs/json/atletico madrid.json");
-            
-}
-        
-    if (selectedYear === 0) {
-    STC.textContent = "Ibrahimovic";
-    FR.textContent = "Cassano";
-    AMC.textContent = "Kaka";
-    FL.textContent = "Robinho";
-    CMR.textContent = "Seedorf";
-    CML.textContent = "Pirlo";
-    DR.textContent = "Abate";
-    DCR.textContent = "T Silva";
-    DCL.textContent = "Nesta";
-    DL.textContent = "Antonini";
-    GK.textContent = "Abbiati";
-        
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
-            smallpic.src = "/football/img/logos/ac milan.webp";
-            
-            MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+
     }
-        
-    if (selectedYear === 12) { 
-    STC.textContent = "Cavani";
-    FR.textContent = "Mertens";
-    AMC.textContent = "Hamsik";
-    FL.textContent = "Insigne";
-    CMR.textContent = "Allan";
-    CML.textContent = "Jorginho";
-    DR.textContent = "Maggio";
-    DCR.textContent = "Koulibaly";
-    DCL.textContent = "Albiol";
-    DL.textContent = "Ghoulam";
-    GK.textContent = "P Reina";
-        
+
+    if (selectedYear === 0) {
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "Cassano";
+        AMC.textContent = "Kaka";
+        FL.textContent = "Robinho";
+        CMR.textContent = "Seedorf";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Abate";
+        DCR.textContent = "T Silva";
+        DCL.textContent = "Nesta";
+        DL.textContent = "Antonini";
+        GK.textContent = "Abbiati";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -1003,26 +1117,56 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-            
+
+        smallpic.src = "/football/img/logos/ac milan.webp";
+
+        MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+    }
+
+    if (selectedYear === 12) {
+        STC.textContent = "Cavani";
+        FR.textContent = "Mertens";
+        AMC.textContent = "Hamsik";
+        FL.textContent = "Insigne";
+        CMR.textContent = "Allan";
+        CML.textContent = "Jorginho";
+        DR.textContent = "Maggio";
+        DCR.textContent = "Koulibaly";
+        DCL.textContent = "Albiol";
+        DL.textContent = "Ghoulam";
+        GK.textContent = "P Reina";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
         smallpic.src = "/football/img/logos/napoli.webp";
 
         MainFetchPopUp("/football/past/clubs/json/napoli.json");
-        
+
     }
 
     if (selectedYear === 15) {
-    STC.textContent = "Kane";
-    FR.textContent = "van der Vaart";
-    AMC.textContent = "Eriksen";
-    FL.textContent = "HM Son";
-    CMR.textContent = "Modric";
-    CML.textContent = "M Dembele";
-    DR.textContent = "Walker";
-    DCR.textContent = "Alderweireld";
-    DCL.textContent = "Vertonghen";
-    DL.textContent = "D Rose";
-    GK.textContent = "Lloris";
-        
+        STC.textContent = "Kane";
+        FR.textContent = "van der Vaart";
+        AMC.textContent = "Eriksen";
+        FL.textContent = "HM Son";
+        CMR.textContent = "Modric";
+        CML.textContent = "M Dembele";
+        DR.textContent = "Walker";
+        DCR.textContent = "Alderweireld";
+        DCL.textContent = "Vertonghen";
+        DL.textContent = "D Rose";
+        GK.textContent = "Lloris";
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -1034,7 +1178,7 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/logos/tottenham.webp";
 
         MainFetchPopUp("/football/past/clubs/json/tottenham.json");
@@ -1054,7 +1198,7 @@ function updatePlayerInfo() {
         DCL.textContent = "Manolas";
         DL.textContent = "Kolarov";
         GK.textContent = "Szczesny";
-        
+
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
         AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
@@ -1066,13 +1210,13 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-    
-       smallpic.src = "/football/img/logos/as roma.webp";
+
+        smallpic.src = "/football/img/logos/as roma.webp";
 
         MainFetchPopUp("/football/past/clubs/json/as roma.json");
     }
 
-function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
             FR, FR2,
@@ -1086,7 +1230,7 @@ function clearAndFadeInElements() {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -1102,27 +1246,27 @@ function clearAndFadeInElements() {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }
 
- // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        console.log(selectedYear)
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+}
+
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+    console.log(selectedYear)
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 
