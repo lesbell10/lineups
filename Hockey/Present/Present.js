@@ -34,7 +34,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = ""
+        sideModal.textContent = "Connor McDavid, a Canadian professional ice hockey player, is renowned as one of the NHL's most exceptional talents. Captain of the Edmonton Oilers, he's celebrated for his extraordinary speed, skill, and vision on the ice, consistently leading in points and assists."
     })
 
     smallpic.addEventListener("mouseout", () => {

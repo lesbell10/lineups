@@ -12,6 +12,10 @@ const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
+window.onload = function () {
+    smallpic.style.scale = '2'
+}
+
 function updatePlayerInfo() {
 
     PG.textContent = "S Curry";

@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = ""
+        sideModal.textContent = "Sidney Crosby, a Canadian professional ice hockey player, is widely regarded as one of the greatest hockey players of all time. Captain of the Pittsburgh Penguins in the NHL, he's celebrated for his exceptional skill, leadership, and numerous career achievements."
     })
 
     smallpic.addEventListener("mouseout", () => {

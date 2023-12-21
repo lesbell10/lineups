@@ -24,6 +24,10 @@ const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
+window.onload = function () {
+    smallpic.style.scale = '.75'
+}
+
 
 let selectedYear = 0
 
@@ -723,7 +727,7 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/wallpapers/C Ronaldo.jpg";
+        smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2021.json");
         MainFetchPopUp("./json/EveryYear_2021.json");
@@ -822,6 +826,8 @@ function updatePlayerInfo() {
 
     if (selectedYear === "19") { 
      
+        
+
         STC.textContent = "Haaland";
         FR.textContent = "Salah";
         AMC.textContent = "Messi";
@@ -1457,7 +1463,7 @@ const updateDropdown = () => {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/wallpapers/C Ronaldo.jpg";
+        smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2021.json");
         MainFetchPopUp("./json/EveryYear_2021.json");

@@ -14,6 +14,10 @@ const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
+window.onload = function () {
+    smallpic.style.scale = '.8'
+}
+
 let selectedYear = 0
 
 function updatePlayerInfo() {
@@ -41,7 +45,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Connor McDavid, a Canadian professional ice hockey player, is renowned as one of the NHL's most exceptional talents. Captain of the Edmonton Oilers, he's celebrated for his extraordinary speed, skill, and vision on the ice, consistently leading in points and assists."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -70,7 +74,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Auston Matthews, an American professional ice hockey player, is a prominent center for the Toronto Maple Leafs in the NHL. Known for his exceptional goal-scoring abilities and precision shooting, Matthews has quickly become one of the league's top forwards."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -99,7 +103,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Nathan MacKinnon is a Canadian professional ice hockey player and a key member of the Colorado Avalanche in the NHL. Renowned for his incredible speed, agility, and offensive skills, MacKinnon plays as a center and is consistently among the league's top scorers"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -129,7 +133,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Leon Draisaitl, a German professional ice hockey player, is a standout forward for the Edmonton Oilers in the NHL. Renowned for his exceptional hockey IQ, scoring ability, and playmaking skills, Draisaitl has established himself as one of the league's elite players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -152,13 +156,13 @@ function updatePlayerInfo() {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
+        smallpic.src = "/hockey/img/wallpapers/burns.jpg";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Brent Burns, a standout defenseman in the NHL, is known for his offensive skills, physical play, and distinctive appearance. Playing for the Carolina Hurricanes in the 2022-23 season, Burns continued to be a key contributor with his dynamic gameplay and leadership."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -187,7 +191,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Nikita Kucherov, a Russian professional ice hockey player, is a highly skilled winger for the Tampa Bay Lightning in the NHL. Known for his remarkable scoring ability, playmaking skills, and hockey intelligence, Kucherov is a key player and a consistent top performer."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -217,7 +221,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Alexander Ovechkin is a Russian ice hockey legend, renowned for his goal-scoring prowess. He's a longtime member of the Washington Capitals in the NHL, holds numerous records, and is considered one of the greatest hockey players of all time."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -246,7 +250,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Carey Price, a Canadian goaltending icon, excelled in the NHL for the Montreal Canadiens. His exceptional skills, including quick reflexes and composure, have earned him accolades like the Vezina Trophy and made him a cornerstone of his team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -275,7 +279,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Jonathan Toews, known as Captain Serious, is an elite NHL center who led the Chicago Blackhawks to three Stanley Cup championships. His exceptional two-way play, leadership, and consistency have made him a beloved figure in Chicago and a respected leader in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -304,7 +308,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Patrick Kane, a former star forward for the Chicago Blackhawks, is one of the NHL's most skilled and dynamic players. Known for his exceptional stickhandling, playmaking, and clutch performances, Kane has won multiple awards, including the Hart Trophy and Conn Smythe Trophy, cementing his status as an elite talent."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -333,7 +337,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Evgeni Malkin, often referred to as Geno, is a Russian ice hockey superstar who plays as a center for the Pittsburgh Penguins in the NHL. He's known for his incredible scoring ability, versatility, and impressive playmaking skills. Malkin has won numerous awards, including the Hart Trophy and Conn Smythe Trophy, and has helped lead the Penguins to multiple Stanley Cup victories."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -362,7 +366,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Zdeno Chara, a towering Slovakian defenseman at 6'9\", was a dominant force in the NHL.He captained the Boston Bruins to a Stanley Cup victory, won the Norris Trophy, and became renowned for his defensive prowess and leadership, earning respect throughout his career."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -391,7 +395,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Steven Stamkos, a Canadian center for the Tampa Bay Lightning, is an elite NHL player known for his exceptional scoring ability, leadership, and loyalty to his team. He's won Stanley Cups and individual awards while consistently being a top offensive threat."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -420,7 +424,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Nicklas Lidström, a legendary Swedish defenseman, spent his entire NHL career with the Detroit Red Wings. Widely regarded as one of the greatest defensemen in history, he won numerous Norris Trophies and Stanley Cups due to his incredible defensive prowess and leadership on the ice."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -449,7 +453,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+        sideModal.textContent = "Pavel Datsyuk, a highly skilled Russian forward, played for the Detroit Red Wings in the NHL. Known for his incredible stickhandling and two-way play, he won multiple Stanley Cups and received several awards during his illustrious career. Datsyuk's \"Magic Man\" nickname reflects his dazzling skills on the ice."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -478,7 +482,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Jarome Iginla, a former NHL forward, was renowned for his scoring ability, leadership, and physical play. He spent much of his career with the Calgary Flames, amassing numerous awards, including two Rocket Richard Trophies for leading the league in goals. Iginla is a beloved figure in Canadian hockey history."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -507,7 +511,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Joe Thornton, often called \"Jumbo Joe,\" is a legendary NHL center known for his exceptional playmaking skills and career longevity. Over the years, he has played for the Boston Bruins, San Jose Sharks, and Toronto Maple Leafs. Thornton's impressive career includes multiple All-Star selections and ranking among the league's top point-scorers."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -536,7 +540,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Jaromir Jagr, one of the greatest hockey players in history, boasts an illustrious career spanning over two decades. Known for his incredible scoring ability, Jagr played for various NHL teams, including the Pittsburgh Penguins, Washington Capitals, and New York Rangers. He accumulated numerous awards and accolades, solidifying his status as a hockey legend."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -565,7 +569,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Scott Niedermayer, a former NHL defenseman, had a remarkable career with the New Jersey Devils and Anaheim Ducks. His outstanding skating, offensive skills, and leadership led to multiple Stanley Cup wins and numerous individual awards, making him one of the most respected defensemen in hockey history."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -594,7 +598,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Joe Sakic, known as \"Super Joe,\" is a retired NHL center who spent his entire career with the Colorado Avalanche/Quebec Nordiques franchise. He was a prolific scorer, won two Stanley Cups, and earned numerous awards, including the Hart Trophy. Sakic is widely regarded as one of the greatest players in hockey history."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -737,7 +741,7 @@ const updateDropdown = () => {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/wallpapers/crosby.jpg";
+        smallpic.src = "/hockey/img/wallpapers/burns.jpg";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
     }

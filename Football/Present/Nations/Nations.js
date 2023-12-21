@@ -62,7 +62,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022-23 season was significant as it included the 2022 FIFA World Cup, held in Qatar. Coached by Didier Deschamps, the team is known for its depth of talent, including stars like Kylian Mbappé, Antoine Griezmann, and N'Golo Kanté. France's style of play combines technical skill, speed, and tactical flexibility, making them a formidable force."
+            sideModal.textContent = "The 2022-23 season was significant as it included the 2022 FIFA World Cup, held in Qatar. Coached by Didier Deschamps, the team is known for its depth of talent, including stars like Kylian Mbappé, Antoine Griezmann, and N'Golo Kanté. France's had a brillant world cup in Qatar but eventually lost to Argentina in the final."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -223,7 +223,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Germany national football team entered the 2022-23 season with a focus on a blend of innovation and tradition. Under the leadership of coach Hansi Flick, who took over from Joachim Löw, the team was known for its efficient, organized, and attacking style of play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -263,7 +263,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Argentina national football team, led by Lionel Messi, approached the 2022-23 season with high aspirations and a talented squad. Under coach Lionel Scaloni, Argentina combined a tactical, attacking style of play with solid defense to put their hands in the world cup trpy in Qatar. They beat France after penalties"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -302,7 +302,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Italy national football team, after their triumphant victory in UEFA Euro 2020, faced the 2022-23 season with mixed feelings.Led by coach Roberto Mancini, the team is known for its tactical flexibility, strong defense, and technical midfield play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -342,7 +342,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "A major focus for Portugal in the 2022-23 season was the 2022 FIFA World Cup in Qatar. Portugal aimed to leverage their experienced squad and blend of youthful players to make a deep run in the tournament, aspiring to add a World Cup title to their 2016 European Championship victory"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -381,7 +381,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The 2022 FIFA World Cup in Qatar was a significant focus for Belgium, as the team sought to capitalize on its golden generation's talent. With high rankings in previous years, Belgium aimed to challenge for the title, building on their strong performances in recent international tournaments."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -421,7 +421,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Netherlands national football team, known for their Total Football philosophy, entered the 2022-23 season with renewed optimism. Under the leadership of coach Louis van Gaal, the team boasted a combination of experienced players and emerging talents."
         })
 
         smallpic.addEventListener("mouseout", () => {

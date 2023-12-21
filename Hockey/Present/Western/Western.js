@@ -42,7 +42,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Anaheim Ducks' 2022-23 season highlighted a rebuilding phase, led by emerging stars Trevor Zegras and Jamie Drysdale, showcasing skill and potential. John Gibson anchored the goaltending."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -72,7 +72,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Arizona Coyotes' 2022-23 season was centered around rebuilding and developing young talent. Players like Clayton Keller and Jakob Chychrun were key in driving the team's offense and defense, while goaltender Karel Vejmelka provided crucial support in net. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -102,7 +102,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Calgary Flames' 2022-23 season showcased a team aiming for a strong presence in the NHL. Led by Tyle Toffoli and Elias Lindholm, they focused on an aggressive offense, while Rasmus Andersson anchored the defense. Goaltending from Jacob Markstrom was pivotal."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -133,7 +133,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "he Chicago Blackhawks' 2022-23 season was a period of transition and rebuilding. With Patrick Kane leading the offense, and Seth Jones solidifying the defense, the team aimed to blend veteran experience with the development of younger players. Goaltender Kevin Lankinen played a key role."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -166,7 +166,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Colorado Avalanche's 2022-23 season was highlighted by their status as one of the top teams in the NHL. With stars like Nathan MacKinnon and Mikko Rantanen leading the offense, and Cale Makar on defense, they aimed for high performance. Philipp Grubauer's goaltending was crucial."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -196,7 +196,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Dallas Stars' 2022-23 season featured a balance of veteran leadership and emerging talent. With players like Jamie Benn and Tyler Seguin leading the charge, and Miro Heiskanen anchoring the defense, they aimed for a strong playoff push. Goaltender Jake Oettinger played a key role."
         })
 
         smallpic.addEventListener("mouseout", () => {

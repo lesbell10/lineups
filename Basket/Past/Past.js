@@ -30,6 +30,15 @@ function updatePlayerInfo() {
 
     MainFetchPopUp("/basket/past/past.json");
 
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = "LeBron James, an NBA superstar, is known for his exceptional basketball IQ, versatility, and leadership. He's won multiple NBA championships and MVP awards, leaving a significant impact both on and off the court, advocating for social justice and philanthropy."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    }); 
+
      function clearAndFadeInElements() {
         const elements = [
             SG,SG2,PG,PG2,SF,SF2,PF,PF2,C,C2

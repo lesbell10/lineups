@@ -56,7 +56,7 @@ function updatePlayerInfo() {
     
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = ""
+        sideModal.textContent = "Erling Haaland, the Norwegian striker, had a significant impact in the 2022-23 season, known for his remarkable goal, scoring abilities and physical presence on the pitch.  Playing for Manchester City in the Premier League, Haaland quickly adapted to English football, showcasing his prowess as a formidable striker."
     })
 
     smallpic.addEventListener("mouseout", () => {
