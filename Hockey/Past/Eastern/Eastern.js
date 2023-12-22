@@ -494,7 +494,7 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-
+    }
     function clearAndFadeInElements() {
         const elements = [
             FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,

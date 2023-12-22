@@ -41,7 +41,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Boston Bruins' 2022-23 season was marked by a blend of veteran leadership and emerging talent. With Patrice Bergeron's steadfast presence, Brad Marchand's scoring prowess, and Charlie McAvoy anchoring the defense, they aimed for a strong showing. Linus Ullmark and Jeremy Swayman shared goaltending duties"
+            sideModal.textContent = "The Boston Bruins in the 2022-2023 season showcased a remarkable blend of experienced talent and rising stars. Under new management, the team focused on a fast, aggressive playing style, which paid dividends as they topped league charts for much of the season."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -69,7 +69,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Buffalo Sabres' 2022-23 season was a narrative of growth and potential. Led by Rasmus Dahlin's defensive prowess and Tage Thompson's offensive impact, they showed promise. Dylan Cozens and Casey Mittelstadt emerged as key contributors. Goaltender Craig Anderson provided veteran stability, "
+            sideModal.textContent = "The Buffalo Sabres during the 2022-2023 season demonstrated a team in transition, blending young, promising talent with experienced veterans. Their focus on rebuilding and development was evident, as they aimed to create a solid foundation for future success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -98,7 +98,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Carolina Hurricanes' 2022-23 season was marked by a strong mix of skill and strategy. Sebastian Aho and Andrei Svechnikov led the offensive charge, while newcomer Brent Burns strengthened the defense. Martin Necas emerged as a vital player, and Frederik Andersen's goaltending was crucial. "
+            sideModal.textContent = "The Carolina Hurricanes in the 2022-2023 season continued their trajectory as one of the NHL's rising powerhouses. Known for their strong defensive play and dynamic offense, they consistently performed at a high level. Their roster, a mix of skilled veterans and dynamic young talent, showed great chemistry and resilience."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -127,7 +127,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets' 2022-23 season showcased a team in transition, focusing on development and resilience. Led by Patrik Laine's scoring talent and Zach Werenski's defensive skills, they aimed to blend youth with experience, with Elvis Merzlikins in goal"
+            sideModal.textContent = "The Columbus Blue Jackets in the 2022 - 2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness.With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -156,7 +156,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings' 2022-23 season was a time of rebuilding and growth. With Dylan Larkin providing leadership and Moritz Seider emerging as a defensive cornerstone, the team aimed to develop its young talents. Goaltender Alex Nedeljkovic was key in net"
+            sideModal.textContent = "The Detroit Red Wings in the 2022 - 2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent.This season saw them trying to balance this development with competitive play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -186,7 +186,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Florida Panthers' 2022-23 season was highlighted by high-scoring offense and dynamic play. Key players like Aleksander Barkov and Matthew Tkachuk led the charge, while they lost to the Vegas Golden Knights for the Stanley Cup. Sergei Bobrovsky's goaltending provided a backbone."
+            sideModal.textContent = "The Florida Panthers in the 2022-2023 season continued to assert themselves as one of the formidable teams in the NHL. Building on their previous successes, they reached the Stanely Cup Finals, losing to the Vegas Golden Knights."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -215,7 +215,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Montreal Canadiens' 2022-23 season was a period of rebuilding and adjustment. With key players like Nick Suzuki and Cole Caufield, they focused on youth development and team chemistry. Goalie Jake Allen provided experience in net."
+            sideModal.textContent = "The Montreal Canadiens in the 2022-2023 season were in a phase of restructuring and rebuilding, focusing on developing young talent and reshaping the team for future success. This season was characterized by a blend of veteran experience and emerging young players, offering glimpses of the team's potential."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -244,7 +244,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Jersey Devils' 2022-23 season was characterized by a youthful resurgence, with players like Jack Hughes and Nico Hischier leading the way. Jesper Bratt emerged as a key offensive contributor, while Mackenzie Blackwood aimed to anchor the goaltending."
+            sideModal.textContent = "The New Jersey Devils in the 2022-2023 season exhibited significant signs of improvement and potential, signaling a turning point in their rebuilding efforts.";
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -273,7 +273,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Islanders' 2022-23 season focused on a return to their trademark defensive strength and structured play. Led by Mathew Barzal's creativity and Anders Lee's leadership, they aimed to balance scoring with solid goaltending from Ilya Sorokin. "
+            sideModal.textContent = "The New York Islanders in the 2022-2023 season showcased a blend of solid defensive play and opportunistic offense. Known for their structured, team-oriented approach, they continued to emphasize a strong defensive system under their coaching staff."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -302,7 +302,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Rangers' 2022-23 season showcased a strong combination of skill and grit. Led by Artemi Panarin's offensive flair and Mika Zibanejad's all-around play, they aimed for high performance. Adam Fox anchored the defense, while Igor Shesterkin's standout goaltending was crucial."
+            sideModal.textContent = "The New York Rangers in the 2022-2023 season continued to build on their recent success, showcasing a team rich in talent and ambition. With a mix of star forwards, solid defensemen, and one of the league's top goaltenders, the Rangers displayed a strong, well-rounded game."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -331,7 +331,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Ottawa Senators' 2022-23 season was a period of building and development. With key players like Brady Tkachuk and Thomas Chabot, they focused on nurturing young talent and improving team dynamics. Goaltender Matt Murray aimed to provide stability in net."
+            sideModal.textContent = "The Ottawa Senators in the 2022-2023 season demonstrated a phase of growth and potential, as they continued to rebuild and develop their young core. The team, featuring a mix of promising rookies and experienced leaders, focused on improving their overall performance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -360,7 +360,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia Flyers' 2022-23 season was centered on revitalizing their team performance. Led by Joel Farabee's emerging talent, they aimed to balance scoring with defensive improvements. Carter Hart in goal was crucial for stability."
+            sideModal.textContent = "The Philadelphia Flyers in the 2022 - 2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -389,7 +389,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Pittsburgh Penguins' 2022-23 season featured their enduring stars Sidney Crosby and Evgeni Malkin, with Jake Guentzel providing significant offensive support. The team focused on maintaining their competitive edge, balancing experienced leadership with younger talent. Tristan Jarry in goal was key."
+            sideModal.textContent = "The Pittsburgh Penguins in the 2022-2023 season continued to showcase their resilience and competitive spirit, building upon their legacy as a perennial contender in the NHL. With a core of experienced, high-caliber players, including some of the league's top stars, the Penguins remained a formidable force."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -418,7 +418,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Tampa Bay Lightning's 2022-23 season was marked by a continued pursuit of excellence. With stars like Nikita Kucherov and Steven Stamkos leading the offense, and Victor Hedman anchoring the defense, they aimed for high performance. Andrei Vasilevskiy's exceptional goaltending was pivotal."
+            sideModal.textContent = "The Tampa Bay Lightning in the 2022-2023 season continued their reputation as one of the NHL's elite teams, building on their recent successes. With a roster full of skilled and high-impact players, they showcased a blend of dynamic offense and solid defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -447,7 +447,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs' 2022-23 season showcased a high-powered offense led by Auston Matthews and Mitch Marner, with John Tavares providing veteran leadership. The team focused on strengthening their playoff performance, supported by solid goaltending from Jack Campbell. "
+            sideModal.textContent = "The Toronto Maple Leafs in the 2022 - 2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -476,7 +476,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Washington Capitals' 2022-23 season featured their star Alexander Ovechkin continuing to make history, with key support from players like Nicklas Backstrom and John Carlson. Focused on a potent offense and experienced play, they aimed to maintain their competitive edge, with goaltending from Ilya Samsonov."
+            sideModal.textContent = "The Washington Capitals in the 2022-2023 season continued to showcase their veteran prowess and offensive strength, anchored by some of the league's most renowned players. Known for their powerful and strategic offensive play, the Capitals remained a significant threat in the NHL."
         })
 
         smallpic.addEventListener("mouseout", () => {

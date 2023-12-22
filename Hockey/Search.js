@@ -349,8 +349,15 @@ searchButton.addEventListener("click", function () {
 searchInput.addEventListener("input", function () {
     includeRetired = true
     hideSomeThings();
+
     const query = searchInput.value;
     searchPlayers(query, includeRetired);
+
+    const activeButton = document.getElementById("retiredFilter");
+    activeButton.style.backgroundColor = "red"
+
+    activeLabel.style.display = 'block'
+    activeButton.style.display = "block"
 });
 
 // Event listener for the 'Active' button
@@ -373,12 +380,6 @@ activeButton.addEventListener("click", function () {
         activeButton.style.backgroundColor = "red";
     }
 });
-
-
-searchInput.addEventListener('input', function () {
-    const activeButton = document.getElementById("retiredFilter");
-    activeButton.style.backgroundColor = "red"
-})
 
 function hideSomeThings() {
     const mainButton = document.querySelector(".mainbutton");

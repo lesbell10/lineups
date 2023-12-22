@@ -43,7 +43,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Canadian hockey continued to showcase its strength on the international stage. One of the highlights was Canada winning the gold medal at the 2023 World Juniors. "
+            sideModal.textContent = "In 2023, Team Canada's hockey squad displayed remarkable skill and teamwork, excelling in international competitions. Their roster, a blend of NHL stars and emerging talent, showcased Canada's deep hockey roots and tradition, maintaining their status as a powerhouse in the hockey world."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -104,7 +104,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Finland's performance in hockey for 2023 has been noteworthy, especially in the context of the 2023 IIHF World Championship. The championship was co-hosted by Tampere, Finland, and Riga, Latvia."
+            sideModal.textContent = "In 2023, Finland's hockey team showcased their renowned skill and resilience, excelling in international tournaments. With a blend of seasoned NHL players and promising domestic talent, they demonstrated tactical brilliance and a deep passion for the game, maintaining their status as elite competitors."
         })
 
         smallpic.addEventListener("mouseout", () => {

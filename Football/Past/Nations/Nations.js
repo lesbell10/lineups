@@ -140,7 +140,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Spain national football team, founded in 1904, experienced a golden era in the 21st century, winning the FIFA World Cup in 2010 and consecutive UEFA European Championships in 2008 and 2012. La Roja is celebrated for its tiki-taka style of play and top-tier talent."
+            sideModal.textContent = "Spain's national football team, from 2010 to 2020, employed the iconic tiki-taka style, securing the 2010 FIFA World Cup and the 2012 UEFA European Championship, revolutionizing football with their possession-based game."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -181,7 +181,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The England national football team, formed in 1870, has a rich history. They won the FIFA World Cup in 1966 and have produced iconic players like Bobby Charlton and David Beckham. The Three Lions have a passionate fanbase and a storied rivalry with Germany."
+            sideModal.textContent = "England's national football team had a decade of ups and downs from 2010 to 2020. They showed promise in international tournaments, reaching the 2018 FIFA World Cup semi-finals, but consistency remained a challenge."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -222,7 +222,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Germany national football team, established in 1908, is a powerhouse in international football. They've won four FIFA World Cups and three UEFA European Championships, known for their disciplined play and renowned players like Franz Beckenbauer and Miroslav Klose."
+            sideModal.textContent = "Germany's national football team, from 2010 to 2020, experienced triumph and transition. They won the 2014 FIFA World Cup but faced challenges in later tournaments. A new generation of talent emerged, reflecting a shift in German football."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -261,7 +261,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Argentina national football team, founded in 1901, has a storied history. They've won two FIFA World Cups and produced legendary players like Diego Maradona and Lionel Messi. La Albiceleste is known for its passionate fans and attacking style of play."
+            sideModal.textContent = "Argentina's national football team, during 2010-2020, featured Lionel Messi's brilliance but faced World Cup heartbreaks. They ended their trophy drought by winning the 2021 Copa America, solidifying Messi's legacy and celebrating a historic victory."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -301,7 +301,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Italy national football team, formed in 1898, is a football powerhouse with four FIFA World Cup victories and one UEFA European Championship title. Known for strong defense, iconic players, and a rich football culture, they are one of Europe's most successful teams."
+            sideModal.textContent = "Italy's national football team, from 2010 to 2020, went through a period of rebuilding. After missing the 2018 World Cup, they returned to form, winning UEFA Euro 2020, showcasing their defensive strength and tactical prowess."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -340,7 +340,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Portugal national football team, founded in 1914, has risen to prominence with UEFA European Championship and UEFA Nations League triumphs. Led by Cristiano Ronaldo, Portugal is known for its attacking style and has established itself as a competitive force in international football."
+            sideModal.textContent = "Portugal's national football team, from 2010 to 2020, showcased talent like Cristiano Ronaldo. They won UEFA Euro 2016 and the 2019 UEFA Nations League, establishing themselves as a competitive force in international football."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -379,7 +379,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Belgium national football team, founded in 1904, has become a formidable force in recent years. With a golden generation of talent, they achieved high FIFA World Cup and UEFA European Championship finishes, showcasing their attacking prowess and strong defense on the international stage."
+            sideModal.textContent = "Belgium's national football team, during 2010-2020, boasted a \"golden generation\" of talent including Eden Hazard and Kevin De Bruyne. They reached the 2018 FIFA World Cup semi-finals and consistently ranked among the world's top teams."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -420,7 +420,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Netherlands national football team, established in 1905, is known for its stylish Total Football. They've reached FIFA World Cup finals multiple times but haven't won. With iconic players like Johan Cruyff and Marco van Basten, the Oranje has left a mark on football history."
+            sideModal.textContent = "The Netherlands' national football team, from 2010 to 2020, had a mix of success and transition. They reached the 2010 FIFA World Cup final, but struggled in subsequent tournaments before showing promise with younger talent."
         })
 
         smallpic.addEventListener("mouseout", () => {

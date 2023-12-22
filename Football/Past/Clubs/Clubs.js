@@ -61,7 +61,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Founded in 1880, Manchester City is a prominent English football club based in Manchester. The club has experienced periods of success, including recent Premier League titles under manager Pep Guardiola, becoming a powerhouse in English football with a strong squad and fanbase."
+            sideModal.textContent = "Manchester City, from 2010 to 2020, transformed into a football powerhouse under wealthy ownership. They secured multiple Premier League title and reached the UEFA Champions League finals. The era was defined by attractive attacking football and the leadership of managers like Pep Guardiola."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -100,7 +100,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Real Madrid, founded in 1902, is one of the most storied football clubs globally. Based in Madrid, Spain, they've won numerous domestic and international titles, including multiple UEFA Champions League and La Liga titles, with a rich history of legendary players and coaches."
+            sideModal.textContent = "Real Madrid, one of the world's most iconic football clubs, experienced a decade of tremendous success from 2010 to 2020. They won numerous La Liga titles and UEFA Champions League trophies, establishing themselves as a football powerhouse."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -139,7 +139,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Paris Saint-Germain (PSG), founded in 1970, is a top-tier football club based in Paris, France. PSG has become a powerhouse in European football, boasting star-studded squads and winning numerous Ligue 1 titles and domestic cups. They've made a significant impact in the UEFA Champions League and have a growing global fanbase."
+            sideModal.textContent = "During 2010-2020, Paris Saint-Germain (PSG) became a dominant force in French football, securing multiple Ligue 1 titles and domestic cups. High-profile signings like Neymar and Mbappé propelled them to international prominence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -179,7 +179,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Founded in 1900, Bayern Munich, based in Munich, Germany, is one of the most successful football clubs globally. They've consistently dominated the Bundesliga, with numerous league titles, and have won the UEFA Champions League multiple times. Bayern is known for its rich history, top-class players, and iconic Allianz Arena."
+            sideModal.textContent = "Bayern Munich enjoyed immense success from 2010 to 2020. The German football club clinched numerous Bundesliga titles and won the UEFA Champions League multiple times, establishing itself as a football powerhouse. Iconic players like Franck Ribéry, Arjen Robben, and Robert Lewandowski played pivotal roles in this era of dominance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -219,7 +219,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Liverpool Football Club, founded in 1892, is a storied English football club based in Liverpool, Merseyside. Known as The Reds, they have a rich history of success, including numerous English league titles and UEFA Champions League triumphs. Liverpool has a passionate global fanbase and a legendary Anfield stadium."
+            sideModal.textContent = "Liverpool FC had a remarkable decade from 2010 to 2020. They won multiple Premier League titles, UEFA Champions League trophies, and domestic cups. Under the management of Jürgen Klopp, they built a formidable team known for its high-intensity pressing and attacking football, solidifying their status as a footballing giant."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -261,7 +261,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Founded in 1899, Barcelona Football Club, commonly known as FC Barcelona or Barça, is one of the most iconic football clubs globally. Based in Barcelona, Spain, the club has a rich history, characterized by La Liga titles, Copa del Rey wins, and multiple UEFA Champions League victories. Barcelona is renowned for its tiki-taka style of play and has produced legendary players like Lionel Messi, Xavi, and Andrés Iniesta. The Camp Nou is its iconic home stadium, and the club has a passionate global fanbase."
+            sideModal.textContent = "FC Barcelona experienced a decade of remarkable success from 2010 to 2020. Led by players like Lionel Messi, Xavi, and Andrés Iniesta, they won numerous La Liga titles and UEFA Champions League trophies. Their tiki-taka style of play defined an era of football dominance, making Barcelona one of the world's most admired clubs."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -301,7 +301,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Chelsea Football Club, founded in 1905, is a prominent English football club based in London. Known as the Blues, they've enjoyed success in the Premier League, FA Cup, and UEFA Champions League, with a strong presence in European football. Stamford Bridge is their iconic home stadium."
+            sideModal.textContent = "Chelsea FC had a highly successful decade from 2010 to 2020. They won multiple Premier League titles and secured their first-ever UEFA Champions League in 2012. Under various managers, including José Mourinho and Antonio Conte, Chelsea remained a competitive force in English and European football, showcasing their resilience and talent."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -342,7 +342,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Manchester United Football Club, founded in 1878, is one of the most storied football clubs in the world. Based in Manchester, England, they've won numerous English league titles, FA Cups, and UEFA Champions League trophies. Old Trafford is their iconic home stadium."
+            sideModal.textContent = "Manchester United experienced a decade of transition and challenges from 2010 to 2020. After the retirement of Sir Alex Ferguson, the club went through several managerial changes. While they won domestic cups and a UEFA Europa League title, they sought to recapture their past glory in the Premier League and the UEFA Champions League."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -382,7 +382,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Juventus Football Club, founded in 1897, is a renowned Italian football club based in Turin. Known as Juve, they have a rich history of Serie A titles and Coppa Italia victories. Juventus is recognized for its iconic black and white striped jerseys and plays its home matches at the Allianz Stadium (formerly known as the Juventus Stadium)."
+            sideModal.textContent = "Juventus FC dominated Italian football during the 2010-2020 decade, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -422,7 +422,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Arsenal Football Club, founded in 1886, is a prominent English football club based in Islington, London. Known as the Gunners, they have a storied history in the English Premier League, with multiple league titles and FA Cup victories. Arsenal plays its home matches at the Emirates Stadium."
+            sideModal.textContent = "Arsenal FC experienced a period of ups and downs from 2010 to 2020. They won FA Cups and Community Shields, but their Premier League title drought continued. Under Arsène Wenger and later Unai Emery, they showcased attractive football but faced inconsistency. Arsenal fans hoped for a return to the club's former glory during this time."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -462,7 +462,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Inter Milan, officially known as FC Internazionale Milano, is a prestigious Italian football club based in Milan. Founded in 1908, Inter has a rich history of Serie A titles, Coppa Italia victories, and international success, including winning the UEFA Champions League. They play their home matches at the San Siro Stadium, sharing it with their city rivals, AC Milan."
+            sideModal.textContent = "Inter Milan's 2010-2020 decade featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -502,7 +502,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Atlético Madrid, often referred to simply as Atlético, is a prominent Spanish football club based in Madrid. Founded in 1903, Atlético has a strong tradition in La Liga and Copa del Rey, with a notable rivalry against Real Madrid. They have also achieved success in European competitions, including winning the UEFA Europa League and reaching the UEFA Champions League final. Wanda Metropolitano Stadium serves as their home ground."
+            sideModal.textContent = "Atletico Madrid had a remarkable decade from 2010 to 2020. Under Diego Simeone's management, they won La Liga, reached UEFA Champions League finals, and became known for their disciplined, defensively sound style of play, establishing themselves as a top European club."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -542,7 +542,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "AC Milan, officially Associazione Calcio Milan, is an iconic Italian football club based in Milan. Founded in 1899, AC Milan has a storied history of Serie A titles, Coppa Italia victories, and international success, including multiple UEFA Champions League titles. They play their home matches at the San Siro Stadium, which they share with Inter Milan."
+            sideModal.textContent = "AC Milan had a mixed decade from 2010 to 2020. While they faced financial struggles and a decline in Serie A performance, the club showed occasional flashes of their historic prowess, winning the 2010-2011 Serie A title and domestic cups."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -581,7 +581,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Napoli, officially known as Società Sportiva Calcio Napoli, is a prominent Italian football club based in Naples. Founded in 1926, Napoli has a strong presence in Serie A and has won league titles and Coppa Italia trophies. The club is known for its passionate fanbase and plays its home matches at the Stadio Diego Armando Maradona, formerly known as the Stadio San Paolo, named after the legendary Argentine player Diego Maradona."
+            sideModal.textContent = "Napoli had an eventful decade from 2010 to 2020. Under the management of Maurizio Sarri, they played exciting attacking football and won a Coppa Italia and a Supercoppa Italiana. Their passionate fan base and talented squad made them a competitive force in Serie A."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -621,7 +621,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Tottenham Hotspur, a distinguished English football club based in London, competes in the Premier League. Known for its vibrant playing style and dedicated fanbase, the club boasts a rich history with multiple trophies. Its modern stadium and navy-blue and white colors are iconic."
+            sideModal.textContent = "Tottenham Hotspur had a transformative decade from 2010 to 2020. Under Mauricio Pochettino's management, they became top-four contenders in the Premier League and reached the UEFA Champions League final in 2019, though they didn't secure a trophy during this period.."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -662,7 +662,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "AS Roma, an iconic Italian football club based in Rome, is celebrated for its passionate fan base and rich history.Founded in 1927, it competes in Serie A, Italy's top division. Known for its deep-rooted local identity, Roma has won multiple league titles and cups, showcasing a legacy of talented players and memorable matches. The team's colors, red and yellow, symbolize Rome's traditional hues, reflecting the city's ancient heritage."
+            sideModal.textContent = "AS Roma experienced a decade of competitiveness in Serie A from 2010 to 2020. While they didn't win the league title, they consistently contended for a top-four finish and featured in European competitions, showcasing their commitment to excellence in Italian football."
         })
 
         smallpic.addEventListener("mouseout", () => {

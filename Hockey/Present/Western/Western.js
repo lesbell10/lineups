@@ -42,7 +42,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Anaheim Ducks' 2022-23 season highlighted a rebuilding phase, led by emerging stars Trevor Zegras and Jamie Drysdale, showcasing skill and potential. John Gibson anchored the goaltending."
+            sideModal.textContent = "The Anaheim Ducks in the 2022-2023 season were in a transitional phase, focusing on rebuilding and developing their young talent. This period was characterized by integrating promising rookies and younger players into key roles, setting the stage for future growth."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -72,7 +72,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Arizona Coyotes' 2022-23 season was centered around rebuilding and developing young talent. Players like Clayton Keller and Jakob Chychrun were key in driving the team's offense and defense, while goaltender Karel Vejmelka provided crucial support in net. "
+            sideModal.textContent = "The Arizona Coyotes in the 2022-2023 season continued their journey through a rebuilding phase, focusing on developing a young and promising roster. The team, while facing the challenges typical of a rebuild, showed signs of growth and potential."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -133,7 +133,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "he Chicago Blackhawks' 2022-23 season was a period of transition and rebuilding. With Patrick Kane leading the offense, and Seth Jones solidifying the defense, the team aimed to blend veteran experience with the development of younger players. Goaltender Kevin Lankinen played a key role."
+            sideModal.textContent = "The Calgary Flames in the 2022-2023 season were a team striving to balance their strong offensive capabilities with a solid defensive game. Known for their aggressive and fast-paced style, the Flames showcased a roster capable of high-scoring games, backed by talented forwards and a robust defensive lineup."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -166,7 +166,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Colorado Avalanche's 2022-23 season was highlighted by their status as one of the top teams in the NHL. With stars like Nathan MacKinnon and Mikko Rantanen leading the offense, and Cale Makar on defense, they aimed for high performance. Philipp Grubauer's goaltending was crucial."
+            sideModal.textContent = "The Colorado Avalanche in the 2022-2023 season continued to assert themselves as one of the top teams in the NHL, building on their recent successes. Known for their high-octane offense and solid defense, the Avalanche demonstrated a well-balanced and dynamic style of play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -196,7 +196,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Stars' 2022-23 season featured a balance of veteran leadership and emerging talent. With players like Jamie Benn and Tyler Seguin leading the charge, and Miro Heiskanen anchoring the defense, they aimed for a strong playoff push. Goaltender Jake Oettinger played a key role."
+            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense.Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -226,7 +226,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Edmonton Oilers' 2022-23 season was marked by high-scoring offense and dynamic play, led by superstars Connor McDavid and Leon Draisaitl. With a focus on improving their defense and goaltending from Mike Smith, the Oilers aimed to capitalize on their offensive strengths."
+            sideModal.textContent = "The Edmonton Oilers in the 2022-2023 season continued to showcase their high-powered offensive capabilities, led by some of the league's most talented and dynamic players. Their aggressive and fast-paced style of play, particularly in the offensive zone, made them one of the most exciting teams to watch in the NHL"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -255,7 +255,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Los Angeles Kings' 2022-23 season was characterized by a mix of experienced leadership and promising young talent. With Anze Kopitar providing veteran presence and players like Adrian Kempe stepping up, the team aimed for a balanced approach."
+            sideModal.textContent = "The Los Angeles Kings in the 2022 - 2023 season demonstrated a blend of veteran leadership and emerging young talent, marking their progress in becoming a more competitive team in the NHL. Known for their structured and disciplined style of play, the Kings focused on a balanced approach."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -285,7 +285,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Minnesota Wild's 2022-23 season showcased a well-rounded team effort, with key contributions from Kirill Kaprizov's offensive skills and Jared Spurgeon's defensive leadership. Cam Talbot's performance in goal was crucial."
+            sideModal.textContent = "The Minnesota Wild in the 2022-2023 season continued to establish themselves as a strong and resilient team in the NHL. Known for their balanced approach to the game, combining a robust defensive strategy with an effective offense, the Wild showcased their ability to compete with the top teams in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -317,7 +317,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Nashville Predators' 2022-23 season was marked by a strong defensive ethos and a focus on team play. Roman Josi's leadership on the blue line and Filip Forsberg's offensive contributions were key. With solid goaltending from Juuse Saros"
+            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL.Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -347,7 +347,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The San Jose Sharks' 2022-23 season was a period of transition, focusing on integrating young talent with experienced players. Erik Karlsson and Tomas Hertl were key in driving the team, while goaltender James Reimer provided stability in net. "
+            sideModal.textContent = "The San Jose Sharks in the 2022-2023 season faced a period of transition, focusing on rebuilding and reshaping their team for the future. With a combination of veteran players and emerging young talent, the Sharks worked on developing a new team identity and improving their overall performance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -377,7 +377,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Seattle Kraken's 2022-23 season, in their second year of NHL play, focused on building team identity and cohesion. Players like Jordan Eberle and Yanni Gourde contributing offensively as they aimed to establish a competitive presence."
+            sideModal.textContent = "The Seattle Kraken, in their sophomore season of 2022 - 2023, continued to build their identity as the NHL's newest franchise. This season was about laying down the foundation for long-term success and establishing a team culture."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -407,7 +407,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The St. Louis Blues' 2022-23 season was marked by a blend of experienced leadership and emerging talent. With Ryan O'Reilly and Vladimir Tarasenko providing steady play, and Jordan Binnington in goal, they aimed to build on their strong team ethos."
+            sideModal.textContent = "The St.Louis Blues in the 2022 - 2023 season continued to demonstrate their status as a competitive and resilient team in the NHL.Building on their legacy of strong team play and physicality, the Blues aimed to blend their traditional strengths with a more dynamic offensive strategy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -436,7 +436,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Vancouver Canucks' 2022-23 season was a time of potential and growth. Led by Elias Pettersson and Quinn Hughes, they focused on developing a dynamic offense and solid defense. Thatcher Demko's goaltending was key."
+            sideModal.textContent = "The Vancouver Canucks in the 2022 - 2023 season were a team in the midst of transformation, seeking to find the right balance between emerging young talent and experienced veterans.With a focus on building a cohesive team identity, the Canucks aimed to improve their overall performance in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -469,7 +469,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "he Vegas Golden Knights' 2022-23 season was a memorable one. They won the Stanley Cup in 6 games against the Florida Panthers. Jonathan Marchessault won the Conn Smythe trophy for being the MVP of the playoffs. Alex Pietrangelo anchored the defense, and goaltending from Robin Lehner was pivotal also."
+            sideModal.textContent = "The Vegas Golden Knights in the 2022-2023 season continued to uphold their reputation as a strong and competitive team in the NHL. Since their inception, the Golden Knights have been known for their aggressive and fast-paced style of play, and this season was no exception, winning the Stanley Cup."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -499,7 +499,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Winnipeg Jets' 2022-23 season showcased a team aiming for resurgence. Mark Scheifele and Kyle Connor led the offensive efforts, while defenseman Josh Morrissey provided stability. Connor Hellebuyck's goaltending remained a critical factor."
+            sideModal.textContent = "The Winnipeg Jets in the 2022-2023 season demonstrated a blend of resilience and the need for strategic improvement. Known for their balanced approach, combining skilled offensive play with solid goaltending, the Jets aimed to strengthen their position in a highly competitive division."
         })
 
         smallpic.addEventListener("mouseout", () => {
