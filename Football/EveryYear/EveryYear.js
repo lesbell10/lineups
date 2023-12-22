@@ -34,9 +34,253 @@ let selectedYear = 0
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
-    
 
-    if (selectedYear === "30") {
+    if (selectedYear == "0") {
+
+        STC.textContent = "Ronaldo";
+        FR.textContent = "Beckham";
+        AMC.textContent = "Rivaldo";
+        FL.textContent = "Figo";
+        CMR.textContent = "Zidane";
+        CML.textContent = "Davids";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Desailly";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Barthez";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/zidane.png";
+
+        MainFetchPopUp("./json/EveryYear_1998.json");
+
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Zinedine Zidane, a French football legend, was a graceful playmaker known for his exceptional skill, vision, and elegance on the field. He won numerous titles, including the FIFA World Cup, and is celebrated for his iconic headbutt incident in the 2006 World Cup final."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+    
+    if (selectedYear == "1") {
+
+        STC.textContent = "Shevchenko";
+        FR.textContent = "Figo";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Giggs";
+        CMR.textContent = "Vieira";
+        CML.textContent = "R Keane";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Stam";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Kahn";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/maldini.jpg";
+
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "2") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "Beckham";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Figo";
+        CMR.textContent = "Vieira";
+        CML.textContent = "Ballack";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "F Cannavaro";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Kahn";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/figo.jpg";
+
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Luis Figo, the Portuguese football icon, was celebrated for his exceptional dribbling skills, precise crossing, and versatility on the field. He graced top clubs like Barcelona and Real Madrid, and his elegance left an indelible mark on the sport's history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "3") {
+
+        STC.textContent = "Raul";
+        FR.textContent = "Beckham";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Giggs";
+        CMR.textContent = "R Keane";
+        CML.textContent = "Ballack";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Buffon";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/giggs.jpg";
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+    
+    if (selectedYear == "4") {
+
+        STC.textContent = "Ronaldo";
+        FR.textContent = "Beckham";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Rivaldo";
+        CMR.textContent = "Ballack";
+        CML.textContent = "Davids";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Ferdinand";
+        DCL.textContent = "Nesta";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Kahn";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/beckham.webp";
+
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "David Beckham, a global football icon, is known for his remarkable passing and free-kick prowess. His illustrious career spans clubs like Manchester United, Real Madrid, and LA Galaxy. Beckham's style, both on and off the field, made him a cultural phenomenon worldwide."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "5") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "Beckham";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Nedved";
+        CMR.textContent = "Pirlo";
+        CML.textContent = "Davids";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Buffon";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/davids.jpg";
+
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Edgar Davids, a tenacious Dutch midfielder, was renowned for his distinctive dreadlocks and aggressive playing style. He possessed exceptional ball-winning abilities, fierce determination, and played for top clubs like Juventus and Barcelona during his illustrious career, earning a reputation as a midfield enforcer."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "6") {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Ronaldinho";
@@ -62,22 +306,22 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/wallpapers/zidane.png";
+        smallpic.src = "/football/img/wallpapers/pirlo.png";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2005.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Zinedine Zidane, a French football legend, was a graceful playmaker known for his exceptional skill, vision, and elegance on the field. He won numerous titles, including the FIFA World Cup, and is celebrated for his iconic headbutt incident in the 2006 World Cup final."
+            sideModal.textContent = "Andrea Pirlo is an Italian football legend known for his exceptional vision and passing ability. As a midfielder, he orchestrated play with precision, leading teams like AC Milan and Juventus to success. Pirlo's calmness on the ball and ability to create opportunities made him one of the best midfielders of his generation."
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
-    if (selectedYear === "0") {
+
+    if (selectedYear == "7") {
 
         STC.textContent = "Henry";
         FR.textContent = "Totti";
@@ -104,14 +348,14 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/wallpapers/zidane.png";
+        smallpic.src = "/football/img/wallpapers/Gerrard.jpg";
         
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2005.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Zinedine Zidane, a French football legend, was a graceful playmaker known for his exceptional skill, vision, and elegance on the field. He won numerous titles, including the FIFA World Cup, and is celebrated for his iconic headbutt incident in the 2006 World Cup final."
+            sideModal.textContent = "Steven Gerrard is a legendary English footballer known for his loyalty to Liverpool FC. A dynamic midfielder, he captained the team and led with passion, creating iconic moments and achieving numerous honors during his illustrious career. His commitment and skill earned him a place among football's greats."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -119,7 +363,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "1") { 
+    if (selectedYear == "8") { 
         STC.textContent = "Ronaldo";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Rooney";
@@ -159,7 +403,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "2") { 
+    if (selectedYear == "9") { 
         STC.textContent = "Henry";
         FR.textContent = "Totti";
         AMC.textContent = "Rooney";
@@ -199,7 +443,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "3") { 
+    if (selectedYear == "10") { 
 
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
@@ -241,7 +485,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "4") { 
+    if (selectedYear == "11") { 
 
     STC.textContent = "Ibrahimovic";
     FR.textContent = "Messi";
@@ -283,7 +527,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "12") {
 
 
     STC.textContent = "F Torres";
@@ -326,7 +570,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "13") {
         
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -368,7 +612,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "14") {
         
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -409,7 +653,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "15") {
 
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -451,7 +695,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "9") {
+    if (selectedYear == "16") {
         
         STC.textContent = "Ibrahimovic";
         FR.textContent = "C Ronaldo";
@@ -495,7 +739,7 @@ function updatePlayerInfo() {
     }
 
     
-    if (selectedYear === "10") {
+    if (selectedYear == "17") {
         
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Robben";
@@ -536,7 +780,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "11") {
+    if (selectedYear == "18") {
         STC.textContent = "Suarez";
         FR.textContent = "Robben";
         AMC.textContent = "Messi";
@@ -577,7 +821,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "12") {
+    if (selectedYear == "19") {
         
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
@@ -619,7 +863,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "20") {
         
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -660,7 +904,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "14") {
+    if (selectedYear == "21") {
         
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -701,7 +945,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear === "15") {
+    if (selectedYear === "22") {
         
         STC.textContent = "C Ronaldo";
         FR.textContent = "Messi";
@@ -742,7 +986,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "16")
+    if (selectedYear === "23")
     {
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
@@ -783,7 +1027,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "17") { 
+    if (selectedYear === "24") { 
         STC.textContent = "Lewandowski";
         FR.textContent = "Salah";
         AMC.textContent = "Messi";
@@ -824,7 +1068,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "18") { 
+    if (selectedYear === "25") { 
         
         STC.textContent = "Lewandowski";
         FR.textContent = "Messi";
@@ -865,7 +1109,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "19") { 
+    if (selectedYear === "26") { 
      
         
 

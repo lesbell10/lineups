@@ -29,6 +29,15 @@ if (selectedYear === "0") {
     smallpic.src = "";
 
     MainFetchPopUp("");
+
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = ""
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 }
 
 // ----------------------------------- nhl -----------------------------------------
@@ -52,6 +61,15 @@ if (selectedYear === "0") {
     smallpic.src = "";
 
     MainFetchPopUp("");
+
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = ""
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 }
 // ------------------------------ nba ----------------------------------------
 
@@ -72,4 +90,13 @@ if (selectedYear === "0") {
     smallpic.src = "";
 
     MainFetchPopUp("");
+
+    smallpic.addEventListener('mouseover', () => {
+        sideModal.style.display = 'block'
+        sideModal.textContent = ""
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 }

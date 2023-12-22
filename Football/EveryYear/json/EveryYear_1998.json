@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "last_name": "Ronaldo",
+    "img": "/football/img/players/Ronaldo.webp",
+    "full_name": "Luis Ronaldo",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Striker",
+    "description": "Legendary Brazilian forward known for incredible goal-scoring abilities."
+  },
+  {
+    "id": 2,
+    "last_name": "Beckham",
+    "img": "/football/img/players/Beckham.webp",
+    "full_name": "David Beckham",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Midfielder",
+    "description": "English midfielder famed for precise passing and free-kick expertise."
+  },
+  {
+    "id": 3,
+    "last_name": "Rivaldo",
+    "img": "/football/img/players/Rivaldo.webp",
+    "full_name": "Rivaldo Vitor",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "description": "Brazilian football icon known for skillful dribbling and goal-scoring."
+  },
+  {
+    "id": 4,
+    "last_name": "Figo",
+    "img": "/football/img/players/Figo.webp",
+    "full_name": "Luis Figo",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Midfielder",
+    "description": "Portuguese midfielder renowned for creativity and playmaking abilities."
+  },
+  {
+    "id": 5,
+    "last_name": "Zidane",
+    "img": "/football/img/players/Zidane.webp",
+    "full_name": "Zinedine Zidane",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Midfielder",
+    "description": "French football legend known for elegance and midfield brilliance."
+  },
+  {
+    "id": 6,
+    "last_name": "Davids",
+    "img": "/football/img/players/Davids.webp",
+    "full_name": "Edgar Davids",
+    "team": "Retired",
+    "nationality": "Netherlands",
+    "position": "Midfielder",
+    "description": "Dutch midfielder recognized for tough tackling and energy."
+  },
+  {
+    "id": 7,
+    "last_name": "Cafu",
+    "img": "/football/img/players/Cafu.webp",
+    "full_name": "Marcos Cafu",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Right-back",
+    "description": "Legendary Brazilian right-back celebrated for his speed and skill."
+  },
+  {
+    "id": 8,
+    "last_name": "Nesta",
+    "img": "/football/img/players/Nesta.webp",
+    "full_name": "Alessandro Nesta",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Defender",
+    "description": "Italian defender known for impeccable positioning and defensive prowess."
+  },
+  {
+    "id": 9,
+    "last_name": "Desailly",
+    "img": "/football/img/players/Desailly.webp",
+    "full_name": "Marcel Desailly",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Center-back",
+    "description": "French center-back celebrated for strength and leadership on the pitch."
+  },
+  {
+    "id": 10,
+    "last_name": "Carlos",
+    "img": "/football/img/players/Carlos.webp",
+    "full_name": "Roberto Carlos",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Left-back",
+    "description": "Brazilian left-back famous for powerful free-kicks and speed."
+  },
+  {
+    "id": 11,
+    "last_name": "Barthez",
+    "img": "/football/img/players/Barthez.webp",
+    "full_name": "Fabien Barthez",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Goalkeeper",
+    "description": "French goalkeeper known for agility and World Cup success."
+  }
+]
