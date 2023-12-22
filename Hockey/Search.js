@@ -14,6 +14,13 @@ function loadJSON(filePath) {
 
 // Load data from both files and merge them
 Promise.all([
+    // loadJSON('/football/everyyear/json/EveryYear_1998.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_1999.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_2000.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_2001.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_2002.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_2003.json'),
+    // loadJSON('/football/everyyear/json/EveryYear_2004.json'),
     loadJSON('/hockey/everyyear/json/EveryYear_2005.json'),
     loadJSON('/hockey/everyyear/json/EveryYear_2006.json'),
     loadJSON('/hockey/everyyear/json/EveryYear_2007.json'),
@@ -330,6 +337,8 @@ function setActivePageButton(activePageIndex) {
 const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 const activeLabel = document.querySelector(".act_players")
+// Event listener for the 'Active' button
+const activeButton = document.getElementById("retiredFilter");
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
@@ -353,15 +362,12 @@ searchInput.addEventListener("input", function () {
     const query = searchInput.value;
     searchPlayers(query, includeRetired);
 
-    const activeButton = document.getElementById("retiredFilter");
     activeButton.style.backgroundColor = "red"
 
     activeLabel.style.display = 'block'
     activeButton.style.display = "block"
 });
 
-// Event listener for the 'Active' button
-const activeButton = document.getElementById("retiredFilter");
 
 activeButton.addEventListener("click", function () {
     // Check the current background color

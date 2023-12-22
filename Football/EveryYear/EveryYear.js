@@ -36,6 +36,47 @@ function updatePlayerInfo() {
     selectedYear = yearSelector.value;
     
 
+    if (selectedYear === "30") {
+        STC.textContent = "Henry";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Ronaldinho";
+        FL.textContent = "Nedved";
+        CMR.textContent = "Lampard";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Terry";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Cech";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+
+        smallpic.src = "/football/img/wallpapers/zidane.png";
+
+        // // FIFAFetchPopUp("./json/EveryYear_2005.json");
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Zinedine Zidane, a French football legend, was a graceful playmaker known for his exceptional skill, vision, and elegance on the field. He won numerous titles, including the FIFA World Cup, and is celebrated for his iconic headbutt incident in the 2006 World Cup final."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+    
     if (selectedYear === "0") {
 
         STC.textContent = "Henry";
