@@ -43,7 +43,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Canadian hockey continued to showcase its strength on the international stage. One of the highlights was Canada winning the gold medal at the 2023 World Juniors. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -73,7 +73,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Czech hockey in 2023 has been eventful, showcasing the nation's robust participation in the sport at various levels. The Czech Republic's men's national ice hockey team, known as Czechia, is one of the most successful national ice hockey teams in the world"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -104,7 +104,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Finland's performance in hockey for 2023 has been noteworthy, especially in the context of the 2023 IIHF World Championship. The championship was co-hosted by Tampere, Finland, and Riga, Latvia."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -134,7 +134,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Germany's hockey team showcased remarkable resilience in the IIHF World Championship. They had a dramatic semi-final overtime win against the unbeaten USA. This impressive turnaround led them to their first-ever final, vying for their inaugural IIHF gold medal​"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -164,7 +164,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Russian and Belarusian hockey teams were barred from participating in IIHF competitions, including the World Juniors, due to the Ukraine war by Russia. This decision was made by the IIHF Council after a detailed risk assessment."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -194,7 +194,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Team Slovakia's hockey team presented a formidable roster at the Ice Hockey World Championships. The team consisted of a mix of experienced players and promising young talent."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -224,7 +224,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Sweden's national hockey team fielded a strong roster for the IIHF World Championship. Key NHLers included Lucas Raymond and team captain Jakob Silfverberg. Defense was led by NHL veterans Christian Folin and Patrik Nemeth, alongside rising star Rasmus Sandin."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -253,7 +253,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, Switzerland's national hockey team delivered a commendable performance at the IIHF World Championship. Despite being a smaller hockey nation, they consistently punched above their weight. Their roster comprised a blend of NHL talent and prominent players from European leagues."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -285,7 +285,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, the USA hockey team showcased its depth and talent at the IIHF World Championship. Comprising NHL players, NCAA standouts, and young prospects, the team balanced experience and emerging talent."
         })
 
         smallpic.addEventListener("mouseout", () => {

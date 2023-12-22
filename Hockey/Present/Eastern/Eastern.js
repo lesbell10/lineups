@@ -186,7 +186,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Florida Panthers' 2022-23 season was highlighted by high-scoring offense and dynamic play. Key players like Aleksander Barkov and Jonathan Huberdeau led the charge, while newcomer Sam Reinhart added depth.  Sergei Bobrovsky's goaltending provided a backbone."
+            sideModal.textContent = "The Florida Panthers' 2022-23 season was highlighted by high-scoring offense and dynamic play. Key players like Aleksander Barkov and Matthew Tkachuk led the charge, while they lost to the Vegas Golden Knights for the Stanley Cup. Sergei Bobrovsky's goaltending provided a backbone."
         })
 
         smallpic.addEventListener("mouseout", () => {

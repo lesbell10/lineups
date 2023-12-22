@@ -36,13 +36,13 @@ function updatePlayerInfo() {
     MainFetchPopUp("/basket/present/present.json");
 
     smallpic.addEventListener('mouseover', () => {
-                sideModal.style.display = 'block'
-        sideModal.textContent = "Joel Embiid is an elite NBA center known for his dominant scoring, rebounding, and shot-blocking abilities. Playing for the Philadelphia 76ers, he's a multiple-time All-Star and MVP candidate, often displaying a unique combination of size, skill, and agility on the court."
-            })
+        sideModal.style.display = 'block'
+        sideModal.textContent = "Between 2010 and 2020, LeBron James achieved incredible success in the NBA. He secured four NBA championships, garnered four MVP awards, and consistently demonstrated his prowess as a versatile and dominant player. Beyond the court, he left an indelible mark as one of the greatest basketball players and influential athletes of his era."
+    })
 
-            smallpic.addEventListener("mouseout", () => {
-                        sideModal.style.display = 'none'; // Hide the modal
-            }); 
+    smallpic.addEventListener("mouseout", () => {
+        sideModal.style.display = 'none'; // Hide the modal
+    });
 
     // MainFetchPopUp("./Present.json"); 
 

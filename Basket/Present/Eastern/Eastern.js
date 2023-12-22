@@ -65,7 +65,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Boston Celtics' 2022-23 season featured standout performances from Jayson Tatum and Jaylen Brown, supported by a strong cast including Marcus Smart. Their blend of tenacious defense and efficient offense aimed to keep them as top contenders in the NBA's Eastern Conference."
+            sideModal.textContent = "The Boston Celtics' 2022-23 season was characterized by their strong championship aspirations. Building on their previous success, the team, led by stars Jayson Tatum and Jaylen Brown, showcased a formidable blend of offensive firepower and stout defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -93,7 +93,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Brooklyn Nets' 2022-23 season, led by stars Kevin Durant and Kyrie Irving, was marked by high-scoring games and strong individual performances. Despite facing challenges, their focus on team chemistry and strategic play aimed to secure a prominent position in the NBA's Eastern Conference."
+            sideModal.textContent = "The Brooklyn Nets' 2022-23 season was marked by high expectations and star power. With a roster featuring Kevin Durant and Kyrie Irving, the team aimed to capitalize on its offensive prowess and deep talent pool."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -121,7 +121,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Charlotte Hornets' 2022-23 season was driven by the dynamic play of LaMelo Ball, with key contributions from players like Terry Rozier and Gordon Hayward. Focusing on developing their young core and improving team consistency, they aimed to make strides in the NBA's Eastern Conference."
+            sideModal.textContent = "The Charlotte Hornets' 2022-23 season was a journey of growth and potential. Led by LaMelo Ball, the team showcased a vibrant, up-tempo style of play. Focused on developing young talent like Miles Bridges, they aimed to establish themselves as playoff contenders in the Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -149,7 +149,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Chicago Bulls' 2022-23 season showcased the talents of DeMar DeRozan and Zach LaVine, with crucial support from players like Nikola Vučević. Their blend of offensive firepower and team effort aimed to elevate their standing in the competitive Eastern Conference of the NBA."
+            sideModal.textContent = "The Chicago Bulls' 2022-23 season was highlighted by a mix of established talent and emerging stars. Led by DeMar DeRozan and Zach LaVine, the team aimed to build on their cohesive play and offensive strengths."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -177,7 +177,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Cleveland Cavaliers' 2022-23 season was highlighted by the emergence of Darius Garland and the steady presence of Jarrett Allen, complemented by the veteran experience of Kevin Love. Their focus on building a strong, cohesive unit aimed to enhance their competitiveness in the NBA's Eastern Conference."
+            sideModal.textContent = "The Cleveland Cavaliers' 2022-23 season showcased a team on the rise in the NBA. Led by young stars like Darius Garland and Evan Mobley, the Cavs displayed a blend of dynamic offense and solid defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -205,7 +205,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Pistons' 2022-23 season was a period of rebuilding and development, centered around young talents like Cade Cunningham and Saddiq Bey. Focusing on player growth and team cohesion, they aimed to lay the groundwork for future competitiveness in the NBA's Eastern Conference."
+            sideModal.textContent = "The Detroit Pistons' 2022-23 season was centered around rebuilding and developing young talent. With a core led by Cade Cunningham, the team focused on growth and potential."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Indiana Pacers' 2022-23 season was marked by a focus on rebuilding and growth, with key players like Domantas Sabonis and Malcolm Brogdon leading the effort. Emphasizing the development of young talent, they aimed to establish a foundation for future success in the NBA's Eastern Conference."
+            sideModal.textContent = "The Indiana Pacers' 2022-23 season was marked by a period of transition and rebuilding. Emphasizing the development of young players like Tyrese Haliburton, the team aimed to establish a new identity."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -261,7 +261,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Miami Heat's 2022-23 season featured strong performances from Jimmy Butler and Bam Adebayo, with Tyler Herro providing significant impact. Their focus on a disciplined defense and efficient offense aimed to keep them as key contenders in the NBA's Eastern Conference."
+            sideModal.textContent = "The Miami Heat's 2022-23 season was characterized by their signature resilience and strategic gameplay. With key players like Jimmy Butler and Bam Adebayo, the team combined a tough defensive stance with efficient offense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -289,7 +289,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Milwaukee Bucks' 2022-23 season was dominated by the exceptional play of Giannis Antetokounmpo, with critical support from Khris Middleton and Jrue Holiday. Their blend of strong defense and potent offense aimed to maintain their position as top contenders in the NBA's Eastern Conference."
+            sideModal.textContent = "The Milwaukee Bucks' 2022-23 season was highlighted by their continued status as a top NBA contender. With two-time MVP Giannis Antetokounmpo leading the charge, the team combined dominant inside play with solid defense and sharpshooting. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -317,7 +317,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Knicks' 2022-23 season saw key performances from Julius Randle and RJ Barrett, with Derrick Rose providing veteran leadership. Their focus on improving team dynamics and consistency aimed to strengthen their presence in the competitive Eastern Conference of the NBA."
+            sideModal.textContent = "The New York Knicks' 2022-23 season was a quest for resurgence in the NBA. With Julius Randle leading and the emergence of RJ Barrett, the team focused on combining veteran leadership with young talent."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Orlando Magic's 2022-23 season was centered around the growth of young talents like Cole Anthony and Wendell Carter Jr. Focused on development and team building, they aimed to lay a strong foundation for future competitiveness in the NBA's Eastern Conference."
+            sideModal.textContent = "The Orlando Magic in the 2022 - 2023 NBA season showcased a young and evolving team with a focus on development and growth.They displayed flashes of potential and exciting play, particularly from emerging talents like Paolo Banchero and Franz Wagner."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -373,7 +373,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia 76ers' 2022-23 season was highlighted by the performances of Joel Embiid and James Harden, with Tobias Harris providing key contributions. Their focus on blending star power with team cohesion aimed to solidify their status as a major contender in the NBA's Eastern Conference."
+            sideModal.textContent = "The Philadelphia 76ers in the 2022-2023 NBA season demonstrated a strong competitive edge, led by stars Joel Embiid and James Harden. Their blend of offensive prowess and defensive strength kept them as contenders in the Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -401,7 +401,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Raptors' 2022-23 season featured the leadership of Pascal Siakam and Fred VanVleet, with significant contributions from OG Anunoby. Their emphasis on versatile defense and team-oriented offense aimed to strengthen their competitive edge in the NBA's Eastern Conference."
+            sideModal.textContent = "The Toronto Raptors in the 2022-2023 season displayed a unique blend of athleticism and versatility, led by Pascal Siakam and Fred VanVleet. Known for their defensive tenacity and innovative coaching strategies, the team navigated through a competitive Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -429,7 +429,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Washington Wizards' 2022-23 season was led by Bradley Beal, with important roles played by players like Kyle Kuzma. Focusing on improving their overall team play and consistency, they aimed to enhance their competitiveness in the NBA's Eastern Conference."
+            sideModal.textContent = "The Washington Wizards in the 2022-2023 season displayed a combination of potential and challenges. With Bradley Beal as the focal point, they experienced fluctuating performance in the Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {

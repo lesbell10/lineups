@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = "Sidney Crosby, a Canadian professional ice hockey player, is widely regarded as one of the greatest hockey players of all time. Captain of the Pittsburgh Penguins in the NHL, he's celebrated for his exceptional skill, leadership, and numerous career achievements."
+        sideModal.textContent = "Sidney Crosby, the Pittsburgh Penguins' captain, led his team to two Stanley Cup victories (2016, 2017) during the 2010-2020 decade. His exceptional playmaking and leadership solidified his status as one of the NHL's premier players and earned him numerous accolades."
     })
 
     smallpic.addEventListener("mouseout", () => {

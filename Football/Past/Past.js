@@ -57,7 +57,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = "Lionel Messi, an Argentine football legend, is renowned for his extraordinary dribbling, playmaking, and goal-scoring abilities. He spent the majority of his career at Barcelona, earning numerous Ballon d'Or awards and titles, before joining Paris Saint-Germain in 2021 and Inter Miami in 2023. Messi is widely regarded as one of the greatest footballers of all time."
+        sideModal.textContent = "Lionel Messi's decade from 2010 to 2020 saw him dominate world football with FC Barcelona, winning numerous La Liga and UEFA Champions League titles. He also collected multiple Ballon d'Or awards, solidifying his status as one of the greatest footballers of all time."
     })
 
     smallpic.addEventListener("mouseout", () => {
