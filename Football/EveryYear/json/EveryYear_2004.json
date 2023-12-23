@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "last_name": "Henry",
+    "img": "/hockey/img/players/Henry.jpg",
+    "full_name": "Thierry Henry",
+    "team": "Arsenal",
+    "nationality": "France",
+    "position": "Striker",
+    "description": "Prolific scorer, Arsenal legend, French football icon."
+  },
+  {
+    "id": 2,
+    "last_name": "Ronaldo",
+    "img": "/hockey/img/players/Ronaldo.jpg",
+    "full_name": "Ronaldo",
+    "team": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Striker",
+    "description": "Phenomenon, World Cup winner, deadly striker."
+  },
+  {
+    "id": 3,
+    "last_name": "Ronaldinho",
+    "img": "/hockey/img/players/Ronaldinho.jpg",
+    "full_name": "Ronaldinho",
+    "team": "Barcelona",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "description": "Joga Bonito, magician, football entertainer extraordinaire."
+  },
+  {
+    "id": 4,
+    "last_name": "Nedved",
+    "img": "/hockey/img/players/Nedved.jpg",
+    "full_name": "Pavel Nedvěd",
+    "team": "Juventus",
+    "nationality": "Czech Republic",
+    "position": "Midfielder",
+    "description": "Elegant midfielder, Ballon d'Or winner, Czech football legend."
+  },
+  {
+    "id": 5,
+    "last_name": "Lampard",
+    "img": "/hockey/img/players/Lampard.jpg",
+    "full_name": "Frank Lampard",
+    "team": "Chelsea",
+    "nationality": "England",
+    "position": "Midfielder",
+    "description": "Midfield maestro, Chelsea icon, goal-scoring sensation."
+  },
+  {
+    "id": 6,
+    "last_name": "Pirlo",
+    "img": "/hockey/img/players/Pirlo.jpg",
+    "full_name": "Andrea Pirlo",
+    "team": "AC Milan",
+    "nationality": "Italy",
+    "position": "Midfielder",
+    "description": "Maestro, midfield genius, master of passing and vision."
+  },
+  {
+    "id": 7,
+    "last_name": "Cafu",
+    "img": "/hockey/img/players/Cafu.jpg",
+    "full_name": "Cafu",
+    "team": "AC Milan",
+    "nationality": "Brazil",
+    "position": "Right-Back",
+    "description": "Legendary full-back, World Cup winner, Brazilian hero."
+  },
+  {
+    "id": 8,
+    "last_name": "Terry",
+    "img": "/hockey/img/players/Terry.jpg",
+    "full_name": "John Terry",
+    "team": "Chelsea",
+    "nationality": "England",
+    "position": "Defender",
+    "description": "Captain Leader Legend, Chelsea stalwart, defensive rock."
+  },
+  {
+    "id": 9,
+    "last_name": "Maldini",
+    "img": "/hockey/img/players/Maldini.jpg",
+    "full_name": "Paolo Maldini",
+    "team": "AC Milan",
+    "nationality": "Italy",
+    "position": "Defender",
+    "description": "Defensive maestro, AC Milan icon, Italian football legend."
+  },
+  {
+    "id": 10,
+    "last_name": "Carlos",
+    "img": "/hockey/img/players/Carlos.jpg",
+    "full_name": "Roberto Carlos",
+    "team": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Left-Back",
+    "description": "Free-kick specialist, attacking full-back, Brazilian dynamo."
+  },
+  {
+    "id": 11,
+    "last_name": "Cech",
+    "img": "/hockey/img/players/Cech.jpg",
+    "full_name": "Petr Čech",
+    "team": "Chelsea",
+    "nationality": "Czech Republic",
+    "position": "Goalkeeper",
+    "description": "Goalkeeping legend, safe hands, shot-stopping brilliance."
+  }
+]

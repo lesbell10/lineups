@@ -23,7 +23,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "19") {
+    if (selectedYear == "14") {
 
         PG.textContent = "S Curry";
         SG.textContent = "L James";
@@ -52,7 +52,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "18") {
+    if (selectedYear == "13") {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Durant";
@@ -80,7 +80,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "17") {
+    if (selectedYear == "12") {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Leonard";
@@ -108,7 +108,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "16") {
+    if (selectedYear == "11") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -136,7 +136,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "15") {
+    if (selectedYear == "10") {
 
         PG.textContent = "J Harden";
         SG.textContent = "K Leonard";
@@ -164,7 +164,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "9") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -192,7 +192,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "8") {
 
         PG.textContent = "R WestBrook";
         SG.textContent = "J Harden";
@@ -220,7 +220,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "7") {
 
         PG.textContent = "S Curry";
         SG.textContent = "R Westbrook";
@@ -248,7 +248,7 @@ function updatePlayerInfo() {
         }); 
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "6") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -276,7 +276,7 @@ function updatePlayerInfo() {
         }); 
     }
 
-    if (selectedYear === "10") {
+    if (selectedYear == "5") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -304,7 +304,7 @@ function updatePlayerInfo() {
         }); 
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "4") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -332,7 +332,7 @@ function updatePlayerInfo() {
         }); 
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "3") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -360,7 +360,7 @@ function updatePlayerInfo() {
         }); 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "2") {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -389,7 +389,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "1") {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -418,10 +418,10 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "0") {
 
         PG.textContent = "C Paul";
-        SG.textContent = "S Wade";
+        SG.textContent = "D Wade";
         SF.textContent = "K Bryant";
         PF.textContent = "L James";
         C.textContent = "K Garnett";
@@ -447,145 +447,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
-
-        PG.textContent = "C Paul";
-        SG.textContent = "D Wade";
-        SF.textContent = "K Bryant";
-        PF.textContent = "L James";
-        C.textContent = "D Howard";
-
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-        C2.src = "/basket/img/players/" + C.textContent + ".png";
-
-        smallpic.src = "/basket/img/wallpapers/wade.jpg";
-
-        MainFetchPopUp("./json/EveryYear_2009.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "Dwyane Wade, a retired NBA legend primarily with the Miami Heat, is renowned for his scoring, playmaking, and defensive skills. A three-time NBA champion and Finals MVP, Wade's dynamic style and leadership played a pivotal role in shaping Miami's championship legacy."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        }); 
-    }
-
-    if (selectedYear === "3") {
-
-        PG.textContent = "C Paul";
-        SG.textContent = "K Bryant";
-        SF.textContent = "L James";
-        PF.textContent = "K Garnett";
-        C.textContent = "T Duncan";
-
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-        C2.src = "/basket/img/players/" + C.textContent + ".png";
-
-        smallpic.src = "/basket/img/wallpapers/james 2.jpg";
-
-        MainFetchPopUp("./json/EveryYear_2008.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy.."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        }); 
-    }
-
-    if (selectedYear === "2") {
-
-        PG.textContent = "S Nash";
-        SG.textContent = "K Bryant";
-        SF.textContent = "L James";
-        PF.textContent = "D Nowitzki";
-        C.textContent = "T Duncan";
-
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-        C2.src = "/basket/img/players/" + C.textContent + ".png";
-
-        smallpic.src = "/basket/img/wallpapers/nash.jpg";
-
-        MainFetchPopUp("./json/EveryYear_2007.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "Steve Nash, a retired NBA player, primarily with the Phoenix Suns, is celebrated for his extraordinary playmaking and shooting abilities. A two-time MVP known for his efficient offense and visionary passing, Nash significantly influenced the game's tempo and style of play."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        }); 
-    }
-
-    if (selectedYear === "1") {
-
-        PG.textContent = "S Nash";
-        SG.textContent = "K Bryant";
-        SF.textContent = "L James";
-        PF.textContent = "T Duncan";
-        C.textContent = "D Nowitzki";
-
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-        C2.src = "/basket/img/players/" + C.textContent + ".png";
-
-        smallpic.src = "/basket/img/wallpapers/nowitzki.jpg";
-
-        MainFetchPopUp("./json/EveryYear_2006.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "Dirk Nowitzki, a retired NBA star with the Dallas Mavericks, is renowned for revolutionizing the power forward position with his unique shooting ability. The German-born player, an NBA champion and MVP, is celebrated for his loyalty, leadership, and impact on international basketball."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        }); 
-    }
-
-    if (selectedYear === "0") {
-
-        PG.textContent = "S Nash";
-        SG.textContent = "K Bryant";
-        SF.textContent = "L James";
-        PF.textContent = "S O'Neal";
-        C.textContent = "T Duncan";
-
-        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-        C2.src = "/basket/img/players/" + C.textContent + ".png";
-
-        smallpic.src = "/basket/img/wallpapers/O'Neal.webp";
-
-        MainFetchPopUp("./json/EveryYear_2005.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "Shaquille O'Neal, a retired NBA legend, dominated as a center for teams like the Lakers and Heat. Known for his immense size and strength, Shaq won multiple championships and MVP awards, leaving a lasting legacy as one of the greatest centers ever."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        }); 
-    }
+    
 
     function clearAndFadeInElements() {
         const elements = [
@@ -627,7 +489,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear === 19) {
+    if (selectedYear == 19) {
 
         PG.textContent = "S Curry";
         SG.textContent = "L James";
@@ -656,7 +518,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear === 18) {
+    if (selectedYear == 18) {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Durant";
@@ -684,7 +546,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 17) {
+    if (selectedYear == 17) {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Leonard";
@@ -712,7 +574,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 16) {
+    if (selectedYear == 16) {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -740,7 +602,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 15) {
+    if (selectedYear == 15) {
 
         PG.textContent = "J Harden";
         SG.textContent = "K Leonard";
@@ -768,7 +630,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == 14) {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -796,7 +658,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == 13) {
 
         PG.textContent = "R WestBrook";
         SG.textContent = "J Harden";
@@ -824,7 +686,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == 12) {
 
         PG.textContent = "S Curry";
         SG.textContent = "R Westbrook";
@@ -852,7 +714,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear == 11) {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -880,7 +742,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 10) {
+    if (selectedYear == 10) {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -908,7 +770,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == 9) {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -936,7 +798,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == 8) {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -964,7 +826,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == 7) {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -993,7 +855,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == 6) {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -1022,7 +884,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == 5) {
 
         PG.textContent = "C Paul";
         SG.textContent = "S Wade";
@@ -1051,7 +913,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == 4) {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -1079,7 +941,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == 3) {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -1107,7 +969,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == 2) {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
@@ -1135,7 +997,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == 1) {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
@@ -1163,7 +1025,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === 0) {
+    if (selectedYear == 0) {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";

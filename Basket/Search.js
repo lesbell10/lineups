@@ -14,18 +14,6 @@ function loadJSON(filePath) {
 
 // Load data from both files and merge them
 Promise.all([
-    // loadJSON('/football/everyyear/json/EveryYear_1998.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_1999.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_2000.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_2001.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_2002.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_2003.json'),
-    // loadJSON('/football/everyyear/json/EveryYear_2004.json'),
-    loadJSON('/basket/everyyear/json/EveryYear_2005.json'),
-    loadJSON('/basket/everyyear/json/EveryYear_2006.json'),
-    loadJSON('/basket/everyyear/json/EveryYear_2007.json'),
-    loadJSON('/basket/everyyear/json/EveryYear_2008.json'),
-    loadJSON('/basket/everyyear/json/EveryYear_2009.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2010.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2011.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2012.json'),

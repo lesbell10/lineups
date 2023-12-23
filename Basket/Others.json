@@ -1022,5 +1022,16 @@
     "nationality": "Canada",
     "positions": ["Power Forward", "Center"],
     "description": "Canadian forward-center with shot-blocking and versatility."
-  }
+  },
+  {
+    "id": 106,
+    "last_name": "O'Neal",
+    "img": "/basket/img/players/S O'Neal.png",
+    "full_name": "Shaquille O'Neal",
+    "team": "Retired",
+    "nationality": "American",
+    "positions": ["Center", "Power Forward"],
+    "description": "Legendary NBA center known for his dominance and charisma."
+}
+
 ]
