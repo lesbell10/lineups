@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "last_name": "St Louis",
+    "img": "/hockey/img/players/St%20Louis.jpg",
+    "full_name": "Martin St Louis",
+    "team": "Tampa Bay Lightning",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Former NHL player, Stanley Cup champion."
+  },
+  {
+    "id": 2,
+    "last_name": "Iginla",
+    "img": "/hockey/img/players/Iginla.jpg",
+    "full_name": "Jarome Iginla",
+    "team": "Calgary Flames",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Hockey legend, prolific goal-scorer."
+  },
+  {
+    "id": 3,
+    "last_name": "Thornton",
+    "img": "/hockey/img/players/Thornton.jpg",
+    "full_name": "Joe Thornton",
+    "team": "San Jose Sharks",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Hall of Famer, playmaking center."
+  },
+  {
+    "id": 4,
+    "last_name": "Niedermayer",
+    "img": "/hockey/img/players/Niedermayer.jpg",
+    "full_name": "Scott Niedermayer",
+    "team": "Anaheim Ducks",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Stanley Cup winner, elite defenseman."
+  },
+  {
+    "id": 5,
+    "last_name": "Stevens",
+    "img": "/hockey/img/players/Stevens.jpg",
+    "full_name": "Scott Stevens",
+    "team": "New Jersey Devils",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Hard-hitting captain, Stanley Cup champion."
+  },
+  {
+    "id": 6,
+    "last_name": "Brodeur",
+    "img": "/hockey/img/players/Brodeur.jpg",
+    "full_name": "Martin Brodeur",
+    "team": "New Jersey Devils",
+    "nationality": "Canada",
+    "position": "Goalie",
+    "description": "NHL's all-time wins leader, multiple Cups."
+  }
+]

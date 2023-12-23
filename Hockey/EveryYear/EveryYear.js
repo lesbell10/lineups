@@ -24,7 +24,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear == "14") {
+    if (selectedYear == "20") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "Pastrnak";
@@ -53,7 +53,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "13") {
+    if (selectedYear == "19") {
         FL.textContent = "MacKinnon";
         FC.textContent = "McDavid";
         FR.textContent = "Matthews";
@@ -82,7 +82,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "12") {
+    if (selectedYear == "18") {
         FL.textContent = "Crosby";
         FC.textContent = "McDavid";
         FR.textContent = "MacKinnon";
@@ -111,7 +111,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "11") {
+    if (selectedYear == "17") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "MacKinnon";
@@ -141,7 +141,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "10") {
+    if (selectedYear == "16") {
         FL.textContent = "Ovechkin";
         FC.textContent = "McDavid";
         FR.textContent = "Crosby";
@@ -170,7 +170,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "9") {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Kucherov";
@@ -199,7 +199,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "8") {
+    if (selectedYear == "14") {
         FL.textContent = "Ovechkin";
         FC.textContent = "McDavid";
         FR.textContent = "Crosby";
@@ -229,7 +229,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "7") {
+    if (selectedYear == "13") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -258,7 +258,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "6") {
+    if (selectedYear == "12") {
         FL.textContent = "J Toews";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -287,7 +287,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "5") {
+    if (selectedYear == "11") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -316,7 +316,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "4") {
+    if (selectedYear == "10") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Malkin";
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "3") {
+    if (selectedYear == "9") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -374,7 +374,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "2") {
+    if (selectedYear == "8") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Stamkos";
@@ -403,7 +403,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "1") {
+    if (selectedYear == "7") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -432,7 +432,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "0") {
+    if (selectedYear == "6") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -460,6 +460,182 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
+
+    if (selectedYear == "5") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Malkin";
+        FR.textContent = "Iginla";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Phaneuf";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Jarome Iginla, a former NHL forward, was renowned for his scoring ability, leadership, and physical play. He spent much of his career with the Calgary Flames, amassing numerous awards, including two Rocket Richard Trophies for leading the league in goals. Iginla is a beloved figure in Canadian hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "4") {
+        FL.textContent = "Lecavalier";
+        FC.textContent = "Crosby";
+        FR.textContent = "Thornton";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joe Thornton, often called \"Jumbo Joe,\" is a legendary NHL center known for his exceptional playmaking skills and career longevity. Over the years, he has played for the Boston Bruins, San Jose Sharks, and Toronto Maple Leafs. Thornton's impressive career includes multiple All-Star selections and ranking among the league's top point-scorers."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "3") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Thornton";
+        FR.textContent = "Jagr";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+
+        MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Jaromir Jagr, one of the greatest hockey players in history, boasts an illustrious career spanning over two decades. Known for his incredible scoring ability, Jagr played for various NHL teams, including the Pittsburgh Penguins, Washington Capitals, and New York Rangers. He accumulated numerous awards and accolades, solidifying his status as a hockey legend."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "2") {
+        FL.textContent = "Iginla";
+        FC.textContent = "Sakic";
+        FR.textContent = "P Forsberg";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Lidstrom";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Scott Niedermayer, a former NHL defenseman, had a remarkable career with the New Jersey Devils and Anaheim Ducks. His outstanding skating, offensive skills, and leadership led to multiple Stanley Cup wins and numerous individual awards, making him one of the most respected defensemen in hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "1") {
+        FL.textContent = "Naslund";
+        FC.textContent = "Sakic";
+        FR.textContent = "Iginla";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joe Sakic, known as \"Super Joe,\" is a retired NHL center who spent his entire career with the Colorado Avalanche/Quebec Nordiques franchise. He was a prolific scorer, won two Stanley Cups, and earned numerous awards, including the Hart Trophy. Sakic is widely regarded as one of the greatest players in hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "0") {
+
+        FL.textContent = "St Louis";
+        FC.textContent = "Iginla";
+        FR.textContent = "Thornton";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Stevens";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/st louis.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2004.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Martin St. Louis, a former NHL star, is renowned for his remarkable agility and scoring prowess. Despite his undrafted status, he rose to fame with the Tampa Bay Lightning, leading them to a Stanley Cup victory in 2004. Notably undersized, his determination and skill made him an iconic figure in hockey."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
 
     function clearAndFadeInElements() {
         const elements = [
@@ -500,7 +676,7 @@ const forwardButton = document.getElementById('forwardButton');
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear == "14") {
+    if (selectedYear == "20") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "Pastrnak";
@@ -529,7 +705,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "13") {
+    if (selectedYear == "19") {
         FL.textContent = "MacKinnon";
         FC.textContent = "McDavid";
         FR.textContent = "Matthews";
@@ -558,7 +734,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "12") {
+    if (selectedYear == "18") {
         FL.textContent = "Crosby";
         FC.textContent = "McDavid";
         FR.textContent = "MacKinnon";
@@ -587,7 +763,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "11") {
+    if (selectedYear == "17") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "MacKinnon";
@@ -617,7 +793,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "10") {
+    if (selectedYear == "16") {
         FL.textContent = "Ovechkin";
         FC.textContent = "McDavid";
         FR.textContent = "Crosby";
@@ -646,7 +822,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "9") {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Kucherov";
@@ -675,7 +851,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "8") {
+    if (selectedYear == "14") {
         FL.textContent = "Ovechkin";
         FC.textContent = "McDavid";
         FR.textContent = "Crosby";
@@ -705,7 +881,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "7") {
+    if (selectedYear == "13") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -734,7 +910,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "6") {
+    if (selectedYear == "12") {
         FL.textContent = "J Toews";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -763,7 +939,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "5") {
+    if (selectedYear == "11") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "P Kane";
@@ -792,7 +968,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "4") {
+    if (selectedYear == "10") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Malkin";
@@ -821,7 +997,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "3") {
+    if (selectedYear == "9") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -850,7 +1026,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "2") {
+    if (selectedYear == "8") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Stamkos";
@@ -879,7 +1055,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "1") {
+    if (selectedYear == "7") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -908,7 +1084,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "0") {
+    if (selectedYear == "6") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Crosby";
         FR.textContent = "Datsyuk";
@@ -930,6 +1106,181 @@ const updateDropdown = () => {
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
             sideModal.textContent = "Pavel Datsyuk, a highly skilled Russian forward, played for the Detroit Red Wings in the NHL. Known for his incredible stickhandling and two-way play, he won multiple Stanley Cups and received several awards during his illustrious career. Datsyuk's \"Magic Man\" nickname reflects his dazzling skills on the ice."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "5") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Malkin";
+        FR.textContent = "Iginla";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Phaneuf";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/iginla.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Jarome Iginla, a former NHL forward, was renowned for his scoring ability, leadership, and physical play. He spent much of his career with the Calgary Flames, amassing numerous awards, including two Rocket Richard Trophies for leading the league in goals. Iginla is a beloved figure in Canadian hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "4") {
+        FL.textContent = "Lecavalier";
+        FC.textContent = "Crosby";
+        FR.textContent = "Thornton";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Luongo";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/thornton.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joe Thornton, often called \"Jumbo Joe,\" is a legendary NHL center known for his exceptional playmaking skills and career longevity. Over the years, he has played for the Boston Bruins, San Jose Sharks, and Toronto Maple Leafs. Thornton's impressive career includes multiple All-Star selections and ranking among the league's top point-scorers."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "3") {
+        FL.textContent = "Ovechkin";
+        FC.textContent = "Thornton";
+        FR.textContent = "Jagr";
+        DL.textContent = "Lidstrom";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/jagr.webp";
+
+        MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Jaromir Jagr, one of the greatest hockey players in history, boasts an illustrious career spanning over two decades. Known for his incredible scoring ability, Jagr played for various NHL teams, including the Pittsburgh Penguins, Washington Capitals, and New York Rangers. He accumulated numerous awards and accolades, solidifying his status as a hockey legend."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "2") {
+        FL.textContent = "Iginla";
+        FC.textContent = "Sakic";
+        FR.textContent = "P Forsberg";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Lidstrom";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/niedermayer.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Scott Niedermayer, a former NHL defenseman, had a remarkable career with the New Jersey Devils and Anaheim Ducks. His outstanding skating, offensive skills, and leadership led to multiple Stanley Cup wins and numerous individual awards, making him one of the most respected defensemen in hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "1") {
+        FL.textContent = "Naslund";
+        FC.textContent = "Sakic";
+        FR.textContent = "Iginla";
+        DL.textContent = "S Niedermayer";
+        DR.textContent = "Pronger";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/wallpapers/sakic.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Joe Sakic, known as \"Super Joe,\" is a retired NHL center who spent his entire career with the Colorado Avalanche/Quebec Nordiques franchise. He was a prolific scorer, won two Stanley Cups, and earned numerous awards, including the Hart Trophy. Sakic is widely regarded as one of the greatest players in hockey history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "0") {
+
+        FL.textContent = "St Louis";
+        FC.textContent = "Iginla";
+        FR.textContent = "Thornton";
+        DL.textContent = "Niedermayer";
+        DR.textContent = "Stevens";
+        G.textContent = "Brodeur";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "https://www.wallpaperup.com/uploads/wallpapers/2013/08/06/128721/b1dcbf6fc20164096a8ec65ed5c24b74.jpg";
+
+        MainFetchPopUp("./json/EveryYear_2004.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
         })
 
         smallpic.addEventListener("mouseout", () => {

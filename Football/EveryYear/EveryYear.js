@@ -35,7 +35,256 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
+
+
     if (selectedYear == "0") {
+        STC.textContent = "Henry";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Lampard";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Terry";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Cech";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+
+        smallpic.src = "/football/img/wallpapers/pirlo.png";
+
+        // // FIFAFetchPopUp("./json/EveryYear_2005.json");
+        MainFetchPopUp("./json/EveryYear_2004.json");
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Andrea Pirlo is an Italian football legend known for his exceptional vision and passing ability. As a midfielder, he orchestrated play with precision, leading teams like AC Milan and Juventus to success. Pirlo's calmness on the ball and ability to create opportunities made him one of the best midfielders of his generation."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "1") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "Totti";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Gerrard";
+        CML.textContent = "Vieira";
+        DR.textContent = "Thuram";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Lucio";
+        DL.textContent = "Maldini";
+        GK.textContent = "Buffon";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+
+        smallpic.src = "/football/img/wallpapers/Gerrard.jpg";
+
+        // // FIFAFetchPopUp("./json/EveryYear_2005.json");
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Steven Gerrard is a legendary English footballer known for his loyalty to Liverpool FC. A dynamic midfielder, he captained the team and led with passion, creating iconic moments and achieving numerous honors during his illustrious career. His commitment and skill earned him a place among football's greats."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "2") {
+        STC.textContent = "Ronaldo";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Zidane";
+        CML.textContent = "Essien";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Ferdinand";
+        DCL.textContent = "Maldini";
+        DL.textContent = "A Cole";
+        GK.textContent = "Casillas";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2006.json");
+        MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Ronaldo, a Brazilian football legend, was a prolific striker with exceptional speed, dribbling, and goal-scoring prowess. He won two FIFA World Cups and achieved success with top clubs like Barcelona, Inter Milan, and Real Madrid, leaving an indelible mark on the sport."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "3") {
+        STC.textContent = "Henry";
+        FR.textContent = "Totti";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Lampard";
+        CML.textContent = "Gerrard";
+        DR.textContent = "Zambrotta";
+        DCR.textContent = "Terry";
+        DCL.textContent = "F Cannavaro";
+        DL.textContent = "Abidal";
+        GK.textContent = "Buffon";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/henry.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2007.json");
+        MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Thierry Henry, a French football icon, was a lethal forward celebrated for his speed, technique, and goal-scoring ability. He excelled with Arsenal, Barcelona, and the French national team, earning accolades as one of the greatest strikers in the sport's history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "4") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Fabregas";
+        CML.textContent = "Gerrard";
+        DR.textContent = "S Ramos";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Terry";
+        DL.textContent = "Zanetti";
+        GK.textContent = "Buffon";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2008.json");
+        MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Ronaldinho, a Brazilian football wizard, was known for his extraordinary dribbling, creativity, and infectious smile. He won the FIFA World Cup, Ballon d'Or, and numerous titles with Barcelona and AC Milan, captivating fans with his joyful and skillful style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "5") {
+
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "Messi";
+        AMC.textContent = "Kaka";
+        FL.textContent = "C Ronaldo";
+        CMR.textContent = "Xavi";
+        CML.textContent = "Gerrard";
+        DR.textContent = "D Alves";
+        DCR.textContent = "Puyol";
+        DCL.textContent = "Nesta";
+        DL.textContent = "Lahm";
+        GK.textContent = "Casillas";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Xavi.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2009.json");
+        MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Xavi Hernandez, a Spanish football maestro, was a midfield genius celebrated for his precise passing, vision, and tactical intelligence. He achieved immense success with Barcelona and the Spanish national team, epitomizing the essence of tiki-taka football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the l
+        });
+    }
+
+
+    if (selectedYear == "6") {
         STC.textContent = "F Torres";
         FR.textContent = "Messi";
         AMC.textContent = "Kaka";
@@ -76,7 +325,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "1") {
+    if (selectedYear == "7") {
         
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -118,7 +367,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "2") {
+    if (selectedYear == "8") {
         
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -159,7 +408,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "3") {
+    if (selectedYear == "9") {
 
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -201,7 +450,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear == "4") {
+    if (selectedYear == "10") {
         
         STC.textContent = "Ibrahimovic";
         FR.textContent = "C Ronaldo";
@@ -245,7 +494,7 @@ function updatePlayerInfo() {
     }
 
     
-    if (selectedYear == "5") {
+    if (selectedYear == "11") {
         
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Robben";
@@ -286,7 +535,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear == "6") {
+    if (selectedYear == "12") {
         STC.textContent = "Suarez";
         FR.textContent = "Robben";
         AMC.textContent = "Messi";
@@ -327,7 +576,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear == "7") {
+    if (selectedYear == "13") {
         
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
@@ -369,7 +618,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "8") {
+    if (selectedYear == "14") {
         
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -410,7 +659,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear == "9") {
+    if (selectedYear == "15") {
         
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -451,7 +700,7 @@ function updatePlayerInfo() {
         });
     }
     
-    if (selectedYear == "10") {
+    if (selectedYear == "16") {
         
         STC.textContent = "C Ronaldo";
         FR.textContent = "Messi";
@@ -492,7 +741,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "11")
+    if (selectedYear == "17")
     {
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
@@ -533,7 +782,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "12") { 
+    if (selectedYear === "18") { 
         STC.textContent = "Lewandowski";
         FR.textContent = "Salah";
         AMC.textContent = "Messi";
@@ -574,7 +823,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "13") { 
+    if (selectedYear == "19") { 
         
         STC.textContent = "Lewandowski";
         FR.textContent = "Messi";
@@ -615,7 +864,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "14") {
+    if (selectedYear == "20") {
 
         STC.textContent = "Haaland";
         FR.textContent = "Salah";
@@ -706,6 +955,254 @@ updatePlayerInfo();
 const updateDropdown = () => {
 
     if (selectedYear == "0") {
+        STC.textContent = "Henry";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Ronaldinho";
+        FL.textContent = "Nedved";
+        CMR.textContent = "Lampard";
+        CML.textContent = "Pirlo";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Terry";
+        DCL.textContent = "Maldini";
+        DL.textContent = "R Carlos";
+        GK.textContent = "Cech";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+
+        smallpic.src = "/football/img/wallpapers/pirlo.png";
+
+        // // FIFAFetchPopUp("./json/EveryYear_2005.json");
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Andrea Pirlo is an Italian football legend known for his exceptional vision and passing ability. As a midfielder, he orchestrated play with precision, leading teams like AC Milan and Juventus to success. Pirlo's calmness on the ball and ability to create opportunities made him one of the best midfielders of his generation."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "1") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "Totti";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Gerrard";
+        CML.textContent = "Vieira";
+        DR.textContent = "Thuram";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Lucio";
+        DL.textContent = "Maldini";
+        GK.textContent = "Buffon";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+
+        smallpic.src = "/football/img/wallpapers/Gerrard.jpg";
+
+        // // FIFAFetchPopUp("./json/EveryYear_2005.json");
+        MainFetchPopUp("./json/EveryYear_2005.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Steven Gerrard is a legendary English footballer known for his loyalty to Liverpool FC. A dynamic midfielder, he captained the team and led with passion, creating iconic moments and achieving numerous honors during his illustrious career. His commitment and skill earned him a place among football's greats."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "2") {
+        STC.textContent = "Ronaldo";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Zidane";
+        CML.textContent = "Essien";
+        DR.textContent = "Cafu";
+        DCR.textContent = "Ferdinand";
+        DCL.textContent = "Maldini";
+        DL.textContent = "A Cole";
+        GK.textContent = "Casillas";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2006.json");
+        MainFetchPopUp("./json/EveryYear_2006.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Ronaldo, a Brazilian football legend, was a prolific striker with exceptional speed, dribbling, and goal-scoring prowess. He won two FIFA World Cups and achieved success with top clubs like Barcelona, Inter Milan, and Real Madrid, leaving an indelible mark on the sport."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "3") {
+        STC.textContent = "Henry";
+        FR.textContent = "Totti";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Lampard";
+        CML.textContent = "Gerrard";
+        DR.textContent = "Zambrotta";
+        DCR.textContent = "Terry";
+        DCL.textContent = "F Cannavaro";
+        DL.textContent = "Abidal";
+        GK.textContent = "Buffon";
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/henry.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2007.json");
+        MainFetchPopUp("./json/EveryYear_2007.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Thierry Henry, a French football icon, was a lethal forward celebrated for his speed, technique, and goal-scoring ability. He excelled with Arsenal, Barcelona, and the French national team, earning accolades as one of the greatest strikers in the sport's history."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "4") {
+
+        STC.textContent = "Henry";
+        FR.textContent = "C Ronaldo";
+        AMC.textContent = "Rooney";
+        FL.textContent = "Ronaldinho";
+        CMR.textContent = "Fabregas";
+        CML.textContent = "Gerrard";
+        DR.textContent = "S Ramos";
+        DCR.textContent = "Nesta";
+        DCL.textContent = "Terry";
+        DL.textContent = "Zanetti";
+        GK.textContent = "Buffon";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2008.json");
+        MainFetchPopUp("./json/EveryYear_2008.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Ronaldinho, a Brazilian football wizard, was known for his extraordinary dribbling, creativity, and infectious smile. He won the FIFA World Cup, Ballon d'Or, and numerous titles with Barcelona and AC Milan, captivating fans with his joyful and skillful style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "5") {
+
+        STC.textContent = "Ibrahimovic";
+        FR.textContent = "Messi";
+        AMC.textContent = "Kaka";
+        FL.textContent = "C Ronaldo";
+        CMR.textContent = "Xavi";
+        CML.textContent = "Gerrard";
+        DR.textContent = "D Alves";
+        DCR.textContent = "Puyol";
+        DCL.textContent = "Nesta";
+        DL.textContent = "Lahm";
+        GK.textContent = "Casillas";
+
+
+        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+
+        smallpic.src = "/football/img/wallpapers/Xavi.jpg";
+
+        // FIFAFetchPopUp("./json/EveryYear_2009.json");
+        MainFetchPopUp("./json/EveryYear_2009.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Xavi Hernandez, a Spanish football maestro, was a midfield genius celebrated for his precise passing, vision, and tactical intelligence. He achieved immense success with Barcelona and the Spanish national team, epitomizing the essence of tiki-taka football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the l
+        });
+    }
+
+
+    if (selectedYear == "6") {
         STC.textContent = "F Torres";
         FR.textContent = "Messi";
         AMC.textContent = "Kaka";
@@ -746,7 +1243,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "1") {
+    if (selectedYear == "7") {
 
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -788,7 +1285,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "2") {
+    if (selectedYear == "8") {
 
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -829,7 +1326,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "3") {
+    if (selectedYear == "9") {
 
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
@@ -871,7 +1368,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "4") {
+    if (selectedYear == "10") {
 
         STC.textContent = "Ibrahimovic";
         FR.textContent = "C Ronaldo";
@@ -915,7 +1412,7 @@ const updateDropdown = () => {
     }
 
 
-    if (selectedYear == "5") {
+    if (selectedYear == "11") {
 
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Robben";
@@ -956,7 +1453,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "6") {
+    if (selectedYear == "12") {
         STC.textContent = "Suarez";
         FR.textContent = "Robben";
         AMC.textContent = "Messi";
@@ -997,7 +1494,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "7") {
+    if (selectedYear == "13") {
 
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
@@ -1039,7 +1536,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "8") {
+    if (selectedYear == "14") {
 
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -1080,7 +1577,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "9") {
+    if (selectedYear == "15") {
 
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
@@ -1121,7 +1618,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "10") {
+    if (selectedYear == "16") {
 
         STC.textContent = "C Ronaldo";
         FR.textContent = "Messi";
@@ -1162,7 +1659,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "11") {
+    if (selectedYear == "17") {
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -1202,7 +1699,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear === "18") {
         STC.textContent = "Lewandowski";
         FR.textContent = "Salah";
         AMC.textContent = "Messi";
@@ -1243,7 +1740,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "13") {
+    if (selectedYear == "19") {
 
         STC.textContent = "Lewandowski";
         FR.textContent = "Messi";
@@ -1284,7 +1781,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == "14") {
+    if (selectedYear == "20") {
 
         STC.textContent = "Haaland";
         FR.textContent = "Salah";

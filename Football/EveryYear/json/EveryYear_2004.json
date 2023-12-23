@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Henry",
-    "img": "/hockey/img/players/Henry.jpg",
+    "img": "/football/img/players/Henry.webp",
     "full_name": "Thierry Henry",
     "team": "Arsenal",
     "nationality": "France",
@@ -11,59 +11,59 @@
   },
   {
     "id": 2,
-    "last_name": "Ronaldo",
-    "img": "/hockey/img/players/Ronaldo.jpg",
-    "full_name": "Ronaldo",
-    "team": "Real Madrid",
-    "nationality": "Brazil",
-    "position": "Striker",
-    "description": "Phenomenon, World Cup winner, deadly striker."
+    "last_name": "C Ronaldo",
+    "img": "/football/img/players/C Ronaldo.webp",
+    "full_name": "Cristiano Ronaldo",
+    "team": "Manchester United",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "description": "Goal-scoring machine, multiple Ballon d'Or winner, Portuguese sensation."
   },
   {
     "id": 3,
-    "last_name": "Ronaldinho",
-    "img": "/hockey/img/players/Ronaldinho.jpg",
-    "full_name": "Ronaldinho",
-    "team": "Barcelona",
-    "nationality": "Brazil",
-    "position": "Attacking Midfielder",
-    "description": "Joga Bonito, magician, football entertainer extraordinaire."
+    "last_name": "Zidane",
+    "img": "/football/img/players/Zidane.webp",
+    "full_name": "Zinedine Zidane",
+    "team": "Real Madrid",
+    "nationality": "France",
+    "position": "Midfielder",
+    "description": "Playmaker extraordinaire, elegance personified, World Cup hero."
   },
   {
     "id": 4,
-    "last_name": "Nedved",
-    "img": "/hockey/img/players/Nedved.jpg",
-    "full_name": "Pavel Nedvěd",
-    "team": "Juventus",
-    "nationality": "Czech Republic",
-    "position": "Midfielder",
-    "description": "Elegant midfielder, Ballon d'Or winner, Czech football legend."
+    "last_name": "Ronaldinho",
+    "img": "/football/img/players/Ronaldinho.webp",
+    "full_name": "Ronaldinho de Assis",
+    "team": "Barcelona",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "description": "Samba flair, magician with the ball, football entertainer."
   },
   {
     "id": 5,
     "last_name": "Lampard",
-    "img": "/hockey/img/players/Lampard.jpg",
+    "img": "/football/img/players/Lampard.webp",
     "full_name": "Frank Lampard",
     "team": "Chelsea",
     "nationality": "England",
     "position": "Midfielder",
-    "description": "Midfield maestro, Chelsea icon, goal-scoring sensation."
+    "description": "Midfield maestro, Chelsea legend, prolific goal scorer."
   },
   {
     "id": 6,
     "last_name": "Pirlo",
-    "img": "/hockey/img/players/Pirlo.jpg",
+    "img": "/football/img/players/Pirlo.webp",
     "full_name": "Andrea Pirlo",
     "team": "AC Milan",
     "nationality": "Italy",
     "position": "Midfielder",
-    "description": "Maestro, midfield genius, master of passing and vision."
+    "description": "Master of passing, midfield genius, Italian maestro."
   },
   {
     "id": 7,
     "last_name": "Cafu",
-    "img": "/hockey/img/players/Cafu.jpg",
-    "full_name": "Cafu",
+    "img": "/football/img/players/Cafu.webp",
+    "full_name": "Marcos Cafu",
     "team": "AC Milan",
     "nationality": "Brazil",
     "position": "Right-Back",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "last_name": "Terry",
-    "img": "/hockey/img/players/Terry.jpg",
+    "img": "/football/img/players/Terry.webp",
     "full_name": "John Terry",
     "team": "Chelsea",
     "nationality": "England",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "last_name": "Maldini",
-    "img": "/hockey/img/players/Maldini.jpg",
+    "img": "/football/img/players/Maldini.webp",
     "full_name": "Paolo Maldini",
     "team": "AC Milan",
     "nationality": "Italy",
@@ -91,8 +91,8 @@
   },
   {
     "id": 10,
-    "last_name": "Carlos",
-    "img": "/hockey/img/players/Carlos.jpg",
+    "last_name": "R Carlos",
+    "img": "/football/img/players/R%20Carlos.webp",
     "full_name": "Roberto Carlos",
     "team": "Real Madrid",
     "nationality": "Brazil",
@@ -102,8 +102,8 @@
   {
     "id": 11,
     "last_name": "Cech",
-    "img": "/hockey/img/players/Cech.jpg",
-    "full_name": "Petr Čech",
+    "img": "/football/img/players/Cech.webp",
+    "full_name": "Petr Cech",
     "team": "Chelsea",
     "nationality": "Czech Republic",
     "position": "Goalkeeper",

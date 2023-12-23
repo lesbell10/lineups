@@ -19,7 +19,7 @@ nav {
     display: flex;
     align-items: center;
     min-height: 70px;
-    width: 101%;
+    width: 100%;
     background: grey;
     border-bottom: 2px solid white;
 }
