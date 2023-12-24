@@ -226,18 +226,18 @@ nav.home {
     }
 
     
-.player-wrapper {
+.player-wrapper, .bubble{
     display: flex;
     flex-direction: column;
 }
 
-.player {
+.player, .player-info {
     transform: scale(.8);
     border: 1px solid black;
     padding: 20px;
     border-radius: 20px;
-    margin-top: -40px;
     margin-left: -30px;
+    margin-top: -50px;
     color: black;
     font-weight: bold;
     font-size: 24px;
@@ -248,32 +248,7 @@ nav.home {
     box-shadow: -5px 5px 10px black;
 }
 
-.bubble {
-    display: flex;
-    flex-direction: column;
-}
-
-.player-info {
-    border: 2px solid black;
-    padding: 20px;
-    border-radius: 20px;
-    margin: 15px;
-    color: black;
-    font-weight: bold;
-    font-size: 24px;
-    background-color: transparent;
-    height: 580px;
-    max-width: 280px;
-    box-shadow: -5px 5px 10px black;
-    border-color: grey;
-}
-
-.player-info img {
-    height: 194px;
-    width: 144px;
-}
-
-.player img {
+.player-info img, .player img {
     height: 194px;
     width: 144px;
 }
@@ -576,7 +551,8 @@ img, p {
 }
 
 #count {
-    margin:30px;
+    margin: 10px 30px;
+    margin-top: -25px;
 }
 
 #results h1 {
@@ -590,12 +566,20 @@ img, p {
     color: black;
 }
 
-h6 {
+.player-wrapper h6 {
     font-size: 24px;
     margin-left: 15px;
     margin-bottom: -10px;
     color: black;
 }
+
+.bubble h6 {
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top:80px;
+    color: black;
+}
+
 
 input::placeholder {
     color: black;
