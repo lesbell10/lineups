@@ -85,10 +85,10 @@
       "birth_date": "11-01-1992",
 
       "nationality": "Spain",
-      "position": "Right-Back",
+      "position": "Right Back",
       "height": "5'8\"",
       "team": "Real Madrid",
-        "description": "Spanish right-back, solid defender, Real Madrid mainstay"
+        "description": "Spanish right back, solid defender, Real Madrid mainstay"
     },
     {
       "id": 8,
@@ -98,7 +98,7 @@
       "birth_date": "30-03-1986",
 
       "nationality": "Spain",
-      "position": "Centre-Back",
+      "position": "Centre Back",
       "height": "6'0\"",
       "team": "Sevilla",
         "description": "Spanish defender, aggressive play, multiple titles with Madrid"
@@ -111,10 +111,10 @@
       "birth_date": "16-02-1986",
 
       "nationality": "Uruguay",
-      "position": "Centre-Back",
+      "position": "Centre Back",
       "height": "6'2\"",
       "team": "Atletico Madrid",
-      "description": "Uruguayan centre-back, strong leader, defensive stalwart"
+      "description": "Uruguayan centre back, strong leader, defensive stalwart"
     },
     {
       "id": 10,
@@ -124,10 +124,10 @@
       "birth_date": "12-05-1988",
 
       "nationality": "Brazil",
-      "position": "Left-Back",
+      "position": "Left Back",
       "height": "5'8\"",
       "team": "Fluminense",
-        "description": "Brazilian left-back, attacking flair, long tenure at Madrid"
+        "description": "Brazilian left back, attacking flair, long tenure at Madrid"
     },
     {
       "id": 11,

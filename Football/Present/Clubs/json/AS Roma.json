@@ -32,7 +32,7 @@
     "full_name": "Paulo Dybala",
     "birth_date": "15-11-1993",
 
-    "position": "Attacking Midfielder",
+    "position": "Forward",
     "team": "AS Roma",
     "nationality": "Argentina",
     "height": "5'10\"",
@@ -88,7 +88,7 @@
     "team": "AS Roma",
     "nationality": "Netherlands",
     "height": "5'11\"",
-    "description": "Dutch right-back with pace and defensive skills."
+    "description": "Dutch right back with pace and defensive skills."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Chris Smalling",
     "birth_date": "22-11-1989",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "AS Roma",
     "nationality": "England",
     "height": "6'4\"",
@@ -110,7 +110,7 @@
     "full_name": "Gianmaria Mancini",
     "birth_date": "17-04-1996",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "AS Roma",
     "nationality": "Italy",
     "height": "6'2\"",
@@ -127,7 +127,7 @@
     "team": "AS Roma",
     "nationality": "Italy",
     "height": "6'0\"",
-    "description": "Italian left-back with attacking instincts."
+    "description": "Italian left back with attacking instincts."
   },
   {
     "id": 11,

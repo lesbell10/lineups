@@ -71,7 +71,7 @@
   "full_name": "Mousa Dembele",
   "birth_date": "16-07-1987",
 
-  "position": "Dfensive Midfielder",
+  "position": "Central Midfielder",
   "team": "Retired",
   "nationality": "Belgium",
   "height": "6'1\"",
@@ -88,7 +88,7 @@
   "team": "Manchester City",
   "nationality": "England",
   "height": "6'0\"",
-  "description": "Pacey right-back with defensive and attacking skills."
+  "description": "Pacey right back with defensive and attacking skills."
 },
 {
   "id": 8,
@@ -110,11 +110,11 @@
   "full_name": "Jan Vertonghen",
   "birth_date": "24-04-1987",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Anderlecht",
   "nationality": "Belgium",
   "height": "6'2\"",
-  "description": "Experienced center-back with leadership qualities."
+  "description": "Experienced centre back with leadership qualities."
 },
 {
   "id": 10,
@@ -127,7 +127,7 @@
   "team": "Watford",
   "nationality": "England",
   "height": "5'8\"",
-  "description": "Attacking left-back known for his pace."
+  "description": "Attacking left back known for his pace."
 },
 {
   "id": 11,

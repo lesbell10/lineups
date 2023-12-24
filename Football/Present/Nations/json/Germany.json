@@ -97,7 +97,7 @@
         "full_name": "Antonio Rudiger",
         "birth_date": "03-03-1993",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Real Madrid",
         "nationality": "Germany",
         "height": "6'3\"",
@@ -110,11 +110,11 @@
         "full_name": "Niklas Sule",
         "birth_date": "03-09-1995",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
         "height": "6'4\"",
-        "description": "Tall and commanding center-back."
+        "description": "Tall and commanding centre back."
     },
     {
         "id": 10,
@@ -123,11 +123,11 @@
         "full_name": "Robin Gosens",
         "birth_date": "05-07-1994",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Union Berlin",
         "nationality": "Germany",
         "height": "6'1\"",
-        "description": "Attacking left-back with an eye for goal."
+        "description": "Attacking left back with an eye for goal."
     },
     {
         "id": 11,

@@ -88,7 +88,7 @@
   "team": "Retired",
   "nationality": "Italy",
   "height": "6'0\"",
-  "description": "Versatile right-back with attacking capabilities."
+  "description": "Versatile right back with attacking capabilities."
 },
 {
   "id": 8,
@@ -97,7 +97,7 @@
   "full_name": "Kalidou Koulibaly",
   "birth_date": "20-06-1991",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Al-Hilal",
   "nationality": "Senegal",
   "height": "6'2\"",
@@ -127,7 +127,7 @@
   "team": "Hatayspor",
   "nationality": "Algeria",
   "height": "6'2\"",
-  "description": "Attacking left-back with defensive skills."
+  "description": "Attacking left back with defensive skills."
 },
 {
   "id": 11,

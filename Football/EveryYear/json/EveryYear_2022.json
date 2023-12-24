@@ -98,7 +98,7 @@
         "birth_date": "08-07-1991",
 
         "nationality": "Netherlands",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'4\"",
         "img": "/football/img/players/Van Dijk.webp",
         "team": "Liverpool",
@@ -111,11 +111,11 @@
         "birth_date": "14-05-1997",
 
         "nationality": "Portugal",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'1\"",
         "img": "/football/img/players/R Dias.webp",
-        "team": "Man City",
-        "description": "Solid Portuguese centre-back, Manchester City's defensive rock."
+        "team": "Manchester City",
+        "description": "Solid Portuguese centre back, Manchester City's defensive rock."
     },
     {
         "id": 10,
@@ -124,11 +124,11 @@
         "birth_date": "27-05-1994",
 
         "nationality": "Portugal",
-        "position": "Right-Back",
+        "position": "Right Back",
         "height": "5'11\"",
         "img": "/football/img/players/Cancelo.webp",
-        "team": "Barcelona",
-        "description": "Portuguese full-back, Barcelona's dynamic, versatile defender"
+        "team": "Wolves",
+        "description": "Portuguese right back, Wolves's dynamic, versatile defender"
     },
     {
         "id": 11,

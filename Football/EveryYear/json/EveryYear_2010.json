@@ -97,11 +97,11 @@
         "full_name": "Carles Puyol",
         "birth_date": "13-04-1978",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Spain",
         "height": "5'10\"",
-        "description": "Retired Spanish centre-back, World Cup, Champions League winner."
+        "description": "Retired Spanish centre back, World Cup, Champions League winner."
     },
     {
         "id": 9,
@@ -110,11 +110,11 @@
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
         "height": "6'2\"",
-        "description": "Retired English centre-back, Premier League, Champions League titles."
+        "description": "Retired English centre back, Premier League, Champions League titles."
     },
     {
         "id": 10,
@@ -123,11 +123,11 @@
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "Retired English left-back, Premier League, Champions League winner."
+        "description": "Retired English left back, Premier League, Champions League winner."
     },
     {
         "id": 11,

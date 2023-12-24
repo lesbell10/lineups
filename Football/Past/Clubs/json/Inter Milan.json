@@ -88,7 +88,7 @@
   "team": "Retired",
   "nationality": "Brazil",
   "height": "6'2\"",
-  "description": "Powerful right-back with attacking capabilities."
+  "description": "Powerful right back with attacking capabilities."
 },
 {
   "id": 8,
@@ -97,7 +97,7 @@
   "full_name": "Milan Skriniar",
   "birth_date": "11-02-1995",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "PSG",
   "nationality": "Slovakia",
   "height": "6'2\"",
@@ -110,7 +110,7 @@
   "full_name": "Stefan de Vrij",
   "birth_date": "05-02-1992",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Inter Milan",
   "nationality": "Netherlands",
   "height": "6'3\"",
@@ -123,7 +123,7 @@
   "full_name": "Cristian Chivu",
   "birth_date": "26-10-1980",
 
-  "position": "Retired",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Romania",
   "height": "6'1\"",

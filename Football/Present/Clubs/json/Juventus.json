@@ -84,11 +84,11 @@
     "full_name": "Danilo Luiz",
     "birth_date": "15-07-1991",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Juventus",
     "nationality": "Brazil",
     "height": "6'0\"",
-    "description": "Versatile right-back with solid defensive skills."
+    "description": "Versatile right back with solid defensive skills."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Gleison Bremer",
     "birth_date": "18-02-1997",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Juventus",
     "nationality": "Brazil",
     "height": "6'3\"",
-    "description": "Talented center-back with good aerial ability."
+    "description": "Talented centre back with good aerial ability."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Leonardo Gatti",
     "birth_date": "24-09-1996",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Juventus",
     "nationality": "Italy",
     "height": "6'2\"",
@@ -123,11 +123,11 @@
     "full_name": "Alex Sandro",
     "birth_date": "26-01-1991",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Juventus",
     "nationality": "Brazil",
     "height": "5'11\"",
-    "description": "Solid left-back with attacking qualities."
+    "description": "Solid left back with attacking qualities."
   },
   {
     "id": 11,

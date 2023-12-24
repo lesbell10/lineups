@@ -97,11 +97,11 @@
   "full_name": "Sergio Ramos",
   "birth_date": "30-03-1986",
 
-  "position": "Centre-Back",
+  "position": "Centre Back",
   "team": "Sevilla",
   "nationality": "Spain",
   "height": "6'0\"",
-  "description": "Spanish center-back, aggressive, leader, aerial threat, defensive stalwart"
+  "description": "Spanish centre back, aggressive, leader, aerial threat, defensive stalwart"
 },
 {
   "id": 9,
@@ -110,7 +110,7 @@
   "full_name": "Jerome Boateng",
   "birth_date": "03-09-1988",
 
-  "position": "Centre-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Germany",
   "height": "6'3\"",
@@ -123,11 +123,11 @@
   "full_name": "Marcelo Vieira",
   "birth_date": "12-05-1988",
 
-  "position": "Left-Back",
+  "position": "Left Back",
   "team": "Fluminense",
   "nationality": "Brazil",
   "height": "5'8\"",
-  "description": "Skillful Brazilian left-back, offensive threat, technical, energetic"
+  "description": "Skillful Brazilian left back, offensive threat, technical, energetic"
 },
 {
   "id": 11,

@@ -88,7 +88,7 @@
     "team": "Tottenham",
     "nationality": "Spain",
     "height": "6'2\"",
-    "description": "Spanish right-back with attacking capabilities."
+    "description": "Spanish right back with attacking capabilities."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Cristian Romero",
     "birth_date": "27-04-1998",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "Tottenham",
     "nationality": "Argentina",
     "height": "6'2\"",
@@ -110,7 +110,7 @@
     "full_name": "Tim van de Ven",
     "birth_date": "10-09-1996",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "Tottenham",
     "nationality": "Netherlands",
     "height": "6'2\"",
@@ -127,7 +127,7 @@
     "team": "Tottenham",
     "nationality": "Nigeria",
     "height": "6'2\"",
-    "description": "Nigerian left-back known for his speed and agility."
+    "description": "Nigerian left back known for his speed and agility."
   },
   {
     "id": 11,

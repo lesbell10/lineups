@@ -19,8 +19,8 @@
         "full_name": "Jeremy Doku",
         "birth_date": "27-05-2002",
 
-        "position": "Forward",
-        "team": "Stade Rennais FC",
+        "position": "Left Winger",
+        "team": "Manchester City",
         "nationality": "Belgium",
         "height": "5'11\"",
         "description": "Young winger with speed and dribbling skills."
@@ -71,7 +71,7 @@
         "full_name": "Axel Witsel",
         "birth_date": "12-01-1989",
 
-        "position": "Midfielder, Central Defender",
+        "position": "Centre Back",
         "team": "Atletico Madrid",
         "nationality": "Belgium",
         "height": "6'1\"",
@@ -84,11 +84,11 @@
         "full_name": "Timothy Castagne",
         "birth_date": "05-12-1995",
 
-        "position": "Defender",
-        "team": "Leicester City FC",
+        "position": "Right Back",
+        "team": "Fulham",
         "nationality": "Belgium",
         "height": "6'2\"",
-        "description": "Right-back known for his attacking contributions."
+        "description": "Right back known for his attacking contributions."
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@
         "team": "Royal Antwerp",
         "nationality": "Belgium",
         "height": "6'2\"",
-        "description": "Solid center-back with excellent passing ability."
+        "description": "Solid centre back with excellent passing ability."
     },
     {
         "id": 9,

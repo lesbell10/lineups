@@ -126,7 +126,6 @@ option {
     position: absolute;
     bottom:70px;
     left: 80px;
-    cursor: pointer;
 }
 
 .second {
@@ -443,7 +442,7 @@ nav.home {
     border: 1px solid white;
     border-radius: 20px;
     z-index: 100;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .line {

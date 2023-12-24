@@ -19,7 +19,7 @@
     "full_name": "Juan Cuadrado",
     "birth_date": "26-05-1988",
 
-    "position": "Right Wing Back",
+    "position": "Right Back",
     "team": "Inter Milan",
     "nationality": "Colombia",
     "height": "6'2\"",
@@ -75,7 +75,7 @@
     "team": "Inter Milan",
     "nationality": "Turkey",
     "height": "6'2\"",
-    "description": "Set-piece specialist and skilled left midfielder."
+    "description": "Set-piece specialist and skilled central midfielder."
   },
   {
     "id": 7,
@@ -97,7 +97,7 @@
     "full_name": "Stefan de Vrij",
     "birth_date": "05-02-1992",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "Inter Milan",
     "nationality": "Netherlands",
     "height": "6'2\"",
@@ -110,11 +110,11 @@
     "full_name": "Alessandro Bastoni",
     "birth_date": "13-04-1999",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "Inter Milan",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Young and talented left central defender."
+    "description": "Young and talented central defender."
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "full_name": "Federico Dimarco",
     "birth_date": "10-11-1997",
 
-    "position": "Defender Left",
+    "position": "Left Back",
     "team": "Inter Milan",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Left-back with good defensive and attacking skills."
+    "description": "Left back with good defensive and attacking skills."
   },
   {
     "id": 11,

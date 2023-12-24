@@ -88,7 +88,7 @@
     "team": "Manchester City",
     "nationality": "England",
     "height": "6'0\"",
-    "description": "Energetic English right-back with excellent speed."
+    "description": "Energetic English right back with excellent speed."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Ruben Dias",
     "birth_date": "14-05-1997",
 
-    "position": "Central Defender",
+    "position": "Centre Back",
     "team": "Manchester City",
     "nationality": "Portugal",
     "height": "6'2\"",
@@ -110,11 +110,11 @@
     "full_name": "John Stones",
     "birth_date": "28-05-1994",
 
-    "position": "Central Defender",
+    "position": "Centre Back",
     "team": "Manchester City",
     "nationality": "England",
     "height": "6'2\"",
-    "description": "English center-back known for his composure on the ball."
+    "description": "English centre back known for his composure on the ball."
   },
   {
     "id": 10,

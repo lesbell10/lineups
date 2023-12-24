@@ -88,7 +88,7 @@
     "team": "Retired",
     "nationality": "Germany",
     "height": "5'7\"",
-    "description": "World-class right-back with exceptional defensive skills."
+    "description": "World-class right back with exceptional defensive skills."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Mats Hummels",
     "birth_date": "16-12-1988",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Borussia Dortmund",
     "nationality": "Germany",
     "height": "6'3\"",
@@ -110,11 +110,11 @@
     "full_name": "Jerome Boateng",
     "birth_date": "03-09-1988",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Lyon",
     "nationality": "Germany",
     "height": "6'4\"",
-    "description": "Powerful and composed center-back."
+    "description": "Powerful and composed centre back."
   },
   {
     "id": 10,

@@ -97,11 +97,11 @@
         "full_name": "Thiago Silva",
         "birth_date": "22-09-1984",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Chelsea",
         "nationality": "Brazil",
         "height": "5'11\"",
-        "description": "Brazilian center-back, aerial strength, leadership, defensive master."
+        "description": "Brazilian centre back, aerial strength, leadership, defensive master."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Sevilla",
         "nationality": "Spain",
         "height": "6'0\"",
@@ -123,7 +123,7 @@
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'7\"",

@@ -84,11 +84,11 @@
         "full_name": "Denzel Dumfries",
         "birth_date": "18-04-1996",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Inter Milan",
         "nationality": "Netherlands",
         "height": "6'2\"",
-        "description": "Dutch right-back with an attacking mindset."
+        "description": "Dutch right back with an attacking mindset."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Liverpool",
         "nationality": "Netherlands",
         "height": "6'4\"",
@@ -110,7 +110,7 @@
         "full_name": "Matthijs de Ligt",
         "birth_date": "12-08-1999",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Bayern Munich",
         "nationality": "Netherlands",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Daley Blind",
         "birth_date": "09-03-1990",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Girona",
         "nationality": "Netherlands",
         "height": "6'0\"",
-        "description": "Dutch left-back known for his versatility."
+        "description": "Dutch left back known for his versatility."
     },
     {
         "id": 11,
@@ -137,7 +137,7 @@
         "birth_date": "22-04-1989",
 
         "position": "Goalkeeper",
-        "team": "NEC",
+        "team": "NEC Nijmegen",
         "nationality": "Netherlands",
         "height": "6'1\"",
         "description": "Dutch goalkeeper with excellent reflexes."

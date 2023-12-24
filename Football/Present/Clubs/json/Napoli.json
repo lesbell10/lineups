@@ -88,7 +88,7 @@
     "team": "Napoli",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Italian right-back with good defensive skills."
+    "description": "Italian right back with good defensive skills."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Amir Rrahmani",
     "birth_date": "24-02-1994",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "Napoli",
     "nationality": "Kosovo",
     "height": "6'2\"",
@@ -110,7 +110,7 @@
     "full_name": "Juan Jesus",
     "birth_date": "01-09-1996",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "Napoli",
     "nationality": "Portugal",
     "height": "6'2\"",
@@ -127,7 +127,7 @@
     "team": "Napoli",
     "nationality": "Portugal",
     "height": "6'2\"",
-    "description": "Portuguese left-back with good crossing ability."
+    "description": "Portuguese left back with good crossing ability."
   },
   {
     "id": 11,

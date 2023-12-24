@@ -16,7 +16,7 @@
     "full_name": "David Beckham",
     "team": "Retired",
     "nationality": "England",
-    "position": "Midfielder",
+    "position": "Right Winger",
     "description": "English midfielder famed for precise passing and free-kick expertise."
   },
   {
@@ -56,7 +56,7 @@
     "full_name": "Edgar Davids",
     "team": "Retired",
     "nationality": "Netherlands",
-    "position": "Midfielder",
+    "position": "Central Midfielder",
     "description": "Dutch midfielder recognized for tough tackling and energy."
   },
   {
@@ -66,8 +66,8 @@
     "full_name": "Marcos Cafu",
     "team": "Retired",
     "nationality": "Brazil",
-    "position": "Right-back",
-    "description": "Legendary Brazilian right-back celebrated for his speed and skill."
+    "position": "Right Back",
+    "description": "Legendary Brazilian right back celebrated for his speed and skill."
   },
   {
     "id": 8,
@@ -76,7 +76,7 @@
     "full_name": "Alessandro Nesta",
     "team": "Retired",
     "nationality": "Italy",
-    "position": "Defender",
+    "position": "Centre Back",
     "description": "Italian defender known for impeccable positioning and defensive prowess."
   },
   {
@@ -86,8 +86,8 @@
     "full_name": "Marcel Desailly",
     "team": "Retired",
     "nationality": "France",
-    "position": "Center-back",
-    "description": "French center-back celebrated for strength and leadership on the pitch."
+    "position": "Centre Back",
+    "description": "French centre back celebrated for strength and leadership on the pitch."
   },
   {
     "id": 10,
@@ -96,8 +96,8 @@
     "full_name": "Roberto Carlos",
     "team": "Retired",
     "nationality": "Brazil",
-    "position": "Left-back",
-    "description": "Brazilian left-back famous for powerful free-kicks and speed."
+    "position": "Left Back",
+    "description": "Brazilian left back famous for powerful free-kicks and speed."
   },
   {
     "id": 11,

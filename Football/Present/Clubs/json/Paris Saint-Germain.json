@@ -19,7 +19,7 @@
     "full_name": "Ousmane Dembele",
     "birth_date": "15-05-1997",
 
-    "position": "Forward",
+    "position": "Right Winger",
     "team": "PSG",
     "nationality": "France",
     "height": "5'10\"",
@@ -114,7 +114,7 @@
     "team": "PSG",
     "nationality": "Slovakia",
     "height": "6'2\"",
-    "description": "Solid center-back known for his aerial ability."
+    "description": "Solid centre back known for his aerial ability."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
     "team": "PSG",
     "nationality": "France",
     "height": "6'0\"",
-    "description": "Versatile defender who can play left-back or center-back."
+    "description": "Versatile defender who can play left back or centre back."
   },
   {
     "id": 11,

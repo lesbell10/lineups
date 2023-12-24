@@ -97,11 +97,11 @@
     "full_name": "Thiago Silva",
     "birth_date": "22-09-1984",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "PSG",
     "nationality": "Brazil",
     "height": "6'0\"",
-    "description": "Solid center-back with great defensive abilities."
+    "description": "Solid centre back with great defensive abilities."
   },
   {
     "id": 9,
@@ -110,11 +110,11 @@
     "full_name": "Marquinhos Correa",
     "birth_date": "14-05-1994",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "PSG",
     "nationality": "Brazil",
     "height": "6'0\"",
-    "description": "Young and talented center-back with a bright future."
+    "description": "Young and talented centre back with a bright future."
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "full_name": "Marcelo Vieira",
     "birth_date": "12-05-1988",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Real Madrid",
     "nationality": "Brazil",
     "height": "5'9\"",
-    "description": "Attacking left-back known for his offensive contributions."
+    "description": "Attacking left back known for his offensive contributions."
   },
   {
     "id": 11,

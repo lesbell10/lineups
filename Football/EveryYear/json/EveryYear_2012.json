@@ -97,7 +97,7 @@
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Serbia",
         "height": "6'3\"",
@@ -110,7 +110,7 @@
         "full_name": "Gerard Pique",
         "birth_date": "02-02-1987",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Spain",
         "height": "6'4\"",
@@ -123,11 +123,11 @@
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "Retired English left-back, Arsenal, Chelsea title winner."
+        "description": "Retired English left back, Arsenal, Chelsea title winner."
     },
     {
         "id": 11,

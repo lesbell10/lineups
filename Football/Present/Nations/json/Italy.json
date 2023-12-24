@@ -19,7 +19,7 @@
         "full_name": "Domenico Berardi",
         "birth_date": "01-08-1994",
 
-        "position": "Forward",
+        "position": "Right Winger",
         "team": "Sassuolo",
         "nationality": "Italy",
         "height": "6'0\"",
@@ -44,12 +44,11 @@
         "img": "/football/img/players/Chiesa.webp",
         "full_name": "Federico Chiesa",
         "birth_date": "25-10-1997",
-
-        "position": "Forward",
+        "position": "Left Winger",
         "team": "Juventus",
         "nationality": "Italy",
         "height": "6'0\"",
-        "description": "Exciting forward with pace and skill."
+        "description": "Exciting winger with pace and skill."
     },
     {
         "id": 5,
@@ -84,11 +83,11 @@
         "full_name": "Diego Di Lorenzo",
         "birth_date": "17-03-1994",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Napoli",
         "nationality": "Italy",
         "height": "5'11\"",
-        "description": "Solid right-back with defensive qualities."
+        "description": "Solid right back with defensive qualities."
     },
     {
         "id": 8,
@@ -97,11 +96,11 @@
         "full_name": "Gianmaria Mancini",
         "birth_date": "17-04-1996",
 
-        "position": "Center-back",
+        "position": "centre back",
         "team": "AS Roma",
         "nationality": "Italy",
         "height": "6'2\"",
-        "description": "Tall and commanding center-back."
+        "description": "Tall and commanding centre back."
     },
     {
         "id": 9,
@@ -110,7 +109,7 @@
         "full_name": "Alessandro Bastoni",
         "birth_date": "13-04-1999",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Inter Milan",
         "nationality": "Italy",
         "height": "6'2\"",
@@ -123,11 +122,11 @@
         "full_name": "Federico Dimarco",
         "birth_date": "10-11-1997",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Inter Milan",
         "nationality": "Italy",
         "height": "6'0\"",
-        "description": "Attacking left-back with a strong left foot."
+        "description": "Attacking left back with a strong left foot."
     },
     {
         "id": 11,

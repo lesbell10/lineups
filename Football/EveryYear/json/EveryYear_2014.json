@@ -97,11 +97,11 @@
         "birth_date": "22-09-1984",
 
         "nationality": "Brazil",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "5'11\"",
         "team": "Chelsea",
         "img": "/football/img/players/T Silva.webp",
-        "description": "Commanding center-back, aerial, tackling, leadership, multiple clubs."
+        "description": "Commanding centre back, aerial, tackling, leadership, multiple clubs."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "birth_date": "10-04-1986",
 
         "nationality": "Belgium",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'3\"",
         "team": "Retired",
         "img": "/football/img/players/Kompany.webp",
@@ -123,7 +123,7 @@
         "birth_date": "11-11-1983",
 
         "nationality": "Germany",
-        "position": "Left-Back",
+        "position": "Left Back",
         "height": "5'7\"",
         "team": "Retired",
         "img": "/football/img/players/Lahm.webp",

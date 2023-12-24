@@ -84,7 +84,7 @@
         "full_name": "Jules Kounde",
         "birth_date": "12-11-1998",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Barcelona",
         "nationality": "France",
         "height": "5'11\"",
@@ -97,7 +97,7 @@
         "full_name": "Raphael Varane",
         "birth_date": "25-04-1993",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Manchester United",
         "nationality": "France",
         "height": "6'3\"",
@@ -110,11 +110,11 @@
         "full_name": "Lucas Hernandez",
         "birth_date": "14-02-1996",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "PSG",
         "nationality": "France",
         "height": "6'0\"",
-        "description": "Solid left-back known for defensive prowess."
+        "description": "Solid left back known for defensive prowess."
     },
     {
         "id": 10,
@@ -123,11 +123,11 @@
         "full_name": "Theo Hernandez",
         "birth_date": "06-10-1997",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "AC Milan",
         "nationality": "France",
         "height": "6'0\"",
-        "description": "Attack-minded left-back with speed and crossing ability."
+        "description": "Attack-minded left back with speed and crossing ability."
     },
     {
         "id": 11,

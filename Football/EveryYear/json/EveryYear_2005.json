@@ -84,7 +84,7 @@
     "full_name": "Lilian Thuram",
     "birth_date": "01-01-1972",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
@@ -97,11 +97,11 @@
     "full_name": "Alessandro Nesta",
     "birth_date": "19-03-1976",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Italian center-back renowned for his defensive prowess."
+    "description": "Italian centre back renowned for his defensive prowess."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Lúcio Ferreira",
     "birth_date": "08-05-1978",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "6'2\"",
@@ -123,7 +123,7 @@
     "full_name": "Paolo Maldini",
     "birth_date": "26-06-1968",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'1\"",

@@ -84,11 +84,11 @@
         "full_name": "Maicon Douglas",
         "birth_date": "26-07-1981",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Retired",
         "nationality": "Brazil",
         "height": "6'1\"",
-        "description": "Brazilian right-back, Inter Milan star, attacking prowess."
+        "description": "Brazilian right back, Inter Milan star, attacking prowess."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Serbia",
         "height": "6'3\"",
@@ -110,7 +110,7 @@
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Patrice Evra",
         "birth_date": "15-05-1981",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Retired",
         "nationality": "France",
         "height": "5'8\"",
-        "description": "Dynamic French left-back, Manchester United, Champions League winner."
+        "description": "Dynamic French left back, Manchester United, Champions League winner."
     },
     {
         "id": 11,

@@ -84,11 +84,11 @@
         "full_name": "Pablo Zabaleta",
         "birth_date": "16-01-1985",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'10\"",
-        "description": "Experienced Argentine right-back with defensive solidity."
+        "description": "Experienced Argentine right back with defensive solidity."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Nicolas Otamendi",
         "birth_date": "12-02-1988",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Benfica",
         "nationality": "Argentina",
         "height": "6'0\"",
@@ -110,7 +110,7 @@
         "full_name": "Ezequiel Garay",
         "birth_date": "10-10-1986",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Argentina",
         "height": "6'4\"",
@@ -123,11 +123,11 @@
         "full_name": "Nicolas Tagliafico",
         "birth_date": "31-08-1992",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Lyon",
         "nationality": "Argentina",
         "height": "5'7\"",
-        "description": "Argentine left-back known for his attacking runs."
+        "description": "Argentine left back known for his attacking runs."
     },
     {
         "id": 11,

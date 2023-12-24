@@ -130,7 +130,6 @@ option {
     position: absolute;
     top:57%;
     left: 5%;
-    cursor: pointer;
 }
 
 .second {
@@ -457,18 +456,18 @@ align-items: center;
 .side-modal {
     color: black;
     font-weight: bold;
-    width: 35%;
+    width: 28%;
     min-height: 10%;
     display: none;
     position: absolute;
     padding: 1%;
-    right: 64%;
-    top: 27%;
+    right: 66%;
+    top: 190px;
     background-color: dodgerblue;
     border: 1px solid white;
     border-radius: 20px;
     z-index: 100;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .line {

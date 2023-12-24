@@ -88,7 +88,7 @@
   "team": "Retired",
   "nationality": "France",
   "height": "5'9\"",
-  "description": "Reliable right-back with defensive prowess."
+  "description": "Reliable right back with defensive prowess."
 },
 {
   "id": 8,
@@ -97,7 +97,7 @@
   "full_name": "Laurent Koscielny",
   "birth_date": "10-09-1985",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "France",
   "height": "6'1\"",
@@ -110,7 +110,7 @@
   "full_name": "Shkodran Mustafi",
   "birth_date": "17-04-1992",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Levante",
   "nationality": "Germany",
   "height": "6'0\"",
@@ -127,7 +127,7 @@
   "team": "Retired",
   "nationality": "Spain",
   "height": "5'10\"",
-  "description": "Consistent left-back with defensive stability."
+  "description": "Consistent left back with defensive stability."
 },
 {
   "id": 11,

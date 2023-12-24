@@ -45,7 +45,7 @@
     "full_name": "Memphis Depay",
     "birth_date": "13-02-1994",
 
-    "position": "Forward Left",
+    "position": "Forward",
     "team": "Atletico Madrid",
     "nationality": "Netherlands",
     "height": "6'2\"",
@@ -84,11 +84,11 @@
     "full_name": "Nahuel Molina",
     "birth_date": "27-01-1998",
 
-    "position": "Right-back",
+    "position": "Right Back",
     "team": "Atletico Madrid",
     "nationality": "Argentina",
     "height": "6'0\"",
-    "description": "Energetic right-back with attacking abilities."
+    "description": "Energetic right back with attacking abilities."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Jose Maria Gimenez",
     "birth_date": "20-01-1995",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "Atletico Madrid",
     "nationality": "Uruguay",
     "height": "6'2\"",
@@ -110,7 +110,7 @@
     "full_name": "Stefan Savic",
     "birth_date": "08-01-1991",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "Atletico Madrid",
     "nationality": "Montenegro",
     "height": "6'2\"",
@@ -127,7 +127,7 @@
     "team": "Atletico Madrid",
     "nationality": "Spain",
     "height": "6'2\"",
-    "description": "Spanish left-back known for his attacking runs."
+    "description": "Spanish left back known for his attacking runs."
   },
   {
     "id": 11,

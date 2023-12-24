@@ -84,11 +84,11 @@
     "full_name": "Reece James",
     "birth_date": "08-12-1999",
 
-    "position": "Right-back",
+    "position": "Right Back",
     "team": "Chelsea",
     "nationality": "England",
     "height": "5'11\"",
-    "description": "English right-back known for his defensive skills and crossing ability."
+    "description": "English right back known for his defensive skills and crossing ability."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Thiago Silva",
     "birth_date": "22-09-1984",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Chelsea",
     "nationality": "Brazil",
     "height": "6'0\"",
@@ -110,11 +110,11 @@
     "full_name": "Axel Disasi",
     "birth_date": "11-03-1998",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Chelsea",
     "nationality": "France",
     "height": "6'4\"",
-    "description": "French center-back with strong aerial presence and tackling skills."
+    "description": "French centre back with strong aerial presence and tackling skills."
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "full_name": "Ben Chilwell",
     "birth_date": "21-12-1996",
 
-    "position": "Left-back",
+    "position": "Left Back",
     "team": "Chelsea",
     "nationality": "England",
     "height": "6'0\"",
-    "description": "English left-back known for his pace and crossing ability."
+    "description": "English left back known for his pace and crossing ability."
   },
   {
     "id": 11,

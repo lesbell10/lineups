@@ -84,11 +84,11 @@
         "full_name": "Thomas Meunier",
         "birth_date": "12-09-1991",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Retired",
         "nationality": "Belgium",
         "height": "6'3\"",
-        "description": "Belgian right-back with attacking contributions."
+        "description": "Belgian right back with attacking contributions."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Vincent Kompany",
         "birth_date": "10-04-1986",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Belgium",
         "height": "6'4\"",
@@ -123,11 +123,11 @@
         "full_name": "Jan Vertonghen",
         "birth_date": "24-04-1987",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Anderlecht",
         "nationality": "Belgium",
         "height": "6'2\"",
-        "description": "Belgian left-back known for his versatility."
+        "description": "Belgian left back known for his versatility."
     },
     {
         "id": 11,

@@ -45,7 +45,7 @@
     "full_name": "Luis Diaz",
     "birth_date": "13-11-1997",
 
-    "position": "Forward",
+    "position": "Left Winger",
     "team": "Liverpool",
     "nationality": "Colombia",
     "height": "6'1\"",
@@ -88,7 +88,7 @@
     "team": "Liverpool",
     "nationality": "England",
     "height": "5'9\"",
-    "description": "Talented right-back from Liverpool with excellent crossing ability."
+    "description": "Talented right back from Liverpool with excellent crossing ability."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Liverpool",
     "nationality": "Netherlands",
     "height": "6'4\"",
-    "description": "Dutch center-back known for his strength and defensive skills."
+    "description": "Dutch centre back known for his strength and defensive skills."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Ibrahima Konate",
     "birth_date": "25-05-1999",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Liverpool",
     "nationality": "France",
     "height": "6'4\"",
@@ -123,11 +123,11 @@
     "full_name": "Andy Robertson",
     "birth_date": "11-03-1994",
 
-    "position": "Left-back",
+    "position": "Left Back",
     "team": "Liverpool",
     "nationality": "Scotland",
     "height": "5'10\"",
-    "description": "Scottish left-back known for his pace and crossing ability."
+    "description": "Scottish left back known for his pace and crossing ability."
   },
   {
     "id": 11,

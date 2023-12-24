@@ -84,11 +84,11 @@
         "full_name": "Marcos Cafu",
         "birth_date": "07-06-1970",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Retired",
         "nationality": "Brazil",
         "height": "6'2\"",
-        "description": "Legendary Brazilian right-back, known for his versatility."
+        "description": "Legendary Brazilian right back, known for his versatility."
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@
         "team": "Retired",
         "nationality": "England",
         "height": "6'3\"",
-        "description": "English centre-back known for pace and leadership."
+        "description": "English centre back known for pace and leadership."
     },
     {
         "id": 9,
@@ -127,7 +127,7 @@
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "Renowned left-back known for pace and defensive prowess."
+        "description": "Renowned left back known for pace and defensive prowess."
     },
     {
         "id": 11,

@@ -6,8 +6,8 @@
     "full_name": "Karim Benzema",
     "birth_date": "19-12-1987",
 
-    "position": "Striker",
-    "team": "Al-Ittihad",
+    "position": "Forward",
+    "team": "Al Ittihad",
     "nationality": "France",
     "height": "6'1\"",
     "description": "French striker, former Real Madrid's key forward, clinical finisher."
@@ -84,11 +84,11 @@
     "full_name": "Bacary Sagna",
     "birth_date": "14-02-1983",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "France",
     "height": "5'9\"",
-    "description": "Former French right-back known for his defensive skills."
+    "description": "Former French right back known for his defensive skills."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Raphael Varane",
     "birth_date": "25-04-1993",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Manchester United",
     "nationality": "France",
     "height": "6'3\"",
-    "description": "French center-back, a key figure at Manchester United."
+    "description": "French centre back, a key figure at Manchester United."
   },
   {
     "id": 9,
@@ -110,11 +110,11 @@
     "full_name": "Laurent Koscielny",
     "birth_date": "10-09-1985",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "France",
     "height": "6'1\"",
-    "description": "Former French center-back known for his defensive prowess."
+    "description": "Former French centre back known for his defensive prowess."
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "full_name": "Patrice Evra",
     "birth_date": "15-05-1981",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Retired",
     "nationality": "France",
     "height": "5'9\"",
-    "description": "Former French left-back, a veteran of the game."
+    "description": "Former French left back, a veteran of the game."
   },
   {
     "id": 11,

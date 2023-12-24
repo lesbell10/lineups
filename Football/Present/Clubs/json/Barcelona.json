@@ -84,11 +84,11 @@
     "full_name": "Joao Cancelo",
     "birth_date": "27-05-1994",
 
-    "position": "Right-back",
+    "position": "Right Back",
     "team": "Barcelona",
     "nationality": "Portugal",
     "height": "6'0\"",
-    "description": "Portuguese right-back known for his attacking prowess."
+    "description": "Portuguese right back known for his attacking prowess."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Jules Kounde",
     "birth_date": "12-11-1998",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Barcelona",
     "nationality": "France",
     "height": "6'0\"",
-    "description": "French center-back with excellent defensive skills."
+    "description": "French centre back with excellent defensive skills."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Ronald Araujo",
     "birth_date": "07-03-1999",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Barcelona",
     "nationality": "Uruguay",
     "height": "6'4\"",
@@ -120,14 +120,14 @@
     "id": 10,
     "last_name": "Balde",
     "img": "/football/img/players/Balde.webp",
-    "full_name": "Boubacar Balde",
+    "full_name": "Alejandro Balde",
     "birth_date": "17-12-2003",
 
-    "position": "Left-back",
+    "position": "Left Back",
     "team": "Barcelona",
-    "nationality": "Senegal",
+    "nationality": "Spain",
     "height": "6'1\"",
-    "description": "Young Senegalese left-back with great potential."
+    "description": "Young Spanish left back with great potential."
   },
   {
     "id": 11,

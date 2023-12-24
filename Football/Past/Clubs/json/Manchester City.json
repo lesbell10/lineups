@@ -88,7 +88,7 @@
         "team": "Manchester City",
         "nationality": "England",
         "height": "6'0\"",
-        "description": "Right-back with speed and defensive ability."
+        "description": "right back with speed and defensive ability."
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@
         "team": "Retired",
         "nationality": "Belgium",
         "height": "6'3\"",
-        "description": "Strong center-back and former team captain."
+        "description": "Strong centre back and former team captain."
     },
     {
         "id": 9,
@@ -114,7 +114,7 @@
         "team": "Benfica",
         "nationality": "Argentina",
         "height": "6'0\"",
-        "description": "Solid center-back with good aerial ability."
+        "description": "Solid centre back with good aerial ability."
     },
     {
         "id": 10,
@@ -127,7 +127,7 @@
         "team": "Retired",
         "nationality": "Serbia",
         "height": "6'2\"",
-        "description": "Left-back known for his powerful free-kicks."
+        "description": "left back known for his powerful free-kicks."
     },
     {
         "id": 11,

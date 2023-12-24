@@ -84,7 +84,7 @@
     "full_name": "Joao Cancelo",
     "birth_date": "27-05-1994",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Barcelona",
     "nationality": "Portugal",
     "height": "6'0\"",
@@ -101,7 +101,7 @@
     "team": "Liverpool",
     "nationality": "Netherlands",
     "height": "6'4\"",
-    "description": "Dominant center-back and leader in defense."
+    "description": "Dominant centre back and leader in defense."
   },
   {
     "id": 9,
@@ -127,7 +127,7 @@
     "team": "Liverpool",
     "nationality": "Scotland",
     "height": "6'0\"",
-    "description": "Energetic left-back known for his crossing and work rate."
+    "description": "Energetic left back known for his crossing and work rate."
   },
   {
     "id": 11,

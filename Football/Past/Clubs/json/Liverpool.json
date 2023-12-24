@@ -33,7 +33,7 @@
     "birth_date": "12-06-1992",
 
     "position": "Attacking Midfielder",
-    "team": "Al-Duhail",
+    "team": "Al Duhail",
     "nationality": "Brazil",
     "height": "5'8\"",
     "description": "Creative playmaker known for his dribbling skills."
@@ -88,7 +88,7 @@
     "team": "Liverpool",
     "nationality": "England",
     "height": "5'11\"",
-    "description": "Talented right-back known for his accurate crosses."
+    "description": "Talented right back known for his accurate crosses."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Liverpool",
     "nationality": "Netherlands",
     "height": "6'4\"",
-    "description": "Dominant center-back, a wall in defense."
+    "description": "Dominant centre back, a wall in defense."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Joel Matip",
     "birth_date": "08-08-1991",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Liverpool",
     "nationality": "Cameroon",
     "height": "6'5\"",
@@ -127,7 +127,7 @@
     "team": "Liverpool",
     "nationality": "Scotland",
     "height": "6'0\"",
-    "description": "Energetic left-back known for his overlapping runs."
+    "description": "Energetic left back known for his overlapping runs."
   },
   {
     "id": 11,

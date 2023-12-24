@@ -84,7 +84,7 @@
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'9\"",
@@ -97,7 +97,7 @@
         "full_name": "Mats Hummels",
         "birth_date": "16-12-1988",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
         "height": "6'3\"",
@@ -110,7 +110,7 @@
         "full_name": "Jerome Boateng",
         "birth_date": "03-09-1988",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Lyon",
         "nationality": "Germany",
         "height": "6'4\"",
@@ -123,11 +123,11 @@
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Retired",
         "nationality": "Germany",
         "height": "5'7\"",
-        "description": "Legendary German right-back and former captain."
+        "description": "Legendary German right back and former captain."
     },
     {
         "id": 11,

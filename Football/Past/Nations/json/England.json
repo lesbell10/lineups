@@ -88,7 +88,7 @@
         "team": "Liverpool",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "Young English right-back with exceptional crossing."
+        "description": "Young English right back with exceptional crossing."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
         "height": "6'1\"",
@@ -110,7 +110,7 @@
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "World-class English left-back with defensive prowess."
+        "description": "World-class English left back with defensive prowess."
     },
     {
         "id": 11,

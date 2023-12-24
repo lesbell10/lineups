@@ -19,7 +19,7 @@
         "full_name": "Domenico Berardi",
         "birth_date": "01-08-1994",
 
-        "position": "Forward",
+        "position": "Right Winger",
         "team": "Sassuolo",
         "nationality": "Italy",
         "height": "6'0\"",
@@ -84,11 +84,11 @@
         "full_name": "Alessandro Florenzi",
         "birth_date": "11-03-1991",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "AC Milan",
         "nationality": "Italy",
         "height": "5'9\"",
-        "description": "Italian right-back known for his versatility."
+        "description": "Italian right back known for his versatility."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Leonardo Bonucci",
         "birth_date": "01-05-1987",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Union Berlin",
         "nationality": "Italy",
         "height": "6'3\"",
@@ -110,7 +110,7 @@
         "full_name": "Giorgio Chiellini",
         "birth_date": "14-08-1984",
 
-        "position": "Center-back",
+        "position": "Centre back",
         "team": "Los Angeles FC",
         "nationality": "Italy",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Leonardo Spinazzola",
         "birth_date": "25-03-1993",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "AS Roma",
         "nationality": "Italy",
         "height": "6'0\"",
-        "description": "Italian left-back with attacking prowess."
+        "description": "Italian left back with attacking prowess."
     },
     {
         "id": 11,

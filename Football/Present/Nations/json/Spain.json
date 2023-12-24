@@ -84,11 +84,11 @@
         "full_name": "Pedro Porro",
         "birth_date": "13-02-2000",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Tottenham",
         "nationality": "Spain",
         "height": "6'0\"",
-        "description": "Attacking right-back with crossing ability."
+        "description": "Attacking right back with crossing ability."
     },
     {
         "id": 8,
@@ -97,11 +97,11 @@
         "full_name": "Pau Torres",
         "birth_date": "16-11-1997",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Villarreal",
         "nationality": "Spain",
         "height": "6'3\"",
-        "description": "Tall and commanding center-back."
+        "description": "Tall and commanding centre back."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Aymeric Laporte",
         "birth_date": "27-05-1994",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Al Nassr",
         "nationality": "Spain",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Boubacar Balde",
         "birth_date": "17-12-2003",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Barcelona",
         "nationality": "Senegal",
         "height": "6'1\"",
-        "description": "Young Senegalese left-back with great potential."
+        "description": "Young Senegalese left back with great potential."
     },
     {
         "id": 11,

@@ -32,8 +32,8 @@
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
 
-        "position": "Centre Forward",
-        "team": "Al-Ittihad",
+        "position": "Forward",
+        "team": "Al Ittihad",
         "nationality": "France",
         "height": "6'1\"",
         "description": "French striker, former Real Madrid's key forward, clinical finisher"
@@ -84,7 +84,7 @@
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'9\"",
@@ -97,11 +97,11 @@
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
 
-        "position": "Centre-Back",
-        "team": "Man City",
+        "position": "Centre Back",
+        "team": "Manchester City",
         "nationality": "Portugal",
         "height": "6'2\"",
-        "description": "Solid Portuguese centre-back, Manchester City's defensive rock"
+        "description": "Solid Portuguese centre back, Manchester City's defensive rock"
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "PSG",
         "nationality": "Brazil",
         "height": "6'0\"",
@@ -123,7 +123,7 @@
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Barcelona",
         "nationality": "Portugal",
         "height": "6'0\"",

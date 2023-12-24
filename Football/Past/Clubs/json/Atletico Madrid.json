@@ -20,7 +20,7 @@
   "birth_date": "04-09-1993",
 
   "position": "Left Winger",
-  "team": "Al-Shabab",
+  "team": "Al Shabab",
   "nationality": "Belgium",
   "height": "6'1\"",
   "description": "Dynamic winger with pace and dribbling skills."
@@ -88,7 +88,7 @@
   "team": "Retired",
   "nationality": "Spain",
   "height": "5'11\"",
-  "description": "Dependable right-back with defensive acumen."
+  "description": "Dependable right back with defensive acumen."
 },
 {
   "id": 8,
@@ -97,7 +97,7 @@
   "full_name": "Diego Godin",
   "birth_date": "16-02-1986",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Uruguay",
   "height": "6'2\"",
@@ -110,11 +110,11 @@
   "full_name": "Joao Miranda",
   "birth_date": "07-09-1984",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Brazil",
   "height": "6'2\"",
-  "description": "Experienced center-back with strong defensive abilities."
+  "description": "Experienced centre back with strong defensive abilities."
 },
 {
   "id": 10,
@@ -127,7 +127,7 @@
   "team": "Retired",
   "nationality": "Brazil",
   "height": "6'0\"",
-  "description": "Dependable left-back with attacking qualities."
+  "description": "Dependable left back with attacking qualities."
 },
 {
   "id": 11,

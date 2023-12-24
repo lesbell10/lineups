@@ -58,7 +58,7 @@
     "full_name": "Ismael Bennacer",
     "birth_date": "01-12-1997",
 
-    "position": "Central Midfielder Right",
+    "position": "Defensive Midfielder",
     "team": "AC Milan",
     "nationality": "Algeria",
     "height": "6'2\"",
@@ -84,11 +84,11 @@
     "full_name": "Davide Calabria",
     "birth_date": "06-12-1996",
 
-    "position": "Right Defender",
+    "position": "Right Back",
     "team": "AC Milan",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Italian right-back known for his defensive abilities."
+    "description": "Italian right back known for his defensive abilities."
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "full_name": "Fikayo Tomori",
     "birth_date": "19-12-1997",
 
-    "position": "Central Defender Right",
+    "position": "Centre Back",
     "team": "AC Milan",
     "nationality": "Canada",
     "height": "6'2\"",
@@ -110,7 +110,7 @@
     "full_name": "Simon Kjær",
     "birth_date": "26-03-1989",
 
-    "position": "Central Defender Left",
+    "position": "Centre Back",
     "team": "AC Milan",
     "nationality": "Denmark",
     "height": "6'2\"",
@@ -127,7 +127,7 @@
     "team": "AC Milan",
     "nationality": "France",
     "height": "6'2\"",
-    "description": "French left-back with attacking instincts."
+    "description": "French left back with attacking instincts."
   },
   {
     "id": 11,

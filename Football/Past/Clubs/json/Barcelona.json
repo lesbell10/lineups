@@ -97,7 +97,7 @@
     "full_name": "Gerard Pique",
     "birth_date": "02-02-1987",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Spain",
     "height": "6'4\"",
@@ -110,7 +110,7 @@
     "full_name": "Javier Mascherano",
     "birth_date": "08-06-1984",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Argentina",
     "height": "5'9\"",
@@ -127,7 +127,7 @@
     "team": "Inter Miami",
     "nationality": "Spain",
     "height": "5'7\"",
-    "description": "Rapid left-back with great crossing ability."
+    "description": "Rapid left back with great crossing ability."
   },
   {
     "id": 11,

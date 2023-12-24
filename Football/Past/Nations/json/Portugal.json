@@ -84,11 +84,11 @@
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Barcelona",
         "nationality": "Portugal",
         "height": "6'0\"",
-        "description": "Portuguese right-back with attacking capabilities."
+        "description": "Portuguese right back with attacking capabilities."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Pepe",
         "birth_date": "26-02-1983",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Porto",
         "nationality": "Portugal",
         "height": "6'2\"",
@@ -110,7 +110,7 @@
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Manchester City",
         "nationality": "Portugal",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Raphael Guerreiro",
         "birth_date": "22-12-1993",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Bayern Munich",
         "nationality": "Portugal",
         "height": "5'7\"",
-        "description": "Portuguese left-back with attacking instincts."
+        "description": "Portuguese left back with attacking instincts."
     },
     {
         "id": 11,

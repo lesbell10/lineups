@@ -97,7 +97,7 @@
         "birth_date": "13-04-1978",
 
         "nationality": "Spain",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "5'10\"",
         "img": "/football/img/players/Puyol.webp",
         "team": "Retired",
@@ -110,7 +110,7 @@
         "birth_date": "19-03-1976",
 
         "nationality": "Italy",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'2\"",
         "img": "/football/img/players/Nesta.webp",
         "team": "Retired",
@@ -123,11 +123,11 @@
         "birth_date": "11-11-1983",
 
         "nationality": "Germany",
-        "position": "Right-Back",
+        "position": "Right Back",
         "height": "5'7\"",
         "img": "/football/img/players/Lahm.webp",
         "team": "Retired",
-        "description": "Retired German right-back, World Cup, Champions League winner."
+        "description": "Retired German right back, World Cup, Champions League winner."
     },
     {
         "id": 11,

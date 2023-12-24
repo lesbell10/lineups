@@ -75,7 +75,7 @@
         "position": "Defensive Midfielder",
         "height": "6'2\"",
         "team": "Inter Miami",
-        "description": "Spanish midfielder, Barcelona, great defensive skills, multiple titles."
+        "description": "Spanish midfielder, Inter Miami, great defensive skills, multiple titles."
     },
     {
         "id": 7,
@@ -98,7 +98,7 @@
         "birth_date": "21-10-1981",
 
         "nationality": "Serbia",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'3\"",
         "team": "Retired",
         "description": "Retired Serbian defender, Manchester United, great defender."
@@ -111,7 +111,7 @@
         "birth_date": "30-03-1986",
 
         "nationality": "Spain",
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "height": "6'0\"",
         "team": "Sevilla",
         "description": "Spanish defender, PSG, great skills, multiple titles."
@@ -124,10 +124,10 @@
         "birth_date": "20-12-1980",
 
         "nationality": "England",
-        "position": "Left-Back",
+        "position": "Left Back",
         "height": "5'9\"",
         "team": "Retired",
-        "description": "Retired English left-back, multiple titles, great defender."
+        "description": "Retired English left back, multiple titles, great defender."
     },
     {
         "id": 11,

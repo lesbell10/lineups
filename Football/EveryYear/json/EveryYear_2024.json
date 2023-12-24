@@ -46,7 +46,7 @@
         "birth_date": "20-12-1998",
 
         "position": "Forward",
-        "team": "Paris SG",
+        "team": "PSG",
         "nationality": "France",
         "height": "5'10\"",
         "description": "French superstar, rapid forward, PSG's lethal scorer"
@@ -84,7 +84,7 @@
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Barcelona",
         "nationality": "Portugal",
         "height": "6'0\"",
@@ -97,7 +97,7 @@
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Liverpool",
         "nationality": "Netherlands",
         "height": "6'4\"",
@@ -110,11 +110,11 @@
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
 
-        "position": "Centre-Back",
-        "team": "Man City",
+        "position": "Centre Back",
+        "team": "Manchestetrr City",
         "nationality": "Portugal",
         "height": "6'2\"",
-        "description": "Portuguese centre-back, Manchester City's solid defensive leader"
+        "description": "Portuguese centre back, Manchester City's solid defensive leader"
     },
     {
         "id": 10,
@@ -123,11 +123,11 @@
         "full_name": "Andy Robertson",
         "birth_date": "11-03-1994",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Liverpool",
         "nationality": "Scotland",
         "height": "5'10\"",
-        "description": "Scottish left-back, Liverpool's tenacious, attacking defender."
+        "description": "Scottish left back, Liverpool's tenacious, attacking defender."
     },
     {
         "id": 11,

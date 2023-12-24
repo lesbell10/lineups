@@ -71,7 +71,7 @@
         "full_name": "Sergio Busquets",
         "birth_date": "16-07-1988",
 
-        "position": "Midfielder",
+        "position": "Defensive Midfielder",
         "team": "Inter Miami",
         "nationality": "Spain",
         "height": "6'2\"",
@@ -84,11 +84,11 @@
         "full_name": "Daniel Carvajal",
         "birth_date": "11-01-1992",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Real Madrid",
         "nationality": "Spain",
         "height": "5'8\"",
-        "description": "Energetic right-back known for his attacking runs."
+        "description": "Energetic right back known for his attacking runs."
     },
     {
         "id": 8,
@@ -97,7 +97,7 @@
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Sevilla",
         "nationality": "Spain",
         "height": "6'0\"",
@@ -110,7 +110,7 @@
         "full_name": "Gerard Pique",
         "birth_date": "02-02-1987",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Spain",
         "height": "6'4\"",

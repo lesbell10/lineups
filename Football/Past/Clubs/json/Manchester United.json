@@ -88,7 +88,7 @@
   "team": "Retired",
   "nationality": "Ecuador",
   "height": "5'11\"",
-  "description": "Hard-working right-back with pace and strength."
+  "description": "Hard-working right back with pace and strength."
 },
 {
   "id": 8,
@@ -97,7 +97,7 @@
   "full_name": "Rio Ferdinand",
   "birth_date": "07-11-1978",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "England",
   "height": "6'2\"",
@@ -110,7 +110,7 @@
   "full_name": "Nemanja Vidic",
   "birth_date": "21-10-1981",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Serbia",
   "height": "6'2\"",
@@ -127,7 +127,7 @@
   "team": "Retired",
   "nationality": "France",
   "height": "5'9\"",
-  "description": "Experienced left-back with a winning mentality."
+  "description": "Experienced left back with a winning mentality."
 },
 {
   "id": 11,

@@ -88,7 +88,7 @@
     "team": "Real Madrid",
     "nationality": "Spain",
     "height": "5'8\"",
-    "description": "Spanish right-back known for his defensive and offensive contributions."
+    "description": "Spanish right back known for his defensive and offensive contributions."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
     "team": "Real Madrid",
     "nationality": "Brazil",
     "height": "6'2\"",
-    "description": "Brazilian center-back with strength and versatility."
+    "description": "Brazilian centre back with strength and versatility."
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "full_name": "Eduardo Camavinga",
     "birth_date": "10-11-2002",
 
-    "position": "Defensive Midfielder, Left Back",
+    "position": "Defensive Midfielder",
     "team": "Real Madrid",
     "nationality": "France",
     "height": "6'0\"",

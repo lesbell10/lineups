@@ -84,7 +84,7 @@
     "full_name": "Ben White",
     "birth_date": "08-10-1997",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Arsenal",
     "nationality": "England",
     "height": "6'2\"",
@@ -97,11 +97,11 @@
     "full_name": "William Saliba",
     "birth_date": "24-03-2001",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Arsenal",
     "nationality": "France",
     "height": "6'4\"",
-    "description": "Talented young center-back with great potential."
+    "description": "Talented young centre back with great potential."
   },
   {
     "id": 9,
@@ -123,11 +123,11 @@
     "full_name": "Oleksandr Zinchenko",
     "birth_date": "15-12-1996",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Arsenal",
     "nationality": "Ukraine",
     "height": "5'10\"",
-    "description": "Attacking left-back with excellent passing and vision."
+    "description": "Attacking left back with excellent passing and vision."
   },
   {
     "id": 11,

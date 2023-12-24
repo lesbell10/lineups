@@ -32,7 +32,7 @@
   "full_name": "Paulo Dybala",
   "birth_date": "15-11-1993",
 
-  "position": "Attacking Midfielder",
+  "position": "Forward",
   "team": "AS Roma",
   "nationality": "Argentina",
   "height": "5'10\"",
@@ -97,7 +97,7 @@
   "full_name": "Leonardo Bonucci",
   "birth_date": "01-05-1987",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Union Berlin",
   "nationality": "Italy",
   "height": "6'3\"",
@@ -110,11 +110,11 @@
   "full_name": "Giorgio Chiellini",
   "birth_date": "14-08-1984",
 
-  "position": "Center-Back",
-  "team": "LA FC",
+  "position": "Centre Back",
+  "team": "Los Angeles FC",
   "nationality": "Italy",
   "height": "6'2\"",
-  "description": "Tough-tackling defender and Juventus captain."
+  "description": "Tough-tackling defender and former Juventus legend."
 },
 {
   "id": 10,
@@ -127,7 +127,7 @@
   "team": "Juventus",
   "nationality": "Brazil",
   "height": "5'11\"",
-  "description": "Modern left-back with attacking prowess."
+  "description": "Modern left back with attacking prowess."
 },
 {
   "id": 11,

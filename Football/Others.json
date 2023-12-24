@@ -45,7 +45,7 @@
         "full_name": "Franz Beckenbauer",
         "birth_date": "11-09-1945",
 
-        "position": "Defender",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Germany",
         "height": "5'11\"",
@@ -84,7 +84,7 @@
         "full_name": "George Best",
         "birth_date": "22-05-1946",
 
-        "position": "Forward",
+        "position": "Right Winger",
         "team": "Retired",
         "nationality": "Northern Ireland",
         "height": "5'9\"",
@@ -110,7 +110,7 @@
         "full_name": "Bobby Charlton",
         "birth_date": "11-10-1937",
 
-        "position": "Midfielder",
+        "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "England",
         "height": "5'10\"",
@@ -188,7 +188,7 @@
         "full_name": "Franco Baresi",
         "birth_date": "08-05-1960",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Italy",
         "height": "5'9\"",
@@ -241,11 +241,11 @@
     "full_name": "Gareth Bale",
     "birth_date": "16-07-1989",
 
-    "position": "Forward",
+    "position": "Right Winger",
     "team": "Retired",
     "nationality": "Wales",
     "height": "6'1\"",
-    "description": "Welsh winger, Real Madrid, fast, Champions League hero"
+    "description": "Welsh winger, former Real Madrid, fast, Champions League hero"
 },
 {
     "id": 23,
@@ -255,7 +255,7 @@
     "birth_date": "12-06-1992",
 
     "position": "Attacking Midfielder",
-    "team": "Al-Duhail",
+    "team": "Al Duhail",
     "nationality": "Brazil",
     "height": "5'8\"",
     "description": "Brazilian midfielder, skillful playmaker, Liverpool and Barcelona stints"
@@ -280,11 +280,11 @@
     "full_name": "Roberto Carlos",
     "birth_date": "10-04-1973",
 
-    "position": "Left-back",
+    "position": "Left Back",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'6\"",
-    "description": "Legendary Brazilian left-back with powerful free-kick prowess."
+    "description": "Legendary Brazilian left back with powerful free-kick prowess."
 },
 {
     "id": 27,
@@ -293,7 +293,7 @@
     "full_name": "David Beckham",
     "birth_date": "02-05-1975",
 
-    "position": "Right Midfielder",
+    "position": "Right Winger",
     "team": "Retired",
     "nationality": "England",
     "height": "6'0\"",
@@ -384,7 +384,7 @@
     "full_name": "Sol Campbell",
     "birth_date": "18-09-1974",
 
-    "position": "Defender",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "England",
     "height": "6'2\"",
@@ -433,10 +433,10 @@
     "id": 38,
     "last_name": "Crespo",
     "img": "/football/img/players/Crespo.webp",
-    "full_name": "Hernán Crespo",
+    "full_name": "Hernan Crespo",
     "birth_date": "05-07-1975",
 
-    "position": "Forward",
+    "position": "Striker",
     "team": "Retired",
     "nationality": "Argentina",
     "height": "6'0\"",
@@ -446,14 +446,14 @@
     "id": 39,
     "last_name": "Cafu",
     "img": "/football/img/players/Cafu.webp",
-    "full_name": "Cafu",
+    "full_name": "Marcos Cafu",
     "birth_date": "07-06-1970",
 
-    "position": "Right-back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'9\"",
-    "description": "World Cup-winning right-back with remarkable speed."
+    "description": "World Cup-winning right back with remarkable speed."
 },
 {
     "id": 40,
@@ -462,7 +462,7 @@
     "full_name": "Didier Drogba",
     "birth_date": "11-03-1978",
 
-    "position": "Forward",
+    "position": "Striker",
     "team": "Retired",
     "nationality": "Ivory Coast",
     "height": "6'2\"",
@@ -476,7 +476,7 @@
     "full_name": "Roberto Ayala",
     "birth_date": "14-04-1973",
 
-    "position": "Defender",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Argentina",
     "height": "6'0\"",
@@ -580,7 +580,7 @@
     "full_name": "Alessio Costacurta",
     "birth_date": "24-04-1966",
 
-    "position": "Defender",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'0\"",
@@ -723,7 +723,7 @@
    "full_name": "Marcel Desailly",
    "birth_date": "07-09-1968",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "France",
    "height": "6'1\"",
@@ -736,7 +736,7 @@
    "full_name": "Michael Owen",
    "birth_date": "14-12-1979",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "England",
    "height": "5'8\"",
@@ -974,7 +974,7 @@
    "full_name": "Ivan Cordoba",
    "birth_date": "11-08-1976",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Colombia",
    "height": "6'1\"",
@@ -1005,19 +1005,6 @@
    "nationality": "Argentina",
    "height": "5'7\"",
    "description": "Creative Argentine midfielder with playmaking abilities."
-},
-{
-   "id": 94,
-   "last_name": "Chivu",
-   "img": "/football/img/players/Chivu.webp",
-   "full_name": "Cristian Chivu",
-   "birth_date": "26-10-1980",
-
-   "position": "Defender",
-   "team": "Retired",
-   "nationality": "Romania",
-   "height": "6'0\"",
-   "description": "Romanian defender known for his versatility and composure."
 },
 {
    "id": 96,
@@ -1117,7 +1104,7 @@
    "full_name": "Ibrahima Bakayoko",
    "birth_date": "31-12-1976",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Ivory Coast",
    "height": "6'0\"",
@@ -1277,7 +1264,7 @@
    "team": "Retired",
    "nationality": "England",
    "height": "5'10\"",
-   "description": "English right-back known for his defensive skills."
+   "description": "English right back known for his defensive skills."
 },
 {
    "id": 120,
@@ -1546,24 +1533,11 @@
    "full_name": "Jamie Carragher",
    "birth_date": "28-01-1978",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "England",
    "height": "6'0\"",
    "description": "English defender known for his defensive skills."
-},
-{
-   "id": 145,
-   "last_name": "Carrick",
-   "img": "/football/img/players/Carrick.webp",
-   "full_name": "Michael Carrick",
-   "birth_date": "28-07-1981",
-
-   "position": "Defensive Midfielder",
-   "team": "Retired",
-   "nationality": "England",
-   "height": "6'2\"",
-   "description": "English midfielder with passing and composure."
 },
 {
    "id": 146,
@@ -1637,7 +1611,7 @@
    "full_name": "Peter Crouch",
    "birth_date": "30-01-1981",
 
-   "position": "Forward",
+   "position": "Stiker",
    "team": "Retired",
    "nationality": "England",
    "height": "6'7\"",
@@ -1676,7 +1650,7 @@
    "full_name": "Andrea Barzagli",
    "birth_date": "08-05-1981",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'2\"",
@@ -1810,7 +1784,7 @@
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'9\"",
-   "description": "Argentine midfielder known for his dribbling and work rate."
+   "description": "Italian midfielder known for his dribbling and work rate."
 },
 {
    "id": 168,
@@ -2207,7 +2181,7 @@
   "id": 202,
   "last_name": "Bebeto",
   "img": "/football/img/players/Bebeto.webp",
-  "full_name": "Bebeto",
+  "full_name": "Jose Bebeto",
   "birth_date": "16-02-1964",
 
   "position": "Forward",
@@ -2288,7 +2262,7 @@
     "full_name": "Ronald Koeman",
     "birth_date": "21-03-1963",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "6'1\"",
@@ -2379,11 +2353,11 @@
     "full_name": "Jaap Stam",
     "birth_date": "17-07-1972",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "6'3\"",
-    "description": "Solid Dutch center-back known for strength and defense."
+    "description": "Solid Dutch centre back known for strength and defense."
   },
   {
     "id": 218,
@@ -2405,7 +2379,7 @@
     "full_name": "Frank de Boer",
     "birth_date": "15-05-1970",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "6'0\"",
@@ -2457,7 +2431,7 @@
     "full_name": "Paolo Montero",
     "birth_date": "03-09-1971",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Uruguay",
     "height": "6'0\"",
@@ -2470,7 +2444,7 @@
     "full_name": "Ciro Ferrara",
     "birth_date": "11-02-1967",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'0\"",
@@ -2496,11 +2470,11 @@
     "full_name": "Ricardo Carvalho",
     "birth_date": "18-05-1978",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Portugal",
     "height": "6'0\"",
-    "description": "Portuguese center-back known for his solid defensive performances."
+    "description": "Portuguese centre back known for his solid defensive performances."
   },
   {
     "id": 227,
@@ -2509,7 +2483,7 @@
     "full_name": "Branislav Ivanović",
     "birth_date": "22-02-1984",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "Serbia",
     "height": "6'2\"",
@@ -2522,8 +2496,8 @@
     "full_name": "Joe Cole",
     "birth_date": "08-11-1981",
 
-    "position": "Midfielder",
-    "team": "Attacking Midfielder",
+    "position": "Attacking Midfielder",
+    "team": "Retired",
     "nationality": "England",
     "height": "5'9\"",
     "description": "English midfielder with exceptional dribbling and creative abilities."
@@ -2587,7 +2561,7 @@
     "full_name": "Paulo Ferreira",
     "birth_date": "18-01-1979",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "Portugal",
     "height": "6'0\"",
@@ -2652,7 +2626,7 @@
     "full_name": "Kolo Toure",
     "birth_date": "19-03-1981",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Ivory Coast",
     "height": "5'11\"",
@@ -2678,8 +2652,8 @@
     "full_name": "P-E Aubameyang",
     "birth_date": "18-06-1989",
 
-    "position": "Striker",
-    "team": "Retired",
+    "position": "Forward",
+    "team": "Marseille",
     "nationality": "Gabon",
     "height": "6'2\"",
     "description": "Gabonese striker known for his speed and goal-scoring prowess."
@@ -2821,7 +2795,7 @@
     "full_name": "Micah Richards",
     "birth_date": "24-06-1988",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "England",
     "height": "6'1\"",
@@ -2886,7 +2860,7 @@
     "full_name": "Jermain Defoe",
     "birth_date": "07-10-1982",
 
-    "position": "Forward",
+    "position": "Striker",
     "team": "Retired",
     "nationality": "England",
     "height": "5'7\"",
@@ -2899,11 +2873,11 @@
     "full_name": "Kieran Trippier",
     "birth_date": "19-09-1990",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "England",
     "height": "5'10\"",
-    "description": "Former English footballer, versatile right-back."
+    "description": "Former English footballer, versatile right back."
   },
   {
     "id": 263,
@@ -2912,8 +2886,8 @@
     "full_name": "Laurent Blanc",
     "birth_date": "19-11-1965",
 
-    "position": "Defender",
-    "team": "Centre-Back",
+    "position": "Centre Back",
+    "team": "Retired",
     "nationality": "France",
     "height": "6'3\"",
     "description": "Former French footballer, elegant central defender."
@@ -2938,7 +2912,7 @@
     "full_name": "Paolo Cannavaro",
     "birth_date": "13-06-1981",
 
-    "position": "Defender",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "5'10\"",
@@ -2961,7 +2935,7 @@
     "full_name": "Alvaro Arbeloa",
     "team": "Retired",
     "nationality": "Spain",
-    "position": "Defender",
+    "position": "Right Back",
     "description": "Spanish footballer, versatile defender, known for defensive skills."
   },
   {
@@ -3091,7 +3065,7 @@
   "full_name": "Samuel Eto'o",
   "team": "Retired",
   "nationality": "Cameroon",
-  "position": "Forward",
+  "position": "Striker",
   "description": "Cameroonian forward and goal-scoring sensation."
 },
 {
@@ -3111,7 +3085,7 @@
   "full_name": "Andrey Arshavin",
   "team": "Retired",
   "nationality": "Russia",
-  "position": "Midfielder",
+  "position": "Left Winger",
   "description": "Russian midfielder known for flair and creativity."
 },
 {
@@ -3131,7 +3105,7 @@
   "full_name": "Mikel Arteta",
   "team": "Retired",
   "nationality": "Spain",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "Spanish midfielder known for his tactical awareness."
 },
 {
@@ -3195,16 +3169,6 @@
   "description": "Scottish football legend and former Liverpool player."
 },
 {
-  "id": 293,
-  "last_name": "Carragher",
-  "img": "/football/img/players/Carragher.webp",
-  "full_name": "Jamie Carragher",
-  "team": "Retired",
-  "nationality": "England",
-  "position": "Defender",
-  "description": "English defender known for his loyalty to Liverpool."
-},
-{
   "id": 294,
   "last_name": "Fowler",
   "img": "/football/img/players/Fowler.webp",
@@ -3253,16 +3217,6 @@
   "nationality": "Brazil",
   "position": "Midfielder",
   "description": "Brazilian midfielder and former PSG captain."
-},
-{
-  "id": 299,
-  "last_name": "Berbatov",
-  "img": "/football/img/players/Berbatov.webp",
-  "full_name": "Dimitar Berbatov",
-  "team": "Retired",
-  "nationality": "Bulgaria",
-  "position": "Forward",
-  "description": "Bulgarian forward known for elegance and skill."
 },
 {
   "id": 300,
@@ -3341,7 +3295,7 @@
   "full_name": "Didier Deschamps",
   "team": "Retired",
   "nationality": "France",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "French midfielder and World Cup-winning coach."
 },
 {
@@ -3431,7 +3385,7 @@
   "full_name": "Emre Can",
   "team": "Dortmund",
   "nationality": "Germany",
-  "position": "Midfielder",
+  "position": "Defensive Midfielder",
   "description": "German midfielder known for versatility and strength."
 },
 {
@@ -3481,7 +3435,7 @@
   "full_name": "Roberto Donadoni",
   "team": "Retired",
   "nationality": "Italy",
-  "position": "Midfielder",
+  "position": "Right Winger",
   "description": "Italian midfielder known for his dribbling skills."
 },
 {
@@ -3501,7 +3455,7 @@
   "full_name": "G van Bronckhorst",
   "team": "Retired",
   "nationality": "Netherlands",
-  "position": "Defender",
+  "position": "Left Back",
   "description": "Dutch defender known for his versatility."
 },
 {
@@ -3612,7 +3566,7 @@
     "team": "Manchester City",
     "nationality": "England",
     "position": "Defender",
-    "description": "Northern Irish left-back known for his pace and crossing."
+    "description": "Northern Irish left back known for his pace and crossing."
   },
   {
     "id": 335,
@@ -3622,7 +3576,7 @@
     "team": "Real Madrid",
     "nationality": "France",
     "position": "Defender",
-    "description": "Solid French left-back with defensive prowess."
+    "description": "Solid French left back with defensive prowess."
   },
   {
     "id": 336,
@@ -3651,7 +3605,7 @@
     "full_name": "Noussair Mazraoui",
     "team": "Bayern Munich",
     "nationality": "Morocco",
-    "position": "Right-Back",
+    "position": "Right Back",
     "description": "Versatile Moroccan full-back known for his attacking prowess."
   },
   {
@@ -3661,8 +3615,8 @@
     "full_name": "Dayot Upamecano",
     "team": "Bayern Munich",
     "nationality": "France",
-    "position": "Centre-Back",
-    "description": "French center-back known for his strength and tackling ability."
+    "position": "Centre Back",
+    "description": "French centre back known for his strength and tackling ability."
   },
   {
     "id": 340,
@@ -3681,8 +3635,8 @@
     "full_name": "Bouna Sarr",
     "team": "Bayern Munich",
     "nationality": "Senegal",
-    "position": "Centre-Back",
-    "description": "Senegalese right-back known for his defensive skills."
+    "position": "Centre Back",
+    "description": "Senegalese right back known for his defensive skills."
   },
   {
     "id": 342,
@@ -3711,8 +3665,8 @@
     "full_name": "Andreas Christensen",
     "team": "Barcelona",
     "nationality": "Denmark",
-    "position": "Centre-Back",
-    "description": "Danish center-back with strong defensive abilities."
+    "position": "Centre Back",
+    "description": "Danish centre back with strong defensive abilities."
   },
   {
     "id": 345,
@@ -3781,8 +3735,8 @@
     "full_name": "Joel Matip",
     "team": "Liverpool",
     "nationality": "Cameroon",
-    "position": "Centre-Back",
-    "description": "Cameroonian center-back with strong defensive abilities."
+    "position": "Centre Back",
+    "description": "Cameroonian centre back with strong defensive abilities."
   },
   {
     "id": 352,
@@ -3801,7 +3755,7 @@
     "full_name": "Joe Gomez",
     "team": "Liverpool",
     "nationality": "England",
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "description": "English defender known for his pace and defensive skills."
   },
   {
@@ -3831,8 +3785,8 @@
     "full_name": "Konstantinos Tsimikas",
     "team": "Liverpool",
     "nationality": "Greece",
-    "position": "Left-Back",
-    "description": "Greek left-back known for his crossing ability."
+    "position": "Left Back",
+    "description": "Greek left back known for his crossing ability."
   },
   {
     "id": 357,
@@ -3871,7 +3825,7 @@
     "full_name": "Nordi Mukiele",
     "team": "PSG",
     "nationality": "France",
-    "position": "Right-Back",
+    "position": "Right Back",
     "description": "French defender known for his versatility."
   },
   {
@@ -3901,8 +3855,8 @@
     "full_name": "Presnel Kimpembe",
     "team": "PSG",
     "nationality": "France",
-    "position": "Centre-Back",
-    "description": "French center-back with good defensive attributes."
+    "position": "Centre Back",
+    "description": "French centre back with good defensive attributes."
   },
   {
     "id": 364,
@@ -3911,8 +3865,8 @@
     "full_name": "Nuno Mendes",
     "team": "PSG",
     "nationality": "Portugal",
-    "position": "Left-Back",
-    "description": "Portuguese left-back known for his attacking runs."
+    "position": "Left Back",
+    "description": "Portuguese left back known for his attacking runs."
   },
   {
     "id": 365,
@@ -3922,7 +3876,7 @@
     "team": "Inter Milan",
     "nationality": "Italy",
     "position": "Centre Back",
-    "description": "Italian center-back with solid defensive skills."
+    "description": "Italian centre back with solid defensive skills."
   },
   {
     "id": 366,
@@ -3941,7 +3895,7 @@
     "full_name": "Jurrien Timber",
     "team": "Arsenal",
     "nationality": "Netherlands",
-    "position": "Right-Back",
+    "position": "Right Back",
     "description": "Dutch defender known for his composure and passing ability."
   },
   {
@@ -3951,7 +3905,7 @@
     "full_name": "Takehiro Tomiyasu",
     "team": "Arsenal",
     "nationality": "Japan",
-    "position": "Right-Back",
+    "position": "Right Back",
     "description": "Japanese versatile defender with strong aerial presence."
   },
   {
@@ -4001,8 +3955,8 @@
     "full_name": "Aaron Wan-Bissaka",
     "team": "Manchester United",
     "nationality": "England",
-    "position": "Right-Back",
-    "description": "English right-back known for his tackling and defensive skills."
+    "position": "Right Back",
+    "description": "English right back known for his tackling and defensive skills."
   },
   {
     "id": 374,
@@ -4031,8 +3985,8 @@
     "full_name": "Tyrell Malacia",
     "team": "Manchester United",
     "nationality": "Netherlands",
-    "position": "Left-Back",
-    "description": "Dutch left-back known for his pace and defensive skills."
+    "position": "Left Back",
+    "description": "Dutch left back known for his pace and defensive skills."
   },
   {
     "id": 377,
@@ -4041,8 +3995,8 @@
     "full_name": "Sergio Reguilon",
     "team": "Manchester United",
     "nationality": "Spain",
-    "position": "Left-Back",
-    "description": "Spanish left-back with attacking prowess."
+    "position": "Left Back",
+    "description": "Spanish left back with attacking prowess."
   },
   {
     "id": 378,
@@ -4071,8 +4025,8 @@
     "full_name": "Victor Lindelof",
     "team": "Manchester United",
     "nationality": "Sweden",
-    "position": "Centre-Back",
-    "description": "Swedish center-back with good passing ability."
+    "position": "Centre Back",
+    "description": "Swedish centre back with good passing ability."
   },
   {
     "id": 381,
@@ -4111,8 +4065,8 @@
     "full_name": "Wesley Fofana",
     "team": "Chelsea",
     "nationality": "France",
-    "position": "Centre-Back",
-    "description": "French center-back with promising talent."
+    "position": "Centre Back",
+    "description": "French centre back with promising talent."
   },
   {
     "id": 385,
@@ -4121,7 +4075,7 @@
     "full_name": "Marc Cucurella",
     "team": "Chelsea",
     "nationality": "Spain",
-    "position": "Left-Back",
+    "position": "Left Back",
     "description": "Spanish midfielder known for his versatility."
   },
   {
@@ -4181,7 +4135,7 @@
     "full_name": "Lilian Thuram",
     "team": "Retired",
     "nationality": "France",
-    "position": "Right-Back",
+    "position": "Right Back",
     "description": "Rock-solid defender with unmatched consistency."
 },
 {
@@ -4191,7 +4145,7 @@
     "full_name": "Lucio Ferreira",
     "team": "Retired",
     "nationality": "Brazil",
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "description": "Brazilian defender known for his physicality."
 },
 {
@@ -4201,7 +4155,7 @@
     "full_name": "Paolo Maldini",
     "team": "Retired",
     "nationality": "Italy",
-    "position": "Left-Back",
+    "position": "Left Back",
     "description": "Italian legend who excelled as a versatile defender."
 },
 {
@@ -4221,7 +4175,7 @@
     "full_name": "Fabio Cannavaro",
     "team": "Retired",
     "nationality": "Italy",
-    "position": "Center-Back",
+    "position": "Centre Back",
     "description": "Agile, intelligent central defender, excellent reader of the game."
 }
 ]

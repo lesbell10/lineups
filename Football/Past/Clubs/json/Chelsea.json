@@ -97,7 +97,7 @@
     "full_name": "John Terry",
     "birth_date": "07-12-1980",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "England",
     "height": "6'2\"",
@@ -110,7 +110,7 @@
     "full_name": "Gary Cahill",
     "birth_date": "19-12-1985",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "England",
     "height": "6'4\"",
@@ -127,7 +127,7 @@
     "team": "Retired",
     "nationality": "England",
     "height": "5'9\"",
-    "description": "One of the best left-backs in the game's history."
+    "description": "One of the best left backs in the game's history."
   },
   {
     "id": 11,

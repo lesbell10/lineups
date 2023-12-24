@@ -84,11 +84,11 @@
         "full_name": "Nahuel Molina",
         "birth_date": "27-01-1998",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Atletico Madrid",
         "nationality": "Argentina",
         "height": "6'0\"",
-        "description": "Energetic right-back with attacking abilities."
+        "description": "Energetic right back with attacking abilities."
     },
     {
         "id": 8,
@@ -97,11 +97,11 @@
         "full_name": "Cristian Romero",
         "birth_date": "27-04-1998",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Tottenham Hotspur",
         "nationality": "Argentina",
         "height": "6'1\"",
-        "description": "Solid and composed center-back."
+        "description": "Solid and composed centre back."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Lisandro Martinez",
         "birth_date": "18-01-1998",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Manchester United",
         "nationality": "Argentina",
         "height": "5'11\"",
@@ -127,7 +127,7 @@
         "team": "Sevilla",
         "nationality": "Argentina",
         "height": "5'9\"",
-        "description": "Attack-minded left-back with a strong cross."
+        "description": "Attack-minded left back with a strong cross."
     },
     {
         "id": 11,

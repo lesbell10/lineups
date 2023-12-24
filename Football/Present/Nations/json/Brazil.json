@@ -84,7 +84,7 @@
         "full_name": "Eder Militao",
         "birth_date": "18-01-1998",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Real Madrid",
         "nationality": "Brazil",
         "height": "6'2\"",
@@ -97,11 +97,11 @@
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "PSG",
         "nationality": "Brazil",
         "height": "6'0\"",
-        "description": "Composed center-back with leadership qualities."
+        "description": "Composed centre back with leadership qualities."
     },
     {
         "id": 9,
@@ -123,11 +123,11 @@
         "full_name": "Danilo Luiz",
         "birth_date": "15-07-1991",
 
-        "position": "Right-back",
+        "position": "Right Back",
         "team": "Juventus",
         "nationality": "Brazil",
         "height": "6'0\"",
-        "description": "Experienced right-back known for defensive skills."
+        "description": "Experienced right back known for defensive skills."
     },
     {
         "id": 11,

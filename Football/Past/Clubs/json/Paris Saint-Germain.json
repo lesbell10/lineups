@@ -101,7 +101,7 @@
         "team": "Chelsea",
         "nationality": "Brazil",
         "height": "6'0\"",
-        "description": "Experienced center-back with strong defensive skills."
+        "description": "Experienced centre back with strong defensive skills."
     },
     {
         "id": 9,
@@ -123,11 +123,11 @@
         "full_name": "Juan Bernat",
         "birth_date": "01-03-1993",
 
-        "position": "Defender",
+        "position": "Left Back",
         "team": "Benfica",
         "nationality": "Spain",
         "height": "5'7\"",
-        "description": "Left-back with attacking and defensive abilities."
+        "description": "left back with attacking and defensive abilities."
     },
     {
         "id": 11,

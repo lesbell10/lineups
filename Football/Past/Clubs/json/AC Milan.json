@@ -89,7 +89,7 @@
   "team": "Retired",
   "nationality": "Italy",
   "height": "6'1\"",
-  "description": "Energetic right-back known for his speed."
+  "description": "Energetic right back known for his speed."
 },
 {
   "id": 8,
@@ -98,7 +98,7 @@
   "full_name": "Thiago Silva",
   "birth_date": "22-09-1984",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Chelsea",
   "nationality": "Brazil",
   "height": "6'0\"",
@@ -111,7 +111,7 @@
   "full_name": "Alessandro Nesta",
   "birth_date": "19-03-1976",
 
-  "position": "Center-Back",
+  "position": "Centre Back",
   "team": "Retired",
   "nationality": "Italy",
   "height": "6'2\"",

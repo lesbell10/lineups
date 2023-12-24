@@ -97,11 +97,11 @@
     "full_name": "Matthijs de Ligt",
     "birth_date": "12-08-1999",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Bayern Munich",
     "nationality": "Netherlands",
     "height": "6'2\"",
-    "description": "Young and commanding center-back with great potential."
+    "description": "Young and commanding centre back with great potential."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Min-Jae Kim",
     "birth_date": "15-01-1987",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Bayern Munich",
     "nationality": "South Korea",
     "height": "6'3\"",
@@ -123,11 +123,11 @@
     "full_name": "Alphonso Davies",
     "birth_date": "02-11-2000",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Bayern Munich",
     "nationality": "Canada",
     "height": "5'11\"",
-    "description": "Young and speedy left-back with a bright future."
+    "description": "Young and speedy left back with a bright future."
   },
   {
     "id": 11,

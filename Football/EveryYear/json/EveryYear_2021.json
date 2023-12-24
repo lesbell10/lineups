@@ -84,7 +84,7 @@
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'10\"",
@@ -97,7 +97,7 @@
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Liverpool",
         "nationality": "Netherlands",
         "height": "6'4\"",
@@ -110,7 +110,7 @@
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Sevilla",
         "nationality": "Spain",
         "height": "6'0\"",
@@ -123,11 +123,11 @@
         "full_name": "Andy Robertson",
         "birth_date": "11-03-1994",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Liverpool",
         "nationality": "Scotland",
         "height": "5'11\"",
-        "description": "Scottish left-back, Liverpool's reliable, attacking defender"
+        "description": "Scottish left back, Liverpool's reliable, attacking defender"
     },
     {
         "id": 11,

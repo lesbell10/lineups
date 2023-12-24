@@ -88,7 +88,7 @@
         "team": "Liverpool",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "World-class right-back known for his crosses."
+        "description": "World-class right back known for his crosses."
     },
     {
         "id": 8,
@@ -97,11 +97,11 @@
         "full_name": "John Stones",
         "birth_date": "28-05-1994",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "Manchester City",
         "nationality": "England",
         "height": "6'2\"",
-        "description": "Solid center-back with ball-playing skills."
+        "description": "Solid centre back with ball-playing skills."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Fikayo Tomori",
         "birth_date": "19-12-1997",
 
-        "position": "Center-back",
+        "position": "Centre Back",
         "team": "AC Milan",
         "nationality": "England",
         "height": "6'1\"",
@@ -123,11 +123,11 @@
         "full_name": "Luke Shaw",
         "birth_date": "12-07-1995",
 
-        "position": "Left-back",
+        "position": "Left Back",
         "team": "Manchester United",
         "nationality": "England",
         "height": "6'0\"",
-        "description": "Attacking left-back with excellent crossing."
+        "description": "Attacking left back with excellent crossing."
     },
     {
         "id": 11,

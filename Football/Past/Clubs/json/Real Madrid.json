@@ -6,7 +6,7 @@
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
 
-        "position": "Striker",
+        "position": "Forward",
         "team": "Al Ittihad",
         "nationality": "France",
         "height": "6'1\"",
@@ -84,11 +84,11 @@
         "full_name": "Daniel Carvajal",
         "birth_date": "11-01-1992",
 
-        "position": "Defender",
+        "position": "Right Back",
         "team": "Real Madrid",
         "nationality": "Spain",
         "height": "5'8\"",
-        "description": "Right-back with solid defensive skills."
+        "description": "Right back with solid defensive skills."
     },
     {
         "id": 8,
@@ -110,11 +110,11 @@
         "full_name": "Raphael Varane",
         "birth_date": "25-04-1993",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Manchester United",
         "nationality": "France",
         "height": "6'3\"",
-        "description": "Strong center-back with pace and composure."
+        "description": "Strong centre back with pace and composure."
     },
     {
         "id": 10,
@@ -123,11 +123,11 @@
         "full_name": "Marcelo Vieira",
         "birth_date": "12-05-1988",
 
-        "position": "Left-Back",
+        "position": "Left Back",
         "team": "Fluminense",
         "nationality": "Brazil",
         "height": "5'9\"",
-        "description": "Attacking left-back known for his skills."
+        "description": "Attacking left back known for his skills."
     },
     {
         "id": 11,

@@ -84,7 +84,7 @@
         "full_name": "Gianluca Zambrotta",
         "birth_date": "19-02-1977",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Retired",
         "nationality": "Italy",
         "height": "5'11\"",
@@ -97,7 +97,7 @@
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
 
-        "position": "Centre-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
         "height": "6'2\"",
@@ -110,7 +110,7 @@
         "full_name": "Fabio Cannavaro",
         "birth_date": "13-09-1973",
 
-        "position": "Center-Back",
+        "position": "Centre Back",
         "team": "Retired",
         "nationality": "Italy",
         "height": "5'9\"",
@@ -127,7 +127,7 @@
         "team": "Retired",
         "nationality": "France",
         "height": "6'1\"",
-        "description": "Solid, fast left-back, defensively reliable, offensively contributive."
+        "description": "Solid, fast left back, defensively reliable, offensively contributive."
     },
     {
         "id": 11,

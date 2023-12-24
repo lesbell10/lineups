@@ -84,11 +84,11 @@
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
 
-        "position": "Right-Back",
+        "position": "Right Back",
         "team": "Barcelona",
         "nationality": "Portugal",
         "height": "6'0\"",
-        "description": "Attacking right-back with excellent crossing skills."
+        "description": "Attacking right back with excellent crossing skills."
     },
     {
         "id": 8,
@@ -97,11 +97,11 @@
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
 
-        "position": "Defender",
+        "position": "Centre Back",
         "team": "Manchester City",
         "nationality": "Portugal",
         "height": "6'2\"",
-        "description": "Solid center-back known for his defensive prowess."
+        "description": "Solid centre back known for his defensive prowess."
     },
     {
         "id": 9,
@@ -110,7 +110,7 @@
         "full_name": "Danilo Pereira",
         "birth_date": "09-09-1991",
 
-        "position": "Dfensive Midfielder, Central Defender",
+        "position": "Centre Back",
         "team": "PSG",
         "nationality": "Portugal",
         "height": "6'2\"",
@@ -127,7 +127,7 @@
         "team": "Bayern Munich",
         "nationality": "Portugal",
         "height": "5'7\"",
-        "description": "Left-back with exceptional dribbling skills."
+        "description": "left back with exceptional dribbling skills."
     },
     {
         "id": 11,

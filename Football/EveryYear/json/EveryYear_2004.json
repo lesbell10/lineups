@@ -64,10 +64,10 @@
     "last_name": "Cafu",
     "img": "/football/img/players/Cafu.webp",
     "full_name": "Marcos Cafu",
-    "team": "AC Milan",
+    "team": "Retired",
     "nationality": "Brazil",
-    "position": "Right-Back",
-    "description": "Legendary full-back, World Cup winner, Brazilian hero."
+    "position": "Right Back",
+    "description": "Legendary right back, World Cup winner, Brazilian hero."
   },
   {
     "id": 8,
@@ -94,17 +94,17 @@
     "last_name": "R Carlos",
     "img": "/football/img/players/R%20Carlos.webp",
     "full_name": "Roberto Carlos",
-    "team": "Real Madrid",
+    "team": "Retired",
     "nationality": "Brazil",
-    "position": "Left-Back",
-    "description": "Free-kick specialist, attacking full-back, Brazilian dynamo."
+    "position": "Left Back",
+    "description": "Free-kick specialist, attacking left back, Brazilian dynamo."
   },
   {
     "id": 11,
     "last_name": "Cech",
     "img": "/football/img/players/Cech.webp",
     "full_name": "Petr Cech",
-    "team": "Chelsea",
+    "team": "Retired",
     "nationality": "Czech Republic",
     "position": "Goalkeeper",
     "description": "Goalkeeping legend, safe hands, shot-stopping brilliance."

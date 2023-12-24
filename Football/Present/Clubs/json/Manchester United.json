@@ -84,11 +84,11 @@
     "full_name": "Diogo Dalot",
     "birth_date": "18-03-1999",
 
-    "position": "Right-Back",
+    "position": "Right Back",
     "team": "Manchester United",
     "nationality": "Portugal",
     "height": "5'11\"",
-    "description": "Energetic right-back known for his crossing ability."
+    "description": "Energetic right back known for his crossing ability."
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "full_name": "Raphael Varane",
     "birth_date": "25-04-1993",
 
-    "position": "Center-Back",
+    "position": "Centre Back",
     "team": "Manchester United",
     "nationality": "France",
     "height": "6'3\"",
-    "description": "World-class center-back with impeccable defensive skills."
+    "description": "World-class centre back with impeccable defensive skills."
   },
   {
     "id": 9,
@@ -110,7 +110,7 @@
     "full_name": "Lisandro Martinez",
     "birth_date": "18-01-1998",
 
-    "position": "Center-back",
+    "position": "Centre Back",
     "team": "Manchester United",
     "nationality": "Argentina",
     "height": "5'11\"",
@@ -123,11 +123,11 @@
     "full_name": "Luke Shaw",
     "birth_date": "12-07-1995",
 
-    "position": "Left-Back",
+    "position": "Left Back",
     "team": "Manchester United",
     "nationality": "England",
     "height": "6'1\"",
-    "description": "Attacking left-back with excellent crossing ability."
+    "description": "Attacking left back with excellent crossing ability."
   },
   {
     "id": 11,
