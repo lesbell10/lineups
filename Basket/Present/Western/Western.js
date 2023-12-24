@@ -18,7 +18,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         PG.textContent = "L Doncic";
         SG.textContent = "K Irving";
         SF.textContent = "T Hardaway Jr";
@@ -45,7 +45,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         PG.textContent = "J Murray";
         SG.textContent = "K Caldwell-P";
         SF.textContent = "M Porter Jr";
@@ -73,7 +73,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         PG.textContent = "C Paul";
         SG.textContent = "S Curry";
         SF.textContent = "K Thompson";
@@ -101,7 +101,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         PG.textContent = "F VanVleet";
         SG.textContent = "J Green";
         SF.textContent = "D Brooks";
@@ -128,7 +128,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         PG.textContent = "J Harden";
         SG.textContent = "R Westbrook";
         SF.textContent = "P George";
@@ -156,7 +156,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         PG.textContent = "D Russell";
         SG.textContent = "A Reaves";
         SF.textContent = "L James";
@@ -183,7 +183,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         PG.textContent = "J Morant";
         SG.textContent = "M Smart";
         SF.textContent = "D Bane";
@@ -210,7 +210,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         PG.textContent = "A Edwards";
         SG.textContent = "J McDaniels";
         SF.textContent = "N Reid";
@@ -238,7 +238,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         PG.textContent = "CJ McCollum";
         SG.textContent = "H Jones";
         SF.textContent = "B Ingram";
@@ -266,7 +266,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Giddey";
         SF.textContent = "J Williams";
@@ -293,7 +293,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "10") {
+    if (selectedYear == "10") {
         PG.textContent = "D Booker";
         SG.textContent = "B Beal";
         SF.textContent = "E Gordon";
@@ -320,7 +320,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
         PG.textContent = "M Brogdon";
         SG.textContent = "A Simons";
         SF.textContent = "S Sharpe";
@@ -348,7 +348,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         PG.textContent = "D Fox";
         SG.textContent = "M Monk";
         SF.textContent = "H Barnes";
@@ -376,7 +376,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         PG.textContent = "V Wembanyama";
         SG.textContent = "Tr Jones";
         SF.textContent = "K Johnson";
@@ -404,7 +404,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
         PG.textContent = "C Sexton";
         SG.textContent = "J Clarkson";
         SF.textContent = "L Markkanen";
@@ -472,7 +472,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == 0) {
         PG.textContent = "L Doncic";
         SG.textContent = "K Irving";
         SF.textContent = "T Hardaway Jr";
@@ -490,7 +490,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/dallas.json");
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == 1) {
         PG.textContent = "J Murray";
         SG.textContent = "K Caldwell-P";
         SF.textContent = "M Porter Jr";
@@ -509,7 +509,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/denver.json");
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == 2) {
         PG.textContent = "C Paul";
         SG.textContent = "S Curry";
         SF.textContent = "K Thompson";
@@ -528,7 +528,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/golden state.json");
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == 3) {
         PG.textContent = "F VanVleet";
         SG.textContent = "J Green";
         SF.textContent = "D Brooks";
@@ -546,7 +546,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/houston.json");
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == 4) {
         PG.textContent = "J Harden";
         SG.textContent = "R Westbrook";
         SF.textContent = "P George";
@@ -565,7 +565,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/la clippers.json");
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == 5) {
         PG.textContent = "D Russell";
         SG.textContent = "A Reaves";
         SF.textContent = "L James";
@@ -583,7 +583,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/la lakers.json");
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == 6) {
         PG.textContent = "J Morant";
         SG.textContent = "M Smart";
         SF.textContent = "D Bane";
@@ -601,7 +601,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/memphis.json");
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == 7) {
         PG.textContent = "A Edwards";
         SG.textContent = "J McDaniels";
         SF.textContent = "N Reid";
@@ -620,7 +620,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/minnesota.json");
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == 8) {
         PG.textContent = "CJ McCollum";
         SG.textContent = "H Jones";
         SF.textContent = "B Ingram";
@@ -639,7 +639,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/new orleans.json");
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == 9) {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Giddey";
         SF.textContent = "J Williams";
@@ -657,7 +657,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/oklahoma city.json");
     }
 
-    if (selectedYear === 10) {
+    if (selectedYear == 10) {
         PG.textContent = "D Booker";
         SG.textContent = "B Beal";
         SF.textContent = "E Gordon";
@@ -675,7 +675,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/phoenix.json");
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear == 11) {
         PG.textContent = "M Brogdon";
         SG.textContent = "A Simons";
         SF.textContent = "S Sharpe";
@@ -694,7 +694,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/portland.json");
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == 12) {
         PG.textContent = "D Fox";
         SG.textContent = "M Monk";
         SF.textContent = "H Barnes";
@@ -713,7 +713,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/sacramento.json");
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == 13) {
         PG.textContent = "V Wembanyama";
         SG.textContent = "Tr Jones";
         SF.textContent = "K Johnson";
@@ -732,7 +732,7 @@ const updateDropdown = () => {
         MainFetchPopUp("/basket/present/western/json/san antonio.json");
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == 14) {
         PG.textContent = "C Sexton";
         SG.textContent = "J Clarkson";
         SF.textContent = "L Markkanen";

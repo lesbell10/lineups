@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Atlanta Hawks, established in 1946, have a storied NBA history with roots in Buffalo, Tri-Cities, and St. Louis. Relocating to Atlanta in 1968, they've had iconic players and moments, highlighted by a championship in 1958 and consistent playoff appearances."
+      sideModal.textContent = "From 2010 to 2020, the Atlanta Hawks had highs, with a 60-win season in 2014-2015 and an Eastern Conference Finals appearance. Subsequently, they focused on rebuilding through the draft and developing young talent for a brighter future."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -64,7 +64,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Boston Celtics, founded in 1946, boast a rich NBA legacy with a record 17 championships.Known for legendary players like Bill Russell and Larry Bird, they epitomize excellence, tradition, and rivalry, particularly with the Los Angeles Lakers, cementing a storied sports history."
+      sideModal.textContent = "From 2010 to 2020, the Boston Celtics transitioned from the \"Big Three\" era to a young, dynamic team. They remained competitive, making multiple Eastern Conference Finals appearances and nurturing stars like Jayson Tatum and Jaylen Brown."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -92,7 +92,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Brooklyn Nets, established in 1967, began as the New Jersey Americans in the ABA, later becoming the New Jersey Nets. Joining the NBA in 1976, they've seen varied success, relocating to Brooklyn in 2012, and evolving into a high-profile team."
+      sideModal.textContent = "From 2010 to 2020, the Brooklyn Nets relocated, initiated a high-profile but short-lived era with Paul Pierce and Kevin Garnett, and later focused on rebuilding, culminating in signing stars Kevin Durant and Kyrie Irving in 2019."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -121,7 +121,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Charlotte Hornets, founded in 1988, experienced relocation to New Orleans in 2002, and Charlotte's subsequent NBA revival in 2004 as the Bobcats. In 2014, they reclaimed the Hornets name, building a legacy marked by community connection and developing talent."
+      sideModal.textContent = "From 2010 to 2020, the Charlotte Hornets (formerly Bobcats) faced challenges, with sporadic playoff appearances. Notable players like Kemba Walker emerged, but consistent success remained elusive. The franchise focused on rebuilding and developing young talent during this period."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -149,7 +149,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Chicago Bulls, established in 1966, soared to global prominence in the 1990s with six NBA championships, largely thanks to Michael Jordan's legendary tenure. Known for their fierce competitiveness, the Bulls have been a cornerstone of Chicago's sports culture and NBA history."
+      sideModal.textContent = "From 2010 to 2020, the Chicago Bulls saw early success with Derrick Rose's MVP season and deep playoff runs, but later faced challenges due to injuries and roster changes, eventually shifting towards rebuilding and developing young talent for future competitiveness."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -177,7 +177,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Cleveland Cavaliers, founded in 1970, reached prominence with a 2016 NBA Championship, largely credited to LeBron James. Known for their dramatic comeback in the finals and passionate fan base, the Cavaliers have become a significant and resilient presence in the NBA."
+      sideModal.textContent = "From 2010 to 2020, the Cleveland Cavaliers experienced a historic period, highlighted by LeBron James' return, a 2016 NBA Championship victory, and four consecutive NBA Finals appearances. Post-2018, they entered a rebuilding phase, focusing on nurturing young talent."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -205,7 +205,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Detroit Pistons, established in 1941 as the Fort Wayne Pistons, moved to Detroit in 1957. Renowned for their Bad Boys era in the late 1980s and early 2000s success, they've won three NBA championships, known for their tough, defensive-minded play."
+      sideModal.textContent = "Between 2010 and 2020, the Detroit Pistons experienced a period of rebuilding and transition, with sporadic playoff appearances but no significant postseason success. The decade was marked by roster changes and efforts to recapture the franchise's former glory through draft picks and trades."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Indiana Pacers, founded in 1967 in the ABA, joined the NBA in 1976. Known for their strong defense and team play, they enjoyed success in the 1990s and early 2000s, with notable players like Reggie Miller, though an NBA title has eluded them."
+      sideModal.textContent = "From 2010 to 2020, the Indiana Pacers were consistently competitive, highlighted by Eastern Conference Finals appearances in 2013 and 2014 led by Paul George. Despite organizational changes and roster turnover, they remained playoff contenders, though without securing a championship."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -261,7 +261,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Miami Heat, established in 1988, quickly became a formidable NBA team. Gaining prominence in the 2000s, they secured three championships, notably with LeBron James and Dwyane Wade. Known for their strong culture and leadership, the Heat continue to be a competitive force."
+      sideModal.textContent = "From 2010 to 2020, the Miami Heat experienced a golden era, forming the \"Big Three\" with LeBron James, Dwyane Wade, and Chris Bosh, winning two NBA championships (2012, 2013), and making four consecutive Finals appearances, followed by a phase of rebuilding and retooling."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -289,7 +289,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Milwaukee Bucks, founded in 1968, quickly found success with a 1971 NBA Championship led by Kareem Abdul - Jabbar.Known for their resilience, the Bucks re - emerged as a powerhouse with Giannis Antetokounmpo, clinching another title in 2021 after a 50 - year drought."
+      sideModal.textContent = "During 2010-2020, the Milwaukee Bucks transitioned from a rebuilding team to contenders, primarily through the emergence of Giannis Antetokounmpo, winning the 2019 MVP. The decade concluded with the Bucks as a top Eastern Conference team, setting the stage for future successes."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -317,7 +317,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The New York Knicks, one of the NBA's original teams founded in 1946, have a storied history with two championships in the 1970s. Playing in the iconic Madison Square Garden, they've had periods of prominence, marked by passionate fans and memorable playoff runs."
+      sideModal.textContent = "From 2010 to 2020, the New York Knicks experienced fluctuating success, highlighted by a strong 2012-2013 season, but largely struggled with consistent performance. The decade was marked by frequent coaching changes, management shifts, and a continuous search for a winning formula."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Orlando Magic, established in 1989, quickly made an impact in the NBA with stars like Shaquille O'Neal and Penny Hardaway. Despite reaching the NBA Finals twice, a championship has eluded them. Known for their dynamic play, they remain a prominent Florida franchise."
+      sideModal.textContent = "From 2010 to 2020, the Orlando Magic went through phases of rebuilding and playoff contention. They secured playoff berths but lacked deep postseason runs. The decade saw changes in coaching and player development efforts."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -373,7 +373,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Philadelphia 76ers, founded in 1946 as the Syracuse Nationals before relocating in 1963, have a rich history with three NBA championships. Known for legendary players like Wilt Chamberlain, Julius Erving and Allen Iverson, the 76ers have been a significant, enduring presence in the league."
+      sideModal.textContent = "From 2010 to 2020, the Philadelphia 76ers experienced highs and lows. They underwent a \"Trust the Process\" rebuild, drafting Joel Embiid and Ben Simmons. Late in the decade, they became a formidable team in the Eastern Conference, with multiple playoff appearances and high expectations for the future."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -401,7 +401,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Toronto Raptors, established in 1995 as part of the NBA's expansion into Canada, have grown into a formidable team. They achieved a pinnacle of success with their 2019 NBA Championship. Known for their diverse and passionate fan base, they've become a prominent Eastern Conference contender."
+      sideModal.textContent = "From 2010 to 2020, the Toronto Raptors evolved from a playoff team to NBA champions in 2019. Led by Kyle Lowry and Kawhi Leonard, they captured their first title, cementing their place as a competitive franchise in the Eastern Conference."
     })
 
     smallpic.addEventListener("mouseout", () => {
@@ -429,7 +429,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "The Washington Wizards, originally the Chicago Packers in 1961 and undergoing several name changes, settled in Washington D.C. in 1974. With a history highlighted by a 1978 NBA Championship, they've had periods of success and iconic players, contributing to a rich basketball legacy."
+      sideModal.textContent = "From 2010 to 2020, the Washington Wizards had moments of success, including playoff appearances and a strong backcourt with John Wall and Bradley Beal. However, they faced inconsistency and roster changes, striving for sustained competitiveness in the Eastern Conference."
     })
 
     smallpic.addEventListener("mouseout", () => {

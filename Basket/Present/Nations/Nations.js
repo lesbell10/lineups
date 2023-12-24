@@ -18,7 +18,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         PG.textContent = "L Doncic";
         SG.textContent = "N Jokic";
         SF.textContent = "G Antetokounmpo";
@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, European basketball continued to thrive, marked by intense competition and high skill levels. The EuroLeague remained the premier club competition, showcasing top-tier talents and teams from across the continent"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -46,7 +46,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Murray";
         SF.textContent = "P Siakam";
@@ -65,7 +65,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, basketball further cemented its status as a global sport.The NBA continued to dominate with its blend of star power and international talent. The FIBA World Cup highlighted the sport's international reach. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -74,7 +74,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         PG.textContent = "S Curry";
         SG.textContent = "J Butler";
         SF.textContent = "L James";
@@ -93,7 +93,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "In 2023, USA Basketball maintained its global dominance with a strong focus on the development and performance of both its men's and women's teams. The NBA continued to showcase exceptional talent and competitiveness, with thrilling playoffs and emerging young stars. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -143,7 +143,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         PG.textContent = "L Doncic";
         SG.textContent = "N Jokic";
         SF.textContent = "G Antetokounmpo";
@@ -159,14 +159,23 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/europe.png";
 
         MainFetchPopUp("/basket/present/nations/json/europe.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, European basketball continued to thrive, marked by intense competition and high skill levels. The EuroLeague remained the premier club competition, showcasing top-tier talents and teams from across the continent"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         PG.textContent = "S Gilgeous-Alexander";
         SG.textContent = "J Murray";
         SF.textContent = "P Siakam";
-        PF.textContent = "KA Towns";
+        PF.textContent = "A Horford";
         C.textContent = "J Embiid";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -178,10 +187,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/rest of world.png";
 
         MainFetchPopUp("/basket/present/nations/json/rest of world.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, basketball further cemented its status as a global sport.The NBA continued to dominate with its blend of star power and international talent. The FIBA World Cup highlighted the sport's international reach. "
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         PG.textContent = "S Curry";
         SG.textContent = "J Butler";
         SF.textContent = "L James";
@@ -198,7 +216,16 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/basket/present/nations/json/usa.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, USA Basketball maintained its global dominance with a strong focus on the development and performance of both its men's and women's teams. The NBA continued to showcase exceptional talent and competitiveness, with thrilling playoffs and emerging young stars. "
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
+
 
 
     function clearAndFadeInElements() {

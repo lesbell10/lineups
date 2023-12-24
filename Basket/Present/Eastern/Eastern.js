@@ -18,7 +18,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         PG.textContent = "T Young";
         SG.textContent = "D Murray";
         SF.textContent = "D Hunter";
@@ -46,7 +46,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         PG.textContent = "J Holiday";
         SG.textContent = "D White";
         SF.textContent = "J Brown";
@@ -74,7 +74,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         PG.textContent = "S Dinwiddie";
         SG.textContent = "Mik Bridges";
         SF.textContent = "C Thomas";
@@ -102,7 +102,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         PG.textContent = "La Ball";
         SG.textContent = "T Rozier III";
         SF.textContent = "G Hayward";
@@ -130,7 +130,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         PG.textContent = "Lo Ball";
         SG.textContent = "Z LaVine";
         SF.textContent = "A Caruso";
@@ -158,7 +158,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         PG.textContent = "D Garland";
         SG.textContent = "D Mitchell";
         SF.textContent = "C LeVert";
@@ -186,7 +186,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         PG.textContent = "C Cunningham";
         SG.textContent = "J Ivey";
         SF.textContent = "A Thompson";
@@ -214,7 +214,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         PG.textContent = "T Haliburton";
         SG.textContent = "B Brown";
         SF.textContent = "B Hield";
@@ -242,7 +242,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         PG.textContent = "T Herro";
         SG.textContent = "C Martin";
         SF.textContent = "J Butler";
@@ -270,7 +270,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
         PG.textContent = "D Lillard";
         SG.textContent = "K Middleton";
         SF.textContent = "G Antetokounmpo";
@@ -298,7 +298,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "10") {
+    if (selectedYear == "10") {
         PG.textContent = "J Brunson";
         SG.textContent = "I Quickley";
         SF.textContent = "RJ Barrett";
@@ -326,7 +326,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
         PG.textContent = "M Fultz";
         SG.textContent = "Co Anthony";
         SF.textContent = "F Wagner";
@@ -354,7 +354,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         PG.textContent = "T Maxey";
         SG.textContent = "K Oubre Jr";
         SF.textContent = "T Harris";
@@ -382,7 +382,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         PG.textContent = "D Schroder";
         SG.textContent = "OG Anunoby";
         SF.textContent = "S Barnes";
@@ -410,7 +410,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
         PG.textContent = "Ty Jones";
         SG.textContent = "J Poole";
         SF.textContent = "K Kuzma";
@@ -479,7 +479,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         PG.textContent = "T Young";
         SG.textContent = "D Murray";
         SF.textContent = "D Hunter";
@@ -495,9 +495,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/atlanta.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/atlanta.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Atlanta Hawks' 2022-23 season was highlighted by the exceptional play of Trae Young, with important contributions from players like John Collins and Clint Capela. Their focus on dynamic offense and team synergy aimed to solidify their position in the NBA's Eastern Conference."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         PG.textContent = "J Holiday";
         SG.textContent = "D White";
         SF.textContent = "J Brown";
@@ -513,11 +523,21 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/boston.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/boston.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Boston Celtics' 2022-23 season was characterized by their strong championship aspirations. Building on their previous success, the team, led by stars Jayson Tatum and Jaylen Brown, showcased a formidable blend of offensive firepower and stout defense."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         PG.textContent = "S Dinwiddie";
-        SG.textContent = "M Bridges";
+        SG.textContent = "Mik Bridges";
         SF.textContent = "C Thomas";
         PF.textContent = "C Johnson";
         C.textContent = "N Claxton";
@@ -531,9 +551,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/brooklyn.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/brooklyn.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brooklyn Nets' 2022-23 season was marked by high expectations and star power. With a roster featuring Kevin Durant and Kyrie Irving, the team aimed to capitalize on its offensive prowess and deep talent pool."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         PG.textContent = "La Ball";
         SG.textContent = "T Rozier III";
         SF.textContent = "G Hayward";
@@ -549,9 +579,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Charlotte.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Charlotte.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Charlotte Hornets' 2022-23 season was a journey of growth and potential. Led by LaMelo Ball, the team showcased a vibrant, up-tempo style of play. Focused on developing young talent like Miles Bridges, they aimed to establish themselves as playoff contenders in the Eastern Conference."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         PG.textContent = "Lo Ball";
         SG.textContent = "Z LaVine";
         SF.textContent = "A Caruso";
@@ -567,9 +607,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Chicago.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Chicago.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Chicago Bulls' 2022-23 season was highlighted by a mix of established talent and emerging stars. Led by DeMar DeRozan and Zach LaVine, the team aimed to build on their cohesive play and offensive strengths."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
         PG.textContent = "D Garland";
         SG.textContent = "D Mitchell";
         SF.textContent = "C LeVert";
@@ -585,9 +635,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Cleveland.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Cleveland.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Cleveland Cavaliers' 2022-23 season showcased a team on the rise in the NBA. Led by young stars like Darius Garland and Evan Mobley, the Cavs displayed a blend of dynamic offense and solid defense."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         PG.textContent = "C Cunningham";
         SG.textContent = "J Ivey";
         SF.textContent = "A Thompson";
@@ -603,9 +663,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Detroit.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Detroit.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Detroit Pistons' 2022-23 season was centered around rebuilding and developing young talent. With a core led by Cade Cunningham, the team focused on growth and potential."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         PG.textContent = "T Haliburton";
         SG.textContent = "B Brown";
         SF.textContent = "B Hield";
@@ -621,9 +691,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Indiana.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Indiana.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Indiana Pacers' 2022-23 season was marked by a period of transition and rebuilding. Emphasizing the development of young players like Tyrese Haliburton, the team aimed to establish a new identity."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         PG.textContent = "T Herro";
         SG.textContent = "C Martin";
         SF.textContent = "J Butler";
@@ -639,9 +719,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Miami.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Miami.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Miami Heat's 2022-23 season was characterized by their signature resilience and strategic gameplay. With key players like Jimmy Butler and Bam Adebayo, the team combined a tough defensive stance with efficient offense."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
         PG.textContent = "D Lillard";
         SG.textContent = "K Middleton";
         SF.textContent = "G Antetokounmpo";
@@ -657,9 +747,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Milwaukee.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Milwaukee.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Milwaukee Bucks' 2022-23 season was highlighted by their continued status as a top NBA contender. With two-time MVP Giannis Antetokounmpo leading the charge, the team combined dominant inside play with solid defense and sharpshooting. "
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 10) {
+    if (selectedYear == "10") {
         PG.textContent = "J Brunson";
         SG.textContent = "I Quickley";
         SF.textContent = "RJ Barrett";
@@ -675,9 +775,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/New York.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/New York.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New York Knicks' 2022-23 season was a quest for resurgence in the NBA. With Julius Randle leading and the emergence of RJ Barrett, the team focused on combining veteran leadership with young talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "11") {
         PG.textContent = "M Fultz";
         SG.textContent = "Co Anthony";
         SF.textContent = "F Wagner";
@@ -693,9 +803,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Orlando.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Orlando.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Orlando Magic in the 2022 - 2023 NBA season showcased a young and evolving team with a focus on development and growth.They displayed flashes of potential and exciting play, particularly from emerging talents like Paolo Banchero and Franz Wagner."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
         PG.textContent = "T Maxey";
         SG.textContent = "K Oubre Jr";
         SF.textContent = "T Harris";
@@ -711,9 +831,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Philadelphia.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Philadelphia 76ers in the 2022-2023 NBA season demonstrated a strong competitive edge, led by stars Joel Embiid and James Harden. Their blend of offensive prowess and defensive strength kept them as contenders in the Eastern Conference."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
         PG.textContent = "D Schroder";
         SG.textContent = "OG Anunoby";
         SF.textContent = "S Barnes";
@@ -729,9 +859,19 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Toronto.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Toronto.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Toronto Raptors in the 2022-2023 season displayed a unique blend of athleticism and versatility, led by Pascal Siakam and Fred VanVleet. Known for their defensive tenacity and innovative coaching strategies, the team navigated through a competitive Eastern Conference."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
         PG.textContent = "Ty Jones";
         SG.textContent = "J Poole";
         SF.textContent = "K Kuzma";
@@ -747,6 +887,16 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/Washington.gif";
 
         MainFetchPopUp("/basket/present/eastern/json/Washington.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Washington Wizards in the 2022-2023 season displayed a combination of potential and challenges. With Bradley Beal as the focal point, they experienced fluctuating performance in the Eastern Conference."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 

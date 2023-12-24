@@ -38,7 +38,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Mavericks, founded in 1980, have established themselves as a notable NBA team. They achieved their greatest success by winning the NBA Championship in 2011, led by Dirk Nowitzki. Known for their innovative approach and loyal fanbase, the Mavericks are a key player in the Western Conference."
+            sideModal.textContent = "From 2010 to 2020, the Dallas Mavericks experienced ups and downs. They won an NBA championship in 2011 led by Dirk Nowitzki but later faced challenges, focusing on rebuilding and the emergence of young talents like Luka Dončić."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -66,7 +66,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Denver Nuggets, established in 1967 as the Denver Rockets in the ABA, joined the NBA in 1976. Known for their high-altitude advantage and fast-paced play, the Nuggets have had notable playoff runs and star players, they won a NBA championship lastly."
+            sideModal.textContent = "From 2010 to 2020, the Denver Nuggets went from a rebuilding team to Western Conference contenders. They developed a young core led by Nikola Jokić and Jamal Murray, making deep playoff runs and becoming a formidable force in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -95,7 +95,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Golden State Warriors, founded in 1946, have a storied NBA history with multiple championships. Known for their revolutionary playing style and sharpshooting, epitomized by players like Stephen Curry, they've become synonymous with success and innovation in modern basketball."
+            sideModal.textContent = "From 2010 to 2020, the Golden State Warriors transformed into an NBA dynasty, winning three championships (2015, 2017, 2018). Led by Stephen Curry, Klay Thompson, and Draymond Green, they set records for regular-season success and became one of the league's iconic teams."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -123,7 +123,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Houston Rockets, established in 1967 and relocating from San Diego to Houston in 1971, have a rich NBA history. Known for their back-to-back championships in the mid-1990s with Hakeem Olajuwon, the Rockets have been a consistent playoff presence with a focus on innovative play."
+            sideModal.textContent = "From 2010 to 2020, the Houston Rockets consistently contended in the Western Conference. They formed \"Lob City\" with James Harden and Dwight Howard, later transitioning to a more three-point-centric style. Despite strong regular seasons, a championship remained elusive."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -151,7 +151,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Los Angeles Clippers, originally the Buffalo Braves in 1970, became the San Diego Clippers in 1978 before moving to Los Angeles in 1984. Historically overshadowed by the Lakers, the Clippers have recently emerged as a strong competitor with significant playoff appearances."
+            sideModal.textContent = "From 2010 to 2020, the LA Clippers transformed into a competitive team in the Western Conference. They acquired stars like Chris Paul, Blake Griffin, and DeAndre Jordan, but playoff success eluded them, despite becoming perennial contenders."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -179,7 +179,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Los Angeles Lakers, with origins as the Minneapolis Lakers in 1947, are one of the NBA's most storied franchises. Relocating to Los Angeles in 1960, they've won multiple championships, featuring legends like Magic Johnson, Kobe Bryant, and LeBron James, symbolizing basketball excellence."
+            sideModal.textContent = "From 2010 to 2020, the LA Lakers experienced highs and lows. They won NBA championships in 2010 and 2020, led by Kobe Bryant and LeBron James, while enduring periods of rebuilding. The decade marked a transition from the Kobe era to a new era of Lakers success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -207,7 +207,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Memphis Grizzlies, originally established as the Vancouver Grizzlies in 1995 and relocating to Memphis in 2001, have carved out a reputation for gritty, defensive basketball. While a championship has eluded them, they've made notable playoff runs, steadily growing as a competitive force in the NBA."
+            sideModal.textContent = "From 2010 to 2020, the Memphis Grizzlies became known for their \"Grit and Grind\" style, led by Zach Randolph and Marc Gasol. They consistently made playoff appearances in the tough Western Conference but fell short of an NBA championship."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -235,7 +235,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Minnesota Timberwolves, established in 1989, have experienced a mix of challenges and successes in the NBA. While championship success has been elusive, the team has seen bright spots with players like Kevin Garnett, making several playoff appearances and continuously striving to build a competitive legacy."
+            sideModal.textContent = "During 2010-2020, the Minnesota Timberwolves struggled for playoff success despite acquiring top talent like Karl-Anthony Towns and Andrew Wiggins. They underwent coaching changes and focused on building a competitive roster for the future."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -263,7 +263,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Orleans Pelicans, established in 2002 as the New Orleans Hornets and renamed in 2013, have been building their identity in the NBA.While a championship title remains a future goal, the Pelicans have showcased talent and resilience, notably with exciting playoff appearances."
+            sideModal.textContent = "From 2010 to 2020, the New Orleans Pelicans underwent various phases, highlighted by the arrival of Anthony Davis. Despite individual success, they faced challenges in becoming a consistent playoff contender in the Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -291,7 +291,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Oklahoma City Thunder, originating as the Seattle SuperSonics in 1967 and relocating in 2008, have quickly established themselves as a formidable NBA team. Known for their strong draft selections and passionate fan base, they reached the NBA Finals in 2012, continually aiming for success."
+            sideModal.textContent = "From 2010 to 2020, the Oklahoma City Thunder transitioned from a young team to NBA Finals contenders, led by Kevin Durant, Russell Westbrook, and James Harden. They consistently made the playoffs but didn't secure an NBA championship."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -319,7 +319,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Phoenix Suns, established in 1968, are one of the NBA's most consistent franchises, known for their uptempo style of play. Despite reaching the NBA Finals multiple times, a championship has eluded them. The Suns continue to be a competitive presence in the Western Conference."
+            sideModal.textContent = "During 2010-2020, the Phoenix Suns experienced ups and downs. They reached the Western Conference Finals in 2021, fueled by Devin Booker and Chris Paul. Prior to that, they faced years of rebuilding and inconsistent performance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -347,7 +347,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Portland Trail Blazers, established in 1970, have a passionate fan base and a storied history, highlighted by their 1977 NBA Championship. Known for their strong home-court advantage and iconic players like Clyde Drexler and Damian Lillard, the Blazers remain a notable Western Conference team."
+            sideModal.textContent = "From 2010 to 2020, the Portland Trail Blazers remained competitive in the Western Conference, led by Damian Lillard and CJ McCollum. They made multiple playoff appearances but struggled to advance deep into the postseason."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -375,7 +375,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Sacramento Kings, with origins dating back to 1923 as the Rochester Seagrams and undergoing several relocations and name changes, settled in Sacramento in 1985. Despite a storied history, an NBA championship has eluded them, but they've had periods of strong performances and fan support."
+            sideModal.textContent = "From 2010 to 2020, the Sacramento Kings faced challenges in rebuilding and consistent playoff contention. They had promising young talents like De'Aaron Fox but struggled to secure a postseason spot in the highly competitive Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -403,7 +403,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The San Antonio Spurs, established in 1967 as the Dallas Chaparrals in the ABA and relocating to San Antonio in 1973, have a distinguished NBA history. Known for their consistent success and five championships, they're celebrated for their team-first culture and legendary coach Gregg Popovich."
+            sideModal.textContent = "From 2010 to 2020, the San Antonio Spurs remained a model of consistency, with Gregg Popovich at the helm. They made multiple playoff appearances, won the 2014 NBA championship, and continued to develop young talents while maintaining a competitive edge in the Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -431,7 +431,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Utah Jazz, originally founded as the New Orleans Jazz in 1974 and relocating to Utah in 1979, have been a consistent presence in the NBA. Known for their strong defensive play and team cohesion, the Jazz have had deep playoff runs but are still seeking their first championship."
+            sideModal.textContent = "During 2010-2020, the Utah Jazz became known for their defensive prowess and made several playoff appearances. They developed a competitive team with stars like Donovan Mitchell and Rudy Gobert but faced challenges advancing deep in the playoffs."
         })
 
         smallpic.addEventListener("mouseout", () => {

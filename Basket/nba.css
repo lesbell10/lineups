@@ -124,8 +124,8 @@ option {
 
 #smallpic {
     position: absolute;
-    bottom: 100px;
-    left: 90px;
+    bottom: 60px;
+    left: 40px;
     cursor: pointer;
 }
 
@@ -438,7 +438,7 @@ nav.home {
     position: absolute;
     padding: 1%;
     right: 66%;
-    top: 27%;
+    top: 190px;
     background-color: darkorange;
     border: 1px solid white;
     border-radius: 20px;

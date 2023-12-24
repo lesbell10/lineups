@@ -245,7 +245,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
     }
 
     if (selectedYear == "12") {
@@ -273,7 +273,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
     }
 
     if (selectedYear == "11") {
@@ -301,7 +301,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
     }
 
     if (selectedYear == "10") {
@@ -329,7 +329,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
     }
 
     if (selectedYear == "9") {
@@ -357,7 +357,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
     }
 
     if (selectedYear == "8") {
@@ -385,7 +385,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
 
     }
 
@@ -414,7 +414,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
 
     }
 
@@ -443,7 +443,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
 
     }
 
@@ -495,7 +495,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy.."
+            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -564,8 +564,8 @@ function updatePlayerInfo() {
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
         SF.textContent = "L James";
-        PF.textContent = "S O'Neal";
-        C.textContent = "T Duncan";
+        PF.textContent = "T Duncan";
+        C.textContent = "S O'Neal";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -589,31 +589,31 @@ function updatePlayerInfo() {
 
     if (selectedYear == "0") {
 
-        PG.textContent = "Iverson";
-        SG.textContent = "McGrady";
-        SF.textContent = "Bryant";
-        PF.textContent = "Duncan";
-        C.textContent = "O'Neal";
-        
+        PG.textContent = "A Iverson";
+        SG.textContent = "T McGrady";
+        SF.textContent = "K Bryant";
+        PF.textContent = "T Duncan";
+        C.textContent = "S O'Neal";
+
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "";
+        smallpic.src = "/basket/img/wallpapers/iverson.jpg";
 
         MainFetchPopUp("");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Allen Iverson, a legendary NBA point guard, was known for his explosive scoring, ball-handling, and crossover dribble. His fearless playing style and cultural impact made him an iconic figure in basketball history."
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-    }    
+    }
 
     function clearAndFadeInElements() {
         const elements = [
@@ -655,7 +655,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear == 19) {
+    if (selectedYear == "20") {
 
         PG.textContent = "S Curry";
         SG.textContent = "L James";
@@ -684,7 +684,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear == 18) {
+    if (selectedYear == "19") {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Durant";
@@ -712,7 +712,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 17) {
+    if (selectedYear == "18") {
 
         PG.textContent = "S Curry";
         SG.textContent = "K Leonard";
@@ -740,7 +740,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 16) {
+    if (selectedYear == "17") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -768,7 +768,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 15) {
+    if (selectedYear == "16") {
 
         PG.textContent = "J Harden";
         SG.textContent = "K Leonard";
@@ -796,7 +796,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 14) {
+    if (selectedYear == "15") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -824,7 +824,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 13) {
+    if (selectedYear == "14") {
 
         PG.textContent = "R WestBrook";
         SG.textContent = "J Harden";
@@ -852,7 +852,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 12) {
+    if (selectedYear == "13") {
 
         PG.textContent = "S Curry";
         SG.textContent = "R Westbrook";
@@ -880,7 +880,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 11) {
+    if (selectedYear == "12") {
 
         PG.textContent = "S Curry";
         SG.textContent = "J Harden";
@@ -908,7 +908,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 10) {
+    if (selectedYear == "11") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -936,7 +936,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 9) {
+    if (selectedYear == "10") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -964,7 +964,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 8) {
+    if (selectedYear == "9") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -992,7 +992,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 7) {
+    if (selectedYear == "8") {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -1021,7 +1021,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear == 6) {
+    if (selectedYear == "7") {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -1050,10 +1050,10 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear == 5) {
+    if (selectedYear == "6") {
 
         PG.textContent = "C Paul";
-        SG.textContent = "S Wade";
+        SG.textContent = "D Wade";
         SF.textContent = "K Bryant";
         PF.textContent = "L James";
         C.textContent = "K Garnett";
@@ -1079,7 +1079,7 @@ const updateDropdown = () => {
 
     }
 
-    if (selectedYear == 4) {
+    if (selectedYear == "5") {
 
         PG.textContent = "C Paul";
         SG.textContent = "D Wade";
@@ -1107,7 +1107,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 3) {
+    if (selectedYear == "4") {
 
         PG.textContent = "C Paul";
         SG.textContent = "K Bryant";
@@ -1127,7 +1127,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy.."
+            sideModal.textContent = "LeBron James is a basketball icon renowned for his incredible athleticism, leadership, and versatility. With multiple NBA championships and MVP awards, he's a dominant force on and off the court, using his platform to advocate for social change and philanthropy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1135,7 +1135,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 2) {
+    if (selectedYear == "3") {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
@@ -1163,7 +1163,7 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 1) {
+    if (selectedYear == "2") {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
@@ -1191,13 +1191,13 @@ const updateDropdown = () => {
         });
     }
 
-    if (selectedYear == 0) {
+    if (selectedYear == "1") {
 
         PG.textContent = "S Nash";
         SG.textContent = "K Bryant";
         SF.textContent = "L James";
-        PF.textContent = "S O'Neal";
-        C.textContent = "T Duncan";
+        PF.textContent = "T Duncan";
+        C.textContent = "S O'Neal";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -1212,6 +1212,34 @@ const updateDropdown = () => {
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
             sideModal.textContent = "Shaquille O'Neal, a retired NBA legend, dominated as a center for teams like the Lakers and Heat. Known for his immense size and strength, Shaq won multiple championships and MVP awards, leaving a lasting legacy as one of the greatest centers ever."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+
+    if (selectedYear == "0") {
+
+        PG.textContent = "A Iverson";
+        SG.textContent = "T McGrady";
+        SF.textContent = "K Bryant";
+        PF.textContent = "T Duncan";
+        C.textContent = "S O'Neal";
+
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+        SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+        PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+        C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+        smallpic.src = "/basket/img/wallpapers/iverson.jpg";
+
+        MainFetchPopUp("");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Allen Iverson, a legendary NBA point guard, was known for his explosive scoring, ball-handling, and crossover dribble. His fearless playing style and cultural impact made him an iconic figure in basketball history."
         })
 
         smallpic.addEventListener("mouseout", () => {

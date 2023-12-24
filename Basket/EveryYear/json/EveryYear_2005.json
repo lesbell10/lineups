@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "S Nash",
-    "img": "/basket/img/players/S Nash.webp",
+    "img": "/basket/img/players/S Nash.png",
     "full_name": "Steve Nash",
     "team": "Retired",
     "nationality": "Canada",
@@ -30,7 +30,7 @@
     "description": "Rising superstar with incredible versatility."
   },
   {
-    "id": 4,
+    "id": 5,
     "last_name": "S O'Neal",
     "img": "/basket/img/players/S O'Neal.webp",
     "full_name": "Shaquille O'Neal",
@@ -40,7 +40,7 @@
     "description": "Dominant force in the post and NBA champion."
   },
   {
-    "id": 5,
+    "id": 4,
     "last_name": "T Duncan",
     "img": "/basket/img/players/T Duncan.webp",
     "full_name": "Tim Duncan",

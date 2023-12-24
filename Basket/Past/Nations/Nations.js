@@ -12,10 +12,6 @@ const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
-window.onload = function () {
-    smallpic.style.scale = '.75'
-}
-
 let selectedYear = 0
 
 function updatePlayerInfo() {
@@ -41,7 +37,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The USA Basketball National Team, formed in 1936, has a storied history. Dominating in Olympics and World Championships, they blend NBA/WNBA talent with college stars. Their global influence is vast, exemplifying excellence and popularizing basketball worldwide."
+            sideModal.textContent = "The NBA saw the rise of super-teams and a focus on three-point shooting. Notable events included the Miami Heat's \"Big Three\" era, the Golden State Warriors' dominance, and the emergence of stars like Stephen Curry, LeBron James, and Kevin Durant."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -67,7 +63,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "European basketball, introduced in the 1920s, quickly gained popularity. It led to the formation of clubs, leagues, and the prestigious EuroLeague. The sport's growth in Europe has been marked by strong national teams and a significant influence on global basketball."
+            sideModal.textContent = " The EuroLeague, Europe's premier club basketball competition, continued to grow in popularity and competitiveness. The decade saw dominant performances from teams like Real Madrid, CSKA Moscow, and Fenerbahçe."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -79,7 +75,7 @@ function updatePlayerInfo() {
     if (selectedYear === "1") {
         SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
-        SF.textContent = "Olajuwon";
+        SF.textContent = "H Olajuwon";
         PF.textContent = "J Embiid";
         C.textContent = "A Horford";
 
@@ -95,7 +91,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Basketball, invented in 1891 in the USA, rapidly spread worldwide. It became an Olympic sport in 1936. Globally, leagues, clubs, and international competitions flourished, showcasing diverse talents and styles, making basketball a universally beloved and influential sport."
+            sideModal.textContent = "The NBA continued to expand its global reach with players from various countries making significant impacts. Stars like Yao Ming (retired in 2011) and later on, players like Joel Embiid (Cameroon) became international icons."
         })
 
         smallpic.addEventListener("mouseout", () => {
