@@ -21,7 +21,7 @@ function updatePlayerInfo() {
     selectedYear = yearSelector.value;
 
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
 
         FL.textContent = "MacKinnon";
         FC.textContent = "McDavid";
@@ -51,7 +51,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
 
         FL.textContent = "Necas";
         FC.textContent = "Hertl";
@@ -82,7 +82,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
 
         FL.textContent = "Hintz";
         FC.textContent = "Barkov";
@@ -112,7 +112,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
 
         FL.textContent = "Stutzle";
         FC.textContent = "Draisaitl";
@@ -142,7 +142,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
 
         FL.textContent = "Ovechkin";
         FC.textContent = "Kucherov";
@@ -172,7 +172,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
 
         FL.textContent = "Tatar";
         FC.textContent = "Ruzicka";
@@ -202,7 +202,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
 
         FL.textContent = "Pettersson";
         FC.textContent = "Zibanejad";
@@ -232,7 +232,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         FL.textContent = "Meier";
         FC.textContent = "Hischier";
         FR.textContent = "Fiala";
@@ -264,7 +264,7 @@ function updatePlayerInfo() {
         G2.style.objectFit = "cover";
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         FL.textContent = "J Robertson";
         FC.textContent = "Matthews";
         FR.textContent = "M Tkachuk";
@@ -331,7 +331,7 @@ let currentIndex = 0;
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
 
         FL.textContent = "MacKinnon";
         FC.textContent = "McDavid";
@@ -349,11 +349,19 @@ const updateDropdown = () => {
 
         smallpic.src = "/hockey/img/logos/canada.png";
 
-
         MainFetchPopUp("/hockey/present/nations/json/canada.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Team Canada's hockey squad displayed remarkable skill and teamwork, excelling in international competitions. Their roster, a blend of NHL stars and emerging talent, showcased Canada's deep hockey roots and tradition, maintaining their status as a powerhouse in the hockey world."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
 
         FL.textContent = "Necas";
         FC.textContent = "Hertl";
@@ -371,12 +379,20 @@ const updateDropdown = () => {
 
         smallpic.src = "/hockey/img/logos/czech republic.webp";
 
-
         MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Czech hockey in 2023 has been eventful, showcasing the nation's robust participation in the sport at various levels. The Czech Republic's men's national ice hockey team, known as Czechia, is one of the most successful national ice hockey teams in the world"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
 
         FL.textContent = "Hintz";
         FC.textContent = "Barkov";
@@ -395,9 +411,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/finland.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/finland.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Finland's hockey team showcased their renowned skill and resilience, excelling in international tournaments. With a blend of seasoned NHL players and promising domestic talent, they demonstrated tactical brilliance and a deep passion for the game, maintaining their status as elite competitors."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
 
         FL.textContent = "Stutzle";
         FC.textContent = "Draisaitl";
@@ -416,9 +441,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Germany's hockey team showcased remarkable resilience in the IIHF World Championship. They had a dramatic semi-final overtime win against the unbeaten USA. This impressive turnaround led them to their first-ever final, vying for their inaugural IIHF gold medal​"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
 
         FL.textContent = "Ovechkin";
         FC.textContent = "Kucherov";
@@ -437,9 +471,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/russia.png";
 
         MainFetchPopUp("/hockey/present/nations/json/russia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Russian and Belarusian hockey teams were barred from participating in IIHF competitions, including the World Juniors, due to the Ukraine war by Russia. This decision was made by the IIHF Council after a detailed risk assessment."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
 
         FL.textContent = "Tatar";
         FC.textContent = "Ruzicka";
@@ -458,9 +501,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Team Slovakia's hockey team presented a formidable roster at the Ice Hockey World Championships. The team consisted of a mix of experienced players and promising young talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
 
         FL.textContent = "Pettersson";
         FC.textContent = "Zibanejad";
@@ -479,9 +531,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/sweden.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/sweden.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Sweden's national hockey team fielded a strong roster for the IIHF World Championship. Key NHLers included Lucas Raymond and team captain Jakob Silfverberg. Defense was led by NHL veterans Christian Folin and Patrik Nemeth, alongside rising star Rasmus Sandin."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         FL.textContent = "Meier";
         FC.textContent = "Hischier";
         FR.textContent = "Fiala";
@@ -500,11 +561,20 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, Switzerland's national hockey team delivered a commendable performance at the IIHF World Championship. Despite being a smaller hockey nation, they consistently punched above their weight. Their roster comprised a blend of NHL talent and prominent players from European leagues."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         FL.textContent = "J Robertson";
         FC.textContent = "Matthews";
         FR.textContent = "M Tkachuk";
@@ -522,6 +592,15 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/usa.webp";
 
         MainFetchPopUp("/hockey/present/nations/json/united states.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In 2023, the USA hockey team showcased its depth and talent at the IIHF World Championship. Comprising NHL players, NCAA standouts, and young prospects, the team balanced experience and emerging talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     function clearAndFadeInElements() {

@@ -30,7 +30,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
 
         STC.textContent = "Mbappe";
         FR.textContent = "O Dembele";
@@ -70,7 +70,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
 
         STC.textContent = "G Jesus";
         FR.textContent = "Rodrygo";
@@ -111,7 +111,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
 
         STC.textContent = "Morata";
         FR.textContent = "D Olmo";
@@ -151,7 +151,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
 
         STC.textContent = "Kane";
         FR.textContent = "Saka";
@@ -191,7 +191,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
 
         STC.textContent = "Muller";
         FR.textContent = "Sane";
@@ -231,7 +231,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
 
         STC.textContent = "La Martinez";
         FR.textContent = "Messi";
@@ -270,7 +270,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
 
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
@@ -310,7 +310,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
 
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
@@ -350,7 +350,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         STC.textContent = "Lukaku";
         FR.textContent = "Doku";
         AMC.textContent = "De Bruyne";
@@ -389,7 +389,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
 
         STC.textContent = "Gakpo";
         FR.textContent = "Malen";
@@ -479,7 +479,7 @@ let currentIndex = 0;
 const updateDropdown = () => {
     // yearSelector.selectedIndex = currentIndex;
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
 
         STC.textContent = "Mbappe";
         FR.textContent = "O Dembele";
@@ -508,9 +508,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/france.webp"
 
         MainFetchPopUp("/football/present/nations/json/france.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022-23 season was significant as it included the 2022 FIFA World Cup, held in Qatar. Coached by Didier Deschamps, the team is known for its depth of talent, including stars like Kylian Mbappé, Antoine Griezmann, and N'Golo Kanté. France's had a brillant world cup in Qatar but eventually lost to Argentina in the final."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
 
         STC.textContent = "G Jesus";
         FR.textContent = "Rodrygo";
@@ -539,9 +548,19 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/brazil.webp"
 
         MainFetchPopUp("/football/present/nations/json/brazil.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brazil national football team, coached by Tite, showed skillful and attacking style of play during the 2022-23 season. They couldn't add up to their record 5 world cup trophies in Qatar."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
 
         STC.textContent = "Morata";
         FR.textContent = "D Olmo";
@@ -570,9 +589,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/spain.webp"
 
         MainFetchPopUp("/football/present/nations/json/spain.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Spain national football team, known for their possession-based style and technical proficiency, approached the 2022-23 season with a focus on youth development and tactical innovation. Under coach Luis Enrique, the team featured a blend of experienced players and emerging talents like Pedri, Ferran Torres, and Ansu Fati."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
 
         STC.textContent = "Kane";
         FR.textContent = "Saka";
@@ -601,9 +629,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/england.webp"
 
         MainFetchPopUp("/football/present/nations/json/england.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Under the guidance of manager Gareth Southgate, England was known for its blend of experienced players like Harry Kane and young talents like Phil Foden and Jude Bellingham. England's playing style had evolved to combine traditional English physicality with modern, dynamic attacking football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
 
         STC.textContent = "Muller";
         FR.textContent = "Sane";
@@ -632,9 +669,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/germany.webp"
 
         MainFetchPopUp("/football/present/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Germany national football team entered the 2022-23 season with a focus on a blend of innovation and tradition. Under the leadership of coach Hansi Flick, who took over from Joachim Löw, the team was known for its efficient, organized, and attacking style of play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
 
         STC.textContent = "La Martinez";
         FR.textContent = "Messi";
@@ -663,8 +709,17 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/argentina.webp"
 
         MainFetchPopUp("/football/present/nations/json/argentina.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Argentina national football team, led by Lionel Messi, approached the 2022-23 season with high aspirations and a talented squad. Under coach Lionel Scaloni, Argentina combined a tactical, attacking style of play with solid defense to put their hands in the world cup trpy in Qatar. They beat France after penalties"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
 
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
@@ -693,9 +748,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/italy.webp"
 
         MainFetchPopUp("/football/present/nations/json/italy.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Italy national football team, after their triumphant victory in UEFA Euro 2020, faced the 2022-23 season with mixed feelings.Led by coach Roberto Mancini, the team is known for its tactical flexibility, strong defense, and technical midfield play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
 
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
@@ -724,9 +788,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/portugal.webp"
 
         MainFetchPopUp("/football/present/nations/json/portugal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "A major focus for Portugal in the 2022-23 season was the 2022 FIFA World Cup in Qatar. Portugal aimed to leverage their experienced squad and blend of youthful players to make a deep run in the tournament, aspiring to add a World Cup title to their 2016 European Championship victory"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         STC.textContent = "Lukaku";
         FR.textContent = "Doku";
         AMC.textContent = "De Bruyne";
@@ -753,10 +826,19 @@ const updateDropdown = () => {
 
         smallpic.src = "/football/img/logos/belgium.webp"
 
-        MainFetchPopUp("/football/present/nations/json/begium.json");
+        MainFetchPopUp("/football/present/nations/json/belgium.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022 FIFA World Cup in Qatar was a significant focus for Belgium, as the team sought to capitalize on its golden generation's talent. With high rankings in previous years, Belgium aimed to challenge for the title, building on their strong performances in recent international tournaments."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
 
         STC.textContent = "Gakpo";
         FR.textContent = "Malen";
@@ -785,7 +867,17 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/netherlands.webp"
 
         MainFetchPopUp("/football/present/nations/json/netherlands.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Netherlands national football team, known for their Total Football philosophy, entered the 2022-23 season with renewed optimism. Under the leadership of coach Louis van Gaal, the team boasted a combination of experienced players and emerging talents."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
+
 
 
     function clearAndFadeInElements() {

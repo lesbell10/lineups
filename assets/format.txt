@@ -42,3 +42,9 @@ https://chat.openai.com/c/fb37e4ce-9249-4a36-9ff9-7712bcaac34f
   }
 
 https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19
+
+------------------------------------------------------------------------------------------
+
+  smallpic.addEventListener("click", () => {
+      window.open('', '_blank');
+  });

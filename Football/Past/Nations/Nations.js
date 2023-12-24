@@ -30,7 +30,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
         AMC.textContent = "Griezmann";
@@ -69,7 +69,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         STC.textContent = "Neymar";
         FR.textContent = "Hulk";
         AMC.textContent = "Kaka";
@@ -108,7 +108,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
 
         STC.textContent = "F Torres";
         FR.textContent = "D Silva";
@@ -149,7 +149,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
 
         STC.textContent = "Kane";
         FR.textContent = "Sterling";
@@ -190,7 +190,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
 
         STC.textContent = "Muller";
         FR.textContent = "Sane";
@@ -230,7 +230,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         STC.textContent = "Higuain";
         FR.textContent = "Messi";
         AMC.textContent = "Aguero";
@@ -269,7 +269,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
 
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
@@ -309,7 +309,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
         AMC.textContent = "B Fernandes";
@@ -348,7 +348,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
@@ -388,7 +388,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
 
         STC.textContent = "van Persie";
         FR.textContent = "Robben";
@@ -477,7 +477,7 @@ let currentIndex = 0;
 const updateDropdown = () => {
     // yearSelector.selectedIndex = currentIndex;
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
         AMC.textContent = "Griezmann";
@@ -506,9 +506,17 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/nations/json/france.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The France national football team, founded in 1904, is celebrated for winning two FIFA World Cups and two UEFA European Championships. Led by iconic players like Zinedine Zidane and Thierry Henry, Les Bleus are known for their strong defense and attacking flair, making them a global football powerhouse."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         STC.textContent = "Neymar";
         FR.textContent = "Hulk";
         AMC.textContent = "Kaka";
@@ -536,9 +544,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/brazil.webp"
 
         MainFetchPopUp("/football/past/nations/json/brazil.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Brazil national football team, founded in 1914, is one of the most successful in history, winning five FIFA World Cups. Known for its attacking flair, it has produced legendary players like Pelé, Ronaldo, and Neymar, making it an iconic force in international football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
 
         STC.textContent = "F Torres";
         FR.textContent = "D Silva";
@@ -567,9 +584,19 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/spain.webp"
 
         MainFetchPopUp("/football/past/nations/json/spain.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Spain's national football team, from 2010 to 2020, employed the iconic tiki-taka style, securing the 2010 FIFA World Cup and the 2012 UEFA European Championship, revolutionizing football with their possession-based game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
 
         STC.textContent = "Kane";
         FR.textContent = "Sterling";
@@ -598,9 +625,19 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/england.webp"
 
         MainFetchPopUp("/football/past/nations/json/england.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "England's national football team had a decade of ups and downs from 2010 to 2020. They showed promise in international tournaments, reaching the 2018 FIFA World Cup semi-finals, but consistency remained a challenge."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
 
         STC.textContent = "Muller";
         FR.textContent = "Sane";
@@ -629,9 +666,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/germany.webp"
 
         MainFetchPopUp("/football/past/nations/json/germany.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Germany's national football team, from 2010 to 2020, experienced triumph and transition. They won the 2014 FIFA World Cup but faced challenges in later tournaments. A new generation of talent emerged, reflecting a shift in German football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         STC.textContent = "Higuain";
         FR.textContent = "Messi";
         AMC.textContent = "Aguero";
@@ -659,9 +705,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/argentina.webp"
 
         MainFetchPopUp("/football/past/nations/json/argentina.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Argentina's national football team, during 2010-2020, featured Lionel Messi's brilliance but faced World Cup heartbreaks. They ended their trophy drought by winning the 2021 Copa America, solidifying Messi's legacy and celebrating a historic victory."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
 
         STC.textContent = "Immobile";
         FR.textContent = "Berardi";
@@ -690,9 +745,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/italy.webp"
 
         MainFetchPopUp("/football/past/nations/json/italy.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Italy's national football team, from 2010 to 2020, went through a period of rebuilding. After missing the 2018 World Cup, they returned to form, winning UEFA Euro 2020, showcasing their defensive strength and tactical prowess."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "8") {
         STC.textContent = "D Jota";
         FR.textContent = "B Silva";
         AMC.textContent = "B Fernandes";
@@ -720,9 +784,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/portugal.webp"
 
         MainFetchPopUp("/football/past/nations/json/portugal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Portugal's national football team, from 2010 to 2020, showcased talent like Cristiano Ronaldo. They won UEFA Euro 2016 and the 2019 UEFA Nations League, establishing themselves as a competitive force in international football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
@@ -750,10 +823,19 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/belgium.webp"
 
         MainFetchPopUp("/football/past/nations/json/belgium.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Belgium's national football team, during 2010-2020, boasted a \"golden generation\" of talent including Eden Hazard and Kevin De Bruyne. They reached the 2018 FIFA World Cup semi-finals and consistently ranked among the world's top teams."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
-    if (selectedYear === 8) {
+    if (selectedYear == "7") {
 
         STC.textContent = "van Persie";
         FR.textContent = "Robben";
@@ -782,6 +864,15 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/netherlands.webp"
 
         MainFetchPopUp("/football/past/nations/json/netherlands.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Netherlands' national football team, from 2010 to 2020, had a mix of success and transition. They reached the 2010 FIFA World Cup final, but struggled in subsequent tournaments before showing promise with younger talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     function clearAndFadeInElements() {

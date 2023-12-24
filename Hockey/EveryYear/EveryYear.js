@@ -1263,7 +1263,7 @@ const updateDropdown = () => {
         FL.textContent = "St Louis";
         FC.textContent = "Iginla";
         FR.textContent = "Thornton";
-        DL.textContent = "Niedermayer";
+        DL.textContent = "S Niedermayer";
         DR.textContent = "Stevens";
         G.textContent = "Brodeur";
 
@@ -1274,13 +1274,13 @@ const updateDropdown = () => {
         DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "https://www.wallpaperup.com/uploads/wallpapers/2013/08/06/128721/b1dcbf6fc20164096a8ec65ed5c24b74.jpg";
+        smallpic.src = "/hockey/img/wallpapers/st louis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2004.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "Martin St. Louis, a former NHL star, is renowned for his remarkable agility and scoring prowess. Despite his undrafted status, he rose to fame with the Tampa Bay Lightning, leading them to a Stanley Cup victory in 2004. Notably undersized, his determination and skill made him an iconic figure in hockey."
         })
 
         smallpic.addEventListener("mouseout", () => {

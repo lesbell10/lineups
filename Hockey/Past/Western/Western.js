@@ -21,7 +21,7 @@ function updatePlayerInfo() {
     selectedYear = yearSelector.value;
 
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         FL.textContent = "Rakell";
         FC.textContent = "Getzlaf";
         FR.textContent = "Perry";
@@ -51,7 +51,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         FL.textContent = "Keller";
         FC.textContent = "Doan";
         FR.textContent = "Kessel";
@@ -81,7 +81,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         FL.textContent = "Gaudreau";
         FC.textContent = "Monahan";
         FR.textContent = "M Tkachuk";
@@ -111,7 +111,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         FL.textContent = "Hossa";
         FC.textContent = "Toews";
         FR.textContent = "Kane";
@@ -141,7 +141,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         FL.textContent = "Landeskog";
         FC.textContent = "MacKinnon";
         FR.textContent = "Rantanen";
@@ -172,7 +172,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         FL.textContent = "Benn";
         FC.textContent = "Seguin";
         FR.textContent = "Radulov";
@@ -202,7 +202,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "Eberle";
@@ -232,7 +232,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         FL.textContent = "D Brown";
         FC.textContent = "Kopitar";
         FR.textContent = "Carter";
@@ -262,7 +262,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         FL.textContent = "Parise";
         FC.textContent = "Koivu";
         FR.textContent = "Pominville";
@@ -292,7 +292,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
         FL.textContent = "F Forsberg";
         FC.textContent = "Johansen";
         FR.textContent = "Arvidsson";
@@ -322,7 +322,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "10") {
+    if (selectedYear == "10") {
         FL.textContent = "Couture";
         FC.textContent = "Thornton";
         FR.textContent = "Pavelski";
@@ -353,7 +353,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
 
         FL.textContent = "Backes";
         FC.textContent = "O'Reilly";
@@ -384,7 +384,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
 
         FL.textContent = "D Sedin";
         FC.textContent = "H Sedin";
@@ -415,7 +415,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
 
         FL.textContent = "Marchessault";
         FC.textContent = "W Karlsson";
@@ -446,7 +446,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
 
         FL.textContent = "Connor";
         FC.textContent = "Scheifele";
@@ -514,7 +514,7 @@ let currentIndex = 0;
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         FL.textContent = "Rakell";
         FC.textContent = "Getzlaf";
         FR.textContent = "Perry";
@@ -533,9 +533,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/anaheim.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Anaheim Ducks in the 2010s faced various challenges, including shifts in coaching and management. They had playoff appearances but struggled to secure a Stanley Cup. The decade ended with a focus on rebuilding and developing a new identity."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         FL.textContent = "Keller";
         FC.textContent = "Doan";
         FR.textContent = "Kessel";
@@ -554,9 +563,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/arizona.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Arizona Coyotes in the 2010s faced financial instability, arena disputes, and on-ice challenges. They made occasional playoff appearances but struggled for consistency. Ownership changes and relocation rumors were recurrent themes, while players like Oliver Ekman-Larsson contributed during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         FL.textContent = "Gaudreau";
         FC.textContent = "Monahan";
         FR.textContent = "M Tkachuk";
@@ -575,9 +593,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/calgary.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Calgary Flames in the 2010s faced a series of challenges, including playoff appearances and discussions about a new arena. They underwent coaching changes and sought to build a competitive team, with various ups and downs throughout the decade."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         FL.textContent = "Hossa";
         FC.textContent = "Toews";
         FR.textContent = "Kane";
@@ -596,9 +623,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/chicago.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Chicago Blackhawks in the 2010s achieved remarkable success, winning three Stanley Cups in 2010, 2013, and 2015. They navigated salary cap constraints, experienced a change in key personnel, and faced some off-ice controversies while maintaining a competitive presence in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         FL.textContent = "Landeskog";
         FC.textContent = "MacKinnon";
         FR.textContent = "Rantanen";
@@ -617,10 +653,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/colorado.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Colorado Avalanche in the 2010s experienced a resurgence under coach Jared Bednar. Led by players like Nathan MacKinnon and Gabriel Landeskog, they made playoff appearances but couldn't secure a Stanley Cup. The team aimed to build a competitive future during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
         FL.textContent = "Benn";
         FC.textContent = "Seguin";
         FR.textContent = "Radulov";
@@ -639,9 +684,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/dallas.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Dallas Stars in the 2010s saw fluctuating fortunes, making occasional playoff appearances but not securing a Stanley Cup. The team experienced coaching changes, altered strategies, and faced various challenges while striving for success in the NHL during this decade."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         FL.textContent = "Draisaitl";
         FC.textContent = "McDavid";
         FR.textContent = "Eberle";
@@ -660,9 +714,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/edmonton.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Edmonton Oilers in the 2010s struggled despite having star players like Connor McDavid. They frequently missed the playoffs, underwent coaching changes, and faced criticism for their management. The team aimed to rebuild and become a contender during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         FL.textContent = "D Brown";
         FC.textContent = "Kopitar";
         FR.textContent = "Carter";
@@ -681,9 +744,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/los angeles.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Los Angeles Kings in the 2010s had a memorable decade, winning two Stanley Cups in 2012 and 2014. Led by core players like Jonathan Quick and Anze Kopitar, they balanced success with rebuilding, aiming to remain competitive in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         FL.textContent = "Parise";
         FC.textContent = "Koivu";
         FR.textContent = "Pominville";
@@ -702,9 +774,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/minnesota.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Minnesota Wild in the 2010s had a mix of playoff appearances and challenges. They underwent coaching changes and made efforts to build a competitive roster. A Stanley Cup remained elusive, with key players like Zach Parise and Ryan Suter contributing during this decade."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
         FL.textContent = "F Forsberg";
         FC.textContent = "Johansen";
         FR.textContent = "Arvidsson";
@@ -723,9 +804,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/nashville.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Nashville Predators in the 2010s established themselves as a competitive NHL team, with multiple playoff appearances and a trip to the Stanley Cup Final in 2017. They were a significant part of Nashville's sports culture and contributed to the city's growing hockey fanbase."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 10) {
+    if (selectedYear == "10") {
         FL.textContent = "Couture";
         FC.textContent = "Thornton";
         FR.textContent = "Pavelski";
@@ -744,10 +834,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/san jose.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The San Jose Sharks in the 2010s remained competitive, making multiple playoff appearances, including a trip to the Stanley Cup Final in 2016. Key players like Joe Thornton and Brent Burns contributed to their success, but the elusive Stanley Cup championship remained out of reach."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 11) {
+    if (selectedYear == "11") {
 
         FL.textContent = "Backes";
         FC.textContent = "O'Reilly";
@@ -767,9 +866,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/st louis.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The St. Louis Blues in the 2010s faced ups and downs. They won their first-ever Stanley Cup in 2019, led by key players like Vladimir Tarasenko and Ryan O'Reilly. Coaching changes and periods of inconsistency were part of their journey during this decade."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
 
         FL.textContent = "D Sedin";
         FC.textContent = "H Sedin";
@@ -789,9 +897,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/vancouver.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Vancouver Canucks in the 2010s had a rollercoaster decade, marked by playoff success, including a trip to the Stanley Cup Final in 2011. Key players like the Sedins, Ryan Kesler, and Elias Pettersson made notable contributions, but the elusive championship remained out of reach."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
 
         FL.textContent = "Marchessault";
         FC.textContent = "W Karlsson";
@@ -811,9 +928,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/western/json/vegas.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Vegas Golden Knights, founded in 2017, quickly became an NHL powerhouse. They reached the Stanley Cup Final in their inaugural season and consistently made the playoffs. Marc-Andre Fleury and Mark Stone were key players, solidifying their position in the league during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
 
         FL.textContent = "Connor";
         FC.textContent = "Scheifele";
@@ -832,9 +958,16 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/winnipeg.gif";
 
         MainFetchPopUp("/hockey/past/western/json/winnipeg.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Winnipeg Jets, re-established in 2011, became a central part of the city's sports identity. They made multiple playoff appearances but couldn't secure a Stanley Cup. Key players like Blake Wheeler and Patrik Laine contributed to the team's competitive presence in the NHL during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-
-
 
     function clearAndFadeInElements() {
         const elements = [

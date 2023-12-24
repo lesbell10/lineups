@@ -30,7 +30,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "10") {
+    if (selectedYear == "10") {
 
         STC.textContent = "Haaland";
         FR.textContent = "B Silva";
@@ -71,7 +71,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
 
         STC.textContent = "Rodrygo"
         FR.textContent = "Valverde"
@@ -111,7 +111,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         STC.textContent = "G Ramos"
         FR.textContent = "O Dembele"
         AMC.textContent = "Asensio"
@@ -150,7 +150,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
 
         STC.textContent = "Kane"
         FR.textContent = "Sane"
@@ -191,7 +191,7 @@ function updatePlayerInfo() {
 
 
     }
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
 
         STC.textContent = "D Jota"
         FR.textContent = "Salah"
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         STC.textContent = "Lewandowski"
         FR.textContent = "J Felix"
         AMC.textContent = "Pedri"
@@ -273,7 +273,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         STC.textContent = "N Jackson"
         FR.textContent = "Sterling"
         AMC.textContent = "Nkunku"
@@ -313,7 +313,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
         STC.textContent = "Hojlund"
         FR.textContent = "Sancho"
         AMC.textContent = "B Fernandes"
@@ -352,7 +352,7 @@ function updatePlayerInfo() {
         });
 
     }
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         STC.textContent = "Vlahovic"
         FR.textContent = "Chiesa"
         AMC.textContent = "Pogba"
@@ -393,7 +393,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         STC.textContent = "G Jesus"
         FR.textContent = "Saka"
         AMC.textContent = "Odegaard"
@@ -432,7 +432,7 @@ function updatePlayerInfo() {
         });
 
     }
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         STC.textContent = "La Martinez"
         FR.textContent = "Cuadrado"
         AMC.textContent = "Mkhitaryan"
@@ -472,7 +472,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         STC.textContent = "Morata"
         FR.textContent = "De Paul"
         AMC.textContent = "Griezmann"
@@ -513,7 +513,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         STC.textContent = "Giroud"
         FR.textContent = "Pulisic"
         AMC.textContent = "Loftus-C"
@@ -553,7 +553,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         STC.textContent = "Osimhen"
         FR.textContent = "Politano"
         AMC.textContent = "Zielinski"
@@ -594,7 +594,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "15") {
+    if (selectedYear == "15") {
         STC.textContent = "M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
@@ -633,7 +633,7 @@ function updatePlayerInfo() {
         });
 
     }
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
 
         STC.textContent = "Lukaku"
         FR.textContent = "Aouar"
@@ -723,7 +723,7 @@ let currentIndex = 0;
 const updateDropdown = () => {
     // yearSelector.selectedIndex = currentIndex;
 
-    if (selectedYear === 10) {
+    if (selectedYear == "10") {
 
         STC.textContent = "Haaland";
         FR.textContent = "B Silva";
@@ -751,11 +751,20 @@ const updateDropdown = () => {
 
         smallpic.src = "/football/img/logos/man city.webp";
 
-        MainFetchPopUp("/football/present/clubs/json/man city.json");
+        MainFetchPopUp("/football/present/clubs/json/manchester city.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "n the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
 
         STC.textContent = "Rodrygo"
         FR.textContent = "Valverde"
@@ -785,10 +794,17 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/real madrid.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
+        })
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
         STC.textContent = "G Ramos"
         FR.textContent = "O Dembele"
         AMC.textContent = "Asensio"
@@ -817,10 +833,17 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/paris saint-germain.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
+        })
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
 
         STC.textContent = "Kane"
         FR.textContent = "Sane"
@@ -850,9 +873,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/bayern munich.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
 
         STC.textContent = "D Jota"
         FR.textContent = "Salah"
@@ -882,10 +914,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/liverpool.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         STC.textContent = "Lewandowski"
         FR.textContent = "J Felix"
         AMC.textContent = "Pedri"
@@ -914,9 +955,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/barcelona.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022–23 season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         STC.textContent = "N Jackson"
         FR.textContent = "Sterling"
         AMC.textContent = "Nkunku"
@@ -945,9 +995,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/chelsea.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022–23 season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear == "11") {
         STC.textContent = "Hojlund"
         FR.textContent = "Sancho"
         AMC.textContent = "B Fernandes"
@@ -976,8 +1035,17 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/manchester united.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         STC.textContent = "Vlahovic"
         FR.textContent = "Chiesa"
         AMC.textContent = "Pogba"
@@ -1006,10 +1074,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/juventus.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         STC.textContent = "G Jesus"
         FR.textContent = "Saka"
         AMC.textContent = "Odegaard"
@@ -1035,11 +1112,20 @@ const updateDropdown = () => {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/arsenal.webp";
-        ;
+
         MainFetchPopUp("/football/present/clubs/json/arsenal.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         STC.textContent = "La Martinez"
         FR.textContent = "Cuadrado"
         AMC.textContent = "Mkhitaryan"
@@ -1068,9 +1154,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/inter milan.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         STC.textContent = "Morata"
         FR.textContent = "De Paul"
         AMC.textContent = "Griezmann"
@@ -1099,10 +1194,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/atletico madrid.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         STC.textContent = "Giroud"
         FR.textContent = "Pulisic"
         AMC.textContent = "Loftus-C"
@@ -1131,9 +1235,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/ac milan.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
         STC.textContent = "Osimhen"
         FR.textContent = "Politano"
         AMC.textContent = "Zielinski"
@@ -1162,10 +1275,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/napoli.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The 2022–23 season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
-    if (selectedYear === 15) {
+    if (selectedYear == "15") {
         STC.textContent = "M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
@@ -1194,8 +1316,17 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/present/clubs/json/tottenham.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tottenham's 2022-23 season wasa a difficult one. They finishedd 8th in the league and Hary Kane, who departed for Bayern Munich in th summer, netted 32 goals. Antonio Conte led the team until March 26."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
 
         STC.textContent = "Lukaku"
         FR.textContent = "Aouar"
@@ -1224,6 +1355,15 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/as roma.webp";
 
         MainFetchPopUp("/football/present/clubs/json/as roma.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "In the 2022-23 season, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 

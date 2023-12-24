@@ -957,8 +957,8 @@ const updateDropdown = () => {
     if (selectedYear == "0") {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
-        AMC.textContent = "Ronaldinho";
-        FL.textContent = "Nedved";
+        AMC.textContent = "Zidane";
+        FL.textContent = "Ronaldinho";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
@@ -980,14 +980,13 @@ const updateDropdown = () => {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/wallpapers/pirlo.png";
+        smallpic.src = "/football/img/wallpapers/zidane.png";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
-        MainFetchPopUp("./json/EveryYear_2005.json");
-
+        MainFetchPopUp("./json/EveryYear_2004.json");
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Andrea Pirlo is an Italian football legend known for his exceptional vision and passing ability. As a midfielder, he orchestrated play with precision, leading teams like AC Milan and Juventus to success. Pirlo's calmness on the ball and ability to create opportunities made him one of the best midfielders of his generation."
+            sideModal.textContent = "Zinedine Zidane, legendary French footballer, is renowned for his technical skill, playmaking, and headbutt in the 2006 World Cup final. He led France to 1998 World Cup glory and won numerous individual accolades, including three FIFA World Player of the Year awards."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1022,7 +1021,7 @@ const updateDropdown = () => {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/wallpapers/Gerrard.jpg";
+        smallpic.src = "/football/img/wallpapers/gerrard.jpg";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2005.json");

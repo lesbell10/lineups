@@ -18,7 +18,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         SG.textContent = "Harden";
         PG.textContent = "Curry";
         SF.textContent = "James";
@@ -44,7 +44,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-    } if (selectedYear === "0") {
+    } if (selectedYear == "0") {
         SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
         SF.textContent = "D Nowitzki";
@@ -72,7 +72,7 @@ function updatePlayerInfo() {
 
     }
     
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
         SF.textContent = "H Olajuwon";
@@ -140,7 +140,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         SG.textContent = "Harden";
         PG.textContent = "Curry";
         SF.textContent = "James";
@@ -157,9 +157,16 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/basket/past/nations/json/usa.json");
 
-    }
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The NBA saw the rise of super-teams and a focus on three-point shooting. Notable events included the Miami Heat's \"Big Three\" era, the Golden State Warriors' dominance, and the emergence of stars like Stephen Curry, LeBron James, and Kevin Durant."
+        })
 
-    if (selectedYear === 0) {
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    } if (selectedYear == "0") {
         SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
         SF.textContent = "D Nowitzki";
@@ -176,9 +183,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/basket/past/nations/json/europe.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = " The EuroLeague, Europe's premier club basketball competition, continued to grow in popularity and competitiveness. The decade saw dominant performances from teams like Real Madrid, CSKA Moscow, and Fenerbahçe."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         SG.textContent = "M Ginobili";
         PG.textContent = "Y Ming";
         SF.textContent = "H Olajuwon";
@@ -194,6 +210,15 @@ const updateDropdown = () => {
         smallpic.src = "/basket/img/logos/rest of world.png";
 
         MainFetchPopUp("/basket/past/nations/json/rest of world.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The NBA continued to expand its global reach with players from various countries making significant impacts. Stars like Yao Ming (retired in 2011) and later on, players like Joel Embiid (Cameroon) became international icons."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
     function clearAndFadeInElements() {

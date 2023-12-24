@@ -20,7 +20,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
 
         FL.textContent = "Marchand";
         FC.textContent = "Bergeron";
@@ -51,7 +51,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         FL.textContent = "Vanek";
         FC.textContent = "Eichel";
         FR.textContent = "O'Reilly";
@@ -81,7 +81,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         FL.textContent = "J Skinner";
         FC.textContent = "E Staal";
         FR.textContent = "Aho";
@@ -111,7 +111,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         FL.textContent = "Panarin";
         FC.textContent = "M Foligno";
         FR.textContent = "Atkinson";
@@ -141,7 +141,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         FL.textContent = "Zetterberg";
         FC.textContent = "Datsyuk";
         FR.textContent = "Larkin";
@@ -171,7 +171,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         FL.textContent = "Huberdeau";
         FC.textContent = "Barkov";
         FR.textContent = "Hoffman";
@@ -201,7 +201,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         FL.textContent = "Pacioretty";
         FC.textContent = "Tatar";
         FR.textContent = "Gallagher";
@@ -231,7 +231,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         FL.textContent = "Hall";
         FC.textContent = "Henrique";
         FR.textContent = "Hischier";
@@ -261,7 +261,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         FL.textContent = "Lee";
         FC.textContent = "Tavares";
         FR.textContent = "Barzal";
@@ -291,7 +291,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
         FL.textContent = "Panarin";
         FC.textContent = "Stepan";
         FR.textContent = "Zuccarello";
@@ -319,7 +319,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-    } if (selectedYear === "10") {
+    } if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
         FR.textContent = "Stone";
@@ -347,7 +347,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-    } if (selectedYear === "11") {
+    } if (selectedYear == "11") {
         FL.textContent = "Giroux";;
         FC.textContent = "Couturier";
         FR.textContent = "Voracek";
@@ -377,7 +377,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         FL.textContent = "Malkin";
         FC.textContent = "Crosby";
         FR.textContent = "Kessel";
@@ -407,7 +407,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         FL.textContent = "St Louis";
         FC.textContent = "Stamkos";
         FR.textContent = "Kucherov";
@@ -437,7 +437,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
         FL.textContent = "Tavares";
         FC.textContent = "Matthews";
         FR.textContent = "Marner";
@@ -467,7 +467,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "15") {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Backstrom";
         FR.textContent = "Kuznetsov";
@@ -533,7 +533,7 @@ let currentIndex = 0;
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
 
         FL.textContent = "Marchand";
         FC.textContent = "Bergeron";
@@ -553,9 +553,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/boston.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "During the 2010-2020 decade, the Boston Bruins were a dominant force in the NHL. They won the Stanley Cup in 2011 and reached the finals in 2013. Key players included Zdeno Chara, Patrice Bergeron, and Tuukka Rask, contributing to the team's sustained success and competitive presence in the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         FL.textContent = "Vanek";
         FC.textContent = "Eichel";
         FR.textContent = "O'Reilly";
@@ -574,9 +583,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/buffalo.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Buffalo Sabres had a challenging decade from 2010 to 2020, marked by struggles and rebuilding efforts. Despite promising talents like Jack Eichel, the team had difficulty achieving playoff success and underwent multiple coaching and management changes, reflecting a period of transition and a quest for future competitiveness."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         FL.textContent = "J Skinner";
         FC.textContent = "E Staal";
         FR.textContent = "Aho";
@@ -595,9 +613,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/carolina.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Carolina Hurricanes, during the 2010-2020 decade, experienced a mix of ups and downs. They made the playoffs several times, including a run to the Eastern Conference Finals in 2019, driven by emerging stars like Sebastian Aho."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         FL.textContent = "Panarin";
         FC.textContent = "M Foligno";
         FR.textContent = "Atkinson";
@@ -616,9 +643,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/columbus.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Columbus Blue Jackets, in the 2010-2020 decade, transitioned into a competitive NHL team. They clinched playoff berths and recorded their first-ever series win in 2019. Notable players like Artemi Panarin contributed to their growth, marking a period of progress and increased relevance in the league."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         FL.textContent = "Zetterberg";
         FC.textContent = "Datsyuk";
         FR.textContent = "Larkin";
@@ -637,9 +673,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/detroit.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Detroit Red Wings, during the 2010-2020 decade, navigated a shift from their historic dominance. They extended their playoff streak but faced challenges as aging stars like Henrik Zetterberg retired. The franchise emphasized rebuilding, looking to regain their status as a powerhouse in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
         FL.textContent = "Huberdeau";
         FC.textContent = "Barkov";
         FR.textContent = "Hoffman";
@@ -658,9 +703,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/florida.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Florida Panthers, from 2010 to 2020, had mixed success. They made occasional playoff appearances but struggled to advance deep. Key players like Aleksander Barkov and Jonathan Huberdeau emerged as stars, and the franchise aimed to build a competitive roster for consistent postseason contention."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         FL.textContent = "Pacioretty";
         FC.textContent = "Tatar";
         FR.textContent = "Gallagher";
@@ -679,9 +733,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/montreal.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Montreal Canadiens, during the 2010-2020 decade, experienced varying degrees of success. They made playoff appearances, including a trip to the Eastern Conference Finals in 2014. Star players like Carey Price and Max Pacioretty played significant roles, but the franchise sought to capture its storied Stanley Cup legacy."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         FL.textContent = "Hall";
         FC.textContent = "Henrique";
         FR.textContent = "Hischier";
@@ -700,9 +763,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/new jersey.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New Jersey Devils, from 2010 to 2020, had a decade marked by fluctuating performance. They made the Stanley Cup Finals in 2012 but faced challenges afterward. Star players like Martin Brodeur and Ilya Kovalchuk contributed, and the franchise focused on rebuilding its competitive presence in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         FL.textContent = "Lee";
         FC.textContent = "Tavares";
         FR.textContent = "Barzal";
@@ -721,9 +793,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/ny islanders.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New York Islanders, during the 2010-2020 decade, showcased a mix of highs and lows. They reached the Eastern Conference Finals in 2020, led by star players like John Tavares at the beginning and later Mathew Barzal. The franchise focused on a balanced approach, blending youth development and veteran leadership."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
         FL.textContent = "Panarin";
         FC.textContent = "Stepan";
         FR.textContent = "Zuccarello";
@@ -742,7 +823,16 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/ny rangers.json");
 
-    } if (selectedYear === 10) {
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New York Rangers, during the 2010-2020 decade, were marked by competitive playoff appearances. Led by star goaltender Henrik Lundqvist and forwards like Chris Kreider, they reached the Stanley Cup Finals in 2014. The franchise balanced veteran talent with youth development, aiming for sustained success in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    } if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
         FR.textContent = "Stone";
@@ -761,7 +851,16 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/ottawa.json");
 
-    } if (selectedYear === 11) {
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = ""
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+    } if (selectedYear == "11") {
         FL.textContent = "Giroux";;
         FC.textContent = "Couturier";
         FR.textContent = "Voracek";
@@ -780,9 +879,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/philadelphia.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Ottawa Senators, from 2010 to 2020, had a decade with a mix of playoff runs and rebuilding efforts. They reached the Eastern Conference Finals in 2017, featuring star players like Erik Karlsson. The franchise faced challenges but emphasized a strategy to develop young talent for future competitiveness."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
         FL.textContent = "Malkin";
         FC.textContent = "Crosby";
         FR.textContent = "Kessel";
@@ -801,9 +909,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/pittsburgh.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Pittsburgh Penguins, during the 2010-2020 decade, enjoyed significant success. They won two Stanley Cups in 2016 and 2017, with star players Sidney Crosby and Evgeni Malkin leading the way. The franchise maintained a strong presence in the playoffs and aimed for consistent competitiveness."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
         FL.textContent = "St Louis";
         FC.textContent = "Stamkos";
         FR.textContent = "Kucherov";
@@ -822,9 +939,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/tampa bay.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Tampa Bay Lightning, from 2010 to 2020, established themselves as an NHL powerhouse. They won the Stanley Cup twice in 2020 and 2021. Led by stars like Steven Stamkos and Nikita Kucherov, the franchise showcased strong regular-season performance and a commitment to playoff success."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
         FL.textContent = "Tavares";
         FC.textContent = "Matthews";
         FR.textContent = "Marner";
@@ -843,9 +969,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/toronto.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Toronto Maple Leafs, during the 2010-2020 decade, experienced a shift towards young talent and potential. They made playoff appearances but faced challenges. Players like Auston Matthews and Mitch Marner emerged as stars, and the franchise focused on building a competitive roster for sustained success."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 15) {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Backstrom";
         FR.textContent = "Kuznetsov";
@@ -864,9 +999,15 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/eastern/json/washington.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Washington Capitals, from 2010 to 2020, achieved their first Stanley Cup victory in 2018, led by star Alex Ovechkin. They consistently made playoff runs, showcasing a potent offense and veteran leadership. The franchise emphasized a winning culture and competitiveness during this period."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-
-
 
     function clearAndFadeInElements() {
         const elements = [

@@ -69,7 +69,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
         STC.textContent = "Benzema";
         FR.textContent = "Bale";
         AMC.textContent = "Ozil";
@@ -108,7 +108,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Mbappe";
         AMC.textContent = "Neymar";
@@ -147,7 +147,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
 
         STC.textContent = "Lewandowksi";
         FR.textContent = "Robben";
@@ -187,7 +187,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
 
         STC.textContent = "Suarez";
         FR.textContent = "Salah";
@@ -229,7 +229,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
 
         STC.textContent = "Suarez";
         FR.textContent = "Messi";
@@ -269,7 +269,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
 
         STC.textContent = "Drogba";
         FR.textContent = "Willian";
@@ -310,7 +310,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
 
         STC.textContent = "Ibrahimovic";
         FR.textContent = "van Persie";
@@ -351,7 +351,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         STC.textContent = "Higuain";
         FR.textContent = "D Costa";
         AMC.textContent = "Dybala";
@@ -391,7 +391,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         STC.textContent = "van Persie";
         FR.textContent = "A Sanchez";
         AMC.textContent = "Ozil";
@@ -431,7 +431,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         STC.textContent = "D Milito";
         FR.textContent = "Alexis";
         AMC.textContent = "Sneijder";
@@ -471,7 +471,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         STC.textContent = "Falcao";
         FR.textContent = "Carrasco";
         AMC.textContent = "Griezmann";
@@ -511,7 +511,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Cassano";
         AMC.textContent = "Kaka";
@@ -550,7 +550,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         STC.textContent = "Cavani";
         FR.textContent = "Mertens";
         AMC.textContent = "Hamsik";
@@ -590,7 +590,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "15") {
+    if (selectedYear == "15") {
         STC.textContent = "Kane";
         FR.textContent = "van der Vaart";
         AMC.textContent = "Eriksen";
@@ -630,7 +630,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
 
         STC.textContent = "Dzeko";
         FR.textContent = "Mkhitaryan";
@@ -748,9 +748,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/man city.webp";
 
         MainFetchPopUp("/football/past/clubs/json/manchester city.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Manchester City, from 2010 to 2020, transformed into a football powerhouse under wealthy ownership. They secured multiple Premier League title and reached the UEFA Champions League finals. The era was defined by attractive attacking football and the leadership of managers like Pep Guardiola."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
         STC.textContent = "Benzema";
         FR.textContent = "Bale";
         AMC.textContent = "Ozil";
@@ -778,9 +787,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/real madrid.webp";
 
         MainFetchPopUp("/football/past/clubs/json/real madrid.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Real Madrid, one of the world's most iconic football clubs, experienced a decade of tremendous success from 2010 to 2020. They won numerous La Liga titles and UEFA Champions League trophies, establishing themselves as a football powerhouse."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Mbappe";
         AMC.textContent = "Neymar";
@@ -808,9 +826,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/paris sg.webp";
 
         MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "During 2010-2020, Paris Saint-Germain (PSG) became a dominant force in French football, securing multiple Ligue 1 titles and domestic cups. High-profile signings like Neymar and Mbappé propelled them to international prominence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
 
         STC.textContent = "Lewandowksi";
         FR.textContent = "Robben";
@@ -839,9 +866,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/bayern munich.webp";
 
         MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Bayern Munich enjoyed immense success from 2010 to 2020. The German football club clinched numerous Bundesliga titles and won the UEFA Champions League multiple times, establishing itself as a football powerhouse. Iconic players like Franck Ribéry, Arjen Robben, and Robert Lewandowski played pivotal roles in this era of dominance."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
 
         STC.textContent = "Suarez";
         FR.textContent = "Salah";
@@ -871,10 +907,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/liverpool.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Liverpool FC had a remarkable decade from 2010 to 2020. They won multiple Premier League titles, UEFA Champions League trophies, and domestic cups. Under the management of Jürgen Klopp, they built a formidable team known for its high-intensity pressing and attacking football, solidifying their status as a footballing giant."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
 
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
 
         STC.textContent = "Suarez";
         FR.textContent = "Messi";
@@ -903,9 +948,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/barcelona.webp";
 
         MainFetchPopUp("/football/past/clubs/json/barcelona.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "FC Barcelona experienced a decade of remarkable success from 2010 to 2020. Led by players like Lionel Messi, Xavi, and Andrés Iniesta, they won numerous La Liga titles and UEFA Champions League trophies. Their tiki-taka style of play defined an era of football dominance, making Barcelona one of the world's most admired clubs."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
 
         STC.textContent = "Drogba";
         FR.textContent = "Willian";
@@ -935,9 +989,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/chelsea.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Chelsea FC had a highly successful decade from 2010 to 2020. They won multiple Premier League titles and secured their first-ever UEFA Champions League in 2012. Under various managers, including José Mourinho and Antonio Conte, Chelsea remained a competitive force in English and European football, showcasing their resilience and talent."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear == "11") {
 
         STC.textContent = "Ibrahimovic";
         FR.textContent = "van Persie";
@@ -967,9 +1030,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/manchester united.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Manchester United experienced a decade of transition and challenges from 2010 to 2020. After the retirement of Sir Alex Ferguson, the club went through several managerial changes. While they won domestic cups and a UEFA Europa League title, they sought to recapture their past glory in the Premier League and the UEFA Champions League."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         STC.textContent = "Higuain";
         FR.textContent = "D Costa";
         AMC.textContent = "Dybala";
@@ -998,9 +1070,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/juventus.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Juventus FC dominated Italian football during the 2010-2020 decade, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         STC.textContent = "van Persie";
         FR.textContent = "A Sanchez";
         AMC.textContent = "Ozil";
@@ -1029,9 +1110,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/arsenal.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Arsenal FC experienced a period of ups and downs from 2010 to 2020. They won FA Cups and Community Shields, but their Premier League title drought continued. Under Arsène Wenger and later Unai Emery, they showcased attractive football but faced inconsistency. Arsenal fans hoped for a return to the club's former glory during this time."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         STC.textContent = "D Milito";
         FR.textContent = "Alexis";
         AMC.textContent = "Sneijder";
@@ -1060,9 +1150,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/inter milan.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Inter Milan's 2010-2020 decade featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         STC.textContent = "Falcao";
         FR.textContent = "Carrasco";
         AMC.textContent = "Griezmann";
@@ -1091,9 +1190,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/atletico madrid.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Atletico Madrid had a remarkable decade from 2010 to 2020. Under Diego Simeone's management, they won La Liga, reached UEFA Champions League finals, and became known for their disciplined, defensively sound style of play, establishing themselves as a top European club."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Cassano";
         AMC.textContent = "Kaka";
@@ -1121,9 +1229,18 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/ac milan.webp";
 
         MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "AC Milan had a mixed decade from 2010 to 2020. While they faced financial struggles and a decline in Serie A performance, the club showed occasional flashes of their historic prowess, winning the 2010-2011 Serie A title and domestic cups."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
         STC.textContent = "Cavani";
         FR.textContent = "Mertens";
         AMC.textContent = "Hamsik";
@@ -1152,9 +1269,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/napoli.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Napoli had an eventful decade from 2010 to 2020. Under the management of Maurizio Sarri, they played exciting attacking football and won a Coppa Italia and a Supercoppa Italiana. Their passionate fan base and talented squad made them a competitive force in Serie A."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 15) {
+    if (selectedYear == "15") {
         STC.textContent = "Kane";
         FR.textContent = "van der Vaart";
         AMC.textContent = "Eriksen";
@@ -1183,9 +1309,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/football/past/clubs/json/tottenham.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Tottenham Hotspur had a transformative decade from 2010 to 2020. Under Mauricio Pochettino's management, they became top-four contenders in the Premier League and reached the UEFA Champions League final in 2019, though they didn't secure a trophy during this period.."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
 
         STC.textContent = "Dzeko";
         FR.textContent = "Mkhitaryan";
@@ -1214,8 +1349,17 @@ const updateDropdown = () => {
         smallpic.src = "/football/img/logos/as roma.webp";
 
         MainFetchPopUp("/football/past/clubs/json/as roma.json");
-    }
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "AS Roma experienced a decade of competitiveness in Serie A from 2010 to 2020. While they didn't win the league title, they consistently contended for a top-four finish and featured in European competitions, showcasing their commitment to excellence in Italian football."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+    }
+    
     function clearAndFadeInElements() {
         const elements = [
             STC, STC2,

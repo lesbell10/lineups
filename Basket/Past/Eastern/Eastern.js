@@ -18,7 +18,7 @@ function updatePlayerInfo() {
 
   selectedYear = yearSelector.value;
 
-  if (selectedYear === "0") {
+  if (selectedYear == "0") {
     PG.textContent = "T Young";
     SG.textContent = "J Johnson";
     SF.textContent = "J Smith";
@@ -45,7 +45,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "1") {
+  if (selectedYear == "1") {
     PG.textContent = "R Rondo";
     SG.textContent = "I Thomas";
     SF.textContent = "J Tatum";
@@ -72,7 +72,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "2") {
+  if (selectedYear == "2") {
 
     PG.textContent = "K Irving";
     SG.textContent = "D Williams";
@@ -101,7 +101,7 @@ function updatePlayerInfo() {
 
   }
 
-  if (selectedYear === "3") {
+  if (selectedYear == "3") {
 
     PG.textContent = "K Walker";
     SG.textContent = "G Henderson";
@@ -129,7 +129,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "4") {
+  if (selectedYear == "4") {
 
     PG.textContent = "D Rose";
     SG.textContent = "J Butler";
@@ -157,7 +157,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "5") {
+  if (selectedYear == "5") {
 
     PG.textContent = "K Irving";
     SG.textContent = "JR Smith";
@@ -185,7 +185,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "6") {
+  if (selectedYear == "6") {
 
     PG.textContent = "R Jackson";
     SG.textContent = "Kentavious Caldwell-P";
@@ -213,7 +213,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "7") {
+  if (selectedYear == "7") {
 
     PG.textContent = "G Hill";
     SG.textContent = "V Oladipo";
@@ -241,7 +241,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "8") {
+  if (selectedYear == "8") {
 
     PG.textContent = "G Dragic";
     SG.textContent = "D Wade";
@@ -269,7 +269,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "9") {
+  if (selectedYear == "9") {
 
     PG.textContent = "E Bledsoe";
     SG.textContent = "M Brogdon";
@@ -297,7 +297,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "10") {
+  if (selectedYear == "10") {
 
     PG.textContent = "R Felton";
     SG.textContent = "JR Smith";
@@ -325,7 +325,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "11") {
+  if (selectedYear == "11") {
 
     PG.textContent = "J Nelson";
     SG.textContent = "E Fournier";
@@ -353,7 +353,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "12") {
+  if (selectedYear == "12") {
 
     PG.textContent = "B Simmons";
     SG.textContent = "J Holiday";
@@ -381,7 +381,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "13") {
+  if (selectedYear == "13") {
 
     PG.textContent = "K Lowry";
     SG.textContent = "D DeRozan";
@@ -409,7 +409,7 @@ function updatePlayerInfo() {
     });
   }
 
-  if (selectedYear === "14") {
+  if (selectedYear == "14") {
 
     PG.textContent = "J Wall";
     SG.textContent = "B Beal";
@@ -479,7 +479,7 @@ const forwardButton = document.getElementById('forwardButton');
 
 const updateDropdown = () => {
 
-  if (selectedYear === 0) {
+  if (selectedYear == "0") {
     PG.textContent = "T Young";
     SG.textContent = "J Johnson";
     SF.textContent = "J Smith";
@@ -495,9 +495,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/atlanta.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/atlanta.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Atlanta Hawks had highs, with a 60-win season in 2014-2015 and an Eastern Conference Finals appearance. Subsequently, they focused on rebuilding through the draft and developing young talent for a brighter future."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 1) {
+  if (selectedYear == "1") {
     PG.textContent = "R Rondo";
     SG.textContent = "I Thomas";
     SF.textContent = "J Tatum";
@@ -513,9 +522,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/boston.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/boston.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Boston Celtics transitioned from the \"Big Three\" era to a young, dynamic team. They remained competitive, making multiple Eastern Conference Finals appearances and nurturing stars like Jayson Tatum and Jaylen Brown."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 2) {
+  if (selectedYear == "2") {
 
     PG.textContent = "K Irving";
     SG.textContent = "D Williams";
@@ -533,9 +551,18 @@ const updateDropdown = () => {
 
     MainFetchPopUp("/basket/past/eastern/json/brooklyn.json");
 
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Brooklyn Nets relocated, initiated a high-profile but short-lived era with Paul Pierce and Kevin Garnett, and later focused on rebuilding, culminating in signing stars Kevin Durant and Kyrie Irving in 2019."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
+
   }
 
-  if (selectedYear === 3) {
+  if (selectedYear == "3") {
 
     PG.textContent = "K Walker";
     SG.textContent = "G Henderson";
@@ -552,9 +579,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/charlotte.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/charlotte.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Charlotte Hornets (formerly Bobcats) faced challenges, with sporadic playoff appearances. Notable players like Kemba Walker emerged, but consistent success remained elusive. The franchise focused on rebuilding and developing young talent during this period."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 4) {
+  if (selectedYear == "4") {
 
     PG.textContent = "D Rose";
     SG.textContent = "J Butler";
@@ -571,9 +607,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/chicago.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/chicago.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Chicago Bulls saw early success with Derrick Rose's MVP season and deep playoff runs, but later faced challenges due to injuries and roster changes, eventually shifting towards rebuilding and developing young talent for future competitiveness."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 5) {
+  if (selectedYear == "5") {
 
     PG.textContent = "K Irving";
     SG.textContent = "JR Smith";
@@ -590,12 +635,21 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/cleveland.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/cleveland.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Cleveland Cavaliers experienced a historic period, highlighted by LeBron James' return, a 2016 NBA Championship victory, and four consecutive NBA Finals appearances. Post-2018, they entered a rebuilding phase, focusing on nurturing young talent."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 6) {
+  if (selectedYear == "6") {
 
     PG.textContent = "R Jackson";
-    SG.textContent = "I Thomas";
+    SG.textContent = "Kentavious Caldwell-P";
     SF.textContent = "T Harris";
     PF.textContent = "B Griffin";
     C.textContent = "A Drummond";
@@ -609,9 +663,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/detroit.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/detroit.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "Between 2010 and 2020, the Detroit Pistons experienced a period of rebuilding and transition, with sporadic playoff appearances but no significant postseason success. The decade was marked by roster changes and efforts to recapture the franchise's former glory through draft picks and trades."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 7) {
+  if (selectedYear == "7") {
 
     PG.textContent = "G Hill";
     SG.textContent = "V Oladipo";
@@ -628,9 +691,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/indiana.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/indiana.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Indiana Pacers were consistently competitive, highlighted by Eastern Conference Finals appearances in 2013 and 2014 led by Paul George. Despite organizational changes and roster turnover, they remained playoff contenders, though without securing a championship."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 8) {
+  if (selectedYear == "8") {
 
     PG.textContent = "G Dragic";
     SG.textContent = "D Wade";
@@ -647,9 +719,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/miami.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/miami.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Miami Heat experienced a golden era, forming the \"Big Three\" with LeBron James, Dwyane Wade, and Chris Bosh, winning two NBA championships (2012, 2013), and making four consecutive Finals appearances, followed by a phase of rebuilding and retooling."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 9) {
+  if (selectedYear == "9") {
 
     PG.textContent = "E Bledsoe";
     SG.textContent = "M Brogdon";
@@ -666,9 +747,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/milwaukee.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/milwaukee.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "During 2010-2020, the Milwaukee Bucks transitioned from a rebuilding team to contenders, primarily through the emergence of Giannis Antetokounmpo, winning the 2019 MVP. The decade concluded with the Bucks as a top Eastern Conference team, setting the stage for future successes."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 10) {
+  if (selectedYear == "10") {
 
     PG.textContent = "R Felton";
     SG.textContent = "JR Smith";
@@ -685,9 +775,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/new york.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/new york.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the New York Knicks experienced fluctuating success, highlighted by a strong 2012-2013 season, but largely struggled with consistent performance. The decade was marked by frequent coaching changes, management shifts, and a continuous search for a winning formula."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 11) {
+  if (selectedYear == "11") {
 
     PG.textContent = "J Nelson";
     SG.textContent = "E Fournier";
@@ -704,9 +803,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/orlando.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/orlando.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Orlando Magic went through phases of rebuilding and playoff contention. They secured playoff berths but lacked deep postseason runs. The decade saw changes in coaching and player development efforts."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 12) {
+  if (selectedYear == "12") {
 
     PG.textContent = "B Simmons";
     SG.textContent = "J Holiday";
@@ -723,9 +831,18 @@ const updateDropdown = () => {
     smallpic.src = "/basket/img/logos/philadelphia.gif";
 
     MainFetchPopUp("/basket/past/eastern/json/philadelphia.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Philadelphia 76ers experienced highs and lows. They underwent a \"Trust the Process\" rebuild, drafting Joel Embiid and Ben Simmons. Late in the decade, they became a formidable team in the Eastern Conference, with multiple playoff appearances and high expectations for the future."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
   }
 
-  if (selectedYear === 13) {
+  if (selectedYear == "13") {
 
     PG.textContent = "K Lowry";
     SG.textContent = "D DeRozan";
@@ -743,24 +860,42 @@ const updateDropdown = () => {
 
     MainFetchPopUp("/basket/past/eastern/json/toronto.json");
 
-    if (selectedYear === 14) {
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Toronto Raptors evolved from a playoff team to NBA champions in 2019. Led by Kyle Lowry and Kawhi Leonard, they captured their first title, cementing their place as a competitive franchise in the Eastern Conference."
+    })
 
-      PG.textContent = "J Wall";
-      SG.textContent = "B Beal";
-      SF.textContent = "G Arenas";
-      PF.textContent = "O Porter Jr";
-      C.textContent = "Nene";
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
+  }
 
-      PG2.src = "/basket/img/players/" + PG.textContent + ".png";
-      SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-      SF2.src = "/basket/img/players/" + SF.textContent + ".png";
-      PF2.src = "/basket/img/players/" + PF.textContent + ".png";
-      C2.src = "/basket/img/players/" + C.textContent + ".png";
+  if (selectedYear == "14") {
 
-      smallpic.src = "/basket/img/logos/washington.gif";
+    PG.textContent = "J Wall";
+    SG.textContent = "B Beal";
+    SF.textContent = "G Arenas";
+    PF.textContent = "O Porter Jr";
+    C.textContent = "Nene";
 
-      MainFetchPopUp("/basket/past/eastern/json/washington.json");
-    }
+    PG2.src = "/basket/img/players/" + PG.textContent + ".png";
+    SG2.src = "/basket/img/players/" + SG.textContent + ".png";
+    SF2.src = "/basket/img/players/" + SF.textContent + ".png";
+    PF2.src = "/basket/img/players/" + PF.textContent + ".png";
+    C2.src = "/basket/img/players/" + C.textContent + ".png";
+
+    smallpic.src = "/basket/img/logos/washington.gif";
+
+    MainFetchPopUp("/basket/past/eastern/json/washington.json");
+
+    smallpic.addEventListener('mouseover', () => {
+      sideModal.style.display = 'block'
+      sideModal.textContent = "From 2010 to 2020, the Washington Wizards had moments of success, including playoff appearances and a strong backcourt with John Wall and Bradley Beal. However, they faced inconsistency and roster changes, striving for sustained competitiveness in the Eastern Conference."
+    })
+
+    smallpic.addEventListener("mouseout", () => {
+      sideModal.style.display = 'none'; // Hide the modal
+    });
 
     function clearAndFadeInElements() {
       const elements = [
@@ -785,24 +920,23 @@ const updateDropdown = () => {
 
   }
 }
-// Event listener for the back button
-backButton.addEventListener('click', () => {
-  if (selectedYear > 0) {
-    selectedYear--;
-    yearSelector.value = selectedYear;
-    updateDropdown();
-  }
-});
+  // Event listener for the back button
+  backButton.addEventListener('click', () => {
+    if (selectedYear > 0) {
+      selectedYear--;
+      yearSelector.value = selectedYear;
+      updateDropdown();
+    }
+  });
 
-// Event listener for the forward button
-forwardButton.addEventListener('click', () => {
-  if (selectedYear < yearSelector.options.length - 1) {
-    selectedYear++;
-    yearSelector.value = selectedYear;
-    updateDropdown();
-  }
-});
-
+  // Event listener for the forward button
+  forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+      selectedYear++;
+      yearSelector.value = selectedYear;
+      updateDropdown();
+    }
+  });
 // for screenshots
 
 // const nav = document.querySelector("nav");

@@ -21,7 +21,7 @@ function updatePlayerInfo() {
     selectedYear = yearSelector.value;
 
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         FL.textContent = "Crosby";
         FC.textContent = "McDavid";
         FR.textContent = "J Toews";
@@ -51,7 +51,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         FL.textContent = "Voracek";
         FC.textContent = "Krejci";
         FR.textContent = "Pastrnak";
@@ -82,7 +82,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         FL.textContent = "Laine";
         FC.textContent = "Barkov";
         FR.textContent = "Rantanen";
@@ -113,7 +113,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         FL.textContent = "Rieder";
         FC.textContent = "Draisaitl";
         FR.textContent = "Goc";
@@ -144,7 +144,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Malkin";
         FR.textContent = "Kucherov";
@@ -174,7 +174,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         FL.textContent = "Hossa";
         FC.textContent = "Gaborik";
         FR.textContent = "Tatar";
@@ -205,7 +205,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         FL.textContent = "D Sedin";
         FC.textContent = "H Sedin";
         FR.textContent = "Backstrom";
@@ -235,7 +235,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         FL.textContent = "Fiala";
         FC.textContent = "Niederreiter";
         FR.textContent = "Meier";
@@ -266,7 +266,7 @@ function updatePlayerInfo() {
     }
 
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         FL.textContent = "Kessel";
         FC.textContent = "Matthews";
         FR.textContent = "Kane";
@@ -295,8 +295,6 @@ function updatePlayerInfo() {
         });
 
     }
-
-
 
     function clearAndFadeInElements() {
         const elements = [
@@ -336,10 +334,10 @@ let currentIndex = 0;
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         FL.textContent = "Crosby";
         FC.textContent = "McDavid";
-        FR.textContent = "Toews";
+        FR.textContent = "J Toews";
         DL.textContent = "Keith";
         DR.textContent = "Weber";
         G.textContent = "Price";
@@ -355,9 +353,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/canada.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Canada's national hockey team in the 2010s continued its rich tradition, winning gold at the 2010 Vancouver Olympics and 2014 Sochi Olympics. They also secured gold at various IIHF World Championships, showcasing the country's dominance in international hockey during this decade."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         FL.textContent = "Voracek";
         FC.textContent = "Krejci";
         FR.textContent = "Pastrnak";
@@ -376,10 +383,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/czech republic.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Czech Republic's national hockey team in the 2010s had a competitive decade, with success at various IIHF World Championships. However, they struggled to secure Olympic medals and faced challenges in maintaining a consistent presence among the world's elite hockey nations."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         FL.textContent = "Laine";
         FC.textContent = "Barkov";
         FR.textContent = "Rantanen";
@@ -398,10 +414,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/finland.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Finland's national hockey team in the 2010s achieved significant success, winning gold at the 2011 and 2019 IIHF World Championships. They also secured an Olympic bronze in 2014 and silver in 2016, establishing themselves as a strong contender on the international hockey stage."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         FL.textContent = "Rieder";
         FC.textContent = "Draisaitl";
         FR.textContent = "Goc";
@@ -420,10 +445,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/germany.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Germany's national hockey team in the 2010s showed signs of improvement, reaching the Olympic semifinals in 2018 and securing silver at the 2018 IIHF World Championships. They aimed to solidify their position among top-tier hockey nations but faced challenges in consistency."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Malkin";
         FR.textContent = "Kucherov";
@@ -442,9 +476,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/russia.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Russia's national hockey team in the 2010s displayed competitive prowess, winning gold at the 2012 and 2014 IIHF World Championships. However, they faced disappointment at the Olympics and occasionally struggled to replicate their success, despite boasting top talent from the KHL and NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
         FL.textContent = "Hossa";
         FC.textContent = "Gaborik";
         FR.textContent = "Tatar";
@@ -463,10 +506,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/slovakia.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Slovakia's national hockey team in the 2010s had moments of success, winning silver at the 2012 IIHF World Championships. They faced challenges in maintaining consistency and securing medals at the Olympics and World Championships, despite a roster of talented players."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         FL.textContent = "D Sedin";
         FC.textContent = "H Sedin";
         FR.textContent = "Backstrom";
@@ -485,9 +537,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/sweden.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Sweden's national hockey team in the 2010s continued its strong tradition. They secured gold at the 2013 IIHF World Championships and silver at the 2014 Olympics. With notable NHL stars, they consistently competed at a high level, maintaining their reputation as an elite hockey nation."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 7) {
+    if (selectedYear == "7") {
         FL.textContent = "Fiala";
         FC.textContent = "Niederreiter";
         FR.textContent = "Meier";
@@ -506,10 +567,19 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/past/nations/json/switzerland.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "Switzerland's national hockey team in the 2010s showed improvement, consistently competing at the IIHF World Championships and securing medals, including silver in 2013 and 2018. They aimed to establish themselves as a top-tier hockey nation but faced challenges in winning Olympic medals."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         FL.textContent = "Kessel";
         FC.textContent = "Matthews";
         FR.textContent = "Kane";
@@ -527,6 +597,15 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/usa.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/united states.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The USA national hockey team in the 2010s displayed competitiveness on the international stage, winning gold at the 2017 IIHF World Championships. They had Olympic silver in 2010 and bronze in 2018, showcasing their talent and aiming for sustained success in international hockey."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
     }
 

@@ -20,7 +20,7 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-    if (selectedYear === "0") {
+    if (selectedYear == "0") {
         FL.textContent = "Marchand";
         FC.textContent = "Zacha";
         FR.textContent = "Pastrnak";
@@ -48,7 +48,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    if (selectedYear === "1") {
+    if (selectedYear == "1") {
         FL.textContent = "J Skinner";
         FC.textContent = "Thompson";
         FR.textContent = "Tuch";
@@ -77,7 +77,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "2") {
+    if (selectedYear == "2") {
         FL.textContent = "Svechnikov";
         FC.textContent = "Aho";
         FR.textContent = "Necas";
@@ -106,7 +106,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "3") {
+    if (selectedYear == "3") {
         FL.textContent = "Gaudreau";
         FC.textContent = "K Johnson";
         FR.textContent = "Laine";
@@ -135,7 +135,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "4") {
+    if (selectedYear == "4") {
         FL.textContent = "Perron";
         FC.textContent = "Larkin";
         FR.textContent = "DeBrincat";
@@ -165,7 +165,7 @@ function updatePlayerInfo() {
 
     }
 
-    if (selectedYear === "5") {
+    if (selectedYear == "5") {
         FL.textContent = "Verhaeghe";
         FC.textContent = "Barkov";
         FR.textContent = "M Tkachuk";
@@ -194,7 +194,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "6") {
+    if (selectedYear == "6") {
         FL.textContent = "Dach";
         FC.textContent = "Suzuki";
         FR.textContent = "Caufield";
@@ -223,7 +223,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "7") {
+    if (selectedYear == "7") {
         FL.textContent = "Bratt";
         FC.textContent = "J Hughes";
         FR.textContent = "Hischier";
@@ -252,7 +252,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "8") {
+    if (selectedYear == "8") {
         FL.textContent = "Nelson";
         FC.textContent = "Barzal";
         FR.textContent = "Horvat";
@@ -281,7 +281,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "9") {
+    if (selectedYear == "9") {
         FL.textContent = "Panarin";
         FC.textContent = "Zibanejad";
         FR.textContent = "Kreider";
@@ -310,7 +310,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "10") {
+    if (selectedYear == "10") {
         FL.textContent = "B Tkachuk";
         FC.textContent = "Stutzle";
         FR.textContent = "Tarasenko";
@@ -339,7 +339,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "11") {
+    if (selectedYear == "11") {
         FL.textContent = "Konecny";
         FC.textContent = "Couturier";
         FR.textContent = "Atkinson";
@@ -368,7 +368,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "12") {
+    if (selectedYear == "12") {
         FL.textContent = "Malkin";
         FC.textContent = "Crosby";
         FR.textContent = "Rust";
@@ -397,7 +397,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "13") {
+    if (selectedYear == "13") {
         FL.textContent = "Stamkos";
         FC.textContent = "Point";
         FR.textContent = "Kucherov";
@@ -426,7 +426,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "14") {
+    if (selectedYear == "14") {
         FL.textContent = "Marner";
         FC.textContent = "Matthews";
         FR.textContent = "Nylander";
@@ -455,7 +455,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "15") {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Kuznetsov";
         FR.textContent = "Wilson";
@@ -522,7 +522,7 @@ let currentIndex = 0;
 // Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
-    if (selectedYear === 0) {
+    if (selectedYear == "0") {
         FL.textContent = "Marchand";
         FC.textContent = "Zacha";
         FR.textContent = "Pastrnak";
@@ -540,8 +540,17 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/boston.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/boston.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Boston Bruins in the 2022-2023 season showcased a remarkable blend of experienced talent and rising stars. Under new management, the team focused on a fast, aggressive playing style, which paid dividends as they topped league charts for much of the season."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
-    if (selectedYear === 1) {
+    if (selectedYear == "1") {
         FL.textContent = "J Skinner";
         FC.textContent = "Thompson";
         FR.textContent = "Tuch";
@@ -559,9 +568,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/buffalo.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/buffalo.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Buffalo Sabres during the 2022-2023 season demonstrated a team in transition, blending young, promising talent with experienced veterans. Their focus on rebuilding and development was evident, as they aimed to create a solid foundation for future success."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 2) {
+    if (selectedYear == "2") {
         FL.textContent = "Svechnikov";
         FC.textContent = "Aho";
         FR.textContent = "Necas";
@@ -579,9 +597,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/carolina.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/carolina.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Carolina Hurricanes in the 2022-2023 season continued their trajectory as one of the NHL's rising powerhouses. Known for their strong defensive play and dynamic offense, they consistently performed at a high level. Their roster, a mix of skilled veterans and dynamic young talent, showed great chemistry and resilience."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 3) {
+    if (selectedYear == "3") {
         FL.textContent = "Gaudreau";
         FC.textContent = "K Johnson";
         FR.textContent = "Laine";
@@ -599,9 +626,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/columbus.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/columbus.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Columbus Blue Jackets in the 2022 - 2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness.With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 4) {
+    if (selectedYear == "4") {
         FL.textContent = "Perron";
         FC.textContent = "Larkin";
         FR.textContent = "DeBrincat";
@@ -620,9 +656,18 @@ const updateDropdown = () => {
 
         MainFetchPopUp("/hockey/present/eastern/json/detroit.json");
 
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Detroit Red Wings in the 2022 - 2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent.This season saw them trying to balance this development with competitive play."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
     }
 
-    if (selectedYear === 5) {
+    if (selectedYear == "5") {
         FL.textContent = "Verhaeghe";
         FC.textContent = "Barkov";
         FR.textContent = "M Tkachuk";
@@ -640,9 +685,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/florida.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/florida.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Florida Panthers in the 2022-2023 season continued to assert themselves as one of the formidable teams in the NHL. Building on their previous successes, they reached the Stanely Cup Finals, losing to the Vegas Golden Knights."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 6) {
+    if (selectedYear == "6") {
         FL.textContent = "Dach";
         FC.textContent = "Suzuki";
         FR.textContent = "Caufield";
@@ -660,9 +714,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/montreal.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/montreal.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Montreal Canadiens in the 2022-2023 season were in a phase of restructuring and rebuilding, focusing on developing young talent and reshaping the team for future success. This season was characterized by a blend of veteran experience and emerging young players, offering glimpses of the team's potential."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear == 7) {
+    if (selectedYear == "7") {
         FL.textContent = "Bratt";
         FC.textContent = "J Hughes";
         FR.textContent = "Hischier";
@@ -680,9 +743,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/new jersey.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/new jersey.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New Jersey Devils in the 2022-2023 season exhibited significant signs of improvement and potential, signaling a turning point in their rebuilding efforts.";
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 8) {
+    if (selectedYear == "8") {
         FL.textContent = "Nelson";
         FC.textContent = "Barzal";
         FR.textContent = "Horvat";
@@ -700,9 +772,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/ny islanders.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny islanders.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New York Islanders in the 2022-2023 season showcased a blend of solid defensive play and opportunistic offense. Known for their structured, team-oriented approach, they continued to emphasize a strong defensive system under their coaching staff."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 9) {
+    if (selectedYear == "9") {
         FL.textContent = "Panarin";
         FC.textContent = "Zibanejad";
         FR.textContent = "Kreider";
@@ -720,9 +801,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/ny rangers.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The New York Rangers in the 2022-2023 season continued to build on their recent success, showcasing a team rich in talent and ambition. With a mix of star forwards, solid defensemen, and one of the league's top goaltenders, the Rangers displayed a strong, well-rounded game."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 10) {
+    if (selectedYear == "10") {
         FL.textContent = "B Tkachuk";
         FC.textContent = "Stutzle";
         FR.textContent = "Tarasenko";
@@ -740,9 +830,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/ottawa.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Ottawa Senators in the 2022-2023 season demonstrated a phase of growth and potential, as they continued to rebuild and develop their young core. The team, featuring a mix of promising rookies and experienced leaders, focused on improving their overall performance."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 11) {
+    if (selectedYear == "11") {
         FL.textContent = "Konecny";
         FC.textContent = "Couturier";
         FR.textContent = "Atkinson";
@@ -760,9 +859,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/philadelphia.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/philadelphia.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Philadelphia Flyers in the 2022 - 2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 12) {
+    if (selectedYear == "12") {
         FL.textContent = "Malkin";
         FC.textContent = "Crosby";
         FR.textContent = "Rust";
@@ -780,9 +888,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/pittsburgh.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/pittsburgh.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Pittsburgh Penguins in the 2022-2023 season continued to showcase their resilience and competitive spirit, building upon their legacy as a perennial contender in the NHL. With a core of experienced, high-caliber players, including some of the league's top stars, the Penguins remained a formidable force."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 13) {
+    if (selectedYear == "13") {
         FL.textContent = "Stamkos";
         FC.textContent = "Point";
         FR.textContent = "Kucherov";
@@ -800,9 +917,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/tampa bay.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/tampa bay.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Tampa Bay Lightning in the 2022-2023 season continued their reputation as one of the NHL's elite teams, building on their recent successes. With a roster full of skilled and high-impact players, they showcased a blend of dynamic offense and solid defense."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 14) {
+    if (selectedYear == "14") {
         FL.textContent = "Marner";
         FC.textContent = "Matthews";
         FR.textContent = "Nylander";
@@ -820,9 +946,18 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/toronto.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/toronto.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Toronto Maple Leafs in the 2022 - 2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
-    if (selectedYear === 15) {
+    if (selectedYear == "15") {
         FL.textContent = "Ovechkin";
         FC.textContent = "Kuznetsov";
         FR.textContent = "Wilson";
@@ -840,6 +975,15 @@ const updateDropdown = () => {
         smallpic.src = "/hockey/img/logos/washington.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/washington.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Washington Capitals in the 2022-2023 season continued to showcase their veteran prowess and offensive strength, anchored by some of the league's most renowned players. Known for their powerful and strategic offensive play, the Capitals remained a significant threat in the NHL."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
     }
 
 
