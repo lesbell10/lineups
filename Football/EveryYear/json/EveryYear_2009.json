@@ -84,11 +84,11 @@
         "birth_date": "06-05-1983",
 
         "nationality": "Brazil",
-        "position": "Right-Back",
+        "position": "Right Back",
         "height": "5'8\"",
         "img": "/football/img/players/D Alves.webp",
         "team": "Pumas",
-        "description": "Brazilian right-back, multiple Champions League, La Liga winner."
+        "description": "Brazilian right back, multiple Champions League, La Liga winner."
     },
     {
         "id": 8,

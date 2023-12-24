@@ -697,7 +697,7 @@
    "full_name": "Adriano Leite",
    "birth_date": "17-02-1982",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Brazil",
    "height": "6'2\"",
@@ -1156,7 +1156,7 @@
    "full_name": "Emmanuel Adebayor",
    "birth_date": "26-02-1984",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Togo",
    "height": "6'3\"",
@@ -2600,7 +2600,7 @@
     "full_name": "Tony Adams",
     "birth_date": "10-10-1966",
 
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "England",
     "height": "6'0\"",
@@ -3301,7 +3301,7 @@
   "full_name": "Massimo Ambrosini",
   "team": "Retired",
   "nationality": "Italy",
-  "position": "Midfielder",
+  "position": "Defensive Midfielder",
   "description": "Italian midfielder known for leadership and work rate."
 },
 {
@@ -3331,7 +3331,7 @@
   "full_name": "Aldair Nascimento",
   "team": "Retired",
   "nationality": "Brazil",
-  "position": "Defender",
+  "position": "Centre Back",
   "description": "Brazilian defender with a strong defensive presence."
 },
 {
@@ -3571,7 +3571,7 @@
     "full_name": "Manuel Akanji",
     "team": "Manchester City",
     "nationality": "Switzerland",
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "description": "Talented Swiss defender playing at the highest level."
   },
   {
@@ -3591,7 +3591,7 @@
     "full_name": "Nathan Ake",
     "team": "Manchester City",
     "nationality": "Netherlands",
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "description": "Versatile Dutch defender capable of playing multiple positions."
   },
   {
@@ -3751,8 +3751,8 @@
     "full_name": "Marcos Alonso",
     "team": "Barcelona",
     "nationality": "Spain",
-    "position": "Defender",
-    "description": "Spanish left-back known for his attacking prowess."
+    "position": "Left Back",
+    "description": "Spanish left back known for his attacking prowess."
   },
   {
     "id": 349,
@@ -3921,7 +3921,7 @@
     "full_name": "Francesco Acerbi",
     "team": "Inter Milan",
     "nationality": "Italy",
-    "position": "Centre-Back",
+    "position": "Centre Back",
     "description": "Italian center-back with solid defensive skills."
   },
   {

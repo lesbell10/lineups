@@ -1,7 +1,7 @@
 const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
-const itemsPerPage = 20;
+const itemsPerPage = 48;
 let includeRetired = true;
 
 // Function to load JSON data from a file

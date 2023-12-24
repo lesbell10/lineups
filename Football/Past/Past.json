@@ -81,14 +81,14 @@
     "id": 7,
     "last_name": "D Alves",
     "img": "/football/img/players/D Alves.webp",
-    "full_name": "Daniel Alves da Silva",
+    "full_name": "Daniel Alves",
     "birth_date": "06-05-1983",
 
-    "position": "Right-back",
+    "position": "Right Back",
     "team": "Pumas",
     "nationality": "Brazil",
     "height": "5'8\"",
-    "description": "Energetic right-back with a flair for attacking play."
+    "description": "Energetic right back with a flair for attacking play."
   },
   {
     "id": 8,
