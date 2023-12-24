@@ -226,31 +226,34 @@ nav.home {
     }
 
     
-.player-wrapper, .bubble{
+.player-wrapper, .bubble {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    margin-left: -60px;
+    margin-bottom: 25px;
+    margin-top: -10px;
 }
 
 .player, .player-info {
-    transform: scale(.8);
     border: 1px solid black;
     padding: 20px;
     border-radius: 20px;
-    margin-left: -30px;
-    margin-top: -50px;
+    margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 16px;
     background-color: transparent;
-    font-weight: bold;
-    height: 580px;
+    min-height: 420px;
     max-width: 280px;
+    width: 70%;
+    height: 70%;
     box-shadow: -5px 5px 10px black;
 }
 
-.player-info img, .player img {
-    height: 194px;
-    width: 144px;
+.player img, .player-info img  {
+    height: 135px;
+    width: 100px;
 }
 
 .description {
@@ -551,8 +554,7 @@ img, p {
 }
 
 #count {
-    margin: 10px 30px;
-    margin-top: -25px;
+    margin:30px;
 }
 
 #results h1 {
@@ -566,20 +568,12 @@ img, p {
     color: black;
 }
 
-.player-wrapper h6 {
-    font-size: 24px;
-    margin-left: 15px;
+h6 {
+    font-size: 22px;
+    margin-left: 30px;
     margin-bottom: -10px;
     color: black;
 }
-
-.bubble h6 {
-    font-size: 24px;
-    margin-left: 15px;
-    margin-top:80px;
-    color: black;
-}
-
 
 input::placeholder {
     color: black;
