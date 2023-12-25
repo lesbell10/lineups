@@ -183,7 +183,7 @@ nav.home {
 #searchButton {
     padding: 12px 20px;
     font-size: 20px;
-    background-color: transparent; /* Blue background */
+    background-color: grey; /* Blue background */
     color: white;
     border: 3px solid black;
     border-left: none; /* Remove left border */
@@ -221,56 +221,33 @@ nav.home {
         justify-content: center;
     }
    
-.player-wrapper {
+.player-wrapper, .bubble {
     display: flex;
     flex-direction: column;
+    margin-left: -60px;
+    margin-bottom: 25px;
+    margin-top: -10px;
 }
 
-.player {
-    border: 2px solid black;
+.player, .player-info {
+    border: 1px solid black;
     padding: 20px;
     border-radius: 20px;
     margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 16px;
     background-color: transparent;
-    font-weight: bold;
-    height: 600px;
+    min-height: 420px;
     max-width: 280px;
+    width: 70%;
+    height: 70%;
     box-shadow: -5px 5px 10px black;
-    border-color: grey;
 }
 
-.bubble {
-    display: flex;
-    flex-direction: column;
-}
-
-.player-info {
-    border: 2px solid black;
-    padding: 20px;
-    border-radius: 20px;
-    margin: 15px;
-    color: black;
-    font-weight: bold;
-    font-size: 24px;
-    background-color: transparent;
-    font-weight: bold;
-    height: 600px;
-    max-width: 280px;
-    box-shadow: -5px 5px 10px black;
-    border-color: grey;
-}
-
-.player-info img {
-    height: 200px;
-    margin-left: -17px;
-}
-
-.player img {
-    height: 200px;
-    margin-left: -17px;
+.player img, .player-info img {
+    height: 140px;
+    margin-left: -10px;
 }
 
 .description {
@@ -470,7 +447,7 @@ img, p {
 }
 
 h6 {
-    font-size: 29px;
+    font-size: 22px;
     margin-left: 30px;
     margin-bottom: -10px;
     color: black;

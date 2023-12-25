@@ -188,7 +188,7 @@ nav.home {
 #searchButton {
     padding: 12px 20px;
     font-size: 20px;
-    background-color: transparent; /* Blue background */
+    background-color: grey; /* Blue background */
     color: white;
     border: 2px solid white;
     border-radius: 0 10px 10px 0; /* Rounded corners on the right side */
@@ -242,10 +242,10 @@ nav.home {
     margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 2.3vh;
     background-color: transparent;
-    min-height: 420px;
-    max-width: 280px;
+    min-height: 60vh;
+    max-width: 18vw;
     width: 70%;
     height: 70%;
     box-shadow: -5px 5px 10px black;
