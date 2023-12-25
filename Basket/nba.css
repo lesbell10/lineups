@@ -224,7 +224,7 @@ nav.home {
 .player-wrapper, .bubble {
     display: flex;
     flex-direction: column;
-    margin-left: -60px;
+    margin-left: -65px;
     margin-bottom: 25px;
     margin-top: -10px;
 }

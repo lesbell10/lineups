@@ -214,7 +214,7 @@
         "full_name": "Ruud Gullit",
         "birth_date": "01-09-1962",
 
-        "position": "Midfielder",
+        "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Netherlands",
         "height": "6'3\"",
@@ -502,7 +502,7 @@
     "full_name": "Gheorghe Hagi",
     "birth_date": "05-02-1965",
 
-    "position": "Midfielder",
+    "position": "Attacking Midfielder",
     "team": "Retired",
     "nationality": "Romania",
     "height": "5'9\"",
@@ -874,7 +874,7 @@
    "team": "Retired",
    "nationality": "Italy",
    "height": "5'9\"",
-   "description": "Italian midfielder admired for his tough tackling and tenacity in football."
+   "description": "Italian midfielder admired for his tough tackling and tenacity."
 },
 {
    "id": 83,
@@ -1091,7 +1091,7 @@
    "full_name": "Marc-Vivien Foe",
    "birth_date": "01-05-1975",
 
-   "position": "Central Midfielder",
+   "position": "Defensive Midfielder",
    "team": "Retired",
    "nationality": "Cameroon",
    "height": "6'2\"",
@@ -1598,7 +1598,7 @@
    "full_name": "William Gallas",
    "birth_date": "17-08-1977",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "France",
    "height": "6'1\"",
@@ -1676,11 +1676,11 @@
    "full_name": "Fabio Grosso",
    "birth_date": "28-11-1977",
 
-   "position": "Defender",
+   "position": "Left Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'0\"",
-   "description": "Italian defender famous for his World Cup-winning penalty."
+   "description": "Italian left back famous for his World Cup-winning penalty."
 },
 {
    "id": 159,
@@ -1911,7 +1911,7 @@
     "birth_date": "02-10-1991",
 
     "position": "Forward",
-    "team": "Al-Ahli",
+    "team": "Al Ahli",
     "nationality": "Brazil",
     "height": "6'1\"",
     "description": "Versatile attacker with a flair for creativity and goals."
@@ -1920,7 +1920,7 @@
     "id": 179,
     "last_name": "Isco",
     "img": "/football/img/players/Isco.webp",
-    "full_name": "Isco Alarcón",
+    "full_name": "Isco Alarcon",
     "birth_date": "21-04-1992",
 
     "position": "Attacking Midfielder",
@@ -1975,7 +1975,7 @@
     "full_name": "Serge Gnabry",
     "birth_date": "14-07-1995",
 
-    "position": "Forward",
+    "position": "Left Winger",
     "team": "Bayern Munich",
     "nationality": "Germany",
     "height": "6'0\"",
@@ -3015,7 +3015,7 @@
   "full_name": "Owen Hargreaves",
   "team": "Retired",
   "nationality": "England",
-  "position": "Midfielder",
+  "position": "Defensive Midfielder",
   "description": "English midfielder with versatility and work rate."
 },
 {
@@ -3167,16 +3167,6 @@
   "nationality": "Scotland",
   "position": "Forward",
   "description": "Scottish football legend and former Liverpool player."
-},
-{
-  "id": 294,
-  "last_name": "Fowler",
-  "img": "/football/img/players/Fowler.webp",
-  "full_name": "Robbie Fowler",
-  "team": "Retired",
-  "nationality": "England",
-  "position": "Forward",
-  "description": "English forward and prolific goal scorer."
 },
 {
   "id": 295,
@@ -3342,7 +3332,7 @@
   "id": 312,
   "last_name": "Garrincha",
   "img": "/football/img/players/Garrincha.webp",
-  "full_name": "Manuel Francisco Garrincha",
+  "full_name": "Manuel Garrincha",
   "team": "Retired",
   "nationality": "Brazil",
   "position": "Forward",
@@ -3395,8 +3385,8 @@
   "full_name": "Mario Gotze",
   "team": "Frankfurt",
   "nationality": "Germany",
-  "position": "Midfielder",
-  "description": "German midfielder known for scoring the World Cup-winning goal in 2014."
+  "position": "Attacking Midfielder",
+  "description": "German attacking midfielder known for scoring the World Cup-winning goal in 2014."
 },
 {
   "id": 318,
@@ -3974,7 +3964,7 @@
     "img": "/football/img/players/A Garnacho.webp",
     "full_name": "Alejandro Garnacho",
     "team": "Manchester United",
-    "nationality": "Spain",
+    "nationality": "Argentina",
     "position": "Left Winger",
     "description": "Spanish forward making waves at Manchester United."
   },

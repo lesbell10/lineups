@@ -352,7 +352,7 @@ function updatePlayerInfo() {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
-        FL.textContent = "Hazard";
+        FL.textContent = "E Hazard";
         CMR.textContent = "Tielemans";
         CML.textContent = "Witsel";
         DR.textContent = "Meunier";
@@ -799,7 +799,7 @@ const updateDropdown = () => {
         STC.textContent = "Lukaku";
         FR.textContent = "Mertens";
         AMC.textContent = "De Bruyne";
-        FL.textContent = "Hazard";
+        FL.textContent = "E Hazard";
         CMR.textContent = "Tielemans";
         CML.textContent = "Witsel";
         DR.textContent = "Meunier";
