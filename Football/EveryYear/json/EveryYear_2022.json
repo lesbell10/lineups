@@ -6,7 +6,7 @@
         "birth_date": "21-08-1988",
 
         "nationality": "Poland",
-        "position": "Centre Forward",
+        "position": "Striker",
         "height": "6'1\"",
         "img": "/football/img/players/Lewandowski.webp",
         "team": "Barcelona",
@@ -75,8 +75,8 @@
         "position": "Defensive Midfielder",
         "height": "5'7\"",
         "img": "/football/img/players/Kante.webp",
-        "team": "Al-Ittihad",
-        "description": "Tireless French midfielder, key for Chelsea, World Cup winner"
+        "team": "Al Ittihad",
+        "description": "Tireless French midfielder, former key for Chelsea, World Cup winner"
     },
     {
         "id": 7,
@@ -85,7 +85,7 @@
         "birth_date": "08-02-1995",
 
         "nationality": "Germany",
-        "position": "Right Back",
+        "position": "Central Midfielder",
         "height": "5'10\"",
         "img": "/football/img/players/Kimmich.webp",
         "team": "Bayern Munich",

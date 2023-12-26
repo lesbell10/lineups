@@ -108,15 +108,20 @@ function searchPlayers(query, includeRetired = true) {
             return;
         }
 
-        Object.values(player).forEach(value => {
+        Object.entries(player).forEach(([key, value]) => {
+            // Exclude 'description' from the filtering criteria
+            if (key === 'description') {
+                return;
+            }
+
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
                 const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
-                    return;
                 }
             }
         });
+
     });
 
     const results = Array.from(uniquePlayers.values());

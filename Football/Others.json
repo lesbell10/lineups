@@ -23,7 +23,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'5\"",
-        "description": "Argentine hero, 'Hand of God', 1986 World Cup"
+        "description": "Argentine hero, \"Hand of God\", 1986 World Cup"
     },
     {
         "id": 3,
@@ -410,7 +410,7 @@
     "full_name": "Fernando Hierro",
     "birth_date": "23-03-1968",
 
-    "position": "Defender",
+    "position": "Centre Back",
     "team": "Retired",
     "nationality": "Spain",
     "height": "6'1\"",
@@ -1026,7 +1026,7 @@
    "full_name": "Roy Makaay",
    "birth_date": "09-03-1975",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Netherlands",
    "height": "6'0\"",
@@ -1065,7 +1065,7 @@
    "full_name": "Nwankwo Kanu",
    "birth_date": "01-08-1976",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Nigeria",
    "height": "6'5\"",
@@ -1117,7 +1117,7 @@
    "full_name": "Bonaventure Kalou",
    "birth_date": "12-01-1978",
 
-   "position": "Forward",
+   "position": "Right Winger",
    "team": "Retired",
    "nationality": "Ivory Coast",
    "height": "5'10\"",
@@ -1130,7 +1130,7 @@
    "full_name": "Salomon Kalou",
    "birth_date": "05-08-1985",
 
-   "position": "Forward",
+   "position": "Left Winger",
    "team": "Retired",
    "nationality": "Ivory Coast",
    "height": "6'0\"",
@@ -1234,7 +1234,7 @@
    "full_name": "Emile Heskey",
    "birth_date": "11-01-1978",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "England",
    "height": "6'2\"",
@@ -1377,7 +1377,7 @@
    "full_name": "Carlos Marchena",
    "birth_date": "31-07-1979",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Spain",
    "height": "6'0\"",
@@ -1455,7 +1455,7 @@
    "full_name": "Sami Hyypiä",
    "birth_date": "07-10-1973",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Finland",
    "height": "6'4\"",
@@ -1468,7 +1468,7 @@
    "full_name": "Harry Kewell",
    "birth_date": "22-09-1978",
 
-   "position": "Forward",
+   "position": "Left Winger",
    "team": "Retired",
    "nationality": "Australia",
    "height": "6'0\"",
@@ -1556,7 +1556,7 @@
    "id": 148,
    "last_name": "Ro Keane",
    "img": "/football/img/players/Ro Keane.webp",
-   "full_name": "Rob Keane",
+   "full_name": "Robbie Keane",
    "birth_date": "08-07-1980",
 
    "position": "Forward",
@@ -1767,7 +1767,7 @@
    "full_name": "Simone Inzaghi",
    "birth_date": "05-04-1976",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Italy",
    "height": "5'11\"",
@@ -1845,7 +1845,7 @@
    "full_name": "Marek Jankulovski",
    "birth_date": "09-05-1977",
 
-   "position": "Defender",
+   "position": "Left Back",
    "team": "Retired",
    "nationality": "Czech Republic",
    "height": "6'0\"",
@@ -1858,7 +1858,7 @@
   "full_name": "Filippo Inzaghi",
   "birth_date": "09-08-1973",
 
-  "position": "Forward",
+  "position": "Strikr",
   "team": "Retired",
   "nationality": "Italy",
   "height": "6'2\"",
@@ -2002,7 +2002,7 @@
     "birth_date": "12-11-1995",
 
     "position": "Left Winger",
-    "team": "Atlético Madrid",
+    "team": "Atletico Madrid",
     "nationality": "France",
     "height": "5'7\"",
     "description": "French midfielder known for his versatility and dribbling skills."
@@ -2014,8 +2014,8 @@
     "full_name": "Riyad Mahrez",
     "birth_date": "21-02-1991",
 
-    "position": "Forward",
-    "team": "Al-Ahli",
+    "position": "Right Winger",
+    "team": "Al Ahli",
     "nationality": "Algeria",
     "height": "5'10\"",
     "description": "Algerian winger with dribbling skills and a lethal left foot."
@@ -2903,7 +2903,7 @@
     "team": "Retired",
     "nationality": "Argentina",
     "height": "5'8\"",
-    "description": "Former Argentine footballer, skillful winger."
+    "description": "Former Argentine footballer, skillful forward."
   },
   {
     "id": 266,
@@ -2945,7 +2945,7 @@
     "full_name": "Christian Karembeu",
     "team": "Retired",
     "nationality": "France",
-    "position": "Midfielder",
+    "position": "Defensive Midfielder",
     "description": "French former footballer, won the 1998 World Cup."
   },
   {
@@ -3045,7 +3045,7 @@
   "full_name": "Seydou Keita",
   "team": "Retired",
   "nationality": "Mali",
-  "position": "Midfielder",
+  "position": "Defensive Midfielder",
   "description": "Malian midfielder with versatility and passing skills."
 },
 {
@@ -3115,7 +3115,7 @@
   "full_name": "Alex Hleb",
   "team": "Retired",
   "nationality": "Belarus",
-  "position": "Midfielder",
+  "position": "Attacking Midfielder",
   "description": "Belarusian midfielder known for dribbling skills."
 },
 {
@@ -3145,7 +3145,7 @@
   "full_name": "Glen Johnson",
   "team": "Retired",
   "nationality": "England",
-  "position": "Defender",
+  "position": "Right Back",
   "description": "English defender with attacking capabilities."
 },
 {
@@ -3185,7 +3185,7 @@
   "full_name": "Gabriel Heinze",
   "team": "Retired",
   "nationality": "Argentina",
-  "position": "Defender",
+  "position": "Centre Back",
   "description": "Argentine defender with a strong defensive presence."
 },
 {
@@ -3495,7 +3495,7 @@
   "full_name": "Bixente Lizarazu",
   "team": "Retired",
   "nationality": "France",
-  "position": "Defender",
+  "position": "Left Back",
   "description": "French defender known for his speed and versatility."
 },
 {
@@ -3505,7 +3505,7 @@
     "full_name": "Alessandro Mancini",
     "team": "Retired",
     "nationality": "Brazil",
-    "position": "Forward",
+    "position": "Left Winger",
     "description": "Professional footballer from Brazil."
 },
   {
@@ -3555,8 +3555,8 @@
     "full_name": "Rico Lewis",
     "team": "Manchester City",
     "nationality": "England",
-    "position": "Defender",
-    "description": "Northern Irish left back known for his pace and crossing."
+    "position": "Right Back",
+    "description": "Talented young right-back at Manchester City, English origin."
   },
   {
     "id": 335,
@@ -3575,7 +3575,7 @@
     "full_name": "Joselu Sanmartín",
     "team": "Real Madrid",
     "nationality": "Spain",
-    "position": "Forward",
+    "position": "Striker",
     "description": "Experienced Spanish striker with a good goal-scoring record."
   },
   {
@@ -3633,7 +3633,7 @@
     "last_name": "Kessie",
     "img": "/football/img/players/Kessie.webp",
     "full_name": "Franck Kessie",
-    "team": "Al-Ahli",
+    "team": "Al Ahli",
     "nationality": "Ivory Coast",
     "position": "Defensive Midfielder",
     "description": "Ivorian midfielder with excellent ball control and physicality."
@@ -4095,8 +4095,8 @@
     "full_name": "Thierry Henry",
     "team": "Retired",
     "nationality": "France",
-    "position": "Striker",
-    "description": "Legendary striker known for his lethal finishing."
+    "position": "Forward",
+    "description": "Legendary forward known for his lethal finishing."
 },
 {
     "id": 389,

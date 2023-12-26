@@ -603,7 +603,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/wallpapers/iverson.jpg";
 
-        MainFetchPopUp("");
+        MainFetchPopUp("./json/EveryYear_2004.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1235,7 +1235,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/wallpapers/iverson.jpg";
 
-        MainFetchPopUp("");
+        MainFetchPopUp("./json/EveryYear_2004.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

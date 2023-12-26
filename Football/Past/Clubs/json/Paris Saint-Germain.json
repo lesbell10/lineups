@@ -45,11 +45,11 @@
         "full_name": "Angel Di Maria",
         "birth_date": "14-02-1988",
 
-        "position": "Forward",
+        "position": "Left Winger",
         "team": "Benfica",
         "nationality": "Argentina",
         "height": "5'11\"",
-        "description": "Versatile attacker with creativity and pace."
+        "description": "Versatile left winger with creativity and pace."
     },
     {
         "id": 5,
@@ -110,7 +110,7 @@
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
 
-        "position": "Defender",
+        "position": "Centre Back",
         "team": "PSG",
         "nationality": "Brazil",
         "height": "6'0\"",

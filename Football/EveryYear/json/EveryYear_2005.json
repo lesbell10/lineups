@@ -6,11 +6,11 @@
     "full_name": "Thierry Henry",
     "birth_date": "17-08-1977",
 
-    "position": "Striker",
+    "position": "Forward",
     "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
-    "description": "Legendary striker known for his lethal finishing."
+    "description": "Legendary forward known for his lethal finishing."
   },
   {
     "id": 2,
@@ -107,7 +107,7 @@
     "id": 9,
     "last_name": "Lucio",
     "img": "/football/img/players/Lucio.webp",
-    "full_name": "Lúcio Ferreira",
+    "full_name": "Lucio Ferreira",
     "birth_date": "08-05-1978",
 
     "position": "Centre Back",

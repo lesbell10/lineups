@@ -6,7 +6,7 @@
         "full_name": "Robert Lewandowski",
         "birth_date": "21-08-1988",
 
-        "position": "Centre Forward",
+        "position": "Striker",
         "team": "Barcelona",
         "nationality": "Poland",
         "height": "5'11\"",
@@ -72,10 +72,10 @@
         "birth_date": "29-03-1991",
 
         "position": "Defensive Midfield",
-        "team": "Al-Ittihad",
+        "team": "Al Ittihad",
         "nationality": "France",
         "height": "5'7\"",
-        "description": "Tireless French midfielder, key for Chelsea, World Cup winner"
+        "description": "Tireless French midfielder, former key for Chelsea, World Cup winner"
     },
     {
         "id": 7,
@@ -84,7 +84,7 @@
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
-        "position": "Right Back",
+        "position": "Central Midfielder",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'10\"",

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "last_name": "Iverson",
+    "img": "/basket/img/players/A Iverson.png",
+    "full_name": "Allen Iverson",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Point Guard", "Shooting Guard"],
+    "description": "Hall of Fame NBA player with incredible scoring ability."
+  },
+  {
+    "id": 2,
+    "last_name": "McGrady",
+    "img": "/basket/img/players/T McGrady.png",
+    "full_name": "T McGrady",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "One of the most versatile and talented scorers in NBA history."
+  },
+  {
+    "id": 3,
+    "last_name": "Bryant",
+    "img": "/basket/img/players/K Bryant.png",
+    "full_name": "K Bryant",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Legendary Laker known for his work ethic and clutch performances."
+  },
+  {
+    "id": 4,
+    "last_name": "Duncan",
+    "img": "/basket/img/players/T Duncan.png",
+    "full_name": "T Duncan",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Dominant big man with exceptional fundamentals and leadership."
+  },
+  {
+    "id": 5,
+    "last_name": "O'Neal",
+    "img": "/basket/img/players/S O'Neal.png",
+    "full_name": "S O'Neal",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "A dominant force in the paint and a multiple-time NBA champion."
+  }
+]

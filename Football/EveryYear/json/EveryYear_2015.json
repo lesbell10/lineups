@@ -6,7 +6,7 @@
         "full_name": "Zlatan Ibrahimovic",
         "birth_date": "03-10-1981",
 
-        "position": "Centre Forward",
+        "position": "Striker",
         "team": "Retired",
         "nationality": "Sweden",
         "height": "6'5\"",
@@ -58,7 +58,7 @@
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
 
-        "position": "Central Midfielder",
+        "position": "Attacking Midfielder",
         "team": "Emirates Club",
         "nationality": "Spain",
         "height": "5'7\"",
@@ -124,7 +124,7 @@
         "birth_date": "11-11-1983",
 
         "position": "Right Back",
-        "team": "Bayern Munich",
+        "team": "Retired",
         "nationality": "Germany",
         "height": "5'7\"",
         "description": "German full-back, tactical intelligence, Bayern Munich, versatile."

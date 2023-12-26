@@ -4,9 +4,9 @@
     "last_name": "Henry",
     "img": "/football/img/players/Henry.webp",
     "full_name": "Thierry Henry",
-    "team": "Arsenal",
+    "team": "Retired",
     "nationality": "France",
-    "position": "Striker",
+    "position": "Forward",
     "description": "Prolific scorer, Arsenal legend, French football icon."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Frank Lampard",
     "team": "Chelsea",
     "nationality": "England",
-    "position": "Midfielder",
+    "position": "Central Midfielder",
     "description": "Midfield maestro, Chelsea legend, prolific goal scorer."
   },
   {
@@ -86,7 +86,7 @@
     "full_name": "Paolo Maldini",
     "team": "AC Milan",
     "nationality": "Italy",
-    "position": "Defender",
+    "position": "Left Back",
     "description": "Defensive maestro, AC Milan icon, Italian football legend."
   },
   {

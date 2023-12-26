@@ -6,11 +6,11 @@
         "full_name": "Diogo Jota",
         "birth_date": "04-12-1996",
 
-        "position": "Striker",
-        "team": "Liverpool FC",
+        "position": "Forward",
+        "team": "Liverpool",
         "nationality": "Portugal",
         "height": "5'10\"",
-        "description": "Exciting young striker with great finishing ability."
+        "description": "Exciting young forawrd with great finishing ability."
     },
     {
         "id": 2,
@@ -45,11 +45,11 @@
         "full_name": "Rafael Leao",
         "birth_date": "10-06-1999",
 
-        "position": "Forward Left",
+        "position": "Left Winger",
         "team": "AC Milan",
         "nationality": "Portugal",
         "height": "6'2\"",
-        "description": "Portuguese forward with pace and skill."
+        "description": "Portuguese left winger with pace and skill."
     },
     {
         "id": 5,

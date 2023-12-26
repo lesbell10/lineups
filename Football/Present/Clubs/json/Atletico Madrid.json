@@ -68,7 +68,7 @@
     "id": 6,
     "last_name": "Koke",
     "img": "/football/img/players/Koke.webp",
-    "full_name": "Koke",
+    "full_name": "Jorge Koke",
     "birth_date": "08-01-1992",
 
     "position": "Central Midfielder",
@@ -123,11 +123,11 @@
     "full_name": "Mario Hermoso",
     "birth_date": "18-04-1995",
 
-    "position": "Defender Left",
+    "position": "Centre Back",
     "team": "Atletico Madrid",
     "nationality": "Spain",
     "height": "6'2\"",
-    "description": "Spanish left back known for his attacking runs."
+    "description": "Spanish centre back known for his offense."
   },
   {
     "id": 11,

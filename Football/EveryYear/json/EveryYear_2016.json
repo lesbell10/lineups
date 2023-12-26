@@ -84,7 +84,7 @@
     "full_name": "Philipp Lahm",
     "birth_date": "11-11-1983",
 
-    "position": "Defender",
+    "position": "Right Back",
     "team": "Retired",
     "nationality": "Germany",
     "height": "5'7\"",
@@ -123,9 +123,9 @@
     "full_name": "Marcelo Vieira",
     "birth_date": "12-05-1988",
 
-    "position": "Defender",
+    "position": "Left Back",
     "team": "Fluminense",
-    "nationality": "Brazil, Spain",
+    "nationality": "Brazil",
     "height": "5'8\"",
     "description": "Brazilian left back, known for attacking flair and skill"
 },

@@ -45,7 +45,7 @@
     "full_name": "Khvicha Kvaratskhelia",
     "birth_date": "12-05-2001",
 
-    "position": "Forward Left",
+    "position": "Left Winger",
     "team": "Napoli",
     "nationality": "Georgia",
     "height": "6'2\"",
@@ -84,7 +84,7 @@
     "full_name": "Davide Di Lorenzo",
     "birth_date": "08-04-1997",
 
-    "position": "Right Defender",
+    "position": "Right Back",
     "team": "Napoli",
     "nationality": "Italy",
     "height": "6'2\"",
@@ -112,9 +112,9 @@
 
     "position": "Centre Back",
     "team": "Napoli",
-    "nationality": "Portugal",
+    "nationality": "Brazil",
     "height": "6'2\"",
-    "description": "Portuguese left central defender with composure."
+    "description": "Brazilian central defender with composure."
   },
   {
     "id": 10,

@@ -121,12 +121,16 @@ function searchPlayers(query, includeRetired = true) {
             return;
         }
 
-        Object.values(player).forEach(value => {
+        Object.entries(player).forEach(([key, value]) => {
+            // Exclude 'description' from the filtering criteria
+            if (key === 'description') {
+                return;
+            }
+
             if (typeof value === 'string' && value.toLowerCase().includes(normalizedQuery)) {
                 const uniqueKey = `${player.last_name}`;
                 if (!uniquePlayers.has(uniqueKey)) {
                     uniquePlayers.set(uniqueKey, player);
-                    return;
                 }
             }
         });
@@ -184,12 +188,13 @@ function clearPageContentExceptNav() {
 // Display results
 function displayResults(players) {
     const filteredPlayers = players.reduce((unique, player) => {
-        const uniqueKey = `${player.last_name}_${player.birth_date}`;
-        if (!unique.some(u => `${u.last_name}_${u.birth_date}` === uniqueKey)) {
+        const uniqueKey = `${player.last_name}`;
+        if (!unique.some(u => `${u.last_name}` === uniqueKey)) {
             unique.push(player);
         }
         return unique;
     }, []);
+    
 
     // Sort the players by last name in ascending order
     filteredPlayers.sort((a, b) => {

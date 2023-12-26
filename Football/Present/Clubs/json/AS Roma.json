@@ -84,7 +84,7 @@
     "full_name": "Rick Karsdorp",
     "birth_date": "11-02-1995",
 
-    "position": "Right Defender",
+    "position": "Right Back",
     "team": "AS Roma",
     "nationality": "Netherlands",
     "height": "5'11\"",
@@ -107,7 +107,7 @@
     "id": 9,
     "last_name": "G Mancini",
     "img": "/football/img/players/G Mancini.webp",
-    "full_name": "Gianmaria Mancini",
+    "full_name": "Gianluca Mancini",
     "birth_date": "17-04-1996",
 
     "position": "Centre Back",
