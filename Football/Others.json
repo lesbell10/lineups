@@ -3,7 +3,7 @@
         "id": 1,
         "last_name": "Pele",
         "img": "/football/img/players/Pele.webp",
-        "full_name": "Pele",
+        "full_name": "Pele do Nascimento",
         "birth_date": "23-10-1940",
 
         "position": "Forward",
@@ -201,7 +201,7 @@
         "full_name": "Lothar Matthaus",
         "birth_date": "21-03-1961",
 
-        "position": "Midfielder",
+        "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Germany",
         "height": "5'10\"",
@@ -358,7 +358,7 @@
     "full_name": "Pavel Nedved",
     "birth_date": "30-08-1972",
 
-    "position": "Midfielder",
+    "position": "Left Winger",
     "team": "Retired",
     "nationality": "Czech Republic",
     "height": "6'0\"",
@@ -636,7 +636,7 @@
    "team": "Retired",
    "nationality": "Spain",
    "height": "6'0\"",
-   "description": "Spanish midfielder known for his passing and leadership."
+   "description": "Spanish winger known for his passing and leadership."
 },
 {
    "id": 59,
@@ -766,7 +766,7 @@
    "team": "Retired",
    "nationality": "Romania",
    "height": "6'0\"",
-   "description": "Romanian striker with a knack for scoring goals."
+   "description": "Romanian forward with a knack for scoring goals."
 },
 {
    "id": 71,
@@ -856,7 +856,7 @@
    "full_name": "Hidetoshi Nakata",
    "birth_date": "22-01-1977",
 
-   "position": "Central Midfielder",
+   "position": "Attacking Midfielder",
    "team": "Retired",
    "nationality": "Japan",
    "height": "6'0\"",
@@ -927,19 +927,6 @@
     "nationality": "France",
     "height": "6'1\"",
     "description": "French midfielder, skilled, Arsenal legend, versatile playmaker."
-},
-{
-    "id": 87,
-    "last_name": "T Motta",
-    "img": "/football/img/players/T Motta.webp",
-    "full_name": "Thiago Motta",
-    "birth_date": "28-08-1982",
-
-    "position": "Defensive Midfielder",
-    "team": "Retired",
-    "nationality": "Italy",
-    "height": "6'2\"",
-    "description": "Italian midfielder, tactically adept, played for top clubs."
 },
 {
       "id": 88,
@@ -1039,11 +1026,11 @@
    "full_name": "Michael Reiziger",
    "birth_date": "03-05-1973",
 
-   "position": "Defender",
+   "position": "Right Back",
    "team": "Retired",
    "nationality": "Netherlands",
    "height": "6'2\"",
-   "description": "Dutch defender known for his defensive solidity."
+   "description": "Dutch richt back known for his defensive solidity."
 },
 {
    "id": 101,
@@ -1056,7 +1043,7 @@
    "team": "Retired",
    "nationality": "Egypt",
    "height": "6'2\"",
-   "description": "Egyptian striker with physicality and goal-scoring ability."
+   "description": "Egyptian forward with physicality and goal-scoring ability."
 },
 {
    "id": 102,
@@ -1182,7 +1169,7 @@
   "full_name": "Phil Neville",
   "birth_date": "21-01-1977",
 
-  "position": "Defender",
+  "position": "Right Back",
   "team": "Manchester United",
   "nationality": "England",
   "height": "6'2\"",
@@ -1212,7 +1199,7 @@
    "team": "Retired",
    "nationality": "England",
    "height": "6'0\"",
-   "description": "English midfielder known for his dribbling and creativity."
+   "description": "English winger known for his dribbling and creativity."
 },
 {
    "id": 114,
@@ -1260,7 +1247,7 @@
    "full_name": "Gary Neville",
    "birth_date": "18-02-1975",
 
-   "position": "Defender",
+   "position": "Right Back",
    "team": "Retired",
    "nationality": "England",
    "height": "5'10\"",
@@ -1508,7 +1495,7 @@
    "birth_date": "04-06-1985",
 
    "position": "Forward",
-   "team": "Retired",
+   "team": "Gornik Zabrze",
    "nationality": "Germany",
    "height": "6'0\"",
    "description": "German forward known for his powerful shots."
@@ -1663,11 +1650,11 @@
    "full_name": "Massimo Oddo",
    "birth_date": "14-06-1976",
 
-   "position": "Defender",
+   "position": "Right Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'1\"",
-   "description": "Italian full-back known for his crossing and defensive abilities."
+   "description": "Italian right back known for his crossing and defensive abilities."
 },
 {
    "id": 158,
@@ -1689,7 +1676,7 @@
    "full_name": "Marco Materazzi",
    "birth_date": "19-08-1973",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'4\"",
@@ -1793,7 +1780,7 @@
    "full_name": "Christian Panucci",
    "birth_date": "12-04-1973",
 
-   "position": "Defender",
+   "position": "Right Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'1\"",
@@ -1806,11 +1793,11 @@
    "full_name": "Gianluca Pessotto",
    "birth_date": "11-08-1970",
 
-   "position": "Defensive Midfielder",
+   "position": "Left Back",
    "team": "Retired",
    "nationality": "Italy",
    "height": "5'10\"",
-   "description": "Italian midfielder known for his passing and work ethic."
+   "description": "Italian left back known for his passing and work ethic."
 },
 {
    "id": 171,
@@ -2405,11 +2392,11 @@
     "full_name": "Ze Roberto",
     "birth_date": "06-07-1974",
 
-    "position": "Midfielder",
+    "position": "Left Winger",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'11\"",
-    "description": "Brazilian midfielder known for his versatility and playmaking skills."
+    "description": "Brazilian winger known for his versatility and playmaking skills."
   },
   {
     "id": 222,
@@ -2604,7 +2591,7 @@
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "5'8\"",
-    "description": "Dutch winger known for his pace and attacking prowess."
+    "description": "Dutch left winger known for his pace and attacking prowess."
   },
   {
     "id": 238,
@@ -2786,7 +2773,7 @@
     "team": "Retired",
     "nationality": "Spain",
     "height": "5'7\"",
-    "description": "Spanish forward known for his speed and versatility."
+    "description": "Spanish rigth winger known for his speed and versatility."
   },
   {
     "id": 254,
@@ -2995,8 +2982,8 @@
   "full_name": "Jesus Navas",
   "team": "Sevilla",
   "nationality": "Spain",
-  "position": "Winger",
-  "description": "Spanish winger known for speed and crossing ability."
+  "position": "Right Back",
+  "description": "Spanish right back known for speed and crossing ability."
 },
 {
   "id": 276,
@@ -3055,8 +3042,8 @@
   "full_name": "Ivan Rakitic",
   "team": "Sevilla",
   "nationality": "Croatia",
-  "position": "Midfielder",
-  "description": "Croatian midfielder known for creativity and work rate."
+  "position": "Central Midfielder",
+  "description": "Croatian central midfielder known for creativity and work rate."
 },
 {
   "id": 282,
@@ -3089,16 +3076,6 @@
   "description": "Russian midfielder known for flair and creativity."
 },
 {
-  "id": 285,
-  "last_name": "Podolski",
-  "img": "/football/img/players/Podolski.webp",
-  "full_name": "Lukas Podolski",
-  "team": "Górnik Zabrze",
-  "nationality": "Germany",
-  "position": "Forward",
-  "description": "German forward with a powerful left foot."
-},
-{
   "id": 286,
   "last_name": "Arteta",
   "img": "/football/img/players/Arteta.webp",
@@ -3125,7 +3102,7 @@
   "full_name": "Emmanuel Petit",
   "team": "Retired",
   "nationality": "France",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "French midfielder known for versatility and toughness."
 },
 {
@@ -3175,7 +3152,7 @@
   "full_name": "Blaise Matuidi",
   "team": "Retired",
   "nationality": "France",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "French midfielder known for his work rate and versatility."
 },
 {
@@ -3195,7 +3172,7 @@
   "full_name": "Javier Pastore",
   "team": "Qatar SC",
   "nationality": "Argentina",
-  "position": "Midfielder",
+  "position": "Attacking Midfielder",
   "description": "Argentine midfielder known for his creativity."
 },
 {
@@ -3205,7 +3182,7 @@
   "full_name": "Rai Souza",
   "team": "Retired",
   "nationality": "Brazil",
-  "position": "Midfielder",
+  "position": "Attacking Midfielder",
   "description": "Brazilian midfielder and former PSG captain."
 },
 {
@@ -3249,23 +3226,13 @@
   "description": "Italian midfielder known for leadership and work rate."
 },
 {
-  "id": 304,
-  "last_name": "Nainggolan",
-  "img": "/football/img/players/Nainggolan.webp",
-  "full_name": "Radja Nainggolan",
-  "team": "Bhayangkara",
-  "nationality": "Belgium",
-  "position": "Midfielder",
-  "description": "Belgian midfielder known for his aggressive style."
-},
-{
   "id": 305,
   "last_name": "Pjanic",
   "img": "/football/img/players/Pjanic.webp",
   "full_name": "Miralem Pjanic",
   "team": "Sharjah",
   "nationality": "Bosnia",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "Bosnian midfielder known for passing and vision."
 },
 {
@@ -3355,7 +3322,7 @@
   "full_name": "Bryan Robson",
   "team": "Retired",
   "nationality": "England",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "English midfielder and former Manchester United captain."
 },
 {
@@ -3395,8 +3362,8 @@
   "full_name": "Per Mertesacker",
   "team": "Retired",
   "nationality": "Germany",
-  "position": "Defender",
-  "description": "German defender known for his height and aerial ability."
+  "position": "Centre Back",
+  "description": "German central defender known for his height and aerial ability."
 },
 {
   "id": 319,
@@ -3407,16 +3374,6 @@
   "nationality": "Italy",
   "position": "Forward",
   "description": "Italian forward and former Manchester City manager."
-},
-{
-  "id": 320,
-  "last_name": "Peruzzi",
-  "img": "/football/img/players/Peruzzi.webp",
-  "full_name": "Angelo Peruzzi",
-  "team": "Retired",
-  "nationality": "Italy",
-  "position": "Goalkeeper",
-  "description": "Italian goalkeeper known for his reflexes and shot-stopping ability."
 },
 {
   "id": 321,
@@ -3475,8 +3432,8 @@
   "full_name": "Luis Nani",
   "team": "Retired",
   "nationality": "Portugal",
-  "position": "Forward",
-  "description": "Portuguese forward known for skill and pace."
+  "position": "Left Winger",
+  "description": "Portuguese left winger known for skill and pace."
 },
 {
   "id": 327,
@@ -3544,7 +3501,7 @@
     "img": "/football/img/players/Ortega.webp",
     "full_name": "Stefan Ortega",
     "team": "Manchester City",
-    "nationality": "Germay",
+    "nationality": "Germany",
     "position": "Goalkeper",
     "description": "A skilled, agile, German goalkeeper"
   },
@@ -3565,7 +3522,7 @@
     "full_name": "Ferland Mendy",
     "team": "Real Madrid",
     "nationality": "France",
-    "position": "Defender",
+    "position": "Left Back",
     "description": "Solid French left back with defensive prowess."
   },
   {
@@ -3596,7 +3553,7 @@
     "team": "Bayern Munich",
     "nationality": "Morocco",
     "position": "Right Back",
-    "description": "Versatile Moroccan full-back known for his attacking prowess."
+    "description": "Versatile Moroccan right back known for his attacking prowess."
   },
   {
     "id": 339,
@@ -3703,10 +3660,10 @@
     "last_name": "D Nunez",
     "img": "/football/img/players/D Nunez.webp",
     "full_name": "Darwin Nunez",
-    "team": "Benfica",
+    "team": "Liverpool",
     "nationality": "Uruguay",
     "position": "Forward",
-    "description": "Uruguayan striker with a promising future in football."
+    "description": "Uruguayan forward with a promising future in football."
   },
   {
     "id": 350,
@@ -3717,16 +3674,6 @@
     "nationality": "Japan",
     "position": "Defensive Midfielder",
     "description": "Japanese midfielder known for his versatility."
-  },
-  {
-    "id": 351,
-    "last_name": "Matip",
-    "img": "/football/img/players/Matip.webp",
-    "full_name": "Joel Matip",
-    "team": "Liverpool",
-    "nationality": "Cameroon",
-    "position": "Centre Back",
-    "description": "Cameroonian centre back with strong defensive abilities."
   },
   {
     "id": 352,
@@ -3793,10 +3740,10 @@
     "last_name": "K Muani",
     "img": "/football/img/players/K Muani.webp",
     "full_name": "Randal Kolo Muani",
-    "team": "Nantes",
+    "team": "PSG",
     "nationality": "France",
     "position": "Forward",
-    "description": "French striker with pace and dribbling skills."
+    "description": "French forward with pace and dribbling skills."
   },
   {
     "id": 359,
@@ -3935,7 +3882,7 @@
     "full_name": "Mason Mount",
     "team": "Manchester United",
     "nationality": "England",
-    "position": "Central Midfielder",
+    "position": "Attacking Midfielder",
     "description": "English midfielder with creativity and work ethic."
   },
   {
@@ -4043,7 +3990,7 @@
     "last_name": "A Milik",
     "img": "/football/img/players/A Milik.webp",
     "full_name": "Arkadiusz Milik",
-    "team": "Marseille",
+    "team": "Juventus",
     "nationality": "Poland",
     "position": "Striker",
     "description": "Polish striker with a good goal-scoring record."

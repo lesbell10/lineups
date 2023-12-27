@@ -14,7 +14,7 @@
     "last_name": "C Ronaldo",
     "img": "/football/img/players/C Ronaldo.webp",
     "full_name": "Cristiano Ronaldo",
-    "team": "Manchester United",
+    "team": "Al Nassr",
     "nationality": "Portugal",
     "position": "Forward",
     "description": "Goal-scoring machine, multiple Ballon d'Or winner, Portuguese sensation."
@@ -34,9 +34,9 @@
     "last_name": "Ronaldinho",
     "img": "/football/img/players/Ronaldinho.webp",
     "full_name": "Ronaldinho de Assis",
-    "team": "Barcelona",
+    "team": "Retired",
     "nationality": "Brazil",
-    "position": "Attacking Midfielder",
+    "position": "Left Winger",
     "description": "Samba flair, magician with the ball, football entertainer."
   },
   {
@@ -54,9 +54,9 @@
     "last_name": "Pirlo",
     "img": "/football/img/players/Pirlo.webp",
     "full_name": "Andrea Pirlo",
-    "team": "AC Milan",
+    "team": "Retired",
     "nationality": "Italy",
-    "position": "Midfielder",
+    "position": "Defensive Midfielder",
     "description": "Master of passing, midfield genius, Italian maestro."
   },
   {

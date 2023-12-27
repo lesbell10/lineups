@@ -24,6 +24,11 @@ const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal");
 
+window.onload = function () {
+    smallpic.style.scale = '.85'
+    smallpic.style.left = '3%'
+}
+
 function updatePlayerInfo() {
 
     STC.textContent = "Haaland";

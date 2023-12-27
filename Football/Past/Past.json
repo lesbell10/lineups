@@ -16,7 +16,7 @@
     "id": 2,
     "last_name": "Messi",
     "img": "/football/img/players/Messi.webp",
-    "full_name": "Lionel Andres Messi",
+    "full_name": "Lionel Messi",
     "birth_date": "24-06-1987",
 
     "position": "Forward",
@@ -133,7 +133,7 @@
     "id": 11,
     "last_name": "Neuer",
     "img": "/football/img/players/Neuer.webp",
-    "full_name": "Manuel Peter Neuer",
+    "full_name": "Manuel Neuer",
     "birth_date": "27-03-1986",
 
     "position": "Goalkeeper",

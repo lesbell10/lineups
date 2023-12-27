@@ -10,7 +10,7 @@
     "team": "Inter Milan",
     "nationality": "Argentina",
     "height": "5'9\"",
-    "description": "Talented forward with a knack for scoring."
+    "description": "Talented striker with a knack for scoring."
   },
   {
     "id": 2,
@@ -84,11 +84,11 @@
     "full_name": "Benjamin Pavard",
     "birth_date": "28-03-1996",
 
-    "position": "Right Defender",
+    "position": "Right Back",
     "team": "Inter Milan",
     "nationality": "France",
     "height": "6'2\"",
-    "description": "Solid right defender with defensive prowess."
+    "description": "Solid right back with defensive prowess."
   },
   {
     "id": 8,

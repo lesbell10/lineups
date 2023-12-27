@@ -19,7 +19,7 @@
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
 
-        "position": "Attacking Midfielder, Right Winger",
+        "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
         "height": "5'7\"",
@@ -45,8 +45,8 @@
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
 
-        "position": "Left Winger",
-        "team": "Al-Nassr",
+        "position": "Forward",
+        "team": "Al Nassr",
         "nationality": "Portugal",
         "height": "6'2\"",
         "description": "Portuguese forward, five Ballon d’Ors, Champions League titles."

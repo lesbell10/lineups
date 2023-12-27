@@ -33,7 +33,7 @@
         "birth_date": "24-06-1987",
 
         "nationality": "Argentina",
-        "position": "Attacking Midfielder",
+        "position": "Forward",
         "height": "5'7\"",
         "img": "/football/img/players/Messi.webp",
         "team": "Inter Miami",
@@ -46,10 +46,10 @@
         "birth_date": "05-02-1985",
 
         "nationality": "Portugal",
-        "position": "Left Winger",
+        "position": "Forward",
         "height": "6'2\"",
         "img": "/football/img/players/C Ronaldo.webp",
-        "team": "Al-Nassr",
+        "team": "Al Nassr",
         "description": "Legendary Portuguese forward, prolific scorer, multiple Ballon d’Ors"
     },
     {

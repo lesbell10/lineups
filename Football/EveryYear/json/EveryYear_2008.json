@@ -22,7 +22,7 @@
         "position": "Forward",
         "height": "6'2",
         "img": "/football/img/players/C Ronaldo.webp",
-        "team": "Al-Nassr",
+        "team": "Al Nassr",
         "description": "Five-time Ballon d'Or, legendary prolific forward."
     },
     {
@@ -45,7 +45,7 @@
         "birth_date": "21-03-1980",
 
         "nationality": "Brazil",
-        "position": "Forward",
+        "position": "Left Winger",
         "height": "5'10",
         "img": "/football/img/players/Ronaldinho.webp",
         "team": "Retired",
@@ -84,7 +84,7 @@
         "birth_date": "30-03-1986",
 
         "nationality": "Spain",
-        "position": "Right Back",
+        "position": "Centre Back",
         "height": "6'0",
         "img": "/football/img/players/S Ramos.webp",
         "team": "Sevilla",

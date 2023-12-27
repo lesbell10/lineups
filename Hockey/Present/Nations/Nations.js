@@ -16,6 +16,11 @@ const sideModal = document.querySelector(".side-modal")
 
 let selectedYear = 0;
 
+window.onload = function () {
+    smallpic.style.scale = '1.15'
+    smallpic.style.left = '12%'
+}
+
 function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;

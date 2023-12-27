@@ -128,12 +128,12 @@ option {
 
 #smallpic {
     position: absolute;
-    top:57%;
+    top:48%;
     left: 5%;
 }
 
 .second {
-    height: 300px;
+    height: 250px;
     object-fit: contain;
 }
 
@@ -241,9 +241,9 @@ nav.home {
     margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
     background-color: transparent;
-    min-height: 420px;
+    min-height: 425px;
     max-width: 280px;
     width: 70%;
     height: 70%;

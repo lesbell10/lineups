@@ -6,7 +6,7 @@
         "full_name": "Thomas Muller",
         "birth_date": "13-09-1989",
 
-        "position": "Striker",
+        "position": "Forward",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "6'1\"",
@@ -49,7 +49,7 @@
         "team": "Borussia Dortmund",
         "nationality": "Germany",
         "height": "5'11\"",
-        "description": "Talented German forward with a lethal shot."
+        "description": "Talented German winger with a lethal shot."
     },
     {
         "id": 5,

@@ -6,8 +6,8 @@
     "full_name": "Cristiano Ronaldo",
     "birth_date": "05-02-1985",
 
-    "position": "Centre Forward",
-    "team": "Al-Nassr",
+    "position": "Forward",
+    "team": "Al Nassr",
     "nationality": "Portugal",
     "height": "6'2\"",
     "description": "Iconic Portuguese forward, five Ballon d’Ors, prolific scorer"
@@ -49,10 +49,10 @@
     "birth_date": "05-02-1992",
 
     "position": "Forward",
-    "team": "Al-Hilal",
+    "team": "Al Hilal",
     "nationality": "Brazil",
     "height": "5'9\"",
-    "description": "Brazilian superstar forward, skillful, PSG and Brazil ace"
+    "description": "Brazilian superstar forward, skillful, Brazil ace"
 },
 
 {

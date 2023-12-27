@@ -22,7 +22,7 @@
       "nationality": "Portugal",
       "position": "Forward",
       "height": "6'2\"",
-      "team": "Juventus",
+      "team": "AL Nassr",
         "description": "Portuguese forward, multiple Ballon d’Ors, record-breaking scorer."
     },
     {
@@ -33,7 +33,7 @@
       "birth_date": "24-06-1987",
 
       "nationality": "Argentina",
-      "position": "Attacking Midfielder",
+      "position": "Forward",
       "height": "5'7\"",
       "team": "Inter Miami",
         "description": "Argentine maestro, record Ballon d’Or winner, playmaker"
@@ -48,8 +48,8 @@
       "nationality": "Brazil",
       "position": "Forward",
       "height": "5'9\"",
-      "team": "Al-Hilal",
-        "description": "Brazilian forward, skilled dribbler, PSG and Brazil star"
+      "team": "Al Hilal",
+        "description": "Brazilian forward, skilled dribbler, Brazil star"
     },
     {
       "id": 5,

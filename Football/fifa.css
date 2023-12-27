@@ -128,8 +128,8 @@ option {
 
 #smallpic {
     position: absolute;
-    top: 55%;
-    left: 5%;
+    top: 47%;
+    left: 8%;
     
 }
 
@@ -242,9 +242,9 @@ nav.home {
     margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
     background-color: transparent;
-    min-height: 400px;
+    min-height: 425px;
     max-width: 280px;
     width: 70%;
     height: 70%;
@@ -252,8 +252,8 @@ nav.home {
 }
 
 .player img, .player-info img  {
-    height: 119px;
-    width:79px;
+    height: 140px;
+    width:93px;
 }
 
 .description {

@@ -10,7 +10,7 @@
         "team": "Inter Milan",
         "nationality": "Argentina",
         "height": "5'9\"",
-        "description": "Talented forward with a knack for scoring."
+        "description": "Talented striker with a knack for scoring."
     },
     {
         "id": 2,
@@ -49,7 +49,7 @@
         "team": "Atletico Madrid",
         "nationality": "Argentina",
         "height": "6'0\"",
-        "description": "Versatile midfielder with excellent passing."
+        "description": "Versatile right winger with excellent passing."
     },
     {
         "id": 5,

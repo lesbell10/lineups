@@ -32,7 +32,7 @@
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
 
-        "position": "Attacking Midfielder",
+        "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
         "height": "5'7\"",
@@ -68,10 +68,10 @@
         "id": 6,
         "last_name": "Rodri",
         "img": "/football/img/players/Rodri.webp",
-        "full_name": "Rodrigo Hernández",
+        "full_name": "Rodrigo Hernandez",
         "birth_date": "22-06-1996",
 
-        "position": "Defensive Midfield",
+        "position": "Defensive Midfielder",
         "team": "Man City",
         "nationality": "Spain",
         "height": "6'3\"",
