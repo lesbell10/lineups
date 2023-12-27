@@ -948,7 +948,7 @@
       "full_name": "Walter Samuel",
       "birth_date": "23-03-1978",
 
-      "position": "Defender",
+      "position": "Centre Back",
       "team": "Retired",
       "nationality": "Argentina",
       "height": "6'0\"",
@@ -1259,7 +1259,6 @@
    "img": "/football/img/players/Scholes.webp",
    "full_name": "Paul Scholes",
    "birth_date": "16-11-1974",
-
    "position": "Central Midfielder",
    "team": "Retired",
    "nationality": "England",
@@ -1403,7 +1402,7 @@
    "full_name": "Javier Saviola",
    "birth_date": "11-12-1981",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'7\"",
@@ -1608,7 +1607,7 @@
    "id": 154,
    "last_name": "Rosicky",
    "img": "/football/img/players/Rosicky.webp",
-   "full_name": "Tomáš Rosický",
+   "full_name": "Tomas Rosicky",
    "birth_date": "04-10-1980",
 
    "position": "Attacking Midfielder",
@@ -2145,7 +2144,7 @@
   "full_name": "Alan Shearer",
   "birth_date": "13-08-1970",
 
-  "position": "Forward",
+  "position": "Striker",
   "team": "Retired",
   "nationality": "England",
   "height": "6'0\"",
@@ -2952,7 +2951,7 @@
   "full_name": "Míchel Salgado",
   "team": "Retired",
   "nationality": "Spain",
-  "position": "Defender",
+  "position": "Right Back",
   "description": "Experienced Spanish defender with a strong defensive presence."
 },
 {
@@ -2992,7 +2991,7 @@
   "full_name": "Willy Sagnol",
   "team": "Retired",
   "nationality": "France",
-  "position": "Defender",
+  "position": "Right Back",
   "description": "French defender known for his solid defensive skills."
 },
 {
@@ -3022,7 +3021,7 @@
   "full_name": "Samuel Umtiti",
   "team": "Lille",
   "nationality": "France",
-  "position": "Defender",
+  "position": "Centre Back",
   "description": "French defender known for his strong defensive abilities."
 },
 {
@@ -3412,8 +3411,8 @@
   "full_name": "Nelson Semedo",
   "team": "Wolves",
   "nationality": "Portuguese",
-  "position": "Defender",
-  "description": "Portuguese defender known for speed and defensive skills."
+  "position": "Right Back",
+  "description": "Portuguese eight back known for speed and defensive skills."
 },
 {
   "id": 325,
@@ -3582,7 +3581,7 @@
     "full_name": "Bouna Sarr",
     "team": "Bayern Munich",
     "nationality": "Senegal",
-    "position": "Centre Back",
+    "position": "Right Back",
     "description": "Senegalese right back known for his defensive skills."
   },
   {
