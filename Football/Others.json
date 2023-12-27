@@ -4113,5 +4113,535 @@
     "nationality": "Italy",
     "position": "Centre Back",
     "description": "Agile, intelligent central defender, excellent reader of the game."
-}
+},
+{
+    "id": 396,
+    "last_name": "Adriano C",
+    "img": "/football/img/players/Adriano C.webp",
+    "full_name": "Adriano Correia",
+    "team": "Free Agent",
+    "nationality": "Brazil",
+    "position": "Left-back",
+    "description": "Versatile defender, skilled, quick, experienced"
+  },
+  {
+    "id": 397,
+    "last_name": "Nunes",
+    "img": "/football/img/players/M Nunes.webp",
+    "full_name": "Matheus Nunes",
+    "team": "Manchester City",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "description": "Dynamic midfielder, technical, agile, promising"
+  },
+  {
+    "id": 398,
+    "last_name": "T Hazard",
+    "img": "/football/img/players/T Hazard.webp",
+    "full_name": "Thorgan Hazard",
+    "team": "Borussia Dortmund",
+    "nationality": "Belgium",
+    "position": "Left Winger",
+    "description": "Creative playmaker, quick, skilled, versatile"
+  },
+  {
+    "id": 399,
+    "last_name": "J Kluivert",
+    "img": "/football/img/players/J Kluivert.webp",
+    "full_name": "Justin Kluivert",
+    "team": "AS Roma",
+    "nationality": "Netherlands",
+    "position": "Winger",
+    "description": "Fast winger, agile, skilled, attacking threat"
+  },
+  {
+    "id": 400,
+    "last_name": "G Milito",
+    "img": "/football/img/players/G Milito.webp",
+    "full_name": "Gabriel Milito",
+    "team": "Retired",
+    "nationality": "Argentinian",
+    "position": "Centre Back",
+    "description": "Strong defender, tactical, resilient, experienced"
+  },
+  {
+    "id": 401,
+    "last_name": "K Muani",
+    "img": "/football/img/players/K Muani.webp",
+    "full_name": "Kolo Muani",
+    "team": "PSG",
+    "nationality": "France",
+    "position": "Forward",
+    "description": "Promising striker, quick, skilled, goal-scorer"
+  },
+  {
+    "id": 402,
+    "last_name": "Werner",
+    "img": "/football/img/players/Werner.webp",
+    "full_name": "Timo Werner",
+    "team": "RB Leipzig",
+    "nationality": "Germany",
+    "position": "Striker",
+    "description": "Fast striker, clinical, agile, goal-oriented"
+  },
+  {
+    "id": 403,
+    "last_name": "Milinkovic-Savic",
+    "img": "/football/img/players/Milinkovic-S.webp",
+    "full_name": "Sergej Milinkovic-S",
+    "team": "Al Hihal",
+    "nationality": "Serbia",
+    "position": "Central Midfielder",
+    "description": "Tall midfielder, strong, skilled, playmaker"
+  },
+  {
+    "id": 404,
+    "last_name": "Moreno",
+    "img": "/football/img/players/Moreno.webp",
+    "full_name": "Gerard Moreno",
+    "team": "Villarreal",
+    "nationality": "Spain",
+    "position": "Forward",
+    "description": "Sharp striker, goal-scorer, technical, intelligent"
+  },
+  {
+    "id": 405,
+    "last_name": "Gomez",
+    "img": "/football/img/players/M Gomez.webp",
+    "full_name": "Mario Gomez",
+    "team": "Retired",
+    "nationality": "Germany",
+    "position": "Striker",
+    "description": "Powerful striker, aerial threat, experienced, goal-scorer"
+  },
+  {
+    "id": 406,
+    "last_name": "Poborsky",
+    "img": "/football/img/players/Poborsky.webp",
+    "full_name": "Karel Poborsky",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Right Winger",
+    "description": "Skilled winger, known for lobbed goals, retired"
+  },
+  {
+    "id": 407,
+    "last_name": "Sukur",
+    "img": "/football/img/players/Sukur.webp",
+    "full_name": "Hakan Sukur",
+    "team": "Retired",
+    "nationality": "Turkey",
+    "position": "Striker",
+    "description": "Prolific goal-scorer, strong header, retired"
+  },
+  {
+    "id": 408,
+    "last_name": "Die Costa",
+    "img": "/football/img/players/Die Costa.webp",
+    "full_name": "Diego Costa",
+    "team": "Botafogo",
+    "nationality": "Spain",
+    "position": "Striker",
+    "description": "Aggressive forward, strong, goal-scorer"
+  },
+  {
+    "id": 409,
+    "last_name": "Vermaelen",
+    "img": "/football/img/players/Vermaelen.webp",
+    "full_name": "Thomas Vermaelen",
+    "team": "Retired",
+    "nationality": "Belgium",
+    "position": "Centre Back",
+    "description": "Solid defender, good technique, retired"
+  },
+  {
+    "id": 410,
+    "last_name": "Brozovic",
+    "img": "/football/img/players/Brozovic.webp",
+    "full_name": "Marcelo Brozovic",
+    "team": "Al Nassr",
+    "nationality": "Croatia",
+    "position": "Defensive Midfielder",
+    "description": "Tactical midfielder, good passer, resilient"
+  },
+  {
+    "id": 411,
+    "last_name": "Vardy",
+    "img": "/football/img/players/Vardy.webp",
+    "full_name": "Jamie Vardy",
+    "team": "Leicester City",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "Fast, sharp shooter, great finisher"
+  },
+  {
+    "id": 412,
+    "last_name": "Shaqiri",
+    "img": "/football/img/players/Shaqiri.webp",
+    "full_name": "Xherdan Shaqiri",
+    "team": "Chicago Fire",
+    "nationality": "Switzerland",
+    "position": "Attacking Midfielder",
+    "description": "Skillful, strong shot, versatile midfielder"
+  },
+  {
+    "id": 413,
+    "last_name": "Endrick",
+    "img": "/football/img/players/Endrick.webp",
+    "full_name": "Endrick Felipe",
+    "team": "Palmeiras",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "description": "Young talent, highly promising, skillful"
+  },
+  {
+  "id": 414,
+  "last_name": "Yamal",
+  "img": "/football/img/players/Yamal.webp",
+  "full_name": "Lamine Yamal",
+  "team": "FC Barcelona",
+  "nationality": "Spain",
+  "position": "Forward",
+  "description": "Young, highly talented, future prospect"
+},
+{
+  "id": 415,
+  "last_name": "Pafundi",
+  "img": "/football/img/players/Pafundi.webp",
+  "full_name": "Simone Pafundi",
+  "team": "Udinese",
+  "nationality": "Italy",
+  "position": "Attacking Midfielder",
+  "description": "Promising young talent, skilled, creative"
+},
+{
+  "id": 416,
+  "last_name": "A Fati",
+  "img": "/football/img/players/A Fati.webp",
+  "full_name": "Ansu Fati",
+  "team": "Brighton",
+  "nationality": "Spain",
+  "position": "Forward",
+  "description": "Young star, extremely talented, fast, skillful"
+},
+{
+    "id": 417,
+    "last_name": "Nypan",
+    "img": "/football/img/players/Nypan.webp",
+    "full_name": "Sverre Nypan",
+    "team": "Rosenborg",
+    "nationality": "Norway",
+    "position": "Central Midfielder",
+    "description": "Emerging talent, versatile, technically sound"
+  },
+  {
+    "id": 418,
+    "last_name": "Pino",
+    "img": "/football/img/players/Pino.webp",
+    "full_name": "Yeremi Pino",
+    "team": "Villarreal",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "description": "Promising winger, quick, skilled, creative"
+  },
+  {
+    "id": 419,
+    "last_name": "N Williams",
+    "img": "/football/img/players/N Williams.webp",
+    "full_name": "Nico Williams",
+    "team": "Athletic Bilbao",
+    "nationality": "Spain",
+    "position": "Left Winger",
+    "description": "Rising star, fast, skillful, attacking flair"
+  },
+  {
+    "id": 420,
+    "last_name": "Lukeba",
+    "img": "/football/img/players/Lukeba.webp",
+    "full_name": "Castello Lukeba",
+    "team": "Olympique Lyonnais",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "Solid defender, strong, reliable, young talent"
+  },
+  {
+    "id": 421,
+    "last_name": "A Silva",
+    "img": "/football/img/players/A Silva.webp",
+    "full_name": "Antonio Silva",
+    "team": "Benfica",
+    "nationality": "Portugal",
+    "position": "Centre Back",
+    "description": "Promising defender, tactically aware, strong"
+  },
+  {
+  "id": 422,
+  "last_name": "Restes",
+  "img": "/football/img/players/Restes.webp",
+  "full_name": "Guillaume Restes",
+  "team": "Toulouse",
+  "nationality": "France",
+  "position": "Goalkeeper",
+  "description": "Promising goalkeeper, agile, good reflexes"
+},
+{
+  "id": 423,
+  "last_name": "Hato",
+  "img": "/football/img/players/Hato.webp",
+  "full_name": "Jorrel Hato",
+  "team": "AFC Ajax",
+  "nationality": "Netherlands",
+  "position": "Centre Back",
+  "description": "Young defender, tactically smart, potential growth"
+},
+{
+  "id": 424,
+  "last_name": "Scalvini",
+  "img": "/football/img/players/Scalvini.webp",
+  "full_name": "Giorgio Scalvini",
+  "team": "Atalanta",
+  "nationality": "Italy",
+  "position": "Cenrtal Midfielder",
+  "description": "Young defender, strong, tactical, potential star"
+},
+ {
+    "id": 426,
+    "last_name": "Ben Seghir",
+    "img": "/football/img/players/Ben Seghir.webp",
+    "full_name": "Eliesse Ben Seghir",
+    "team": "AS Monaco",
+    "nationality": "France",
+    "position": "Attacking Midfielder",
+    "description": "Young talent, technical, midfield prospect"
+  },
+  {
+    "id": 427,
+    "last_name": "Milambo",
+    "img": "/football/img/players/Milambo.webp",
+    "full_name": "Antoni Milambo",
+    "team": "Feyenoord",
+    "nationality": "Netherlands",
+    "position": "Central Midfielder",
+    "description": "Emerging young talent, promising, skillful"
+  },
+  {
+    "id": 428,
+    "last_name": "Gloukh",
+    "img": "/football/img/players/Gloukh.webp",
+    "full_name": "Oscar Gloukh",
+    "team": "RB Salzburg",
+    "nationality": "Israel",
+    "position": "Attacking Midfielder",
+    "description": "Promising midfielder, creative, technically adept"
+  },
+  {
+    "id": 429,
+    "last_name": "Almada",
+    "img": "/football/img/players/Almada.webp",
+    "full_name": "Thiago Almada",
+    "team": "Atlanta United FC",
+    "nationality": "Argentina",
+    "position": "Attacking Midfielder",
+    "description": "Skillful, agile, versatile attacking midfielder"
+  },
+  {
+    "id": 430,
+    "last_name": "Musah",
+    "img": "/football/img/players/Y Musah.webp",
+    "full_name": "Yunus Musah",
+    "team": "AC Milan",
+    "nationality": "USA",
+    "position": "Central Midfielder",
+    "description": "Dynamic midfielder, strong, technically skilled"
+  },
+  {
+    "id": 431,
+    "last_name": "B Kamara",
+    "img": "/football/img/players/B Kamara.webp",
+    "full_name": "Boubacar Kamara",
+    "team": "Aston Villa",
+    "nationality": "France",
+    "position": "Defensive Midfielder",
+    "description": "Versatile, strong in tackle, technically sound"
+  },
+  {
+    "id": 432,
+    "last_name": "Guéhi",
+    "img": "/football/img/players/Guehi.webp",
+    "full_name": "Marc Guéhi",
+    "team": "Crystal Palace",
+    "nationality": "England",
+    "position": "Centre Back",
+    "description": "Solid defender, strong in air, reliable"
+  },
+{
+    "id": 432,
+    "last_name": "Zaha",
+    "img": "/football/img/players/Zaha.webp",
+    "full_name": "Wilfried Zaha",
+    "team": "Galatasaray",
+    "nationality": "Ivory Coast",
+    "position": "Forward",
+    "description": "Pacy winger, skillful dribbler, goal scorer"
+  },
+  {
+    "id": 433,
+    "last_name": "Ferguson",
+    "img": "/football/img/players/E Ferguson.webp",
+    "full_name": "Evan Ferguson",
+    "team": "Brighton",
+    "nationality": "Ireland",
+    "position": "Forward",
+    "description": "Young Irish talent, promising, versatile"
+  },
+  {
+    "id": 434,
+    "last_name": "Seiwald",
+    "img": "/football/img/players/Seiwald.webp",
+    "full_name": "Nicolas Seiwald",
+    "team": "RB Leipzig",
+    "nationality": "Austria",
+    "position": "Defensive Midfielder",
+    "description": "Solid Austrian defensive midfielder, composed, young talent"
+  },
+  {
+    "id": 435,
+    "last_name": "Okafor",
+    "img": "/football/img/players/Okafor.webp",
+    "full_name": "Noah Okafor",
+    "team": "AC Milan",
+    "nationality": "Switzerland",
+    "position": "Forward",
+    "description": "Swiss forward, quick, skillful, creative"
+  },
+  {
+    "id": 436,
+    "last_name": "Trubin",
+    "img": "/football/img/players/Trubin.webp",
+    "full_name": "Anatolii Trubin",
+    "team": "Benfica",
+    "nationality": "Ukraine",
+    "position": "Goalkeeper",
+    "description": "Talented Ukrainian goalkeeper, shot-stopper"
+  },
+  {
+    "id": 437,
+    "last_name": "Veerman",
+    "img": "/football/img/players/Veerman.webp",
+    "full_name": "Joey Veerman",
+    "team": "PSV",
+    "nationality": "Netherlands",
+    "position": "Central Midfielder",
+    "description": "Creative Dutch midfielder, set-piece specialist"
+  },
+  {
+    "id": 438,
+    "last_name": "Saelemaekers",
+    "img": "/football/img/players/Saelemaekers.webp",
+    "full_name": "Alexis Saelemaekers",
+    "team": "Bologna",
+    "nationality": "Belgium",
+    "position": "Right Back",
+    "description": "Versatile Belgian midfielder, energetic"
+  },
+  {
+  "id": 439,
+  "last_name": "Baldanzi",
+  "img": "/football/img/players/Baldanzi.webp",
+  "full_name": "Tommaso Baldanzi",
+  "team": "Empoli",
+  "nationality": "Italy",
+  "position": "Attacking Midfielder",
+  "description": "Promising young midfielder, creative, technically skilled"
+},
+{
+  "id": 440,
+  "last_name": "Lorran",
+  "img": "/football/img/players/Lorran.webp",
+  "full_name": "Lorran Lucas",
+  "team": "Flamengo",
+  "nationality": "Brazil",
+  "position": "Attacking Midfielder",
+  "description": "Leads with dedication, innovates skillfully, adapts and collaborates effectively."
+},
+  {
+    "id": 441,
+    "last_name": "M Kone",
+    "img": "/football/img/players/M Kone.webp",
+    "full_name": "Manu Kone",
+    "team": "Borussia Monchengladbach",
+    "nationality": "France",
+    "position": "Central Midfielder",
+    "description": "Dynamic midfielder, strong, technically gifted"
+  },
+  {
+    "id": 442,
+    "last_name": "Schade",
+    "img": "/football/img/players/Schade.webp",
+    "full_name": "Kevin Schade",
+    "team": "Brentford",
+    "nationality": "Germany",
+    "position": "Right Winger",
+    "description": "Young, fast forward, promising talent"
+  },
+  {
+    "id": 443,
+    "last_name": "Wimmer",
+    "img": "/football/img/players/Wimmer.webp",
+    "full_name": "Patrick Wimmer",
+    "team": "VfL Wolfsburg",
+    "nationality": "Austria",
+    "position": "Right Winger",
+    "description": "Versatile winger, good pace, technical skill"
+  },
+  {
+    "id": 444,
+    "last_name": "Oyarzabal",
+    "img": "/football/img/players/Oyarzabal.webp",
+    "full_name": "Mikel Oyarzabal",
+    "team": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "Left Winger",
+    "description": "Skilled forward, great finishing, creative"
+  },
+  {
+    "id": 445,
+    "last_name": "Koopmeiners",
+    "img": "/football/img/players/Koopmeiners.webp",
+    "full_name": "Teun Koopmeiners",
+    "team": "Atalanta BC",
+    "nationality": "Netherlands",
+    "position": "Defensive Midfielder",
+    "description": "Talented midfielder, good vision, leadership qualities"
+  },
+  {
+    "id": 446,
+    "last_name": "Geertruida",
+    "img": "/football/img/players/Geertruida.webp",
+    "full_name": "Lutsharel Geertruida",
+    "team": "Feyenoord",
+    "nationality": "Netherlands",
+    "position": "Right Back",
+    "description": "Strong defender, versatile, good in air"
+  },
+  {
+    "id": 447,
+    "last_name": "Remiro",
+    "img": "/football/img/players/Remiro.webp",
+    "full_name": "Alex Remiro",
+    "team": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "description": "Reliable goalkeeper, good reflexes, commanding presence"
+  },
+  {
+    "id": 448,
+    "last_name": "Grimaldo",
+    "img": "/football/img/players/Grimaldo.webp",
+    "full_name": "Alex Grimaldo",
+    "team": "Bayer Leverkusen",
+    "nationality": "Spain",
+    "position": "Left Back",
+    "description": "Attack-minded left-back, excellent crossing ability"
+  }
 ]

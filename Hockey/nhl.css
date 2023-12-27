@@ -482,6 +482,7 @@ h6 {
 #pagination {
     text-align: center;
     margin: 30px 0;
+    margin-right: 130px;
 }
 
 #pagination button {
