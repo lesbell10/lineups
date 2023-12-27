@@ -1,20 +1,13 @@
+    
+    
     const search = document.querySelector(".search-container")
     search.style.display = "none";
     search.style.display = "block";
 
 
-
-
-
-
-
-
-
     Fifa pics – transfermarkt - webp
     Nhl pics – hockey-reference - jpg
     Nba pics – espn - png
-
-
 
 
 
@@ -35,13 +28,6 @@ Update with this:
 
 
 
-
-
-
-
-
-
-
     Football: 
 give me this:
 (id start with 1), (last_name) (img /football/img/players/{last name}.webp), (full_name at least 3 words), team, (position, like striker), (nationality like this: Canada), (description: 8 words) in json format
@@ -53,3 +39,7 @@ give me this:
 Basket: 
 give me this:
 (id start with 1), (last_name) (img /basket/img/players/{last name}.png), (full_name at least 2 words), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
+
+
+.*example.*
+
