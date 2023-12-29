@@ -62,7 +62,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'9\"",
-        "description": "Argentine-Spanish forward, Real Madrid legend, five European Cups"
+        "description": "Argentine forward, Real Madrid legend, five European Cups"
     },
     {
         "id": 6,
@@ -224,10 +224,10 @@
       "id": 20,
       "last_name": "Socrates",
       "img": "/football/img/players/Socrates.webp",
-      "full_name": "Socrates",
+      "full_name": "Socrates Brasileiro",
       "birth_date": "19-02-1954",
 
-      "position": "Midfielder",
+      "position": "Attacking Midfielder",
       "team": "Retired",
       "nationality": "Brazil",
       "height": "6'4\"",
@@ -512,7 +512,7 @@
     "id": 45,
     "last_name": "Riquelme",
     "img": "/football/img/players/Riquelme.webp",
-    "full_name": "Juan Roman Riquelme",
+    "full_name": "Juan R Riquelme",
     "birth_date": "24-06-1978",
 
     "position": "Attacking Midfielder",
@@ -775,7 +775,7 @@
    "full_name": "Christian Vieri",
    "birth_date": "12-07-1973",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'1\"",
@@ -827,7 +827,7 @@
    "id": 76,
    "last_name": "Veron",
    "img": "/football/img/players/Veron.webp",
-   "full_name": "Juan Sebastián Verón",
+   "full_name": "Juan Sebastian Veron",
    "birth_date": "09-03-1975",
 
    "position": "Central Midfielder",
@@ -971,7 +971,7 @@
    "id": 92,
    "last_name": "Joaquin",
    "img": "/football/img/players/Joaquin.webp",
-   "full_name": "Joaquin Sánchez",
+   "full_name": "Joaquin Sanchez",
    "birth_date": "21-07-1981",
 
    "position": "Right Winger",
@@ -1036,7 +1036,7 @@
    "id": 101,
    "last_name": "Mido",
    "img": "/football/img/players/Mido.webp",
-   "full_name": "Mido",
+   "full_name": "Ahmed Mido",
    "birth_date": "23-02-1983",
 
    "position": "Forward",
@@ -1182,7 +1182,7 @@
    "full_name": "Joseph Yobo",
    "birth_date": "06-09-1980",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Nigeria",
    "height": "6'2\"",
@@ -1285,7 +1285,7 @@
    "full_name": "Mark Viduka",
    "birth_date": "09-10-1975",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Australia",
    "height": "6'2\"",
@@ -1623,7 +1623,7 @@
    "full_name": "Luca Toni",
    "birth_date": "26-05-1977",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'4\"",
@@ -1818,7 +1818,7 @@
    "full_name": "Igor Tudor",
    "birth_date": "16-04-1978",
 
-   "position": "Defender",
+   "position": "Centre Back",
    "team": "Retired",
    "nationality": "Croatia",
    "height": "6'2\"",
@@ -1867,7 +1867,7 @@
     "id": 176,
     "last_name": "Forlan",
     "img": "/football/img/players/Forlan.webp",
-    "full_name": "Diego Forlán",
+    "full_name": "Diego Forlan",
     "birth_date": "19-05-1979",
 
     "position": "Forward",
@@ -2069,7 +2069,7 @@
   "team": "Retired",
   "nationality": "Italy",
   "height": "5'11\"",
-  "description": "Italian striker and fo,rmer captain of the national team."
+  "description": "Italian striker and former captain of the national team."
 },
 {
   "id": 195,
@@ -2098,24 +2098,10 @@
   "description": "Dutch football legend known for his creativity and skill."
 },
 {
-  "id": 197,
-  "last_name": "D Villa",
-  "img": "/football/img/players/D Villa.webp",
-  "full_name": "David Villa",
-  "birth_date": "03-12-1981",
-
-  "position": "Forward",
-  "team": "Retired",
-  "nationality": "Spain",
-  "height": "5'9\"",
-  "description": "Spanish striker and World Cup champion with a prolific career."
-}
-,
-{
   "id": 198,
   "last_name": "Klinsmann",
   "img": "/football/img/players/Klinsmann.webp",
-  "full_name": "Jürgen Klinsmann",
+  "full_name": "Jurgen Klinsmann",
   "birth_date": "30-07-1964",
 
   "position": "Forward",
@@ -2180,7 +2166,7 @@
   "id": 203,
   "last_name": "Dunga",
   "img": "/football/img/players/Dunga.webp",
-  "full_name": "Dunga",
+  "full_name": "Carlos Dunga",
   "birth_date": "31-10-1963",
 
   "position": "Defensive Midfielder",
@@ -2206,7 +2192,7 @@
   "id": 205,
   "last_name": "Zico",
   "img": "/football/img/players/Zico.webp",
-  "full_name": "Zico",
+  "full_name": "Arthur Zico",
   "birth_date": "03-03-1953",
 
   "position": "Attacking Midfielder",
@@ -2958,7 +2944,7 @@
   "id": 272,
   "last_name": "Guti",
   "img": "/football/img/players/Guti.webp",
-  "full_name": "Guti",
+  "full_name": "Jose Maria Guti",
   "team": "Retired",
   "nationality": "Spain",
   "position": "Midfielder",
@@ -3111,7 +3097,7 @@
   "full_name": "Martin Skrtel",
   "team": "Retired",
   "nationality": "Slovakia",
-  "position": "Defender",
+  "position": "Centre Back",
   "description": "Slovak defender known for his physicality."
 },
 {
@@ -3191,7 +3177,7 @@
   "full_name": "Dejan Stankovic",
   "team": "Retired",
   "nationality": "Serbia",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "Serbian midfielder with technical abilities."
 },
 {
@@ -3288,7 +3274,7 @@
   "id": 311,
   "last_name": "Taffarel",
   "img": "/football/img/players/Taffarel.webp",
-  "full_name": "Claudio André Taffarel",
+  "full_name": "Claudio Taffarel",
   "team": "Retired",
   "nationality": "Brazil",
   "position": "Goalkeeper",
@@ -3311,7 +3297,7 @@
   "full_name": "Jack Wilshere",
   "team": "Retired",
   "nationality": "England",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "English midfielder known for his technical skills."
 },
 {
@@ -3571,7 +3557,7 @@
     "full_name": "Mathys Tel",
     "team": "Bayern Munich",
     "nationality": "France",
-    "position": "Unknown",
+    "position": "Striker",
     "description": "Promising young talent making strides in the football world."
   },
   {
@@ -3619,7 +3605,7 @@
     "last_name": "Fe Torres",
     "img": "/football/img/players/Fe Torres.webp",
     "full_name": "Ferran Torres",
-    "team": "Manchester City",
+    "team": "Barcelona",
     "nationality": "Spain",
     "position": "Forward",
     "description": "Spanish forward known for his pace and goal-scoring prowess."
@@ -3718,7 +3704,7 @@
     "id": 356,
     "last_name": "Tsimikas",
     "img": "/football/img/players/Tsimikas.webp",
-    "full_name": "Konstantinos Tsimikas",
+    "full_name": "Konstan Tsimikas",
     "team": "Liverpool",
     "nationality": "Greece",
     "position": "Left Back",
@@ -4055,16 +4041,6 @@
     "description": "French playmaker known for elegance on the ball."
 },
 {
-    "id": 390,
-    "last_name": "Vieira",
-    "img": "/football/img/players/Vieira.webp",
-    "full_name": "Patrick Vieira",
-    "team": "Retired",
-    "nationality": "France",
-    "position": "Defensive Midfielder",
-    "description": "Dominant midfielder with physical presence."
-},
-{
     "id": 391,
     "last_name": "Thuram",
     "img": "/football/img/players/Thuram.webp",
@@ -4181,8 +4157,8 @@
     "full_name": "Timo Werner",
     "team": "RB Leipzig",
     "nationality": "Germany",
-    "position": "Striker",
-    "description": "Fast striker, clinical, agile, goal-oriented"
+    "position": "Forward",
+    "description": "Fast forward, clinical, agile, goal-oriented"
   },
   {
     "id": 403,
@@ -4252,7 +4228,7 @@
     "team": "Retired",
     "nationality": "Belgium",
     "position": "Centre Back",
-    "description": "Solid defender, good technique, retired"
+    "description": "Solid defender, good technique."
   },
   {
     "id": 410,
@@ -4359,7 +4335,7 @@
     "last_name": "Lukeba",
     "img": "/football/img/players/Lukeba.webp",
     "full_name": "Castello Lukeba",
-    "team": "Olympique Lyonnais",
+    "team": "RB Leipzig",
     "nationality": "France",
     "position": "Centre Back",
     "description": "Solid defender, strong, reliable, young talent"
@@ -4518,7 +4494,7 @@
     "id": 436,
     "last_name": "Trubin",
     "img": "/football/img/players/Trubin.webp",
-    "full_name": "Anatolii Trubin",
+    "full_name": "Anatoliy Trubin",
     "team": "Benfica",
     "nationality": "Ukraine",
     "position": "Goalkeeper",

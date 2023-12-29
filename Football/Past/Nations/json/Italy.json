@@ -59,7 +59,7 @@
         "birth_date": "05-11-1992",
 
         "position": "Central Midfielder",
-        "team": "Al-Arabi",
+        "team": "Al Arabi",
         "nationality": "Italy",
         "height": "5'5\"",
         "description": "Italian midfielder known for his passing accuracy."
@@ -68,7 +68,7 @@
         "id": 6,
         "last_name": "Jorginho",
         "img": "/football/img/players/Jorginho.webp",
-        "full_name": "Jorginho Frello",
+        "full_name": "Jorginho Luiz",
         "birth_date": "20-12-1991",
 
         "position": "Defensive Midfielder",

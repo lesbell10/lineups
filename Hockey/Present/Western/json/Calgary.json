@@ -46,7 +46,7 @@
         "full_name": "Rasmus Andersson",
         "team": "Calgary Flames",
         "nationality": "Sweden",
-        "position": "Right Defenseman",
+        "position": "Defenseman",
         "description": "Swedish defenseman with strong two-way play."
     },
     {
@@ -56,7 +56,7 @@
         "full_name": "Jacob Markstrom",
         "team": "Calgary Flames",
         "nationality": "Sweden",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Goaltender known for his strong netminding skills."
     }
 ]

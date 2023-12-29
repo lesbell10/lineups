@@ -302,7 +302,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "5'10\"",
 
     "description": "Back-to-back Stanley Cup-winning goaltender."
@@ -316,10 +316,10 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "6'0\"",
 
-    "description": "Innovative goalie, introduced the mask to hockey."
+    "description": "Innovative goaltender, introduced the mask to hockey."
   },
   {
     "id": 26,
@@ -330,7 +330,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "6'2\"",
 
     "description": "Legendary goaltender, known for clutch playoff performances."
@@ -344,7 +344,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "5'11\"",
 
     "description": "One of the NHL's greatest goaltenders of all time."
@@ -358,7 +358,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "6'4\"",
 
     "description": "Hall of Fame goaltender, dominant in the 1970s."
@@ -386,7 +386,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "5'9\"",
 
     "description": "Fan-favorite goaltender, part of Leafs' Cup wins."
@@ -414,7 +414,7 @@
 
     "team": "Retired",
     "nationality": "Czech Republic",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "6'1\"",
 
     "description": "Acrobatic and unconventional goaltending style."
@@ -484,7 +484,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "5'10\"",
 
     "description": "Key goaltender during the Oilers' dynasty."
@@ -540,7 +540,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "5'11\"",
 
     "description": "Legendary Canadian goaltender with a storied NHL career."
@@ -638,10 +638,10 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "height": "6'3\"",
 
-    "description": "Canadian goalie known for his aggressive playing style."
+    "description": "Canadian goaltender known for his aggressive playing style."
   },
      {
     "id": 51,
@@ -1108,7 +1108,7 @@
     "full_name": "Jean-Sébastien Giguère",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "description": "Outstanding goaltender with remarkable skills."
 },
 {
@@ -1128,7 +1128,7 @@
       "full_name": "Nikolai Khabibulin",
       "team": "Retired",
       "nationality": "Russia",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Russian goaltender with strong netminding skills."
   },
   {
@@ -1148,7 +1148,7 @@
       "full_name": "Tim Thomas",
       "team": "Retired",
       "nationality": "USA",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Unorthodox goaltender known for his successful career."
   },
   {
@@ -1238,7 +1238,7 @@
       "full_name": "Ed Belfour",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Competitive Canadian goaltender with great success."
   },
   {
@@ -1318,7 +1318,7 @@
       "full_name": "Marty Turco",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Canadian goaltender known for puck-handling skills."
   },
   {
@@ -1338,7 +1338,7 @@
       "full_name": "Curtis Joseph",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Acrobatic Canadian goaltender with long career."
   },
   {
@@ -1378,7 +1378,7 @@
       "full_name": "Chris Osgood",
       "team": "Retired",
       "nationality": "Canada",
-      "position": "Goalie",
+      "position": "Goaltender",
       "description": "Steady Canadian goaltender with NHL success."
   },
   {
@@ -1478,7 +1478,7 @@
         "full_name": "Jose Theodore",
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Canadian goaltender known for acrobatic saves."
     },
     {
@@ -1638,7 +1638,7 @@
         "full_name": "Evgeni Nabokov",
         "team": "Retired",
         "nationality": "Kazakhstan",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Kazakhstani goaltender known for solid netminding."
     },
     {
@@ -1748,7 +1748,7 @@
         "full_name": "Olaf Kolzig",
         "team": "Retired",
         "nationality": "Germany",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "German goaltender known for strong netminding."
     },
     {
@@ -1898,7 +1898,7 @@
         "full_name": "Jeremy Swayman",
         "team": "Boston Bruins",
         "nationality": "USA",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "American goaltender with potential and solid goaltending skills."
     },
     {
@@ -2168,7 +2168,7 @@
         "full_name": "Ilya Samsonov",
         "team": "Toronto Maple Leafs",
         "nationality": "Russia",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Russian goaltender with potential and solid goaltending skills."
     },
     {
@@ -2188,7 +2188,7 @@
         "full_name": "Adin Hill",
         "team": "Vegas Golden Knights",
         "nationality": "USA",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "American goaltender with potential and solid goaltending skills."
     },
     {
@@ -2208,7 +2208,7 @@
         "full_name": "Logan Thompson",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Canadian goaltender with potential and solid goaltending skills."
     },
     {
@@ -2218,7 +2218,7 @@
         "full_name": "Darcy Kuemper",
         "team": "Washington Capitals",
         "nationality": "Canada",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Canadian goaltender known for strong netminding and consistency."
     },
     {
@@ -2304,211 +2304,71 @@
     {
     "id": 208,
     "last_name": "Reimer",
-    "img": "/hockey/img/players/Reimer.webp",
+    "img": "/hockey/img/players/Reimer.jpg",
     "full_name": "James Reimer",
     "team": "Detroit Red Wings",
     "nationality": "Canada",
-    "position": "Goalie",
+    "position": "Goaltender",
     "description": "Experienced NHL goaltender, known for his quick reflexes"
   },
   {
     "id": 209,
     "last_name": "Bernier",
-    "img": "/hockey/img/players/Bernier.webp",
+    "img": "/hockey/img/players/Bernier.jpg",
     "full_name": "Jonathan Bernier",
-    "team": "New Jersey Devils",
-    "nationality": "Canadian",
+    "team": "Retired",
+    "nationality": "Canada",
     "position": "Goaltender",
     "description": "Solid NHL goaltender with good positioning"
   },
   {
-    "id": 210,
-    "last_name": "Mason",
-    "img": "/hockey/img/players/Mason.webp",
-    "full_name": "Steve Mason",
-    "team": "Retired",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Former NHL goaltender, won the Calder Trophy"
-  },
-  {
     "id": 211,
     "last_name": "Lehtonen",
-    "img": "/hockey/img/players/Lehtonen.webp",
+    "img": "/hockey/img/players/Lehtonen.jpg",
     "full_name": "Kari Lehtonen",
     "team": "Retired",
-    "nationality": "Finnish",
+    "nationality": "Finland",
     "position": "Goaltender",
     "description": "Former NHL goaltender, Finnish Olympic medalist"
-  },
-  {
-    "id": 212,
-    "last_name": "Smith",
-    "img": "/hockey/img/players/Smith.webp",
-    "full_name": "Mike Smith",
-    "team": "Edmonton Oilers",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Athletic goaltender known for puck-handling skills"
-  },
-  {
-    "id": 213,
-    "last_name": "Anderson",
-    "img": "/hockey/img/players/Anderson.webp",
-    "full_name": "Craig Anderson",
-    "team": "Retired",
-    "nationality": "American",
-    "position": "Goaltender",
-    "description": "Former NHL goaltender with a long career"
-  },
-  {
-    "id": 214,
-    "last_name": "Hiller",
-    "img": "/hockey/img/players/Hiller.webp",
-    "full_name": "Jonas Hiller",
-    "team": "Retired",
-    "nationality": "Swiss",
-    "position": "Goaltender",
-    "description": "Former NHL goaltender, known for his agility"
-  },
-  {
-    "id": 215,
-    "last_name": "Talbot",
-    "img": "/hockey/img/players/Talbot.webp",
-    "full_name": "Cam Talbot",
-    "team": "Minnesota Wild",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Reliable NHL goaltender with playoff experience"
   },
    {
     "id": 216,
     "last_name": "Bryzgalov",
-    "img": "/hockey/img/players/Bryzgalov.webp",
+    "img": "/hockey/img/players/Bryzgalov.jpg",
     "full_name": "Ilya Bryzgalov",
     "team": "Retired",
-    "nationality": "Russian",
+    "nationality": "Russia",
     "position": "Goaltender",
     "description": "Former NHL goaltender, known for colorful personality"
   },
   {
-    "id": 217,
-    "last_name": "Varlamov",
-    "img": "/hockey/img/players/Varlamov.webp",
-    "full_name": "Semyon Varlamov",
-    "team": "New York Islanders",
-    "nationality": "Russian",
-    "position": "Goaltender",
-    "description": "Talented goaltender, strong reflexes"
-  },
-  {
-    "id": 218,
-    "last_name": "Lehner",
-    "img": "/hockey/img/players/Lehner.webp",
-    "full_name": "Robin Lehner",
-    "team": "Vegas Golden Knights",
-    "nationality": "Swedish",
-    "position": "Goaltender",
-    "description": "Steady goaltender, great glove saves"
-  },
-  {
-    "id": 219,
-    "last_name": "Niemi",
-    "img": "/hockey/img/players/Niemi.webp",
-    "full_name": "Antti Niemi",
-    "team": "Retired",
-    "nationality": "Finnish",
-    "position": "Goaltender",
-    "description": "Former NHL goaltender, Stanley Cup champion"
-  },
-  {
-    "id": 220,
-    "last_name": "Dubnyk",
-    "img": "/hockey/img/players/Dubnyk.webp",
-    "full_name": "Devan Dubnyk",
-    "team": "Retired",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Retired goaltender, known for his size and positioning"
-  },
-  {
-    "id": 222,
-    "last_name": "Andersen",
-    "img": "/hockey/img/players/Andersen.webp",
-    "full_name": "Frederik Andersen",
-    "team": "Carolina Hurricanes",
-    "nationality": "Danish",
-    "position": "Goaltender",
-    "description": "Talented Danish goaltender, strong in the crease"
-  },
-  {
     "id": 223,
     "last_name": "Raanta",
-    "img": "/hockey/img/players/Raanta.webp",
+    "img": "/hockey/img/players/Raanta.jpg",
     "full_name": "Antti Raanta",
     "team": "Carolina Hurricanes",
-    "nationality": "Finnish",
+    "nationality": "Finland",
     "position": "Goaltender",
     "description": "Finnish goaltender, known for his quick glove"
   },
   {
-    "id": 224,
-    "last_name": "Hart",
-    "img": "/hockey/img/players/Hart.webp",
-    "full_name": "Carter Hart",
-    "team": "Philadelphia Flyers",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Young and promising goaltender"
-  },
-  {
-    "id": 225,
-    "last_name": "Kuemper",
-    "img": "/hockey/img/players/Kuemper.webp",
-    "full_name": "Darcy Kuemper",
-    "team": "Arizona Coyotes",
-    "nationality": "Canadian",
-    "position": "Goaltender",
-    "description": "Solid goaltender, good size in the net"
-  },
-  {
-    "id": 226,
-    "last_name": "Bishop",
-    "img": "/hockey/img/players/Bishop.webp",
-    "full_name": "Ben Bishop",
-    "team": "Dallas Stars",
-    "nationality": "American",
-    "position": "Goaltender",
-    "description": "Tall goaltender, known for his athleticism"
-  },
-  {
-    "id": 27,
+    "id": 227,
     "last_name": "Richter",
-    "img": "/hockey/img/players/Richter.webp",
+    "img": "/hockey/img/players/Richter.jpg",
     "full_name": "Mike Richter",
     "team": "Retired",
-    "nationality": "American",
+    "nationality": "USA",
     "position": "Goaltender",
     "description": "Former NHL goaltender, Stanley Cup champion"
   },
   {
     "id": 228,
     "last_name": "Goligoski",
-    "img": "/hockey/img/players/Goligoski.webp",
+    "img": "/hockey/img/players/Goligoski.jpg",
     "full_name": "Alex Goligoski",
     "team": "Retired",
-    "nationality": "American",
+    "nationality": "USA",
     "position": "Defenseman",
     "description": "Former NHL defenseman, known for his puck-moving skills"
-  },
-  {
-    "id": 229,
-    "last_name": "Reddish",
-    "img": "/hockey/img/players/Reddish.webp",
-    "full_name": "Cam Reddish",
-    "team": "Retired",
-    "nationality": "American",
-    "position": "Forward",
-    "description": "Former NHL forward, played for multiple teams"
   }
 ]

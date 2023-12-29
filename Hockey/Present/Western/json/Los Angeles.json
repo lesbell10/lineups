@@ -36,8 +36,8 @@
         "full_name": "Mikey Anderson",
         "team": "Los Angeles Kings",
         "nationality": "USA",
-        "position": "Right Winger",
-        "description": "Young American right winger with potential."
+        "position": "Defenseman",
+        "description": "Young American defenseman with potential."
     },
     {
         "id": 5,
@@ -46,7 +46,7 @@
         "full_name": "Cam Talbot",
         "team": "Los Angeles Kings",
         "nationality": "Canada",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Goaltender known for his solid netminding skills."
     }
 ]

@@ -24,10 +24,10 @@
     "last_name": "Zidane",
     "img": "/football/img/players/Zidane.webp",
     "full_name": "Zinedine Zidane",
-    "team": "Real Madrid",
+    "team": "Retired",
     "nationality": "France",
-    "position": "Midfielder",
-    "description": "Playmaker extraordinaire, elegance personified, World Cup hero."
+    "position": "Attacking Midfielder",
+    "description": "Great playmaker, elegance personified, World Cup hero."
   },
   {
     "id": 4,
@@ -76,7 +76,7 @@
     "full_name": "John Terry",
     "team": "Chelsea",
     "nationality": "England",
-    "position": "Defender",
+    "position": "Centre Back",
     "description": "Captain Leader Legend, Chelsea stalwart, defensive rock."
   },
   {

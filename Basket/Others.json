@@ -1032,6 +1032,59 @@
     "nationality": "American",
     "positions": ["Center", "Power Forward"],
     "description": "Legendary NBA center known for his dominance and charisma."
-}
-
+},
+ {
+    "id": 107,
+    "last_name": "Malone",
+    "img": "/basket/img/players/M Malone.png",
+    "full_name": "Moses Malone",
+    "team": "Retired",
+    "positions": ["Center", "Power Forward"],
+    "description": "Hall of Fame NBA player, known for his rebounding and scoring ability"
+  },
+  {
+    "id": 109,
+    "last_name": "Redd",
+    "img": "/basket/img/players/Redd.png",
+    "full_name": "Michael Redd",
+    "team": "Retired",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Former NBA All-Star, known for his scoring ability"
+  },
+  {
+    "id": 110,
+    "last_name": "Morris",
+    "img": "/basket/img/players/Morris.png",
+    "full_name": "Marcus Morris",
+    "team": "Philadelphia 76ers",
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Versatile NBA forward, known for his scoring and toughness"
+  },
+  {
+    "id": 111,
+    "last_name": "Powell",
+    "img": "/basket/img/players/Powell.png",
+    "full_name": "Norman Powell",
+    "team": "Los Angeles Clippers",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Dynamic NBA wing, known for his athleticism and scoring"
+  },
+  {
+    "id": 112,
+    "last_name": "Hayes",
+    "img": "/basket/img/players/Hayes.png",
+    "full_name": "Jaxson Hayes",
+    "team": "Los Angeles Lakers",
+    "positions": ["Center", "Power Forward"],
+    "description": "Young NBA big man, known for his shot-blocking and athleticism"
+  },
+  {
+    "id": 113,
+    "last_name": "Lewis",
+    "img": "/basket/img/players/R Lewis.png",
+    "full_name": "Rashard Lewis",
+    "team": "Retired",
+    "positions": ["Small Forward", "Power Forward"],
+    "description": "Former NBA All-Star, known for his scoring and three-point shooting"
+  }
 ]

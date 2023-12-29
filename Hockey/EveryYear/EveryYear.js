@@ -16,6 +16,7 @@ const sideModal = document.querySelector(".side-modal")
 
 window.onload = function () {
     smallpic.style.scale = '.8'
+    smallpic.style.top = '60%'
 }
 
 let selectedYear = 0

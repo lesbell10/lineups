@@ -6,7 +6,7 @@
     "full_name": "Heung-Min Son",
     "birth_date": "08-07-1992",
 
-    "position": "Striker",
+    "position": "Forward",
     "team": "Tottenham",
     "nationality": "South Korea",
     "height": "6'2\"",
@@ -114,26 +114,26 @@
     "team": "Tottenham",
     "nationality": "Netherlands",
     "height": "6'2\"",
-    "description": "Dutch left central defender with composure."
+    "description": "Dutch central defender with composure."
   },
   {
     "id": 10,
     "last_name": "Udogie",
     "img": "/football/img/players/Udogie.webp",
-    "full_name": "Daniel Udogie",
+    "full_name": "Destiny Udogie",
     "birth_date": "14-03-2002",
 
-    "position": "Defender Left",
+    "position": "Left Back",
     "team": "Tottenham",
-    "nationality": "Nigeria",
+    "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Nigerian left back known for his speed and agility."
+    "description": "Italian left back known for his speed and agility."
   },
   {
     "id": 11,
     "last_name": "Vicario",
     "img": "/football/img/players/Vicario.webp",
-    "full_name": "Alessandro Vicario",
+    "full_name": "Guglielmo Vicario",
     "birth_date": "14-04-1996",
 
     "position": "Goalkeeper",

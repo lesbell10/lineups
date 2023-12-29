@@ -120,6 +120,7 @@ option {
 .carousel img {
     height:19.5%;
     cursor: pointer;
+    border-radius:7px;
 }
 
 .carousel img:hover {
@@ -253,6 +254,7 @@ nav.home {
 .player img, .player-info img {
     height: 147px;
     width: 100px;
+    border-radius: 7px;
 }
 
 

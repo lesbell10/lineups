@@ -6,7 +6,7 @@
     "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
 
-    "position": "Striker",
+    "position": "Forward",
     "team": "Inter Miami",
     "nationality": "Uruguay",
     "height": "6'0\"",
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "ter Stegen",
-    "img": "/football/img/players/terStegen.webp",
+    "img": "/football/img/players/ter Stegen.webp",
     "full_name": "Marc-Andre ter Stegen",
     "birth_date": "30-04-1992",
 

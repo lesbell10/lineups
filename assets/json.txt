@@ -34,7 +34,7 @@ give me this:
 
 Hockey: 
 give me this:
-(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goalie), (description: 8 words) in json format
+(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goaltender), (description: 8 words) in json format
 
 Basket: 
 give me this:

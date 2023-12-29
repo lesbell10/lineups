@@ -26,8 +26,8 @@
         "full_name": "Viktor Arvidsson",
         "team": "Los Angeles Kings",
         "nationality": "Sweden",
-        "position": "Right Winger",
-        "description": "Swedish right winger, quick and tenacious player."
+        "position": "Left Winger",
+        "description": "Swedish left winger, quick and tenacious player."
     },
     {
         "id": 4,
@@ -56,7 +56,7 @@
         "full_name": "Pekka Rinne",
         "team": "Retired",
         "nationality": "Finland",
-        "position": "Goalie",
+        "position": "Goaltender",
         "description": "Finnish goaltender, one of the best in the league."
     }
 ]

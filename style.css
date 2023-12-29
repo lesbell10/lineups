@@ -61,3 +61,15 @@ a:hover {
 a:first-child {
     border-left: none;
 }
+
+/* .boxes {
+    display: flex;
+    margin-right: 250px;
+}
+
+.box {
+    width:22%;
+    min-height: 89.9vh;
+    cursor: pointer;
+    border: green solid 6px;
+} */
