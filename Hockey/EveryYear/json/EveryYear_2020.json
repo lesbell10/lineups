@@ -50,10 +50,10 @@
 
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "height": "6'6\"",
 
-        "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
+        "description": "Swedish defenseman, vital for Tampa Bay Lightning's success."
     },
     {
         "id": 5,
@@ -64,9 +64,9 @@
 
         "team": "Carolina Hurricanes",
         "nationality": "Canada",
-        "position": "Right Defenseman",
+        "position": "Defenseman",
         "height": "6'5\"",
-        "description": "Canadian right defenseman, a key player for the Carolina Hurricanes."
+        "description": "Canadian defenseman, a key player for the Carolina Hurricanes."
     },
     {
         "id": 6,

@@ -26,8 +26,8 @@
         "full_name": "Nico Hischier",
         "team": "New Jersey Devils",
         "nationality": "Switzerland",
-        "position": "Center"
-
+        "position": "Center",
+        "description": "Talented center and captain of the New Jersey Devils."
     },
     {
         "id": 4,
@@ -43,7 +43,7 @@
         "id": 5,
         "last_name": "Subban",
         "img": "/hockey/img/players/Subban.jpg",
-        "full_name": "P.K. Subban",
+        "full_name": "PK Subban",
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",

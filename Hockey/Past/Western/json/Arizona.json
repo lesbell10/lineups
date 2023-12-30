@@ -33,11 +33,11 @@
         "id": 4,
         "last_name": "Ekman-Larsson",
         "img": "/hockey/img/players/Ekman-Larsson.jpg",
-        "full_name": "Oliver Ekman-Larsson",
+        "full_name": "Oliver Ekman-L",
         "team": "Florida Panthers",
         "nationality": "Sweden",
         "position": "Defenseman",
-        "description": "Swedish defenseman, leader on the Coyotes' blue line."
+        "description": "Swedish defenseman, leader on the Panthers' blue line."
     },
     {
         "id": 5,

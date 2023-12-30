@@ -36,7 +36,7 @@
         "full_name": "Thomas Chabot",
         "team": "Ottawa Senators",
         "nationality": "Canada",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Dynamic defenseman with excellent offensive and defensive skills."
     },
     {
@@ -45,8 +45,8 @@
         "img": "/hockey/img/players/Chychrun.jpg",
         "full_name": "Jakob Chychrun",
         "team": "Ottawa Senators",
-        "nationality": "Canada",
-        "position": "Right Defenseman",
+        "nationality": "USA",
+        "position": "Defenseman",
         "description": "Solid two-way defenseman with physicality and offensive ability."
     },
     {

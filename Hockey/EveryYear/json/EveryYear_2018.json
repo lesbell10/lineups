@@ -50,10 +50,10 @@
 
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "height": "6'6\"",
 
-        "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
+        "description": "Swedish defenseman, vital for Tampa Bay Lightning's success."
     },
     {
         "id": 5,
@@ -76,7 +76,7 @@
         "full_name": "Braden Holtby",
         "birth_date": "16-09-1989",
 
-        "team": "Vancouver Canucks",
+        "team": "Free Agent",
         "nationality": "Canada",
         "position": "Goaltender",
         "height": "6'2\"",

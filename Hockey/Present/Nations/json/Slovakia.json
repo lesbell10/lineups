@@ -36,7 +36,7 @@
         "full_name": "Martin Fehervary",
         "team": "Washington Capitals",
         "nationality": "Slovakia",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Slovak defenseman, valued for his solid defensive play and mobility with the Washington Capitals."
     },
     {
@@ -46,7 +46,7 @@
         "full_name": "Erik Cernak",
         "team": "Tampa Bay Lightning",
         "nationality": "Slovakia",
-        "position": "Right Defenseman",
+        "position": "Defenseman",
         "description": "Slovak defenseman, known for his physicality and defensive reliability with the Tampa Bay Lightning."
     },
     {
@@ -57,6 +57,6 @@
         "team": "Free Agent",
         "nationality": "Slovakia",
         "position": "Goaltender",
-        "description": "Slovak goaltender, renowned for his experience and consistency, currently with the Vancouver Canucks."
+        "description": "Slovak goaltender, renowned for his experience and consistency."
     }
 ]

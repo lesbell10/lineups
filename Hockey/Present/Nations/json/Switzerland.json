@@ -26,7 +26,7 @@
         "full_name": "Kevin Fiala",
         "team": "Los Angeles Kings",
         "nationality": "Switzerland",
-        "position": "Right Winger",
+        "position": "Left Winger",
         "description": "Swiss right winger, recognized for his quick skating and scoring touch."
     },
     {
@@ -57,6 +57,6 @@
         "team": "HC Davos (Switzerland)",
         "nationality": "Switzerland",
         "position": "Goaltender",
-        "description": "Swiss goaltender, renowned for his reflexes and consistency between the pipes."
+        "description": "Renowned for his reflexes and consistency between the pipes."
     }
 ]

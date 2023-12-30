@@ -6,8 +6,8 @@
         "full_name": "Tomas Hertl",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
-        "position": "Left Winger",
-        "description": "Czech left winger known for his versatility and skill."
+        "position": "Center",
+        "description": "Czech center known for his versatility and skill."
     },
     {
         "id": 2,
@@ -26,8 +26,8 @@
         "full_name": "Anthony Duclair",
         "team": "San Jose Sharks",
         "nationality": "Canada",
-        "position": "Right Winger",
-        "description": "Canadian right winger known for his offensive abilities."
+        "position": "Left Winger",
+        "description": "Canadian left winger known for his offensive abilities."
     },
     {
         "id": 4,
@@ -46,7 +46,7 @@
         "full_name": "Mario Ferraro",
         "team": "San Jose Sharks",
         "nationality": "Canada",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Young Canadian defenseman known for his hustle and work ethic."
     },
     {

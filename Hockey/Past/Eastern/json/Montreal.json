@@ -25,7 +25,7 @@
         "img": "/hockey/img/players/Gallagher.jpg",
         "full_name": "Brendan Gallagher",
         "team": "Montreal Canadiens",
-        "nationality": "Canadian",
+        "nationality": "Canada",
         "position": "Right Winger",
         "description": "Canadian right winger, heart and soul of the Canadiens."
     },
@@ -33,9 +33,9 @@
         "id": 4,
         "last_name": "Subban",
         "img": "/hockey/img/players/Subban.jpg",
-        "full_name": "P.K. Subban",
+        "full_name": "PK Subban",
         "team": "Retired",
-        "nationality": "Canadian",
+        "nationality": "CanadA",
         "position": "Defenseman",
         "description": "Dynamic Canadian defenseman, former Canadiens star."
     },

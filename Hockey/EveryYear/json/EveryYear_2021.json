@@ -8,7 +8,7 @@
 
         "team": "Edmonton Oilers",
         "nationality": "Germany",
-        "position": "Left Winger / Center",
+        "position": "Center",
         "height": "6'2\"",
 
         "description": "German forward, pivotal for the Edmonton Oilers."
@@ -50,10 +50,10 @@
 
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "height": "6'6\"",
 
-        "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
+        "description": "Swedish defenseman, vital for Tampa Bay Lightning's success."
     },
     {
         "id": 5,

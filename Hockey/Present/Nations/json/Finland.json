@@ -6,8 +6,8 @@
         "full_name": "Roope Hintz",
         "team": "Dallas Stars",
         "nationality": "Finland",
-        "position": "Left Winger",
-        "description": "Finnish left winger known for his speed and scoring ability with the Dallas Stars."
+        "position": "Center",
+        "description": "Finnish center known for his speed and scoring ability with the Dallas Stars."
     },
     {
         "id": 2,
@@ -36,7 +36,7 @@
         "full_name": "Miro Heiskanen",
         "team": "Dallas Stars",
         "nationality": "Finland",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Finnish defenseman, praised for his poise and defensive skills with the Dallas Stars."
     },
     {

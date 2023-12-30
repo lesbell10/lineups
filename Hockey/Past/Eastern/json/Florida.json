@@ -26,8 +26,8 @@
         "full_name": "Mike Hoffman",
         "team": "San Jose Sharks",
         "nationality": "Canadian",
-        "position": "Right Winger",
-        "description": "Canadian right winger with a scoring touch."
+        "position": "Left Winger",
+        "description": "Canadian left winger with a scoring touch."
     },
     {
         "id": 4,
@@ -35,7 +35,7 @@
         "img": "/hockey/img/players/Ekblad.jpg",
         "full_name": "Aaron Ekblad",
         "team": "Florida Panthers",
-        "nationality": "Canadian",
+        "nationality": "Canada",
         "position": "Defenseman",
         "description": "Solid Canadian defenseman for the Florida Panthers."
     },

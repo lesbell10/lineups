@@ -26,8 +26,8 @@
     "full_name": "Sebastian Aho",
     "team": "Carolina Hurricanes",
     "nationality": "Finland",
-    "position": "Right Winger",
-    "description": "Finnish right winger, a key player for the Carolina Hurricanes."
+    "position": "Center",
+    "description": "Finnish center, a key player for the Carolina Hurricanes."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "img": "/hockey/img/players/Faulk.jpg",
     "full_name": "Justin Faulk",
     "team": "St Louis Blues",
-    "nationality": "Canada",
+    "nationality": "USA",
     "position": "Defenseman",
     "description": "Canadian right defenseman known for his defensive skills."
   },

@@ -6,8 +6,8 @@
         "full_name": "Leon Draisaitl",
         "team": "Edmonton Oilers",
         "nationality": "Germany",
-        "position": "Left Winger",
-        "description": "Talented German left winger for the Edmonton Oilers."
+        "position": "Center",
+        "description": "Talented German center for the Edmonton Oilers."
     },
     {
         "id": 2,
@@ -36,7 +36,7 @@
         "full_name": "Mattias Ekholm",
         "team": "Edmonton Oilers",
         "nationality": "Sweden",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Swedish defenseman with strong defensive play."
     },
     {
