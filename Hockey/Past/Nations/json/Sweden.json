@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "last_name": "Sedin",
-        "img": "/hockey/img/players/Sedin.jpg",
+        "last_name": "D Sedin",
+        "img": "/hockey/img/players/D Sedin.jpg",
         "full_name": "Daniel Sedin",
         "team": "Retired",
         "nationality": "Swedish",
@@ -11,8 +11,8 @@
     },
     {
         "id": 2,
-        "last_name": "Sedin",
-        "img": "/hockey/img/players/Sedin.jpg",
+        "last_name": "H Sedin",
+        "img": "/hockey/img/players/H Sedin.jpg",
         "full_name": "Henrik Sedin",
         "team": "Retired",
         "nationality": "Swedish",
@@ -35,7 +35,7 @@
         "img": "/hockey/img/players/E Karlsson.jpg",
         "full_name": "Erik Karlsson",
         "team": "Pittsburgh Penguins",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Defenseman",
         "description": "Swedish defenseman, known for offensive skills."
     },

@@ -6,8 +6,8 @@
         "full_name": "Pavel Buchnevich",
         "team": "St Louis Blues",
         "nationality": "Russia",
-        "position": "Left Winger",
-        "description": "Russian left winger known for his offensive skills."
+        "position": "Right Winger",
+        "description": "Russian right winger known for his offensive skills."
     },
     {
         "id": 2,
@@ -36,7 +36,7 @@
         "full_name": "Torey Krug",
         "team": "St Louis Blues",
         "nationality": "USA",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "American defenseman known for his offensive play."
     },
     {

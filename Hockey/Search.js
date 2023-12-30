@@ -2,7 +2,7 @@ const label = document.querySelector(".label");
 const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
-const itemsPerPage = 39;
+const itemsPerPage = 150;
 let includeRetired = true;
 
 // Function to load JSON data from a file

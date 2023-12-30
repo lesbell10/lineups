@@ -34,12 +34,12 @@
         "full_name": "Patrick Kane",
         "birth_date": "19-11-1988",
 
-        "team": "Chicago Blackhawks",
+        "team": "Detroit Red Wings",
         "nationality": "USA",
         "position": "Right Winger",
         "height": "5'11\"",
 
-        "description": "American right winger, a prolific scorer for the Chicago Blackhawks"
+        "description": "American right winger, a former prolific scorer for the Chicago Blackhawks"
     },
     {
         "id": 4,
@@ -48,12 +48,12 @@
         "full_name": "Duncan Keith",
         "birth_date": "16-07-1983",
 
-        "team": "Edmonton Oilers",
+        "team": "Retired",
         "nationality": "Canada",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "height": "6'1\"",
 
-        "description": "Canadian left defenseman, experienced player in the NHL"
+        "description": "Canadian defenseman, experienced player in the NHL"
     },
     {
         "id": 5,

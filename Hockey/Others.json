@@ -1608,8 +1608,8 @@
         "full_name": "Jeff Carter",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
-        "position": "Center",
-        "description": "Canadian center known for scoring ability."
+        "position": "Left Winger",
+        "description": "Canadian left winger known for scoring ability."
     },
     {
         "id": 139,
@@ -1778,8 +1778,8 @@
         "full_name": "Kevin Hayes",
         "team": "St Louis Blues",
         "nationality": "USA",
-        "position": "Right Winger",
-        "description": "Playmaking right winger with solid offensive and defensive skills."
+        "position": "Center",
+        "description": "Playmaking center with solid offensive and defensive skills."
     },
     {
         "id": 156,
@@ -2038,8 +2038,8 @@
         "full_name": "Adrian Kempe",
         "team": "Los Angeles Kings",
         "nationality": "Sweden",
-        "position": "Center",
-        "description": "Swedish center with offensive ability and defensive contributions."
+        "position": "Left Winger",
+        "description": "Swedish left winger with offensive ability and defensive contributions."
     },
     {
         "id": 182,
@@ -2058,8 +2058,8 @@
         "full_name": "Pierre-Luc Dubois",
         "team": "Los Angeles Kings",
         "nationality": "Canada",
-        "position": "Left Wing",
-        "description": "Canadian left wing with offensive skills and two-way play."
+        "position": "Center",
+        "description": "Canadian center with offensive skills and two-way play."
     },
     {
         "id": 184,
@@ -2127,7 +2127,7 @@
         "img": "/hockey/img/players/Burakovsky.jpg",
         "full_name": "Andre Burakovsky",
         "team": "Seattle Kraken",
-        "nationality": "Austria",
+        "nationality": "Sweden",
         "position": "Left Winger",
         "description": "Austrian left winger with scoring ability and offensive flair."
     },
@@ -2178,7 +2178,7 @@
         "full_name": "Brock Boeser",
         "team": "Minnesota Wild",
         "nationality": "USA",
-        "position": "Left Winger",
+        "position": "Right Winger",
         "description": "American right winger known for goal-scoring and offensive skills."
     },
     {
