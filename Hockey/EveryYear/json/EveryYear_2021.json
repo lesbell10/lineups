@@ -36,7 +36,7 @@
 
         "team": "Colorado Avalanche",
         "nationality": "Canada",
-        "position": "Right Winger / Center",
+        "position": "Center",
         "height": "6'0\"",
 
         "description": "Dominant Canadian center, key player for Colorado Avalanche."
@@ -64,10 +64,10 @@
 
         "team": "Colorado Avalanche",
         "nationality": "Canada",
-        "position": "Right Defenseman",
+        "position": "Defenseman",
         "height": "6'0\"",
 
-        "description": "Canadian right defenseman, an asset to the Colorado Avalanche."
+        "description": "Canadian defenseman, an asset to the Colorado Avalanche."
     },
     {
         "id": 6,

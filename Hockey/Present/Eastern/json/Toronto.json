@@ -7,7 +7,7 @@
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
         "position": "Right Winger",
-        "description": "Dynamic winger with playmaking skills and offensive prowess."
+        "description": "Dynamic right winger with playmaking skills and offensive prowess."
     },
     {
         "id": 2,
@@ -43,7 +43,7 @@
         "id": 5,
         "last_name": "Brodie",
         "img": "/hockey/img/players/Brodie.jpg",
-        "full_name": "T.J. Brodie",
+        "full_name": "TJ Brodie",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
         "position": "Defenseman",

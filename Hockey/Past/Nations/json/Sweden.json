@@ -25,7 +25,7 @@
         "img": "/hockey/img/players/Backstrom.jpg",
         "full_name": "Nicklas Backstrom",
         "team": "Washington Capitals",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Center",
         "description": "Swedish center, playmaker for the Capitals."
     },
@@ -45,7 +45,7 @@
         "img": "/hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "team": "Tampa Bay Lightning",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Defenseman",
         "description": "Swedish defenseman, a pillar of the Lightning's blue line."
     },
@@ -55,7 +55,7 @@
         "img": "/hockey/img/players/Lundqvist.jpg",
         "full_name": "Henrik Lundqvist",
         "team": "Retired",
-        "nationality": "Swedish",
+        "nationality": "Sweden",
         "position": "Goaltender",
         "description": "Swedish goaltender, one of the best in the NHL."
     }

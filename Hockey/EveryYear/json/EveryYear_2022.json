@@ -36,7 +36,7 @@
 
         "team": "Colorado Avalanche",
         "nationality": "Canada",
-        "position": "Right Winger / Center",
+        "position": "Center",
         "height": "6'0\"",
 
         "description": "Dominant Canadian center, key player for Colorado Avalanche."
@@ -50,10 +50,10 @@
 
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "height": "6'6\"",
 
-        "description": "Swedish left defenseman, vital for Tampa Bay Lightning's success."
+        "description": "Swedish defenseman, vital for Tampa Bay Lightning's success."
     },
     {
         "id": 5,

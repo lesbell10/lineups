@@ -1608,8 +1608,8 @@
         "full_name": "Jeff Carter",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
-        "position": "Left Winger",
-        "description": "Canadian left winger known for scoring ability."
+        "position": "Center",
+        "description": "Canadian center known for scoring ability."
     },
     {
         "id": 139,
@@ -2370,5 +2370,175 @@
     "nationality": "USA",
     "position": "Defenseman",
     "description": "Former NHL defenseman, known for his puck-moving skills"
-  }
+  },
+  {
+  "id": 229,
+  "last_name": "Newhook",
+  "img": "/hockey/img/players/Newhook.jpg",
+  "full_name": "Alex Newhook",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Center",
+  "description": "Promising, skillful center with keen on-ice insight."
+},
+{
+  "id": 230,
+  "last_name": "Barron",
+  "img": "/hockey/img/players/Barron.jpg",
+  "full_name": "Justin Barron",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Defenseman",
+  "description": "Tactical, emerging defensive talent with strategic play."
+},
+{
+  "id": 231,
+  "last_name": "J Anderson",
+  "img": "/hockey/img/players/J Anderson.jpg",
+  "full_name": "Josh Anderson",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Right Winger",
+  "description": "Robust right winger, energetic and powerful."
+},
+{
+  "id": 232,
+  "last_name": "Evans",
+  "img": "/hockey/img/players/Evans.jpg",
+  "full_name": "Jake Evans",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Center",
+  "description": "Versatile, adept center, offensively and defensively skilled."
+},
+{
+  "id": 233,
+  "last_name": "Pearson",
+  "img": "/hockey/img/players/Pearson.jpg",
+  "full_name": "Tanner Pearson",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Left Winger",
+  "description": "Experienced, offensive-minded left winger."
+},
+{
+  "id": 235,
+  "last_name": "Dvorak",
+  "img": "/hockey/img/players/Dvorak.jpg",
+  "full_name": "Christian Dvorak",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Center",
+  "description": "Skillful, strategic center, forward-line depth."
+},
+{
+  "id": 236,
+  "last_name": "Ylonen",
+  "img": "/hockey/img/players/Ylonen.jpg",
+  "full_name": "Jesse Ylonen",
+  "team": "Montreal Canadiens",
+  "nationality": "Finland",
+  "position": "Right Winger",
+  "description": "Agile, promising Finnish right winger."
+},
+{
+  "id": 237,
+  "last_name": "Kovacevic",
+  "img": "/hockey/img/players/Kovacevic.jpg",
+  "full_name": "Johnathan Kovacevic",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Defenseman",
+  "description": "Solid, impactful defenseman, defensive contributor."
+},
+{
+  "id": 238,
+  "last_name": "Pezzetta",
+  "img": "/hockey/img/players/Pezzetta.jpg",
+  "full_name": "Michael Pezzetta",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Left Winger",
+  "description": "Physical, gritty forward, intense play."
+},
+{
+  "id": 239,
+  "last_name": "Armia",
+  "img": "/hockey/img/players/Armia.jpg",
+  "full_name": "Joel Armia",
+  "team": "Montreal Canadiens",
+  "nationality": "Finland",
+  "position": "Right Winger",
+  "description": "Effective, skillful Finnish winger, dual-end player."
+},
+{
+  "id": 240,
+  "last_name": "G Lindstrom",
+  "img": "/hockey/img/players/G Lindstrom.jpg",
+  "full_name": "Gustav Lindstrom",
+  "team": "Montreal Canadiens",
+  "nationality": "Sweden",
+  "position": "Defense",
+  "description": "Adaptable, potential-rich Swedish defenseman."
+},
+{
+  "id": 241,
+  "last_name": "Struble",
+  "img": "/hockey/img/players/Struble.jpg",
+  "full_name": "Jayden Struble",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Defenseman",
+  "description": "Promising, talented Canadian defenseman, bright future."
+},
+{
+  "id": 242,
+  "last_name": "Harvey-Pinard",
+  "img": "/hockey/img/players/Harvey-Pinard.jpg",
+  "full_name": "Rafael Harvey-Pinard",
+  "team": "Montreal Canadiens",
+  "nationality": "CanadiCanadaan",
+  "position": "Left Winger",
+  "description": "Dedicated, hardworking Canadian left winger."
+},
+{
+  "id": 243,
+  "last_name": "Harris",
+  "img": "/hockey/img/players/Harris.jpg",
+  "full_name": "Jordan Harris",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Defenseman",
+  "description": "Solid, reliable Canadian defenseman."
+},
+{
+  "id": 244,
+  "last_name": "Stephens",
+  "img": "/hockey/img/players/Stephens.jpg",
+  "full_name": "Mitchell Stephens",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Center",
+  "description": "Progressing, contributing young center."
+},
+{
+  "id": 245,
+  "last_name": "Montembeault",
+  "img": "/hockey/img/players/Montembeault.jpg",
+  "full_name": "Sam Montembeault",
+  "team": "Montreal Canadiens",
+  "nationality": "Canada",
+  "position": "Goaltender",
+  "description": "Resilient, dependable goaltender, net support."
+},
+{
+  "id": 246,
+  "last_name": "Primeau",
+  "img": "/hockey/img/players/Primeau.jpg",
+  "full_name": "Cayden Primeau",
+  "team": "Montreal Canadiens",
+  "nationality": "USA",
+  "position": "Goaltender",
+  "description": "Ambitious, growing American goaltender."
+}
 ]
