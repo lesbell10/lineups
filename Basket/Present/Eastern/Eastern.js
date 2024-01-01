@@ -21,7 +21,7 @@ function updatePlayerInfo() {
     if (selectedYear == "0") {
         PG.textContent = "T Young";
         SG.textContent = "D Murray";
-        SF.textContent = "D Hunter";
+        SF.textContent = "Bog Bogdanovic";
         PF.textContent = "O Okongwu";
         C.textContent = "C Capela";
 

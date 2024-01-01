@@ -237,14 +237,14 @@ nav.home {
 
 .player, .player-info {
     border: 1px solid black;
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
     margin: 15px;
     color: black;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 17px;
     background-color: transparent;
-    min-height: 432px;
+    min-height: 420px;
     max-width: 280px;
     width: 70%;
     height: 70%;
