@@ -120,6 +120,12 @@ option {
 .carousel img {
     height: 23%;
     cursor: pointer;
+    transition: .5s;
+}
+
+.carousel img:hover {
+    height:35%;
+    transform: translateX(-80px);
 }
 
 #smallpic {
