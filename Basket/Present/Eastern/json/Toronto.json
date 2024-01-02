@@ -1,23 +1,23 @@
 [
-  {
+{
     "id": 1,
-    "last_name": "D Schroder",
-    "img": "/basket/img/players/D Schroder.png",
-    "full_name": "Dennis Schroder",
+    "last_name": "I Quickley",
+    "img": "/basket/img/players/I Quickley.png",
+    "full_name": "Immanuel Quickley",
     "team": "Toronto Raptors",
-    "nationality": "Germany",
-    "positions": ["Point Guard"],
-    "description": "Experienced point guard with scoring ability."
+    "nationality": "USA",
+    "positions": ["Shooting Guard", "Point Guard"],
+    "description": "Emerging guard known for his scoring ability."
   },
-  {
+ {
     "id": 2,
-    "last_name": "OG Anunoby",
-    "img": "/basket/img/players/OG Anunoby.png",
-    "full_name": "OG Anunoby",
+    "last_name": "RJ Barrett",
+    "img": "/basket/img/players/RJ Barrett.png",
+    "full_name": "RJ Barrett",
     "team": "Toronto Raptors",
-    "nationality": "United Kingdom",
-    "positions": ["Shooting Guard", "Small Forward"],
-    "description": "Versatile forward known for his defense."
+    "nationality": "Canada",
+    "positions": ["Small Forward", "Shooting Guard"],
+    "description": "Young forward with scoring potential."
   },
   {
     "id": 3,

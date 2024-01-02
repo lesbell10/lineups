@@ -26,8 +26,8 @@
     "full_name": "Ryan O'Reilly",
     "team": "Nashville Predtors",
     "nationality": "Canada",
-    "position": "Right Winger",
-    "description": "Canadian right winger and former Sabres player."
+    "position": "Center",
+    "description": "Canadian center and former Sabres player."
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "team": "Philadelphia Flyers",
     "nationality": "Finland",
     "position": "Defenseman",
-    "description": "Finnish right defenseman with the Philadelphia Flyers."
+    "description": "Finnish defenseman with the Philadelphia Flyers."
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "team": "Vancouver Canucks",
     "nationality": "Canada",
     "position": "Defenseman",
-    "description": "Canadian right defenseman who played for the Buffalo Sabres."
+    "description": "Canadian defenseman who played for the Buffalo Sabres."
   },
   {
     "id": 6,

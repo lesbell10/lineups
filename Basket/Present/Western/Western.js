@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Mavericks' 2022-23 season was marked by dynamic performances and strategic play. Led by star Luka Dončić, the team demonstrated strong offensive capabilities and resilience. "
+            sideModal.textContent = "The Dallas Mavericks' last season was marked by dynamic performances and strategic play. Led by star Luka Dončić, the team demonstrated strong offensive capabilities and resilience. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -65,7 +65,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Denver Nuggets, led by MVP Nikola Jokić, showcased a powerful mix of talent and strategic gameplay in the NBA. With a strong supporting cast including Jamal Murray and Michael Porter Jr., the Nuggets won the NBA Finals against the Miami Heat."
+            sideModal.textContent = "Last year, the Denver Nuggets, led by MVP Nikola Jokić, showcased a powerful mix of talent and strategic gameplay in the NBA. With a strong supporting cast including Jamal Murray and Michael Porter Jr., the Nuggets won the NBA Finals against the Miami Heat."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -93,7 +93,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Golden State Warriors continued their legacy as a dominant force in the NBA. With star players like Stephen Curry, Klay Thompson, and Draymond Green, they displayed exceptional skill and teamwork."
+            sideModal.textContent = "Last year, the Golden State Warriors continued their legacy as a dominant force in the NBA. With star players like Stephen Curry, Klay Thompson, and Draymond Green, they displayed exceptional skill and teamwork."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -120,7 +120,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "During the 2022-23 season, the Houston Rockets focused on rebuilding with a young roster. Emphasizing development, the team, led by players like Jalen Green and Kevin Porter Jr., showcased potential and growth. "
+            sideModal.textContent = "Last season, the Houston Rockets focused on rebuilding with a young roster. Emphasizing development, the team, led by players like Jalen Green and Kevin Porter Jr., showcased potential and growth. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -148,7 +148,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Clippers' 2022-23 season was characterized by high expectations with a roster boasting stars like Kawhi Leonard and Paul George. After overcoming injury setbacks, the team aimed to capitalize on its deep, talented lineup to make a significant impact in the NBA."
+            sideModal.textContent = "The LA Clippers' last season was characterized by high expectations with a roster boasting stars like Kawhi Leonard and Paul George. After overcoming injury setbacks, the team aimed to capitalize on its deep, talented lineup to make a significant impact in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -175,7 +175,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Lakers' 2022-23 season was marked by a mix of high-profile talent and challenging dynamics. With LeBron James and Anthony Davis leading the roster, the team aimed to blend experience with emerging talent for a strong playoff push."
+            sideModal.textContent = "The LA Lakers' last season was marked by a mix of high-profile talent and challenging dynamics. With LeBron James and Anthony Davis leading the roster, the team aimed to blend experience with emerging talent for a strong playoff push."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -202,7 +202,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Memphis Grizzlies' 2022-23 season showcased their emergence as a powerhouse in the NBA. Led by the electrifying Ja Morant, the team combined youthful energy with gritty, dynamic play."
+            sideModal.textContent = "The Memphis Grizzlies' last season showcased their emergence as a powerhouse in the NBA. Led by the electrifying Ja Morant, the team combined youthful energy with gritty, dynamic play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -230,7 +230,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Minnesota Timberwolves displayed a promising mix of young talent and veteran leadership. Anchored by stars like Karl-Anthony Towns and Anthony Edwards, the team focused on building chemistry and consistency."
+            sideModal.textContent = "Last year, the Minnesota Timberwolves displayed a promising mix of young talent and veteran leadership. Anchored by stars like Karl-Anthony Towns and Anthony Edwards, the team focused on building chemistry and consistency."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -258,7 +258,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Orleans Pelicans' 2022-23 season was highlighted by their rising potential in the NBA. With a core led by Zion Williamson, Brandon Ingram, and CJ McCollum, the Pelicans blended athleticism, scoring prowess, and strategic gameplay."
+            sideModal.textContent = "The New Orleans Pelicans' last season was highlighted by their rising potential in the NBA. With a core led by Zion Williamson, Brandon Ingram, and CJ McCollum, the Pelicans blended athleticism, scoring prowess, and strategic gameplay."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -312,7 +312,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Phoenix Suns, led by stars Devin Booker and Chris Paul, aimed to continue their recent success in the NBA. Known for their cohesive team play and strong coaching, the Suns combined a high-powered offense with strategic defense."
+            sideModal.textContent = "Last year, the Phoenix Suns, led by stars Devin Booker and Chris Paul, aimed to continue their recent success in the NBA. Known for their cohesive team play and strong coaching, the Suns combined a high-powered offense with strategic defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -340,7 +340,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Portland Trail Blazers' 2022-23 season was centered around rebuilding and resilience. With star Damian Lillard at the helm, the team aimed to blend his leadership with emerging talents like Anfernee Simons."
+            sideModal.textContent = "The Portland Trail Blazers' last season was centered around rebuilding and resilience. With star Damian Lillard at the helm, the team aimed to blend his leadership with emerging talents like Anfernee Simons."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -368,7 +368,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Sacramento Kings' 2022-23 season was a period of transition and growth. Led by De'Aaron Fox and with the addition of new talents, the team focused on building a competitive roster."
+            sideModal.textContent = "The Sacramento Kings' last season was a period of transition and growth. Led by De'Aaron Fox and with the addition of new talents, the team focused on building a competitive roster."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -396,7 +396,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The San Antonio Spurs' 2022-23 season was marked by a period of rebuilding and development. Under the guidance of Coach Gregg Popovich, the team focused on nurturing young talents like Dejounte Murray."
+            sideModal.textContent = "The San Antonio Spurs' last season was marked by a period of rebuilding and development. Under the guidance of Coach Gregg Popovich, the team focused on nurturing young talents like Dejounte Murray."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -423,7 +423,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022 - 23 season, the Utah Jazz underwent significant changes, focusing on rebuilding with a blend of veterans and young talents.The team, known for its strong defensive play and cohesive teamwork, aimed to maintain competitiveness in the Western Conference."
+            sideModal.textContent = "Last year, the Utah Jazz underwent significant changes, focusing on rebuilding with a blend of veterans and young talents.The team, known for its strong defensive play and cohesive teamwork, aimed to maintain competitiveness in the Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -491,7 +491,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Mavericks' 2022-23 season was marked by dynamic performances and strategic play. Led by star Luka Dončić, the team demonstrated strong offensive capabilities and resilience. "
+            sideModal.textContent = "The Dallas Mavericks' last season was marked by dynamic performances and strategic play. Led by star Luka Dončić, the team demonstrated strong offensive capabilities and resilience. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -519,7 +519,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Denver Nuggets, led by MVP Nikola Jokić, showcased a powerful mix of talent and strategic gameplay in the NBA. With a strong supporting cast including Jamal Murray and Michael Porter Jr., the Nuggets won the NBA Finals against the Miami Heat."
+            sideModal.textContent = "Last year, the Denver Nuggets, led by MVP Nikola Jokić, showcased a powerful mix of talent and strategic gameplay in the NBA. With a strong supporting cast including Jamal Murray and Michael Porter Jr., the Nuggets won the NBA Finals against the Miami Heat."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -547,7 +547,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Golden State Warriors continued their legacy as a dominant force in the NBA. With star players like Stephen Curry, Klay Thompson, and Draymond Green, they displayed exceptional skill and teamwork."
+            sideModal.textContent = "Last year, the Golden State Warriors continued their legacy as a dominant force in the NBA. With star players like Stephen Curry, Klay Thompson, and Draymond Green, they displayed exceptional skill and teamwork."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -574,7 +574,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "During the 2022-23 season, the Houston Rockets focused on rebuilding with a young roster. Emphasizing development, the team, led by players like Jalen Green and Kevin Porter Jr., showcased potential and growth. "
+            sideModal.textContent = "Last season, the Houston Rockets focused on rebuilding with a young roster. Emphasizing development, the team, led by players like Jalen Green and Kevin Porter Jr., showcased potential and growth. "
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -602,7 +602,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Clippers' 2022-23 season was characterized by high expectations with a roster boasting stars like Kawhi Leonard and Paul George. After overcoming injury setbacks, the team aimed to capitalize on its deep, talented lineup to make a significant impact in the NBA."
+            sideModal.textContent = "The LA Clippers' last season was characterized by high expectations with a roster boasting stars like Kawhi Leonard and Paul George. After overcoming injury setbacks, the team aimed to capitalize on its deep, talented lineup to make a significant impact in the NBA."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -629,7 +629,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Lakers' 2022-23 season was marked by a mix of high-profile talent and challenging dynamics. With LeBron James and Anthony Davis leading the roster, the team aimed to blend experience with emerging talent for a strong playoff push."
+            sideModal.textContent = "The LA Lakers' last season was marked by a mix of high-profile talent and challenging dynamics. With LeBron James and Anthony Davis leading the roster, the team aimed to blend experience with emerging talent for a strong playoff push."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -656,7 +656,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Memphis Grizzlies' 2022-23 season showcased their emergence as a powerhouse in the NBA. Led by the electrifying Ja Morant, the team combined youthful energy with gritty, dynamic play."
+            sideModal.textContent = "The Memphis Grizzlies' last season showcased their emergence as a powerhouse in the NBA. Led by the electrifying Ja Morant, the team combined youthful energy with gritty, dynamic play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -684,7 +684,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Minnesota Timberwolves displayed a promising mix of young talent and veteran leadership. Anchored by stars like Karl-Anthony Towns and Anthony Edwards, the team focused on building chemistry and consistency."
+            sideModal.textContent = "Last year, the Minnesota Timberwolves displayed a promising mix of young talent and veteran leadership. Anchored by stars like Karl-Anthony Towns and Anthony Edwards, the team focused on building chemistry and consistency."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -712,7 +712,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Orleans Pelicans' 2022-23 season was highlighted by their rising potential in the NBA. With a core led by Zion Williamson, Brandon Ingram, and CJ McCollum, the Pelicans blended athleticism, scoring prowess, and strategic gameplay."
+            sideModal.textContent = "The New Orleans Pelicans' last season was highlighted by their rising potential in the NBA. With a core led by Zion Williamson, Brandon Ingram, and CJ McCollum, the Pelicans blended athleticism, scoring prowess, and strategic gameplay."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -766,7 +766,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, the Phoenix Suns, led by stars Devin Booker and Chris Paul, aimed to continue their recent success in the NBA. Known for their cohesive team play and strong coaching, the Suns combined a high-powered offense with strategic defense."
+            sideModal.textContent = "Last year, the Phoenix Suns, led by stars Devin Booker and Chris Paul, aimed to continue their recent success in the NBA. Known for their cohesive team play and strong coaching, the Suns combined a high-powered offense with strategic defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -794,7 +794,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Portland Trail Blazers' 2022-23 season was centered around rebuilding and resilience. With star Damian Lillard at the helm, the team aimed to blend his leadership with emerging talents like Anfernee Simons."
+            sideModal.textContent = "The Portland Trail Blazers' last season was centered around rebuilding and resilience. With star Damian Lillard at the helm, the team aimed to blend his leadership with emerging talents like Anfernee Simons."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -822,7 +822,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Sacramento Kings' 2022-23 season was a period of transition and growth. Led by De'Aaron Fox and with the addition of new talents, the team focused on building a competitive roster."
+            sideModal.textContent = "The Sacramento Kings' last season was a period of transition and growth. Led by De'Aaron Fox and with the addition of new talents, the team focused on building a competitive roster."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -850,7 +850,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The San Antonio Spurs' 2022-23 season was marked by a period of rebuilding and development. Under the guidance of Coach Gregg Popovich, the team focused on nurturing young talents like Dejounte Murray."
+            sideModal.textContent = "The San Antonio Spurs' last season was marked by a period of rebuilding and development. Under the guidance of Coach Gregg Popovich, the team focused on nurturing young talents like Dejounte Murray."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -877,7 +877,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022 - 23 season, the Utah Jazz underwent significant changes, focusing on rebuilding with a blend of veterans and young talents.The team, known for its strong defensive play and cohesive teamwork, aimed to maintain competitiveness in the Western Conference."
+            sideModal.textContent = "Last year, the Utah Jazz underwent significant changes, focusing on rebuilding with a blend of veterans and young talents.The team, known for its strong defensive play and cohesive teamwork, aimed to maintain competitiveness in the Western Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {

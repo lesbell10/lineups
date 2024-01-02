@@ -1084,7 +1084,7 @@
   "full_name": "Brad Richards",
   "birth_date": "02-05-1980",
 
-  "team": "Tampa Bay Lightning",
+  "team": "Retired",
   "nationality": "Canada",
   "position": "Center",
   "height": "6'0\"",
@@ -1652,16 +1652,6 @@
         "description": "Slovak center known for playmaking skills."
     },
     {
-        "id": 143,
-        "last_name": "B Richards",
-        "img": "/hockey/img/players/B Richards.jpg",
-        "full_name": "Brad Richards",
-        "team": "Retired",
-        "nationality": "Canada",
-        "position": "Center",
-        "description": "Canadian center known for scoring ability."
-    },
-    {
         "id": 144,
         "last_name": "Boyle",
         "img": "/hockey/img/players/Boyle.jpg",
@@ -1786,7 +1776,7 @@
         "last_name": "Bailey",
         "img": "/hockey/img/players/Bailey.jpg",
         "full_name": "Josh Bailey",
-        "team": "New York Islanders",
+        "team": "Free Agent",
         "nationality": "Canada",
         "position": "Right Winger",
         "description": "Right winger with playmaking ability and offensive contributions."
@@ -2176,7 +2166,7 @@
         "last_name": "Boeser",
         "img": "/hockey/img/players/Boeser.jpg",
         "full_name": "Brock Boeser",
-        "team": "Minnesota Wild",
+        "team": "Vancouver Canucks",
         "nationality": "USA",
         "position": "Right Winger",
         "description": "American right winger known for goal-scoring and offensive skills."
@@ -2263,8 +2253,8 @@
     },
     {
         "id": 204,
-        "last_name": "Niedermayer",
-        "img": "/hockey/img/players/Niedermayer.jpg",
+        "last_name": "S Niedermayer",
+        "img": "/hockey/img/players/S Niedermayer.jpg",
         "full_name": "Scott Niedermayer",
         "team": "Retired",
         "nationality": "Canada",

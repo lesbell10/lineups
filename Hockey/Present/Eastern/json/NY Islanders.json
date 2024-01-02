@@ -5,12 +5,10 @@
     "img": "/hockey/img/players/Nelson.jpg",
     "full_name": "Brock Nelson",
     "birth_date": "15-10-1991",
-
     "team": "New York Islanders",
     "nationality": "USA",
     "position": "Center",
     "height": "6'3\"",
-
     "description": "Talented center for the New York Islanders."
   },
   {
@@ -19,12 +17,10 @@
     "img": "/hockey/img/players/Barzal.jpg",
     "full_name": "Mathew Barzal",
     "birth_date": "26-05-1997",
-
     "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Center",
     "height": "6'0\"",
-
     "description": "Star center for the New York Islanders."
   },
   {

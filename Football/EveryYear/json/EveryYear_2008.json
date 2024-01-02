@@ -4,142 +4,142 @@
         "last_name": "Henry",
         "full_name": "Thierry Henry",
         "birth_date": "17-08-1977",
-
         "nationality": "France",
         "position": "Forward",
         "height": "6'2",
         "img": "/football/img/players/Henry.webp",
         "team": "Retired",
-        "description": "Arsenal legend, prolific scorer, World Cup winner."
+        "description": "Arsenal legend, prolific scorer, World Cup winner.",
+        "age": "46 years old"
     },
     {
         "id": 2,
         "last_name": "C Ronaldo",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2",
         "img": "/football/img/players/C Ronaldo.webp",
         "team": "Al Nassr",
-        "description": "Five-time Ballon d'Or, legendary prolific forward."
+        "description": "Five-time Ballon d'Or, legendary prolific forward.",
+        "age": "38 years old"
     },
     {
         "id": 3,
         "last_name": "Rooney",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-
         "nationality": "England",
         "position": "Second Striker",
         "height": "5'9",
         "img": "/football/img/players/Rooney.webp",
         "team": "Retired",
-        "description": "Manchester United's top scorer, versatile, determined leader."
+        "description": "Manchester United's top scorer, versatile, determined leader.",
+        "age": "38 years old"
     },
     {
         "id": 4,
         "last_name": "Ronaldinho",
         "full_name": "Ronaldinho de Assis",
         "birth_date": "21-03-1980",
-
         "nationality": "Brazil",
         "position": "Left Winger",
         "height": "5'10",
         "img": "/football/img/players/Ronaldinho.webp",
         "team": "Retired",
-        "description": "Magical playmaker, two-time Ballon d'Or, Barcelona star."
+        "description": "Magical playmaker, two-time Ballon d'Or, Barcelona star.",
+        "age": "43 years old"
     },
     {
         "id": 5,
         "last_name": "Fabregas",
         "full_name": "Francesc Fabregas",
         "birth_date": "04-05-1987",
-
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'10",
         "img": "/football/img/players/Fabregas.webp",
         "team": "Retired",
-        "description": "World Cup winner, creative midfielder, Premier League success."
+        "description": "World Cup winner, creative midfielder, Premier League success.",
+        "age": "36 years old"
     },
     {
         "id": 6,
         "last_name": "Gerrard",
         "full_name": "Steven Gerrard",
         "birth_date": "30-05-1980",
-
         "nationality": "England",
         "position": "Central Midfielder",
         "height": "6'0",
         "img": "/football/img/players/Gerrard.webp",
         "team": "Retired",
-        "description": "Liverpool icon, Champions League hero, versatile midfielder."
+        "description": "Liverpool icon, Champions League hero, versatile midfielder.",
+        "age": "43 years old"
     },
     {
         "id": 7,
         "last_name": "S Ramos",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-
         "nationality": "Spain",
         "position": "Centre Back",
         "height": "6'0",
         "img": "/football/img/players/S Ramos.webp",
         "team": "Sevilla",
-        "description": "Spanish defender, World Cup winner, Real Madrid legend."
+        "description": "Spanish defender, World Cup winner, Real Madrid legend.",
+        "age": "37 years old"
     },
     {
         "id": 8,
         "last_name": "Nesta",
         "full_name": "Alessandro Nesta",
         "birth_date": "19-03-1976",
-
         "nationality": "Italy",
         "position": "Centre Back",
         "height": "6'2",
         "img": "/football/img/players/Nesta.webp",
         "team": "Retired",
-        "description": "World Cup winner, defensive master, AC Milan stalwart."
+        "description": "World Cup winner, defensive master, AC Milan stalwart.",
+        "age": "47 years old"
     },
     {
         "id": 9,
         "last_name": "Terry",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
-
         "nationality": "England",
         "position": "Centre Back",
         "height": "6'2",
         "img": "/football/img/players/Terry.webp",
         "team": "Retired",
-        "description": "Chelsea captain, Premier League champion, defensive leader."
+        "description": "Chelsea captain, Premier League champion, defensive leader.",
+        "age": "43 years old"
     },
     {
         "id": 10,
         "last_name": "Zanetti",
         "full_name": "Javier Zanetti",
         "birth_date": "10-08-1973",
-
         "nationality": "Argentina",
         "position": "Right Back",
         "height": "5'10",
         "img": "/football/img/players/Zanetti.webp",
         "team": "Retired",
-        "description": "Inter Milan legend, versatile defender, Argentina international."
+        "description": "Inter Milan legend, versatile defender, Argentina international.",
+        "age": "50 years old"
     },
     {
         "id": 11,
         "last_name": "Buffon",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
-
         "nationality": "Italy",
         "position": "Goalkeeper",
         "height": "6'4",
         "img": "/football/img/players/Buffon.webp",
         "team": "Retired",
-        "description": "Iconic goalkeeper, World Cup champion, Juventus legend."
+        "description": "Iconic goalkeeper, World Cup champion, Juventus legend.",
+        "age": "45 years old"
     }
 ]

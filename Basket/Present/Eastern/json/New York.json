@@ -9,26 +9,27 @@
     "positions": ["Point Guard"],
     "description": "Talented point guard with playmaking skills."
   },
-  {
+    {
     "id": 2,
-    "last_name": "IQuickley",
-    "img": "/basket/img/players/I Quickley.png",
-    "full_name": "Immanuel Quickley",
+    "last_name": "D DiVincenzo",
+    "img": "/basket/img/players/D DiVincenzo.png",
+    "full_name": "Donte DiVincenzo",
     "team": "New York Knicks",
-    "nationality": "USA",
+    "nationality": "United Kingdom",
     "positions": ["Shooting Guard", "Point Guard"],
-    "description": "Emerging guard known for his scoring ability."
+    "description": "Dynamic guard with excellent shooting skills."
   },
-  {
+{
     "id": 3,
-    "last_name": "RJ Barrett",
-    "img": "/basket/img/players/RJ Barrett.png",
-    "full_name": "RJ Barrett",
+    "last_name": "OG Anunoby",
+    "img": "/basket/img/players/OG Anunoby.png",
+    "full_name": "OG Anunoby",
     "team": "New York Knicks",
-    "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
-    "description": "Young forward with scoring potential."
+    "nationality": "United Kingdom",
+    "positions": ["Shooting Guard", "Small Forward"],
+    "description": "Versatile forward known for his defense."
   },
+
   {
     "id": 4,
     "last_name": "J Randle",

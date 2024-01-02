@@ -2,7 +2,7 @@ const label = document.querySelector(".label");
 const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
-const itemsPerPage = 150;
+const itemsPerPage = 52;
 let includeRetired = true;
 
 // Function to load JSON data from a file
@@ -258,7 +258,7 @@ function displayResults(players) {
         // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `        
   <p style="animation: none;">${player.description}</p>
-  <div class="line">-----------------------------</div>
+  <div class="line">------------------------------</div>
   <p style="animation: none;">Team: ${player.team}</p>
   <p style="animation: none;">Nationality: ${player.nationality}</p>
   <p style="animation: none;">Position: ${player.position}</p>
@@ -285,8 +285,8 @@ function displayResults(players) {
         resultsContainer.appendChild(wrapperDiv);
 
         const message = players.length === 1
-            ? `<h1>${players.length} player found</h1>`
-            : `<h1>${players.length} players found</h1>`;
+            ? `<h1>${players.length} person found</h1>`
+            : `<h1>${players.length} people found</h1>`;
 
         document.getElementById('count').innerHTML = message
 

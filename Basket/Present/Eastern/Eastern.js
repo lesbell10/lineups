@@ -37,7 +37,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Atlanta Hawks' 2022-23 season was highlighted by the exceptional play of Trae Young, with important contributions from players like John Collins and Clint Capela. Their focus on dynamic offense and team synergy aimed to solidify their position in the NBA's Eastern Conference."
+            sideModal.textContent = "Atlanta Hawks' last season was highlighted by the exceptional play of Trae Young, with important contributions from players like John Collins and Clint Capela. Their focus on dynamic offense and team synergy aimed to solidify their position in the NBA's Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -65,7 +65,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Boston Celtics' 2022-23 season was characterized by their strong championship aspirations. Building on their previous success, the team, led by stars Jayson Tatum and Jaylen Brown, showcased a formidable blend of offensive firepower and stout defense."
+            sideModal.textContent = "The Boston Celtics' last season was characterized by their strong championship aspirations. Building on their previous success, the team, led by stars Jayson Tatum and Jaylen Brown, showcased a formidable blend of offensive firepower and stout defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -93,7 +93,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Brooklyn Nets' 2022-23 season was marked by high expectations and star power. With a roster featuring Kevin Durant and Kyrie Irving, the team aimed to capitalize on its offensive prowess and deep talent pool."
+            sideModal.textContent = "The Brooklyn Nets' last season was marked by high expectations and star power. With a roster featuring Kevin Durant and Kyrie Irving, the team aimed to capitalize on its offensive prowess and deep talent pool."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -121,7 +121,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Charlotte Hornets' 2022-23 season was a journey of growth and potential. Led by LaMelo Ball, the team showcased a vibrant, up-tempo style of play. Focused on developing young talent like Miles Bridges, they aimed to establish themselves as playoff contenders in the Eastern Conference."
+            sideModal.textContent = "The Charlotte Hornets' last season was a journey of growth and potential. Led by LaMelo Ball, the team showcased a vibrant, up-tempo style of play. Focused on developing young talent like Miles Bridges, they aimed to establish themselves as playoff contenders in the Eastern Conference."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -149,7 +149,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Chicago Bulls' 2022-23 season was highlighted by a mix of established talent and emerging stars. Led by DeMar DeRozan and Zach LaVine, the team aimed to build on their cohesive play and offensive strengths."
+            sideModal.textContent = "The Chicago Bulls' last season was highlighted by a mix of established talent and emerging stars. Led by DeMar DeRozan and Zach LaVine, the team aimed to build on their cohesive play and offensive strengths."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -300,8 +300,8 @@ function updatePlayerInfo() {
 
     if (selectedYear == "10") {
         PG.textContent = "J Brunson";
-        SG.textContent = "I Quickley";
-        SF.textContent = "RJ Barrett";
+        SG.textContent = "D DiVincenzo";
+        SF.textContent = "OG Anunoby";
         PF.textContent = "J Randle";
         C.textContent = "M Robinson";
 
@@ -383,8 +383,8 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "13") {
-        PG.textContent = "D Schroder";
-        SG.textContent = "OG Anunoby";
+        PG.textContent = "I Quickley";
+        SG.textContent = "RJ Barrett";
         SF.textContent = "S Barnes";
         PF.textContent = "P Siakam";
         C.textContent = "J Poeltl";
@@ -482,7 +482,7 @@ const updateDropdown = () => {
     if (selectedYear == "0") {
         PG.textContent = "T Young";
         SG.textContent = "D Murray";
-        SF.textContent = "D Hunter";
+        SF.textContent = "Bog Bogdanovic";
         PF.textContent = "O Okongwu";
         C.textContent = "C Capela";
 
@@ -761,8 +761,8 @@ const updateDropdown = () => {
 
     if (selectedYear == "10") {
         PG.textContent = "J Brunson";
-        SG.textContent = "I Quickley";
-        SF.textContent = "RJ Barrett";
+        SG.textContent = "D DiVincenzo";
+        SF.textContent = "OG Anunoby";
         PF.textContent = "J Randle";
         C.textContent = "M Robinson";
 
@@ -844,8 +844,8 @@ const updateDropdown = () => {
     }
 
     if (selectedYear == "13") {
-        PG.textContent = "D Schroder";
-        SG.textContent = "OG Anunoby";
+        PG.textContent = "I Quickley";
+        SG.textContent = "RJ Barrett";
         SF.textContent = "S Barnes";
         PF.textContent = "P Siakam";
         C.textContent = "J Poeltl";

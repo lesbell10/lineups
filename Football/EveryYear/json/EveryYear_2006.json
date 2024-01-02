@@ -5,7 +5,7 @@
         "img": "/football/img/players/Ronaldo.webp",
         "full_name": "Luis Ronaldo",
         "birth_date": "22-09-1976",
-
+        "age": "47 years old",
         "position": "Striker",
         "team": "Retired",
         "nationality": "Brazil",
@@ -18,7 +18,7 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
+        "age": "38 years old",
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -31,7 +31,7 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-
+        "age": "38 years old",
         "position": "Centre Forward",
         "team": "Retired",
         "nationality": "England",
@@ -44,7 +44,7 @@
         "img": "/football/img/players/Ronaldinho.webp",
         "full_name": "Ronaldinho",
         "birth_date": "21-03-1980",
-
+        "age": "43 years old",
         "position": "Left Winger",
         "team": "Retired",
         "nationality": "Brazil",
@@ -57,7 +57,7 @@
         "img": "/football/img/players/Zidane.webp",
         "full_name": "Zinedine Zidane",
         "birth_date": "23-06-1972",
-
+        "age": "51 years old",
         "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "France",
@@ -70,7 +70,7 @@
         "img": "/football/img/players/Essien.webp",
         "full_name": "Michael Essien",
         "birth_date": "03-12-1982",
-
+        "age": "41 years old",
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Ghana",
@@ -83,7 +83,7 @@
         "img": "/football/img/players/Cafu.webp",
         "full_name": "Marcos Cafu",
         "birth_date": "07-06-1970",
-
+        "age": "53 years old",
         "position": "Right Back",
         "team": "Retired",
         "nationality": "Brazil",
@@ -96,7 +96,7 @@
         "img": "/football/img/players/Ferdinand.webp",
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
-
+        "age": "45 years old",
         "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
@@ -109,7 +109,7 @@
         "img": "/football/img/players/Maldini.webp",
         "full_name": "Paolo Maldini",
         "birth_date": "26-06-1968",
-
+        "age": "55 years old",
         "position": "Left Back",
         "team": "Retired",
         "nationality": "Italy",
@@ -122,7 +122,7 @@
         "img": "/football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
-
+        "age": "43 years old",
         "position": "Left Back",
         "team": "Retired",
         "nationality": "England",
@@ -135,7 +135,7 @@
         "img": "/football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
-
+        "age": "42 years old",
         "position": "Goalkeeper",
         "team": "Retired",
         "nationality": "Spain",

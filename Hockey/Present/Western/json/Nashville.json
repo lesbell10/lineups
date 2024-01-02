@@ -23,11 +23,11 @@
         "id": 3,
         "last_name": "Novak",
         "img": "/hockey/img/players/Novak.jpg",
-        "full_name": "David Novak",
+        "full_name": "Thomas Novak",
         "team": "Nashville Predators",
-        "nationality": "Czech Republic",
-        "position": "Right Winger",
-        "description": "Czech right winger with offensive skills."
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Skilled center with impressive playmaking and scoring abilities."
     },
     {
         "id": 4,
@@ -46,8 +46,8 @@
         "full_name": "Ryan McDonagh",
         "team": "Nashville Predators",
         "nationality": "USA",
-        "position": "Left Defenseman",
-        "description": "American defenseman and leader for the Tampa Bay Lightning."
+        "position": "Defenseman",
+        "description": "American defenseman and leader for the Nashville Predators."
     },
     {
         "id": 6,

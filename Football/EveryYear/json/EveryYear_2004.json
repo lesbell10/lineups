@@ -7,7 +7,8 @@
     "team": "Retired",
     "nationality": "France",
     "position": "Forward",
-    "description": "Prolific scorer, Arsenal legend, French football icon."
+    "description": "Prolific scorer, Arsenal legend, French football icon.",
+    "age": "46 years old"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "team": "Al Nassr",
     "nationality": "Portugal",
     "position": "Forward",
-    "description": "Goal-scoring machine, multiple Ballon d'Or winner, Portuguese sensation."
+    "description": "Goal-scoring machine, multiple Ballon d'Or winner, Portuguese sensation.",
+    "age": "38 years old"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "team": "Retired",
     "nationality": "France",
     "position": "Attacking Midfielder",
-    "description": "Great playmaker, elegance personified, World Cup hero."
+    "description": "Great playmaker, elegance personified, World Cup hero.",
+    "age": "51 years old"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "team": "Retired",
     "nationality": "Brazil",
     "position": "Left Winger",
-    "description": "Samba flair, magician with the ball, football entertainer."
+    "description": "Samba flair, magician with the ball, football entertainer.",
+    "age": "43 years old"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "team": "Retired",
     "nationality": "England",
     "position": "Central Midfielder",
-    "description": "Midfield maestro, Chelsea legend, prolific goal scorer."
+    "description": "Midfield maestro, Chelsea legend, prolific goal scorer.",
+    "age": "45 years old"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "team": "Retired",
     "nationality": "Italy",
     "position": "Defensive Midfielder",
-    "description": "Master of passing, midfield genius, Italian maestro."
+    "description": "Master of passing, midfield genius, Italian maestro.",
+    "age": "44 years old"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "team": "Retired",
     "nationality": "Brazil",
     "position": "Right Back",
-    "description": "Legendary right back, World Cup winner, Brazilian hero."
+    "description": "Legendary right back, World Cup winner, Brazilian hero.",
+    "age": "53 years old"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "team": "Retired",
     "nationality": "England",
     "position": "Centre Back",
-    "description": "Captain Leader Legend, Chelsea stalwart, defensive rock."
+    "description": "Captain Leader Legend, Chelsea stalwart, defensive rock.",
+    "age": "43 years old"
   },
   {
     "id": 9,
@@ -87,17 +95,19 @@
     "team": "Retired",
     "nationality": "Italy",
     "position": "Left Back",
-    "description": "Defensive maestro, AC Milan icon, Italian football legend."
+    "description": "Defensive maestro, AC Milan icon, Italian football legend.",
+    "age": "55 years old"
   },
   {
     "id": 10,
     "last_name": "R Carlos",
-    "img": "/football/img/players/R%20Carlos.webp",
+    "img": "/football/img/players/R Carlos.webp",
     "full_name": "Roberto Carlos",
     "team": "Retired",
     "nationality": "Brazil",
     "position": "Left Back",
-    "description": "Free-kick specialist, attacking left back, Brazilian dynamo."
+    "description": "Free-kick specialist, attacking left back, Brazilian dynamo.",
+    "age": "50 years old"
   },
   {
     "id": 11,
@@ -107,6 +117,7 @@
     "team": "Retired",
     "nationality": "Czech Republic",
     "position": "Goalkeeper",
-    "description": "Goalkeeping legend, safe hands, shot-stopping brilliance."
+    "description": "Goalkeeping legend, safe hands, shot-stopping brilliance.",
+    "age": "41 years old"
   }
 ]

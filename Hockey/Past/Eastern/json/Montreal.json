@@ -5,7 +5,7 @@
         "img": "/hockey/img/players/Pacioretty.jpg",
         "full_name": "Max Pacioretty",
         "team": "Washington Capitals",
-        "nationality": "American",
+        "nationality": "USA",
         "position": "Left Winger",
         "description": "American left winger, former captain."
     },
@@ -55,7 +55,7 @@
         "img": "/hockey/img/players/Price.jpg",
         "full_name": "Carey Price",
         "team": "Retired",
-        "nationality": "Canadian",
+        "nationality": "Canada",
         "position": "Goaltender",
         "description": "Canadian goaltender, one of the best in the world."
     }

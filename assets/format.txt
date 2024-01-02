@@ -12,7 +12,7 @@
     "team": ,
     "nationality": (name),
     "position": ,
-    "description": (in 8 words),
+    "description": (as manager in 8 words),
   }
 
 

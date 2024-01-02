@@ -102,7 +102,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Calgary Flames' 2022-23 season showcased a team aiming for a strong presence in the NHL. Led by Tyle Toffoli and Elias Lindholm, they focused on an aggressive offense, while Rasmus Andersson anchored the defense. Goaltending from Jacob Markstrom was pivotal."
+            sideModal.textContent = "The Calgary Flames' last season showcased a team aiming for a strong presence in the NHL. Led by Tyle Toffoli and Elias Lindholm, they focused on an aggressive offense, while Rasmus Andersson anchored the defense. Goaltending from Jacob Markstrom was pivotal."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -628,7 +628,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Calgary Flames' 2022-23 season showcased a team aiming for a strong presence in the NHL. Led by Tyle Toffoli and Elias Lindholm, they focused on an aggressive offense, while Rasmus Andersson anchored the defense. Goaltending from Jacob Markstrom was pivotal."
+            sideModal.textContent = "The Calgary Flames' last season showcased a team aiming for a strong presence in the NHL. Led by Tyle Toffoli and Elias Lindholm, they focused on an aggressive offense, while Rasmus Andersson anchored the defense. Goaltending from Jacob Markstrom was pivotal."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1034,7 +1034,7 @@ const updateDropdown = () => {
 
     }
 
-    
+
     function clearAndFadeInElements() {
         const elements = [
             FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,

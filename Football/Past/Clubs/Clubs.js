@@ -133,7 +133,7 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/paris sg.webp";
+        smallpic.src = "/football/img/logos/psg.webp";
 
         MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
 
@@ -823,7 +823,7 @@ const updateDropdown = () => {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/paris sg.webp";
+        smallpic.src = "/football/img/logos/psg.webp";
 
         MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
 

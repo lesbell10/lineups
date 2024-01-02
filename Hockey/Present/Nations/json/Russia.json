@@ -26,8 +26,8 @@
         "full_name": "Artemi Panarin",
         "team": "New York Rangers",
         "nationality": "Russia",
-        "position": "Right Winger",
-        "description": "Russian right winger, famous for his offensive prowess and agility with the New York Rangers."
+        "position": "Left Winger",
+        "description": "Russian left winger, famous for his offensive prowess and agility with the New York Rangers."
     },
     {
         "id": 4,
@@ -36,8 +36,8 @@
         "full_name": "Ivan Provorov",
         "team": "Columbus Blue Jackets",
         "nationality": "Russia",
-        "position": "Left Defenseman",
-        "description": "Russian defenseman, noted for his strong defensive skills and playmaking ability with the Philadelphia Flyers."
+        "position": "Defenseman",
+        "description": "Russian defenseman, noted for his strong defensive skills and playmaking ability with the Columbus Blue Jackets."
     },
     {
         "id": 5,

@@ -10,7 +10,8 @@
     "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
-    "description": "Legendary forward known for his lethal finishing."
+    "description": "Legendary forward known for his lethal finishing.",
+    "age": "46 years old"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Italian midfield maestro with remarkable loyalty."
+    "description": "Italian midfield maestro with remarkable loyalty.",
+    "age": "47 years old"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "team": "Retired",
     "nationality": "France",
     "height": "6'1\"",
-    "description": "French playmaker known for elegance on the ball."
+    "description": "French playmaker known for elegance on the ball.",
+    "age": "51 years old"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'11\"",
-    "description": "Brazilian flair and creativity in the attack."
+    "description": "Brazilian flair and creativity in the attack.",
+    "age": "43 years old"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "team": "Retired",
     "nationality": "England",
     "height": "6'0\"",
-    "description": "Liverpool legend and midfield dynamo."
+    "description": "Liverpool legend and midfield dynamo.",
+    "age": "43 years old"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "team": "Retired",
     "nationality": "France",
     "height": "6'4\"",
-    "description": "Dominant midfielder with physical presence."
+    "description": "Dominant midfielder with physical presence.",
+    "age": "47 years old"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
-    "description": "Rock-solid defender with unmatched consistency."
+    "description": "Rock-solid defender with unmatched consistency.",
+    "age": "52 years old"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'2\"",
-    "description": "Italian centre back renowned for his defensive prowess."
+    "description": "Italian centre back renowned for his defensive prowess.",
+    "age": "47 years old"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "team": "Retired",
     "nationality": "Brazil",
     "height": "6'2\"",
-    "description": "Brazilian defender known for his physicality."
+    "description": "Brazilian defender known for his physicality.",
+    "age": "45 years old"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'1\"",
-    "description": "Italian legend who excelled as a versatile defender."
+    "description": "Italian legend who excelled as a versatile defender.",
+    "age": "55 years old"
   },
   {
     "id": 11,
@@ -140,6 +150,7 @@
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'4\"",
-    "description": "World-class Italian goalkeeper with unparalleled experience."
+    "description": "World-class Italian goalkeeper with unparalleled experience.",
+    "age": "45 years old"
   }
 ]

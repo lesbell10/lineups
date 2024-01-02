@@ -1,0 +1,692 @@
+[
+  {
+    "id": 1,
+    "last_name": "Ferguson",
+    "img": "/football/img/players/Ferguson.webp",
+    "full_name": "Sir Alex Ferguson",
+    "team": "Retired",
+    "nationality": "Scotland",
+    "position": "Manager",
+    "description": "Legendary manager, multiple Premier League titles with Manchester United."
+  },
+  {
+    "id": 2,
+    "last_name": "Wenger",
+    "img": "/football/img/players/Wenger.webp",
+    "full_name": "Arsene Wenger",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Manager",
+    "description": "Long-serving Arsenal manager, known for attacking football."
+  },
+  {
+    "id": 3,
+    "last_name": "Guardiola M",
+    "img": "/football/img/players/Guardiola.webp",
+    "full_name": "Pep Guardiola",
+    "team": "Manchester City",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Tactically innovative, successful spells with Barcelona and Manchester City."
+  },
+  {
+    "id": 4,
+    "last_name": "Mourinho",
+    "img": "/football/img/players/Mourinho.webp",
+    "full_name": "José Mourinho",
+    "team": "AS Roma",
+    "nationality": "Portugal",
+    "position": "Manager",
+    "description": "Special One, known for winning titles with various clubs."
+  },
+  {
+    "id": 5,
+    "last_name": "Ancelotti",
+    "img": "/football/img/players/Ancelotti.webp",
+    "full_name": "Carlo Ancelotti",
+    "team": "Real Madrid",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Experienced manager with success at top European clubs."
+  },
+  {
+    "id": 6,
+    "last_name": "Lippi",
+    "img": "/football/img/players/Lippi.webp",
+    "full_name": "Marcello Lippi",
+    "team": "No Club",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "World Cup-winning manager with Italy."
+  },
+  {
+    "id": 7,
+    "last_name": "Klopp",
+    "img": "/football/img/players/Klopp.webp",
+    "full_name": "Jürgen Klopp",
+    "team": "Liverpool",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Known for heavy metal football, success with Liverpool."
+  },
+  {
+    "id": 8,
+    "last_name": "Zidane M",
+    "img": "/football/img/players/Zidane.webp",
+    "full_name": "Zinedine Zidane",
+    "team": "No Club",
+    "nationality": "France",
+    "position": "Manager",
+    "description": "Successful manager with Real Madrid, former football legend."
+  },
+  {
+    "id": 9,
+    "last_name": "del Bosque",
+    "img": "/football/img/players/del Bosque.webp",
+    "full_name": "Vicente del Bosque",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "World Cup and European Championship-winning manager with Spain."
+  },
+  {
+    "id": 10,
+    "last_name": "Capello",
+    "img": "/football/img/players/Capello.webp",
+    "full_name": "Fabio Capello",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Experienced manager with multiple top clubs and national teams."
+  },
+  {
+    "id": 11,
+    "last_name": "Hitzfeld",
+    "img": "/football/img/players/Hitzfeld.webp",
+    "full_name": "Ottmar Hitzfeld",
+    "team": "Retired",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Successful manager with Bayern Munich and Borussia Dortmund."
+  },
+  {
+    "id": 12,
+    "last_name": "Robson",
+    "img": "/football/img/players/Robson.webp",
+    "full_name": "Sir Bobby Robson",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Manager",
+    "description": "Highly respected English manager, known for his passion."
+  },
+  {
+    "id": 13,
+    "last_name": "van Gaal",
+    "img": "/football/img/players/van Gaal.webp",
+    "full_name": "Louis van Gaal",
+    "team": "No Club",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Tactician, managed top clubs and the Dutch national team."
+  },
+  {
+    "id": 14,
+    "last_name": "Trapattoni",
+    "img": "/football/img/players/Trapattoni.webp",
+    "full_name": "Giovanni Trapattoni",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Experienced manager with multiple Italian clubs and Ireland."
+  },
+  {
+    "id": 15,
+    "last_name": "Hiddink",
+    "img": "/football/img/players/Hiddink.webp",
+    "full_name": "Guus Hiddink",
+    "team": "Retired",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Well-traveled manager with success at various national teams."
+  },
+  {
+    "id": 16,
+    "last_name": "Bielsa",
+    "img": "/football/img/players/Bielsa.webp",
+    "full_name": "Marcelo Bielsa",
+    "team": "Uruguay",
+    "nationality": "Argentina",
+    "position": "Manager",
+    "description": "Known for his high-intensity style, managed top clubs."
+  },
+  {
+    "id": 17,
+    "last_name": "Benitez",
+    "img": "/football/img/players/Benitez.webp",
+    "full_name": "Rafa Benitez",
+    "team": "Celta Vigo",
+    "nationality": "Spaon",
+    "position": "Manager",
+    "description": "Strategist, managed top clubs in various leagues."
+  },
+  {
+    "id": 18,
+    "last_name": "Pellegrini",
+    "img": "/football/img/players/Pellegrini.webp",
+    "full_name": "Manuel Pellegrini",
+    "team": "Real Betis",
+    "nationality": "Chile",
+    "position": "Manager",
+    "description": "Experienced manager with success in La Liga and Premier League."
+  },
+  {
+    "id": 19,
+    "last_name": "Ranieri",
+    "img": "/football/img/players/Ranieri.webp",
+    "full_name": "Claudio Ranieri",
+    "team": "Cagliari",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Famous for Leicester City's historic Premier League win."
+  },
+  {
+    "id": 20,
+    "last_name": "Mancini M",
+    "img": "/football/img/players/Mancini.webp",
+    "full_name": "Roberto Mancini",
+    "team": "Saudi Arabia",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Successful manager with Inter Milan and Italy."
+  },
+  {
+    "id": 21,
+    "last_name": "Eriksson",
+    "img": "/football/img/players/Eriksson.webp",
+    "full_name": "Sven-Goran Eriksson",
+    "team": "Retired",
+    "nationality": "Sweden",
+    "position": "Manager",
+    "description": "Managed various top clubs and the England national team."
+  },
+  {
+    "id": 22,
+    "last_name": "Rijkaard",
+    "img": "/football/img/players/Rijkaard.webp",
+    "full_name": "Frank Rijkaard",
+    "team": "Retired",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Led Barcelona to Champions League glory."
+  },
+  {
+    "id": 23,
+    "last_name": "Conte M",
+    "img": "/football/img/players/Conte.webp",
+    "full_name": "Antonio Conte",
+    "team": "No Club",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Known for his tactical acumen, managed top Italian clubs."
+  },
+  {
+    "id": 24,
+    "last_name": "Smith",
+    "img": "/football/img/players/Smith.webp",
+    "full_name": "Walter Smith",
+    "team": "Retired",
+    "nationality": "Scotland",
+    "position": "Manager",
+    "description": "Successful manager with Rangers in Scottish football."
+  },
+  {
+    "id": 25,
+    "last_name": "Deschamps M",
+    "img": "/football/img/players/Deschamps.webp",
+    "full_name": "Didier Deschamps",
+    "team": "France",
+    "nationality": "France",
+    "position": "Manager",
+    "description": "World Cup-winning manager with the French national team."
+  },
+  {
+    "id": 26,
+    "last_name": "Jesus",
+    "img": "/football/img/players/Jesus.webp",
+    "full_name": "Jorge Jesus",
+    "team": "Al Hilal",
+    "nationality": "Portugal",
+    "position": "Manager",
+    "description": "Successful manager in Portugal and Brazil."
+  },
+  {
+    "id": 27,
+    "last_name": "Scolari",
+    "img": "/football/img/players/Scolari.webp",
+    "full_name": "Luiz Felipe Scolari",
+    "team": "Altetico Mineiro",
+    "nationality": "Brazil",
+    "position": "Manager",
+    "description": "World Cup-winning manager with Brazil."
+  },
+  {
+    "id": 28,
+    "last_name": "Tuchel",
+    "img": "/football/img/players/Tuchel.webp",
+    "full_name": "Thomas Tuchel",
+    "team": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Tactical mastermind, success with PSG and Chelsea."
+  },
+  {
+    "id": 29,
+    "last_name": "Rodgers",
+    "img": "/football/img/players/Rodgers.webp",
+    "full_name": "Brendan Rodgers",
+    "team": "Celtic",
+    "nationality": "Northern Ireland",
+    "position": "Manager",
+    "description": "Known for his work with Leicester City and Celtic."
+  },
+  {
+    "id": 30,
+    "last_name": "Klinsmann M",
+    "img": "/football/img/players/Klinsmann.webp",
+    "full_name": "Jürgen Klinsmann",
+    "team": "South Korea",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Former Germany national team manager and World Cup winner as a player."
+  },
+  {
+    "id": 31,
+    "last_name": "Jardim",
+    "img": "/football/img/players/Jardim.webp",
+    "full_name": "Leonardo Jardim",
+    "team": "Al Rayyan",
+    "nationality": "Portugal",
+    "position": "Manager",
+    "description": "Successful spells with AS Monaco."
+  },
+  {
+    "id": 32,
+    "last_name": "Low",
+    "img": "/football/img/players/Low.webp",
+    "full_name": "Joachim Low",
+    "team": "No Club",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Long-serving Germany national team manager."
+  },
+  {
+    "id": 33,
+    "last_name": "Advocaat",
+    "img": "/football/img/players/Advocaat.webp",
+    "full_name": "Dick Advocaat",
+    "team": "No Club",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Experienced manager with various clubs and national teams."
+  },
+  {
+    "id": 34,
+    "last_name": "Aragones",
+    "img": "/football/img/players/Aragones.webp",
+    "full_name": "Luis Aragones",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Led Spain to Euro 2008 victory."
+  },
+  {
+    "id": 35,
+    "last_name": "Heynckes",
+    "img": "/football/img/players/Heynckes.webp",
+    "full_name": "Jupp Heynckes",
+    "team": "Retired",
+    "nationality": "German",
+    "position": "Manager",
+    "description": "Successful manager with Bayern Munich."
+  },
+  {
+    "id": 36,
+    "last_name": "Dalglish M",
+    "img": "/football/img/players/Dalglish.webp",
+    "full_name": "Kenny Dalglish",
+    "team": "No Club",
+    "nationality": "Scottish",
+    "position": "Manager",
+    "description": "Liverpool legend and former manager."
+  },
+  {
+    "id": 37,
+    "last_name": "van Basten M",
+    "img": "/football/img/players/van Basten.webp",
+    "full_name": "Marco van Basten",
+    "team": "No Club",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Former Dutch international and manager."
+  },
+  {
+    "id": 38,
+    "last_name": "Allegri",
+    "img": "/football/img/players/Allegri.webp",
+    "full_name": "Massimiliano Allegri",
+    "team": "Juventus",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Successful manager with Juventus and AC Milan."
+  },
+  {
+    "id": 39,
+    "last_name": "Koeman M",
+    "img": "/football/img/players/Koeman.webp",
+    "full_name": "Ronald Koeman",
+    "team": "Netherlands",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Former Barcelona and Netherlands national team manager."
+  },
+  {
+    "id": 40,
+    "last_name": "Houllier",
+    "img": "/football/img/players/Houllier.webp",
+    "full_name": "Gerard Houllier",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Manager",
+    "description": "French manager with spells at Liverpool and Lyon."
+  },
+  {
+    "id": 41,
+    "last_name": "Villas-Boas",
+    "img": "/football/img/players/Boas.webp",
+    "full_name": "Andre Villas-Boas",
+    "team": "No Club",
+    "nationality": "Portugal",
+    "position": "Manager",
+    "description": "Talented manager with stints at Chelsea and Tottenham."
+  },
+  {
+    "id": 42,
+    "last_name": "Bilic",
+    "img": "/football/img/players/Bilic.webp",
+    "full_name": "Slaven Bilic",
+    "team": "Al Fateh",
+    "nationality": "Croatia",
+    "position": "Manager",
+    "description": "Former Croatian national team manager."
+  },
+  {
+    "id": 43,
+    "last_name": "Hodgson",
+    "img": "/football/img/players/Hodgson.webp",
+    "full_name": "Roy Hodgson",
+    "team": "Crystal Palace",
+    "nationality": "England",
+    "position": "Manager",
+    "description": "Experienced English manager with various clubs."
+  },
+  {
+    "id": 44,
+    "last_name": "Camacho",
+    "img": "/football/img/players/Camacho.webp",
+    "full_name": "Jose Antonio Camacho",
+    "team": "No Club",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Former Spain national team manager."
+  },
+  {
+    "id": 45,
+    "last_name": "Terim",
+    "img": "/football/img/players/Terim.webp",
+    "full_name": "Fatih Terim",
+    "team": "Panathinaikos",
+    "nationality": "Turkey",
+    "position": "Manager",
+    "description": "Successful manager with the Turkish national team."
+  },
+  {
+    "id": 46,
+    "last_name": "Flores",
+    "img": "/football/img/players/Flores.webp",
+    "full_name": "Quique Sánchez Flores",
+    "team": "Sevilla",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Experienced manager with various clubs."
+  },
+  {
+    "id": 47,
+    "last_name": "Schuster",
+    "img": "/football/img/players/Schuster.webp",
+    "full_name": "Bernd Schuster",
+    "team": "No Club",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Former German international and manager."
+  },
+  {
+    "id": 48,
+    "last_name": "Matteo",
+    "img": "/football/img/players/Matteo.webp",
+    "full_name": "Roberto Di Matteo",
+    "team": "Jeonbuk",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Won the Champions League with Chelsea."
+  },
+  {
+    "id": 49,
+    "last_name": "Martinez",
+    "img": "/football/img/players/Martinez.webp",
+    "full_name": "Roberto Martínez",
+    "team": "Portugal",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Manager of the Portugal national team."
+  },
+  {
+    "id": 50,
+    "last_name": "Enrique M",
+    "img": "/football/img/players/Enrique.webp",
+    "full_name": "Luis Enrique",
+    "team": "PSG",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Former Barcelona manager and Spain national team coach."
+  },
+    {
+    "id": 51,
+    "last_name": "Simeone",
+    "img": "/football/img/players/Simeone.webp",
+    "full_name": "Diego Simeone",
+    "team": "Atletico Madrid",
+    "nationality": "Argentina",
+    "position": "Manager",
+    "description": "Renowned manager, known for his defensive tactics with Atlético Madrid."
+  },
+  {
+    "id": 55,
+    "last_name": "Pochettino",
+    "img": "/football/img/players/Pochettino.webp",
+    "full_name": "Mauricio Pochettino",
+    "team": "Chelsea",
+    "nationality": "Argentina",
+    "position": "Manager",
+    "description": "Known for his work with Tottenham and Paris Saint-Germain."
+  },
+  {
+    "id": 59,
+    "last_name": "ten Hag",
+    "img": "/football/img/players/ten Hag.webp",
+    "full_name": "Erik ten Hag",
+    "team": "Manchester United",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Current manager of Ajax, known for his attacking football."
+  },
+  {
+    "id": 60,
+    "last_name": "Favre",
+    "img": "/football/img/players/Favre.webp",
+    "full_name": "Lucien Favre",
+    "team": "No Club",
+    "nationality": "Switzerland",
+    "position": "Manager",
+    "description": "Experienced manager with clubs in France and Germany."
+  },
+  {
+    "id": 62,
+    "last_name": "F de Boer",
+    "img": "/football/img/players/F de Boer.webp",
+    "full_name": "Frank de Boer",
+    "team": "Al Jazira",
+    "nationality": "Netherlands",
+    "position": "Manager",
+    "description": "Former manager of the Netherlands national team."
+  },
+  {
+    "id": 64,
+    "last_name": "Sarri",
+    "img": "/football/img/players/Sarri.webp",
+    "full_name": "Maurizio Sarri",
+    "team": "Lazio",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Known for his 'Sarri-ball' style of play."
+  },
+  {
+    "id": 65,
+    "last_name": "Allardyce",
+    "img": "/football/img/players/Allardyce.webp",
+    "full_name": "Sam Allardyce",
+    "team": "Leeds United",
+    "nationality": "England",
+    "position": "Manager",
+    "description": "Experienced manager in English football."
+  },
+  {
+    "id": 66,
+    "last_name": "Nancy",
+    "img": "/football/img/players/Nancy.webp",
+    "full_name": "Wilfried Nancy",
+    "team": "Columbus Crew",
+    "nationality": "France",
+    "position": "Manager",
+    "description": "Strategic, progressive, inspiring french soccer team manager."
+},
+{
+    "id": 67,
+    "last_name": "S Inzaghi",
+    "img": "/football/img/players/S Inzaghi.webp",
+    "full_name": "Simone Inzaghi",
+    "team": "Inter Milan",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Tactically astute, passionate, former player, Serie A winner."
+  },
+  {
+    "id": 68,
+    "last_name": "Spalletti",
+    "img": "/football/img/players/Spalletti.webp",
+    "full_name": "Luciano Spalletti",
+    "team": "Italy",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Experienced, strategic, Serie A veteran, known for innovation."
+  },
+  {
+    "id": 69,
+    "last_name": "Scaloni",
+    "img": "/football/img/players/Scaloni.webp",
+    "full_name": "Lionel Scaloni",
+    "team": "Argentina",
+    "nationality": "Argentina",
+    "position": "Manager",
+    "description": "Young, promising, national hero, Copa America champion coach.."
+  },
+  {
+    "id": 70,
+    "last_name": "Arteta",
+    "img": "/football/img/players/Arteta.webp",
+    "full_name": "Mikel Arteta",
+    "team": "Arsenal",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Innovative, disciplined, Guardiola protégé, rebuilding Arsenal successfully.."
+  },
+  {
+    "id": 71,
+    "last_name": "Nagelsmann",
+    "img": "/football/img/players/Nagelsmann.webp",
+    "full_name": "Julian Nagelsmann",
+    "team": "Germany",
+    "nationality": "Germany",
+    "position": "Manager",
+    "description": "Young, tactical genius, high-press advocate, future star."
+  },
+  {
+    "id": 72,
+    "last_name": "Pioli",
+    "img": "/football/img/players/Pioli.webp",
+    "full_name": "Stefano Pioli",
+    "team": "AC Milan",
+    "nationality": "Italy",
+    "position": "Manager",
+    "description": "Resilient, tactical flexibility, Serie A achiever, Milan revival."
+  },
+  {
+    "id": 73,
+    "last_name": "Xavi M",
+    "img": "/football/img/players/Xavi.webp",
+    "full_name": "Xavi",
+    "team": "Barcelona",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Barcelona legend, tiki-taka master, intelligent, youth promoter."
+  },
+  {
+    "id": 74,
+    "last_name": "Emery",
+    "img": "/football/img/players/Emery.webp",
+    "full_name": "Unai Emery",
+    "team": "Aston Villa",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Tactical, Europa League specialist, adaptable, experienced manager."
+  },
+  {
+    "id": 75,
+    "last_name": "Postecoglou",
+    "img": "/football/img/players/Postecoglou.webp",
+    "full_name": "Ange Postecoglou",
+    "team": "Tottenham Hotspur",
+    "nationality": "Australia",
+    "position": "Manager",
+    "description": "Bold, attacking style, Australian, quickly adapting in Europe."
+  },
+  {
+    "id": 76,
+    "last_name": "Fuente",
+    "img": "/football/img/players/Fuente.webp",
+    "full_name": "Luis de la Fuente",
+    "team": "Spain",
+    "nationality": "Spain",
+    "position": "Manager",
+    "description": "Spanish youth success, tactical, promising national team coach"
+  },
+  {
+    "id": 77,
+    "last_name": "Southgate",
+    "img": "/football/img/players/Southgate.webp",
+    "full_name": "Gareth Southgate",
+    "team": "England",
+    "nationality": "England",
+    "position": "Manager",
+    "description": "Dignified, brought unity, England revivalist, penalty woes solver."
+  }
+]

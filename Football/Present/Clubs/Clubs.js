@@ -62,7 +62,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "n the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
+            sideModal.textContent = "In the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -103,7 +103,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
+            sideModal.textContent = "Last year, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -136,13 +136,13 @@ function updatePlayerInfo() {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/paris sg.webp";
+        smallpic.src = "/football/img/logos/psg.webp";
 
         MainFetchPopUp("/football/present/clubs/json/paris saint-germain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
+            sideModal.textContent = "Last year, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -182,7 +182,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
+            sideModal.textContent = "Last year, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -223,7 +223,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
+            sideModal.textContent = "Last year, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -344,7 +344,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -383,7 +383,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
+            sideModal.textContent = "Last year, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -424,7 +424,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
+            sideModal.textContent = "Last year, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -544,7 +544,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
+            sideModal.textContent = "Last year, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -665,7 +665,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
+            sideModal.textContent = "Last year, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -755,7 +755,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "n the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
+            sideModal.textContent = "In the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -796,7 +796,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
+            sideModal.textContent = "Last year, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -829,13 +829,13 @@ const updateDropdown = () => {
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/paris sg.webp";
+        smallpic.src = "/football/img/logos/psg.webp";
 
         MainFetchPopUp("/football/present/clubs/json/paris saint-germain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
+            sideModal.textContent = "Last year, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -875,7 +875,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
+            sideModal.textContent = "Last year, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -916,7 +916,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
+            sideModal.textContent = "Last year, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1037,7 +1037,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1076,7 +1076,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
+            sideModal.textContent = "Last year, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1117,7 +1117,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
+            sideModal.textContent = "Last year, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1237,7 +1237,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
+            sideModal.textContent = "Last year, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1358,7 +1358,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
+            sideModal.textContent = "Last year, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
         })
 
         smallpic.addEventListener("mouseout", () => {
