@@ -10,7 +10,9 @@ const PF2 = document.getElementById("PF2");
 const C = document.getElementById("C");
 const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
-const sideModal = document.querySelector(".side-modal")
+const sideModal = document.querySelector(".side-modal");
+const managers = document.querySelector(".managers");
+const man_img = document.querySelector(".man_wrapper img");
 
 let selectedYear = 0
 
@@ -43,6 +45,9 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        // managers.textContent = "Head Coach: Jose Mourinho"
+        // man_img.src = "/football/img/managers/mourinho.webp"
     }
 
 

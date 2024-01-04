@@ -3,11 +3,11 @@
         "id": 1,
         "last_name": "Stutzle",
         "img": "/hockey/img/players/Stutzle.jpg",
-        "full_name": "Timo Stutzle",
+        "full_name": "Tim Stutzle",
         "team": "Ottawa Senators",
         "nationality": "Germany",
-        "position": "Left Winger",
-        "description": "German left winger, known for his dynamic play and offensive talent with the Ottawa Senators."
+        "position": "Center",
+        "description": "German center, known for his dynamic play and offensive talent with the Ottawa Senators."
     },
     {
         "id": 2,
@@ -26,8 +26,8 @@
         "full_name": "Nico Sturm",
         "team": "San Jose Sharks",
         "nationality": "Germany",
-        "position": "Right Winger",
-        "description": "German right winger, valued for his work ethic."
+        "position": "Center",
+        "description": "German center, valued for his work ethic."
     },
     {
         "id": 4,
@@ -36,7 +36,7 @@
         "full_name": "Moritz Seider",
         "team": "Detroit Red Wings",
         "nationality": "Germany",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "German defenseman, recognized for his physicality and defensive prowess with the Detroit Red Wings."
     },
     {

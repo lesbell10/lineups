@@ -6,7 +6,7 @@
         "full_name": "Jonathan Toews",
         "birth_date": "29-04-1988",
 
-        "team": "Chicago Blackhawks",
+        "team": "Free Agent",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'2\"",
@@ -76,11 +76,11 @@
         "full_name": "Jonathan Quick",
         "birth_date": "21-01-1986",
 
-        "team": "Los Angeles Kings",
+        "team": "New York Rangers",
         "nationality": "USA",
         "position": "Goaltender",
         "height": "6'1\"",
 
-        "description": "American goaltender, a vital part of the Los Angeles Kings."
+        "description": "American goaltender, a former vital part of the Los Angeles Kings."
     }
 ]

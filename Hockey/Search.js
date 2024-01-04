@@ -2,7 +2,7 @@ const label = document.querySelector(".label");
 const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
-const itemsPerPage = 52;
+const itemsPerPage = 110;
 let includeRetired = true;
 
 // Function to load JSON data from a file
@@ -285,9 +285,8 @@ function displayResults(players) {
         resultsContainer.appendChild(wrapperDiv);
 
         const message = players.length === 1
-            ? `<h1>${players.length} person found</h1>`
-            : `<h1>${players.length} people found</h1>`;
-
+            ? `<h1>${players.length} player found</h1>`
+            : `<h1>${players.length} players found</h1>`;
         document.getElementById('count').innerHTML = message
 
     });

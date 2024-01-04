@@ -36,7 +36,7 @@
         "full_name": "Jan Rutta",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
-        "position": "Right Defenseman",
+        "position": "Defenseman",
         "description": "Czech defenseman with a solid defensive game."
     },
     {
@@ -46,7 +46,7 @@
         "full_name": "Radim Simek",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
-        "position": "Left Defenseman",
+        "position": "Defenseman",
         "description": "Czech defenseman known for his physical play."
     },
     {
@@ -57,6 +57,6 @@
         "team": "New Jersey Devils",
         "nationality": "Czech Republic",
         "position": "Goaltender",
-        "description": "Czech goaltender with promising skills for the Capitals."
+        "description": "Czech goaltender with promising skills for the Devils."
     }
 ]

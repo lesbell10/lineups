@@ -88,7 +88,6 @@ Promise.all([
     loadJSON('/football/past/nations/json/portugal.json'),
     loadJSON('/football/past/nations/json/belgium.json'),
     loadJSON('/football/past/nations/json/netherlands.json'),
-    loadJSON('/football/Managers.json'),
 ]).then(files => {
     allPlayers = files.flat();
     // Now allPlayers contains data from both files
@@ -271,8 +270,8 @@ function displayResults(players) {
         resultsContainer.appendChild(wrapperDiv);
 
         const message = players.length === 1
-            ? `<h1>${players.length} person found</h1>`
-            : `<h1>${players.length} people found</h1>`;
+            ? `<h1>${players.length} player found</h1>`
+            : `<h1>${players.length} players found</h1>`;
         document.getElementById('count').innerHTML = message
 
     });

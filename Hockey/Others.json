@@ -1936,7 +1936,7 @@
         "last_name": "Orlov",
         "img": "/hockey/img/players/Orlov.jpg",
         "full_name": "Dmitry Orlov",
-        "team": "Dmitry Orlov",
+        "team": "Carolina Hurricanes",
         "nationality": "Russia",
         "position": "Defenseman",
         "description": "Russian defenseman known for offensive skills and versatility."
@@ -2477,9 +2477,9 @@
   "img": "/hockey/img/players/Struble.jpg",
   "full_name": "Jayden Struble",
   "team": "Montreal Canadiens",
-  "nationality": "Canada",
+  "nationality": "USA",
   "position": "Defenseman",
-  "description": "Promising, talented Canadian defenseman, bright future."
+  "description": "Promising, talented American defenseman, bright future."
 },
 {
   "id": 242,
@@ -2523,8 +2523,8 @@
 },
 {
   "id": 246,
-  "last_name": "Primeau",
-  "img": "/hockey/img/players/Primeau.jpg",
+  "last_name": "C Primeau",
+  "img": "/hockey/img/players/C Primeau.jpg",
   "full_name": "Cayden Primeau",
   "team": "Montreal Canadiens",
   "nationality": "USA",

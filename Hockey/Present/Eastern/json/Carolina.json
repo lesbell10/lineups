@@ -6,7 +6,7 @@
     "full_name": "Andrei Svechnikov",
     "birth_date": "26-03-2000",
 
-    "position": "Left Forward",
+    "position": "Right Winger",
     "team": "Carolina Hurricanes",
     "nationality": "Russia",
     "height": "6'2\"",
@@ -45,11 +45,11 @@
     "full_name": "Jaccob Slavin",
     "birth_date": "01-05-1994",
 
-    "position": "Left Defender",
+    "position": "Defenseman",
     "team": "Carolina Hurricanes",
     "nationality": "USA",
     "height": "6'3\"",
-    "description": "Solid left back known for his defensive skills."
+    "description": "Solid defenseman known for his defensive skills."
   },
   {
     "id": 5,

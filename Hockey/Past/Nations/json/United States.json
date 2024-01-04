@@ -35,7 +35,7 @@
         "img": "/hockey/img/players/Suter.jpg",
         "full_name": "Ryan Suter",
         "team": "Dallas Stars",
-        "nationality": "American",
+        "nationality": "USA",
         "position": "Defenseman",
         "description": "American defenseman, reliable blueliner."
     },
@@ -55,7 +55,7 @@
         "img": "/hockey/img/players/Quick.jpg",
         "full_name": "Jonathan Quick",
         "team": "New York Rangers",
-        "nationality": "American",
+        "nationality": "USA",
         "position": "Goaltender",
         "description": "American goaltender, known for his quick reflexes."
     }

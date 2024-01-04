@@ -50,10 +50,10 @@
 
     "team": "Detroit Red Wings",
     "nationality": "Germany",
-    "position": "Left Defenseman",
+    "position": "Defenseman",
     "height": "6'4\"",
 
-    "description": "Talented German left defenseman with great size."
+    "description": "Talented German defenseman with great size."
   },
   {
     "id": 5,
@@ -64,7 +64,7 @@
 
     "team": "Detroit Red Wings",
     "nationality": "USA",
-    "position": "Right Defenseman",
+    "position": "Defenseman",
     "height": "6'3\"",
 
     "description": "Experienced right defenseman with offensive skills."

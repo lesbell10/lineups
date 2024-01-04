@@ -268,8 +268,8 @@ function displayResults(players) {
         resultsContainer.appendChild(wrapperDiv);
 
         const message = players.length === 1
-            ? `<h1>${players.length} person found</h1>`
-            : `<h1>${players.length} people found</h1>`;
+            ? `<h1>${players.length} player found</h1>`
+            : `<h1>${players.length} players found</h1>`;
 
         document.getElementById('count').innerHTML = message
     });

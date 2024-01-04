@@ -507,3 +507,31 @@ h6 {
     color: white;
     display: none;
 }
+
+.wrapper {
+    display: flex;
+}
+
+.managers {
+    max-width:50%;
+    margin-left: 50px;
+    margin-top: 560px;
+    padding: 0 7px;
+    color: white;
+    font-size: 25px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.managers:hover {
+    text-decoration: underline;
+}
+
+.man_wrapper img {
+    height: 40px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+

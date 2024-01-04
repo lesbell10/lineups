@@ -126,6 +126,7 @@ option {
 }
 
 .carousel img:hover {
+    /* border: white solid 2px; */
     height:21%;
     transform: translateY(-40px);
 }
