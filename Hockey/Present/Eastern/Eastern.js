@@ -50,7 +50,7 @@ function updatePlayerInfo() {
     }
     if (selectedYear == "1") {
         FL.textContent = "J Skinner";
-        FC.textContent = "Thompson";
+        FC.textContent = "T Thompson";
         FR.textContent = "Tuch";
         DL.textContent = "Dahlin";
         DR.textContent = "Power";

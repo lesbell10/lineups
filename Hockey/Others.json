@@ -1103,9 +1103,9 @@
   },
   {
     "id": 88,
-    "last_name": "Giguère",
+    "last_name": "Giguere",
     "img": "/hockey/img/players/Giguere.jpg",
-    "full_name": "Jean-Sébastien Giguère",
+    "full_name": "J-S Giguere",
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goaltender",
@@ -1499,7 +1499,7 @@
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Winger",
-        "description": "Canadian former professional hockey player, known for his longevity and scoring ability. Played for Retired."
+        "description": "Canadian former professional hockey player, known for his longevity and scoring ability."
     },
     {
         "id": 128,
@@ -1518,8 +1518,8 @@
         "full_name": "Benoit Brunet",
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Center",
-        "description": "Canadian center known for two-way play."
+        "position": "Left Winger",
+        "description": "Canadian left winger known for two-way play."
     },
     {
         "id": 130,
@@ -1583,9 +1583,9 @@
     },
     {
         "id": 136,
-        "last_name": "Gagné",
+        "last_name": "Gagne",
         "img": "/hockey/img/players/Gagne.jpg",
-        "full_name": "Simon Gagné",
+        "full_name": "Simon Gagne",
         "team": "Retired",
         "nationality": "Canada",
         "position": "Left Winger",
@@ -1602,21 +1602,11 @@
         "description": "Canadian center known for two-way play."
     },
     {
-        "id": 138,
-        "last_name": "Carter",
-        "img": "/hockey/img/players/Carter.jpg",
-        "full_name": "Jeff Carter",
-        "team": "Pittsburgh Penguins",
-        "nationality": "Canada",
-        "position": "Center",
-        "description": "Canadian center known for scoring ability."
-    },
-    {
         "id": 139,
         "last_name": "J Staal",
         "img": "/hockey/img/players/J Staal.jpg",
         "full_name": "Jordan Staal",
-        "team": "Retired",
+        "team": "Carolina Hurricanes",
         "nationality": "Canada",
         "position": "Center",
         "description": "Canadian center known for defensive play."
@@ -1628,8 +1618,8 @@
         "full_name": "Patrick Marleau",
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Left Winger",
-        "description": "Canadian winger known for longevity and scoring."
+        "position": "Center",
+        "description": "Canadian center known for longevity and scoring."
     },
     {
         "id": 141,
@@ -2028,7 +2018,7 @@
         "full_name": "Adrian Kempe",
         "team": "Los Angeles Kings",
         "nationality": "Sweden",
-        "position": "Left Winger",
+        "position": "Right Winger",
         "description": "Swedish left winger with offensive ability and defensive contributions."
     },
     {
@@ -2220,16 +2210,6 @@
         "nationality": "Czech Republic",
         "position": "Right Winger",
         "description": "Legendary Czech right winger with an illustrious NHL career."
-    },
-    {
-        "id": 201,
-        "last_name": "P Forsberg",
-        "img": "/hockey/img/players/P Forsberg.jpg",
-        "full_name": "Peter Forsberg",
-        "team": "Retired",
-        "nationality": "Sweden",
-        "position": "Center",
-        "description": "Swedish center known for skill and two-way play."
     },
     {
         "id": 202,

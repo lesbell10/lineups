@@ -32,10 +32,10 @@
   {
     "id": 4,
     "last_name": "T Duncan",
-    "img": "/basket/img/players/T Duncan.webp",
+    "img": "/basket/img/players/T Duncan.png",
     "full_name": "Tim Duncan",
     "team": "Retired",
-    "nationality": "Virgin Islands",
+    "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "One of the greatest power forwards in NBA history and Spurs legend."
   },

@@ -1,20 +1,6 @@
 [
   {
     "id": 1,
-    "last_name": "A Iverson",
-    "img": "/basket/img/players/A Iverson.png",
-    "full_name": "Allen Iverson",
-    "birth_date": "07-06-1975",
-    "birthplace": "Hampton, USA",
-    "team": "Retired",
-    "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
-    "height": "6'0\"",
-
-    "description": "Hall of Fame basketball legend."
-  },
-  {
-    "id": 2,
     "last_name": "T McGrady",
     "img": "/basket/img/players/T McGrady.png",
     "full_name": "Tracy McGrady",

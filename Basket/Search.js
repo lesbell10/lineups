@@ -2,7 +2,7 @@ const label = document.querySelector(".label");
 const description = document.getElementById("desc");
 let allPlayers = [];
 let currentPage = 1;
-const itemsPerPage = 40;
+const itemsPerPage = 110;
 let includeRetired = true;
 
 // Function to load JSON data from a file
@@ -14,6 +14,12 @@ function loadJSON(filePath) {
 
 // Load data from both files and merge them
 Promise.all([
+    loadJSON('/basket/everyyear/json/EveryYear_2004.json'),
+    loadJSON('/basket/everyyear/json/EveryYear_2005.json'),
+    loadJSON('/basket/everyyear/json/EveryYear_2006.json'),
+    loadJSON('/basket/everyyear/json/EveryYear_2007.json'),
+    loadJSON('/basket/everyyear/json/EveryYear_2008.json'),
+    loadJSON('/basket/everyyear/json/EveryYear_2009.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2010.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2011.json'),
     loadJSON('/basket/everyyear/json/EveryYear_2012.json'),
