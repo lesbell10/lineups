@@ -1,67 +1,62 @@
-{
-  "1": {
+[
+  {
+    "id": 1,
     "last_name": "C Paul",
     "img": "/basket/img/players/C Paul.png",
     "full_name": "Chris Paul",
     "birth_date": "06-05-1985",
-
     "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
-
     "description": "Talented point guard with excellent court vision."
   },
-  "2": {
+  {
+    "id": 2,
     "last_name": "D Wade",
     "img": "/basket/img/players/D Wade.png",
     "full_name": "Dwyane Wade",
     "birth_date": "17-01-1982",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "height": "6'4\"",
-
     "description": "Dynamic shooting guard known for clutch performances."
   },
-  "3": {
+  {
+    "id": 3,
     "last_name": "K Bryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Small Forward", "Shooting Guard"],
     "height": "6'6\"",
-
     "description": "Legendary player known for scoring and competitiveness."
   },
-  "4": {
+  {
+    "id": 4,
     "last_name": "L James",
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-
     "description": "One of the greatest basketball players of all time."
   },
-  "5": {
+  {
+    "id": 5,
     "last_name": "K Garnett",
     "img": "/basket/img/players/K Garnett.png",
     "full_name": "Kevin Garnett",
     "birth_date": "19-05-1976",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'11\"",
-
     "description": "Versatile forward/center with intense defensive skills."
   }
-}
+]

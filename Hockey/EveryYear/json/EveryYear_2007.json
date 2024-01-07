@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alex Ovechkin",
         "birth_date": "17-09-1985",
-
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-
         "description": "Russian left winger, prolific scorer for the Washington Capitals."
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/Thornton.jpg",
         "full_name": "Joe Thornton",
         "birth_date": "02-07-1979",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'4\"",
-
         "description": "Canadian center, skilled veteran for the San Jose Sharks."
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/Jagr.jpg",
         "full_name": "Jaromir Jagr",
         "birth_date": "15-02-1972",
-
         "team": "Retired",
         "nationality": "Czech Republic",
         "position": "Right Winger",
         "height": "6'3\"",
-
         "description": "Czech right winger, legendary presence in the NHL."
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'1\"",
-
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history."
     },
     {
@@ -61,12 +53,10 @@
         "img": "/hockey/img/players/Pronger.jpg",
         "full_name": "Chris Pronger",
         "birth_date": "10-10-1974",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'6\"",
-
         "description": "Canadian defenseman, dominant presence in the NHL."
     },
     {
@@ -75,12 +65,10 @@
         "img": "/hockey/img/players/Brodeur.jpg",
         "full_name": "Martin Brodeur",
         "birth_date": "06-05-1972",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goaltender",
         "height": "6'2\"",
-
         "description": "Canadian goaltender, legendary figure for the New Jersey Devils."
     }
 ]

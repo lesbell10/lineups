@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-
         "description": "Russian forward, an iconic figure for the Washington Capitals"
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/Malkin.jpg",
         "full_name": "Evgeni Malkin",
         "birth_date": "31-07-1986",
-
         "team": "Pittsburgh Penguins",
         "nationality": "Russia",
         "position": "Center",
         "height": "6'3\"",
-
         "description": "Russian center, a dynamic force for the Pittsburgh Penguins"
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/Iginla.jpg",
         "full_name": "Jarome Iginla",
         "birth_date": "01-07-1977",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Winger",
         "height": "6'1\"",
-
         "description": "Canadian right winger, a legendary player for the Calgary Flames"
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'1\"",
-
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history"
     },
     {
@@ -61,12 +53,10 @@
         "img": "/hockey/img/players/Phaneuf.jpg",
         "full_name": "Dion Phaneuf",
         "birth_date": "10-04-1985",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'4\"",
-
         "description": "Canadian defenseman, known for his physical play in the NHL"
     },
     {
@@ -75,12 +65,10 @@
         "img": "/hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "birth_date": "04-04-1979",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goaltender",
         "height": "6'3\"",
-
         "description": "Canadian goaltender, a reliable presence for the Vancouver Canucks"
     }
 ]

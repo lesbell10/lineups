@@ -5,12 +5,10 @@
     "img": "/basket/img/players/CPaul.png",
     "full_name": "Chris Paul",
     "birth_date": "06-05-1985",
-
     "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
-
     "description": "Veteran floor general and assist maestro."
   },
   {
@@ -19,12 +17,10 @@
     "img": "/basket/img/players/D Wade.png",
     "full_name": "Dwyane Wade",
     "birth_date": "17-01-1982",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "height": "6'4\"",
-
     "description": "Three-time NBA champion and Finals MVP."
   },
   {
@@ -33,12 +29,10 @@
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'6\"",
-
     "description": "NBA legend with five championship rings."
   },
   {
@@ -47,12 +41,10 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-
     "description": "Four-time NBA champion and four-time MVP."
   },
   {
@@ -61,12 +53,10 @@
     "img": "/basket/img/players/D Howard.png",
     "full_name": "Dwight Howard",
     "birth_date": "08-12-1985",
-
     "team": "Beer Leopards (Taiwan)",
     "nationality": "USA",
     "positions": ["Center"],
     "height": "6'10\"",
-
     "description": "Three-time NBA Defensive Player of the Year."
   }
 ]

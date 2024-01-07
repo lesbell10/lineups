@@ -30,16 +30,6 @@
     "description": "Rising superstar with incredible versatility."
   },
   {
-    "id": 5,
-    "last_name": "S O'Neal",
-    "img": "/basket/img/players/S O'Neal.webp",
-    "full_name": "Shaquille O'Neal",
-    "team": "Retired",
-    "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
-    "description": "Dominant force in the post and NBA champion."
-  },
-  {
     "id": 4,
     "last_name": "T Duncan",
     "img": "/basket/img/players/T Duncan.png",
@@ -48,5 +38,15 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "Legendary big man and NBA champion."
+  },
+  {
+    "id": 5,
+    "last_name": "S O'Neal",
+    "img": "/basket/img/players/S O'Neal.webp",
+    "full_name": "Shaquille O'Neal",
+    "team": "Retired",
+    "nationality": "USA",
+    "positions": ["Power Forward", "Center"],
+    "description": "Dominant force in the post and NBA champion."
   }
 ]

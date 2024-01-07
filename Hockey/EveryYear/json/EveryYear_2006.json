@@ -5,12 +5,10 @@
     "img": "/hockey/img/players/Iginla.jpg",
     "full_name": "Jarome Iginla",
     "birth_date": "01-07-1977",
-
     "team": "Retired",
     "nationality": "Canada",
     "position": "Right Winger",
     "height": "6'1\"",
-
     "description": "Prolific scorer for the Calgary Flames."
   },
   {
@@ -19,12 +17,10 @@
     "img": "/hockey/img/players/Sakic.jpg",
     "full_name": "Joe Sakic",
     "birth_date": "07-07-1969",
-
     "team": "Retired",
     "nationality": "Canada",
     "position": "Center",
     "height": "5'11\"",
-
     "description": "Legendary figure for the Colorado Avalanche."
   },
   {
@@ -33,12 +29,10 @@
     "img": "/hockey/img/players/P Forsberg.jpg",
     "full_name": "Peter Forsberg",
     "birth_date": "20-07-1973",
-
     "team": "Retired",
     "nationality": "Sweden",
     "position": "Center",
     "height": "6'0\"",
-
     "description": "Key player for the Colorado Avalanche."
   },
   {
@@ -47,12 +41,10 @@
     "img": "/hockey/img/players/S Niedermayer.jpg",
     "full_name": "Scott Niedermayer",
     "birth_date": "31-08-1973",
-
     "team": "Retired",
     "nationality": "Canada",
     "position": "Defenseman",
     "height": "6'1\"",
-
     "description": "Key figure for the New Jersey Devils."
   },
   {
@@ -61,12 +53,10 @@
     "img": "/hockey/img/players/Lidstrom.jpg",
     "full_name": "Nicklas Lidstrom",
     "birth_date": "28-04-1970",
-
     "team": "Retired",
     "nationality": "Sweden",
     "position": "Defenseman",
     "height": "6'1\"",
-
     "description": "Stalwart for the Detroit Red Wings."
   },
   {
@@ -75,12 +65,10 @@
     "img": "/hockey/img/players/Brodeur.jpg",
     "full_name": "Martin Brodeur",
     "birth_date": "06-05-1972",
-
     "team": "Retired",
     "nationality": "Canada",
     "position": "Goaltender",
     "height": "6'2\"",
-
     "description": "Legendary figure for the New Jersey Devils."
   }
 ]

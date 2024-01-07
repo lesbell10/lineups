@@ -5,12 +5,10 @@
     "img": "/basket/img/players/S Curry.png",
     "full_name": "Stephen Curry",
     "birth_date": "14-03-1988",
-
     "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard", "Shooting Guard"],
     "height": "6'3\"",
-
     "description": "Two-time MVP, three-time NBA champion."
   },
   {
@@ -19,12 +17,10 @@
     "img": "/basket/img/players/J Harden.png",
     "full_name": "James Harden",
     "birth_date": "26-08-1989",
-
     "team": "Los Angeles Clippers",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Point Guard"],
     "height": "6'5\"",
-
     "description": "Former NBA MVP and prolific scorer."
   },
   {
@@ -33,12 +29,10 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-
     "description": "Four-time NBA champion and four-time MVP."
   },
   {
@@ -47,12 +41,10 @@
     "img": "/basket/img/players/K Durant.png",
     "full_name": "Kevin Durant",
     "birth_date": "29-09-1988",
-
     "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "height": "6'10\"",
-
     "description": "Two-time NBA champion and NBA Finals MVP."
   },
   {
@@ -61,12 +53,10 @@
     "img": "/basket/img/players/A Davis.png",
     "full_name": "Anthony Davis",
     "birth_date": "11-03-1993",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'10\"",
-
     "description": "NBA champion and elite defensive player."
   }
 ]

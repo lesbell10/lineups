@@ -5,12 +5,10 @@
     "img": "/basket/img/players/C Paul.png",
     "full_name": "Chris Paul",
     "birth_date": "06-05-1985",
-
     "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
-
     "description": "Veteran floor general and assist maestro."
   },
   {
@@ -19,12 +17,10 @@
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'6\"",
-
     "description": "NBA legend with five championship rings."
   },
   {
@@ -33,12 +29,10 @@
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-
     "description": "Four-time NBA champion and four-time MVP."
   },
   {
@@ -47,12 +41,10 @@
     "img": "/basket/img/players/K Durant.png",
     "full_name": "Kevin Durant",
     "birth_date": "29-09-1988",
-
     "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "height": "6'10\"",
-
     "description": "Two-time NBA champion and NBA Finals MVP."
   },
   {
@@ -61,12 +53,10 @@
     "img": "/basket/img/players/C Anthony.png",
     "full_name": "Carmelo Anthony",
     "birth_date": "29-05-1984",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "height": "6'8\"",
-
     "description": "Versatile scorer with multiple All-Star selections."
   }
 ]

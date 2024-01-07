@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/Lecavalier.jpg",
         "full_name": "Vincent Lecavalier",
         "birth_date": "21-04-1980",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Left Winger",
         "height": "6'4\"",
-
         "description": "Canadian left winger, prominent figure for the Tampa Bay Lightning"
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-
         "description": "Canadian center, cornerstone player for the Pittsburgh Penguins"
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/Thornton.jpg",
         "full_name": "Joe Thornton",
         "birth_date": "02-07-1979",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'4\"",
-
         "description": "Canadian center, skilled veteran for the San Jose Sharks"
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
-
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'1\"",
-
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history"
     },
     {
@@ -61,12 +53,10 @@
         "img": "/hockey/img/players/Pronger.jpg",
         "full_name": "Chris Pronger",
         "birth_date": "10-10-1974",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'6\"",
-
         "description": "Canadian defenseman, dominant presence in the NHL"
     },
     {
@@ -75,12 +65,10 @@
         "img": "/hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "birth_date": "04-04-1979",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goaltender",
         "height": "6'3\"",
-
         "description": "Canadian goaltender, a reliable presence for the Vancouver Canucks"
     }
 ]

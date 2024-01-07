@@ -5,12 +5,10 @@
       "full_name": "Stephen Curry",
       "img": "/basket/img/players/S Curry.png",
       "birth_date": "14-03-1988",
-
       "team": "Golden State Warriors",
       "nationality": "USA",
       "positions": ["Point Guard", "Shooting Guard"],
       "height": "6'2\"",
-
       "description": "Elite shooter with multiple NBA championships."
     },
     {
@@ -19,12 +17,10 @@
       "full_name": "LeBron James",
       "img": "/basket/img/players/l james.png",
       "birth_date": "30-12-1984",
-
       "team": "Los Angeles Lakers",
       "nationality": "USA",
       "positions": ["Small Forward", "Power Forward"],
       "height": "6'9\"",
-
       "description": "NBA legend and versatile forward with numerous accolades."
     },
     {
@@ -33,12 +29,10 @@
       "full_name": "G Antetokounmpo",
       "img": "/basket/img/players/g Antetokounmpo.png",
       "birth_date": "06-12-1994",
-
       "team": "Milwaukee Bucks",
       "nationality": "Greece",
       "positions": ["Small Forward", "Power Forward"],
       "height": "6'11\"",
-
       "description": "Greek Freak known for athleticism and versatility."
     },
     {
@@ -47,12 +41,10 @@
       "full_name": "Nikola Jokic",
       "img": "/basket/img/players/N Jokic.png",
       "birth_date": "19-02-1995",
-
       "team": "Denver Nuggets",
       "nationality": "Serbia",
       "positions": ["Center", "Power Forward"],
       "height": "7'0\"",
-
       "description": "Skilled Serbian big man, known for playmaking abilities."
     },
     {
@@ -61,12 +53,10 @@
       "full_name": "Joel Embiid",
       "img": "/basket/img/players/j embiid.png",
       "birth_date": "16-03-1994",
-
       "team": "Philadelphia 76ers",
       "nationality": "Cameroon",
       "positions": ["Center", "Power Forward"],
       "height": "7'0\"",
-
       "description": "Dominant Cameroonian center, a force on both ends."
     }
   ]

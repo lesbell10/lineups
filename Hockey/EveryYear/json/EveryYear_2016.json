@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/J Toews.jpg",
         "full_name": "Jonathan Toews",
         "birth_date": "29-04-1988",
-
         "team": "Free Agent",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'2\"",
-
         "description": "Canadian center, a leader for the Chicago Blackhawks"
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-
         "description": "Canadian center, the cornerstone of the Pittsburgh Penguins"
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/P Kane.jpg",
         "full_name": "Patrick Kane",
         "birth_date": "19-11-1988",
-
         "team": "Detroit Red Wings",
         "nationality": "USA",
         "position": "Right Winger",
         "height": "5'11\"",
-
         "description": "American right winger, a former prolific scorer for the Chicago Blackhawks"
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Keith.jpg",
         "full_name": "Duncan Keith",
         "birth_date": "16-07-1983",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'1\"",
-
         "description": "Canadian defenseman, experienced player in the NHL"
     },
     {
@@ -61,12 +53,10 @@
         "img": "/hockey/img/players/Subban.jpg",
         "full_name": "PK Subban",
         "birth_date": "13-05-1989",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'0\"",
-
         "description": "Canadian right defenseman, known for his charisma and play"
     },
     {
@@ -75,12 +65,10 @@
         "img": "/hockey/img/players/Quick.jpg",
         "full_name": "Jonathan Quick",
         "birth_date": "21-01-1986",
-
         "team": "New York Rangers",
         "nationality": "USA",
         "position": "Goaltender",
         "height": "6'1\"",
-
         "description": "American goaltender, a former vital part of the Los Angeles Kings."
     }
 ]

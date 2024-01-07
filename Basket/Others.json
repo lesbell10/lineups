@@ -10,7 +10,6 @@
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'8\"",
-
     "description": "NBA scoring champion and Hall of Famer."
   },
   {
@@ -24,7 +23,6 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'10\"",
-
     "description": "Five-time NBA All-Star and versatile big man."
   },
   {
@@ -38,7 +36,6 @@
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "height": "6'6\"",
-
     "description": "High-flying dunk artist and eight-time All-Star."
   },
   {
@@ -52,7 +49,6 @@
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "height": "6'5\"",
-
     "description": "Three-point shooting specialist and two-time NBA champion."
   },
   {
@@ -66,7 +62,6 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'9\"",
-
     "description": "Four-time NBA Defensive Player of the Year."
   },
   {
@@ -80,7 +75,6 @@
     "nationality": "USA",
     "positions": ["Power Forward"],
     "height": "6'9\"",
-
     "description": "Two-time NBA MVP and one of the all-time greats."
   },
   {
@@ -94,7 +88,6 @@
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "height": "6'9\"",
-
     "description": "Skilled forward and former NBA All-Star."
   },
   {
@@ -108,7 +101,6 @@
         "nationality": "USA",
         "positions": ["Shooting Guard", "Small Forward"],
         "height": "6'6\"",
-
         "description": "Three-time NBA All-Star and NBA champion."
     },
     {
@@ -122,7 +114,6 @@
         "nationality": "USA",
         "positions": ["Power Forward", "Center"],
         "height": "6'11\"",
-
         "description": "NBA champion known for his defensive skills."
     },
     {
@@ -136,7 +127,6 @@
         "nationality": "USA",
         "positions": ["Point Guard", "Shooting Guard"],
         "height": "6'3\"",
-
         "description": "NBA Finals MVP and five-time All-Star."
     },
     {

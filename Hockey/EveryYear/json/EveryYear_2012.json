@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-
         "description": "Russian forward, iconic for the Washington Capitals."
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-
         "description": "Canadian center, cornerstone of the Pittsburgh Penguins."
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/Stamkos.jpg",
         "full_name": "Steven Stamkos",
         "birth_date": "07-02-1990",
-
         "team": "Tampa Bay Lightning",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-
         "description": "Canadian center, key player for the Tampa Bay Lightning."
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Chara.jpg",
         "full_name": "Zdeno Chara",
         "birth_date": "18-03-1977",
-
         "team": "Retired",
         "nationality": "Slovakia",
         "position": "Left Defenseman",
         "height": "6'9\"",
-
         "description": "Slovak left defenseman, known for imposing presence."
     },
     {
@@ -61,12 +53,10 @@
         "img": "/hockey/img/players/Weber.jpg",
         "full_name": "Shea Weber",
         "birth_date": "14-08-1985",
-
         "team": "Arizona Coyotes",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'4\"",
-
         "description": "Canadian defenseman, known for leadership and shot."
     },
     {
@@ -75,12 +65,10 @@
         "img": "/hockey/img/players/Lundqvist.jpg",
         "full_name": "Henrik Lundqvist",
         "birth_date": "02-03-1982",
-
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Goaltender",
         "height": "6'1\"",
-
         "description": "Swedish goaltender, legendary presence in the NHL."
     }
 ]

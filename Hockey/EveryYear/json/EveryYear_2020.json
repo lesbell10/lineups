@@ -5,12 +5,10 @@
         "img": "/hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
-
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
         "height": "6'3\"",
-
         "description": "Russian forward, an iconic figure for the Washington Capitals."
     },
     {
@@ -19,12 +17,10 @@
         "img": "/hockey/img/players/McDavid.jpg",
         "full_name": "Connor McDavid",
         "birth_date": "13-01-1997",
-
         "team": "Edmonton Oilers",
         "nationality": "Canada",
         "position": "Center",
         "height": "6'1\"",
-
         "description": "Dynamic Canadian center, leading force for the Edmonton Oilers."
     },
     {
@@ -33,12 +29,10 @@
         "img": "/hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
-
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-
         "description": "Canadian center, the cornerstone of the Pittsburgh Penguins."
     },
     {
@@ -47,12 +41,10 @@
         "img": "/hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "birth_date": "18-12-1990",
-
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
         "position": "Defenseman",
         "height": "6'6\"",
-
         "description": "Swedish defenseman, vital for Tampa Bay Lightning's success."
     },
     {
@@ -61,7 +53,6 @@
         "img": "/hockey/img/players/Burns.jpg",
         "full_name": "Brent Burns",
         "birth_date": "09-03-1985",
-
         "team": "Carolina Hurricanes",
         "nationality": "Canada",
         "position": "Defenseman",
@@ -74,12 +65,10 @@
         "img": "/hockey/img/players/Vasilevskiy.jpg",
         "full_name": "Andrei Vasilevskiy",
         "birth_date": "25-07-1994",
-
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",
         "position": "Goaltender",
         "height": "6'3\"",
-
         "description": "Russian goaltender, a key asset for the Tampa Bay Lightning."
     }
 ]

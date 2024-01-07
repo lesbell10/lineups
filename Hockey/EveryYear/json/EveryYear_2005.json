@@ -4,12 +4,10 @@
         "last_name" : "Naslund",
         "full_name": "Markus Naslund",
         "birth_date": "30-07-1973",
-
         "team": "Retired",
         "nationality": "Sweden",
         "position": "Left Winger",
         "height": "6'0\"",
-
         "description": "Swedish left winger, a scoring sensation for the Vancouver Canucks.",
         "img": "/hockey/img/players/Naslund.jpg"
     },
@@ -18,12 +16,10 @@
         "last_name" : "Sakic",
         "full_name": "Joe Sakic",
         "birth_date": "07-07-1969",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Center",
         "height": "5'11\"",
-
         "description": "Canadian center, a legendary figure for the Colorado Avalanche.",
         "img": "/hockey/img/players/Sakic.jpg"
     },
@@ -32,12 +28,10 @@
         "last_name" : "Iginla",
         "full_name": "Jarome Iginla",
         "birth_date": "01-07-1977",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Right Winger",
         "height": "6'1\"",
-
         "description": "Canadian right winger, a prolific scorer for the Calgary Flames.",
         "img": "/hockey/img/players/Iginla.jpg"
     },
@@ -46,12 +40,10 @@
         "last_name" : "S Niedermayer",
         "full_name": "Scott Niedermayer",
         "birth_date": "31-08-1973",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'1\"",
-
         "description": "Canadian defenseman, a key figure for the New Jersey Devils.",
         "img": "/hockey/img/players/S Niedermayer.jpg"
     },
@@ -60,12 +52,10 @@
         "last_name" : "Pronger",
         "full_name": "Chris Pronger",
         "birth_date": "10-10-1974",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
         "height": "6'6\"",
-
         "description": "Canadian defenseman, a dominant presence in the NHL.",
         "img": "/hockey/img/players/Pronger.jpg"
     },
@@ -74,12 +64,10 @@
         "last_name" : "Brodeur",
         "full_name": "Martin Brodeur",
         "birth_date": "06-05-1972",
-
         "team": "Retired",
         "nationality": "Canada",
         "position": "Goaltender",
         "height": "6'2\"",
-
         "description": "Canadian goaltender, a legendary figure for the New Jersey Devils.",
         "img": "/hockey/img/players/Brodeur.jpg"
     }
