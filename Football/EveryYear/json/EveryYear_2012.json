@@ -5,7 +5,6 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-
         "position": "Centre-Forward",
         "team": "Retired",
         "nationality": "England",
@@ -18,7 +17,6 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,7 +29,6 @@
         "img": "/football/img/players/Ozil.webp",
         "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
-
         "position": "Attacking Midfield",
         "team": "Retired",
         "nationality": "Germany",
@@ -44,7 +41,6 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -57,7 +53,6 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
-
         "position": "Central Midfield",
         "team": "Retired",
         "nationality": "Spain",
@@ -70,7 +65,6 @@
         "img": "/football/img/players/Y Toure.webp",
         "full_name": "Yaya Toure",
         "birth_date": "13-05-1983",
-
         "position": "Defensive Midfielder",
         "team": "Retired",
         "nationality": "Cote d'Ivoire",
@@ -83,7 +77,6 @@
         "img": "/football/img/players/D Alves.webp",
         "full_name": "Daniel Alves",
         "birth_date": "06-05-1983",
-
         "position": "Right Back",
         "team": "Pumas",
         "nationality": "Brazil",
@@ -96,7 +89,6 @@
         "img": "/football/img/players/Vidic.webp",
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
-
         "position": "Centre Back",
         "team": "Retired",
         "nationality": "Serbia",
@@ -109,7 +101,6 @@
         "img": "/football/img/players/Pique.webp",
         "full_name": "Gerard Pique",
         "birth_date": "02-02-1987",
-
         "position": "Centre Back",
         "team": "Retired",
         "nationality": "Spain",
@@ -122,7 +113,6 @@
         "img": "/football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
-
         "position": "Left Back",
         "team": "Retired",
         "nationality": "England",
@@ -135,7 +125,6 @@
         "img": "/football/img/players/Neuer.webp",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
-
         "position": "Goalkeeper",
         "team": "Bayern Munich",
         "nationality": "Germany",

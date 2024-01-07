@@ -23,10 +23,52 @@ const GK = document.getElementById("GK");
 const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
+const pimg = document.querySelectorAll(".carousel-item img")
+const ptext = document.querySelectorAll(".carousel-item p")
 
 window.onload = function () {
     smallpic.style.scale = '.85'
+    yearSelector.selectedIndex = 0;
 }
+
+
+const containers = document.querySelectorAll(".carousel-item");
+
+// Function to handle mouseover
+const handleMouseover = (event) => {
+    // Find the image and paragraph within the container
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Modify the image
+    img.style.height = "21%";
+    img.style.transform = "translateY(-32%)";
+
+    // Modify the paragraph
+    p.style.scale = "1.3";
+    p.style.transform = "translateY(10px) translateX(15px)";
+};
+
+// Function to handle mouseout
+const handleMouseout = (event) => {
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Reset image styles
+    img.style.height = ""; // Reset to original or specify a new value
+    img.style.transform = ""; // Reset to original or specify a new value
+
+    // Reset paragraph styles
+    p.style.scale = "1";
+    p.style.transform = "";
+    p.style.transform = "";
+};
+
+// Add mouseover and mouseout event listeners to each container
+containers.forEach(container => {
+    container.addEventListener("mouseover", handleMouseover);
+    container.addEventListener("mouseout", handleMouseout);
+});
 
 
 let selectedYear = 0
@@ -313,7 +355,7 @@ function updatePlayerInfo() {
         smallpic.src = "/football/img/wallpapers/Kaka.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2010.json");
-        MainFetchPopUp("./json/EveryYear_2010.json");       
+        MainFetchPopUp("./json/EveryYear_2010.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -326,7 +368,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "7") {
-        
+
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
         AMC.textContent = "Iniesta";
@@ -368,7 +410,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "8") {
-        
+
         STC.textContent = "Rooney";
         FR.textContent = "Messi";
         AMC.textContent = "Ozil";
@@ -449,9 +491,9 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     if (selectedYear == "10") {
-        
+
         STC.textContent = "Ibrahimovic";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -493,9 +535,9 @@ function updatePlayerInfo() {
 
     }
 
-    
+
     if (selectedYear == "11") {
-        
+
         STC.textContent = "Ibrahimovic";
         FR.textContent = "Robben";
         AMC.textContent = "Messi";
@@ -534,7 +576,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     if (selectedYear == "12") {
         STC.textContent = "Suarez";
         FR.textContent = "Robben";
@@ -575,9 +617,9 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     if (selectedYear == "13") {
-        
+
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -619,7 +661,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "14") {
-        
+
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -645,7 +687,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Suarez.jpg";
-        
+
         // FIFAFetchPopUp("./json/EveryYear_2018.json");
         MainFetchPopUp("./json/EveryYear_2018.json");
 
@@ -658,9 +700,9 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     if (selectedYear == "15") {
-        
+
         STC.textContent = "Suarez";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -699,9 +741,9 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     if (selectedYear == "16") {
-        
+
         STC.textContent = "C Ronaldo";
         FR.textContent = "Messi";
         AMC.textContent = "E Hazard";
@@ -741,8 +783,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "17")
-    {
+    if (selectedYear == "17") {
         STC.textContent = "Lewandowski";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Messi";
@@ -782,7 +823,7 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear === "18") { 
+    if (selectedYear === "18") {
         STC.textContent = "Lewandowski";
         FR.textContent = "Salah";
         AMC.textContent = "Messi";
@@ -823,8 +864,8 @@ function updatePlayerInfo() {
         });
     }
 
-    if (selectedYear == "19") { 
-        
+    if (selectedYear == "19") {
+
         STC.textContent = "Lewandowski";
         FR.textContent = "Messi";
         AMC.textContent = "Benzema";
@@ -889,7 +930,7 @@ function updatePlayerInfo() {
         DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
         DL2.src = "/football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
-        
+
         smallpic.src = "/football/img/wallpapers/Haaland.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2024.json");
@@ -904,7 +945,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
-    
+
     function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
@@ -919,7 +960,7 @@ function updatePlayerInfo() {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -945,13 +986,13 @@ yearSelector.addEventListener("change", updatePlayerInfo);
 updatePlayerInfo();
 
 
-    const backButton = document.getElementById('backButton');
-    const forwardButton = document.getElementById('forwardButton');
-    
-    // Initialize the current index to 0
-    let currentIndex = 0;
-    
-    // Function to update the dropdown based on the currentIndex
+const backButton = document.getElementById('backButton');
+const forwardButton = document.getElementById('forwardButton');
+
+// Initialize the current index to 0
+let currentIndex = 0;
+
+// Function to update the dropdown based on the currentIndex
 const updateDropdown = () => {
 
     if (selectedYear == "0") {
@@ -1821,7 +1862,7 @@ const updateDropdown = () => {
         });
     }
 
-        function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
             FR, FR2,
@@ -1835,7 +1876,7 @@ const updateDropdown = () => {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {
@@ -1851,25 +1892,25 @@ const updateDropdown = () => {
         }, 500); // Adjust the timeout value based on your animation duration
     }
     clearAndFadeInElements();
-    
- }   // Event listener for the back button
-    backButton.addEventListener('click', () => {
-        console.log(selectedYear)
-        if (selectedYear > 0) {
-            selectedYear--;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
-    
-    // Event listener for the forward button
-    forwardButton.addEventListener('click', () => {
-        if (selectedYear < yearSelector.options.length - 1) {
-            selectedYear++;
-            yearSelector.value = selectedYear;
-            updateDropdown();
-        }
-    });
+
+}   // Event listener for the back button
+backButton.addEventListener('click', () => {
+    console.log(selectedYear)
+    if (selectedYear > 0) {
+        selectedYear--;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
+
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+    if (selectedYear < yearSelector.options.length - 1) {
+        selectedYear++;
+        yearSelector.value = selectedYear;
+        updateDropdown();
+    }
+});
 
 // for screenshots
 

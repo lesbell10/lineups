@@ -5,7 +5,6 @@
         "img": "/football/img/players/Lewandowski.webp",
         "full_name": "Robert Lewandowski",
         "birth_date": "21-08-1988",
-
         "position": "Striker",
         "team": "Barcelona",
         "nationality": "Poland",
@@ -18,7 +17,6 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -31,7 +29,6 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -44,7 +41,6 @@
         "img": "/football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
-
         "position": "Forward",
         "team": "Al Hilal",
         "nationality": "Brazil",
@@ -57,7 +53,6 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -70,7 +65,6 @@
         "img": "/football/img/players/Kante.webp",
         "full_name": "N'Golo Kante",
         "birth_date": "29-03-1991",
-
         "position": "Defensive Midfield",
         "team": "Al Ittihad",
         "nationality": "France",
@@ -83,7 +77,6 @@
         "img": "/football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
-
         "position": "Central Midfielder",
         "team": "Bayern Munich",
         "nationality": "Germany",
@@ -96,7 +89,6 @@
         "img": "/football/img/players/Van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
-
         "position": "Centre Back",
         "team": "Liverpool",
         "nationality": "Netherlands",
@@ -109,7 +101,6 @@
         "img": "/football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
-
         "position": "Centre Back",
         "team": "Sevilla",
         "nationality": "Spain",
@@ -122,7 +113,6 @@
         "img": "/football/img/players/Robertson.webp",
         "full_name": "Andy Robertson",
         "birth_date": "11-03-1994",
-
         "position": "Left Back",
         "team": "Liverpool",
         "nationality": "Scotland",
@@ -135,7 +125,6 @@
         "img": "/football/img/players/Oblak.webp",
         "full_name": "Jan Oblak",
         "birth_date": "07-01-1993",
-
         "position": "Goalkeeper",
         "team": "Atletico Madrid",
         "nationality": "Slovenia",

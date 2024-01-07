@@ -115,6 +115,7 @@ option {
     background-color: black;
     font-size:22px;
     padding: 0 .3%;
+    transition: .5s; 
 }
 
 .carousel img {
@@ -127,8 +128,8 @@ option {
 
 .carousel img:hover {
     /* border: white solid 2px; */
-    height:21%;
-    transform: translateY(-40px);
+    /* height:21%;
+    transform: translateY(-60px); */
 }
 
 #smallpic {
@@ -392,13 +393,13 @@ nav.home {
 #GK {
     position: absolute;
     left: 61.75%; /* Total: 61.75% */
-    top: 96.5%; /* Updated value */
+    top: 96%; /* Updated value */
 }
 
 #GK2 {
     position: absolute;
     left: 61.75%; /* Total: 61.75% */
-    top: 83.5%; /* Updated value */
+    top: 83%; /* Updated value */
 }
 
 /* #modal1 {

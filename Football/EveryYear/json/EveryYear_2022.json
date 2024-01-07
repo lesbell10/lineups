@@ -4,7 +4,6 @@
         "full_name": "Robert Lewandowski",
         "last_name": "Lewandowski",
         "birth_date": "21-08-1988",
-
         "nationality": "Poland",
         "position": "Striker",
         "height": "6'1\"",
@@ -17,7 +16,6 @@
         "full_name": "Mohamed Salah",
         "last_name": "Salah",
         "birth_date": "15-06-1992",
-
         "nationality": "Egypt",
         "position": "Right Winger",
         "height": "5'9\"",
@@ -31,7 +29,6 @@
         "full_name": "Lionel Messi",
         "last_name": "Messi",
         "birth_date": "24-06-1987",
-
         "nationality": "Argentina",
         "position": "Forward",
         "height": "5'7\"",
@@ -44,7 +41,6 @@
         "full_name": "Cristiano Ronaldo",
         "last_name": "C Ronaldo",
         "birth_date": "05-02-1985",
-
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2\"",
@@ -57,7 +53,6 @@
         "full_name": "Kevin De Bruyne",
         "last_name": "De Bruyne",
         "birth_date": "28-06-1991",
-
         "nationality": "Belgium",
         "position": "Central Midfielder",
         "height": "5'11\"",
@@ -70,7 +65,6 @@
         "full_name": "N'Golo Kante",
         "last_name": "Kante",
         "birth_date": "29-03-1991",
-
         "nationality": "France",
         "position": "Defensive Midfielder",
         "height": "5'7\"",
@@ -83,7 +77,6 @@
         "full_name": "Joshua Kimmich",
         "last_name": "Kimmich",
         "birth_date": "08-02-1995",
-
         "nationality": "Germany",
         "position": "Central Midfielder",
         "height": "5'10\"",
@@ -96,7 +89,6 @@
         "full_name": "Virgil van Dijk",
         "last_name": "van Dijk",
         "birth_date": "08-07-1991",
-
         "nationality": "Netherlands",
         "position": "Centre Back",
         "height": "6'4\"",
@@ -109,7 +101,6 @@
         "full_name": "Ruben Dias",
         "last_name": "R Dias",
         "birth_date": "14-05-1997",
-
         "nationality": "Portugal",
         "position": "Centre Back",
         "height": "6'1\"",
@@ -122,7 +113,6 @@
         "full_name": "Joao Cancelo",
         "last_name": "Cancelo",
         "birth_date": "27-05-1994",
-
         "nationality": "Portugal",
         "position": "Right Back",
         "height": "5'11\"",
@@ -135,7 +125,6 @@
         "full_name": "Manuel Neuer",
         "last_name": "Neuer",
         "birth_date": "27-03-1986",
-
         "nationality": "Germany",
         "position": "Goalkeeper",
         "height": "6'4\"",

@@ -16,7 +16,48 @@ window.onload = function () {
     smallpic.style.scale = '1.75'
     smallpic.style.top = '60%'
     smallpic.style.left = '6%'
+
+    yearSelector.selectedIndex = 0;
 }
+
+const containers = document.querySelectorAll(".carousel-item");
+
+// Function to handle mouseover
+const handleMouseover = (event) => {
+    // Find the image and paragraph within the container
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Modify the image
+    img.style.height = "31%";
+    img.style.transform = "translateY(-65px)";
+
+    // Modify the paragraph
+    p.style.scale = "1.3";
+    p.style.transform = "translateY(10px) translateX(25px)";
+};
+
+// Function to handle mouseout
+const handleMouseout = (event) => {
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Reset image styles
+    img.style.height = ""; // Reset to original or specify a new value
+    img.style.transform = ""; // Reset to original or specify a new value
+
+    // Reset paragraph styles
+    p.style.scale = "1";
+    p.style.transform = "";
+    p.style.transform = "";
+};
+
+// Add mouseover and mouseout event listeners to each container
+containers.forEach(container => {
+    container.addEventListener("mouseover", handleMouseover);
+    container.addEventListener("mouseout", handleMouseout);
+});
+
 
 function updatePlayerInfo() {
 
@@ -25,7 +66,7 @@ function updatePlayerInfo() {
     SF.textContent = "L James";
     PF.textContent = "K Durant";
     C.textContent = "A Davis";
-    
+
     PG2.src = "/basket/img/players/" + PG.textContent + ".png";
     SG2.src = "/basket/img/players/" + SG.textContent + ".png";
     SF2.src = "/basket/img/players/" + SF.textContent + ".png";
@@ -43,13 +84,13 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener("mouseout", () => {
         sideModal.style.display = 'none'; // Hide the modal
-    }); 
+    });
 
-     function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
-            SG,SG2,PG,PG2,SF,SF2,PF,PF2,C,C2
+            SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {

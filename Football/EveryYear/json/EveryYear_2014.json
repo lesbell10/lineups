@@ -4,7 +4,6 @@
         "last_name": "Ibrahimovic",
         "full_name": "Zlatan Ibrahimovic",
         "birth_date": "03-10-1981",
-
         "nationality": "Sweden",
         "position": "Striker",
         "height": "6'5\"",
@@ -17,7 +16,6 @@
         "last_name": "C Ronaldo",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2\"",
@@ -30,7 +28,6 @@
         "last_name": "Messi",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-
         "nationality": "Argentina",
         "position": "Forward",
         "height": "5'7\"",
@@ -43,7 +40,6 @@
         "last_name": "Ribery",
         "full_name": "Franck Ribery",
         "birth_date": "07-04-1983",
-
         "nationality": "France",
         "position": "Left Winger",
         "height": "5'7\"",
@@ -56,7 +52,6 @@
         "last_name": "Xavi",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
-
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'7\"",
@@ -69,7 +64,6 @@
         "last_name": "Schweinsteiger",
         "full_name": "B Schweinsteiger",
         "birth_date": "01-08-1984",
-
         "nationality": "Germany",
         "position": "Central Midfielder",
         "height": "6'0\"",
@@ -82,7 +76,6 @@
         "last_name": "D Alves",
         "full_name": "Daniel Alves",
         "birth_date": "06-05-1983",
-
         "nationality": "Brazil",
         "position": "Right Back",
         "height": "5'8\"",
@@ -95,7 +88,6 @@
         "last_name": "T Silva",
         "full_name": "Thiago Silva",
         "birth_date": "22-09-1984",
-
         "nationality": "Brazil",
         "position": "Centre Back",
         "height": "5'11\"",
@@ -108,7 +100,6 @@
         "last_name": "Kompany",
         "full_name": "Vincent Kompany",
         "birth_date": "10-04-1986",
-
         "nationality": "Belgium",
         "position": "Centre Back",
         "height": "6'3\"",
@@ -121,7 +112,6 @@
         "last_name": "Lahm",
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
-
         "nationality": "Germany",
         "position": "Left Back",
         "height": "5'7\"",
@@ -134,7 +124,6 @@
         "last_name": "Neuer",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
-
         "nationality": "Germany",
         "position": "Goalkeeper",
         "height": "6'4\"",

@@ -30,6 +30,44 @@ window.onload = function () {
     smallpic.style.left = "7%"
 }
 
+const containers = document.querySelectorAll(".carousel-item");
+
+// Function to handle mouseover
+const handleMouseover = (event) => {
+    // Find the image and paragraph within the container
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Modify the image
+    img.style.height = "21%";
+    img.style.transform = "translateY(-32%)";
+
+    // Modify the paragraph
+    p.style.scale = "1.3";
+    p.style.transform = "translateY(10px) translateX(15px)";
+};
+
+// Function to handle mouseout
+const handleMouseout = (event) => {
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Reset image styles
+    img.style.height = ""; // Reset to original or specify a new value
+    img.style.transform = ""; // Reset to original or specify a new value
+
+    // Reset paragraph styles
+    p.style.scale = "1";
+    p.style.transform = "";
+    p.style.transform = "";
+};
+
+// Add mouseover and mouseout event listeners to each container
+containers.forEach(container => {
+    container.addEventListener("mouseover", handleMouseover);
+    container.addEventListener("mouseout", handleMouseout);
+});
+
 function updatePlayerInfo() {
 
     STC.textContent = "Suarez";

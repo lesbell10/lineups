@@ -1,67 +1,62 @@
-{
-  "1": {
+[
+  {
+    "id": 1,
     "last_name": "C Paul",
     "img": "/basket/img/players/C Paul.png",
     "full_name": "Chris Paul",
     "birth_date": "01-05-1985",
-
     "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
-
     "description": "Talented point guard with excellent court vision."
   },
-  "2": {
+  {
+    "id": 2,
     "last_name": "K Bryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "birth_date": "23-08-1978",
-
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard"],
     "height": "6'6\"",
-
     "description": "Legendary shooting guard known for his scoring ability."
   },
-  "3": {
+  {
+    "id": 3,
     "last_name": "L James",
     "img": "/basket/img/players/L James.png",
     "full_name": "LeBron James",
     "birth_date": "30-12-1984",
-
     "team": "Los Angeles Lakers",
     "nationality": "USA",
     "positions": ["Small Forward"],
     "height": "6'9\"",
-
     "description": "One of the greatest basketball players of all time."
   },
-  "4": {
+  {
+    "id": 4,
     "last_name": "K Durant",
     "img": "/basket/img/players/K Durant.png",
     "full_name": "Kevin Durant",
     "birth_date": "29-09-1988",
-
     "team": "Phoenix Suns",
     "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "height": "6'10\"",
-
     "description": "Versatile forward with scoring prowess."
   },
-  "5": {
+  {
+    "id": 5,
     "last_name": "D Howard",
     "img": "/basket/img/players/D Howard.png",
     "full_name": "Dwight Howard",
     "birth_date": "08-12-1985",
-
     "team": "Beer Leopards (Taiwan)",
     "nationality": "USA",
     "positions": ["Center"],
     "height": "6'10\"",
-
     "description": "Dominant presence in the paint with shot-blocking skills."
   }
-}
+]

@@ -12,6 +12,49 @@ const C2 = document.getElementById("C2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 
+window.onload = function () {
+  yearSelector.selectedIndex = 0;
+}
+
+const containers = document.querySelectorAll(".carousel-item");
+
+// Function to handle mouseover
+const handleMouseover = (event) => {
+  // Find the image and paragraph within the container
+  const img = event.currentTarget.querySelector("img");
+  const p = event.currentTarget.querySelector("p");
+
+  // Modify the image
+  img.style.height = "31%";
+  img.style.transform = "translateY(-65px)";
+
+  // Modify the paragraph
+  p.style.scale = "1.3";
+  p.style.transform = "translateY(10px) translateX(25px)";
+};
+
+// Function to handle mouseout
+const handleMouseout = (event) => {
+  const img = event.currentTarget.querySelector("img");
+  const p = event.currentTarget.querySelector("p");
+
+  // Reset image styles
+  img.style.height = ""; // Reset to original or specify a new value
+  img.style.transform = ""; // Reset to original or specify a new value
+
+  // Reset paragraph styles
+  p.style.scale = "1";
+  p.style.transform = "";
+  p.style.transform = "";
+};
+
+// Add mouseover and mouseout event listeners to each container
+containers.forEach(container => {
+  container.addEventListener("mouseover", handleMouseover);
+  container.addEventListener("mouseout", handleMouseout);
+});
+
+
 let selectedYear = 0
 
 function updatePlayerInfo() {
@@ -920,23 +963,23 @@ const updateDropdown = () => {
 
   }
 }
-  // Event listener for the back button
-  backButton.addEventListener('click', () => {
-    if (selectedYear > 0) {
-      selectedYear--;
-      yearSelector.value = selectedYear;
-      updateDropdown();
-    }
-  });
+// Event listener for the back button
+backButton.addEventListener('click', () => {
+  if (selectedYear > 0) {
+    selectedYear--;
+    yearSelector.value = selectedYear;
+    updateDropdown();
+  }
+});
 
-  // Event listener for the forward button
-  forwardButton.addEventListener('click', () => {
-    if (selectedYear < yearSelector.options.length - 1) {
-      selectedYear++;
-      yearSelector.value = selectedYear;
-      updateDropdown();
-    }
-  });
+// Event listener for the forward button
+forwardButton.addEventListener('click', () => {
+  if (selectedYear < yearSelector.options.length - 1) {
+    selectedYear++;
+    yearSelector.value = selectedYear;
+    updateDropdown();
+  }
+});
 // for screenshots
 
 // const nav = document.querySelector("nav");

@@ -5,7 +5,6 @@
         "img": "/football/img/players/Haaland.webp",
         "full_name": "Erling Haaland",
         "birth_date": "21-07-2000",
-
         "position": "Striker",
         "team": "Man City",
         "nationality": "Norway",
@@ -18,7 +17,6 @@
         "img": "/football/img/players/Salah.webp",
         "full_name": "Mohamed Salah",
         "birth_date": "15-06-1992",
-
         "position": "Right Winger",
         "team": "Liverpool",
         "nationality": "Egypt",
@@ -31,7 +29,6 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -44,7 +41,6 @@
         "img": "/football/img/players/Mbappe.webp",
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
-
         "position": "Forward",
         "team": "PSG",
         "nationality": "France",
@@ -57,7 +53,6 @@
         "img": "/football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
-
         "position": "Central Midfielder",
         "team": "Manchester City",
         "nationality": "Belgium",
@@ -70,7 +65,6 @@
         "img": "/football/img/players/Rodri.webp",
         "full_name": "Rodrigo Hernandez",
         "birth_date": "22-06-1996",
-
         "position": "Defensive Midfielder",
         "team": "Man City",
         "nationality": "Spain",
@@ -83,7 +77,6 @@
         "img": "/football/img/players/Cancelo.webp",
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
-
         "position": "Right Back",
         "team": "Barcelona",
         "nationality": "Portugal",
@@ -96,7 +89,6 @@
         "img": "/football/img/players/Van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
-
         "position": "Centre Back",
         "team": "Liverpool",
         "nationality": "Netherlands",
@@ -109,7 +101,6 @@
         "img": "/football/img/players/R Dias.webp",
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
-
         "position": "Centre Back",
         "team": "Manchestetrr City",
         "nationality": "Portugal",
@@ -122,7 +113,6 @@
         "img": "/football/img/players/Robertson.webp",
         "full_name": "Andy Robertson",
         "birth_date": "11-03-1994",
-
         "position": "Left Back",
         "team": "Liverpool",
         "nationality": "Scotland",
@@ -135,7 +125,6 @@
         "img": "/football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
-
         "position": "Goalkeeper",
         "team": "Real Madrid",
         "nationality": "Belgium",

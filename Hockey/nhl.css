@@ -115,6 +115,7 @@ option {
     background-color: black;
     font-size: 25px;
     padding: 0 .3%;
+    transition: .5s; 
 }
 
 .carousel img {
@@ -123,11 +124,11 @@ option {
     border-radius:7px;
     transition: .5s;
 }
-
+/* 
 .carousel img:hover {
     height:28%;
     transform: translateY(-40px);
-}
+} */
 
 #smallpic {
     position: absolute;

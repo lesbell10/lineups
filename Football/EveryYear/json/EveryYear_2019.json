@@ -5,7 +5,6 @@
       "img": "/football/img/players/Suarez.webp",
       "full_name": "Luis Suarez",
       "birth_date": "24-01-1987",
-
       "nationality": "Uruguay",
       "position": "Forward",
       "height": "5'11\"",
@@ -18,7 +17,6 @@
       "img": "/football/img/players/C Ronaldo.webp",
       "full_name": "Cristiano Ronaldo",
       "birth_date": "05-02-1985",
-
       "nationality": "Portugal",
       "position": "Forward",
       "height": "6'2\"",
@@ -31,7 +29,6 @@
       "img": "/football/img/players/Messi.webp",
       "full_name": "Lionel Messi",
       "birth_date": "24-06-1987",
-
       "nationality": "Argentina",
       "position": "Forward",
       "height": "5'7\"",
@@ -44,7 +41,6 @@
       "img": "/football/img/players/Neymar.webp",
       "full_name": "Neymar da Silva Jr",
       "birth_date": "05-02-1992",
-
       "nationality": "Brazil",
       "position": "Forward",
       "height": "5'9\"",
@@ -57,7 +53,6 @@
       "img": "/football/img/players/De Bruyne.webp",
       "full_name": "Kevin De Bruyne",
       "birth_date": "28-06-1991",
-
       "nationality": "Belgium",
       "position": "Central Midfielder",
       "height": "5'11\"",
@@ -70,7 +65,6 @@
       "img": "/football/img/players/Kroos.webp",
       "full_name": "Toni Kroos",
       "birth_date": "04-01-1990",
-
       "nationality": "Germany",
       "position": "Central Midfielder",
       "height": "6'0\"",
@@ -83,7 +77,6 @@
       "img": "/football/img/players/Carvajal.webp",
       "full_name": "Daniel Carvajal",
       "birth_date": "11-01-1992",
-
       "nationality": "Spain",
       "position": "Right Back",
       "height": "5'8\"",
@@ -96,7 +89,6 @@
       "img": "/football/img/players/S Ramos.webp",
       "full_name": "Sergio Ramos",
       "birth_date": "30-03-1986",
-
       "nationality": "Spain",
       "position": "Centre Back",
       "height": "6'0\"",
@@ -109,7 +101,6 @@
       "img": "/football/img/players/Godin.webp",
       "full_name": "Diego Godin",
       "birth_date": "16-02-1986",
-
       "nationality": "Uruguay",
       "position": "Centre Back",
       "height": "6'2\"",
@@ -122,7 +113,6 @@
       "img": "/football/img/players/Marcelo.webp",
       "full_name": "Marcelo Vieira",
       "birth_date": "12-05-1988",
-
       "nationality": "Brazil",
       "position": "Left Back",
       "height": "5'8\"",
@@ -135,7 +125,6 @@
       "img": "/football/img/players/De Gea.webp",
       "full_name": "David de Gea",
       "birth_date": "07-11-1990",
-
       "nationality": "Spain",
       "position": "Goalkeeper",
       "height": "6'2\"",

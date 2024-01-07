@@ -29,6 +29,44 @@ window.onload = function () {
     smallpic.style.left = '3%'
 }
 
+const containers = document.querySelectorAll(".carousel-item");
+
+// Function to handle mouseover
+const handleMouseover = (event) => {
+    // Find the image and paragraph within the container
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Modify the image
+    img.style.height = "21%";
+    img.style.transform = "translateY(-32%)";
+
+    // Modify the paragraph
+    p.style.scale = "1.3";
+    p.style.transform = "translateY(10px) translateX(15px)";
+};
+
+// Function to handle mouseout
+const handleMouseout = (event) => {
+    const img = event.currentTarget.querySelector("img");
+    const p = event.currentTarget.querySelector("p");
+
+    // Reset image styles
+    img.style.height = ""; // Reset to original or specify a new value
+    img.style.transform = ""; // Reset to original or specify a new value
+
+    // Reset paragraph styles
+    p.style.scale = "1";
+    p.style.transform = "";
+    p.style.transform = "";
+};
+
+// Add mouseover and mouseout event listeners to each container
+containers.forEach(container => {
+    container.addEventListener("mouseover", handleMouseover);
+    container.addEventListener("mouseout", handleMouseout);
+});
+
 function updatePlayerInfo() {
 
     STC.textContent = "Haaland";
@@ -47,7 +85,7 @@ function updatePlayerInfo() {
     FR2.src = "/football/img/players/" + FR.textContent + ".webp";
     AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
     FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-	CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
+    CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
     CML2.src = "/football/img/players/" + CML.textContent + ".webp";
     DR2.src = "/football/img/players/" + DR.textContent + ".webp";
     DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
@@ -58,7 +96,7 @@ function updatePlayerInfo() {
     smallpic.src = "/football/img/wallpapers/haaland.jpg";
 
     MainFetchPopUp("/football/present/present.json");
-    
+
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
         sideModal.textContent = "Erling Haaland, the Norwegian striker, had a significant impact in the 2022-23 season, known for his remarkable goal, scoring abilities and physical presence on the pitch.  Playing for Manchester City in the Premier League, Haaland quickly adapted to English football, showcasing his prowess as a formidable striker."
@@ -68,19 +106,19 @@ function updatePlayerInfo() {
         sideModal.style.display = 'none'; // Hide the modal
     });
 
-// smallpic.addEventListener('mouseover', () => {
-//             sideModal.style.display = 'block'
-//             sideModal.textContent = "Last season, Erling Haaland, following his transfer from Borussia Dortmund to Manchester City, demonstrated exceptional skill with record-breaking Premier League starts, significant Champions League contributions, and resilience in overcoming minor injuries and occasional non-scoring games."
-//         })
+    // smallpic.addEventListener('mouseover', () => {
+    //             sideModal.style.display = 'block'
+    //             sideModal.textContent = "Last season, Erling Haaland, following his transfer from Borussia Dortmund to Manchester City, demonstrated exceptional skill with record-breaking Premier League starts, significant Champions League contributions, and resilience in overcoming minor injuries and occasional non-scoring games."
+    //         })
 
-//         smallpic.addEventListener("mouseout", () => {
-//                     sideModal.style.display = 'none'; // Hide the modal
-//         }); 
-        
-        // FetchPopUp("/football/present/present.json");
+    //         smallpic.addEventListener("mouseout", () => {
+    //                     sideModal.style.display = 'none'; // Hide the modal
+    //         }); 
+
+    // FetchPopUp("/football/present/present.json");
 
 
-     function clearAndFadeInElements() {
+    function clearAndFadeInElements() {
         const elements = [
             STC, STC2,
             FR, FR2,
@@ -94,7 +132,7 @@ function updatePlayerInfo() {
             DL, DL2,
             GK, GK2,
         ];
-        
+
         document.getElementById("smallpic").classList.add("fade-in")
 
         for (const element of elements) {

@@ -5,7 +5,6 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-
         "position": "Centre Forward",
         "team": "Retired",
         "nationality": "England",
@@ -18,7 +17,6 @@
         "img": "/football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
-
         "position": "Forward",
         "team": "Inter Miami",
         "nationality": "Argentina",
@@ -31,7 +29,6 @@
         "img": "/football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
-
         "position": "Attacking Midfielder",
         "team": "Emirates Club",
         "nationality": "Spain",
@@ -44,7 +41,6 @@
         "img": "/football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
-
         "position": "Forward",
         "team": "Al Nassr",
         "nationality": "Portugal",
@@ -57,7 +53,6 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
-
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "Spain",
@@ -70,7 +65,6 @@
         "img": "/football/img/players/Schweinsteiger.webp",
         "full_name": "B Schweinsteiger",
         "birth_date": "01-08-1984",
-
         "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "Germany",
@@ -83,7 +77,6 @@
         "img": "/football/img/players/Maicon.webp",
         "full_name": "Maicon Douglas",
         "birth_date": "26-07-1981",
-
         "position": "Right Back",
         "team": "Retired",
         "nationality": "Brazil",
@@ -96,7 +89,6 @@
         "img": "/football/img/players/Vidic.webp",
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
-
         "position": "Centre Back",
         "team": "Retired",
         "nationality": "Serbia",
@@ -109,7 +101,6 @@
         "img": "/football/img/players/Terry.webp",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
-
         "position": "Centre Back",
         "team": "Retired",
         "nationality": "England",
@@ -122,7 +113,6 @@
         "img": "/football/img/players/Evra.webp",
         "full_name": "Patrice Evra",
         "birth_date": "15-05-1981",
-
         "position": "Left Back",
         "team": "Retired",
         "nationality": "France",
@@ -135,7 +125,6 @@
         "img": "/football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
-
         "position": "Goalkeeper",
         "team": "Retired",
         "nationality": "Spanish",

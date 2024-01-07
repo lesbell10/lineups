@@ -5,7 +5,6 @@
   "img": "/football/img/players/Lewandowski.webp",
   "full_name": "Robert Lewandowski",
   "birth_date": "21-08-1988",
-
   "position": "Striker",
   "team": "Barcelona",
   "nationality": "Poland",
@@ -18,7 +17,6 @@
   "img": "/football/img/players/C Ronaldo.webp",
   "full_name": "Cristiano Ronaldo",
   "birth_date": "05-02-1985",
-
   "position": "Forward",
   "team": "Al Nassr",
   "nationality": "Portugal",
@@ -31,7 +29,6 @@
   "img": "/football/img/players/Messi.webp",
   "full_name": "Lionel Messi",
   "birth_date": "24-06-1987",
-
   "position": "Forward",
   "team": "Inter Miami",
   "nationality": "Argentina",
@@ -44,7 +41,6 @@
   "img": "/football/img/players/Neymar.webp",
   "full_name": "Neymar da Silva Jr",
   "birth_date": "05-02-1992",
-
   "position": "Forward",
   "team": "Al Hilal",
   "nationality": "Brazil",
@@ -70,7 +66,6 @@
   "img": "/football/img/players/Kroos.webp",
   "full_name": "Toni Kroos",
   "birth_date": "04-01-1990",
-
   "position": "Central Midfielder",
   "team": "Real Madrid",
   "nationality": "Germany",
@@ -83,7 +78,6 @@
   "img": "/football/img/players/D Alves.webp",
   "full_name": "Daniel Alves",
   "birth_date": "06-05-1983",
-
   "position": "Right Back",
   "team": "Pumas",
   "nationality": "Brazil",
@@ -96,7 +90,6 @@
   "img": "/football/img/players/S Ramos.webp",
   "full_name": "Sergio Ramos",
   "birth_date": "30-03-1986",
-
   "position": "Centre Back",
   "team": "Sevilla",
   "nationality": "Spain",
@@ -109,7 +102,6 @@
   "img": "/football/img/players/Boateng.webp",
   "full_name": "Jerome Boateng",
   "birth_date": "03-09-1988",
-
   "position": "Centre Back",
   "team": "Retired",
   "nationality": "Germany",
@@ -122,7 +114,6 @@
   "img": "/football/img/players/Marcelo.webp",
   "full_name": "Marcelo Vieira",
   "birth_date": "12-05-1988",
-
   "position": "Left Back",
   "team": "Fluminense",
   "nationality": "Brazil",
@@ -135,7 +126,6 @@
   "img": "/football/img/players/Neuer.webp",
   "full_name": "Manuel Neuer",
   "birth_date": "27-03-1986",
-
   "position": "Goalkeeper",
   "team": "Bayern Munich",
   "nationality": "Germany",
