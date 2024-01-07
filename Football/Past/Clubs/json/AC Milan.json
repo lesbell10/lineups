@@ -6,7 +6,6 @@
   "img": "/football/img/players/Ibrahimovic.webp",
   "full_name": "Zlatan Ibrahimovic",
   "birth_date": "03-10-1981",
-
   "position": "Striker",
   "team": "Retired",
   "nationality": "Sweden",
@@ -19,7 +18,6 @@
   "img": "/football/img/players/Cassano.webp",
   "full_name": "Antonio Cassano",
   "birth_date": "12-07-1982",
-
   "position": "Forward",
   "team": "Retired",
   "nationality": "Italy",
@@ -32,7 +30,6 @@
   "img": "/football/img/players/Kaka.webp",
   "full_name": "Ricardo Kaka",
   "birth_date": "22-04-1982",
-
   "position": "Attacking Midfielder",
   "team": "Retired",
   "nationality": "Brazil",
@@ -45,7 +42,6 @@
   "img": "/football/img/players/Robinho.webp",
   "full_name": "Robinho de Souza",
   "birth_date": "25-01-1984",
-
   "position": "Forward",
   "team": "Retired",
   "nationality": "Brazil",
@@ -58,7 +54,6 @@
   "img": "/football/img/players/Seedorf.webp",
   "full_name": "Clarence Seedorf",
   "birth_date": "01-04-1976",
-
   "position": "Central Midfielder",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -71,7 +66,6 @@
   "img": "/football/img/players/Pirlo.webp",
   "full_name": "Andrea Pirlo",
   "birth_date": "19-05-1979",
-
   "position": "Defensive Midfielder",
   "team": "Retired",
   "nationality": "Italy",
@@ -84,7 +78,6 @@
   "img": "/football/img/players/Abate.webp",
   "full_name": "Ignazio Abate",
   "birth_date": "12-11-1986",
-
   "position": "Right Back",
   "team": "Retired",
   "nationality": "Italy",
@@ -97,7 +90,6 @@
   "img": "/football/img/players/T Silva.webp",
   "full_name": "Thiago Silva",
   "birth_date": "22-09-1984",
-
   "position": "Centre Back",
   "team": "Chelsea",
   "nationality": "Brazil",
@@ -110,7 +102,6 @@
   "img": "/football/img/players/Nesta.webp",
   "full_name": "Alessandro Nesta",
   "birth_date": "19-03-1976",
-
   "position": "Centre Back",
   "team": "Retired",
   "nationality": "Italy",
@@ -123,7 +114,6 @@
   "img": "/football/img/players/Antonini.webp",
   "full_name": "Luca Antonini",
   "birth_date": "11-02-1982",
-
   "position": "Left Back",
   "team": "Retired",
   "nationality": "Italy",
@@ -136,7 +126,6 @@
   "img": "/football/img/players/Abbiati.webp",
   "full_name": "Christian Abbiati",
   "birth_date": "08-07-1977",
-
   "position": "Goalkeeper",
   "team": "Retired",
   "nationality": "Italy",
