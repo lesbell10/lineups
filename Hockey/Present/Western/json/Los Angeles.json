@@ -19,8 +19,18 @@
         "position": "Center",
         "description": "Slovenian center and captain of the Los Angeles Kings."
     },
-    {
+      {
         "id": 3,
+        "last_name": "Kempe",
+        "img": "/hockey/img/players/Kempe.jpg",
+        "full_name": "Adrian Kempe",
+        "team": "Los Angeles Kings",
+        "nationality": "Sweden",
+        "position": "Right Winger",
+        "description": "Swedish left winger with offensive ability and defensive contributions."
+    },
+    {
+        "id": 4,
         "last_name": "Doughty",
         "img": "/hockey/img/players/Doughty.jpg",
         "full_name": "Drew Doughty",
@@ -30,7 +40,7 @@
         "description": "Canadian defenseman with strong offensive and defensive skills."
     },
     {
-        "id": 4,
+        "id": 5,
         "last_name": "M Anderson",
         "img": "/hockey/img/players/M Anderson.jpg",
         "full_name": "Mikey Anderson",
@@ -40,7 +50,7 @@
         "description": "Young American defenseman with potential."
     },
     {
-        "id": 5,
+        "id": 6,
         "last_name": "C Talbot",
         "img": "/hockey/img/players/C Talbot.jpg",
         "full_name": "Cam Talbot",

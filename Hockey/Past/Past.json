@@ -5,12 +5,10 @@
   "img": "/hockey/img/players/Ovechkin.jpg",
   "full_name": "Alexander Ovechkin",
   "birth_date": "17-09-1985",
-
   "team": "Washington Capitals",
   "nationality": "Russia",
   "position": "Left Winger",
   "height": "6'2\"",
-
   "description": "Legendary left winger known for his goal-scoring prowess."
 },
 {
@@ -19,12 +17,10 @@
   "img": "/hockey/img/players/McDavid.jpg",
   "full_name": "Connor McDavid",
   "birth_date": "13-01-1997",
-
   "team": "Edmonton Oilers",
   "nationality": "Canada",
   "position": "Center",
   "height": "6'1\"",
-
   "description": "Dynamic center, widely regarded as one of the best."
 },
 {
@@ -33,12 +29,10 @@
   "img": "/hockey/img/players/Crosby.jpg",
   "full_name": "Sidney Crosby",
   "birth_date": "07-08-1987",
-
   "team": "Pittsburgh Penguins",
   "nationality": "Canada",
   "position": "Center",
   "height": "5'11\"",
-
   "description": "Elite center with exceptional playmaking skills."
 },
 {
@@ -47,12 +41,10 @@
   "img": "/hockey/img/players/Hedman.jpg",
   "full_name": "Victor Hedman",
   "birth_date": "18-12-1990",
-
   "team": "Tampa Bay Lightning",
   "nationality": "Sweden",
   "position": "Defenseman",
   "height": "6'6\"",
-
   "description": "Tower of a defenseman with excellent defensive skills."
 },
 {
@@ -61,12 +53,10 @@
   "img": "/hockey/img/players/E Karlsson.jpg",
   "full_name": "Erik Karlsson",
   "birth_date": "31-05-1990",
-
   "team": "Pittsburgh Penguins",
   "nationality": "Sweden",
   "position": "Defenseman",
   "height": "6'0\"",
-
   "description": "Dynamic defenseman known for his offensive contributions."
 },
 {
@@ -75,12 +65,10 @@
   "img": "/hockey/img/players/Price.jpg",
   "full_name": "Carey Price",
   "birth_date": "16-08-1987",
-
   "team": "Montreal Canadiens",
   "nationality": "Canada",
   "position": "Goaltender",
   "height": "6'3\"",
-
   "description": "Star goaltender known for his exceptional saves."
 }
 ]

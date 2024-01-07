@@ -285,9 +285,10 @@ function updatePlayerInfo() {
 
     if (selectedYear == "7") {
         FL.textContent = "Fiala";
-        FC.textContent = "Kopitar";;
+        FC.textContent = "Kopitar";
+        FR.textContent = "Kempe"
         DL.textContent = "Doughty";
-        DR.textContent = "Anderson";
+        DR.textContent = "M Anderson";
         G.textContent = "C Talbot";
 
         FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
@@ -811,7 +812,8 @@ const updateDropdown = () => {
 
     if (selectedYear == "7") {
         FL.textContent = "Fiala";
-        FC.textContent = "Kopitar";;
+        FC.textContent = "Kopitar";
+        FR.textContent = "Kempe"
         DL.textContent = "Doughty";
         DR.textContent = "Anderson";
         G.textContent = "C Talbot";
