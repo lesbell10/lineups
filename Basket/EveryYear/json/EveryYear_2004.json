@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "last_name": "Bryant",
+    "last_name": "KBryant",
     "img": "/basket/img/players/K Bryant.png",
     "full_name": "Kobe Bryant",
     "team": "Retired",
@@ -31,9 +31,9 @@
   },
   {
     "id": 4,
-    "last_name": "Duncan",
+    "last_name": "T Duncan",
     "img": "/basket/img/players/T Duncan.png",
-    "full_name": "T Duncan",
+    "full_name": "Tim Duncan",
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],

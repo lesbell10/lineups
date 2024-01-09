@@ -13,13 +13,14 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    overflow-x: hidden;
 }
 
 nav {
     display: flex;
     align-items: center;
     min-height: 70px;
-    width: 100%;
+    width: 102%;
     background: grey;
     border-bottom: 2px solid white;
 }
@@ -214,7 +215,7 @@ nav.home {
 
 #results {
     padding: 10px;
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     overflow-y: auto;
     display: flex;
