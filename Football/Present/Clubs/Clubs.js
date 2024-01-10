@@ -22,7 +22,8 @@ const DL2 = document.getElementById("DL2");
 const GK = document.getElementById("GK");
 const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
-const sideModal = document.querySelector(".side-modal")
+const sideModal = document.querySelector(".side-modal");
+const coach = document.querySelector(".coach");
 
 window.onload = function () {
 
@@ -38,12 +39,12 @@ const handleMouseover = (event) => {
     const p = event.currentTarget.querySelector("p");
 
     // Modify the image
-    img.style.height = "26%";
+    img.style.height = "21%";
     img.style.transform = "translateY(-32%)";
 
     // Modify the paragraph
     p.style.scale = "1.3";
-    p.style.transform = "translateY(2px) translateX(15px)";
+    p.style.transform = "translateY(10px) translateX(15px)";
 };
 
 // Function to handle mouseout
@@ -57,7 +58,6 @@ const handleMouseout = (event) => {
 
     // Reset paragraph styles
     p.style.scale = "1";
-    p.style.transform = "";
     p.style.transform = "";
 };
 
@@ -76,8 +76,6 @@ containers.forEach(container => {
 let selectedYear = 0;
 
 function updatePlayerInfo() {
-
-
 
     selectedYear = yearSelector.value;
 
@@ -120,6 +118,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(3)
+        });
     }
 
     if (selectedYear == "14") {
@@ -160,6 +163,12 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Carlo Ancelotti"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(5)
+        });
     }
 
     if (selectedYear == "13") {
@@ -198,6 +207,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Luis Enrique"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(50)
         });
     }
 
@@ -240,6 +255,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Thomas Tuchel"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(28)
+        });
 
     }
     if (selectedYear == "9") {
@@ -281,6 +301,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jurgen Klopp"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(7)
+        });
 
     }
 
@@ -320,6 +345,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Xavi Hernandez"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(73)
         });
 
     }
@@ -362,6 +393,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mauricio Pochettino"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(55)
+        });
     }
 
     if (selectedYear == "11") {
@@ -402,7 +438,13 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Erik ten Hag"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(59)
+        });
     }
+
     if (selectedYear == "8") {
         STC.textContent = "Vlahovic"
         FR.textContent = "Chiesa"
@@ -441,6 +483,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Massimiliano Allegri"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(38)
+        });
 
     }
 
@@ -482,6 +529,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mikel Arteta"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(70)
+        });
     }
     if (selectedYear == "7") {
         STC.textContent = "La Martinez"
@@ -521,6 +573,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Simone Inzaghi"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(67)
+        });
     }
 
     if (selectedYear == "3") {
@@ -561,6 +618,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Diego Simeone"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(51)
+        });
 
     }
 
@@ -602,6 +664,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Stefano Pioli"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(72)
+        });
     }
 
     if (selectedYear == "12") {
@@ -642,7 +709,11 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Walter Mazzarri"
 
+        coach.addEventListener("click", () => {
+            showManagerInfo(78)
+        });
     }
 
     if (selectedYear == "15") {
@@ -683,6 +754,15 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Ange Postecoglou"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(75)
+        });
     }
     if (selectedYear == "2") {
 
@@ -721,6 +801,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Jose Mourinho"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(4)
         });
 
     }
@@ -813,6 +899,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(3)
+        });
     }
 
     if (selectedYear == "14") {
@@ -853,6 +944,12 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Carlo Ancelotti"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(5)
+        });
     }
 
     if (selectedYear == "13") {
@@ -891,6 +988,12 @@ const updateDropdown = () => {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Luis Enrique"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(50)
         });
     }
 
@@ -933,6 +1036,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Thomas Tuchel"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(28)
+        });
 
     }
     if (selectedYear == "9") {
@@ -974,6 +1082,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jurgen Klopp"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(7)
+        });
 
     }
 
@@ -1013,6 +1126,12 @@ const updateDropdown = () => {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Xavi Hernandez"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(73)
         });
 
     }
@@ -1055,6 +1174,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mauricio Pochettino"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(55)
+        });
     }
 
     if (selectedYear == "11") {
@@ -1095,7 +1219,13 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Erik ten Hag"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(59)
+        });
     }
+
     if (selectedYear == "8") {
         STC.textContent = "Vlahovic"
         FR.textContent = "Chiesa"
@@ -1134,6 +1264,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Massimiliano Allegri"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(38)
+        });
 
     }
 
@@ -1175,6 +1310,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mikel Arteta"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(70)
+        });
     }
     if (selectedYear == "7") {
         STC.textContent = "La Martinez"
@@ -1214,6 +1354,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Simone Inzaghi"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(67)
+        });
     }
 
     if (selectedYear == "3") {
@@ -1254,6 +1399,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Diego Simeone"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(51)
+        });
 
     }
 
@@ -1295,6 +1445,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Stefano Pioli"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(72)
+        });
     }
 
     if (selectedYear == "12") {
@@ -1335,7 +1490,11 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Walter Mazzarri"
 
+        coach.addEventListener("click", () => {
+            showManagerInfo(78)
+        });
     }
 
     if (selectedYear == "15") {
@@ -1376,6 +1535,15 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Ange Postecoglou"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(75)
+        });
     }
     if (selectedYear == "2") {
 
@@ -1414,6 +1582,12 @@ const updateDropdown = () => {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Jose Mourinho"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(4)
         });
 
     }

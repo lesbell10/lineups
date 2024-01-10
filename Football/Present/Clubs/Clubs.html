@@ -45,6 +45,26 @@
             </select>
         </div>
 
+        <!-- <div id="managers">
+            <a href="#" onclick="showManagerInfo(0)">Stefano Pioli</a><br>
+            <a href="#" onclick="showManagerInfo(1)">Mikel Arteta</a><br>
+            <a href="#" onclick="showManagerInfo(2)">José Mourinho</a><br>
+            <a href="#" onclick="showManagerInfo(3)">Diego Simeone</a><br>
+            <a href="#" onclick="showManagerInfo(4)">Xavi Hernandez</a><br>
+            <a href="#" onclick="showManagerInfo(5)">Thomas Tuchel</a><br>
+            <a href="#" onclick="showManagerInfo(6)">Mauricio Pochettino</a><br>
+            <a href="#" onclick="showManagerInfo(7)">Simone Inzaghi</a><br>
+            <a href="#" onclick="showManagerInfo(8)">Massimiliano Allegri</a><br>
+            <a href="#" onclick="showManagerInfo(9)">Jürgen Klopp</a><br>
+            <a href="#" onclick="showManagerInfo(10)">Pep Guardiola</a><br>
+            <a href="#" onclick="showManagerInfo(11)">Erik ten Hag</a><br>
+            <a href="#" onclick="showManagerInfo(12)">Walter Mazzarri</a><br>
+            <a href="#" onclick="showManagerInfo(13)">Mauricio Pochettino</a><br>
+            <a href="#" onclick="showManagerInfo(14)">Carlo Ancelotti</a><br>
+            <a href="#" onclick="showManagerInfo(15)">Ange Postecoglou</a><br>
+
+        </div> -->
+
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Search anything...">
             <button id="searchButton">Show All</button>
@@ -59,6 +79,8 @@
     <div id="results"></div>
     <div id="desc"></div>
     <div id="pagination"></div>
+
+    <div class="coach"></div>
 
     <div class="carousel">
         <div class="carousel-item">
@@ -124,9 +146,10 @@
     <img id="smallpic" class="second" alt="Small Image">
     <div class="side-modal"></div>
 
+    <script src="/Football/Managers.js"></script>
     <script src="/Football/Search.js"></script>
     <script src="/Football/DescriptionInMainPage.js"></script>
-    <script type="module" src="Clubs.js"></script>
+    <script src="Clubs.js"></script>
 </body>
 
 </html>

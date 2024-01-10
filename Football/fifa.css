@@ -633,3 +633,17 @@ input::placeholder {
     color: white;
     display: none;
 }
+
+.coach {
+    font-size: 26px;
+    color: white;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.coach:hover {
+    text-decoration: underline;
+}

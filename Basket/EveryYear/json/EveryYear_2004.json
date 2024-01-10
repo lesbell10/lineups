@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "last_name": "McGrady",
+    "last_name": "T McGrady",
     "img": "/basket/img/players/T McGrady.png",
-    "full_name": "T McGrady",
+    "full_name": "Tracy McGrady",
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
@@ -41,9 +41,9 @@
   },
   {
     "id": 5,
-    "last_name": "O'Neal",
+    "last_name": "S O'Neal",
     "img": "/basket/img/players/S O'Neal.png",
-    "full_name": "S O'Neal",
+    "full_name": "Shaquille O'Neal",
     "team": "Retired",
     "nationality": "USA",
     "positions": ["Center"],

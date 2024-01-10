@@ -744,7 +744,7 @@
     "last_name": "R Hood",
     "img": "/basket/img/players/R Hood.png",
     "full_name": "Rodney Hood",
-    "team": "Los Angeles Clippers",
+    "team": "Free Agent",
     "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Scoring wing with a smooth jump shot."
@@ -794,7 +794,7 @@
     "last_name": "M Harrell",
     "img": "/basket/img/players/M Harrell.png",
     "full_name": "Montrezl Harrell",
-    "team": "Philadelphia 76ers",
+    "team": "Free Agent",
     "nationality": "USA",
     "positions": ["Power Forward", "Center"],
     "description": "High-energy forward-center and former Sixth Man of the Year."
@@ -921,13 +921,13 @@
   },
   {
     "id": 98,
-    "last_name": "Williams",
-    "img": "/basket/img/players/Williams.png",
-    "full_name": "Mark Williams",
+    "last_name": "Ma Williams",
+    "img": "/basket/img/players/Ma Williams.png",
+    "full_name": "Marvin Williams",
     "team": "Charlotte Hornets",
     "nationality": "USA",
-    "positions": ["Center"],
-    "description": "Rising center with shot-blocking and rebounding skills."
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Versatile forward, efficient shooter, strong defender and team player."
   },
   {
     "id": 99,
@@ -941,8 +941,8 @@
   },
   {
     "id": 100,
-    "last_name": "Looney",
-    "img": "/basket/img/players/Looney.png",
+    "last_name": "K Looney",
+    "img": "/basket/img/players/K Looney.png",
     "full_name": "Kevon Looney",
     "team": "Golden State Warriors",
     "nationality": "USA",
@@ -981,8 +981,8 @@
   },
   {
     "id": 104,
-    "last_name": "Lyles",
-    "img": "/basket/img/players/Lyles.png",
+    "last_name": "T Lyles",
+    "img": "/basket/img/players/T Lyles.png",
     "full_name": "Trey Lyles",
     "team": "Sacramento Kings",
     "nationality": "Canada",
@@ -1001,11 +1001,11 @@
   },
   {
     "id": 106,
-    "last_name": "O'Neal",
+    "last_name": "S O'Neal",
     "img": "/basket/img/players/S O'Neal.png",
     "full_name": "Shaquille O'Neal",
     "team": "Retired",
-    "nationality": "American",
+    "nationality": "USA",
     "positions": ["Center", "Power Forward"],
     "description": "Legendary NBA center known for his dominance and charisma."
 },
@@ -1015,6 +1015,7 @@
     "img": "/basket/img/players/M Malone.png",
     "full_name": "Moses Malone",
     "team": "Retired",
+    "nationality": "USA",
     "positions": ["Center", "Power Forward"],
     "description": "Hall of Fame NBA player, known for his rebounding and scoring ability"
   },
@@ -1024,6 +1025,7 @@
     "img": "/basket/img/players/Redd.png",
     "full_name": "Michael Redd",
     "team": "Retired",
+    "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Former NBA All-Star, known for his scoring ability"
   },
@@ -1033,6 +1035,7 @@
     "img": "/basket/img/players/Morris.png",
     "full_name": "Marcus Morris",
     "team": "Philadelphia 76ers",
+    "nationality": "USA",
     "positions": ["Power Forward", "Small Forward"],
     "description": "Versatile NBA forward, known for his scoring and toughness"
   },
@@ -1042,6 +1045,7 @@
     "img": "/basket/img/players/Powell.png",
     "full_name": "Norman Powell",
     "team": "Los Angeles Clippers",
+    "nationality": "USA",
     "positions": ["Shooting Guard", "Small Forward"],
     "description": "Dynamic NBA wing, known for his athleticism and scoring"
   },
@@ -1051,6 +1055,7 @@
     "img": "/basket/img/players/Hayes.png",
     "full_name": "Jaxson Hayes",
     "team": "Los Angeles Lakers",
+    "nationality": "USA",
     "positions": ["Center", "Power Forward"],
     "description": "Young NBA big man, known for his shot-blocking and athleticism"
   },
@@ -1060,6 +1065,7 @@
     "img": "/basket/img/players/R Lewis.png",
     "full_name": "Rashard Lewis",
     "team": "Retired",
+    "nationality": "USA",
     "positions": ["Small Forward", "Power Forward"],
     "description": "Former NBA All-Star, known for his scoring and three-point shooting"
   }

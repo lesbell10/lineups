@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "last_name": "Guardiola M",
+    "last_name": "Guardiola",
     "img": "/football/img/managers/Guardiola.webp",
     "full_name": "Pep Guardiola",
     "team": "Manchester City",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "last_name": "Zidane M",
+    "last_name": "Zidane",
     "img": "/football/img/managers/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "team": "No Club",
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "last_name": "Mancini M",
+    "last_name": "Mancini",
     "img": "/football/img/managers/Mancini.webp",
     "full_name": "Roberto Mancini",
     "team": "Saudi Arabia",
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "last_name": "Conte M",
+    "last_name": "Conte",
     "img": "/football/img/managers/Conte.webp",
     "full_name": "Antonio Conte",
     "team": "No Club",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "last_name": "Deschamps M",
+    "last_name": "Deschamps",
     "img": "/football/img/managers/Deschamps.webp",
     "full_name": "Didier Deschamps",
     "team": "France",
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "last_name": "Klinsmann M",
+    "last_name": "Klinsmann",
     "img": "/football/img/managers/Klinsmann.webp",
     "full_name": "Jürgen Klinsmann",
     "team": "South Korea",
@@ -351,7 +351,7 @@
   },
   {
     "id": 36,
-    "last_name": "Dalglish M",
+    "last_name": "Dalglish",
     "img": "/football/img/managers/Dalglish.webp",
     "full_name": "Kenny Dalglish",
     "team": "No Club",
@@ -361,7 +361,7 @@
   },
   {
     "id": 37,
-    "last_name": "van Basten M",
+    "last_name": "van Basten",
     "img": "/football/img/managers/van Basten.webp",
     "full_name": "Marco van Basten",
     "team": "No Club",
@@ -381,7 +381,7 @@
   },
   {
     "id": 39,
-    "last_name": "Koeman M",
+    "last_name": "Koeman",
     "img": "/football/img/managers/Koeman.webp",
     "full_name": "Ronald Koeman",
     "team": "Netherlands",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "last_name": "Villas-Boas",
-    "img": "/football/img/managers/Boas.webp",
+    "img": "/football/img/managers/Villas-Boas.webp",
     "full_name": "Andre Villas-Boas",
     "team": "No Club",
     "nationality": "Portugal",
@@ -471,8 +471,8 @@
   },
   {
     "id": 48,
-    "last_name": "Matteo",
-    "img": "/football/img/managers/Matteo.webp",
+    "last_name": "Di Matteo",
+    "img": "/football/img/managers/Di Matteo.webp",
     "full_name": "Roberto Di Matteo",
     "team": "Jeonbuk",
     "nationality": "Italy",
@@ -491,8 +491,8 @@
   },
   {
     "id": 50,
-    "last_name": "Enrique M",
-    "img": "/football/img/managers/Enrique.webp",
+    "last_name": "L Enrique",
+    "img": "/football/img/managers/L Enrique.webp",
     "full_name": "Luis Enrique",
     "team": "PSG",
     "nationality": "Spain",
@@ -641,8 +641,8 @@
   },
   {
     "id": 73,
-    "last_name": "Xavi M",
-    "img": "/football/img/managers/Xavi.webp",
+    "last_name": "Xavi Hernandez",
+    "img": "/football/img/managers/Xavi Hernandez.webp",
     "full_name": "Xavi",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -688,5 +688,15 @@
     "nationality": "England",
     "position": "Manager",
     "description": "Dignified, brought unity, England revivalist, penalty woes solver."
-  }
+  },
+  {
+  "id": 78,
+  "last_name": "Mazzarri",
+  "img": "/football/img/managers/Mazzarri.webp",
+  "full_name": "Walter Mazzarri",
+  "team": "Napoli",
+  "nationality": "Italy",
+  "position": "Manager",
+  "description": "Tactically astute, experienced in Italian Serie A."
+}
 ]

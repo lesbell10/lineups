@@ -27,6 +27,7 @@ const sideModal = document.querySelector(".side-modal")
 window.onload = function () {
     yearSelector.selectedIndex = 0;
 }
+
 const containers = document.querySelectorAll(".carousel-item");
 
 // Function to handle mouseover

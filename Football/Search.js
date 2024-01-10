@@ -318,9 +318,11 @@ const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 const activeLabel = document.querySelector(".act_players")
 const activeButton = document.getElementById("retiredFilter");
+const coach = document.querySelector(".coach")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
+    coach = ""
     includeRetired = true
     hideSomeThings();
     const query = "";
@@ -335,6 +337,7 @@ searchButton.addEventListener("click", function () {
 
 // Event listener for the 'Enter' key in the search input
 searchInput.addEventListener("input", function () {
+    coach = ""
     includeRetired = true
     hideSomeThings();
     const query = searchInput.value;
