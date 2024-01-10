@@ -13,6 +13,7 @@ const G = document.getElementById("G");
 const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
+const coach = document.querySelector(".coach");
 
 window.onload = function () {
     yearSelector.selectedIndex = 0;
@@ -89,7 +90,16 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+
+        coach.textContent = "Head Coach: Jim Montgomery"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(0)
+        });
     }
+
+
     if (selectedYear == "1") {
         FL.textContent = "J Skinner";
         FC.textContent = "T Thompson";
@@ -116,6 +126,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Don Granato"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(1)
         });
     }
 
@@ -146,6 +162,20 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Rod Brind'Amour"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(2)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "200px"
+            img.style.height = "133px"
+            img.style.margin = "-5px"
+            img.style.marginBottom = "10px"
+        });
+
+
     }
 
     if (selectedYear == "3") {
@@ -174,6 +204,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Pascal Vincent"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(3)
         });
     }
 
@@ -205,6 +241,12 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Derek Lalonde"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(4)
+        });
+
     }
 
     if (selectedYear == "5") {
@@ -234,6 +276,13 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Paul Maurice"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(5)
+        });
+
     }
 
     if (selectedYear == "6") {
@@ -263,6 +312,13 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(6)
+        });
+
     }
 
     if (selectedYear == "7") {
@@ -292,6 +348,13 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(7)
+        });
+
     }
 
     if (selectedYear == "8") {
@@ -320,6 +383,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(8)
         });
     }
 
@@ -350,6 +419,12 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(9)
+        });
     }
 
     if (selectedYear == "10") {
@@ -378,6 +453,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(10)
         });
     }
 
@@ -408,6 +489,12 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(11)
+        });
     }
 
     if (selectedYear == "12") {
@@ -436,6 +523,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(12)
         });
     }
 
@@ -466,6 +559,12 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(13)
+        });
     }
 
     if (selectedYear == "14") {
@@ -495,6 +594,12 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(14)
+        });
     }
 
     if (selectedYear == "15") {
@@ -523,6 +628,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Pep Guardiola"
+
+        coach.addEventListener("click", () => {
+            showManagerInfo(15)
         });
     }
 

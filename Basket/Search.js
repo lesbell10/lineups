@@ -322,11 +322,12 @@ function setActivePageButton(activePageIndex) {
 const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 const activeLabel = document.querySelector(".act_players")
-// Event listener for the 'Active' button
 const activeButton = document.getElementById("retiredFilter");
+const coaches = document.querySelector(".coach")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
+    coaches.style.display = "none" 
     includeRetired = true
     hideSomeThings();
     const query = "";
@@ -341,6 +342,7 @@ searchButton.addEventListener("click", function () {
 
 // Event listener for the 'Enter' key in the search input
 searchInput.addEventListener("input", function () {
+    coaches.style.display = "none" 
     includeRetired = true
     hideSomeThings();
     

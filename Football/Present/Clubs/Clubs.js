@@ -112,7 +112,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Manager: Pep Guardiola"
 
         coach.addEventListener("click", () => {
             showManagerInfo(3)
@@ -158,7 +158,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Carlo Ancelotti"
+        coach.textContent = "Manager: Carlo Ancelotti"
 
         coach.addEventListener("click", () => {
             showManagerInfo(5)
@@ -203,7 +203,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Luis Enrique"
+        coach.textContent = "Manager: Luis Enrique"
 
         coach.addEventListener("click", () => {
             showManagerInfo(50)
@@ -249,7 +249,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Thomas Tuchel"
+        coach.textContent = "Manager: Thomas Tuchel"
 
         coach.addEventListener("click", () => {
             showManagerInfo(28)
@@ -295,7 +295,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Jurgen Klopp"
+        coach.textContent = "Manager: Jurgen Klopp"
 
         coach.addEventListener("click", () => {
             showManagerInfo(7)
@@ -341,7 +341,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Xavi Hernandez"
+        coach.textContent = "Manager: Xavi Hernandez"
 
         coach.addEventListener("click", () => {
             showManagerInfo(73)
@@ -387,7 +387,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Mauricio Pochettino"
+        coach.textContent = "Manager: Mauricio Pochettino"
 
         coach.addEventListener("click", () => {
             showManagerInfo(55)
@@ -432,7 +432,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Erik ten Hag"
+        coach.textContent = "Manager: Erik ten Hag"
 
         coach.addEventListener("click", () => {
             showManagerInfo(59)
@@ -477,7 +477,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Massimiliano Allegri"
+        coach.textContent = "Manager: Massimiliano Allegri"
 
         coach.addEventListener("click", () => {
             showManagerInfo(38)
@@ -523,7 +523,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Mikel Arteta"
+        coach.textContent = "Manager: Mikel Arteta"
 
         coach.addEventListener("click", () => {
             showManagerInfo(70)
@@ -567,7 +567,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Simone Inzaghi"
+        coach.textContent = "Manager: Simone Inzaghi"
 
         coach.addEventListener("click", () => {
             showManagerInfo(67)
@@ -612,7 +612,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Diego Simeone"
+        coach.textContent = "Manager: Diego Simeone"
 
         coach.addEventListener("click", () => {
             showManagerInfo(51)
@@ -658,7 +658,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Stefano Pioli"
+        coach.textContent = "Manager: Stefano Pioli"
 
         coach.addEventListener("click", () => {
             showManagerInfo(72)
@@ -703,7 +703,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Walter Mazzarri"
+        coach.textContent = "Manager: Walter Mazzarri"
 
         coach.addEventListener("click", () => {
             showManagerInfo(78)
@@ -752,7 +752,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Ange Postecoglou"
+        coach.textContent = "Manager: Ange Postecoglou"
 
         coach.addEventListener("click", () => {
             showManagerInfo(75)
@@ -797,7 +797,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Jose Mourinho"
+        coach.textContent = "Manager: Jose Mourinho"
 
         coach.addEventListener("click", () => {
             showManagerInfo(4)
@@ -893,7 +893,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Manager: Pep Guardiola"
 
         coach.addEventListener("click", () => {
             showManagerInfo(3)
@@ -939,7 +939,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Carlo Ancelotti"
+        coach.textContent = "Manager: Carlo Ancelotti"
 
         coach.addEventListener("click", () => {
             showManagerInfo(5)
@@ -984,7 +984,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Luis Enrique"
+        coach.textContent = "Manager: Luis Enrique"
 
         coach.addEventListener("click", () => {
             showManagerInfo(50)
@@ -1030,7 +1030,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Thomas Tuchel"
+        coach.textContent = "Manager: Thomas Tuchel"
 
         coach.addEventListener("click", () => {
             showManagerInfo(28)
@@ -1076,7 +1076,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Jurgen Klopp"
+        coach.textContent = "Manager: Jurgen Klopp"
 
         coach.addEventListener("click", () => {
             showManagerInfo(7)
@@ -1122,7 +1122,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Xavi Hernandez"
+        coach.textContent = "Manager: Xavi Hernandez"
 
         coach.addEventListener("click", () => {
             showManagerInfo(73)
@@ -1168,7 +1168,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Mauricio Pochettino"
+        coach.textContent = "Manager: Mauricio Pochettino"
 
         coach.addEventListener("click", () => {
             showManagerInfo(55)
@@ -1213,7 +1213,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Erik ten Hag"
+        coach.textContent = "Manager: Erik ten Hag"
 
         coach.addEventListener("click", () => {
             showManagerInfo(59)
@@ -1258,7 +1258,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Massimiliano Allegri"
+        coach.textContent = "Manager: Massimiliano Allegri"
 
         coach.addEventListener("click", () => {
             showManagerInfo(38)
@@ -1304,7 +1304,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Mikel Arteta"
+        coach.textContent = "Manager: Mikel Arteta"
 
         coach.addEventListener("click", () => {
             showManagerInfo(70)
@@ -1348,7 +1348,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Simone Inzaghi"
+        coach.textContent = "Manager: Simone Inzaghi"
 
         coach.addEventListener("click", () => {
             showManagerInfo(67)
@@ -1393,7 +1393,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Diego Simeone"
+        coach.textContent = "Manager: Diego Simeone"
 
         coach.addEventListener("click", () => {
             showManagerInfo(51)
@@ -1439,7 +1439,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Stefano Pioli"
+        coach.textContent = "Manager: Stefano Pioli"
 
         coach.addEventListener("click", () => {
             showManagerInfo(72)
@@ -1484,7 +1484,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Walter Mazzarri"
+        coach.textContent = "Manager: Walter Mazzarri"
 
         coach.addEventListener("click", () => {
             showManagerInfo(78)
@@ -1533,7 +1533,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Ange Postecoglou"
+        coach.textContent = "Manager: Ange Postecoglou"
 
         coach.addEventListener("click", () => {
             showManagerInfo(75)
@@ -1578,7 +1578,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Jose Mourinho"
+        coach.textContent = "Manager: Jose Mourinho"
 
         coach.addEventListener("click", () => {
             showManagerInfo(4)

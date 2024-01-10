@@ -1,0 +1,162 @@
+[
+  {
+    "id": 0,
+    "last_name": "Montgomery",
+    "img": "/hockey/img/managers/Jim Montgomery.jpg",
+    "full_name": "Jim Montgomery",
+    "team": "Boston Bruins",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "Experienced coach with strong leadership skills."
+  },
+  {
+    "id": 1,
+    "last_name": "Granato",
+    "img": "/hockey/img/managers/Don Granato.jpg",
+    "full_name": "Don Granato",
+    "team": "Buffalo Sabres",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "American, passionate, adaptive coach with a focus on player development"
+  },
+  {
+    "id": 2,
+    "last_name": "Brind'Amour",
+    "img": "/hockey/img/managers/Rod Brind'Amour.jpg",
+    "full_name": "Rod Brind'Amour",
+    "team": "Carolina Hurricanes",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Inspirational leader, driving success in Carolina."
+  },
+  {
+    "id": 3,
+    "last_name": "Vincent",
+    "img": "/hockey/img/managers/Pascal Vincent.jpg",
+    "full_name": "Pascal Vincent",
+    "team": "Columbus Blue Jackets",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Analytical coach emphasizing patient, systematic player development."
+  },
+  {
+    "id": 4,
+    "last_name": "Lalonde",
+    "img": "/hockey/img/managers/Derek Lalonde.jpg",
+    "full_name": "Derek Lalonde",
+    "team": "Detroit Red Wings",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "American, analytical, defensive-minded coach, emphasizing adaptability and player growth."
+  },
+  {
+    "id": 5,
+    "last_name": "Maurice",
+    "img": "/hockey/img/managers/Paul Maurice.jpg",
+    "full_name": "Paul Maurice",
+    "team": "Florida Panthers",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Experienced strategic adaptable, intense respected veteran analytical commanding."
+  },
+  {
+    "id": 6,
+    "last_name": "St Louis",
+    "img": "/hockey/img/managers/Martin St Louis.jpg",
+    "full_name": "Martin St Louis",
+    "team": "Montreal Canadiens",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "American, passionate, adaptive coach with a focus on player development"
+  },
+  {
+    "id": 7,
+    "last_name": "Ruff",
+    "img": "/hockey/img/managers/Lindy Ruff.jpg",
+    "full_name": "Lindy Ruff",
+    "team": "New Jersey Devils",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Inspirational leader, driving success in Carolina."
+  },
+  {
+    "id": 8,
+    "last_name": "Lambert",
+    "img": "/hockey/img/managers/Lane Lambert.jpg",
+    "full_name": "Lane Lambert",
+    "team": "Columbus Blue Jackets",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Analytical coach emphasizing patient, systematic player development."
+  },
+  {
+    "id": 9,
+    "last_name": "Laviolette",
+    "img": "/hockey/img/managers/Peter Laviolette.jpg",
+    "full_name": "Peter Laviolette",
+    "team": "New York Rangers",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "American, analytical, defensive-minded coach, emphasizing adaptability and player growth."
+  },
+  {
+    "id": 10,
+    "last_name": "Martin",
+    "img": "/hockey/img/managers/Jacques Martin.jpg",
+    "full_name": "Jacques Martin",
+    "team": "Ottawa Senators",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Experienced coach with strong leadership skills."
+  },
+  {
+    "id": 11,
+    "last_name": "Tortorella",
+    "img": "/hockey/img/managers/John Tortorella.jpg",
+    "full_name": "John Tortorella",
+    "team": "Philadelphia Flyers",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "American, passionate, adaptive coach with a focus on player development"
+  },
+  {
+    "id": 12,
+    "last_name": "Sullivan",
+    "img": "/hockey/img/managers/Mike Sullivan.jpg",
+    "full_name": "Mike Sullivan",
+    "team": "Pittsburgh Penguins",
+    "nationality": "USA",
+    "position": "Head Coach",
+    "description": "Inspirational leader, driving success in Carolina."
+  },
+  {
+    "id": 13,
+    "last_name": "Cooper",
+    "img": "/hockey/img/managers/Jon Cooper.jpg",
+    "full_name": "Jon Cooper",
+    "team": "Tampa Bay Lightning",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "Analytical coach emphasizing patient, systematic player development."
+  },
+  {
+    "id": 14,
+    "last_name": "Keefe",
+    "img": "/hockey/img/managers/Sheldon Keefe.jpg",
+    "full_name": "Sheldon Keefe",
+    "team": "Toronto Maple Leafs",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "American, analytical, defensive-minded coach, emphasizing adaptability and player growth."
+  },
+  {
+    "id": 15,
+    "last_name": "Carbery",
+    "img": "/hockey/img/managers/Spencer Carbery.jpg",
+    "full_name": "Spencer Carbery",
+    "team": "Washington Capitals",
+    "nationality": "Canada",
+    "position": "Head Coach",
+    "description": "American, analytical, defensive-minded coach, emphasizing adaptability and player growth."
+  }
+]
