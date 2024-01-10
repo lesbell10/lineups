@@ -37,7 +37,7 @@ const handleMouseover = (event) => {
 
     // Modify the paragraph
     p.style.scale = "1.3";
-    p.style.transform = "translateY(2px) translateX(15px)";
+    p.style.transform = "translateX(15px)";
 };
 
 // Function to handle mouseout
@@ -54,12 +54,6 @@ const handleMouseout = (event) => {
     p.style.transform = "";
     p.style.transform = "";
 };
-
-// Add mouseover and mouseout event listeners to each container
-containers.forEach(container => {
-    container.addEventListener("mouseover", handleMouseover);
-    container.addEventListener("mouseout", handleMouseout);
-});
 
 // Add mouseover and mouseout event listeners to each container
 containers.forEach(container => {

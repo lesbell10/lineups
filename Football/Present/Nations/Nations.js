@@ -66,12 +66,6 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
-// Add mouseover and mouseout event listeners to each container
-containers.forEach(container => {
-    container.addEventListener("mouseover", handleMouseover);
-    container.addEventListener("mouseout", handleMouseout);
-});
-
 let selectedYear = 0;
 
 function updatePlayerInfo() {

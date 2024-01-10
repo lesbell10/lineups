@@ -143,7 +143,7 @@ function clearPageContentExceptNav() {
         document.querySelector(".mainbutton"),
         document.querySelector(".label"),
         document.querySelector("#forwardButton"),
-        document.querySelector("#backButton"),
+        document.querySelector("#backButton")
     ];
 
     // Hide or clear the selected elements
@@ -318,11 +318,10 @@ const searchInput = document.getElementById("searchInput");
 const searchButton = document.getElementById("searchButton");
 const activeLabel = document.querySelector(".act_players")
 const activeButton = document.getElementById("retiredFilter");
-const coach = document.querySelector(".coach")
+const coaches = document.querySelector(".coach")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
-    coach = ""
     includeRetired = true
     hideSomeThings();
     const query = "";
@@ -337,7 +336,7 @@ searchButton.addEventListener("click", function () {
 
 // Event listener for the 'Enter' key in the search input
 searchInput.addEventListener("input", function () {
-    coach = ""
+    coaches.style.display = "none"
     includeRetired = true
     hideSomeThings();
     const query = searchInput.value;
@@ -352,6 +351,7 @@ searchInput.addEventListener("input", function () {
 // Event listener for the 'Active' button
 
 activeButton.addEventListener("click", function () {
+    coaches.style.display = "none"
     // Check the current background color
     const backgroundColor = activeButton.style.backgroundColor;
 
@@ -370,7 +370,8 @@ activeButton.addEventListener("click", function () {
 });
 
 function hideSomeThings() {
-    const mainButton = document.querySelector(".mainbutton");
+    const mainButton = document.querySelector(".mainbutton")
+
     if (mainButton) {
         mainButton.style.display = "none";
     }

@@ -67,12 +67,6 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
-// Add mouseover and mouseout event listeners to each container
-containers.forEach(container => {
-    container.addEventListener("mouseover", handleMouseover);
-    container.addEventListener("mouseout", handleMouseout);
-});
-
 let selectedYear = 0;
 
 function updatePlayerInfo() {
@@ -717,7 +711,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "15") {
-        STC.textContent = "M Son"
+        STC.textContent = "Heung-M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
         FL.textContent = "B Johnson"
@@ -1498,7 +1492,7 @@ const updateDropdown = () => {
     }
 
     if (selectedYear == "15") {
-        STC.textContent = "M Son"
+        STC.textContent = "Heung-M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
         FL.textContent = "B Johnson"
