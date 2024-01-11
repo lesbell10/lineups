@@ -72,7 +72,7 @@
   {
     "id": 7,
     "last_name": "Ruff",
-    "img": "/hockey/img/managers/Lindy Ruff.jpg",
+    "img": "/hockey/img/managers/Lindy Ruff.webp",
     "full_name": "Lindy Ruff",
     "team": "New Jersey Devils",
     "nationality": "Canada",
@@ -82,9 +82,9 @@
   {
     "id": 8,
     "last_name": "Lambert",
-    "img": "/hockey/img/managers/Lane Lambert.jpg",
+    "img": "/hockey/img/managers/Lane Lambert.avif",
     "full_name": "Lane Lambert",
-    "team": "Columbus Blue Jackets",
+    "team": "New York Islanders",
     "nationality": "Canada",
     "position": "Head Coach",
     "description": "Analytical coach emphasizing patient, systematic player development."
@@ -102,7 +102,7 @@
   {
     "id": 10,
     "last_name": "Martin",
-    "img": "/hockey/img/managers/Jacques Martin.jpg",
+    "img": "/hockey/img/managers/Jacques Martin.avif",
     "full_name": "Jacques Martin",
     "team": "Ottawa Senators",
     "nationality": "Canada",
@@ -112,7 +112,7 @@
   {
     "id": 11,
     "last_name": "Tortorella",
-    "img": "/hockey/img/managers/John Tortorella.jpg",
+    "img": "/hockey/img/managers/John Tortorella.png",
     "full_name": "John Tortorella",
     "team": "Philadelphia Flyers",
     "nationality": "USA",
@@ -127,7 +127,7 @@
     "team": "Pittsburgh Penguins",
     "nationality": "USA",
     "position": "Head Coach",
-    "description": "Inspirational leader, driving success in Carolina."
+    "description": "Inspirational leader, driving success in Pittsburgh."
   },
   {
     "id": 13,
@@ -152,7 +152,7 @@
   {
     "id": 15,
     "last_name": "Carbery",
-    "img": "/hockey/img/managers/Spencer Carbery.jpg",
+    "img": "/hockey/img/managers/Spencer Carbery.webp",
     "full_name": "Spencer Carbery",
     "team": "Washington Capitals",
     "nationality": "Canada",

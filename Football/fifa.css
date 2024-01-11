@@ -262,6 +262,10 @@ nav.home {
     border-radius: 7px;
 }
 
+/* .player-info img {
+    border-radius: 20px;
+} */
+
 .description {
     margin-top: 40px;
     font-weight: bold;
@@ -641,9 +645,9 @@ input::placeholder {
     right: 50px;
     bottom: 50px;
     background-color: black;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
-.coach:hover {
+/* .coach:hover {
     text-decoration: underline;
-}
+} */

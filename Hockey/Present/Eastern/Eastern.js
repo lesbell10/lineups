@@ -96,6 +96,11 @@ function updatePlayerInfo() {
 
         coach.addEventListener("click", () => {
             showManagerInfo(0)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "100px"
+            img.style.height = "125px"
+            img.style.marginBottom = "10px"
         });
     }
 
@@ -132,7 +137,15 @@ function updatePlayerInfo() {
 
         coach.addEventListener("click", () => {
             showManagerInfo(1)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "200px"
+            img.style.height = "133px"
+            img.style.margin = "-3px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
+
     }
 
     if (selectedYear == "2") {
@@ -171,8 +184,9 @@ function updatePlayerInfo() {
             const img = document.querySelector(".player-info img")
             img.style.width = "200px"
             img.style.height = "133px"
-            img.style.margin = "-5px"
+            img.style.margin = "-3px"
             img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
 
 
@@ -210,6 +224,12 @@ function updatePlayerInfo() {
 
         coach.addEventListener("click", () => {
             showManagerInfo(3)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "108px"
+            img.style.height = "150px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -245,6 +265,12 @@ function updatePlayerInfo() {
 
         coach.addEventListener("click", () => {
             showManagerInfo(4)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "100px"
+            img.style.height = "140px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
 
     }
@@ -281,6 +307,13 @@ function updatePlayerInfo() {
 
         coach.addEventListener("click", () => {
             showManagerInfo(5)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "150px"
+            img.style.height = "150px"
+            img.style.margin = "-5px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
 
     }
@@ -313,10 +346,16 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Martin St Louis"
 
         coach.addEventListener("click", () => {
             showManagerInfo(6)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "106px"
+            img.style.height = "147px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
 
     }
@@ -349,10 +388,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Lindy Ruff"
 
         coach.addEventListener("click", () => {
             showManagerInfo(7)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "150px"
+            img.style.height = "150px"
+            img.style.margin = "-5px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
 
     }
@@ -385,10 +431,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Lane Lambert"
 
         coach.addEventListener("click", () => {
             showManagerInfo(8)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "210px"
+            img.style.height = "117px"
+            img.style.margin = "-7px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -420,10 +473,16 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Peter Laviolette"
 
         coach.addEventListener("click", () => {
             showManagerInfo(9)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "102px"
+            img.style.height = "147px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -455,10 +514,16 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Jacques Martin"
 
         coach.addEventListener("click", () => {
             showManagerInfo(10)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "195px"
+            img.style.height = "109px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -490,10 +555,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: John Tortorella"
 
         coach.addEventListener("click", () => {
             showManagerInfo(11)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "115px"
+            img.style.height = "125px"
+            img.style.margin = "-3px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -525,10 +597,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Mike Sullivan"
 
         coach.addEventListener("click", () => {
             showManagerInfo(12)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "152px"
+            img.style.height = "105px"
+            img.style.margin = "-3px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -560,10 +639,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Jon Cooper"
 
         coach.addEventListener("click", () => {
             showManagerInfo(13)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "210px"
+            img.style.height = "117px"
+            img.style.margin = "-7px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -595,10 +681,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Sheldon Keefe"
 
         coach.addEventListener("click", () => {
             showManagerInfo(14)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "202px"
+            img.style.height = "104px"
+            img.style.margin = "-5px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
@@ -630,10 +723,17 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Pep Guardiola"
+        coach.textContent = "Head Coach: Spencer Carbery"
 
         coach.addEventListener("click", () => {
             showManagerInfo(15)
+
+            const img = document.querySelector(".player-info img")
+            img.style.width = "210px"
+            img.style.height = "140px"
+            img.style.margin = "-8px"
+            img.style.marginBottom = "10px"
+            img.style.borderRadius = "20px"
         });
     }
 
