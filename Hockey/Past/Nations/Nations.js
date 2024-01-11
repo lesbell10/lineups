@@ -13,6 +13,8 @@ const G = document.getElementById("G");
 const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
+const containers = document.querySelectorAll(".carousel-item");
+const coach = document.querySelector(".coach");
 
 let selectedYear = 0;
 
@@ -23,7 +25,6 @@ window.onload = function () {
     yearSelector.selectedIndex = 0;
 }
 
-const containers = document.querySelectorAll(".carousel-item");
 
 // Function to handle mouseover
 const handleMouseover = (event) => {
@@ -38,7 +39,7 @@ const handleMouseover = (event) => {
     // Modify the paragraph
     p.style.scale = "1.3";
     p.style.transform = "translateX(15px)";
-};
+};http://127.0.0.1:5501/Football/index.html
 
 // Function to handle mouseout
 const handleMouseout = (event) => {

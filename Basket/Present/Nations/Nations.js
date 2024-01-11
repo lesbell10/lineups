@@ -13,12 +13,13 @@ const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal");
 const managers = document.querySelector(".managers");
 const man_img = document.querySelector(".man_wrapper img");
+const containers = document.querySelectorAll(".carousel-item");
+const coach = document.querySelector(".coach");
 
 window.onload = function () {
     yearSelector.selectedIndex = 0;
 }
 
-const containers = document.querySelectorAll(".carousel-item");
 
 // Function to handle mouseover
 const handleMouseover = (event) => {

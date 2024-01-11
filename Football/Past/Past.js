@@ -23,14 +23,14 @@ const GK = document.getElementById("GK");
 const GK2 = document.getElementById("GK2");
 const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
+const containers = document.querySelectorAll(".carousel-item");
+const coach = document.querySelector(".coach");
 
 window.onload = function () {
     smallpic.style.scale = '1.35'
     smallpic.style.top = "43%"
     smallpic.style.left = "7%"
 }
-
-const containers = document.querySelectorAll(".carousel-item");
 
 // Function to handle mouseover
 const handleMouseover = (event) => {

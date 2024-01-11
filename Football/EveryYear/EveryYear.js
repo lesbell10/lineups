@@ -25,6 +25,9 @@ const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 const pimg = document.querySelectorAll(".carousel-item img")
 const ptext = document.querySelectorAll(".carousel-item p")
+const containers = document.querySelectorAll(".carousel-item");
+const coach = document.querySelector(".coach");
+
 
 window.onload = function () {
     smallpic.style.scale = '.85'
@@ -32,7 +35,6 @@ window.onload = function () {
 }
 
 
-const containers = document.querySelectorAll(".carousel-item");
 
 // Function to handle mouseover
 const handleMouseover = (event) => {
