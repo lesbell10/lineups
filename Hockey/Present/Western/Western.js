@@ -92,6 +92,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Greg Cronin"
     }
 
     if (selectedYear == "1") {
@@ -122,6 +123,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Andre Tourigny"
     }
 
     if (selectedYear == "2") {
@@ -152,6 +154,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Ryan Huska"
     }
 
     if (selectedYear == "3") {
@@ -186,6 +189,8 @@ function updatePlayerInfo() {
 
         FC2.style.width = '120px';
         FC2.style.objectFit = "cover";
+
+        coach.textContent = "Head Coach: Luke Richardson"
     }
 
     if (selectedYear == "4") {
@@ -216,6 +221,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jared Bednar"
     }
 
     if (selectedYear == "5") {
@@ -246,6 +252,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Peter DeBoer"
     }
 
     if (selectedYear == "6") {
@@ -276,6 +283,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Kris Knoblauch"
     }
 
     if (selectedYear == "7") {
@@ -306,6 +314,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
     if (selectedYear == "8") {
@@ -338,6 +347,8 @@ function updatePlayerInfo() {
 
         FL2.style.width = '120px';
         FL2.style.objectFit = "cover";
+
+        coach.textContent = "Head Coach: John Hynes"
     }
 
     if (selectedYear == "9") {
@@ -368,6 +379,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Andrew Brunette"
     }
 
     if (selectedYear == "10") {
@@ -398,6 +410,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: David Quinn"
     }
 
     if (selectedYear == "11") {
@@ -428,6 +441,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dave Hakstol"
     }
 
     if (selectedYear == "12") {
@@ -458,6 +472,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Drew Bannister"
     }
     if (selectedYear == "13") {
         FL.textContent = "JT Miller";
@@ -487,92 +502,95 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-
         FR2.style.width = '120px';
         FR2.style.objectFit = "cover";
-    }
+        
+        coach.textContent = "Head Coach: Rick Tocchet"
 
-    if (selectedYear == "14") {
-        FL.textContent = "Marchessault";
-        FC.textContent = "Eichel";
-        FR.textContent = "Stone";
-        DL.textContent = "Theodore";
-        DR.textContent = "Pietrangelo";
-        G.textContent = "Lehner";
+        if (selectedYear == "14") {
+            FL.textContent = "Marchessault";
+            FC.textContent = "Eichel";
+            FR.textContent = "Stone";
+            DL.textContent = "Theodore";
+            DR.textContent = "Pietrangelo";
+            G.textContent = "Lehner";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+            FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+            FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+            FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+            DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+            DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+            G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/vegas.gif";
+            smallpic.src = "/hockey/img/logos/vegas.gif";
 
-        MainFetchPopUp("/hockey/present/western/json/vegas.json");
+            MainFetchPopUp("/hockey/present/western/json/vegas.json");
 
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "The Vegas Golden Knights in the 2022-2023 season continued to uphold their reputation as a strong and competitive team in the NHL. Since their inception, the Golden Knights have been known for their aggressive and fast-paced style of play, and this season was no exception, winning the Stanley Cup."
-        })
+            smallpic.addEventListener('mouseover', () => {
+                sideModal.style.display = 'block'
+                sideModal.textContent = "The Vegas Golden Knights in the 2022-2023 season continued to uphold their reputation as a strong and competitive team in the NHL. Since their inception, the Golden Knights have been known for their aggressive and fast-paced style of play, and this season was no exception, winning the Stanley Cup."
+            })
 
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        });
+            smallpic.addEventListener("mouseout", () => {
+                sideModal.style.display = 'none'; // Hide the modal
+            });
 
-    }
-
-    if (selectedYear == "15") {
-        FL.textContent = "Connor";
-        FC.textContent = "Scheifele";
-        FR.textContent = "Ehlers";
-        DL.textContent = "Morrissey";
-        DR.textContent = "Pionk";
-        G.textContent = "Hellebuyck";
-
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-
-        smallpic.src = "/hockey/img/logos/winnipeg.gif";
-
-        MainFetchPopUp("/hockey/present/western/json/winnipeg.json");
-
-        smallpic.addEventListener('mouseover', () => {
-            sideModal.style.display = 'block'
-            sideModal.textContent = "The Winnipeg Jets in the 2022-2023 season demonstrated a blend of resilience and the need for strategic improvement. Known for their balanced approach, combining skilled offensive play with solid goaltending, the Jets aimed to strengthen their position in a highly competitive division."
-        })
-
-        smallpic.addEventListener("mouseout", () => {
-            sideModal.style.display = 'none'; // Hide the modal
-        });
-
-    }
-
-
-    function clearAndFadeInElements() {
-        const elements = [
-            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
-        ];
-
-        document.getElementById("smallpic").classList.add("fade-in")
-
-        for (const element of elements) {
-            element.classList.add("fade-in");
+            coach.textContent = "Head Coach: Bruce Cassidy"
         }
 
-        // Remove the "fade-in" class after the animation is complete
-        setTimeout(function () {
+        if (selectedYear == "15") {
+            FL.textContent = "Connor";
+            FC.textContent = "Scheifele";
+            FR.textContent = "Ehlers";
+            DL.textContent = "Morrissey";
+            DR.textContent = "Pionk";
+            G.textContent = "Hellebuyck";
+
+            FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+            FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+            FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+            DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+            DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+            G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+            smallpic.src = "/hockey/img/logos/winnipeg.gif";
+
+            MainFetchPopUp("/hockey/present/western/json/winnipeg.json");
+
+            smallpic.addEventListener('mouseover', () => {
+                sideModal.style.display = 'block'
+                sideModal.textContent = "The Winnipeg Jets in the 2022-2023 season demonstrated a blend of resilience and the need for strategic improvement. Known for their balanced approach, combining skilled offensive play with solid goaltending, the Jets aimed to strengthen their position in a highly competitive division."
+            })
+
+            smallpic.addEventListener("mouseout", () => {
+                sideModal.style.display = 'none'; // Hide the modal
+            });
+
+            coach.textContent = "Head Coach: Rick Bowness"
+        }
+
+
+        function clearAndFadeInElements() {
+            const elements = [
+                FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
+            ];
+
+            document.getElementById("smallpic").classList.add("fade-in")
+
             for (const element of elements) {
-                element.classList.remove("fade-in");
+                element.classList.add("fade-in");
             }
-            document.getElementById("smallpic").classList.remove("fade-in")
-        }, 500); // Adjust the timeout value based on your animation duration
+
+            // Remove the "fade-in" class after the animation is complete
+            setTimeout(function () {
+                for (const element of elements) {
+                    element.classList.remove("fade-in");
+                }
+                document.getElementById("smallpic").classList.remove("fade-in")
+            }, 500); // Adjust the timeout value based on your animation duration
+        }
+        clearAndFadeInElements();
     }
-    clearAndFadeInElements();
 }
 
 // Listen for changes in the year selection

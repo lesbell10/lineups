@@ -322,6 +322,7 @@ const coaches = document.querySelector(".coach")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
+    coaches.style.display = "none"
     includeRetired = true
     hideSomeThings();
     const query = "";
@@ -351,7 +352,6 @@ searchInput.addEventListener("input", function () {
 // Event listener for the 'Active' button
 
 activeButton.addEventListener("click", function () {
-    coaches.style.display = "none"
     // Check the current background color
     const backgroundColor = activeButton.style.backgroundColor;
 

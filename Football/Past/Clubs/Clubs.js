@@ -109,6 +109,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Pep Guardiola"
     }
 
     if (selectedYear == "14") {
@@ -148,6 +150,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Zinedine Zidane"
     }
 
     if (selectedYear == "13") {
@@ -187,11 +191,13 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Thomas Tuchel"
     }
 
     if (selectedYear == "5") {
 
-        STC.textContent = "Lewandowksi";
+        STC.textContent = "Lewandowski";
         FR.textContent = "Robben";
         AMC.textContent = "Muller";
         FL.textContent = "Ribery";
@@ -227,6 +233,9 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jupp Heynckes"
+
     }
 
     if (selectedYear == "9") {
@@ -268,6 +277,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Jurgen Klopp"
 
     }
 
@@ -309,6 +319,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Pep Guardiola"
     }
 
     if (selectedYear == "6") {
@@ -349,6 +361,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jose Mourinho"
 
     }
 
@@ -391,11 +405,13 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Sir Alex Ferguson"
+
     }
 
     if (selectedYear == "8") {
         STC.textContent = "Higuain";
-        FR.textContent = "D Costa";
+        FR.textContent = "Do Costa";
         AMC.textContent = "Dybala";
         FL.textContent = "C Ronaldo";
         CMR.textContent = "Pjanic";
@@ -431,6 +447,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Antonio Conte"
     }
 
     if (selectedYear == "1") {
@@ -471,11 +488,12 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Arsene Wenger"
     }
 
     if (selectedYear == "7") {
         STC.textContent = "D Milito";
-        FR.textContent = "Alexis";
+        FR.textContent = "A Sanchez";
         AMC.textContent = "Sneijder";
         FL.textContent = "Perisic";
         CMR.textContent = "Nainggolan";
@@ -511,6 +529,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Jose Mourinho"
     }
 
     if (selectedYear == "3") {
@@ -551,6 +570,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Diego Simeone"
     }
 
     if (selectedYear == "0") {
@@ -590,6 +610,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Massimiliano Allegri"
     }
 
     if (selectedYear == "12") {
@@ -601,7 +623,7 @@ function updatePlayerInfo() {
         CML.textContent = "Jorginho";
         DR.textContent = "Maggio";
         DCR.textContent = "Koulibaly";
-        DCL.textContent = "Albiol";
+        DCL.textContent = "R Albiol";
         DL.textContent = "Ghoulam";
         GK.textContent = "P Reina";
 
@@ -630,6 +652,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Maurizio Sarri"
     }
 
     if (selectedYear == "15") {
@@ -670,6 +693,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Maurici Pochetino"
     }
 
     if (selectedYear == "2") {
@@ -710,6 +734,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Luciano Spalletti"
     }
 
 

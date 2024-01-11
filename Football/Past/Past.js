@@ -107,6 +107,8 @@ function updatePlayerInfo() {
         sideModal.style.display = 'none'; // Hide the modal
     });
 
+    coach.textContent = "Best Manager: Jose Mourinho"
+
     function clearAndFadeInElements() {
         const elements = [
             STC, STC2,

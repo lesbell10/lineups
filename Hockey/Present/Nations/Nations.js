@@ -95,6 +95,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Andre Tourigny"
     }
 
     if (selectedYear == "1") {
@@ -125,6 +127,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Radim Rulik"
     }
 
 
@@ -156,6 +160,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Jukka Jalonen"
     }
 
     if (selectedYear == "3") {
@@ -185,7 +191,9 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        });
+        }); 
+
+        coach.textContent = "Head Coach: Harold Kreis"
     }
 
     if (selectedYear == "4") {
@@ -216,6 +224,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Alexei Zhamnov"
     }
 
     if (selectedYear == "5") {
@@ -246,6 +256,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Craig Ramsey"
     }
 
     if (selectedYear == "6") {
@@ -276,6 +288,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Sam Hallan"
     }
 
     if (selectedYear == "7") {
@@ -305,6 +319,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Patrick Fischer"
 
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
@@ -337,6 +353,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: David Quinn"
     }
 
     function clearAndFadeInElements() {

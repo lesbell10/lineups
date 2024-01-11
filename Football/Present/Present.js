@@ -107,6 +107,7 @@ function updatePlayerInfo() {
         sideModal.style.display = 'none'; // Hide the modal
     });
 
+    coach.textContent = "Manager: Pep Guardiola"
     // smallpic.addEventListener('mouseover', () => {
     //             sideModal.style.display = 'block'
     //             sideModal.textContent = "Last season, Erling Haaland, following his transfer from Borussia Dortmund to Manchester City, demonstrated exceptional skill with record-breaking Premier League starts, significant Champions League contributions, and resilience in overcoming minor injuries and occasional non-scoring games."

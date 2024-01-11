@@ -39,7 +39,7 @@ const handleMouseover = (event) => {
     // Modify the paragraph
     p.style.scale = "1.3";
     p.style.transform = "translateX(15px)";
-};http://127.0.0.1:5501/Football/index.html
+};
 
 // Function to handle mouseout
 const handleMouseout = (event) => {
@@ -95,6 +95,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "1") {
@@ -125,6 +126,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Vladimir Ruzicka"
     }
 
 
@@ -156,6 +158,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jukka Jalonen"
     }
 
 
@@ -187,6 +190,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Marco Sturm"
     }
 
 
@@ -218,6 +222,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Zinetula Bilyaletdinov"
+
     }
 
     if (selectedYear == "5") {
@@ -248,6 +254,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jan Filc"
     }
 
 
@@ -279,6 +286,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Par Marts"
     }
 
     if (selectedYear == "7") {
@@ -309,13 +317,14 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Sean Simpson"
     }
 
 
     if (selectedYear == "8") {
         FL.textContent = "Kessel";
         FC.textContent = "Matthews";
-        FR.textContent = "Kane";
+        FR.textContent = "P Kane";
         DL.textContent = "Suter";
         DR.textContent = "Carlson";
         G.textContent = "Quick";
@@ -340,6 +349,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dan Bylsma"
     }
 
     function clearAndFadeInElements() {

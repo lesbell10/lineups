@@ -92,6 +92,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Claude Julien"
+
     }
 
     if (selectedYear == "1") {
@@ -122,6 +124,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Lindy Ruff"
     }
 
     if (selectedYear == "2") {
@@ -152,6 +155,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Rod Brind'Amour"
     }
 
     if (selectedYear == "3") {
@@ -182,6 +186,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: John Tortorella"
     }
 
     if (selectedYear == "4") {
@@ -212,6 +217,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "5") {
@@ -242,6 +248,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Gerard Gallant"
     }
 
     if (selectedYear == "6") {
@@ -272,6 +279,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Michel Therrien"
     }
 
     if (selectedYear == "7") {
@@ -302,6 +310,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Peter DeBoer"
     }
 
     if (selectedYear == "8") {
@@ -332,6 +341,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Barry Trotz"
     }
 
     if (selectedYear == "9") {
@@ -360,9 +370,12 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        });
+        })
 
-    } if (selectedYear == "10") {
+        coach.textContent = "Head Coach: Alain Vigneault"
+    }
+    
+    if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
         FR.textContent = "Stone";
@@ -389,6 +402,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Paul MacLean"
 
     } if (selectedYear == "11") {
         FL.textContent = "Giroux";;
@@ -417,7 +432,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-
+        
+        coach.textContent = "Head Coach: Peter Laviolette"
     }
 
     if (selectedYear == "12") {
@@ -447,7 +463,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-
+        
+        coach.textContent = "Head Coach: Dan Bylsma"
     }
 
     if (selectedYear == "13") {
@@ -478,6 +495,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jon Cooper"
     }
 
     if (selectedYear == "14") {
@@ -508,6 +526,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "15") {
@@ -537,6 +556,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Barry Trotz"
     }
     function clearAndFadeInElements() {
         const elements = [

@@ -214,7 +214,7 @@ nav.home {
 
 #results {
     padding: 10px;
-    width: 85%;
+    width: 90%;
     margin: 0 auto;
     overflow-y: auto;
     display: flex;
@@ -541,9 +541,10 @@ h6 {
     color: white;
     position: absolute;
     right: 50px;
-    bottom: 50px;
+    bottom: 30px;
     background-color: black;
     cursor: pointer;
+    display: none;
 }
 
 /* .coach:hover {

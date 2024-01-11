@@ -93,6 +93,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = ""
     }
 
     if (selectedYear == "19") {
@@ -121,6 +122,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Best Head Coach: Erik Spoesltra"
     }
 
     if (selectedYear == "18") {
@@ -149,6 +152,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Steve Kerr"
     }
 
     if (selectedYear == "17") {
@@ -177,6 +182,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Monty Williams"
     }
 
     if (selectedYear == "16") {
@@ -205,6 +212,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Frank Vogel"
     }
 
     if (selectedYear == "15") {
@@ -233,6 +242,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Nick Nurse"
     }
 
     if (selectedYear == "14") {
@@ -261,6 +272,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Steve Kerr"
     }
 
     if (selectedYear == "13") {
@@ -289,6 +302,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Steve Kerr"
     }
 
     if (selectedYear == "12") {
@@ -317,6 +332,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Tyronn Lue"
     }
 
     if (selectedYear == "11") {
@@ -345,6 +362,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Steve Kerr"
     }
 
     if (selectedYear == "10") {
@@ -373,6 +392,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Gregg Popovich"
     }
 
     if (selectedYear == "9") {
@@ -401,6 +422,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Erik Spoelstra"
     }
 
     if (selectedYear == "8") {
@@ -429,6 +452,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Erik Spoelstra"
 
     }
 
@@ -459,6 +484,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Head Coach: Rick Carlisle"
     }
 
     if (selectedYear == "6") {
@@ -488,6 +514,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Head Coach: Phil Jackson"
     }
 
     if (selectedYear == "5") {
@@ -516,6 +543,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Phil Jackson"
     }
 
     if (selectedYear == "4") {
@@ -544,6 +573,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Doc Rivers"
     }
 
     if (selectedYear == "3") {
@@ -572,6 +603,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Gregg Popovich"
     }
 
     if (selectedYear == "2") {
@@ -600,6 +633,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Pat Riley"
     }
 
     if (selectedYear == "1") {
@@ -628,6 +663,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Gregg Popovich"
     }
 
     if (selectedYear == "0") {
@@ -656,6 +693,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Larry Brown"
     }
 
     function clearAndFadeInElements() {

@@ -29,8 +29,8 @@ const handleMouseover = (event) => {
 
     // Modify the image
     img.style.height = "31%";
-    img.style.transform = "translateY(-65px)";
-
+    img.style.transform = "translateY(-22%)";
+    
     // Modify the paragraph
     p.style.scale = "1.3";
     p.style.transform = "translateY(10px) translateX(25px)";

@@ -32,7 +32,7 @@ function updatePlayerInfo() {
 
         // Modify the image
         img.style.height = "31%";
-        img.style.transform = "translateY(-65px)";
+        img.style.transform = "translateY(-22%)";
 
         // Modify the paragraph
         p.style.scale = "1.3";
@@ -89,6 +89,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Quin Snyder"
     }
 
     if (selectedYear == "1") {
@@ -116,6 +117,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Joe Mazzulla"
 
     }
 
@@ -145,6 +148,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jacque Vaughn"
     }
 
     if (selectedYear == "3") {
@@ -173,6 +177,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Steve Clifford"
     }
 
     if (selectedYear == "4") {
@@ -201,6 +206,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Billy Donovan"
+
     }
 
     if (selectedYear == "5") {
@@ -228,6 +235,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+        
+        coach.textContent = "Head Coach: J. B. Bickerstaff"
 
     }
 
@@ -257,6 +266,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Monty Williams"
     }
 
     if (selectedYear == "7") {
@@ -284,6 +294,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Rick Carlisle"
 
     }
 
@@ -313,6 +325,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Erik Spoelstra"
+
     }
 
     if (selectedYear == "9") {
@@ -340,6 +354,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Adrian Griffin"
 
     }
 
@@ -369,6 +385,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Tom Thibodeau"
+
     }
 
     if (selectedYear == "11") {
@@ -396,6 +414,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Jamahl Mosley"
 
     }
 
@@ -425,6 +445,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Nick Nurse"
     }
 
     if (selectedYear == "13") {
@@ -453,6 +474,8 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Darko Rajaković"
+
     }
 
     if (selectedYear == "14") {
@@ -480,6 +503,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Wes Unseld Jr."
 
     }
 

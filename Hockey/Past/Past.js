@@ -82,6 +82,7 @@ function updatePlayerInfo() {
         sideModal.style.display = 'none'; // Hide the modal
     });
 
+    coach.textContent = "Best Head Coach: Joel Quenneville"
 
     function clearAndFadeInElements() {
         const elements = [

@@ -79,7 +79,7 @@ function updatePlayerInfo() {
         sideModal.style.display = 'none'; // Hide the modal
     });
 
-
+    coach.textContent = "Best Head Coach: John Tortorella"
 
     //     smallpic.addEventListener('mouseover', () => {
     //     sideModal.style.display = 'block'

@@ -92,6 +92,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Bruce Boudreau"
     }
 
     if (selectedYear == "1") {
@@ -122,6 +123,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dave Tippett"
     }
 
     if (selectedYear == "2") {
@@ -152,6 +154,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Bob Hartley"
     }
 
     if (selectedYear == "3") {
@@ -182,6 +185,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Joel Quenneville"
     }
 
     if (selectedYear == "4") {
@@ -212,6 +216,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Patrick Roy"
     }
 
 
@@ -243,6 +248,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Lindy Ruff"
     }
 
     if (selectedYear == "6") {
@@ -273,6 +279,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
     if (selectedYear == "7") {
@@ -303,6 +310,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Darryl Sutter"
     }
 
     if (selectedYear == "8") {
@@ -333,6 +341,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Yeo"
     }
 
     if (selectedYear == "9") {
@@ -363,6 +372,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Barry Trotz"
     }
 
     if (selectedYear == "10") {
@@ -393,6 +403,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
 
@@ -425,6 +436,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Ken Hitchcock"
     }
 
     if (selectedYear == "12") {
@@ -456,6 +468,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Alain Vigneault"  
     }
 
     if (selectedYear == "13") {
@@ -487,6 +500,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Gerard Gallant"
     }
 
     if (selectedYear == "14") {
@@ -517,6 +531,8 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Claude Noel"
     }
 
     function clearAndFadeInElements() {
