@@ -626,6 +626,8 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Claude Julien"
+
     }
 
     if (selectedYear == "1") {
@@ -656,6 +658,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Lindy Ruff"
     }
 
     if (selectedYear == "2") {
@@ -686,6 +689,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Rod Brind'Amour"
     }
 
     if (selectedYear == "3") {
@@ -716,6 +720,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: John Tortorella"
     }
 
     if (selectedYear == "4") {
@@ -746,6 +751,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "5") {
@@ -776,6 +782,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Gerard Gallant"
     }
 
     if (selectedYear == "6") {
@@ -806,6 +813,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Michel Therrien"
     }
 
     if (selectedYear == "7") {
@@ -836,6 +844,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Peter DeBoer"
     }
 
     if (selectedYear == "8") {
@@ -866,6 +875,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Barry Trotz"
     }
 
     if (selectedYear == "9") {
@@ -894,9 +904,12 @@ const updateDropdown = () => {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        });
+        })
 
-    } if (selectedYear == "10") {
+        coach.textContent = "Head Coach: Alain Vigneault"
+    }
+    
+    if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
         FR.textContent = "Stone";
@@ -923,6 +936,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Paul MacLean"
 
     } if (selectedYear == "11") {
         FL.textContent = "Giroux";;
@@ -951,7 +966,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-
+        
+        coach.textContent = "Head Coach: Peter Laviolette"
     }
 
     if (selectedYear == "12") {
@@ -981,7 +997,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-
+        
+        coach.textContent = "Head Coach: Dan Bylsma"
     }
 
     if (selectedYear == "13") {
@@ -1012,6 +1029,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jon Cooper"
     }
 
     if (selectedYear == "14") {
@@ -1042,6 +1060,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "15") {
@@ -1071,6 +1090,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Barry Trotz"
     }
 
     function clearAndFadeInElements() {

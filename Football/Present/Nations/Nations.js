@@ -580,6 +580,7 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+        coach.textContent = "Manager: Didier Deschamps"
     }
 
     if (selectedYear == "2") {
@@ -621,6 +622,8 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Manager: Dorival Junior"
+
     }
 
     if (selectedYear == "9") {
@@ -661,6 +664,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Luis de la Fuente"
     }
 
     if (selectedYear == "3") {
@@ -701,6 +706,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Gareth Southgate"
     }
 
     if (selectedYear == "5") {
@@ -741,6 +748,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Julian Nagelsmann"
     }
 
     if (selectedYear == "0") {
@@ -781,7 +790,10 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Lionel Scaloni"
     }
+
     if (selectedYear == "6") {
 
         STC.textContent = "Immobile";
@@ -820,6 +832,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Luciano Spalletti"
     }
 
     if (selectedYear == "8") {
@@ -860,6 +874,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Roberto Martinez"
     }
 
     if (selectedYear == "1") {
@@ -899,6 +915,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Manager: Dominico Tedesco"
     }
 
     if (selectedYear == "7") {
@@ -939,8 +957,9 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-    }
 
+        coach.textContent = "Manager: Ronald Koeman"
+    }
 
 
     function clearAndFadeInElements() {

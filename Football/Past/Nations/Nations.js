@@ -576,6 +576,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Didier Deschamps"
     }
 
     if (selectedYear == "2") {
@@ -615,6 +617,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Tite"
     }
 
     if (selectedYear == "9") {
@@ -656,6 +660,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Vicente del Bosque"
     }
 
     if (selectedYear == "3") {
@@ -697,6 +702,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Gareth Southgate"
     }
 
     if (selectedYear == "5") {
@@ -737,6 +743,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Joachim Low"
     }
 
     if (selectedYear == "0") {
@@ -776,6 +784,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Alejandro Sabella"
     }
 
     if (selectedYear == "6") {
@@ -816,6 +826,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Cesare Prandelli"
     }
 
     if (selectedYear == "8") {
@@ -855,6 +867,9 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Fernando Santos"
+
     }
 
     if (selectedYear == "1") {
@@ -894,6 +909,9 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Roberto Martinez"
+
     }
 
 
@@ -935,6 +953,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Louis van Gaal"
     }
 
     function clearAndFadeInElements() {

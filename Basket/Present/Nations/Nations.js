@@ -217,6 +217,9 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        // managers.textContent = "Head Coach: Jose Mourinho"
+        // man_img.src = "/football/img/managers/mourinho.webp"
     }
 
 
@@ -274,6 +277,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
     }
+
 
 
 

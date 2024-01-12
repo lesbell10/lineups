@@ -788,6 +788,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = ""
     }
 
     if (selectedYear == "19") {
@@ -817,6 +819,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Jim Montgomery"
     }
 
     if (selectedYear == "18") {
@@ -846,6 +850,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Jared Bednar"
     }
 
     if (selectedYear == "17") {
@@ -876,6 +882,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Jon Cooper"
     }
 
     if (selectedYear == "16") {
@@ -905,6 +913,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Jon Cooper"
     }
 
     if (selectedYear == "15") {
@@ -934,6 +944,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Craig Berube"
     }
 
     if (selectedYear == "14") {
@@ -964,6 +976,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Barry Trotz"
     }
 
     if (selectedYear == "13") {
@@ -993,6 +1007,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Mike Sullivan"
     }
 
     if (selectedYear == "12") {
@@ -1022,6 +1038,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Mike Sullivan"
     }
 
     if (selectedYear == "11") {
@@ -1051,6 +1069,9 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Jon Cooper"
+
     }
 
     if (selectedYear == "10") {
@@ -1080,6 +1101,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Darryl Sutter"
     }
 
     if (selectedYear == "9") {
@@ -1109,6 +1132,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Joel Quenneville"
     }
 
     if (selectedYear == "8") {
@@ -1138,6 +1163,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Darryl Sutter"
     }
 
     if (selectedYear == "7") {
@@ -1167,6 +1194,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Claude Julien"
     }
 
     if (selectedYear == "6") {
@@ -1196,6 +1225,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Joel Quenneville"
     }
 
     if (selectedYear == "5") {
@@ -1225,6 +1256,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Dan Bylsma"
     }
 
     if (selectedYear == "4") {
@@ -1254,6 +1287,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "3") {
@@ -1283,6 +1318,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Randy Carlyle"
     }
 
     if (selectedYear == "2") {
@@ -1312,6 +1349,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: Peter Laviolette"
     }
 
     if (selectedYear == "1") {
@@ -1341,6 +1380,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "No Managers (Lock out)"
     }
 
     if (selectedYear == "0") {
@@ -1371,6 +1412,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Head Coach: John Tortorella"
     }
 
     function clearAndFadeInElements() {

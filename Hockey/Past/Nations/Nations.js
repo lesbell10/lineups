@@ -418,6 +418,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Babcock"
     }
 
     if (selectedYear == "1") {
@@ -448,6 +449,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Vladimir Ruzicka"
     }
 
 
@@ -479,6 +481,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jukka Jalonen"
     }
 
 
@@ -510,6 +513,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Marco Sturm"
     }
 
 
@@ -541,6 +545,8 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Zinetula Bilyaletdinov"
+
     }
 
     if (selectedYear == "5") {
@@ -571,6 +577,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jan Filc"
     }
 
 
@@ -602,6 +609,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Par Marts"
     }
 
     if (selectedYear == "7") {
@@ -632,13 +640,14 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Sean Simpson"
     }
 
 
     if (selectedYear == "8") {
         FL.textContent = "Kessel";
         FC.textContent = "Matthews";
-        FR.textContent = "Kane";
+        FR.textContent = "P Kane";
         DL.textContent = "Suter";
         DR.textContent = "Carlson";
         G.textContent = "Quick";
@@ -663,6 +672,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dan Bylsma"
     }
 
     function clearAndFadeInElements() {

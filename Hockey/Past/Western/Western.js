@@ -601,6 +601,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Bruce Boudreau"
     }
 
     if (selectedYear == "1") {
@@ -631,6 +632,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dave Tippett"
     }
 
     if (selectedYear == "2") {
@@ -661,6 +663,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Bob Hartley"
     }
 
     if (selectedYear == "3") {
@@ -691,6 +694,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Joel Quenneville"
     }
 
     if (selectedYear == "4") {
@@ -721,6 +725,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Patrick Roy"
     }
 
 
@@ -752,6 +757,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Lindy Ruff"
     }
 
     if (selectedYear == "6") {
@@ -782,6 +788,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
     if (selectedYear == "7") {
@@ -812,6 +819,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Darryl Sutter"
     }
 
     if (selectedYear == "8") {
@@ -842,6 +850,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Mike Yeo"
     }
 
     if (selectedYear == "9") {
@@ -872,6 +881,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Barry Trotz"
     }
 
     if (selectedYear == "10") {
@@ -902,6 +912,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
 
@@ -934,6 +945,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Ken Hitchcock"
     }
 
     if (selectedYear == "12") {
@@ -965,6 +977,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Alain Vigneault"
     }
 
     if (selectedYear == "13") {
@@ -996,6 +1009,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Gerard Gallant"
     }
 
     if (selectedYear == "14") {
@@ -1026,6 +1040,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Head Coach: Claude Noel"
     }
 
     function clearAndFadeInElements() {

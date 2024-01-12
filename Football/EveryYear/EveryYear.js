@@ -80,8 +80,6 @@ function updatePlayerInfo() {
 
     selectedYear = yearSelector.value;
 
-
-
     if (selectedYear == "0") {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
@@ -1077,6 +1075,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jose Mourinho"
     }
 
     if (selectedYear == "1") {
@@ -1119,6 +1119,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Frank Rijkaard"
     }
 
     if (selectedYear == "2") {
@@ -1159,6 +1161,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Fabio Capello"
     }
 
     if (selectedYear == "3") {
@@ -1199,6 +1203,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Carlo Ancelotti"
     }
 
     if (selectedYear == "4") {
@@ -1241,6 +1247,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Sir Alex Ferguson"
     }
 
     if (selectedYear == "5") {
@@ -1283,6 +1291,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the l
         });
+
+        coach.textContent = "Best Manager: Pep Guardiola"
     }
 
 
@@ -1325,6 +1335,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jose Mourinho"
     }
 
     if (selectedYear == "7") {
@@ -1367,6 +1379,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Pep Guardiola"
     }
 
     if (selectedYear == "8") {
@@ -1408,6 +1422,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Roberto Di Matteo"
     }
 
     if (selectedYear == "9") {
@@ -1450,6 +1466,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jupp Heynckes"
     }
 
     if (selectedYear == "10") {
@@ -1493,6 +1511,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Best Manager: Carlo Ancelotti"
     }
 
 
@@ -1535,6 +1554,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Luis Enrique"
     }
 
     if (selectedYear == "12") {
@@ -1576,6 +1597,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Zinedine Zidane"
     }
 
     if (selectedYear == "13") {
@@ -1618,6 +1641,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Zinedine Zidane"
     }
 
     if (selectedYear == "14") {
@@ -1659,6 +1684,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Zinedine Zidane"
     }
 
     if (selectedYear == "15") {
@@ -1700,6 +1727,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Jurgen Klopp"
     }
 
     if (selectedYear == "16") {
@@ -1741,6 +1770,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Hans-Dieter Flick"
     }
 
     if (selectedYear == "17") {
@@ -1781,6 +1812,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Thomas Tuchel"
     }
 
     if (selectedYear === "18") {
@@ -1822,6 +1855,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Carlo Ancelotti"
     }
 
     if (selectedYear == "19") {
@@ -1863,6 +1898,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = "Best Manager: Pep Guardiola"
     }
 
     if (selectedYear == "20") {
@@ -1904,6 +1941,8 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
+
+        coach.textContent = ""
     }
 
     function clearAndFadeInElements() {

@@ -474,6 +474,7 @@ function updatePlayerInfo() {
 
         coach.textContent = "Head Coach: Drew Bannister"
     }
+
     if (selectedYear == "13") {
         FL.textContent = "JT Miller";
         FC.textContent = "Pettersson";;
@@ -506,8 +507,9 @@ function updatePlayerInfo() {
         FR2.style.objectFit = "cover";
         
         coach.textContent = "Head Coach: Rick Tocchet"
+    }
 
-        if (selectedYear == "14") {
+    if (selectedYear == "14") {
             FL.textContent = "Marchessault";
             FC.textContent = "Eichel";
             FR.textContent = "Stone";
@@ -590,7 +592,6 @@ function updatePlayerInfo() {
             }, 500); // Adjust the timeout value based on your animation duration
         }
         clearAndFadeInElements();
-    }
 }
 
 // Listen for changes in the year selection
@@ -637,6 +638,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Greg Cronin"
     }
 
     if (selectedYear == "1") {
@@ -667,6 +669,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Andre Tourigny"
     }
 
     if (selectedYear == "2") {
@@ -697,6 +700,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Ryan Huska"
     }
 
     if (selectedYear == "3") {
@@ -731,6 +735,8 @@ const updateDropdown = () => {
 
         FC2.style.width = '120px';
         FC2.style.objectFit = "cover";
+
+        coach.textContent = "Head Coach: Luke Richardson"
     }
 
     if (selectedYear == "4") {
@@ -761,6 +767,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Jared Bednar"
     }
 
     if (selectedYear == "5") {
@@ -791,6 +798,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Peter DeBoer"
     }
 
     if (selectedYear == "6") {
@@ -821,6 +829,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Kris Knoblauch"
     }
 
     if (selectedYear == "7") {
@@ -828,7 +837,7 @@ const updateDropdown = () => {
         FC.textContent = "Kopitar";
         FR.textContent = "Kempe"
         DL.textContent = "Doughty";
-        DR.textContent = "Anderson";
+        DR.textContent = "M Anderson";
         G.textContent = "C Talbot";
 
         FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
@@ -851,6 +860,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Todd McLellan"
     }
 
     if (selectedYear == "8") {
@@ -883,6 +893,8 @@ const updateDropdown = () => {
 
         FL2.style.width = '120px';
         FL2.style.objectFit = "cover";
+
+        coach.textContent = "Head Coach: John Hynes"
     }
 
     if (selectedYear == "9") {
@@ -913,6 +925,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Andrew Brunette"
     }
 
     if (selectedYear == "10") {
@@ -943,6 +956,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: David Quinn"
     }
 
     if (selectedYear == "11") {
@@ -973,6 +987,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Dave Hakstol"
     }
 
     if (selectedYear == "12") {
@@ -1003,7 +1018,9 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Drew Bannister"
     }
+
     if (selectedYear == "13") {
         FL.textContent = "JT Miller";
         FC.textContent = "Pettersson";;
@@ -1032,9 +1049,10 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-
         FR2.style.width = '120px';
         FR2.style.objectFit = "cover";
+
+        coach.textContent = "Head Coach: Rick Tocchet"
     }
 
     if (selectedYear == "14") {
@@ -1065,6 +1083,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Bruce Cassidy"
     }
 
     if (selectedYear == "15") {
@@ -1095,6 +1114,7 @@ const updateDropdown = () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
+        coach.textContent = "Head Coach: Rick Bowness"
     }
 
 

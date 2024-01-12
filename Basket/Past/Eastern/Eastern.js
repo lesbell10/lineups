@@ -940,30 +940,31 @@ const updateDropdown = () => {
     smallpic.addEventListener("mouseout", () => {
       sideModal.style.display = 'none'; // Hide the modal
     });
-
-    function clearAndFadeInElements() {
-      const elements = [
-        SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
-      ];
-
-      document.getElementById("smallpic").classList.add("fade-in")
-
-      for (const element of elements) {
-        element.classList.add("fade-in");
-      }
-
-      // Remove the "fade-in" class after the animation is complete
-      setTimeout(function () {
-        for (const element of elements) {
-          element.classList.remove("fade-in");
-        }
-        document.getElementById("smallpic").classList.remove("fade-in")
-      }, 500); // Adjust the timeout value based on your animation duration
-    }
-    clearAndFadeInElements();
-
   }
+
 }
+
+function clearAndFadeInElements() {
+  const elements = [
+    SG, SG2, PG, PG2, SF, SF2, PF, PF2, C, C2
+  ];
+
+  document.getElementById("smallpic").classList.add("fade-in")
+
+  for (const element of elements) {
+    element.classList.add("fade-in");
+  }
+
+  // Remove the "fade-in" class after the animation is complete
+  setTimeout(function () {
+    for (const element of elements) {
+      element.classList.remove("fade-in");
+    }
+    document.getElementById("smallpic").classList.remove("fade-in")
+  }, 500); // Adjust the timeout value based on your animation duration
+}
+clearAndFadeInElements();
+
 // Event listener for the back button
 backButton.addEventListener('click', () => {
   if (selectedYear > 0) {
