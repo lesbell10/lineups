@@ -6,7 +6,7 @@
     "full_name": "Kyrie Irving",
     "team": "Dallas Mavericks",
     "nationality": "USA",
-    "positions": ["Point Guard"],
+    "positions": ["Shooting Guard", "Point Guard"],
     "description": "Elite point guard known for his ball-handling and scoring."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Kevin Love",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Power Forward"],
+    "positions": ["Power Forward", "Center"],
     "description": "Skilled forward known for his rebounding and shooting."
   },
   {

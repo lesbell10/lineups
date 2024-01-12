@@ -36,14 +36,14 @@
     "full_name": "Jayson Tatum",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Small Forward", "Power Forward"],
     "description": "Rising star known for his scoring ability."
   },
   {
     "id": 5,
     "last_name": "K Porzingis",
     "img": "/basket/img/players/K Porzingis.png",
-    "full_name": "Kristaps Porziņģis",
+    "full_name": "Kristaps Porzingis",
     "team": "Boston Celtics",
     "nationality": "Latvia",
     "positions": ["Power Forward", "Center"],

@@ -1,19 +1,6 @@
 [
   {
     "id": 1,
-    "last_name": "T McGrady",
-    "img": "/basket/img/players/T McGrady.png",
-    "full_name": "Tracy McGrady",
-    "birth_date": "24-05-1979",
-    "birthplace": "Bartow, USA",
-    "team": "Retired",
-    "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
-    "height": "6'8\"",
-    "description": "NBA scoring champion and Hall of Famer."
-  },
-  {
-    "id": 5,
     "last_name": "C Webber",
     "img": "/basket/img/players/C Webber.png",
     "full_name": "Chris Webber",
@@ -999,16 +986,6 @@
     "positions": ["Power Forward", "Center"],
     "description": "Canadian forward-center with shot-blocking and versatility."
   },
-  {
-    "id": 106,
-    "last_name": "S O'Neal",
-    "img": "/basket/img/players/S O'Neal.png",
-    "full_name": "Shaquille O'Neal",
-    "team": "Retired",
-    "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
-    "description": "Legendary NBA center known for his dominance and charisma."
-},
  {
     "id": 107,
     "last_name": "Malone",

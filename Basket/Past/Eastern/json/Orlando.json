@@ -26,7 +26,7 @@
     "full_name": "Aaron Gordon",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Power Forward", "Small Forward"],
     "description": "Athletic forward known for his high-flying dunks and defense."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Nikola Vucevic",
     "team": "Chicago Bulls",
     "nationality": "Montenegro",
-    "positions": ["Center"],
+    "positions": ["Center", "Power Forward"],
     "description": "Skilled center known for his scoring and rebounding."
   },
   {

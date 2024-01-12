@@ -26,7 +26,7 @@
     "full_name": "Giannis Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Power Forward", "Small Forward"],
     "description": "Dominant forward, known for versatility and athleticism."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Joel Embiid",
     "team": "Philadelphia 76ers",
     "nationality": "Cameroon",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center"],
     "description": "Dominant center with strong scoring and defense."
   }
 ]

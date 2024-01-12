@@ -16,7 +16,7 @@
     "full_name": "Andrew Wiggins",
     "team": "Golden State Warriors",
     "nationality": "Canada",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Small Forward", "Shooting Guard"],
     "description": "Versatile wing player known for his scoring ability."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Jimmy Butler",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Shooting Guard", "Small Forward"],
     "description": "All-Star forward known for his scoring and defensive skills."
   },
   {

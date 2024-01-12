@@ -19,7 +19,7 @@
     "birth_date": "29-06-1991",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward"],
+    "positions": ["Small Forward", "Power Forward"],
     "height": "6'7\"",
     "description": "Two-time NBA Finals MVP."
   },
@@ -31,7 +31,7 @@
     "birth_date": "30-12-1984",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward"],
+    "positions": ["Small Forward", "Power Forward"],
     "height": "6'9\"",
     "description": "Four-time NBA champion and four-time MVP."
   },

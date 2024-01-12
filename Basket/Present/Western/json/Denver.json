@@ -6,7 +6,7 @@
     "full_name": "Jamal Murray",
     "team": "Denver Nuggets",
     "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Shooting Guard", "Point Guard"],
     "description": "Talented guard with scoring and playmaking."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Nikola Jokic",
     "team": "Denver Nuggets",
     "nationality": "Serbia",
-    "positions": ["Center"],
+    "positions": ["Center", "Power Forward"],
     "description": "MVP center known for his all-around skills."
   }
 ]

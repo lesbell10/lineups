@@ -6,7 +6,7 @@
     "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard"],
+    "positions": ["Point Guard", "Shooting Guard"],
     "description": "NBA superstar known for his incredible shooting and ball-handling."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Klay Thompson",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Shooting Guard"],
+    "positions": ["Shooting Guard", "Small Forward"],
     "description": "Elite shooter and key part of the Warriors' success."
   },
   {

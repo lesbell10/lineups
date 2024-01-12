@@ -16,7 +16,7 @@
     "full_name": "Khris Middleton",
     "team": "Milwaukee Bucks",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Small Forward", "Shooting Guard"],
     "description": "All-Star forward with scoring and clutch ability."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Giannis Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Power Forward", "Small Forward"],
     "description": "Two-time NBA MVP known for his athleticism and versatility."
   },
   {

@@ -5,7 +5,7 @@
     "img": "/basket/img/players/CPaul.png",
     "full_name": "Chris Paul",
     "birth_date": "06-05-1985",
-    "team": "Phoenix Suns",
+    "team": "Golden State Warriors",
     "nationality": "USA",
     "positions": ["Point Guard"],
     "height": "6'0\"",
@@ -43,7 +43,7 @@
     "birth_date": "30-12-1984",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward"],
+    "positions": ["Small Forward", "Power Forward"],
     "height": "6'9\"",
     "description": "Four-time NBA champion and four-time MVP."
   },
