@@ -403,12 +403,14 @@ align-items: center;
     position: absolute;
     left: 5%;
     top: 35%;
+    display: none;
 }
 
 #forwardButton {
     position: absolute;
     right: 5%;
     top: 35%;
+    display: none;
 }
         
 @keyframes fadeIn {

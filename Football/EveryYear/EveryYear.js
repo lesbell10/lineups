@@ -27,15 +27,30 @@ const pimg = document.querySelectorAll(".carousel-item img")
 const ptext = document.querySelectorAll(".carousel-item p")
 const containers = document.querySelectorAll(".carousel-item");
 const coach = document.querySelector(".coach");
+const msgLabel = document.querySelector(".label");
 
+let previousValue = msgLabel.textContent
+
+yearSelector.addEventListener('mouseover', function () {
+    msgLabel.textContent = "You can use keyboard to switch"
+    msgLabel.style.maxWidth = "325px"
+    msgLabel.style.minWidth = "130px"
+    msgLabel.style.fontSize = "19px"
+    msgLabel.style.fontWeight = "normal"
+});
+
+yearSelector.addEventListener('mouseout', function () {
+    msgLabel.textContent = `${previousValue}`
+    msgLabel.style.maxWidth = "130px"
+    msgLabel.style.fontSize = "21px"
+    msgLabel.style.fontWeight = "bold"
+});
 
 window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
     yearSelector.selectedIndex = 0;
 }
-
-
 
 // Function to handle mouseover
 const handleMouseover = (event) => {
@@ -162,7 +177,7 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Best Manager: Frank Rijkaard"
     }
 
@@ -948,9 +963,9 @@ function updatePlayerInfo() {
     if (selectedYear == "20") {
 
         STC.textContent = "Haaland";
-        FR.textContent = "Salah";
+        FR.textContent = "Mbappe";
         AMC.textContent = "Messi";
-        FL.textContent = "Mbappe";
+        FL.textContent = "Vinicius Jr";
         CMR.textContent = "De Bruyne";
         CML.textContent = "Rodri";
         DR.textContent = "Cancelo";

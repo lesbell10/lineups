@@ -142,13 +142,13 @@ option {
 }
 
 .label, .label2 {
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 130px;
     font-size: 21px;
     color: white;
     background-color: black;
     padding-left: .5%;
-    width: 130px;
+    max-width: 140px;
     text-align: center;
 }
 
@@ -376,12 +376,14 @@ nav.home {
     position: absolute;
     left: 5%;
     top: 35%;
+    display: none;
 }
 
 #forwardButton {
     position: absolute;
     right: 5%;
     top: 35%;
+    display: none;
 }
         
 @keyframes fadeIn {

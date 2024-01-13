@@ -151,7 +151,7 @@ option {
     color: white;
     background-color: black; 
     padding-left: .5%;
-    max-width: 130px;
+    max-width: 140px;
     text-align: center;
 }
 
@@ -494,12 +494,14 @@ align-items: center;
     position: absolute;
     left: 5%;
     top: 35%;
+    display: none;
 }
 
 #forwardButton {
     position: absolute;
     right: 5%;
     top: 35%;
+    display: none;
 }
         
 @keyframes fadeIn {

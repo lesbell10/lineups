@@ -15,6 +15,25 @@ const smallpic = document.getElementById("smallpic");
 const sideModal = document.querySelector(".side-modal")
 const containers = document.querySelectorAll(".carousel-item");
 const coach = document.querySelector(".coach");
+const msgLabel = document.querySelector(".label");
+
+let previousValue = msgLabel.textContent
+
+yearSelector.addEventListener('mouseover', function () {
+    msgLabel.textContent = "You can use keyboard to switch"
+    msgLabel.style.maxWidth = "325px"
+    msgLabel.style.minWidth = "130px"
+    msgLabel.style.fontSize = "19px"
+    msgLabel.style.fontWeight = "normal"
+});
+
+yearSelector.addEventListener('mouseout', function () {
+    msgLabel.textContent = `${previousValue}`
+    msgLabel.style.maxWidth = "130px"
+    msgLabel.style.fontSize = "21px"
+    msgLabel.style.fontWeight = "bold"
+});
+
 
 window.onload = function () {
     yearSelector.selectedIndex = 0;
