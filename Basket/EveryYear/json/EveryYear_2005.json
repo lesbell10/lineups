@@ -6,7 +6,7 @@
     "full_name": "Steve Nash",
     "team": "Retired",
     "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Two-time NBA MVP and elite playmaker."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Kobe Bryant",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "One of the greatest scorers in NBA history."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Rising superstar with incredible versatility."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Tim Duncan",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Legendary big man and NBA champion."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Shaquille O'Neal",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Dominant force in the post and NBA champion."
   }
 ]

@@ -16,7 +16,7 @@
     "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Three-point shooting sensation and two-time MVP."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Klay Thompson",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Sharpshooter and key part of the Splash Brothers duo."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Andrew Wiggins",
     "team": "Golden State Warriors",
     "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Athletic forward with scoring ability."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Draymond Green",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Defensive anchor and versatile forward."
   }
 ]

@@ -6,7 +6,7 @@
     "full_name": "Fred VanVleet",
     "team": "Houston Rockets",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Talented guard known for his hustle and shooting."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jalen Green",
     "team": "Houston Rockets",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Highly-touted rookie with scoring potential."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Dillon Brooks",
     "team": "Houston Rockets",
     "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Tough defender and scorer for the Grizzlies."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Jabari Smith Jr",
     "team": "Houston Rockets",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Young forward with potential and athleticism."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Alperen Sengun",
     "team": "Houston Rockets",
     "nationality": "Turkey",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Rookie center with post moves and rebounding skills."
   }
 ]

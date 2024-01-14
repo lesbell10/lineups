@@ -75,6 +75,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {
@@ -392,7 +396,7 @@ function updatePlayerInfo() {
 
         coach.textContent = "Head Coach: Alain Vigneault"
     }
-    
+
     if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
@@ -450,7 +454,7 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Head Coach: Peter Laviolette"
     }
 
@@ -481,7 +485,7 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Head Coach: Dan Bylsma"
     }
 
@@ -926,7 +930,7 @@ const updateDropdown = () => {
 
         coach.textContent = "Head Coach: Alain Vigneault"
     }
-    
+
     if (selectedYear == "10") {
         FL.textContent = "Hoffman";
         FC.textContent = "Spezza";
@@ -984,7 +988,7 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Head Coach: Peter Laviolette"
     }
 
@@ -1015,7 +1019,7 @@ const updateDropdown = () => {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Head Coach: Dan Bylsma"
     }
 

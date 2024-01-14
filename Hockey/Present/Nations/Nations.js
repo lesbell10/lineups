@@ -34,6 +34,10 @@ yearSelector.addEventListener('mouseout', function () {
     msgLabel.style.fontWeight = "bold"
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 window.onload = function () {
@@ -209,7 +213,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
-        }); 
+        });
 
         coach.textContent = "Head Coach: Harold Kreis"
     }

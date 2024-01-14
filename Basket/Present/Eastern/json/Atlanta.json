@@ -6,7 +6,7 @@
     "full_name": "Trae Young",
     "team": "Atlanta Hawks",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Versatile guard for the Atlanta Hawks."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Dejounte Murray",
     "team": "Atlanta Hawks",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Guard making an impact for the San Antonio Spurs."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Bogdan Bogdanovic",
     "team": "Atlanta Hawks",
     "nationality": "Serbia",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Professional basketball player from Serbia."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Onyeka Okongwu",
     "team": "Atlanta Hawks",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Frontcourt player with potential on the Atlanta Hawks."
   },
   {

@@ -7,7 +7,7 @@
     "birth_date": "14-03-1988",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "height": "6'2\"",
     "description": "Two-time MVP, three-time NBA champion."
   },
@@ -19,7 +19,7 @@
     "birth_date": "26-08-1989",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "height": "6'5\"",
     "description": "Former NBA MVP and prolific scorer."
   },
@@ -31,7 +31,7 @@
     "birth_date": "30-12-1984",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'9\"",
     "description": "Four-time NBA champion and four-time MVP."
   },
@@ -43,7 +43,7 @@
     "birth_date": "29-06-1991",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'7\"",
     "description": "Two-time NBA Finals MVP."
   },
@@ -55,7 +55,7 @@
     "birth_date": "29-09-1988",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'10\"",
     "description": "Two-time NBA champion and NBA Finals MVP."
   }

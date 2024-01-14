@@ -75,6 +75,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {

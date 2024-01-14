@@ -76,6 +76,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {
@@ -487,7 +491,7 @@ function updatePlayerInfo() {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Alain Vigneault"  
+        coach.textContent = "Head Coach: Alain Vigneault"
     }
 
     if (selectedYear == "13") {

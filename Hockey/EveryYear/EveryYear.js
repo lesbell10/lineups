@@ -78,6 +78,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0
 
 function updatePlayerInfo() {
@@ -449,7 +453,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Zdeno Chara, a towering Slovakian defenseman at 6'9\", was a dominant force in the NHL.He captained the Boston Bruins to a Stanley Cup victory, won the Norris Trophy, and became renowned for his defensive prowess and leadership, earning respect throughout his career."
+            sideModal.textContent = "Zdeno Chara, a towering Slovakian defenseman at 6'9\", was a dominant force in the NHL. He captained the Boston Bruins to a Stanley Cup victory, won the Norris Trophy, and became renowned for his defensive prowess and leadership, earning respect throughout his career."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -646,9 +650,9 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "2") {
-        FL.textContent = "Iginla";
+        FL.textContent = "P Forsberg";
         FC.textContent = "Sakic";
-        FR.textContent = "P Forsberg";
+        FR.textContent = "Iginla";
         DL.textContent = "S Niedermayer";
         DR.textContent = "Lidstrom";
         G.textContent = "Brodeur";
@@ -710,8 +714,8 @@ function updatePlayerInfo() {
     if (selectedYear == "0") {
 
         FL.textContent = "St Louis";
-        FC.textContent = "Iginla";
-        FR.textContent = "Thornton";
+        FC.textContent = "Thornton";
+        FR.textContent = "Iginla";
         DL.textContent = "S Niedermayer";
         DR.textContent = "Stevens";
         G.textContent = "Brodeur";

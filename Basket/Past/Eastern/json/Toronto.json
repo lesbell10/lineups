@@ -16,7 +16,7 @@
     "full_name": "DeMar DeRozan",
     "team": "Chicago Bulls",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "All-Star wing known for his scoring and mid-range game."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Chris Bosh",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA star known for his versatility and shot-blocking."
   },
   {

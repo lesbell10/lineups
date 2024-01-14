@@ -26,7 +26,7 @@
     "full_name": "Monta Ellis",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Former NBA guard known for his scoring ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Dirk Nowitzki",
     "team": "Retired",
     "nationality": "Germany",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "NBA legend and all-time leading scorer for the Mavericks."
   },
   {

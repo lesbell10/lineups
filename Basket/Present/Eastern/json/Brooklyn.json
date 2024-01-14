@@ -6,7 +6,7 @@
     "full_name": "Spencer Dinwiddie",
     "team": "Brooklyn Nets",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Dynamic guard for the Brooklyn Nets, known for clutch plays."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Mikal Bridges",
     "team": "Brooklyn Nets",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Versatile forward with strong defensive skills."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Cam Thomas",
     "team": "Brooklyn Nets",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Young talent on the Brooklyn Nets, a scoring machine."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Cam Johnson",
     "team": "Brooklyn Nets",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Versatile forward for the Phoenix Suns, a three-point specialist."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Nicolas Claxton",
     "team": "Brooklyn Nets",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Rising star on the Brooklyn Nets, a shot-blocking presence."
   }
 ]

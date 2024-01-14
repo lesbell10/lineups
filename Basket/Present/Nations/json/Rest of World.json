@@ -6,7 +6,7 @@
     "full_name": "Shai Gilgeous-A",
     "team": "Oklahoma City Thunder",
     "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young guard with scoring and playmaking ability."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jamal Murray",
     "team": "Denver Nuggets",
     "nationality": "Canada",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard known for his clutch performances."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Pascal Siakam",
     "team": "Toronto Raptors",
     "nationality": "Cameroon",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "All-Star forward known for his versatility."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Al Horford",
     "team": "Boston Celtics",
     "nationality": "Dominican Republic",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Veteran forward known for exceptional passing and defense."
   },
   {

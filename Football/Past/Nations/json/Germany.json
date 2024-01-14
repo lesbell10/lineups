@@ -84,7 +84,7 @@
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
-        "position": "Central Midfielder",
+        "position": "Central Midfielder, Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'9\"",
@@ -123,11 +123,11 @@
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
 
-        "position": "Right Back",
+        "position": "Full Back",
         "team": "Retired",
         "nationality": "Germany",
         "height": "5'7\"",
-        "description": "Legendary German right back and former captain."
+        "description": "Legendary German full back and former captain."
     },
     {
         "id": 11,

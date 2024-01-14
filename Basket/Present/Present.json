@@ -6,7 +6,7 @@
     "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "NBA superstar known for incredible three-point shooting."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "One of the greatest basketball players of all time."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Giannis Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Dominant forward, known for versatility and athleticism."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Nikola Jokic",
     "team": "Denver Nuggets",
     "nationality": "Serbia",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Skilled center, known for passing and basketball IQ."
   },
   {

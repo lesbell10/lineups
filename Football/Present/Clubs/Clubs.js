@@ -84,6 +84,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {
@@ -442,7 +446,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for Al Nassr, one year after rejoining from Juventus."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1223,7 +1227,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for AL-Nassr, one year after rejoining from Juventus."
+            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for Al Nassr, one year after rejoining from Juventus."
         })
 
         smallpic.addEventListener("mouseout", () => {

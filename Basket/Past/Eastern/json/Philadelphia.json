@@ -6,7 +6,7 @@
     "full_name": "Ben Simmons",
     "team": "Brooklyn Nets",
     "nationality": "Australia",
-    "positions": ["Point Guard", "Power Forward"],
+    "positions": ["Point Guard", " Power Forward"],
     "description": "Versatile player known for his defense and playmaking."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jrue Holiday",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Two-way guard known for his defense and playmaking."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Jimmy Butler",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "All-Star forward known for his scoring and leadership."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Tobias Harris",
     "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward known for his scoring and clutch play."
   },
   {

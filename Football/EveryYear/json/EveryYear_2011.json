@@ -5,7 +5,7 @@
         "img": "/football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
-        "position": "Centre Forward",
+        "position": "Forward",
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
@@ -127,7 +127,7 @@
         "birth_date": "20-05-1981",
         "position": "Goalkeeper",
         "team": "Retired",
-        "nationality": "Spanish",
+        "nationality": "Spain",
         "height": "6'1\"",
         "description": "Legendary Spanish goalkeeper, Real Madrid icon, World Cup winner."
     }

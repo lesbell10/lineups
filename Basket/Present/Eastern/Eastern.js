@@ -32,6 +32,10 @@ yearSelector.addEventListener('mouseout', function () {
     msgLabel.style.fontWeight = "bold"
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0
 
 function updatePlayerInfo() {
@@ -253,7 +257,7 @@ function updatePlayerInfo() {
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
-        
+
         coach.textContent = "Head Coach: J. B. Bickerstaff"
 
     }

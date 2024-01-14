@@ -6,7 +6,7 @@
     "full_name": "Luka Dončić",
     "team": "Dallas Mavericks",
     "nationality": "Slovenia",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Young star known for his versatile scoring and playmaking."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Dirk Nowitzki",
     "team": "Retired",
     "nationality": "Germany",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "NBA legend and one of the greatest power forwards."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Giannis Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Two-time NBA MVP and versatile forward."
   },
   {

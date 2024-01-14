@@ -75,6 +75,10 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {
@@ -523,93 +527,93 @@ function updatePlayerInfo() {
 
         FR2.style.width = '120px';
         FR2.style.objectFit = "cover";
-        
+
         coach.textContent = "Head Coach: Rick Tocchet"
     }
 
     if (selectedYear == "14") {
-            FL.textContent = "Marchessault";
-            FC.textContent = "Eichel";
-            FR.textContent = "Stone";
-            DL.textContent = "Theodore";
-            DR.textContent = "Pietrangelo";
-            G.textContent = "Lehner";
+        FL.textContent = "Marchessault";
+        FC.textContent = "Eichel";
+        FR.textContent = "Stone";
+        DL.textContent = "Theodore";
+        DR.textContent = "Pietrangelo";
+        G.textContent = "Lehner";
 
-            FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-            FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-            FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-            DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-            DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-            G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
 
-            smallpic.src = "/hockey/img/logos/vegas.gif";
+        smallpic.src = "/hockey/img/logos/vegas.gif";
 
-            MainFetchPopUp("/hockey/present/western/json/vegas.json");
+        MainFetchPopUp("/hockey/present/western/json/vegas.json");
 
-            smallpic.addEventListener('mouseover', () => {
-                sideModal.style.display = 'block'
-                sideModal.textContent = "The Vegas Golden Knights in the 2022-2023 season continued to uphold their reputation as a strong and competitive team in the NHL. Since their inception, the Golden Knights have been known for their aggressive and fast-paced style of play, and this season was no exception, winning the Stanley Cup."
-            })
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Vegas Golden Knights in the 2022-2023 season continued to uphold their reputation as a strong and competitive team in the NHL. Since their inception, the Golden Knights have been known for their aggressive and fast-paced style of play, and this season was no exception, winning the Stanley Cup."
+        })
 
-            smallpic.addEventListener("mouseout", () => {
-                sideModal.style.display = 'none'; // Hide the modal
-            });
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
 
-            coach.textContent = "Head Coach: Bruce Cassidy"
+        coach.textContent = "Head Coach: Bruce Cassidy"
+    }
+
+    if (selectedYear == "15") {
+        FL.textContent = "Connor";
+        FC.textContent = "Scheifele";
+        FR.textContent = "Ehlers";
+        DL.textContent = "Morrissey";
+        DR.textContent = "Pionk";
+        G.textContent = "Hellebuyck";
+
+        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+
+        smallpic.src = "/hockey/img/logos/winnipeg.gif";
+
+        MainFetchPopUp("/hockey/present/western/json/winnipeg.json");
+
+        smallpic.addEventListener('mouseover', () => {
+            sideModal.style.display = 'block'
+            sideModal.textContent = "The Winnipeg Jets in the 2022-2023 season demonstrated a blend of resilience and the need for strategic improvement. Known for their balanced approach, combining skilled offensive play with solid goaltending, the Jets aimed to strengthen their position in a highly competitive division."
+        })
+
+        smallpic.addEventListener("mouseout", () => {
+            sideModal.style.display = 'none'; // Hide the modal
+        });
+
+        coach.textContent = "Head Coach: Rick Bowness"
+    }
+
+
+    function clearAndFadeInElements() {
+        const elements = [
+            FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
+        ];
+
+        document.getElementById("smallpic").classList.add("fade-in")
+
+        for (const element of elements) {
+            element.classList.add("fade-in");
         }
 
-        if (selectedYear == "15") {
-            FL.textContent = "Connor";
-            FC.textContent = "Scheifele";
-            FR.textContent = "Ehlers";
-            DL.textContent = "Morrissey";
-            DR.textContent = "Pionk";
-            G.textContent = "Hellebuyck";
-
-            FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-            FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-            FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-            DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-            DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-            G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
-
-            smallpic.src = "/hockey/img/logos/winnipeg.gif";
-
-            MainFetchPopUp("/hockey/present/western/json/winnipeg.json");
-
-            smallpic.addEventListener('mouseover', () => {
-                sideModal.style.display = 'block'
-                sideModal.textContent = "The Winnipeg Jets in the 2022-2023 season demonstrated a blend of resilience and the need for strategic improvement. Known for their balanced approach, combining skilled offensive play with solid goaltending, the Jets aimed to strengthen their position in a highly competitive division."
-            })
-
-            smallpic.addEventListener("mouseout", () => {
-                sideModal.style.display = 'none'; // Hide the modal
-            });
-
-            coach.textContent = "Head Coach: Rick Bowness"
-        }
-
-
-        function clearAndFadeInElements() {
-            const elements = [
-                FL, FL2, FC, FC2, FR, FR2, DL, DL2, DR, DR2, G, G2,
-            ];
-
-            document.getElementById("smallpic").classList.add("fade-in")
-
+        // Remove the "fade-in" class after the animation is complete
+        setTimeout(function () {
             for (const element of elements) {
-                element.classList.add("fade-in");
+                element.classList.remove("fade-in");
             }
-
-            // Remove the "fade-in" class after the animation is complete
-            setTimeout(function () {
-                for (const element of elements) {
-                    element.classList.remove("fade-in");
-                }
-                document.getElementById("smallpic").classList.remove("fade-in")
-            }, 500); // Adjust the timeout value based on your animation duration
-        }
-        clearAndFadeInElements();
+            document.getElementById("smallpic").classList.remove("fade-in")
+        }, 500); // Adjust the timeout value based on your animation duration
+    }
+    clearAndFadeInElements();
 }
 
 // Listen for changes in the year selection

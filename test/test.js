@@ -233,6 +233,10 @@ const G = document.getElementById("G");
 const G2 = document.getElementById("G2");
 const smallpic = document.getElementById("smallpic");
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 function updatePlayerInfo() {

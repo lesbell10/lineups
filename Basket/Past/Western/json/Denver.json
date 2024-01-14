@@ -16,7 +16,7 @@
     "full_name": "Jamal Murray",
     "team": "Denver Nuggets",
     "nationality": "Canada",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Talented guard known for his scoring and clutch performances."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Carmelo Anthony",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Future Hall of Famer and elite scorer."
   },
   {

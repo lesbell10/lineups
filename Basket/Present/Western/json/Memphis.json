@@ -16,7 +16,7 @@
     "full_name": "Marcus Smart",
     "team": "Memphis Grizzlies",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Tenacious defender and versatile guard."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Desmond Bane",
     "team": "Memphis Grizzlies",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Sharpshooting forward and scorer."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Jaren Jackson Jr",
     "team": "Memphis Grizzlies",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Young forward with shot-blocking and three-point shooting."
   },
   {

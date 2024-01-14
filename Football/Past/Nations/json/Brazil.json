@@ -45,7 +45,7 @@
     "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
 
-    "position": "Left Winger",
+    "position": "Forward",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'11\"",
@@ -81,7 +81,7 @@
     "id": 7,
     "last_name": "D Alves",
     "img": "/football/img/players/D Alves.webp",
-    "full_name": "Daniel Alves",
+    "full_name": "Dani Alves",
     "birth_date": "06-05-1983",
 
     "position": "Right Back",

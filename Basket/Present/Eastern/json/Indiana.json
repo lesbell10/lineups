@@ -6,7 +6,7 @@
     "full_name": "Tyrese Haliburton",
     "team": "Indiana Pacers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young guard with excellent court vision."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Bruce Brown",
     "team": "Indiana Pacers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile player known for his hustle and defense."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Buddy Hield",
     "team": "Indiana Pacers",
     "nationality": "Bahamas",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Sharpshooter with a deadly three-point shot."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Bennedict Mathurin",
     "team": "Indiana Pacers",
     "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Emerging talent with all-around skills."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Myles Turner",
     "team": "Indiana Pacers",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Elite shot-blocker and rim protector."
   }
 ]

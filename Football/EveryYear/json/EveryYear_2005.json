@@ -48,7 +48,7 @@
     "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
 
-    "position": "Left Winger",
+    "position": "Forward",
     "team": "Retired",
     "nationality": "Brazil",
     "height": "5'11\"",
@@ -90,7 +90,7 @@
     "full_name": "Lilian Thuram",
     "birth_date": "01-01-1972",
 
-    "position": "Right Back",
+    "position": "Centre Back, Right Back",
     "team": "Retired",
     "nationality": "France",
     "height": "6'2\"",
@@ -132,7 +132,7 @@
     "full_name": "Paolo Maldini",
     "birth_date": "26-06-1968",
 
-    "position": "Left Back",
+    "position": "Centre Back, Left Back",
     "team": "Retired",
     "nationality": "Italy",
     "height": "6'1\"",

@@ -26,7 +26,7 @@
     "full_name": "Jimmy Butler",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "All-Star forward known for his tenacity and scoring ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "NBA legend with multiple championships and MVP awards."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Chris Bosh",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA star known for his versatility and defense."
   }
 ]

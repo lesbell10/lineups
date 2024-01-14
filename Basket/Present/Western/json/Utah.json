@@ -6,7 +6,7 @@
     "full_name": "Collin Sexton",
     "team": "Utah Jazz",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Scoring guard known for his speed and shooting."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jordan Clarkson",
     "team": "Utah Jazz",
     "nationality": "Philippines/USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Sixth Man of the Year known for his scoring off the bench."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Lauri Markkanen",
     "team": "Utah Jazz",
     "nationality": "Finland",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Stretch forward known for his shooting."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "John Collins",
     "team": "Utah Jazz",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Versatile big man with athleticism."
   },
   {

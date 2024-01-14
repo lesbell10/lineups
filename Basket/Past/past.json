@@ -6,7 +6,7 @@
     "full_name": "James Harden",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "One of the best scorers in the NBA."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Three-time NBA champion and sharpshooter."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "One of the greatest players in NBA history."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Kevin Durant", 
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Elite scorer and versatile player."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Anthony Davis",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Dominant defender and rebounder."
   }
 ]

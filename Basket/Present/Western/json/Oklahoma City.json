@@ -6,7 +6,7 @@
     "full_name": "S Gilgeous-Alexander",
     "team": "Oklahoma City Thunder",
     "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Talented guard known for his versatility."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Josh Giddey",
     "team": "Oklahoma City Thunder",
     "nationality": "Australia",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Rookie guard with playmaking skills."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Jalen Williams",
     "team": "Oklahoma City Thunder",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Young forward with potential."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Luguentz Dort",
     "team": "Oklahoma City Thunder",
     "nationality": "Canada",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Tenacious defender and scorer."
   },
   {

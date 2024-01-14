@@ -1,16 +1,17 @@
-[
+[ 
   {
     "id": 1,
-    "last_name": "Iginla",
-    "img": "/hockey/img/players/Iginla.jpg",
-    "full_name": "Jarome Iginla",
-    "birth_date": "01-07-1977",
+    "last_name": "P Forsberg",
+    "img": "/hockey/img/players/P Forsberg.jpg",
+    "full_name": "Peter Forsberg",
+    "birth_date": "20-07-1973",
     "team": "Retired",
-    "nationality": "Canada",
-    "position": "Right Winger",
-    "height": "6'1\"",
-    "description": "Prolific scorer for the Calgary Flames."
+    "nationality": "Sweden",
+    "position": "Center",
+    "height": "6'0\"",
+    "description": "Key player for the Colorado Avalanche."
   },
+  
   {
     "id": 2,
     "last_name": "Sakic",
@@ -25,15 +26,15 @@
   },
   {
     "id": 3,
-    "last_name": "P Forsberg",
-    "img": "/hockey/img/players/P Forsberg.jpg",
-    "full_name": "Peter Forsberg",
-    "birth_date": "20-07-1973",
+    "last_name": "Iginla",
+    "img": "/hockey/img/players/Iginla.jpg",
+    "full_name": "Jarome Iginla",
+    "birth_date": "01-07-1977",
     "team": "Retired",
-    "nationality": "Sweden",
-    "position": "Center",
-    "height": "6'0\"",
-    "description": "Key player for the Colorado Avalanche."
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "height": "6'1\"",
+    "description": "Prolific scorer for the Calgary Flames."
   },
   {
     "id": 4,

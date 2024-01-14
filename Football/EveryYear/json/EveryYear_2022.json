@@ -78,7 +78,7 @@
         "last_name": "Kimmich",
         "birth_date": "08-02-1995",
         "nationality": "Germany",
-        "position": "Central Midfielder",
+        "position": "Central Midfielder, Right Back",
         "height": "5'10\"",
         "img": "/football/img/players/Kimmich.webp",
         "team": "Bayern Munich",
@@ -118,7 +118,7 @@
         "height": "5'11\"",
         "img": "/football/img/players/Cancelo.webp",
         "team": "Wolves",
-        "description": "Portuguese right back, Wolves's dynamic, versatile defender"
+        "description": "Portuguese right back, Barcelona's dynamic, versatile defender"
     },
     {
         "id": 11,

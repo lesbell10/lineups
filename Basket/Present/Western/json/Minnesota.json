@@ -6,7 +6,7 @@
     "full_name": "Anthony Edwards",
     "team": "Minnesota Timberwolves",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Young wing with explosive scoring ability."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jaden McDaniels",
     "team": "Minnesota Timberwolves",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile forward with defensive skills."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Naz Reid",
     "team": "Minnesota Timberwolves",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Young big man with scoring and rebounding skills."
   },
   {

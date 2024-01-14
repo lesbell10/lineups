@@ -6,7 +6,7 @@
     "full_name": "Steve Nash",
     "team": "Retired",
     "nationality": "Canada",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Two-time NBA MVP known for his playmaking and shooting."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Amar'e Stoudemire",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA All-Star known for his athleticism and scoring."
   },
   {

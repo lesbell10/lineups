@@ -16,7 +16,7 @@
     "full_name": "Donovan Mitchell",
     "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard with explosive athleticism."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Caris LeVert",
     "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Versatile forward with scoring ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Evan Mobley",
     "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Rookie with tremendous defensive potential."
   },
   {

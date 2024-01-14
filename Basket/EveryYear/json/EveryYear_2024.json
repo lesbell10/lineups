@@ -7,7 +7,7 @@
       "birth_date": "14-03-1988",
       "team": "Golden State Warriors",
       "nationality": "USA",
-      "positions": ["Point Guard", "Shooting Guard"],
+      "positions": ["Point Guard", " Shooting Guard"],
       "height": "6'2\"",
       "description": "Elite shooter with multiple NBA championships."
     },
@@ -19,7 +19,7 @@
       "birth_date": "30-12-1984",
       "team": "Los Angeles Lakers",
       "nationality": "USA",
-      "positions": ["Small Forward", "Power Forward"],
+      "positions": ["Small Forward", " Power Forward"],
       "height": "6'9\"",
       "description": "NBA legend and versatile forward with numerous accolades."
     },
@@ -31,7 +31,7 @@
       "birth_date": "06-12-1994",
       "team": "Milwaukee Bucks",
       "nationality": "Greece",
-      "positions": ["Small Forward", "Power Forward"],
+      "positions": ["Small Forward", " Power Forward"],
       "height": "6'11\"",
       "description": "Greek Freak known for athleticism and versatility."
     },
@@ -43,7 +43,7 @@
       "birth_date": "19-02-1995",
       "team": "Denver Nuggets",
       "nationality": "Serbia",
-      "positions": ["Center", "Power Forward"],
+      "positions": ["Center", " Power Forward"],
       "height": "7'0\"",
       "description": "Skilled Serbian big man, known for playmaking abilities."
     },

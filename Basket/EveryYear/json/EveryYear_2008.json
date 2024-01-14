@@ -19,7 +19,7 @@
     "birth_date": "23-08-1978",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "height": "6'6\"",
     "description": "Legendary player known for scoring and competitiveness."
   },
@@ -31,7 +31,7 @@
     "birth_date": "30-12-1984",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'9\"",
     "description": "One of the greatest basketball players of all time."
   },
@@ -43,7 +43,7 @@
     "birth_date": "19-05-1976",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "height": "6'11\"",
     "description": "Versatile forward/center with intense defensive skills."
   },
@@ -55,7 +55,7 @@
     "birth_date": "25-04-1976",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "height": "6'11\"",
     "description": "Legendary big man with incredible defensive and scoring abilities."
   }

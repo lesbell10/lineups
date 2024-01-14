@@ -6,7 +6,7 @@
     "full_name": "Jamal Murray",
     "team": "Denver Nuggets",
     "nationality": "Canada",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Talented guard with scoring and playmaking."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Kentavious Caldwell-P",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Defensive-minded guard known for three-point shooting."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Michael Porter Jr",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward with scoring and rebounding ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Aaron Gordon",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Athletic forward known for his defensive skills."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Nikola Jokic",
     "team": "Denver Nuggets",
     "nationality": "Serbia",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "MVP center known for his all-around skills."
   }
 ]

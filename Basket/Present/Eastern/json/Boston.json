@@ -6,7 +6,7 @@
     "full_name": "Jrue Holiday",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Versatile guard with excellent defensive skills."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Derrick White",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Emerging talent known for his defensive prowess."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Jaylen Brown",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Young and athletic forward, improving every season."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Jayson Tatum",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Rising star known for his scoring ability."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Kristaps Porzingis",
     "team": "Boston Celtics",
     "nationality": "Latvia",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Talented big man with a unique skill set."
   }
 ]

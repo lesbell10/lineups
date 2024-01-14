@@ -8,7 +8,7 @@
     "birthplace": "Detroit, USA",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "height": "6'10\"",
     "description": "Five-time NBA All-Star and versatile big man."
   },
@@ -21,7 +21,7 @@
     "birthplace": "Daytona Beach, USA",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "height": "6'6\"",
     "description": "High-flying dunk artist and eight-time All-Star."
   },
@@ -47,7 +47,7 @@
     "birthplace": "White Hall, USA",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "height": "6'9\"",
     "description": "Four-time NBA Defensive Player of the Year."
   },
@@ -73,7 +73,7 @@
     "birthplace": "Marietta, USA",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "height": "6'9\"",
     "description": "Skilled forward and former NBA All-Star."
   },
@@ -86,7 +86,7 @@
         "birthplace": "Coatesville, USA",
         "team": "Retired",
         "nationality": "USA",
-        "positions": ["Shooting Guard", "Small Forward"],
+        "positions": ["Shooting Guard", " Small Forward"],
         "height": "6'6\"",
         "description": "Three-time NBA All-Star and NBA champion."
     },
@@ -99,7 +99,7 @@
         "birthplace": "Philadelphia, USA",
         "team": "Retired",
         "nationality": "USA",
-        "positions": ["Power Forward", "Center"],
+        "positions": ["Power Forward", " Center"],
         "height": "6'11\"",
         "description": "NBA champion known for his defensive skills."
     },
@@ -112,7 +112,7 @@
         "birthplace": "Denver, USA",
         "team": "Retired",
         "nationality": "USA",
-        "positions": ["Point Guard", "Shooting Guard"],
+        "positions": ["Point Guard", " Shooting Guard"],
         "height": "6'3\"",
         "description": "NBA Finals MVP and five-time All-Star."
     },
@@ -123,7 +123,7 @@
     "full_name": "Michael Jordan",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Arguably the greatest player in NBA history."
   },
   {
@@ -143,7 +143,7 @@
     "full_name": "Larry Bird",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Iconic forward known for his scoring and rivalry with Magic."
   },
   {
@@ -193,7 +193,7 @@
     "full_name": "Michael Finley",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Former NBA player known for his scoring ability and versatility."
   },
   {
@@ -263,7 +263,7 @@
     "full_name": "Sam Perkins",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Versatile big man with a smooth shooting touch."
   },
   {
@@ -273,7 +273,7 @@
     "full_name": "Shawn Marion",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Defensive specialist and versatile forward."
   },
   {
@@ -303,7 +303,7 @@
     "full_name": "Clyde Drexler",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile guard-forward and NBA champion."
   },
   {
@@ -363,7 +363,7 @@
     "full_name": "Julius Erving",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Hall of Fame forward known for his acrobatic style of play."
   },
   {
@@ -373,7 +373,7 @@
     "full_name": "Jerry West",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Hall of Fame guard and iconic NBA logo."
   },
   {
@@ -393,7 +393,7 @@
     "full_name": "Christian Wood",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Talented big man known for his scoring and rebounding."
   },
   {
@@ -453,7 +453,7 @@
     "full_name": "Stephen Jackson",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile swingman and NBA champion."
   },
   {
@@ -463,7 +463,7 @@
     "full_name": "David Lee",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Skilled big man known for his rebounding and scoring in the paint."
   },
   {
@@ -533,7 +533,7 @@
     "full_name": "Greg Monroe",
     "team": "Osos de Manatí (Puerto Rico)",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Versatile big man with scoring and rebounding skills."
   },
   {
@@ -543,7 +543,7 @@
     "full_name": "Iman Shumpert",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Defensive-minded swingman and NBA champion."
   },
   {
@@ -553,7 +553,7 @@
     "full_name": "Rodney Stuckey",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Versatile guard known for his scoring and ball-handling."
   },
   {
@@ -573,7 +573,7 @@
     "full_name": "Evan Turner",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile guard-forward with a well-rounded game."
   },
   {
@@ -603,7 +603,7 @@
     "full_name": "Lance Stephenson",
     "team": "Iowa Wolves (G League)",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Flashy and energetic guard-forward known for his ball-handling."
   },
   {
@@ -623,7 +623,7 @@
     "full_name": "Taj Gibson",
     "team": "New York Knicks",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Defensive-minded forward-center with a long NBA career."
   },
   {
@@ -633,7 +633,7 @@
     "full_name": "Jamal Crawford",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Sixth Man of the Year known for his scoring off the bench."
   },
   {
@@ -673,7 +673,7 @@
     "full_name": "Derrick Favors",
     "team": "Windy City Bulls (G League)",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Strong and athletic forward-center known for his defense."
   },
   {
@@ -693,7 +693,7 @@
     "full_name": "Brandon Knight",
     "team": "Piratas de Quebradillas (Puerto Rico)",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Scoring guard known for his offensive versatility."
   },
   {
@@ -713,7 +713,7 @@
     "full_name": "Avery Bradley",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Defensive-minded guard known for his perimeter defense."
   },
   {
@@ -723,7 +723,7 @@
     "full_name": "Jae Crowder",
     "team": " Milwaukee Bucks",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward known for his defensive prowess."
   },
   {
@@ -733,7 +733,7 @@
     "full_name": "Rodney Hood",
     "team": "Free Agent",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Scoring wing with a smooth jump shot."
   },
   {
@@ -743,7 +743,7 @@
     "full_name": "Jabari Parker",
     "team": "FC Barcelona (Spain)",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Talented forward with scoring ability."
   },
   {
@@ -783,7 +783,7 @@
     "full_name": "Montrezl Harrell",
     "team": "Free Agent",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "High-energy forward-center and former Sixth Man of the Year."
   },
   {
@@ -793,7 +793,7 @@
     "full_name": "Marvin Bagley III",
     "team": "Detroit Pistons",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Young forward-center with promising talent."
   },
   {
@@ -803,7 +803,7 @@
     "full_name": "Josh Richardson",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile wing player known for his defensive skills."
   },
   {
@@ -823,7 +823,7 @@
     "full_name": "Robert Covington",
     "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Defensive-minded forward known for his shot-blocking."
   },
   {
@@ -833,7 +833,7 @@
     "full_name": "Jonathan Isaac",
     "team": "Orlando Magic",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Talented forward with shot-blocking and defensive skills."
   },
   {
@@ -853,7 +853,7 @@
     "full_name": "Jerami Grant",
     "team": "Portland Trail Blazers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward with scoring and defensive skills."
   },
   {
@@ -863,7 +863,7 @@
     "full_name": "Joe Ingles",
     "team": "Orlando Magic",
     "nationality": "Australia",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Crafty forward known for his three-point shooting."
   },
   {
@@ -873,7 +873,7 @@
     "full_name": "Jermaine O'Neal",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Veteran forward-center with a successful NBA career."
   },
   {
@@ -893,7 +893,7 @@
     "full_name": "De’Andre Hunter",
     "team": "Atlanta Hawks",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Versatile wing with defensive skills and scoring ability."
   },
   {
@@ -903,7 +903,7 @@
     "full_name": "Brandon Miller",
     "team": "Charlotte Hornets",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Former NBA player known for his backcourt skills."
   },
   {
@@ -913,7 +913,7 @@
     "full_name": "Marvin Williams",
     "team": "Charlotte Hornets",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Versatile forward, efficient shooter, strong defender and team player."
   },
   {
@@ -923,7 +923,7 @@
     "full_name": "Christian Braun",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Sharpshooting guard known for his perimeter scoring."
   },
   {
@@ -933,7 +933,7 @@
     "full_name": "Kevon Looney",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Forward-center with rebounding and defensive abilities."
   },
   {
@@ -953,7 +953,7 @@
     "full_name": "De’Anthony Melton",
     "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Guard with defensive skills and playmaking ability."
   },
   {
@@ -963,7 +963,7 @@
     "full_name": "Kevin Huerter",
     "team": "Sacramento Kings",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Shooter with three-point range and playmaking skills."
   },
   {
@@ -983,7 +983,7 @@
     "full_name": "Chris Boucher",
     "team": "Toronto Raptors",
     "nationality": "Canada",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Canadian forward-center with shot-blocking and versatility."
   },
  {
@@ -993,7 +993,7 @@
     "full_name": "Moses Malone",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Hall of Fame NBA player, known for his rebounding and scoring ability"
   },
   {
@@ -1003,7 +1003,7 @@
     "full_name": "Michael Redd",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Former NBA All-Star, known for his scoring ability"
   },
   {
@@ -1013,7 +1013,7 @@
     "full_name": "Marcus Morris",
     "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Versatile NBA forward, known for his scoring and toughness"
   },
   {
@@ -1023,7 +1023,7 @@
     "full_name": "Norman Powell",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Dynamic NBA wing, known for his athleticism and scoring"
   },
   {
@@ -1033,7 +1033,7 @@
     "full_name": "Jaxson Hayes",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Young NBA big man, known for his shot-blocking and athleticism"
   },
   {
@@ -1043,7 +1043,7 @@
     "full_name": "Rashard Lewis",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Former NBA All-Star, known for his scoring and three-point shooting"
   }
 ]

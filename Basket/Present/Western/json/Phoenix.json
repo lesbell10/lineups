@@ -6,7 +6,7 @@
     "full_name": "Devin Booker",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard and key player for the Suns."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Eric Gordon",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Veteran forward known for his three-point shooting."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Kevin Durant",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Two-time NBA Finals MVP and elite scorer."
   },
   {

@@ -45,7 +45,7 @@
         "team": "Al Hilal",
         "nationality": "Brazil",
         "height": "5'9\"",
-        "description": "Brazilian superstar, skillful forward, PSG and Brazil standout"
+        "description": "Brazilian superstar, skillful forward, Al Hilal and Brazil standout"
     },
     {
         "id": 5,
@@ -65,7 +65,7 @@
         "img": "/football/img/players/Kante.webp",
         "full_name": "N'Golo Kante",
         "birth_date": "29-03-1991",
-        "position": "Defensive Midfield",
+        "position": "Defensive Midfielder",
         "team": "Al Ittihad",
         "nationality": "France",
         "height": "5'7\"",
@@ -77,7 +77,7 @@
         "img": "/football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
-        "position": "Central Midfielder",
+        "position": "Central Midfielder, Right Back",
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'10\"",

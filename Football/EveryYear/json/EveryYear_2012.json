@@ -9,7 +9,7 @@
         "team": "Retired",
         "nationality": "England",
         "height": "5'9\"",
-        "description": "Retired English manager, former player, Manchester United record-scorer."
+        "description": "English manager, former player, record Man Utd scorer."
     },
     {
         "id": 2,
@@ -29,7 +29,7 @@
         "img": "/football/img/players/Ozil.webp",
         "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
-        "position": "Attacking Midfield",
+        "position": "Attacking Midfielder",
         "team": "Retired",
         "nationality": "Germany",
         "height": "5'11\"",
@@ -53,7 +53,7 @@
         "img": "/football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
-        "position": "Central Midfield",
+        "position": "Central Midfielder",
         "team": "Retired",
         "nationality": "Spain",
         "height": "5'7\"",
@@ -67,7 +67,7 @@
         "birth_date": "13-05-1983",
         "position": "Defensive Midfielder",
         "team": "Retired",
-        "nationality": "Cote d'Ivoire",
+        "nationality": "Ivory Coast",
         "height": "6'2\"",
         "description": "Ivorian midfielder, known for power, skill, versatility."
     },
@@ -75,7 +75,7 @@
         "id": 7,
         "last_name": "D Alves",
         "img": "/football/img/players/D Alves.webp",
-        "full_name": "Daniel Alves",
+        "full_name": "Dani Alves",
         "birth_date": "06-05-1983",
         "position": "Right Back",
         "team": "Pumas",

@@ -6,7 +6,7 @@
     "full_name": "Malcolm Brogdon",
     "team": "Portland Trail Blazers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Versatile guard known for his playmaking and shooting."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Anfernee Simons",
     "team": "Portland Trail Blazers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young guard with scoring potential."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Shaedon Sharpe",
     "team": "Portland Trail Blazers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Rookie forward with potential and athleticism."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Robert Williams III",
     "team": "Portland Trail Blazers",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Shot-blocking and athletic big man."
   }
 ]

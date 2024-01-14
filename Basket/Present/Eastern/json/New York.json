@@ -16,7 +16,7 @@
     "full_name": "Donte DiVincenzo",
     "team": "New York Knicks",
     "nationality": "United Kingdom",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Dynamic guard with excellent shooting skills."
   },
 {
@@ -26,7 +26,7 @@
     "full_name": "OG Anunoby",
     "team": "New York Knicks",
     "nationality": "United Kingdom",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile forward known for his defense."
   },
 

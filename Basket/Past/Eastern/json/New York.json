@@ -16,7 +16,7 @@
     "full_name": "JR Smith",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Former NBA player known for his three-point shooting."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Carmelo Anthony",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Future Hall of Famer and elite scorer."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Amar'e Stoudemire",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA star known for his athleticism and scoring ability."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Kristaps Porzingis",
     "team": "Boston Celtics",
     "nationality": "Latvia",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Versatile big man with shot-blocking and three-point shooting."
   }
 ]

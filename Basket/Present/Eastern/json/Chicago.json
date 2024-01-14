@@ -6,7 +6,7 @@
     "full_name": "Lonzo Ball",
     "team": "Chicago Bulls",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Talented guard known for his playmaking skills."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Zach LaVine",
     "team": "Chicago Bulls",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "High-scoring guard with athleticism and versatility."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Alex Caruso",
     "team": "Chicago Bulls",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Defensive-minded guard known for his hustle."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "DeMar DeRozan",
     "team": "Chicago Bulls",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Veteran scorer with a mid-range game."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Nikola Vucevic",
     "team": "Chicago Bulls",
     "nationality": "Montenegro",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Skilled big man with scoring and rebounding ability."
   }
 ]

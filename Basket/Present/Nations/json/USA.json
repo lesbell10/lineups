@@ -6,7 +6,7 @@
     "full_name": "Stephen Curry",
     "team": "Golden State Warriors",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Three-time NBA champion and elite shooter."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jimmy Butler",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "All-Star known for his leadership and scoring."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "NBA legend with multiple championships."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Jayson Tatum",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Young star known for his scoring ability."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Kevin Durant",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Two-time NBA champion and elite scorer."
   }
 ]

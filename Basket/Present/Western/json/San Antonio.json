@@ -26,7 +26,7 @@
     "full_name": "Keldon Johnson",
     "team": "San Antonio Spurs",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Young forward known for his athleticism and energy."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Devin Vassell",
     "team": "San Antonio Spurs",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Versatile wing player with defensive skills."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Zach Collins",
     "team": "San Antonio Spurs",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Big man with potential and shot-blocking ability."
   }
 ]

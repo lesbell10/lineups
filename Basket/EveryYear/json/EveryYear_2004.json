@@ -6,7 +6,7 @@
     "full_name": "Allen Iverson",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Hall of Fame NBA player with incredible scoring ability."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Tracy McGrady",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "One of the most versatile and talented scorers in NBA history."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Kobe Bryant",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Legendary Laker known for his work ethic and clutch performances."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Tim Duncan",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Dominant big man with exceptional fundamentals and leadership."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Shaquille O'Neal",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "A dominant force in the paint and a multiple-time NBA champion."
   }
 ]

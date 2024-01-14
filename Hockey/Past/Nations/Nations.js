@@ -35,6 +35,10 @@ yearSelector.addEventListener('mouseout', function () {
 });
 
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
+
 let selectedYear = 0;
 
 window.onload = function () {

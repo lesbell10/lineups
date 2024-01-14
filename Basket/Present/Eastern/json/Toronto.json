@@ -6,7 +6,7 @@
     "full_name": "Immanuel Quickley",
     "team": "Toronto Raptors",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Emerging guard known for his scoring ability."
   },
  {
@@ -16,7 +16,7 @@
     "full_name": "RJ Barrett",
     "team": "Toronto Raptors",
     "nationality": "Canada",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Young forward with scoring potential."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Scottie Barnes",
     "team": "Toronto Raptors",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Rookie forward with potential and athleticism."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Pascal Siakam",
     "team": "Toronto Raptors",
     "nationality": "Cameroon",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "All-Star forward known for his versatility."
   },
   {

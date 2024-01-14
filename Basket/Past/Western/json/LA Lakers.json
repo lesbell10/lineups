@@ -6,7 +6,7 @@
     "full_name": "Kobe Bryant",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "NBA legend and one of the greatest scorers of all time."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "One of the greatest players in NBA history with multiple championships."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Ronald Artest III",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Power Forward", " Shooting Guard"],
     "description": "Former NBA player known for his defensive prowess."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Pau Gasol",
     "team": "Retired",
     "nationality": "Spain",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA star known for his versatility and basketball IQ."
   }
 ]

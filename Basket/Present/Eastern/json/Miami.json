@@ -6,7 +6,7 @@
     "full_name": "Tyler Herro",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young guard known for his scoring and shooting."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Caleb Martin",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Energetic player known for hustle and defense."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Jimmy Butler",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "All-Star forward known for his leadership."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Duncan Robinson",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Sharpshooter with a lethal three-point shot."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Bam Adebayo",
     "team": "Miami Heat",
     "nationality": "USA",
-    "positions": ["Center", "Power Forward"],
+    "positions": ["Center", " Power Forward"],
     "description": "Versatile big man known for his defensive skills."
   }
 ]

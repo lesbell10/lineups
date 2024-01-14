@@ -6,7 +6,7 @@
     "full_name": "Luka Doncic",
     "team": "Dallas Mavericks",
     "nationality": "Slovenia",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young star known for his playmaking and scoring."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Kyrie Irving",
     "team": "Dallas Mavericks",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Elite guard with exceptional ball-handling and scoring."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Tim Hardaway Jr",
     "team": "Dallas Mavericks",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Scoring forward known for his three-point shooting."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Grant Williams",
     "team": "Dallas Mavericks",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Rookie forward with potential and athleticism."
   },
   {

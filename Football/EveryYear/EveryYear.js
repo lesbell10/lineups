@@ -49,7 +49,6 @@ yearSelector.addEventListener('mouseout', function () {
 window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
-    yearSelector.selectedIndex = 0;
 }
 
 // Function to handle mouseover
@@ -88,6 +87,9 @@ containers.forEach(container => {
     container.addEventListener("mouseout", handleMouseout);
 });
 
+yearSelector.addEventListener('mouseenter', () => {
+    yearSelector.focus();
+});
 
 let selectedYear = 0
 
@@ -106,7 +108,7 @@ function updatePlayerInfo() {
         DCR.textContent = "Terry";
         DCL.textContent = "Maldini";
         DL.textContent = "R Carlos";
-        GK.textContent = "Cech";
+        GK.textContent = "Buffon";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";

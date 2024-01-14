@@ -4041,16 +4041,6 @@
     "description": "French playmaker known for elegance on the ball."
 },
 {
-    "id": 391,
-    "last_name": "Thuram",
-    "img": "/football/img/players/Thuram.webp",
-    "full_name": "Lilian Thuram",
-    "team": "Retired",
-    "nationality": "France",
-    "position": "Right Back",
-    "description": "Rock-solid defender with unmatched consistency."
-},
-{
     "id": 392,
     "last_name": "Lucio",
     "img": "/football/img/players/Lucio.webp",
@@ -4059,16 +4049,6 @@
     "nationality": "Brazil",
     "position": "Centre Back",
     "description": "Brazilian defender known for his physicality."
-},
-{
-    "id": 393,
-    "last_name": "Maldini",
-    "img": "/football/img/players/Maldini.webp",
-    "full_name": "Paolo Maldini",
-    "team": "Retired",
-    "nationality": "Italy",
-    "position": "Left Back",
-    "description": "Italian legend who excelled as a versatile defender."
 },
 {
     "id": 394,

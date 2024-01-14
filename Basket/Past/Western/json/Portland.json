@@ -16,7 +16,7 @@
     "full_name": "CJ McCollum",
     "team": "New Orleans Pelicans",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard known for his shooting and offensive skills."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Nicolas Batum",
     "team": "Philadelphia 76ers",
     "nationality": "France",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Versatile forward known for his defense and three-point shooting."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "LaMarcus Aldridge",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former NBA star known for his scoring in the post."
   },
   {

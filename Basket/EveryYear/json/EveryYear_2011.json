@@ -31,7 +31,7 @@
     "birth_date": "23-08-1978",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "height": "6'6\"",
     "description": "NBA legend with five championship rings."
   },
@@ -43,7 +43,7 @@
     "birth_date": "30-12-1984",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'9\"",
     "description": "Four-time NBA champion and four-time MVP."
   },
@@ -55,7 +55,7 @@
     "birth_date": "29-05-1984",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "height": "6'8\"",
     "description": "Versatile scorer with multiple All-Star selections."
   }

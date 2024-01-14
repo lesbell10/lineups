@@ -6,7 +6,7 @@
     "full_name": "Kyrie Irving",
     "team": "Dallas Mavericks",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Elite point guard known for his ball-handling and scoring."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Joe Johnson",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile scorer with a long and successful NBA career."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Kevin Durant",
     "team": "Phoenix Suns",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Two-time NBA champion and elite scorer."
   },
   {

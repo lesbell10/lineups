@@ -6,7 +6,7 @@
     "full_name": "James Harden",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring machine and former MVP."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Russell Westbrook",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Triple-double machine and former MVP."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Paul George",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "All-Star forward known for scoring and defense."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Kawhi Leonard",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Two-time NBA Finals MVP with elite two-way skills."
   },
   {

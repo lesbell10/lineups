@@ -16,7 +16,7 @@
     "full_name": "Kentavious Caldwell-P",
     "team": "Denver Nuggets",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Small Forward"],
+    "positions": ["Shooting Guard", " Small Forward"],
     "description": "Versatile wing player known for his three-point shooting and defense."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Tobias Harris",
     "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward known for his scoring and defense."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Blake Griffin",
     "team": "Free Agent",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former All-Star forward known for his athleticism."
   },
   {

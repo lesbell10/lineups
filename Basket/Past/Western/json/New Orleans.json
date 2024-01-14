@@ -16,7 +16,7 @@
     "full_name": "Jrue Holiday",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Two-way guard known for his defense and playmaking."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Zion Williamson",
     "team": "New Orleans Pelicans",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Young star forward known for his athleticism and scoring ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Anthony Davis",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Elite forward/center known for his defensive prowess."
   },
   {

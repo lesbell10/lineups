@@ -16,7 +16,7 @@
     "full_name": "Jordan Poole",
     "team": "Washington Wizards",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard with a promising future."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Kyle Kuzma",
     "team": "Washington Wizards",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Forward known for his scoring ability."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Deni Avdija",
     "team": "Washington Wizards",
     "nationality": "Israel",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Young forward with potential and versatility."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Danilo Gallinari",
     "team": "Washington Wizards",
     "nationality": "Italy",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Veteran forward known for his scoring."
   }
 ]

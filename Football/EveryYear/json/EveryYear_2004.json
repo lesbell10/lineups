@@ -39,7 +39,7 @@
     "full_name": "Ronaldinho de Assis",
     "team": "Retired",
     "nationality": "Brazil",
-    "position": "Left Winger",
+    "position": "Forward",
     "description": "Samba flair, magician with the ball, football entertainer.",
     "age": "43 years old"
   },
@@ -94,7 +94,7 @@
     "full_name": "Paolo Maldini",
     "team": "Retired",
     "nationality": "Italy",
-    "position": "Left Back",
+    "position": "Centre Back, Left Back",
     "description": "Defensive maestro, AC Milan icon, Italian football legend.",
     "age": "55 years old"
   },
@@ -111,13 +111,15 @@
   },
   {
     "id": 11,
-    "last_name": "Cech",
-    "img": "/football/img/players/Cech.webp",
-    "full_name": "Petr Cech",
-    "team": "Retired",
-    "nationality": "Czech Republic",
+    "last_name": "Buffon",
+    "img": "/football/img/players/Buffon.webp",
+    "full_name": "Gianluigi Buffon",
+    "birth_date": "28-01-1978",
     "position": "Goalkeeper",
-    "description": "Goalkeeping legend, safe hands, shot-stopping brilliance.",
-    "age": "41 years old"
+    "team": "Retired",
+    "nationality": "Italy",
+    "height": "6'4\"",
+    "description": "World-class Italian goalkeeper with unparalleled experience.",
+    "age": "45 years old"
   }
 ]

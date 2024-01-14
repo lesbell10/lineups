@@ -16,7 +16,7 @@
     "full_name": "James Harden",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Former MVP and elite scorer known for his step-back three."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Russell Westbrook",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Triple-double machine and explosive guard."
   },
   {

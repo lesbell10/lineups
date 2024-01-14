@@ -352,21 +352,19 @@ searchInput.addEventListener("input", function () {
 // Event listener for the 'Active' button
 
 activeButton.addEventListener("click", function () {
-    // Check the current background color
     const backgroundColor = activeButton.style.backgroundColor;
 
     if (backgroundColor === "red" || backgroundColor === "") {
-        includeRetired = false; // Set to exclude retired players
-        const query = searchInput.value;
-        searchPlayers(query, includeRetired);
-        activeButton.style.backgroundColor = "green";
+        includeRetired = false;
     } else {
         includeRetired = true;
-        hideSomeThings();
-        const query = searchInput.value;
-        searchPlayers(query, includeRetired);
-        activeButton.style.backgroundColor = "red";
     }
+
+    const query = searchInput.value;
+    searchPlayers(query, includeRetired);
+
+    // Toggle the button color
+    activeButton.style.backgroundColor = includeRetired ? "red" : "green";
 });
 
 function hideSomeThings() {

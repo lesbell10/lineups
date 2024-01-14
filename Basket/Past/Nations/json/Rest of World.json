@@ -6,7 +6,7 @@
     "full_name": "Manu Ginóbili",
     "team": "Retired",
     "nationality": "Argentina",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Legendary shooting guard known for his crafty play and championships."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Al Horford",
     "team": "Boston Celtics",
     "nationality": "Dominican Republic",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Veteran forward known for his versatility."
   }
 ]

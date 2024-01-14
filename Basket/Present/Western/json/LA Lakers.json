@@ -6,7 +6,7 @@
     "full_name": "D'Angelo Russell",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Scoring guard with ball-handling skills."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "LeBron James",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "NBA legend with all-around skills and leadership."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Rui Hachimura",
     "team": "Los Angeles Lakers",
     "nationality": "Japan",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Forward with scoring ability and international experience."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Anthony Davis",
     "team": "Los Angeles Lakers",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Elite big man known for his shot-blocking and versatility."
   }
 ]

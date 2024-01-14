@@ -16,7 +16,7 @@
     "full_name": "Cole Anthony",
     "team": "Orlando Magic",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Young guard with scoring and ball-handling ability."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Franz Wagner",
     "team": "Orlando Magic",
     "nationality": "Germany",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Rookie forward with defensive skills."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Paolo Banchero",
     "team": "Orlando Magic",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Highly-touted rookie with all-around skills."
   },
   {

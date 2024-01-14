@@ -6,7 +6,7 @@
     "full_name": "CJ McCollum",
     "team": "New Orleans Pelicans",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard with a smooth jump shot."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Herbert Jones",
     "team": "New Orleans Pelicans",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "Rookie forward known for his defensive skills."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Zion Williamson",
     "team": "New Orleans Pelicans",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Young star with explosive athleticism."
   },
   {

@@ -16,7 +16,7 @@
     "full_name": "Paul George",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Shooting Guard"],
+    "positions": ["Small Forward", " Shooting Guard"],
     "description": "All-Star forward known for his scoring and defense."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Kawhi Leonard",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Two-time NBA Finals MVP known for his defense and clutch performances."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Blake Griffin",
     "team": "Free Agent",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Former All-Star known for his athleticism and dunking."
   },
   {

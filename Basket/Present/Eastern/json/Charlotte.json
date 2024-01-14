@@ -6,7 +6,7 @@
     "full_name": "LaMelo Ball",
     "team": "Charlotte Hornets",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Exciting young talent with great playmaking ability."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Terry Rozier III",
     "team": "Charlotte Hornets",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Scoring guard with a strong outside shot."
   },
   {

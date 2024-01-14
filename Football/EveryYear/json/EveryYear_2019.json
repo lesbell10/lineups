@@ -75,7 +75,7 @@
       "id": 7,
       "last_name": "Carvajal",
       "img": "/football/img/players/Carvajal.webp",
-      "full_name": "Daniel Carvajal",
+      "full_name": "Dani Carvajal",
       "birth_date": "11-01-1992",
       "nationality": "Spain",
       "position": "Right Back",
@@ -123,12 +123,12 @@
       "id": 11,
       "last_name": "De Gea",
       "img": "/football/img/players/De Gea.webp",
-      "full_name": "David de Gea",
+      "full_name": "David De Gea",
       "birth_date": "07-11-1990",
       "nationality": "Spain",
       "position": "Goalkeeper",
       "height": "6'2\"",
       "team": "No Club",
-        "description": "Spanish goalkeeper, remarkable reflexes, Manchester United's backbone"
+        "description": "Spanish goalkeeper, remarkable reflexes, former Manchester United's backbone"
     }
 ]

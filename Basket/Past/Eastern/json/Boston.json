@@ -26,7 +26,7 @@
     "full_name": "Jayson Tatum",
     "team": "Boston Celtics",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Young star with a silky-smooth scoring touch and great potential."
   },
   {
@@ -46,7 +46,7 @@
     "full_name": "Kevin Garnett",
     "team": "Retired",
     "nationality": "USA",
-    "positions": ["Power Forward", "Center"],
+    "positions": ["Power Forward", " Center"],
     "description": "Hall of Famer and fierce competitor known for his defensive prowess."
   }
 ]

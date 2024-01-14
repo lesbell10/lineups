@@ -6,7 +6,7 @@
     "full_name": "Cade Cunningham",
     "team": "Detroit Pistons",
     "nationality": "USA",
-    "positions": ["Point Guard", "Shooting Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
     "description": "Highly-touted rookie with versatile skills."
   },
   {
@@ -16,7 +16,7 @@
     "full_name": "Jaden Ivey",
     "team": "Detroit Pistons",
     "nationality": "USA",
-    "positions": ["Shooting Guard", "Point Guard"],
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Young guard known for his scoring ability."
   },
   {
@@ -26,7 +26,7 @@
     "full_name": "Ausar Thompson",
     "team": "Detroit Pistons",
     "nationality": "USA",
-    "positions": ["Small Forward", "Power Forward"],
+    "positions": ["Small Forward", " Power Forward"],
     "description": "Versatile forward with defensive skills."
   },
   {
@@ -36,7 +36,7 @@
     "full_name": "Bojan Bogdanovic",
     "team": "Detroit Pistons",
     "nationality": "Croatia",
-    "positions": ["Power Forward", "Small Forward"],
+    "positions": ["Power Forward", " Small Forward"],
     "description": "Scoring forward with outside shooting."
   },
   {
