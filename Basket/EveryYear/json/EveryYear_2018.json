@@ -2,8 +2,8 @@
   {
     "id": 1,
     "last_name": "R Westbrook",
-    "img": "/basket/img/players/Westbrook.png",
-    "full_name": "Russell WestBrook",
+    "img": "/basket/img/players/R Westbrook.png",
+    "full_name": "Russell Westbrook",
     "birth_date": "12-11-1988",
     "team": "Los Angeles Clippers",
     "nationality": "USA",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "last_name": "J Harden",
-    "img": "/basket/img/players/Harden.png",
+    "img": "/basket/img/players/J Harden.png",
     "full_name": "James Harden",
     "birth_date": "26-08-1989",
     "team": "Los Angeles Clippers",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "last_name": "K Leonard",
-    "img": "/basket/img/players/Leonard.png",
+    "img": "/basket/img/players/K Leonard.png",
     "full_name": "Kawhi Leonard",
     "birth_date": "29-06-1991",
     "team": "Los Angeles Clippers",

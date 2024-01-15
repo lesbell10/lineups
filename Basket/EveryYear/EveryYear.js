@@ -138,7 +138,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center.Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
+            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center. Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -168,7 +168,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional three - point shooting skills.A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
+            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional 3-point shooting skills. A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -258,7 +258,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility.A multiple - time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
+            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility. A multiple-time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -270,7 +270,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "14") {
 
-        PG.textContent = "R WestBrook";
+        PG.textContent = "R Westbrook";
         SG.textContent = "J Harden";
         SF.textContent = "K Leonard";
         PF.textContent = "L James";
@@ -348,7 +348,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot - blocking, and scoring ability.A multiple - time All - Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
+            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot-blocking, and scoring ability. A multiple-time All-Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -529,7 +529,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Kevin Garnett, a retired NBA power forward and center, known for his tenure with the Minnesota Timberwolves and Boston Celtics, was celebrated for his intensity, defensive prowess, and versatility.An NBA champion and MVP, Garnett's passion and skill greatly influenced the game."
+            sideModal.textContent = "Kevin Garnett, a retired NBA power forward and center, known for his tenure with the Minnesota Timberwolves and Boston Celtics, was celebrated for his intensity, defensive prowess, and versatility. An NBA champion and MVP, Garnett's passion and skill greatly influenced the game."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -809,7 +809,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center.Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
+            sideModal.textContent = "Nikola Jokic, an NBA superstar for the Denver Nuggets, is a versatile and highly skilled center. Known for his exceptional passing, scoring, and basketball IQ, he won the MVP award in 2021, solidifying his status as one of the league's premier players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -839,7 +839,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional three - point shooting skills.A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
+            sideModal.textContent = "Stephen Curry, renowned NBA player for the Golden State Warriors, is celebrated for his exceptional three - point shooting skills. A multiple MVP awardee, Curry has revolutionized modern basketball with his range and accuracy, influencing a generation of players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -929,7 +929,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility.A multiple - time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
+            sideModal.textContent = "Kevin Durant, an NBA superstar, currently playing for the Phoenix Suns, is celebrated for his scoring prowess and versatility. A multiple-time scoring champion and MVP, Durant's remarkable height and skills enable him to dominate on both offense and defense, influencing modern basketball."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -941,7 +941,7 @@ const updateDropdown = () => {
 
     if (selectedYear == "14") {
 
-        PG.textContent = "R WestBrook";
+        PG.textContent = "R Westbrook";
         SG.textContent = "J Harden";
         SF.textContent = "K Leonard";
         PF.textContent = "L James";
@@ -1019,7 +1019,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot - blocking, and scoring ability.A multiple - time All - Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
+            sideModal.textContent = "Anthony Davis, an NBA star playing for the Los Angeles Lakers, is known for his versatility, shot - blocking, and scoring ability. A multiple-time All-Star and NBA champion, Davis combines size and skill to impact both ends of the court, making him a formidable player."
         })
 
         smallpic.addEventListener("mouseout", () => {
