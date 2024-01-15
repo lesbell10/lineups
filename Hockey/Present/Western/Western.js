@@ -267,7 +267,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense.Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
+            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -394,7 +394,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL.Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
+            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -813,7 +813,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense.Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
+            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -940,7 +940,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL.Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
+            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
