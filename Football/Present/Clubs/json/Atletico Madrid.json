@@ -114,7 +114,7 @@
     "team": "Atletico Madrid",
     "nationality": "Montenegro",
     "height": "6'2\"",
-    "description": "Montenegrin left central defender with great composure."
+    "description": "Montenegrin central defender with great composure."
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "full_name": "Mario Hermoso",
     "birth_date": "18-04-1995",
 
-    "position": "Centre Back",
+    "position": "Centre Back, Left Back",
     "team": "Atletico Madrid",
     "nationality": "Spain",
     "height": "6'2\"",
-    "description": "Spanish centre back known for his offense."
+    "description": "Mario Hermoso skillfully defends, bringing strength to the team."
   },
   {
     "id": 11,

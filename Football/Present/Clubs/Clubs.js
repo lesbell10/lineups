@@ -326,9 +326,9 @@ function updatePlayerInfo() {
 
     if (selectedYear == "4") {
         STC.textContent = "Lewandowski"
-        FR.textContent = "J Felix"
+        FR.textContent = "Gavi"
         AMC.textContent = "Pedri"
-        FL.textContent = "Gavi"
+        FL.textContent = "J Felix"
         CMR.textContent = "Gundogan"
         CML.textContent = "F de Jong"
         DR.textContent = "Cancelo"
@@ -355,7 +355,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022–23 season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
+            sideModal.textContent = "Last season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -401,7 +401,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022–23 season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
+            sideModal.textContent = "Last season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -581,7 +581,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
+            sideModal.textContent = "Last season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final of the Champions' League for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -626,7 +626,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
+            sideModal.textContent = "Last season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -717,7 +717,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
+            sideModal.textContent = "Last season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1136,7 +1136,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022–23 season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
+            sideModal.textContent = "Last season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1182,7 +1182,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022–23 season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
+            sideModal.textContent = "Last season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1362,7 +1362,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
+            sideModal.textContent = "Last season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1407,7 +1407,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
+            sideModal.textContent = "Last season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1498,7 +1498,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022–23 season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
+            sideModal.textContent = "Last season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
         })
 
         smallpic.addEventListener("mouseout", () => {

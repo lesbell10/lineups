@@ -12,18 +12,18 @@
     "height": "6'0\"",
     "description": "Prolific Polish striker with exceptional goal-scoring ability."
   },
-  {
+   {
     "id": 2,
-    "last_name": "J Felix",
-    "img": "/football/img/players/J Felix.webp",
-    "full_name": "Joao Felix",
-    "birth_date": "10-11-1999",
+    "last_name": "Gavi",
+    "img": "/football/img/players/Gavi.webp",
+    "full_name": "Pablo Gavi",
+    "birth_date": "05-08-2004",
 
-    "position": "Forward",
-    "team": "Barcelona",
-    "nationality": "Portugal",
-    "height": "6'1\"",
-    "description": "Talented Portuguese forward known for his skills and flair."
+    "position": "Attacking Midfielder",
+    "team": "FC Barcelona",
+    "nationality": "Spain",
+    "height": "6'0\"",
+    "description": "Talented young midfielder for FC Barcelona."
   },
   {
     "id": 3,
@@ -38,18 +38,18 @@
     "height": "5'8\"",
     "description": "Young Spanish playmaker with great potential and vision."
   },
-  {
+   {
     "id": 4,
-    "last_name": "Gavi",
-    "img": "/football/img/players/Gavi.webp",
-    "full_name": "Pablo Gavi",
-    "birth_date": "05-08-2004",
+    "last_name": "J Felix",
+    "img": "/football/img/players/J Felix.webp",
+    "full_name": "Joao Felix",
+    "birth_date": "10-11-1999",
 
-    "position": "Atacking Midfielder",
-    "team": "FC Barcelona",
-    "nationality": "Spain",
-    "height": "6'0\"",
-    "description": "Talented young midfielder for FC Barcelona."
+    "position": "Forward",
+    "team": "Barcelona",
+    "nationality": "Portugal",
+    "height": "6'1\"",
+    "description": "Talented Portuguese forward known for his skills and flair."
   },
   {
     "id": 5,
@@ -71,7 +71,7 @@
     "full_name": "Frenkie de Jong",
     "birth_date": "12-05-1997",
 
-    "position": "Central Midfielder",
+    "position": "Defensive Midfielder",
     "team": "Barcelona",
     "nationality": "Netherlands",
     "height": "5'11\"",
@@ -84,11 +84,11 @@
     "full_name": "Joao Cancelo",
     "birth_date": "27-05-1994",
 
-    "position": "Right Back",
+    "position": "Full Back",
     "team": "Barcelona",
     "nationality": "Portugal",
     "height": "6'0\"",
-    "description": "Portuguese right back known for his attacking prowess."
+    "description": "Portuguese full back known for his attacking prowess."
   },
   {
     "id": 8,
