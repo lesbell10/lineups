@@ -3,7 +3,7 @@
 
 
 
-
+in json
   {
     "id": 1,
     "last_name": ,
@@ -12,7 +12,7 @@
     "team": ,
     "nationality": (name),
     "position": ,
-    "description": (as manager in 8 words),
+    "description": (8 word sentence),
   }
 
 

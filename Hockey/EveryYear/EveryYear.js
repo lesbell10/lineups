@@ -561,7 +561,7 @@ function updatePlayerInfo() {
         FC.textContent = "Malkin";
         FR.textContent = "Iginla";
         DL.textContent = "Lidstrom";
-        DR.textContent = "Phaneuf";
+        DR.textContent = "M Green";
         G.textContent = "Luongo";
 
         FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";

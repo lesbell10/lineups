@@ -462,8 +462,8 @@ function updatePlayerInfo() {
 
     if (selectedYear == "8") {
         STC.textContent = "Vlahovic"
-        FR.textContent = "Chiesa"
-        AMC.textContent = "Pogba"
+        FR.textContent = "M Kean"
+        AMC.textContent = "Chiesa"
         FL.textContent = "Kostic"
         CMR.textContent = "Locatelli"
         CML.textContent = "Rabiot"

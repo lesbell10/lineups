@@ -47,17 +47,15 @@
         "height": "6'1\"",
         "description": "Swedish defenseman, one of the greatest blueliners in NHL history"
     },
-    {
+     {
         "id": 5,
-        "last_name": "Phaneuf",
-        "img": "/hockey/img/players/Phaneuf.jpg",
-        "full_name": "Dion Phaneuf",
-        "birth_date": "10-04-1985",
+        "last_name": "M Green",
+        "img": "/hockey/img/players/M Green.jpg",
+        "full_name": "Mike Green",
         "team": "Retired",
         "nationality": "Canada",
         "position": "Defenseman",
-        "height": "6'4\"",
-        "description": "Canadian defenseman, known for his physical play in the NHL"
+        "description": "Canadian defenseman, former Capitals star."
     },
     {
         "id": 6,
