@@ -32,11 +32,6 @@ yearSelector.addEventListener('mouseout', function () {
     msgLabel.style.fontWeight = "bold"
 });
 
-window.onload = function () {
-    yearSelector.selectedIndex = 0;
-}
-
-
 // Function to handle mouseover
 const handleMouseover = (event) => {
     // Find the image and paragraph within the container
