@@ -191,7 +191,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In the 2022-23 season, Manchester City demonstrated their football prowess in the Premier League.  They clinched their third consecutive Premier League title in an exhilarating title race with closest rivals Arsenal and won the champions league with Haaland being a big asset for the team"
+            sideModal.innerHTML = "Current Manager: Pep Guardiola <br> Best Player: Erling Haaland <br> Best Ever: Kevin De Bruyne <br> Position Last Year: 1st in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -237,7 +237,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Carlo Ancelotti <br> Best Player: Vinicius Jr <br> Best Ever: Zinedine Zidane <br> Position Last Year: 2nd in La Liga"
+            sideModal.innerHTML = "Current Manager: Carlo Ancelotti <br> Best Player: Vinicius Jr <br> Best Ever: Zinedine Zidane <br> Position Last Year: 2nd in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -282,7 +282,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Luis Enrique <br> Best Player: Kylian Mbappe <br> Best Ever: Zlatan Ibrahimovic <br> Position Last Year: 1st in Ligue 1"
+            sideModal.innerHTML = "Current Manager: Luis Enrique <br> Best Player: Kylian Mbappe <br> Best Ever: Zlatan Ibrahimovic <br> Position Last Year: 1st in Ligue 1"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -328,7 +328,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Thomas Tuchel <br> Best Player: Harry Kane <br> Best Ever: Oliver Kahn <br> Position Last Year: 1st in Bundesliga"
+            sideModal.innerHTML = "Current Manager: Thomas Tuchel <br> Best Player: Harry Kane <br> Best Ever: Oliver Kahn <br> Position Last Year: 1st in Bundesliga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -374,7 +374,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Jurgen Klopp <br> Best Player: Mohamed Salah <br> Best Ever: Steven Gerrard <br> Position Last Year: 5th in Premier League"
+            sideModal.innerHTML = "Current Manager: Jurgen Klopp <br> Best Player: Mohamed Salah <br> Best Ever: Steven Gerrard <br> Position Last Year: 5th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -420,7 +420,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Xavi Hernandez <br> Best Player: Robert Lewandowski <br> Best Ever: Lionel Messi <br> Position Last Year: 1st in La Liga"
+            sideModal.innerHTML = "Current Manager: Xavi Hernandez <br> Best Player: Robert Lewandowski <br> Best Ever: Lionel Messi <br> Position Last Year: 1st in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -466,7 +466,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Mauricio Pochettino <br> Best Player: Raheem Sterling <br> Best Ever: Frank Lampard <br> Position Last Year: 12th in Premier League"
+            sideModal.innerHTML = "Current Manager: Mauricio Pochettino <br> Best Player: Raheem Sterling <br> Best Ever: Frank Lampard <br> Position Last Year: 12th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -511,7 +511,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Erik ten Hag <br> Best Player: Bruno Fernandes <br> Best Ever: Cristiano Ronaldo <br> Position Last Year: 3rd in Premier League"
+            sideModal.innerHTML = "Current Manager: Erik ten Hag <br> Best Player: Bruno Fernandes <br> Best Ever: Cristiano Ronaldo <br> Position Last Year: 3rd in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -556,7 +556,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Massimiliano Allegri <br> Best Player: Federico Chiesa <br> Best Ever: Alessandro Del Piero <br> Position Last Year: 7th in Serie A"
+            sideModal.innerHTML = "Current Manager: Massimiliano Allegri <br> Best Player: Federico Chiesa <br> Best Ever: Alessandro Del Piero <br> Position Last Year: 7th in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -602,7 +602,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Mikel Arteta <br> Best Player: Martin Odegaard <br> Best Ever: THierry Henry <br> Position Last Year: 2nd in Premier League"
+            sideModal.innerHTML = "Current Manager: Mikel Arteta <br> Best Player: Martin Odegaard <br> Best Ever: THierry Henry <br> Position Last Year: 2nd in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -646,7 +646,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Coach: Simone Inzaghi <br> Best Player: Vinicius Jr <br> Best Ever: Zinedine Zidane <br> Position Last Year: 2nd in La Liga"
+            sideModal.innerHTML = "Current Manager: Simone Inzaghi <br> Best Player: Lautaro Martinez <br> Best Ever: Javier Zanetti <br> Position Last Year: 3rd in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -691,7 +691,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season was a significant one for Atlético Madrid. They finished third in the league. Known for their disciplined defensive approach under coach Diego Simeone, Griezmann carried their attacking play."
+            sideModal.innerHTML = "Current Manager: Diego Simeone <br> Best Player: Antoine Griezmann <br> Best Ever: Fernando Torres <br> Position Last Year: 3rd in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -737,7 +737,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, AC Milan finished fourth in the league, competing fiercely against other top teams. In the champions league, the team made it to the semi-finals, showcasing their European prowess."
+            sideModal.innerHTML = "Current Manager: Stefano Pioli <br> Best Player: Rafael Leao <br> Best Ever: Kaka <br> Position Last Year: 4th in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -782,7 +782,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season was a remarkable one for SSC Napoli. They secured their third Serie A title, achieving this feat with five matches to spare. This marked their first top league title since the 1989–90 season."
+            sideModal.innerHTML = "Current Manager: Walter Mazzarri <br> Best Player: Victor Osimhen <br> Best Ever: Diego Maradona <br> Position Last Year: 1st in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -827,7 +827,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Tottenham's 2022-23 season wasa a difficult one. They finishedd 8th in the league and Hary Kane, who departed for Bayern Munich in th summer, netted 32 goals. Antonio Conte led the team until March 26."
+            sideModal.innerHTML = "Current Manager: Ange Postecoglou <br> Best Player: Heung-Min Son <br> Best Ever: Harry Kane <br> Position Last Year: 8th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -876,7 +876,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, Jose Mourinho led the team to a 6th place in Serie A. They were runners-up in the Europa League. Overall, Paulo Dybala netted 18 goals."
+            sideModal.innerHTML = "Current Manager: Daniele De Rossi <br> Best Player: Paulo Dybala <br> Best Ever: Francesco Totti <br> Position Last Year: 6th in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {

@@ -192,7 +192,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022-23 season was significant as it included the 2022 FIFA World Cup, held in Qatar. Coached by Didier Deschamps, the team is known for its depth of talent, including stars like Kylian Mbappé, Antoine Griezmann, and N'Golo Kanté. France's had a brillant world cup in Qatar but eventually lost to Argentina in the final."
+            sideModal.innerHTML = "Current Manager: Didier Deschamps <br> Best Player: Kylian Mbappe <br> Best Ever: Zinedine Zidane <br> World Cup 2022: Finalist"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Brazil national football team, coached by Tite, showed skillful and attacking style of play during the 2022-23 season. They couldn't add up to their record 5 world cup trophies in Qatar."
+            sideModal.innerHTML = "Current Manager: Dorival Junior <br> Best Player: Neymar Jr <br> Best Ever: Ronaldo <br> World Cup 2022: Quarter Finals"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -276,7 +276,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Spain national football team, known for their possession-based style and technical proficiency, approached the 2022-23 season with a focus on youth development and tactical innovation. Under coach Luis Enrique, the team featured a blend of experienced players and emerging talents like Pedri, Ferran Torres, and Ansu Fati."
+            sideModal.innerHTML = "Current Manager: Luis de la Fuente <br> Best Player: Pedri <br> Best Ever: Xavi Hernandez <br> World Cup 2022: Round of 16"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -318,7 +318,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Under the guidance of manager Gareth Southgate, England was known for its blend of experienced players like Harry Kane and young talents like Phil Foden and Jude Bellingham. England's playing style had evolved to combine traditional English physicality with modern, dynamic attacking football."
+            sideModal.innerHTML = "Current Manager: Gareth Southgate <br> Best Player: Harry Kane <br> Best Ever: Wayne Rooney <br> World Cup 2022: 4th place"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -360,7 +360,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Germany national football team entered the 2022-23 season with a focus on a blend of innovation and tradition. Under the leadership of coach Hansi Flick, who took over from Joachim Löw, the team was known for its efficient, organized, and attacking style of play."
+            sideModal.innerHTML = "Current Manager: Julian Nagelsmann <br> Best Player: Joshua Kimmich <br> Best Ever: Franz Beckenbauer <br> World Cup 2022: Group Stage"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -402,7 +402,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Argentina national football team, led by Lionel Messi, approached the 2022-23 season with high aspirations and a talented squad. Under coach Lionel Scaloni, Argentina combined a tactical, attacking style of play with solid defense to put their hands in the world cup trophy in Qatar. They beat France after penalties"
+            sideModal.innerHTML = "Current Manager: Lionel Scaloni <br> Best Player: Lionel Messi <br> Best Ever: Lionel Messi <br> World Cup 2022: Champions"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -444,7 +444,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Italy national football team, after their triumphant victory in UEFA Euro 2020, faced the 2022-23 season with mixed feelings.Led by coach Roberto Mancini, the team is known for its tactical flexibility, strong defense, and technical midfield play."
+            sideModal.innerHTML = "Current Manager: Luciano Spalletti <br> Best Player: Nicolo Barella <br> Best Ever: FRancesco Totti <br> World Cup 2022: Did not Qualify"
         })
 
         smallpic.addEventListener("mouseout", () => {
