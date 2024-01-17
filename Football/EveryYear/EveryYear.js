@@ -953,7 +953,7 @@ function updatePlayerInfo() {
         DR.textContent = "Kimmich";
         DCR.textContent = "van Dijk";
         DCL.textContent = "R Dias";
-        DL.textContent = "Cancelo";
+        DL.textContent = "J Cancelo";
         GK.textContent = "Neuer";
 
 
@@ -997,7 +997,7 @@ function updatePlayerInfo() {
         DR.textContent = "Kimmich";
         DCR.textContent = "R Dias";
         DCL.textContent = "Marquinhos";
-        DL.textContent = "Cancelo";
+        DL.textContent = "J Cancelo";
         GK.textContent = "Courtois";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
@@ -1037,7 +1037,7 @@ function updatePlayerInfo() {
         FL.textContent = "Vinicius Jr";
         CMR.textContent = "De Bruyne";
         CML.textContent = "Rodri";
-        DR.textContent = "Cancelo";
+        DR.textContent = "J Cancelo";
         DCR.textContent = "van Dijk";
         DCL.textContent = "R Dias";
         DL.textContent = "Robertson";
@@ -1907,7 +1907,7 @@ const updateDropdown = () => {
         DR.textContent = "Kimmich";
         DCR.textContent = "van Dijk";
         DCL.textContent = "R Dias";
-        DL.textContent = "Cancelo";
+        DL.textContent = "J Cancelo";
         GK.textContent = "Neuer";
 
 
@@ -1951,7 +1951,7 @@ const updateDropdown = () => {
         DR.textContent = "Kimmich";
         DCR.textContent = "R Dias";
         DCL.textContent = "Marquinhos";
-        DL.textContent = "Cancelo";
+        DL.textContent = "J Cancelo";
         GK.textContent = "Courtois";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
@@ -1991,7 +1991,7 @@ const updateDropdown = () => {
         FL.textContent = "Mbappe";
         CMR.textContent = "De Bruyne";
         CML.textContent = "Rodri";
-        DR.textContent = "Cancelo";
+        DR.textContent = "J Cancelo";
         DCR.textContent = "van Dijk";
         DCL.textContent = "R Dias";
         DL.textContent = "Robertson";

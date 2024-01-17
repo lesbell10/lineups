@@ -462,7 +462,7 @@ function updatePlayerInfo() {
         FL.textContent = "R Leao";
         CMR.textContent = "R Neves";
         CML.textContent = "Palhinha";
-        DR.textContent = "Cancelo";
+        DR.textContent = "J Cancelo";
         DCR.textContent = "R Dias";
         DCL.textContent = "D Pereira";
         DL.textContent = "Guerreiro";
@@ -931,7 +931,7 @@ const updateDropdown = () => {
         FL.textContent = "R Leao";
         CMR.textContent = "R Neves";
         CML.textContent = "Palhinha";
-        DR.textContent = "Cancelo";
+        DR.textContent = "J Cancelo";
         DCR.textContent = "R Dias";
         DCL.textContent = "D Pereira";
         DL.textContent = "Guerreiro";

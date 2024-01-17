@@ -45,7 +45,7 @@
         "full_name": "Marco Reus",
         "birth_date": "31-05-1989",
 
-        "position": "Right Winger",
+        "position": "Attacking Midfielder, Winger",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
         "height": "5'11\"",
@@ -58,7 +58,7 @@
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
 
-        "position": "Cenrtal Midfielder",
+        "position": "Central Midfielder",
         "team": "Real Madrid",
         "nationality": "Germany",
         "height": "6'0\"",
@@ -88,7 +88,7 @@
         "team": "Bayern Munich",
         "nationality": "Germany",
         "height": "5'9\"",
-        "description": "Versatile German full-back with excellent crossing."
+        "description": "Versatile German midfielder with excellent crossing."
     },
     {
         "id": 8,

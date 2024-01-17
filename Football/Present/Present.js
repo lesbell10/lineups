@@ -76,7 +76,7 @@ function updatePlayerInfo() {
     FL.textContent = "Vinicius Jr";
     CMR.textContent = "De Bruyne";
     CML.textContent = "Rodri";
-    DR.textContent = "Cancelo";
+    DR.textContent = "J Cancelo";
     DCR.textContent = "van Dijk";
     DCL.textContent = "R Dias";
     DL.textContent = "Robertson";

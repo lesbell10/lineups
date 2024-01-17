@@ -333,7 +333,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
+            sideModal.textContent = "The Dallas Stars in the 2022-2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -360,7 +360,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/hockey/img/logos/edmonton.gif";
 
-        MainFetchPopUp("/hockey/present/western/json/edmomnton.json");
+        MainFetchPopUp("/hockey/present/western/json/edmonton.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -395,7 +395,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Los Angeles Kings in the 2022 - 2023 season demonstrated a blend of veteran leadership and emerging young talent, marking their progress in becoming a more competitive team in the NHL. Known for their structured and disciplined style of play, the Kings focused on a balanced approach."
+            sideModal.textContent = "The Los Angeles Kings in the 2022-2023 season demonstrated a blend of veteran leadership and emerging young talent, marking their progress in becoming a more competitive team in the NHL. Known for their structured and disciplined style of play, the Kings focused on a balanced approach."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -460,7 +460,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
+            sideModal.textContent = "The Nashville Predators in the 2022-2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -522,7 +522,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Seattle Kraken, in their sophomore season of 2022 - 2023, continued to build their identity as the NHL's newest franchise. This season was about laying down the foundation for long-term success and establishing a team culture."
+            sideModal.textContent = "The Seattle Kraken, in their sophomore season of 2022-2023, continued to build their identity as the NHL's newest franchise. This season was about laying down the foundation for long-term success and establishing a team culture."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -553,7 +553,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The St.Louis Blues in the 2022 - 2023 season continued to demonstrate their status as a competitive and resilient team in the NHL.Building on their legacy of strong team play and physicality, the Blues aimed to blend their traditional strengths with a more dynamic offensive strategy."
+            sideModal.textContent = "The St.Louis Blues in the 2022-2023 season continued to demonstrate their status as a competitive and resilient team in the NHL.Building on their legacy of strong team play and physicality, the Blues aimed to blend their traditional strengths with a more dynamic offensive strategy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -584,7 +584,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Vancouver Canucks in the 2022 - 2023 season were a team in the midst of transformation, seeking to find the right balance between emerging young talent and experienced veterans.With a focus on building a cohesive team identity, the Canucks aimed to improve their overall performance in the league."
+            sideModal.textContent = "The Vancouver Canucks in the 2022-2023 season were a team in the midst of transformation, seeking to find the right balance between emerging young talent and experienced veterans.With a focus on building a cohesive team identity, the Canucks aimed to improve their overall performance in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -879,7 +879,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Stars in the 2022 - 2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
+            sideModal.textContent = "The Dallas Stars in the 2022-2023 season exhibited a strong competitive spirit, balancing a solid defensive strategy with an effective offense. Known for their disciplined style of play, the Stars relied on their core group of experienced players to guide the team."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -941,7 +941,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Los Angeles Kings in the 2022 - 2023 season demonstrated a blend of veteran leadership and emerging young talent, marking their progress in becoming a more competitive team in the NHL. Known for their structured and disciplined style of play, the Kings focused on a balanced approach."
+            sideModal.textContent = "The Los Angeles Kings in the 2022-2023 season demonstrated a blend of veteran leadership and emerging young talent, marking their progress in becoming a more competitive team in the NHL. Known for their structured and disciplined style of play, the Kings focused on a balanced approach."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1006,7 +1006,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Nashville Predators in the 2022 - 2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
+            sideModal.textContent = "The Nashville Predators in the 2022-2023 season displayed a mix of resilience and the need for adaptation, as they sought to maintain their competitive edge in the NHL. Known for their strong defensive play and goaltending, the Predators continued to rely on these strengths, while also working to invigorate their offensive capabilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1068,7 +1068,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Seattle Kraken, in their sophomore season of 2022 - 2023, continued to build their identity as the NHL's newest franchise. This season was about laying down the foundation for long-term success and establishing a team culture."
+            sideModal.textContent = "The Seattle Kraken, in their sophomore season of 2022-2023, continued to build their identity as the NHL's newest franchise. This season was about laying down the foundation for long-term success and establishing a team culture."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1099,7 +1099,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The St.Louis Blues in the 2022 - 2023 season continued to demonstrate their status as a competitive and resilient team in the NHL.Building on their legacy of strong team play and physicality, the Blues aimed to blend their traditional strengths with a more dynamic offensive strategy."
+            sideModal.textContent = "The St.Louis Blues in the 2022-2023 season continued to demonstrate their status as a competitive and resilient team in the NHL.Building on their legacy of strong team play and physicality, the Blues aimed to blend their traditional strengths with a more dynamic offensive strategy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1130,7 +1130,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Vancouver Canucks in the 2022 - 2023 season were a team in the midst of transformation, seeking to find the right balance between emerging young talent and experienced veterans.With a focus on building a cohesive team identity, the Canucks aimed to improve their overall performance in the league."
+            sideModal.textContent = "The Vancouver Canucks in the 2022-2023 season were a team in the midst of transformation, seeking to find the right balance between emerging young talent and experienced veterans.With a focus on building a cohesive team identity, the Canucks aimed to improve their overall performance in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {

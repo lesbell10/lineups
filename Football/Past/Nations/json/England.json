@@ -3,7 +3,7 @@
         "id": 1,
         "last_name": "Kane",
         "img": "/football/img/players/Kane.webp",
-        "full_name": "Harry Edward Kane",
+        "full_name": "Harry Kane",
         "birth_date": "28-07-1993",
 
         "position": "Striker",
@@ -19,11 +19,11 @@
         "full_name": "Raheem Sterling",
         "birth_date": "08-12-1994",
 
-        "position": "Left Winger",
+        "position": "Winger",
         "team": "Chelsea",
         "nationality": "England",
         "height": "5'7\"",
-        "description": "Dynamic English forward, renowned for pace and skills."
+        "description": "Dynamic English winger, renowned for pace and skills."
     },
     {
         "id": 3,

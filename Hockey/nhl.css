@@ -151,6 +151,7 @@ option {
     padding-left: .5%;
     max-width: 130px;
     text-align: center;
+    border-radius: 10px;
 }
 
 .label2 {

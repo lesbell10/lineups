@@ -300,7 +300,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets in the 2022 - 2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness.With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
+            sideModal.textContent = "The Columbus Blue Jackets in the 2022-2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness. With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -341,7 +341,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings in the 2022 - 2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent.This season saw them trying to balance this development with competitive play."
+            sideModal.textContent = "The Detroit Red Wings in the 2022-2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent. This season saw them trying to balance this development with competitive play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -468,7 +468,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Jersey Devils in the 2022-2023 season exhibited significant signs of improvement and potential, signaling a turning point in their rebuilding efforts.";
+            sideModal.textContent = "The New Jersey Devils' 2022-2023 season was marked by significant improvement, showcasing a young, talented roster, strong offensive play, and improved defense, leading to a playoff push and renewed hope among fans for future success.";
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -635,7 +635,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia Flyers in the 2022 - 2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
+            sideModal.textContent = "The Philadelphia Flyers in the 2022-2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -761,7 +761,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs in the 2022 - 2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
+            sideModal.textContent = "The Toronto Maple Leafs in the 2022-2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1012,7 +1012,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets in the 2022 - 2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness.With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
+            sideModal.textContent = "The Columbus Blue Jackets in the 2022-2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness.With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1053,7 +1053,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings in the 2022 - 2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent.This season saw them trying to balance this development with competitive play."
+            sideModal.textContent = "The Detroit Red Wings in the 2022-2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent.This season saw them trying to balance this development with competitive play."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1180,7 +1180,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Jersey Devils in the 2022-2023 season exhibited significant signs of improvement and potential, signaling a turning point in their rebuilding efforts.";
+            sideModal.textContent = "The New Jersey Devils' 2022-2023 season was marked by significant improvement, showcasing a young, talented roster, strong offensive play, and improved defense, leading to a playoff push and renewed hope among fans for future success.";
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1347,7 +1347,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia Flyers in the 2022 - 2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
+            sideModal.textContent = "The Philadelphia Flyers in the 2022-2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1473,7 +1473,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs in the 2022 - 2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
+            sideModal.textContent = "The Toronto Maple Leafs in the 2022-2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {

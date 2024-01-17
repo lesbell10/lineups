@@ -23,7 +23,7 @@
     "team": "Atletico Mineiro",
     "nationality": "Brazil",
     "height": "6'0\"",
-    "description": "Powerful striker with a strong presence on the field."
+    "description": "Powerful forward with a strong presence on the field."
   },
   {
     "id": 3,
@@ -55,7 +55,7 @@
     "id": 5,
     "last_name": "Casemiro",
     "img": "/football/img/players/Casemiro.webp",
-    "full_name": "Carlos Casimiro",
+    "full_name": "Carlos Casimero",
     "birth_date": "23-02-1992",
 
     "position": "Defensive Midfielder",

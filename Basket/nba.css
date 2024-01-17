@@ -150,6 +150,8 @@ option {
     padding-left: .5%;
     max-width: 140px;
     text-align: center;
+    border-radius: 10px;
+
 }
 
 .label2 {

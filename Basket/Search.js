@@ -200,7 +200,7 @@ function displayResults(players) {
         }
         return unique;
     }, []);
-    
+
 
     // Sort the players by last name in ascending order
     filteredPlayers.sort((a, b) => {
@@ -298,7 +298,9 @@ function addPaginationControls(pageCount, filteredPlayers) {
         });
         paginationContainer.appendChild(pageButton);
     }
-
+    
+    // Scroll to the top of the page
+    window.scrollTo(0, 0);
     // Set the active page button initially
     setActivePageButton(currentPage);
 }
@@ -327,7 +329,7 @@ const coaches = document.querySelector(".coach")
 
 // Event listener for the search button
 searchButton.addEventListener("click", function () {
-    coaches.style.display = "none" 
+    coaches.style.display = "none"
     includeRetired = true
     hideSomeThings();
     const query = "";
@@ -342,10 +344,10 @@ searchButton.addEventListener("click", function () {
 
 // Event listener for the 'Enter' key in the search input
 searchInput.addEventListener("input", function () {
-    coaches.style.display = "none" 
+    coaches.style.display = "none"
     includeRetired = true
     hideSomeThings();
-    
+
     const query = searchInput.value;
     searchPlayers(query, includeRetired);
 

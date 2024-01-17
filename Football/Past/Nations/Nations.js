@@ -191,7 +191,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The France national football team, founded in 1904, is celebrated for winning two FIFA World Cups and two UEFA European Championships. Led by iconic players like Zinedine Zidane and Thierry Henry, Les Bleus are known for their strong defense and attacking flair, making them a global football powerhouse."
+            sideModal.textContent = "During 2010-2020, France's national team, boasting talents like Antoine Griezmann and Kylian Mbappé, displayed tactical finesse and attacking flair. They won the 2018 World Cup and reached the 2016 Euro final, showcasing their dominance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -232,7 +232,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Brazil national football team, founded in 1914, is one of the most successful in history, winning five FIFA World Cups. Known for its attacking flair, it has produced legendary players like Pelé, Ronaldo, and Neymar, making it an iconic force in international football."
+            sideModal.textContent = "Between 2010 and 2020, Brazil's national team showcased Neymar and Dani Alves, combining traditional flair with tactical strength. Winners of the 2013 Confederations Cup, they were also formidable contenders in the 2014 and 2018 World Cups."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -399,7 +399,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Argentina's national football team, during 2010-2020, featured Lionel Messi's brilliance but faced World Cup heartbreaks. They ended their trophy drought by winning the 2021 Copa America, solidifying Messi's legacy and celebrating a historic victory."
+            sideModal.textContent = "The Argentina national team from 2010 to 2020 was known for its technical skill and attacking prowess. Key players like Lionel Messi and Sergio Agüero led the team. They reached the 2014 World Cup final. Their style was characterized by creative playmaking and solid defense, making them a formidable opponent on the international stage."
         })
 
         smallpic.addEventListener("mouseout", () => {

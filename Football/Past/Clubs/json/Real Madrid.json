@@ -19,7 +19,7 @@
         "full_name": "Gareth Bale",
         "birth_date": "16-07-1989",
 
-        "position": "Forward",
+        "position": "Winger",
         "team": "Retired",
         "nationality": "Wales",
         "height": "6'1\"",
@@ -29,7 +29,7 @@
         "id": 3,
         "last_name": "Ozil",
         "img": "/football/img/players/Ozil.webp",
-        "full_name": "Mesut Özil",
+        "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
 
         "position": "Attacking Midfielder",
@@ -97,7 +97,7 @@
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
 
-        "position": "Defender",
+        "position": "Centre Back",
         "team": "Sevilla",
         "nationality": "Spain",
         "height": "6'0\"",

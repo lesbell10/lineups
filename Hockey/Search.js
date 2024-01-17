@@ -308,7 +308,8 @@ function addPaginationControls(pageCount, filteredPlayers) {
         });
         paginationContainer.appendChild(pageButton);
     }
-
+    // Scroll to the top of the page
+    window.scrollTo(0, 0);
     // Set the active page button initially
     setActivePageButton(currentPage);
 }

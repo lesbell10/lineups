@@ -237,7 +237,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, Real Madrid showcased their football excellence across various competitions. They secured the second position in the La Liga standings and reached the semi-finals in the champions league. Karim Benzema was top goalscorer in the league with 19 goals."
+            sideModal.innerHTML = "Current Coach: Carlo Ancelotti <br> Best Player: Vinicius Jr <br> Best Ever: Zinedine Zidane <br> Position Last Year: 2nd in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -282,7 +282,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, PSG secured the first position in Ligue 1, clinching their eleventh French league title. Their consistent performance throughout the season propelled them to the top of the table. Kylian Mbappé continued to shine, emerging as the team’s top scorer in the league with 29 goals."
+            sideModal.innerHTML = "Current Coach: Luis Enrique <br> Best Player: Kylian Mbappe <br> Best Ever: Zlatan Ibrahimovic <br> Position Last Year: 1st in Ligue 1"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -328,7 +328,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, Bayern Munich secured the first position in the Bundesliga, clinching their 11th consecutive Bundesliga title. On March 24, 2023, Thomas Tuchel took over as the new head coach mid-season, replacing Julian Nagelsmann."
+            sideModal.innerHTML = "Current Coach: Thomas Tuchel <br> Best Player: Harry Kane <br> Best Ever: Oliver Kahn <br> Position Last Year: 1st in Bundesliga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -374,7 +374,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, Liverpool’s form was inconsistent, ruling them out of the title race. Despite an 11-game unbeaten run at the end of the season, they ultimately finished 5th, failing to qualify for the Champions League for the first time in seven years."
+            sideModal.innerHTML = "Current Coach: Jurgen Klopp <br> Best Player: Mohamed Salah <br> Best Ever: Steven Gerrard <br> Position Last Year: 5th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -396,7 +396,7 @@ function updatePlayerInfo() {
         FL.textContent = "J Felix"
         CMR.textContent = "Gundogan"
         CML.textContent = "F de Jong"
-        DR.textContent = "Cancelo"
+        DR.textContent = "J Cancelo"
         DCR.textContent = "Kounde"
         DCL.textContent = "R Araujo"
         DL.textContent = "Balde"
@@ -420,7 +420,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season, Barcelona clinched their 27th La Liga title, their first since the 2018–19 season, with four games remaining. Barcelona entered the UEFA Champions League for the 19th consecutive season, but their journey ended in the group stage."
+            sideModal.innerHTML = "Current Coach: Xavi Hernandez <br> Best Player: Robert Lewandowski <br> Best Ever: Lionel Messi <br> Position Last Year: 1st in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -466,7 +466,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season, Chelsea’s performance was marked by inconsistency, leading to a 12th-place finish in the league table. This was the first time since 1995–96 that the team failed to secure a top-half position in the league."
+            sideModal.innerHTML = "Current Coach: Mauricio Pochettino <br> Best Player: Raheem Sterling <br> Best Ever: Frank Lampard <br> Position Last Year: 12th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -511,7 +511,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, under the management of Erik ten Hag, Manchester United finished 3rd in the league table. Cristiano Ronaldo left the club for Al Nassr, one year after rejoining from Juventus."
+            sideModal.innerHTML = "Current Coach: Erik ten Hag <br> Best Player: Bruno Fernandes <br> Best Ever: Cristiano Ronaldo <br> Position Last Year: 3rd in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -556,7 +556,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, Juventus participated in the domestic league, finishing 7th in the table. Notably, Paul Pogba rejoined the club from Manchester United."
+            sideModal.innerHTML = "Current Coach: Massimiliano Allegri <br> Best Player: Federico Chiesa <br> Best Ever: Alessandro Del Piero <br> Position Last Year: 7th in Serie A"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -602,7 +602,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, under the management of Mikel Arteta, Arsenal participated in the FA Cup, EFL Cup, and UEFA Europa League. Notably, this was their 37th European campaign. Arsenal finished second in the league, securing a spot in next season’s UEFA Champions League after a six-year absence."
+            sideModal.innerHTML = "Current Coach: Mikel Arteta <br> Best Player: Martin Odegaard <br> Best Ever: THierry Henry <br> Position Last Year: 2nd in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -646,7 +646,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season was a memorable one for Inter Milan. They finished third in the league, showcasing their competitive spirit. The team reached the final of the Champions' League for the first time since 2010. Unfortunately, they were narrowly defeated 1–0 by Manchester City in the final."
+            sideModal.innerHTML = "Current Coach: Simone Inzaghi <br> Best Player: Vinicius Jr <br> Best Ever: Zinedine Zidane <br> Position Last Year: 2nd in La Liga"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -797,7 +797,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "15") {
-        STC.textContent = "Heung-M Son"
+        STC.textContent = "H-M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
         FL.textContent = "B Johnson"
@@ -1174,7 +1174,7 @@ const updateDropdown = () => {
         FL.textContent = "Gavi"
         CMR.textContent = "Gundogan"
         CML.textContent = "F de Jong"
-        DR.textContent = "Cancelo"
+        DR.textContent = ""
         DCR.textContent = "Kounde"
         DCL.textContent = "R Araujo"
         DL.textContent = "Balde"
@@ -1575,7 +1575,7 @@ const updateDropdown = () => {
     }
 
     if (selectedYear == "15") {
-        STC.textContent = "Heung-M Son"
+        STC.textContent = "H-M Son"
         FR.textContent = "Kulusevski"
         AMC.textContent = "Maddison"
         FL.textContent = "B Johnson"

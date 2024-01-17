@@ -101,7 +101,7 @@
         "team": "Retired",
         "nationality": "Hungary",
         "height": "5'8\"",
-        "description": "Hungarian striker, Real Madrid star, Olympic champion"
+        "description": "Hungarian forward, Real Madrid star, Olympic champion"
     },
     {
         "id": 9,
@@ -233,20 +233,6 @@
       "height": "6'4\"",
       "description": "Brazilian midfielder, ‘Doctor’, democracy advocate, 1982 World Cup"
 },
-
-    {
-    "id": 21,
-    "last_name": "Bale",
-    "img": "/football/img/players/Bale.webp",
-    "full_name": "Gareth Bale",
-    "birth_date": "16-07-1989",
-
-    "position": "Right Winger",
-    "team": "Retired",
-    "nationality": "Wales",
-    "height": "6'1\"",
-    "description": "Welsh winger, former Real Madrid, fast, Champions League hero"
-},
 {
     "id": 23,
     "last_name": "Coutinho",
@@ -306,11 +292,11 @@
     "full_name": "Raul Gonzalez",
     "birth_date": "27-06-1977",
 
-    "position": "Striker",
+    "position": "Forward",
     "team": "Retired",
     "nationality": "Spain",
     "height": "6'0\"",
-    "description": "Spanish striker with a prolific goal-scoring career."
+    "description": "Spanish forward with a prolific goal-scoring career."
 },
 {
     "id": 29,
@@ -483,19 +469,6 @@
     "description": "Tough and reliable Argentine central defender."
 },
 {
-    "id": 42,
-    "last_name": "Davids",
-    "img": "/football/img/players/Davids.webp",
-    "full_name": "Edgar Davids",
-    "birth_date": "13-03-1973",
-
-    "position": "Central Midfielder",
-    "team": "Retired",
-    "nationality": "Netherlands",
-    "height": "5'7\"",
-    "description": "Tenacious midfielder known for his distinctive glasses."
-},
-{
     "id": 44,
     "last_name": "Hagi",
     "img": "/football/img/players/Hagi.webp",
@@ -528,7 +501,7 @@
     "full_name": "Henrik Larsson",
     "birth_date": "20-09-1971",
 
-    "position": "Forward",
+    "position": "Striker",
     "team": "Retired",
     "nationality": "Sweden",
     "height": "5'11\"",
@@ -554,7 +527,7 @@
     "full_name": "Patrick Kluivert",
     "birth_date": "01-07-1976",
 
-    "position": "Forward",
+    "position": "Striker",
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "6'2\"",
@@ -593,11 +566,11 @@
    "full_name": "Freddie Ljungberg",
    "birth_date": "16-04-1977",
 
-   "position": "Right Winger",
+   "position": "Winger",
    "team": "Retired",
    "nationality": "Sweden",
    "height": "5'9\"",
-   "description": "Swedish midfielder known for his versatility and work rate."
+   "description": "Swedish winger known for his versatility and work rate."
 },
 {
    "id": 54,
@@ -658,7 +631,7 @@
    "full_name": "Gabriel Batistuta",
    "birth_date": "01-02-1969",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Argentina",
    "height": "6'2\"",
@@ -684,7 +657,7 @@
    "full_name": "Miroslav Klose",
    "birth_date": "09-06-1978",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Germany",
    "height": "6'0\"",
@@ -1030,7 +1003,7 @@
    "team": "Retired",
    "nationality": "Netherlands",
    "height": "6'2\"",
-   "description": "Dutch richt back known for his defensive solidity."
+   "description": "Dutch right back known for his defensive solidity."
 },
 {
    "id": 101,
@@ -1108,7 +1081,7 @@
    "team": "Retired",
    "nationality": "Ivory Coast",
    "height": "5'10\"",
-   "description": "Ivorian forward known for his pace and skill."
+   "description": "Ivorian winger known for his pace and skill."
 },
 {
    "id": 107,
@@ -1121,7 +1094,7 @@
    "team": "Retired",
    "nationality": "Ivory Coast",
    "height": "6'0\"",
-   "description": "Ivorian forward with goal-scoring ability and versatility."
+   "description": "Ivorian winger with goal-scoring ability and versatility."
 },
 {
    "id": 108,
@@ -1156,7 +1129,7 @@
    "full_name": "Obafemi Martins",
    "birth_date": "28-10-1984",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Nigeria",
    "height": "5'7\"",
@@ -1169,7 +1142,7 @@
   "full_name": "Phil Neville",
   "birth_date": "21-01-1977",
 
-  "position": "Right Back",
+  "position": "Full Back, Central Midfielder",
   "team": "Retired",
   "nationality": "England",
   "height": "6'2\"",
@@ -1393,7 +1366,7 @@
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'10\"",
-   "description": "Argentine Winger with passing and vision."
+   "description": "Argentine winger with passing and vision."
 },
 {
    "id": 133,
@@ -1467,7 +1440,7 @@
    "full_name": "Djibril Cisse",
    "birth_date": "12-08-1981",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "France",
    "height": "6'1\"",
@@ -1536,7 +1509,7 @@
    "team": "Retired",
    "nationality": "France",
    "height": "6'1\"",
-   "description": "French striker known for his pace and versatility."
+   "description": "French forward known for his pace and versatility."
 },
 {
    "id": 148,
@@ -1545,7 +1518,7 @@
    "full_name": "Robbie Keane",
    "birth_date": "08-07-1980",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Ireland",
    "height": "5'9\"",
@@ -1601,7 +1574,7 @@
    "team": "Retired",
    "nationality": "England",
    "height": "6'7\"",
-   "description": "Tall English forward known for aerial ability and goals."
+   "description": "Tall English striker known for aerial ability and goals."
 },
 {
    "id": 154,
@@ -1679,7 +1652,7 @@
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'4\"",
-   "description": "Italian defender known for his toughness and aerial prowess."
+   "description": "Italian defender known for his toughness and aerial prowess, controversial."
 },
 {
    "id": 160,
@@ -1705,7 +1678,7 @@
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'0\"",
-   "description": "Italian striker with excellent goal-scoring abilities."
+   "description": "Italian forward with excellent goal-scoring abilities."
 },
 {
    "id": 162,
@@ -1727,7 +1700,7 @@
    "full_name": "Marco Delvecchio",
    "birth_date": "09-04-1973",
 
-   "position": "Forward",
+   "position": "Striker",
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'1\"",
@@ -1744,7 +1717,7 @@
    "team": "Retired",
    "nationality": "Italy",
    "height": "6'2\"",
-   "description": "Italian striker with strength and finishing abilities."
+   "description": "Italian forward with strength and finishing abilities."
 },
 {
    "id": 166,
@@ -1844,11 +1817,11 @@
   "full_name": "Filippo Inzaghi",
   "birth_date": "09-08-1973",
 
-  "position": "Strikr",
+  "position": "Striker",
   "team": "Retired",
   "nationality": "Italy",
   "height": "6'2\"",
-  "description": "Prolific Italian forward, known for his goal-scoring prowess."
+  "description": "Prolific Italian striker, known for his goal-scoring prowess."
 },
  {
     "id": 175,
@@ -2455,7 +2428,7 @@
     "full_name": "Branislav Ivanović",
     "birth_date": "22-02-1984",
 
-    "position": "Right Back",
+    "position": "Centre Back, Right Back",
     "team": "Retired",
     "nationality": "Serbia",
     "height": "6'2\"",
@@ -2485,7 +2458,7 @@
     "team": "Retired",
     "nationality": "Iceland",
     "height": "6'1\"",
-    "description": "Icelandic striker known for his goal-scoring prowess and versatility."
+    "description": "Icelandic forward known for his goal-scoring prowess and versatility."
   },
   {
     "id": 231,
@@ -2520,7 +2493,7 @@
     "full_name": "Ricardo Quaresma",
     "birth_date": "26-09-1983",
 
-    "position": "Right Winger",
+    "position": "Winger",
     "team": "Retired",
     "nationality": "Portugal",
     "height": "5'8\"",
@@ -2706,7 +2679,7 @@
     "team": "Retired",
     "nationality": "Netherlands",
     "height": "6'1\"",
-    "description": "Dutch forward with speed and attacking prowess."
+    "description": "Dutch winger with speed and attacking prowess."
   },
   {
     "id": 248,
@@ -2754,11 +2727,11 @@
     "full_name": "Pedro Rodriguez",
     "birth_date": "28-07-1987",
 
-    "position": "Right Winger",
+    "position": "Winger",
     "team": "Retired",
     "nationality": "Spain",
     "height": "5'7\"",
-    "description": "Spanish rigth winger known for his speed and versatility."
+    "description": "Spanish winger known for his speed and versatility."
   },
   {
     "id": 254,
@@ -2810,7 +2783,7 @@
     "team": "Retired",
     "nationality": "England",
     "height": "5'5\"",
-    "description": "English midfielder with pace and dribbling skills."
+    "description": "English winger with pace and dribbling skills."
   },
   {
     "id": 260,
@@ -2907,7 +2880,7 @@
     "full_name": "Alvaro Arbeloa",
     "team": "Retired",
     "nationality": "Spain",
-    "position": "Right Back",
+    "position": "Full Back",
     "description": "Spanish footballer, versatile defender, known for defensive skills."
   },
   {
@@ -2947,7 +2920,7 @@
   "full_name": "Jose Maria Guti",
   "team": "Retired",
   "nationality": "Spain",
-  "position": "Midfielder",
+  "position": "Central Midfielder",
   "description": "Talented Spanish midfielder known for creativity and passing skills."
 },
 {
@@ -3038,7 +3011,7 @@
   "team": "Retired",
   "nationality": "Cameroon",
   "position": "Striker",
-  "description": "Cameroonian forward and goal-scoring sensation."
+  "description": "Cameroonian striker and goal-scoring sensation."
 },
 {
   "id": 283,
@@ -3077,7 +3050,7 @@
   "full_name": "Alex Hleb",
   "team": "Retired",
   "nationality": "Belarus",
-  "position": "Attacking Midfielder",
+  "position": "Attacking Midfielder, Right Winger",
   "description": "Belarusian midfielder known for dribbling skills."
 },
 {
@@ -3147,7 +3120,7 @@
   "full_name": "Gabriel Heinze",
   "team": "Retired",
   "nationality": "Argentina",
-  "position": "Centre Back",
+  "position": "Centre Back, Left Back",
   "description": "Argentine defender with a strong defensive presence."
 },
 {
@@ -3417,7 +3390,7 @@
   "full_name": "Luis Nani",
   "team": "Retired",
   "nationality": "Portugal",
-  "position": "Left Winger",
+  "position": "Winger",
   "description": "Portuguese left winger known for skill and pace."
 },
 {
@@ -4347,7 +4320,7 @@
   "full_name": "Giorgio Scalvini",
   "team": "Atalanta",
   "nationality": "Italy",
-  "position": "Cenrtal Midfielder",
+  "position": "Central Midfielder",
   "description": "Young defender, strong, tactical, potential star"
 },
  {

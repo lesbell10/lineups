@@ -291,6 +291,8 @@ function addPaginationControls(pageCount, filteredPlayers) {
             displayResults(filteredPlayers);
             setActivePageButton(i); // Call the function to set the active page button
         });
+        // Scroll to the top of the page
+        window.scrollTo(0, 0);
         paginationContainer.appendChild(pageButton);
     }
 
