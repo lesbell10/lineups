@@ -56,3 +56,13 @@ yearSelector.addEventListener("change", () => {
     updatePlayerInfo();
     saveToLocalStorage();
 });
+
+// Define a function to clear local storage
+const clearLocalStorage = () => {
+    localStorage.clear();
+    console.log('localStorage cleared after 2 hours.');
+};
+
+// Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
+const timeoutInMilliseconds = 2 * 60 * 60 * 1000; // 2 hours
+setTimeout(clearLocalStorage, timeoutInMilliseconds);

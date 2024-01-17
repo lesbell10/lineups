@@ -3471,16 +3471,6 @@
     "description": "Midfield maestro with great vision and passing skills."
   },
   {
-    "id": 332,
-    "last_name": "N Ake",
-    "img": "/football/img/players/N Ake.webp",
-    "full_name": "Nathan Ake",
-    "team": "Manchester City",
-    "nationality": "Netherlands",
-    "position": "Centre Back",
-    "description": "Versatile Dutch defender capable of playing multiple positions."
-  },
-  {
     "id": 333,
     "last_name": "Ortega",
     "img": "/football/img/players/Ortega.webp",
@@ -4135,7 +4125,7 @@
     "last_name": "Werner",
     "img": "/football/img/players/Werner.webp",
     "full_name": "Timo Werner",
-    "team": "RB Leipzig",
+    "team": "Tottenham",
     "nationality": "Germany",
     "position": "Forward",
     "description": "Fast forward, clinical, agile, goal-oriented"
@@ -4255,7 +4245,7 @@
   "last_name": "Yamal",
   "img": "/football/img/players/Yamal.webp",
   "full_name": "Lamine Yamal",
-  "team": "FC Barcelona",
+  "team": "Barcelona",
   "nationality": "Spain",
   "position": "Forward",
   "description": "Young, highly talented, future prospect"
@@ -4599,5 +4589,17 @@
     "nationality": "Spain",
     "position": "Left Back",
     "description": "Attack-minded left-back, excellent crossing ability"
-  }
+  },
+  {
+    "id": 449,
+    "last_name": "Ramsdale",
+    "img": "/football/img/players/Ramsdale.webp",
+    "full_name": "Aaron Ramsdale",
+    "birth_date": "14-05-1998",
+    "position": "Goalkeeper",
+    "team": "Arsenal",
+    "nationality": "England",
+    "height": "6'2\"",
+    "description": "Talented goalkeeper known for reflex saves."
+}
 ]

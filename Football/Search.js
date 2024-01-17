@@ -244,7 +244,7 @@ function displayResults(players) {
         // Create and set the player details using template literals, including "Current Team" or "Last Team"
         playerDiv.innerHTML = `        
         <p style="animation: none;">${player.description}</p>
-        <div class="line">------------------------------</div>
+        <div class="line">----------------------------</div>
         <p style="animation: none;">Team: ${player.team}</p>
         <p style="animation: none;">Nationality: ${player.nationality}</p>
         <p style="animation: none;">Position: ${player.position}</p>

@@ -23,12 +23,12 @@
         "team": "Borussia Dortmund",
         "nationality": "Netherlands",
         "height": "6'0\"",
-        "description": "Striker known for his clinical finishing ability."
+        "description": "Forward known for his clinical finishing ability."
     },
     {
         "id": 3,
         "last_name": "Depay",
-        "img": "/football/img/players/Depay.webp",
+        "img": "/football/img/players/M Depay.webp",
         "full_name": "Memphis Depay",
         "birth_date": "13-02-1994",
 
@@ -58,11 +58,11 @@
         "full_name": "Steven Berghuis",
         "birth_date": "19-12-1991",
 
-        "position": "Forward",
+        "position": "Attacking Midfielder",
         "team": "Ajax",
         "nationality": "Netherlands",
         "height": "5'11\"",
-        "description": "Winger with excellent crossing and set-piece ability."
+        "description": "Can play anywhere, excellent crossing and set-piece ability."
     },
     {
         "id": 6,
@@ -72,7 +72,7 @@
         "birth_date": "12-05-1997",
 
         "position": "Defensive Midfielder",
-        "team": "FC Barcelona",
+        "team": "arcelona",
         "nationality": "Netherlands",
         "height": "5'11\"",
         "description": "Technically gifted midfielder with excellent vision"
@@ -84,7 +84,7 @@
         "full_name": "Jeremie Frimpong",
         "birth_date": "27-12-2000",
 
-        "position": "Defender",
+        "position": "Right Back",
         "team": "Bayer Leverkusen",
         "nationality": "Netherlands",
         "height": "5'7\"",
@@ -93,12 +93,12 @@
     {
         "id": 8,
         "last_name": "van Dijk",
-        "img": "/football/img/players/vanDijk.webp",
+        "img": "/football/img/players/van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
 
         "position": "Centre Back",
-        "team": "Liverpool FC",
+        "team": "Liverpool",
         "nationality": "Netherlands",
         "height": "6'4\"",
         "description": "World-class centre back known for his leadership."
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "de Ligt",
-        "img": "/football/img/players/deLigt.webp",
+        "img": "/football/img/players/de Ligt.webp",
         "full_name": "Matthijs de Ligt",
         "birth_date": "12-08-1999",
 
@@ -118,12 +118,12 @@
     },
     {
         "id": 10,
-        "last_name": "Ake",
-        "img": "/football/img/players/Ake.webp",
+        "last_name": "N Ake",
+        "img": "/football/img/players/N Ake.webp",
         "full_name": "Nathan Ake",
         "birth_date": "18-02-1995",
 
-        "position": "Centre Back",
+        "position": "Centre Back, Left Back",
         "team": "Manchester City",
         "nationality": "Netherlands",
         "height": "5'11\"",

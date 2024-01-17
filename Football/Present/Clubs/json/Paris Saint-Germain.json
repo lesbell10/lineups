@@ -19,11 +19,11 @@
     "full_name": "Ousmane Dembele",
     "birth_date": "15-05-1997",
 
-    "position": "Right Winger",
+    "position": "Winger",
     "team": "PSG",
     "nationality": "France",
     "height": "5'10\"",
-    "description": "Talented forward known for his dribbling and speed."
+    "description": "Talented winger known for his dribbling and speed."
   },
   {
     "id": 3,
@@ -32,7 +32,7 @@
     "full_name": "Marco Asensio",
     "birth_date": "21-01-1996",
 
-    "position": "Right Winger",
+    "position": "Attacking Midfielder, Right Winger",
     "team": "PSG",
     "nationality": "Spain",
     "height": "6'0\"",
@@ -123,7 +123,7 @@
     "full_name": "Lucas Hernandez",
     "birth_date": "14-02-1996",
 
-    "position": "Left Back",
+    "position": "Centre Back, Left Back",
     "team": "PSG",
     "nationality": "France",
     "height": "6'0\"",

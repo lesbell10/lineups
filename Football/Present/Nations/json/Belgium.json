@@ -19,7 +19,7 @@
         "full_name": "Jeremy Doku",
         "birth_date": "27-05-2002",
 
-        "position": "Left Winger",
+        "position": "Winger",
         "team": "Manchester City",
         "nationality": "Belgium",
         "height": "5'11\"",
@@ -45,7 +45,7 @@
         "full_name": "Leandro Trossard",
         "birth_date": "04-12-1994",
 
-        "position": "Left Winger",
+        "position": "Attacking Midfielder, Winger",
         "team": "Arsenal",
         "nationality": "Belgium",
         "height": "5'11\"",
@@ -71,7 +71,7 @@
         "full_name": "Axel Witsel",
         "birth_date": "12-01-1989",
 
-        "position": "Centre Back",
+        "position": "Central Midfielder, Centre Back",
         "team": "Atletico Madrid",
         "nationality": "Belgium",
         "height": "6'1\"",
@@ -84,11 +84,11 @@
         "full_name": "Timothy Castagne",
         "birth_date": "05-12-1995",
 
-        "position": "Right Back",
+        "position": "Full Back",
         "team": "Fulham",
         "nationality": "Belgium",
         "height": "6'2\"",
-        "description": "Right back known for his attacking contributions."
+        "description": "Full back known for his attacking contributions."
     },
     {
         "id": 8,
@@ -110,7 +110,7 @@
         "full_name": "Jan Vertonghen",
         "birth_date": "24-04-1987",
 
-        "position": "Defender",
+        "position": "Centre Back, Left Back",
         "team": "Benfica",
         "nationality": "Belgium",
         "height": "6'2\"",
@@ -123,8 +123,8 @@
         "full_name": "Arthur Theate",
         "birth_date": "25-05-2000",
 
-        "position": "Centre Back",
-        "team": "Stade Rennais",
+        "position": "Centre Back, Left Back",
+        "team": "Rennes",
         "nationality": "Belgium",
         "height": "6'2\"",
         "description": "Talented Belgian defender contributing to his team's success."

@@ -111,7 +111,7 @@
     "birth_date": "03-09-1988",
 
     "position": "Centre Back",
-    "team": "Lyon",
+    "team": "Retired",
     "nationality": "Germany",
     "height": "6'4\"",
     "description": "Powerful and composed centre back."
@@ -123,11 +123,11 @@
     "full_name": "David Alaba",
     "birth_date": "24-06-1992",
 
-    "position": "Centre Back",
+    "position": "Centre Back, Left Back",
     "team": "Real Madrid",
     "nationality": "Austria",
     "height": "5'11\"",
-    "description": "Dynamic Centre back with great free kick ability."
+    "description": "Dynamic centre back with great free kick ability."
   },
   {
     "id": 11,

@@ -46,10 +46,10 @@
         "birth_date": "05-08-2004",
 
         "position": "Attacking Midfielder",
-        "team": "FC Barcelona",
+        "team": "Barcelona",
         "nationality": "Spain",
         "height": "6'0\"",
-        "description": "Talented young midfielder for FC Barcelona."
+        "description": "Talented young midfielder for Barcelona."
     },
     {
         "id": 5,
@@ -120,12 +120,12 @@
         "id": 10,
         "last_name": "Balde",
         "img": "/football/img/players/Balde.webp",
-        "full_name": "Boubacar Balde",
+        "full_name": "Alejandro Balde",
         "birth_date": "17-12-2003",
 
         "position": "Left Back",
         "team": "Barcelona",
-        "nationality": "Senegal",
+        "nationality": "Spain",
         "height": "6'1\"",
         "description": "Young Senegalese left back with great potential."
     },

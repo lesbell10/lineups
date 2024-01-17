@@ -86,6 +86,17 @@ yearSelector.addEventListener("change", () => {
     saveToLocalStorage();
 });
 
+// Define a function to clear local storage
+const clearLocalStorage = () => {
+    localStorage.clear();
+    console.log('localStorage cleared after 2 hours.');
+};
+
+// Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
+const timeoutInMilliseconds = 2 * 60 * 60 * 1000; // 2 hours
+setTimeout(clearLocalStorage, timeoutInMilliseconds);
+
+
 let previousValue = msgLabel.textContent
 
 yearSelector.addEventListener('mouseover', function () {
@@ -287,7 +298,7 @@ function updatePlayerInfo() {
         DCR.textContent = "Stones";
         DCL.textContent = "Tomori";
         DL.textContent = "Shaw";
-        GK.textContent = "Ramsdale";
+        GK.textContent = "Pickford";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
@@ -391,7 +402,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Argentina national football team, led by Lionel Messi, approached the 2022-23 season with high aspirations and a talented squad. Under coach Lionel Scaloni, Argentina combined a tactical, attacking style of play with solid defense to put their hands in the world cup trpy in Qatar. They beat France after penalties"
+            sideModal.textContent = "The Argentina national football team, led by Lionel Messi, approached the 2022-23 season with high aspirations and a talented squad. Under coach Lionel Scaloni, Argentina combined a tactical, attacking style of play with solid defense to put their hands in the world cup trophy in Qatar. They beat France after penalties"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -455,7 +466,7 @@ function updatePlayerInfo() {
         DCR.textContent = "R Dias";
         DCL.textContent = "D Pereira";
         DL.textContent = "Guerreiro";
-        GK.textContent = "D Costa";
+        GK.textContent = "Dio Costa";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";

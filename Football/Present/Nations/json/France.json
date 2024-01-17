@@ -6,11 +6,11 @@
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
 
-        "position": "Striker",
+        "position": "Forward",
         "team": "PSG",
         "nationality": "France",
         "height": "6'2\"",
-        "description": "Talented striker, known for speed and goal-scoring ability."
+        "description": "Talented forward, known for speed and goal-scoring ability."
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "full_name": "Ousmane Dembele",
         "birth_date": "15-05-1997",
 
-        "position": "Right Winger",
+        "position": "Winger",
         "team": "PSG",
         "nationality": "France",
         "height": "5'10\"",
@@ -62,7 +62,7 @@
         "team": "Real Madrid",
         "nationality": "France",
         "height": "6'2\"",
-        "description": "Tall midfielder with great passing and defensive skills."
+        "description": "Skillful midfielder with great passing and defensive skills."
     },
     {
         "id": 6,
@@ -84,7 +84,7 @@
         "full_name": "Jules Kounde",
         "birth_date": "12-11-1998",
 
-        "position": "Right Back",
+        "position": "Centre Back, Right Back",
         "team": "Barcelona",
         "nationality": "France",
         "height": "5'11\"",
@@ -110,7 +110,7 @@
         "full_name": "Lucas Hernandez",
         "birth_date": "14-02-1996",
 
-        "position": "Left Back",
+       "position": "Centre Back, Left Back",
         "team": "PSG",
         "nationality": "France",
         "height": "6'0\"",

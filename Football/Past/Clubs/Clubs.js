@@ -86,6 +86,17 @@ yearSelector.addEventListener("change", () => {
     saveToLocalStorage();
 });
 
+// Define a function to clear local storage
+const clearLocalStorage = () => {
+    localStorage.clear();
+    console.log('localStorage cleared after 2 hours.');
+};
+
+// Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
+const timeoutInMilliseconds = 2 * 60 * 60 * 1000; // 2 hours
+setTimeout(clearLocalStorage, timeoutInMilliseconds);
+
+
 let previousValue = msgLabel.textContent
 
 yearSelector.addEventListener('mouseover', function () {
@@ -236,12 +247,12 @@ function updatePlayerInfo() {
         AMC.textContent = "Neymar";
         FL.textContent = "Di Maria";
         CMR.textContent = "Verratti";
-        CML.textContent = "Motta";
+        CML.textContent = "T Motta";
         DR.textContent = "D Alves";
         DCR.textContent = "T Silva";
         DCL.textContent = "Marquinhos";
         DL.textContent = "Bernat";
-        GK.textContent = "Navas";
+        GK.textContent = "K Navas";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
@@ -261,7 +272,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "During 2010-2020, Paris Saint-Germain (PSG) became a dominant force in French football, securing multiple Ligue 1 titles and domestic cups. High-profile signings like Neymar and Mbappé propelled them to international prominence."
+            sideModal.textContent = "During 2010-2020, Paris Saint-Germain became a dominant force in French football, securing multiple Ligue 1 titles and domestic cups. High-profile signings like Neymar and Mbappé propelled them to international prominence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -303,7 +314,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Bayern Munich enjoyed immense success from 2010 to 2020. The German football club clinched numerous Bundesliga titles and won the UEFA Champions League multiple times, establishing itself as a football powerhouse. Iconic players like Franck Ribéry, Arjen Robben, and Robert Lewandowski played pivotal roles in this era of dominance."
+            sideModal.textContent = "Bayern Munich enjoyed immense success from 2010 to 2020. The German football club clinched numerous Bundesliga titles and won the UEFA Champions League twice, establishing itself as a football powerhouse. Iconic players like Franck Ribéry, Arjen Robben, and Robert Lewandowski played pivotal roles in this era of dominance."
         })
 
         smallpic.addEventListener("mouseout", () => {

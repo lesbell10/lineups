@@ -27,7 +27,7 @@ function MainFetchPopUp(info) {
                         <div class="player-info">
                             <img src="${player.img}"/> 
                             ${player.description}
-                            <div class="line">------------------------------</div>
+                            <div class="line">----------------------------</div>
                             <p>Team: ${player.team}</p>
                             <p>Nationality: ${player.nationality}</p>
                             <p>Position: ${player.position}</p>

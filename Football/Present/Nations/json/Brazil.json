@@ -84,7 +84,7 @@
         "full_name": "Eder Militao",
         "birth_date": "18-01-1998",
 
-        "position": "Right Back",
+        "position": "Centre Back, Right Back",
         "team": "Real Madrid",
         "nationality": "Brazil",
         "height": "6'2\"",
@@ -110,7 +110,7 @@
         "full_name": "Gabriel Magalhaes",
         "birth_date": "19-12-1997",
 
-        "position": "Defender",
+        "position": "Centre Back",
         "team": "Arsenal",
         "nationality": "Brazil",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Danilo Luiz",
         "birth_date": "15-07-1991",
 
-        "position": "Right Back",
+        "position": "Full Back, Centre Back",
         "team": "Juventus",
         "nationality": "Brazil",
         "height": "6'0\"",
-        "description": "Experienced right back known for defensive skills."
+        "description": "Experienced defender known for defensive skills."
     },
     {
         "id": 11,

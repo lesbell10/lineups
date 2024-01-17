@@ -10,7 +10,7 @@
         "team": "Liverpool",
         "nationality": "Portugal",
         "height": "5'10\"",
-        "description": "Exciting young forawrd with great finishing ability."
+        "description": "Exciting young forward with great finishing ability."
     },
     {
         "id": 2,
@@ -110,7 +110,7 @@
         "full_name": "Danilo Pereira",
         "birth_date": "09-09-1991",
 
-        "position": "Centre Back",
+        "position": "Defensive Midfielder, Centre Back",
         "team": "PSG",
         "nationality": "Portugal",
         "height": "6'2\"",
@@ -123,11 +123,11 @@
         "full_name": "Raphael Guerreiro",
         "birth_date": "22-12-1993",
 
-        "position": "Defender",
+        "position": "Left Back",
         "team": "Bayern Munich",
         "nationality": "Portugal",
         "height": "5'7\"",
-        "description": "left back with exceptional dribbling skills."
+        "description": "Left back with exceptional dribbling skills."
     },
     {
         "id": 11,

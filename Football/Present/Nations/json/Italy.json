@@ -44,11 +44,11 @@
         "img": "/football/img/players/Chiesa.webp",
         "full_name": "Federico Chiesa",
         "birth_date": "25-10-1997",
-        "position": "Left Winger",
+        "position": "Forward",
         "team": "Juventus",
         "nationality": "Italy",
         "height": "6'0\"",
-        "description": "Exciting winger with pace and skill."
+        "description": "Exciting forward with pace and skill."
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
 
-        "position": "CentralMidfielder",
+        "position": "Central Midfielder",
         "team": "Al Arabi",
         "nationality": "Italy",
         "height": "5'5\"",
@@ -96,7 +96,7 @@
         "full_name": "Gianluca Mancini",
         "birth_date": "17-04-1996",
 
-        "position": "centre back",
+        "position": "Centre Back",
         "team": "AS Roma",
         "nationality": "Italy",
         "height": "6'2\"",

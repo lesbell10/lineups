@@ -68,7 +68,7 @@
     "id": 6,
     "last_name": "Busquets",
     "img": "/football/img/players/Busquets.webp",
-    "full_name": "Sergio Busquets Burgos",
+    "full_name": "Sergio Busquets",
     "birth_date": "16-07-1988",
 
     "position": "Defensive Midfielder",
@@ -94,14 +94,14 @@
     "id": 8,
     "last_name": "S Ramos",
     "img": "/football/img/players/S Ramos.webp",
-    "full_name": "Sergio Ramos Garcia",
+    "full_name": "Sergio Ramos",
     "birth_date": "30-03-1986",
 
     "position": "Centre Back",
     "team": "Sevilla",
     "nationality": "Spain",
     "height": "6'0\"",
-    "description": "Fearless defender and a goal-scoring threat from set pieces."
+    "description": "Fearless defender and a goal-scoring threat from penalties."
   },
   {
     "id": 9,

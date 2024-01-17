@@ -131,15 +131,12 @@
     },
     {
         "id": 11,
-        "last_name": "Ramsdale",
-        "img": "/football/img/players/Ramsdale.webp",
-        "full_name": "Aaron Ramsdale",
-        "birth_date": "14-05-1998",
-
-        "position": "Goalkeeper",
-        "team": "Arsenal",
+        "last_name": "Pickford",
+        "img": "/football/img/players/Pickford.webp",
+        "full_name": "Jordan Pickford",
+        "team": "Everton",
         "nationality": "England",
-        "height": "6'2\"",
-        "description": "Talented goalkeeper known for reflex saves."
-    }
+        "position": "Goalkeeper",
+        "description": "Talented goalkeeper known for remarkable saves and quick reflexes."
+   }
 ]
