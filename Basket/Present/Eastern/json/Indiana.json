@@ -9,17 +9,17 @@
     "positions": ["Point Guard", " Shooting Guard"],
     "description": "Young guard with excellent court vision."
   },
-  {
+   {
     "id": 2,
-    "last_name": "B Brown",
-    "img": "/basket/img/players/B Brown.png",
-    "full_name": "Bruce Brown",
+    "last_name": "B Mathurin",
+    "img": "/basket/img/players/B Mathurin.png",
+    "full_name": "Bennedict Mathurin",
     "team": "Indiana Pacers",
-    "nationality": "USA",
-    "positions": ["Shooting Guard", " Small Forward"],
-    "description": "Versatile player known for his hustle and defense."
-  },
-  {
+    "nationality": "Canada",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Emerging talent with all-around skills."
+  }, 
+    {
     "id": 3,
     "last_name": "B Hield",
     "img": "/basket/img/players/B Hield.png",
@@ -31,13 +31,13 @@
   },
   {
     "id": 4,
-    "last_name": "B Mathurin",
-    "img": "/basket/img/players/B Mathurin.png",
-    "full_name": "Bennedict Mathurin",
+    "last_name": "P Siakam",
+    "img": "/basket/img/players/P Siakam.png",
+    "full_name": "Pascal Siakam",
     "team": "Indiana Pacers",
-    "nationality": "Canada",
-    "positions": ["Small Forward", " Shooting Guard"],
-    "description": "Emerging talent with all-around skills."
+    "nationality": "Cameroon",
+    "positions": ["Power Forward", " Center"],
+    "description": "All-Star forward known for his versatility."
   },
   {
     "id": 5,

@@ -1,6 +1,16 @@
 [
+  {
+  "id": 1,
+  "last_name": "Schroder",
+  "img": "/basket/img/players/Schroder.png",
+  "full_name": "Dennis Schroder",
+  "team": "Toronto Raptors",
+  "nationality": "German",
+  "positions": ["Point Guard", " Shooting Guard"],
+  "description": "An agile point guard known for his playmaking skills on the court."
+},
 {
-    "id": 1,
+    "id": 2,
     "last_name": "I Quickley",
     "img": "/basket/img/players/I Quickley.png",
     "full_name": "Immanuel Quickley",
@@ -10,7 +20,7 @@
     "description": "Emerging guard known for his scoring ability."
   },
  {
-    "id": 2,
+    "id": 3,
     "last_name": "RJ Barrett",
     "img": "/basket/img/players/RJ Barrett.png",
     "full_name": "RJ Barrett",
@@ -19,8 +29,8 @@
     "positions": ["Small Forward", " Shooting Guard"],
     "description": "Young forward with scoring potential."
   },
-  {
-    "id": 3,
+  {    
+    "id": 4,
     "last_name": "S Barnes",
     "img": "/basket/img/players/S Barnes.png",
     "full_name": "Scottie Barnes",
@@ -28,16 +38,6 @@
     "nationality": "USA",
     "positions": ["Small Forward", " Power Forward"],
     "description": "Rookie forward with potential and athleticism."
-  },
-  {
-    "id": 4,
-    "last_name": "P Siakam",
-    "img": "/basket/img/players/P Siakam.png",
-    "full_name": "Pascal Siakam",
-    "team": "Toronto Raptors",
-    "nationality": "Cameroon",
-    "positions": ["Power Forward", " Center"],
-    "description": "All-Star forward known for his versatility."
   },
   {
     "id": 5,

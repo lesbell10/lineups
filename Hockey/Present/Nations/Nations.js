@@ -177,7 +177,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Team Canada's hockey squad displayed remarkable skill and teamwork, excelling in international competitions. Their roster, a blend of NHL stars and emerging talent, showcased Canada's deep hockey roots and tradition, maintaining their status as a powerhouse in the hockey world."
+            sideModal.innerHTML = "Head Coach: Jim Montgomery <br> Best Player: Connor McDavid <br> Best Ever: Wayne Gretzky <br> 2023 IIHF World Championship: 1st"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -209,7 +209,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Czech hockey in 2023 has been eventful, showcasing the nation's robust participation in the sport at various levels. The Czech Republic's men's national ice hockey team, known as Czechia, is one of the most successful national ice hockey teams in the world"
+            sideModal.innerHTML = "Head Coach: Radim Rulik <br> Best Player: David Pastrnak <br> Best Ever: Jaromir Jagr <br> 2023 IIHF World Championship: 8th"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -242,7 +242,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Finland's hockey team showcased their renowned skill and resilience, excelling in international tournaments. With a blend of seasoned NHL players and promising domestic talent, they demonstrated tactical brilliance and a deep passion for the game, maintaining their status as elite competitors."
+            sideModal.innerHTML = "Head Coach: Jukka Jalonen <br> Best Player: Mikko Rantanen <br> Best Ever: Teemu Selanne <br> 2023 IIHF World Championship: 7th"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -274,7 +274,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Germany's hockey team showcased remarkable resilience in the IIHF World Championship. They had a dramatic semi-final overtime win against the unbeaten USA. This impressive turnaround led them to their first-ever final, vying for their inaugural IIHF gold medal​"
+            sideModal.innerHTML = "Head Coach: Harold Kreis <br> Best Player: Leon Draisaitl <br> Best Ever: Leon Draisaitl <br> 2023 IIHF World Championship: 2nd"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -306,7 +306,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Russian and Belarusian hockey teams were barred from participating in IIHF competitions, including the World Juniors, due to the Ukraine war by Russia. This decision was made by the IIHF Council after a detailed risk assessment."
+            sideModal.innerHTML = "Head Coach: Alexei Zhamnov <br> Best Player: Nikita Kucherov <br> Best Ever: Alex Ovechkin <br> 2023 IIHF World Championship: not present"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -338,7 +338,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Team Slovakia's hockey team presented a formidable roster at the Ice Hockey World Championships. The team consisted of a mix of experienced players and promising young talent."
+            sideModal.innerHTML = "Head Coach: Craig Ramsey <br> Best Player: Erik Cernak <br> Best Ever: Marian Hossa <br> 2023 IIHF World Championship: 9th"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -370,7 +370,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Sweden's national hockey team fielded a strong roster for the IIHF World Championship. Key NHLers included Lucas Raymond and team captain Jakob Silfverberg. Defense was led by NHL veterans Christian Folin and Patrik Nemeth, alongside rising star Rasmus Sandin."
+            sideModal.innerHTML = "Head Coach: Sam Hallan <br> Best Player: Elias Pettersson <br> Best Ever: Niklas Lidstrom <br> 2023 IIHF World Championship: 6th"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -401,7 +401,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, Switzerland's national hockey team delivered a commendable performance at the IIHF World Championship. Despite being a smaller hockey nation, they consistently punched above their weight. Their roster comprised a blend of NHL talent and prominent players from European leagues."
+            sideModal.innerHTML = "Head Coach: Patrick Fischer <br> Best Player: Roman Josi <br> Best Ever: Mark Streit <br> 2023 IIHF World Championship: 5th"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -435,7 +435,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, the USA hockey team showcased its depth and talent at the IIHF World Championship. Comprising NHL players, NCAA standouts, and young prospects, the team balanced experience and emerging talent."
+            sideModal.innerHTML = "Head Coach: David Quinn <br> Best Player: Auston Mathews <br> Best Ever: Mike Modano <br> 2023 IIHF World Championship: 4th"
         })
 
         smallpic.addEventListener("mouseout", () => {

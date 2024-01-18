@@ -168,7 +168,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Atlanta Hawks' last season was highlighted by the exceptional play of Trae Young, with important contributions from players like John Collins and Clint Capela. Their focus on dynamic offense and team synergy aimed to solidify their position in the NBA's Eastern Conference."
+            sideModal.innerHTML = "Head Coach: Quin Snyder <br> Best Player: Trae Young <br> Best Ever: Dominique Wilkins, Joe Johnson <br> Position Last Year: 7th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -197,7 +197,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Boston Celtics' last season was characterized by their strong championship aspirations. Building on their previous success, the team, led by stars Jayson Tatum and Jaylen Brown, showcased a formidable blend of offensive firepower and stout defense."
+            sideModal.innerHTML = "Head Coach: Joe Mazzulla <br> Best Player: Jayson Tatum <br> Best Ever: Bill Russell, Larry Bird, Paul Pierce <br> Position Last Year: 2nd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -227,7 +227,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Brooklyn Nets' last season was marked by high expectations and star power. With a roster featuring Kevin Durant and Kyrie Irving, the team aimed to capitalize on its offensive prowess and deep talent pool."
+            sideModal.innerHTML = "Head Coach: Jacque Vaughn <br> Best Player: Mikal Bridges <br> Best Ever: Julius Erving, Jason Kidd, Vince Carter <br> Position Last Year: 6th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -256,7 +256,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Charlotte Hornets' last season was a journey of growth and potential. Led by LaMelo Ball, the team showcased a vibrant, up-tempo style of play. Focused on developing young talent like Miles Bridges, they aimed to establish themselves as playoff contenders in the Eastern Conference."
+            sideModal.innerHTML = "Head Coach: Steve Clifford <br> Best Player: Lamelo Ball <br> Best Ever: Kemba Walker, Alonzo Mourning <br> Position Last Year: 14th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -285,7 +285,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Chicago Bulls' last season was highlighted by a mix of established talent and emerging stars. Led by DeMar DeRozan and Zach LaVine, the team aimed to build on their cohesive play and offensive strengths."
+            sideModal.innerHTML = "Head Coach: Billy Donovan <br> Best Player: DeMar DeRozan <br> Best Ever: Michael Jordan, Scottie Pippen, Derrick Rose, Dennis Rodman <br> Position Last Year: 9th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -315,7 +315,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Cleveland Cavaliers' 2022-23 season showcased a team on the rise in the NBA. Led by young stars like Darius Garland and Evan Mobley, the Cavs displayed a blend of dynamic offense and solid defense."
+            sideModal.innerHTML = "Head Coach: JB Bickerstaff <br> Best Player: Donovan Mitchell <br> Best Ever: LeBron James, Kyrie Irving <br> Position Last Year: 4th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Pistons' 2022-23 season was centered around rebuilding and developing young talent. With a core led by Cade Cunningham, the team focused on growth and potential."
+            sideModal.innerHTML = "Head Coach: Monty Williams <br> Best Player: Cade Cunningham <br> Best Ever: Isiah Thomas, Ben Wallace, Chauncey Billups <br> Position Last Year: 15th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -357,9 +357,9 @@ function updatePlayerInfo() {
 
     if (selectedYear == "7") {
         PG.textContent = "T Haliburton";
-        SG.textContent = "B Brown";
+        SG.textContent = "B Mathurin";
         SF.textContent = "B Hield";
-        PF.textContent = "B Mathurin";
+        PF.textContent = "P Siakam";
         C.textContent = "M Turner";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -374,7 +374,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Indiana Pacers' 2022-23 season was marked by a period of transition and rebuilding. Emphasizing the development of young players like Tyrese Haliburton, the team aimed to establish a new identity."
+            sideModal.innerHTML = "Head Coach: Rick Carlisle <br> Best Player: Tyrese Haliburton <br> Best Ever: Reggie Miller, Paul George <br> Position Last Year: 11th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -404,7 +404,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Miami Heat's 2022-23 season was characterized by their signature resilience and strategic gameplay. With key players like Jimmy Butler and Bam Adebayo, the team combined a tough defensive stance with efficient offense."
+            sideModal.innerHTML = "Head Coach: ERik Spoelstra <br> Best Player: Jimmy Butler <br> Best Ever: Dwyane Wade, Lebron James <br> Position Last Year: 8th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -434,7 +434,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Milwaukee Bucks' 2022-23 season was highlighted by their continued status as a top NBA contender. With two-time MVP Giannis Antetokounmpo leading the charge, the team combined dominant inside play with solid defense and sharpshooting. "
+            sideModal.innerHTML = "Head Coach: Adrian Griffin <br> Best Player: Giannis Antetokounmpo <br> Best Ever: Karim Abdul-Jabbar, Ray Allen <br> Position Last Year: 1st in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -464,7 +464,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Knicks' 2022-23 season was a quest for resurgence in the NBA. With Julius Randle leading and the emergence of RJ Barrett, the team focused on combining veteran leadership with young talent."
+            sideModal.innerHTML = "Head Coach: Tom Thibodeau <br> Best Player: Jalen Brunson, Charles Oakley, Patrick Ewing <br> Best Ever: Willis Reed <br> Position Last Year: 5th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -494,7 +494,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Orlando Magic in the 2022-2023 NBA season showcased a young and evolving team with a focus on development and growth.They displayed flashes of potential and exciting play, particularly from emerging talents like Paolo Banchero and Franz Wagner."
+            sideModal.innerHTML = "Head Coach: Jamahl Mosley <br> Best Player: Paolo Banchero <br> Best Ever: Shaquille O'Neal, Tracy McGgrady, Dwight Howard <br> Position Last Year: 13th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -524,7 +524,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia 76ers in the 2022-2023 NBA season demonstrated a strong competitive edge, led by stars Joel Embiid and James Harden. Their blend of offensive prowess and defensive strength kept them as contenders in the Eastern Conference."
+            sideModal.innerHTML = "Head Coach: Nick Nurse <br> Best Player: Joel Embiid <br> Best Ever: Wilt Chamberlain, Allen Iverson, Charles Barkley <br> Position Last Year: 3rd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -535,10 +535,10 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "13") {
-        PG.textContent = "I Quickley";
-        SG.textContent = "RJ Barrett";
-        SF.textContent = "S Barnes";
-        PF.textContent = "P Siakam";
+        PG.textContent = "D Schroder";
+        SG.textContent = "I Quickley";
+        SF.textContent = "RJ Barrett";
+        PF.textContent = "S Barnes";
         C.textContent = "J Poeltl";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -553,7 +553,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Raptors in the 2022-2023 season displayed a unique blend of athleticism and versatility, led by Pascal Siakam and Fred VanVleet. Known for their defensive tenacity and innovative coaching strategies, the team navigated through a competitive Eastern Conference."
+            sideModal.innerHTML = "Head Coach: Darko Rajakovic <br> Best Player: Scottie Barnes <br> Best Ever: Vince Carter, Chris Bosh, Kyle Lowry <br> Position Last Year: 10th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -583,7 +583,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Washington Wizards in the 2022-2023 season displayed a combination of potential and challenges. With Bradley Beal as the focal point, they experienced fluctuating performance in the Eastern Conference."
+            sideModal.innerHTML = "Head Coach: Wes Unseld Jr <br> Best Player: Kyle Kuzma <br> Best Ever: Elvin Hayes <br> Position Last Year: 12th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
