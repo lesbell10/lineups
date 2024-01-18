@@ -192,7 +192,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Didier Deschamps <br> Best Player: Kylian Mbappe <br> Best Ever: Zinedine Zidane <br> World Cup 2022: Finalist"
+            sideModal.innerHTML = "Manager: Didier Deschamps <br> Best Player: Kylian Mbappe <br> Best Ever: Zinedine Zidane, Thierry Henry, Michel Platini <br> World Cup 2022: Finalists"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Dorival Junior <br> Best Player: Neymar Jr <br> Best Ever: Ronaldo <br> World Cup 2022: Quarter Finals"
+            sideModal.innerHTML = "Manager: Dorival Junior <br> Best Player: Neymar Jr <br> Best Ever: Pele, Ronaldo, Ronaldinho <br> World Cup 2022: Quarter Finals"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -276,7 +276,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Luis de la Fuente <br> Best Player: Pedri <br> Best Ever: Xavi Hernandez <br> World Cup 2022: Round of 16"
+            sideModal.innerHTML = "Manager: Luis de la Fuente <br> Best Player: Pedri <br> Best Ever: Xavi Hernandez, Iker Casillas, Sergio Ramos <br> World Cup 2022: Round of 16"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -318,7 +318,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Gareth Southgate <br> Best Player: Harry Kane <br> Best Ever: Wayne Rooney <br> World Cup 2022: 4th place"
+            sideModal.innerHTML = "Manager: Gareth Southgate <br> Best Player: Harry Kane <br> Best Ever: Wayne Rooney, Bobby Charlton, David Beckham <br> World Cup 2022: 4th place"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -360,7 +360,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Julian Nagelsmann <br> Best Player: Joshua Kimmich <br> Best Ever: Franz Beckenbauer <br> World Cup 2022: Group Stage"
+            sideModal.innerHTML = "Manager: Julian Nagelsmann <br> Best Player: Joshua Kimmich <br> Best Ever: Franz Beckenbauer, Oliver Kahn <br> World Cup 2022: Group Stage"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -402,7 +402,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Lionel Scaloni <br> Best Player: Lionel Messi <br> Best Ever: Lionel Messi <br> World Cup 2022: Champions"
+            sideModal.innerHTML = "Manager: Lionel Scaloni <br> Best Player: Lionel Messi <br> Best Ever: Diego Maradona, Lionel Messi <br> World Cup 2022: Champions"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -444,7 +444,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Current Manager: Luciano Spalletti <br> Best Player: Nicolo Barella <br> Best Ever: FRancesco Totti <br> World Cup 2022: Did not Qualify"
+            sideModal.innerHTML = "Manager: Luciano Spalletti <br> Best Player: Nicolo Barella <br> Best Ever: Francesco Totti, Gianluigi Buffon, Paolo Maldini <br> World Cup 2022: Did not Qualify"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -486,7 +486,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "A major focus for Portugal in the 2022-23 season was the 2022 FIFA World Cup in Qatar. Portugal aimed to leverage their experienced squad and blend of youthful players to make a deep run in the tournament, aspiring to add a World Cup title to their 2016 European Championship victory"
+            sideModal.innerHTML = "Manager: Roberto Martinez <br> Best Player: Bernardo Silva <br> Best Ever: Cristiano Ronaldo, Eusebio, Luis Figo <br> World Cup 2022: Quarter Finals"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -527,14 +527,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The 2022 FIFA World Cup in Qatar was a significant focus for Belgium, as the team sought to capitalize on its golden generation's talent. With high rankings in previous years, Belgium aimed to challenge for the title, building on their strong performances in recent international tournaments."
+            sideModal.innerHTML = "Manager: Domenico Tedesco <br> Best Player: Kevin De Bruyne <br> Best Ever: Kevin De Bruyne, Eden Hazard <br> World Cup 2022: Group Stage"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Manager: Dominico Tedesco"
+        coach.textContent = "Manager: Domenico Tedesco"
     }
 
     if (selectedYear == "7") {
@@ -569,7 +569,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Netherlands national football team, known for their Total Football philosophy, entered the 2022-23 season with renewed optimism. Under the leadership of coach Louis van Gaal, the team boasted a combination of experienced players and emerging talents."
+            sideModal.innerHTML = "Manager: Ronald Koeman <br> Best Player: Virgil van Dijk <br> Best Ever: Johan Cruyff, Marco van Basten <br> World Cup 2022: Quarter Finals"
         })
 
         smallpic.addEventListener("mouseout", () => {

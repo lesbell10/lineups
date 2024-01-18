@@ -171,7 +171,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Boston Bruins in the 2022-2023 season showcased a remarkable blend of experienced talent and rising stars. Under new management, the team focused on a fast, aggressive playing style, which paid dividends as they topped league charts for much of the season."
+            sideModal.innerHTML = "Head Coach: Jim Montgomery <br> Best Player: David Pastrnak <br> Best Ever: Bobby Orr, Ray Bourque <br> Position Last Year: 1st in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -213,7 +213,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Buffalo Sabres during the 2022-2023 season demonstrated a team in transition, blending young, promising talent with experienced veterans. Their focus on rebuilding and development was evident, as they aimed to create a solid foundation for future success."
+            sideModal.innerHTML = "Head Coach: Don Granato <br> Best Player: Rasmus Dahlin <br> Best Ever: Gilbert Perreault, Dominik Hasek <br> Position Last Year: 10th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -256,7 +256,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Carolina Hurricanes in the 2022-2023 season continued their trajectory as one of the NHL's rising powerhouses. Known for their strong defensive play and dynamic offense, they consistently performed at a high level. Their roster, a mix of skilled veterans and dynamic young talent, showed great chemistry and resilience."
+            sideModal.innerHTML = "Head Coach: Rod Brind'Amour <br> Best Player: Sebastian Aho <br> Best Ever: Ron Francis, Eric Staal, Cam Ward <br> Position Last Year: 2nd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -300,7 +300,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets in the 2022-2023 season faced a challenging period, marked by a mix of rebuilding and striving for competitiveness. With a focus on integrating young talent into their lineup, they aimed to lay the groundwork for future success."
+            sideModal.innerHTML = "Head Coach: Pascal Vincent <br> Best Player: Johnny Gaudreau <br> Best Ever: Rick Nash, Sergei Brobovsky, Nick Foligno <br> Position Last Year: 16th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -341,7 +341,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings in the 2022-2023 season were in the midst of a rebuilding phase, focusing on developing their young prospects and drafting strategic talent. This season saw them trying to balance this development with competitive play."
+            sideModal.innerHTML = "Head Coach: Derek Lalonde <br> Best Player: Dylan Larkin <br> Best Ever: Bobby Orr, Steve Yzerman, Niklas Lidstrom <br> Position Last Year: 4th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -383,7 +383,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Florida Panthers in the 2022-2023 season continued to assert themselves as one of the formidable teams in the NHL. Building on their previous successes, they reached the Stanely Cup Finals, losing to the Vegas Golden Knights."
+            sideModal.innerHTML = "Head Coach: Paul Maurice <br> Best Player: Matthew Tkachuk <br> Best Ever: Pavel Bure, Roberto Luongo <br> Position Last Year: 8th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -426,7 +426,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Montreal Canadiens in the 2022-2023 season were in a phase of restructuring and rebuilding, focusing on developing young talent and reshaping the team for future success. This season was characterized by a blend of veteran experience and emerging young players, offering glimpses of the team's potential."
+            sideModal.innerHTML = "Head Coach: Martin St Louis <br> Best Player: Nick Suzuki <br> Best Ever: Maurice Richard, Jean beliveau, Guy Lafleur, Patrick Roy, Saku Koivu <br> Position Last Year: 15th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -468,7 +468,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Jersey Devils' 2022-2023 season was marked by significant improvement, showcasing a young, talented roster, strong offensive play, and improved defense, leading to a playoff push and renewed hope among fans for future success.";
+            sideModal.innerHTML = "Head Coach: Lindy Ruff <br> Best Player: Jack Hughes <br> Best Ever: Martin Brodeur, Scott Stevens, Patrik Elias, Scott Niedermayer <br> Position Last Year: 3rd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -511,7 +511,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Islanders in the 2022-2023 season showcased a blend of solid defensive play and opportunistic offense. Known for their structured, team-oriented approach, they continued to emphasize a strong defensive system under their coaching staff."
+            sideModal.innerHTML = "Head Coach: Lane Lambert <br> Best Player: Ilya Sorokin <br> Best Ever: Mike Bossy <br> Position Last Year: 7th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -553,7 +553,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Rangers in the 2022-2023 season continued to build on their recent success, showcasing a team rich in talent and ambition. With a mix of star forwards, solid defensemen, and one of the league's top goaltenders, the Rangers displayed a strong, well-rounded game."
+            sideModal.innerHTML = "Head Coach: Peter Laviolette <br> Best Player: Artemi Panarin <br> Best Ever: Mark Messier, Brian Leetch, Henrik Lundqvist <br> Position Last Year: 5th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -594,7 +594,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Ottawa Senators in the 2022-2023 season demonstrated a phase of growth and potential, as they continued to rebuild and develop their young core. The team, featuring a mix of promising rookies and experienced leaders, focused on improving their overall performance."
+            sideModal.innerHTML = "Head Coach: Jacques Martin <br> Best Player: Brady Tkachuk <br> Best Ever: Daniel Alfredsson, Erik Karlsson <br> Position Last Year: 11th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -635,7 +635,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Philadelphia Flyers in the 2022-2023 season faced a challenging period, marked by efforts to find a consistent winning formula amidst rebuilding.The team, with a blend of veterans and emerging talent, struggled with consistency in both offense and defense."
+            sideModal.innerHTML = "Head Coach: John Tortorella <br> Best Player: Carter Hart <br> Best Ever: Eric Lindros <br> Position Last Year: 14th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -677,7 +677,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Pittsburgh Penguins in the 2022-2023 season continued to showcase their resilience and competitive spirit, building upon their legacy as a perennial contender in the NHL. With a core of experienced, high-caliber players, including some of the league's top stars, the Penguins remained a formidable force."
+            sideModal.innerHTML = "Head Coach: Mike Sullivan <br> Best Player: Sidney Crosby <br> Best Ever: Mario Lemieux, Sidney Crosby, Jaromir Jagr, Evgeni Malkin <br> Position Last Year: 9th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -719,7 +719,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Tampa Bay Lightning in the 2022-2023 season continued their reputation as one of the NHL's elite teams, building on their recent successes. With a roster full of skilled and high-impact players, they showcased a blend of dynamic offense and solid defense."
+            sideModal.innerHTML = "Head Coach: Jon Cooper <br> Best Player: Nikita Kucherov <br> Best Ever: Vincent Lecavalier, Martin St Louis, Steven Stamkos, Victor Hedman <br> Position Last Year: 6th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -761,7 +761,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs in the 2022-2023 season continued to be one of the most talked - about teams in the NHL, showcasing a high - powered offense and a roster of star players.Their season was characterized by strong offensive performances, led by their top forwards who consistently contributed to the team's scoring."
+            sideModal.innerHTML = "Head Coach: Sheldon Keefe <br> Best Player: Auston Matthews <br> Best Ever: Mats Sundin <br> Position Last Year: 4th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -803,7 +803,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Washington Capitals in the 2022-2023 season continued to showcase their veteran prowess and offensive strength, anchored by some of the league's most renowned players. Known for their powerful and strategic offensive play, the Capitals remained a significant threat in the NHL."
+            sideModal.innerHTML = "Head Coach: Spencer Carbery <br> Best Player: Alex Ovechkin <br> Best Ever: Dale Hunter <br> Position Last Year: 4th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
