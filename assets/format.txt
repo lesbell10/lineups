@@ -1,15 +1,11 @@
 
-
-
-
-
-in json
+fifa
   {
     "id": 1,
     "last_name": ,
     "img": "/football/img/players/{last_name}.webp",
     "full_name": ,
-    "team": ,
+    "team": "Retired",
     "nationality": (name),
     "position": ,
     "description": (8 word sentence),
@@ -38,10 +34,10 @@ in json
     "last_name": ,
     "img": "/football/img/players/{last_name}.webp",
     "full_name": ,
-    "team": ,
-    "nationality": (name),
+    "team": "Retired",
+    "nationality": (country name),
     "position": ,
-    "description": (8 words.),
+    "description": (8 word sentence),
   }
 
 https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19
@@ -53,10 +49,10 @@ https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19
     "last_name" : "",
     "img": "/hockey/img/players/{last_name}.jpg"
     "full_name": "",
-    "team": "",
-    "nationality": "(name)",
+    "team": "Retired",
+    "nationality": "(country name)",
     "position": "",
-    "description": "(8 words.)",
+    "description": "(8 word sentence)",
   }
 
 https://chat.openai.com/c/fb37e4ce-9249-4a36-9ff9-7712bcaac34f
@@ -68,10 +64,10 @@ https://chat.openai.com/c/fb37e4ce-9249-4a36-9ff9-7712bcaac34f
     "last_name": "",
     "img": "/basket/img/players/{last_name}.png",
     "full_name": "",
-    "team": "",
-    "nationality": "",
+    "team": "Retired",
+    "nationality": "(country name)",
     "positions":(2 positions),
-    "description": "(8 words.)"
+    "description": "(8 word sentence)"
   }
 
 https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19

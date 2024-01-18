@@ -2430,5 +2430,295 @@
   "nationality": "USA",
   "position": "Goaltender",
   "description": "Ambitious, growing American goaltender."
+},
+{
+    "id": 247,
+    "last_name": "Numminen",
+    "img": "/hockey/img/players/numminen.jpg",
+    "full_name": "Teppo Numminen",
+    "team": "Retired",
+    "nationality": "Finland",
+    "position": "Defenseman",
+    "description": "Skilled Finnish defenseman with great vision."
+},
+{
+    "id": 248,
+    "last_name": "Neely",
+    "img": "/hockey/img/players/neely.jpg",
+    "full_name": "Cam Neely",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Power forward known for his scoring ability."
+},
+{
+    "id": 253,
+    "last_name": "Martin",
+    "img": "/hockey/img/players/r martin.jpg",
+    "full_name": "Rick Martin",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Wing",
+    "description": "Scoring machine for the Sabres."
+},
+{
+    "id": 259,
+    "last_name": "Williams",
+    "img": "/hockey/img/players/J williams.jpg",
+    "full_name": "Justin Williams",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Clutch performer in the playoffs."
+},
+{
+    "id": 261,
+    "last_name": "Hejduk",
+    "img": "/hockey/img/players/hejduk.jpg",
+    "full_name": "Milan Hejduk",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Right Wing",
+    "description": "Skilled Czech winger with finesse."
+},
+{
+    "id": 263,
+    "last_name": "Jenner",
+    "img": "/hockey/img/players/jenner.jpg",
+    "full_name": "Boone Jenner",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Hard-working forward with a scoring touch."
+},
+{
+    "id": 266,
+    "last_name": "Lindsay",
+    "img": "/hockey/img/players/lindsay.jpg",
+    "full_name": "Ted Lindsay",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Wing",
+    "description": "Hall of Famer known for his physical play."
+},
+{
+    "id": 270,
+    "last_name": "Vanbiesbrouck",
+    "img": "/hockey/img/players/vanbiesbrouck.jpg",
+    "full_name": "John Vanbiesbrouck",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Goaltender",
+    "description": "Outstanding American goaltender."
+},
+{
+    "id": 271,
+    "last_name": "Jokinen",
+    "img": "/hockey/img/players/jokinen.jpg",
+    "full_name": "Olli Jokinen",
+    "team": "Retired",
+    "nationality": "Finland",
+    "position": "Center",
+    "description": "Skilled Finnish forward with versatility."
+},
+{
+    "id": 272,
+    "last_name": "Mellanby",
+    "img": "/hockey/img/players/mellanby.jpg",
+    "full_name": "Scott Mellanby",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Physical forward known for leadership."
+},
+{
+    "id": 275,
+    "last_name": "Legwand",
+    "img": "/hockey/img/players/legwand.jpg",
+    "full_name": "David Legwand",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Skilled American center with playmaking abilities."
+},
+{
+    "id": 276,
+    "last_name": "Daneyko",
+    "img": "/hockey/img/players/daneyko.jpg",
+    "full_name": "Ken Daneyko",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Physical defenseman with a defensive mindset."
+},
+{
+    "id": 279,
+    "last_name": "Smith",
+    "img": "/hockey/img/players/smith.jpg",
+    "full_name": "Billy Smith",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Goaltender",
+    "description": "Key goaltender for the New York Islanders dynasty."
+},
+{
+    "id": 280,
+    "last_name": "Gillies",
+    "img": "/hockey/img/players/gillies.jpg",
+    "full_name": "Clark Gillies",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Wing",
+    "description": "Power forward and key member of the Islanders dynasty."
+},
+{
+    "id": 281,
+    "last_name": "Gilbert",
+    "img": "/hockey/img/players/gilbert.jpg",
+    "full_name": "Rod Gilbert",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "New York Rangers legend and Hall of Famer."
+},
+{
+    "id": 284,
+    "last_name": "Howe",
+    "img": "/hockey/img/players/m howe.jpg",
+    "full_name": "Mark Howe",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Versatile defenseman and Hall of Famer."
+},
+{
+    "id": 285,
+    "last_name": "Barber",
+    "img": "/hockey/img/players/barber.jpg",
+    "full_name": "Bill Barber",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Wing",
+    "description": "Philadelphia Flyers legend and Hall of Famer."
+},
+{
+    "id": 287,
+    "last_name": "Nolan",
+    "img": "/hockey/img/players/nolan.jpg",
+    "full_name": "Owen Nolan",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Powerful forward known for his leadership."
+},
+{
+    "id": 289,
+    "last_name": "Sutter",
+    "img": "/hockey/img/players/sutter.jpg",
+    "full_name": "Brian Sutter",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Physical forward and team captain."
+},
+{
+    "id": 295,
+    "last_name": "Gartner",
+    "img": "/hockey/img/players/gartner.jpg",
+    "full_name": "Mike Gartner",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Prolific goal-scorer with a long NHL career."
+},
+{
+    "id": 296,
+    "last_name": "Langway",
+    "img": "/hockey/img/players/langway.jpg",
+    "full_name": "Rod Langway",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Defensive stalwart and Hall of Famer."
+},
+{
+    "id": 298,
+    "last_name": "Zubov",
+    "img": "/hockey/img/players/zubov.jpg",
+    "full_name": "Sergei Zubov",
+    "team": "Retired",
+    "nationality": "Russia",
+    "position": "Defenseman",
+    "description": "Offensive-minded defenseman with exceptional skills."
+},
+{
+    "id": 300,
+    "last_name": "Rafalski",
+    "img": "/hockey/img/players/rafalski.jpg",
+    "full_name": "Brian Rafalski",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Two-way defenseman with championship experience."
+},
+{
+    "id": 301,
+    "last_name": "Palffy",
+    "img": "/hockey/img/players/palffy.jpg",
+    "full_name": "Zigmund Palffy",
+    "team": "Retired",
+    "nationality": "Slovakia",
+    "position": "Right Wing",
+    "description": "Slovakian forward with offensive prowess."
+},
+{
+    "id": 302,
+    "last_name": "Berard",
+    "img": "/hockey/img/players/berard.jpg",
+    "full_name": "Bryan Berard",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Defenseman with a unique career path."
+},
+{
+    "id": 303,
+    "last_name": "LeClair",
+    "img": "/hockey/img/players/leclair.jpg",
+    "full_name": "John LeClair",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Left Wing",
+    "description": "Power forward with a knack for scoring goals."
+},
+{
+    "id": 304,
+    "last_name": "Clark",
+    "img": "/hockey/img/players/clark.jpg",
+    "full_name": "Wendel Clark",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Wing",
+    "description": "Physical forward and beloved Toronto Maple Leaf."
+},
+{
+    "id": 306,
+    "last_name": "Kovalchuk",
+    "img": "/hockey/img/players/kovalchuk.jpg",
+    "full_name": "Ilya Kovalchuk",
+    "team": "Spartak Moscow (Russia)",
+    "nationality": "Russia",
+    "position": "Left Wing",
+    "description": "Russian sniper with a deadly shot."
+},
+{
+    "id": 306,
+    "last_name": "L Hughes",
+    "img": "/hockey/img/players/l hughes.jpg",
+    "full_name": "Luke Hughes",
+    "team": "New Jersey Devils",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Talented defenseman, excellent skating, strong hockey lineage."
 }
 ]

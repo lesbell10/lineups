@@ -4574,5 +4574,135 @@
     "nationality": "England",
     "height": "6'2\"",
     "description": "Talented goalkeeper known for reflex saves."
-}
+},
+  {
+    "id": 451,
+    "last_name": "Scholl",
+    "img": "/football/img/players/Scholl.webp",
+    "full_name": "Mehmet Scholl",
+    "team": "Retired",
+    "nationality": "Germany",
+    "position": "Central Midfielder",
+    "description": "Creative midfielder, known for his time at Bayern Munich."
+  },
+  {
+    "id": 452,
+    "last_name": "Guardiola",
+    "img": "/football/img/players/Guardiola.webp",
+    "full_name": "Pep Guardiola",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Defensive Midfielder",
+    "description": "Former Barcelona player, successful coach, and tactician."
+  },
+  {
+    "id": 453,
+    "last_name": "Wise",
+    "img": "/football/img/players/Wise.webp",
+    "full_name": "Dennis Wise",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "Ex-Chelsea captain, versatile midfielder with leadership qualities."
+  },
+  {
+    "id": 454,
+    "last_name": "Rush",
+    "img": "/football/img/players/I Rush.webp",
+    "full_name": "Ian Rush",
+    "team": "Retired",
+    "nationality": "Wales",
+    "position": "Forward",
+    "description": "Liverpool legend, prolific goal-scorer in the '80s and '90s."
+  },
+  {
+    "id": 455,
+    "last_name": "King",
+    "img": "/football/img/players/L King.webp",
+    "full_name": "Ledley King",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Centre Back",
+    "description": "One-club man, Tottenham legend, and solid defender."
+  },
+  {
+    "id": 456,
+    "last_name": "Vucinic",
+    "img": "/football/img/players/Vucinic.webp",
+    "full_name": "Mirko Vucinic",
+    "team": "Retired",
+    "nationality": "Montenegro",
+    "position": "Forward",
+    "description": "Talented Montenegrin striker, played for Juventus and Roma."
+  },
+  {
+    "id": 457,
+    "last_name": "Reyes",
+    "img": "/football/img/players/Reyes.webp",
+    "full_name": "Jose Antonio Reyes",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Left Winger",
+    "description": "Former Arsenal winger, Spanish talent taken too soon."
+  },
+  {
+    "id": 458,
+    "last_name": "Icardi",
+    "img": "/football/img/players/Icardi.webp",
+    "full_name": "Mauro Icardi",
+    "team": "Galatasaray",
+    "nationality": "Argentina",
+    "position": "Striker",
+    "description": "Talented Argentine striker, known for his goal-scoring ability."
+  },
+  {
+    "id": 459,
+    "last_name": "Milla",
+    "img": "/football/img/players/Milla.webp",
+    "full_name": "Roger Milla",
+    "team": "Retired",
+    "nationality": "Cameroon",
+    "position": "Forward",
+    "description": "Cameroon legend, famous for his World Cup performances."
+  },
+  {
+    "id": 460,
+    "last_name": "Voller",
+    "img": "/football/img/players/Voller.webp",
+    "full_name": "Rudi Voller",
+    "team": "Retired",
+    "nationality": "Germany",
+    "position": "Forward",
+    "description": "Former German international and World Cup winner."
+  },
+  {
+    "id": 461,
+    "last_name": "Barry",
+    "img": "/football/img/players/Barry.webp",
+    "full_name": "Gareth Barry",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Defensive Midfielder",
+    "description": "Experienced English midfielder with a long Premier League career."
+  },
+  {
+    "id": 462,
+    "last_name": "Leboeuf",
+    "img": "/football/img/players/Leboeuf.webp",
+    "full_name": "Frank Leboeuf",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "Former French defender, World Cup winner with Les Bleus."
+  },
+  {
+    "id": 463,
+    "last_name": "Canizares",
+    "img": "/football/img/players/Canizares.webp",
+    "full_name": "Santiago Canizares",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "description": "Spanish goalkeeper, known for his time at Valencia."
+  }
 ]

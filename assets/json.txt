@@ -14,19 +14,6 @@
 football:
 remove the number before the id
 
-Update with this:
-{
-        "id": 1-,
-        "img": "/hockey/img/players/last name.jpg",
-        "full_name": "",
-        "team": "",
-        "nationality": "",
-        "position": "",
-        "height": in feet,
-        "description": "{8 words description}"
-    }
-
-
 
     Football: 
 give me this:

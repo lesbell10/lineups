@@ -176,7 +176,7 @@ function updatePlayerInfo() {
 
   if (selectedYear == "1") {
     PG.textContent = "R Rondo";
-    SG.textContent = "I Thomas";
+    SG.textContent = "Is Thomas";
     SF.textContent = "J Tatum";
     PF.textContent = "P Pierce";
     C.textContent = "K Garnett";
@@ -637,7 +637,7 @@ const updateDropdown = () => {
 
   if (selectedYear == "1") {
     PG.textContent = "R Rondo";
-    SG.textContent = "I Thomas";
+    SG.textContent = "Is Thomas";
     SF.textContent = "J Tatum";
     PF.textContent = "P Pierce";
     C.textContent = "K Garnett";

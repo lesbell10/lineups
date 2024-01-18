@@ -488,7 +488,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "12") {
 
-        PG.textContent = "I Thomas";
+        PG.textContent = "Is Thomas";
         SG.textContent = "T Evans";
         SF.textContent = "B Hield"
         PF.textContent = "R Gay";
@@ -951,7 +951,7 @@ const updateDropdown = () => {
 
     if (selectedYear == "12") {
 
-        PG.textContent = "I Thomas";
+        PG.textContent = "Is Thomas";
         SG.textContent = "T Evans";
         SF.textContent = "B Hield"
         PF.textContent = "R Gay";
