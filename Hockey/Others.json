@@ -50,7 +50,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Right Wing",
+        "position": "Right Winger",
         "height": "6'0\"",
 
         "description": "Legendary power forward, 'Mr. Hockey.'"
@@ -64,7 +64,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Right Wing",
+        "position": "Right Winger",
         "height": "5'10\"",
 
         "description": "First player to score 50 goals in 50 games."
@@ -78,7 +78,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Left Wing",
+        "position": "Left Winger",
         "height": "5'10\"",
 
         "description": "One of the greatest goal scorers in NHL history."
@@ -120,7 +120,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Right Wing",
+        "position": "Right Winger",
         "height": "6'0\"",
 
         "description": "Flamboyant scorer, 'The Flower.'"
@@ -218,7 +218,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Right Wing",
+        "position": "Right Winger",
         "height": "6'0\"",
 
         "description": "Prolific goal scorer, 9 consecutive 50-goal seasons."
@@ -232,7 +232,7 @@
 
         "team": "Retired",
         "nationality": "Canada",
-        "position": "Right Wing",
+        "position": "Right Winger",
         "height": "5'10\"",
 
         "description": "One of the most lethal goal scorers in NHL history."
@@ -372,7 +372,7 @@
 
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "height": "6'0\"",
 
     "description": "Longtime Bruins captain and scoring winger."
@@ -526,7 +526,7 @@
 
     "team": "Retired",
     "nationality": "Finland",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "height": "6'0\"",
 
     "description": "Finnish scoring sensation, key Oiler in the 1980s."
@@ -1384,7 +1384,7 @@
   {
       "id": 116,
       "last_name": "T Bertuzzi",
-      "img": "/hockey/img/players/T Bertuzzi.jpg",
+      "img": "/hockey/img/players/Bertuzzi.jpg",
       "full_name": "Todd Bertuzzi",
       "team": "Retired",
       "nationality": "Canada",
@@ -2448,7 +2448,7 @@
     "full_name": "Cam Neely",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Power forward known for his scoring ability."
 },
 {
@@ -2458,7 +2458,7 @@
     "full_name": "Rick Martin",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Scoring machine for the Sabres."
 },
 {
@@ -2468,7 +2468,7 @@
     "full_name": "Justin Williams",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Clutch performer in the playoffs."
 },
 {
@@ -2478,7 +2478,7 @@
     "full_name": "Milan Hejduk",
     "team": "Retired",
     "nationality": "Czech Republic",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Skilled Czech winger with finesse."
 },
 {
@@ -2498,7 +2498,7 @@
     "full_name": "Ted Lindsay",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Hall of Famer known for his physical play."
 },
 {
@@ -2528,7 +2528,7 @@
     "full_name": "Scott Mellanby",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Physical forward known for leadership."
 },
 {
@@ -2568,7 +2568,7 @@
     "full_name": "Clark Gillies",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Power forward and key member of the Islanders dynasty."
 },
 {
@@ -2578,7 +2578,7 @@
     "full_name": "Rod Gilbert",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "New York Rangers legend and Hall of Famer."
 },
 {
@@ -2598,7 +2598,7 @@
     "full_name": "Bill Barber",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Philadelphia Flyers legend and Hall of Famer."
 },
 {
@@ -2608,7 +2608,7 @@
     "full_name": "Owen Nolan",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Powerful forward known for his leadership."
 },
 {
@@ -2618,7 +2618,7 @@
     "full_name": "Brian Sutter",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Physical forward and team captain."
 },
 {
@@ -2628,7 +2628,7 @@
     "full_name": "Mike Gartner",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Prolific goal-scorer with a long NHL career."
 },
 {
@@ -2668,7 +2668,7 @@
     "full_name": "Zigmund Palffy",
     "team": "Retired",
     "nationality": "Slovakia",
-    "position": "Right Wing",
+    "position": "Right Winger",
     "description": "Slovakian forward with offensive prowess."
 },
 {
@@ -2688,7 +2688,7 @@
     "full_name": "John LeClair",
     "team": "Retired",
     "nationality": "USA",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Power forward with a knack for scoring goals."
 },
 {
@@ -2698,7 +2698,7 @@
     "full_name": "Wendel Clark",
     "team": "Retired",
     "nationality": "Canada",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Physical forward and beloved Toronto Maple Leaf."
 },
 {
@@ -2708,7 +2708,7 @@
     "full_name": "Ilya Kovalchuk",
     "team": "Spartak Moscow (Russia)",
     "nationality": "Russia",
-    "position": "Left Wing",
+    "position": "Left Winger",
     "description": "Russian sniper with a deadly shot."
 },
 {
@@ -2720,5 +2720,535 @@
     "nationality": "USA",
     "position": "Defenseman",
     "description": "Talented defenseman, excellent skating, strong hockey lineage."
+},
+{
+    "id": 307,
+    "last_name": "Coyle",
+    "img": "/hockey/img/players/coyle.jpg",
+    "full_name": "Charlie Coyle",
+    "team": "Boston Bruins",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Versatile forward known for his two-way play."
+},
+{
+    "id": 308,
+    "last_name": "Kotkaniemi",
+    "img": "/hockey/img/players/kotkaniemi.jpg",
+    "full_name": "Jesperi Kotkaniemi",
+    "team": "Carolina Hurricanes",
+    "nationality": "Finland",
+    "position": "Center",
+    "description": "Finnish forward with a strong two-way game."
+},
+{
+    "id": 309,
+    "last_name": "Jarvis",
+    "img": "/hockey/img/players/jarvis.jpg",
+    "full_name": "Seth Jarvis",
+    "team": "Carolina Hurricanes",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Talented winger known for his scoring ability."
+},
+{
+    "id": 312,
+    "last_name": "Lehkonen",
+    "img": "/hockey/img/players/lehkonen.jpg",
+    "full_name": "Artturi Lehkonen",
+    "team": "Colorado Avalanche",
+    "nationality": "Finland",
+    "position": "Left Winger",
+    "description": "Finnish winger with a knack for clutch goals."
+},
+{
+    "id": 313,
+    "last_name": "Girard",
+    "img": "/hockey/img/players/girard.jpg",
+    "full_name": "Samuel Girard",
+    "team": "Colorado Avalanche",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Mobile defenseman with strong puck-moving abilities."
+},
+{
+    "id": 314,
+    "last_name": "Drouin",
+    "img": "/hockey/img/players/drouin.jpg",
+    "full_name": "Jonathan Drouin",
+    "team": "Colorado Avalanche",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Talented playmaker known for his offensive creativity."
+},
+{
+    "id": 315,
+    "last_name": "Fantilli",
+    "img": "/hockey/img/players/fantilli.jpg",
+    "full_name": "Adam Fantilli",
+    "team": "Columbus Blue Jackets",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Young prodigy with exceptional scoring potential."
+},
+{
+    "id": 316,
+    "last_name": "Dadonov",
+    "img": "/hockey/img/players/dadonov.jpg",
+    "full_name": "Evgenii Dadonov",
+    "team": "Dallas Stars",
+    "nationality": "Russia",
+    "position": "Right Winger",
+    "description": "Dynamic winger known for his offensive skills."
+},
+{
+    "id": 317,
+    "last_name": "Copp",
+    "img": "/hockey/img/players/copp.jpg",
+    "full_name": "Andrew Copp",
+    "team": "Detroit Red Wings",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Versatile forward with strong defensive abilities."
+},
+{
+    "id": 319,
+    "last_name": "Rasmussen",
+    "img": "/hockey/img/players/rasmussen.jpg",
+    "full_name": "Michael Rasmussen",
+    "team": "Detroit Red Wings",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Powerful forward with a physical presence on the ice."
+},
+{
+    "id": 320,
+    "last_name": "Maatta",
+    "img": "/hockey/img/players/maatta.jpg",
+    "full_name": "Olli Maatta",
+    "team": "Detroit Red Wings",
+    "nationality": "Finland",
+    "position": "Defenseman",
+    "description": "Solid defenseman with strong defensive skills."
+},
+{
+    "id": 321,
+    "last_name": "Chiarot",
+    "img": "/hockey/img/players/chiarot.jpg",
+    "full_name": "Ben Chiarot",
+    "team": "Detroit Red Wings",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Physical defenseman with shot-blocking skills."
+},
+{
+    "id": 322,
+    "last_name": "Ceci",
+    "img": "/hockey/img/players/ceci.jpg",
+    "full_name": "Cody Ceci",
+    "team": "Edmonton Oilers",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Two-way defenseman with offensive potential."
+},
+{
+    "id": 324,
+    "last_name": "Bennett",
+    "img": "/hockey/img/players/bennett.jpg",
+    "full_name": "Sam Bennett",
+    "team": "Florida Panthers",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Physical forward with scoring touch."
+},
+{
+    "id": 325,
+    "last_name": "Cousins",
+    "img": "/hockey/img/players/cousins.jpg",
+    "full_name": "Nick Cousins",
+    "team": "Florida Panthers",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Versatile forward known for his playmaking abilities."
+},
+{
+    "id": 326,
+    "last_name": "Foligno",
+    "img": "/hockey/img/players/m foligno.jpg",
+    "full_name": "Marcus Foligno",
+    "team": "Minnesota Wild",
+    "nationality": "USA",
+    "position": "Left Winger",
+    "description": "Physical winger with leadership qualities."
+},
+{
+    "id": 328,
+    "last_name": "Maroon",
+    "img": "/hockey/img/players/maroon.jpg",
+    "full_name": "Pat Maroon",
+    "team": "Minnesota Wild",
+    "nationality": "USA",
+    "position": "Left Winger",
+    "description": "Power forward with a physical presence."
+},
+{
+    "id": 330,
+    "last_name": "Wideman",
+    "img": "/hockey/img/players/wideman.jpg",
+    "full_name": "Chris Wideman",
+    "team": "Montreal Canadiens",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Offensive-minded defenseman known for his puck-moving abilities."
+},
+{
+    "id": 331,
+    "last_name": "Palat",
+    "img": "/hockey/img/players/palat.jpg",
+    "full_name": "Ondrej Palat",
+    "team": "New Jersey Devils",
+    "nationality": "Czech Republic",
+    "position": "Left Winger",
+    "description": "Skilled winger with playmaking abilities."
+},
+{
+    "id": 332,
+    "last_name": "Lazar",
+    "img": "/hockey/img/players/lazar.jpg",
+    "full_name": "Curtis Lazar",
+    "team": "New Jersey Devils",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Versatile forward known for his energy and effort."
+},
+{
+    "id": 333,
+    "last_name": "Pageau",
+    "img": "/hockey/img/players/j-b pageau.jpg",
+    "full_name": "Jean-Gabriel Pageau",
+    "team": "New York Islanders",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Reliable center with a strong defensive game."
+},
+{
+    "id": 334,
+    "last_name": "Romanov",
+    "img": "/hockey/img/players/romanov.jpg",
+    "full_name": "Alexander Romanov",
+    "team": "New York Islanders",
+    "nationality": "Russia",
+    "position": "Defenseman",
+    "description": "Young defenseman with promising defensive skills."
+},
+{
+    "id": 335,
+    "last_name": "Palmieri",
+    "img": "/hockey/img/players/palmieri.jpg",
+    "full_name": "Kyle Palmieri",
+    "team": "New York Islanders",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "Sharpshooter with a knack for scoring goals."
+},
+{
+    "id": 336,
+    "last_name": "Lafreniere",
+    "img": "/hockey/img/players/lafreniere.jpg",
+    "full_name": "Alexis Lafreniere",
+    "team": "New York Rangers",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Highly-touted prospect with exceptional skills."
+},
+{
+    "id": 337,
+    "last_name": "Gustafsson",
+    "img": "/hockey/img/players/gustafsson.jpg",
+    "full_name": "Erik Gustafsson",
+    "team": "New York Rangers",
+    "nationality": "Sweden",
+    "position": "Defenseman",
+    "description": "Offensive defenseman known for his puck-handling abilities."
+},
+{
+    "id": 339,
+    "last_name": "Sanderson",
+    "img": "/hockey/img/players/sanderson.jpg",
+    "full_name": "Jake Sanderson",
+    "team": "Ottawa Senators",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Young blueliner with potential and strong skating."
+},
+{
+    "id": 340,
+    "last_name": "m Joseph",
+    "img": "/hockey/img/players/m joseph.jpg",
+    "full_name": "Mathieu Joseph",
+    "team": "Ottawa Senators",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Speedy winger with a scoring touch."
+},
+{
+    "id": 341,
+    "last_name": "Deslauriers",
+    "img": "/hockey/img/players/deslauriers.jpg",
+    "full_name": "Nicolas Deslauriers",
+    "team": "Phildadelphia Flyers",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Physical forward known for his hitting and energy."
+},
+{
+    "id": 342,
+    "last_name": "Poehling",
+    "img": "/hockey/img/players/poehling.jpg",
+    "full_name": "Ryan Poehling",
+    "team": "Phildadelphia Flyers",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Young center with scoring potential."
+},
+{
+    "id": 343,
+    "last_name": "Pettersson",
+    "img": "/hockey/img/players/pettersson.jpg",
+    "full_name": "Marcus Pettersson",
+    "team": "Pittsburgh Penguins",
+    "nationality": "Sweden",
+    "position": "Defenseman",
+    "description": "Solid defenseman with good puck-moving skills."
+},
+{
+    "id": 344,
+    "last_name": "Eller",
+    "img": "/hockey/img/players/eller.jpg",
+    "full_name": "Lars Eller",
+    "team": "Pittsburgh Penguins",
+    "nationality": "Denmark",
+    "position": "Center",
+    "description": "Versatile forward with strong defensive play."
+},
+{
+    "id": 345,
+    "last_name": "p-o Joseph",
+    "img": "/hockey/img/players/p-o joseph.jpg",
+    "full_name": "Pierre-Olivier Joseph",
+    "team": "Pittsburgh Penguins",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Young blueliner with potential and offensive skills."
+},
+{
+    "id": 348,
+    "last_name": "Gourde",
+    "img": "/hockey/img/players/gourde.jpg",
+    "full_name": "Yanni Gourde",
+    "team": "Seattle Kraken",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Energetic forward with offensive skills."
+},
+{
+    "id": 349,
+    "last_name": "Schultz",
+    "img": "/hockey/img/players/schultz.jpg",
+    "full_name": "Justin Schultz",
+    "team": "Seattle Kraken",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Offensive-minded blueliner known for his power-play contributions."
+},
+{
+    "id": 350,
+    "last_name": "Yamamoto",
+    "img": "/hockey/img/players/yamamoto.jpg",
+    "full_name": "Kailer Yamamoto",
+    "team": "Seattle Kraken",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "Dynamic winger with a scoring touch."
+},
+{
+    "id": 351,
+    "last_name": "Bellemare",
+    "img": "/hockey/img/players/bellemare.jpg",
+    "full_name": "Pierre-Edouard Bellemare",
+    "team": "Seattle Kraken",
+    "nationality": "France",
+    "position": "Center",
+    "description": "Defensive forward known for his faceoff skills."
+},
+{
+    "id": 352,
+    "last_name": "Saad",
+    "img": "/hockey/img/players/saad.jpg",
+    "full_name": "Brandon Saad",
+    "team": "St Louis Blues",
+    "nationality": "USA",
+    "position": "Left Winger",
+    "description": "Powerful winger with scoring ability."
+},
+{
+    "id": 353,
+    "last_name": "Scandella",
+    "img": "/hockey/img/players/scandella.jpg",
+    "full_name": "Marco Scandella",
+    "team": "St Louis Blues",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Physical defenseman with shot-blocking skills."
+},
+{
+    "id": 354,
+    "last_name": "Domi",
+    "img": "/hockey/img/players/m domi.jpg",
+    "full_name": "Max Domi",
+    "team": "Toronto Maple Leafs",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Skilled forward known for his playmaking abilities."
+},
+{
+    "id": 355,
+    "last_name": "Bertuzzi",
+    "img": "/hockey/img/players/t bertuzzi.jpg",
+    "full_name": "Tyler Bertuzzi",
+    "team": "Toronto Maple Leafs",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Physical winger with a scoring touch."
+},
+{
+    "id": 360,
+    "last_name": "Martinez",
+    "img": "/hockey/img/players/martinez.jpg",
+    "full_name": "Alec Martinez",
+    "team": "Vegas Golden Knights",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Clutch defenseman known for his playoff heroics."
+},
+{
+    "id": 361,
+    "last_name": "Roy",
+    "img": "/hockey/img/players/n roy.jpg",
+    "full_name": "Nicolas Roy",
+    "team": "Vegas Golden Knights",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Two-way forward with scoring ability."
+},
+{
+    "id": 362,
+    "last_name": "Carrier",
+    "img": "/hockey/img/players/carrier.jpg",
+    "full_name": "William Carrier",
+    "team": "Vegas Golden Knights",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Physical forward known for his hitting."
+},
+{
+    "id": 363,
+    "last_name": "Kolesar",
+    "img": "/hockey/img/players/kolesar.jpg",
+    "full_name": "Keegan Kolesar",
+    "team": "Vegas Golden Knights",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Powerful winger with a physical presence."
+},
+{
+    "id": 364,
+    "last_name": "Strome",
+    "img": "/hockey/img/players/d strome.jpg",
+    "full_name": "Dylan Strome",
+    "team": "Washington Capitals",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Skilled center with playmaking abilities."
+},
+{
+    "id": 366,
+    "last_name": "Sandin",
+    "img": "/hockey/img/players/sandin.jpg",
+    "full_name": "Rasmus Sandin",
+    "team": "Washington Capitals",
+    "nationality": "Sweden",
+    "position": "Defenseman",
+    "description": "Mobile defenseman with offensive potential."
+},
+{
+    "id": 367,
+    "last_name": "Edmundson",
+    "img": "/hockey/img/players/edmundson.jpg",
+    "full_name": "Joel Edmundson",
+    "team": "Washington Capitals",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Physical blueliner with shot-blocking skills."
+},
+{
+    "id": 368,
+    "last_name": "Mantha",
+    "img": "/hockey/img/players/mantha.jpg",
+    "full_name": "Anthony Mantha",
+    "team": "Washington Capitals",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Power forward with scoring ability."
+},
+{
+    "id": 369,
+    "last_name": "Lindgren",
+    "img": "/hockey/img/players/lindgren.jpg",
+    "full_name": "Charlie Lindgren",
+    "team": "Washington Capitals",
+    "nationality": "USA",
+    "position": "Goaltender",
+    "description": "Goaltender with strong positional play."
+},
+{
+    "id": 370,
+    "last_name": "Van Riemsdyk",
+    "img": "/hockey/img/players/t van riemsdyk.jpg",
+    "full_name": "Trevor van Riemsdyk",
+    "team": "Washington Capitals",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Defensive blueliner known for shot-blocking."
+},
+{
+    "id": 371,
+    "last_name": "Dowd",
+    "img": "/hockey/img/players/n dowd.jpg",
+    "full_name": "Nic Dowd",
+    "team": "Washington Capitals",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Reliable center with strong defensive play."
+},
+{
+    "id": 372,
+    "last_name": "Oshie",
+    "img": "/hockey/img/players/tj oshie.jpg",
+    "full_name": "TJ Oshie",
+    "team": "Washington Capitals",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "Skilled winger known for his shootout prowess."
+},
+{
+    "id": 375,
+    "last_name": "Domi",
+    "img": "/hockey/img/players/domi.jpg",
+    "full_name": "Tie Domi",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Enforcer known for his physical play and fighting."
 }
 ]

@@ -330,7 +330,7 @@ function updatePlayerInfo() {
         PG.textContent = "C Cunningham";
         SG.textContent = "J Ivey";
         SF.textContent = "A Thompson";
-        PF.textContent = "B Bogdanovic";
+        PF.textContent = "Boj Bogdanovic";
         C.textContent = "J Duren";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -569,7 +569,7 @@ function updatePlayerInfo() {
         SG.textContent = "J Poole";
         SF.textContent = "K Kuzma";
         PF.textContent = "D Avdija";
-        C.textContent = "D Gallinari";
+        C.textContent = "D Gafford";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -816,7 +816,7 @@ const updateDropdown = () => {
         PG.textContent = "C Cunningham";
         SG.textContent = "J Ivey";
         SF.textContent = "A Thompson";
-        PF.textContent = "B Bogdanovic";
+        PF.textContent = "Boj Bogdanovic";
         C.textContent = "J Duren";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";

@@ -39,14 +39,14 @@
     "positions": ["Power Forward", " Small Forward"],
     "description": "Young forward with potential and versatility."
   },
-  {
-    "id": 5,
-    "last_name": "D Gallinari",
-    "img": "/basket/img/players/D Gallinari.png",
-    "full_name": "Danilo Gallinari",
-    "team": "Washington Wizards",
-    "nationality": "Italy",
-    "positions": ["Power Forward", " Small Forward"],
-    "description": "Veteran forward known for his scoring."
-  }
+{
+"id": 5,
+"last_name": "Gafford",
+"img": "/basket/img/players/D Gafford.png",
+"full_name": "Daniel Gafford",
+"team": "Washington Wizards",
+"nationality": "United States",
+"positions": ["Center"],
+"description": "Young center known for his shot-blocking and rebounding."
+}
 ]
