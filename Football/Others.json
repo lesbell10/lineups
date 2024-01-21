@@ -3465,7 +3465,7 @@
   },
   {
     "id": 335,
-    "last_name": "Ferland Mendy",
+    "last_name": "F Mendy",
     "img": "/football/img/players/F Mendy.webp",
     "full_name": "Ferland Mendy",
     "team": "Real Madrid",
@@ -6780,60 +6780,50 @@
         "last_name": "Darder",
         "img": "/football/img/players/Darder.webp",
         "full_name": "Sergi Darder",
-        "team": "Retired",
+        "team": "Mallorca",
         "nationality": "Spain",
-        "position": "Midfielder",
-        "description": "Former Spanish midfielder with great passing ability."
+        "position": "Central Midfielder",
+        "description": "Spanish midfielder with great passing ability."
     },
     {
         "id": 715,
-        "last_name": "Hrádecký",
+        "last_name": "Hradecky",
         "img": "/football/img/players/Hradecky.webp",
-        "full_name": "Lukáš Hrádecký",
-        "team": "Retired",
+        "full_name": "Lukas Hradecky",
+        "team": "Bayer Leverkusen",
         "nationality": "Finland",
         "position": "Goalkeeper",
-        "description": "Former Finnish goalkeeper known for his shot-stopping skills."
-    },
-    {
-        "id": 716,
-        "last_name": "Gulácsi",
-        "img": "/football/img/players/Gulacsi.webp",
-        "full_name": "Péter Gulácsi",
-        "team": "Retired",
-        "nationality": "Hungary",
-        "position": "Goalkeeper",
-        "description": "Former Hungarian goalkeeper with excellent reflexes."
+        "description": "Finnish goalkeeper known for his shot-stopping skills."
     },
     {
         "id": 717,
         "last_name": "Mitoma",
         "img": "/football/img/players/Mitoma.webp",
         "full_name": "Kaoru Mitoma",
-        "team": "Retired",
+        "team": "Brighton",
         "nationality": "Japan",
-        "position": "Forward",
-        "description": "Former Japanese forward known for his pace and dribbling."
+        "position": "Left Winger",
+        "description": "Japanese winger known for his pace and dribbling."
     },
     {
         "id": 718,
-        "last_name": "Al_Musrati",
-        "img": "/football/img/players/Al_Musrati.webp",
+        "last_name": "Al Musrati",
+        "img": "/football/img/players/Al Musrati.webp",
         "full_name": "Ahmed Al Musrati",
-        "team": "Retired",
+        "team": "Braga",
         "nationality": "Libya",
-        "position": "Midfielder",
-        "description": "Former Libyan midfielder with excellent ball control."
+        "position": "Defensive Midfielder",
+        "description": "Libyan midfielder with excellent ball control."
     },
     {
         "id": 719,
         "last_name": "Tapsoba",
         "img": "/football/img/players/Tapsoba.webp",
         "full_name": "Edmond Tapsoba",
-        "team": "Retired",
+        "team": "Bayer Leverkusen",
         "nationality": "Burkina Faso",
-        "position": "Defender",
-        "description": "Former Burkinabé defender known for his composure."
+        "position": "Centre Back",
+        "description": "Burkinabé defender known for his composure."
     },
     {
         "id": 720,
