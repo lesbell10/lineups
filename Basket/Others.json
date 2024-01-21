@@ -888,7 +888,7 @@
   },
     {
     "id": 96,
-    "last_name": "Hunter",
+    "last_name": "D Hunter",
     "img": "/basket/img/players/D Hunter.png",
     "full_name": "De’Andre Hunter",
     "team": "Atlanta Hawks",
@@ -898,7 +898,7 @@
   },
   {
     "id": 97,
-    "last_name": "Miller",
+    "last_name": "B Miller",
     "img": "/basket/img/players/B Miller.png",
     "full_name": "Brandon Miller",
     "team": "Charlotte Hornets",
@@ -988,7 +988,7 @@
   },
  {
     "id": 107,
-    "last_name": "Malone",
+    "last_name": "M Malone",
     "img": "/basket/img/players/M Malone.png",
     "full_name": "Moses Malone",
     "team": "Retired",
@@ -1007,18 +1007,8 @@
     "description": "Former NBA All-Star, known for his scoring ability"
   },
   {
-    "id": 110,
-    "last_name": "Morris",
-    "img": "/basket/img/players/Morris.png",
-    "full_name": "Marcus Morris",
-    "team": "Philadelphia 76ers",
-    "nationality": "USA",
-    "positions": ["Power Forward", " Small Forward"],
-    "description": "Versatile NBA forward, known for his scoring and toughness"
-  },
-  {
     "id": 111,
-    "last_name": "Powell",
+    "last_name": "N Powell",
     "img": "/basket/img/players/Powell.png",
     "full_name": "Norman Powell",
     "team": "Los Angeles Clippers",
@@ -1028,7 +1018,7 @@
   },
   {
     "id": 112,
-    "last_name": "Hayes",
+    "last_name": "J Hayes",
     "img": "/basket/img/players/Hayes.png",
     "full_name": "Jaxson Hayes",
     "team": "Los Angeles Lakers",
@@ -1038,7 +1028,7 @@
   },
   {
     "id": 113,
-    "last_name": "Lewis",
+    "last_name": "R Lewis",
     "img": "/basket/img/players/R Lewis.png",
     "full_name": "Rashard Lewis",
     "team": "Retired",
@@ -1088,7 +1078,7 @@
 },
 {
     "id": 118,
-    "last_name": "Williams",
+    "last_name": "B Williams",
     "img": "/basket/img/players/b williams.png",
     "full_name": "Buck Williams",
     "team": "Retired",
@@ -1098,7 +1088,7 @@
 },
 {
     "id": 119,
-    "last_name": "Johnson",
+    "last_name": "L Johnson",
     "img": "/basket/img/players/l johnson.png",
     "full_name": "Larry Johnson",
     "team": "Retired",
@@ -1108,7 +1098,7 @@
 },
 {
     "id": 120,
-    "last_name": "Rice",
+    "last_name": "G Rice",
     "img": "/basket/img/players/g rice.png",
     "full_name": "Glen Rice",
     "team": "Retired",
@@ -1138,7 +1128,7 @@
 },
 {
     "id": 123,
-    "last_name": "Price",
+    "last_name": "M Price",
     "img": "/basket/img/players/m price.png",
     "full_name": "Mark Price",
     "team": "Retired",
@@ -1198,7 +1188,7 @@
 },
 {
     "id": 137,
-    "last_name": "Robertson",
+    "last_name": "O Robertson",
     "img": "/basket/img/players/o robertson.png",
     "full_name": "Oscar Robertson",
     "team": "Retired",
@@ -1218,7 +1208,7 @@
 },
 {
     "id": 140,
-    "last_name": "Oakley",
+    "last_name": "C Oakley",
     "img": "/basket/img/players/c oakley.png",
     "full_name": "Charles Oakley",
     "team": "Retired",
@@ -1228,7 +1218,7 @@
 },
 {
     "id": 141,
-    "last_name": "King",
+    "last_name": "B King",
     "img": "/basket/img/players/b king.png",
     "full_name": "Bernard King",
     "team": "Retired",
@@ -1238,7 +1228,7 @@
 },
 {
     "id": 142,
-    "last_name": "Hardaway",
+    "last_name": "P Hardaway",
     "img": "/basket/img/players/p hardaway.png",
     "full_name": "Penny Hardaway",
     "team": "Retired",
@@ -1248,7 +1238,7 @@
 },
 {
     "id": 143,
-    "last_name": "Anderson",
+    "last_name": "N Anderson",
     "img": "/basket/img/players/n anderson.png",
     "full_name": "Nick Anderson",
     "team": "Retired",
@@ -1268,7 +1258,7 @@
 },
 {
     "id": 145,
-    "last_name": "Hayes",
+    "last_name": "E Hayes",
     "img": "/basket/img/players/e hayes.png",
     "full_name": "Elvin Hayes",
     "team": "Retired",
@@ -1278,7 +1268,7 @@
 },
 {
     "id": 147,
-    "last_name": "Willis",
+    "last_name": "K Willis",
     "img": "/basket/img/players/k willis.png",
     "full_name": "Kevin Willis",
     "team": "Retired",
@@ -1288,7 +1278,7 @@
 },
 {
     "id": 149,
-    "last_name": "Martin",
+    "last_name": "Ke Martin",
     "img": "/basket/img/players/ke martin.png",
     "full_name": "Kenyon Martin",
     "team": "Retired",
@@ -1298,7 +1288,7 @@
 },
 {
     "id": 150,
-    "last_name": "Jefferson",
+    "last_name": "R Jefferson",
     "img": "/basket/img/players/r jefferson.png",
     "full_name": "Richard Jefferson",
     "team": "Retired",
@@ -1308,7 +1298,7 @@
 },
 {
     "id": 153,
-    "last_name": "Wallace",
+    "last_name": "G Wallace",
     "img": "/basket/img/players/g wallace.png",
     "full_name": "Gerald Wallace",
     "team": "Retired",
@@ -1328,7 +1318,7 @@
 },
 {
     "id": 158,
-    "last_name": "Robinson",
+    "last_name": "G Robinson",
     "img": "/basket/img/players/g robinson.png",
     "full_name": "Glenn Robinson",
     "team": "Retired",
@@ -1338,7 +1328,7 @@
 },
 {
     "id": 159,
-    "last_name": "Houston",
+    "last_name": "A Houston",
     "img": "/basket/img/players/a houston.png",
     "full_name": "Allan Houston",
     "team": "Retired",
@@ -1388,7 +1378,7 @@
 },
 {
     "id": 167,
-    "last_name": "Thompson",
+    "last_name": "D Thompson",
     "img": "/basket/img/players/d thompson.png",
     "full_name": "David Thompson",
     "team": "Retired",
@@ -1398,7 +1388,7 @@
 },
 {
     "id": 168,
-    "last_name": "Barry",
+    "last_name": "R Barry",
     "img": "/basket/img/players/r barry.png",
     "full_name": "Rick Barry",
     "team": "Retired",
@@ -1408,7 +1398,7 @@
 },
 {
     "id": 169,
-    "last_name": "Mullin",
+    "last_name": "C Mullin",
     "img": "/basket/img/players/c mullin.png",
     "full_name": "Chris Mullin",
     "team": "Retired",
@@ -1428,7 +1418,7 @@
 },
 {
     "id": 172,
-    "last_name": "Brand",
+    "last_name": "E Brand",
     "img": "/basket/img/players/e brand.png",
     "full_name": "Elton Brand",
     "team": "Retired",
@@ -1438,7 +1428,7 @@
 },
 {
     "id": 173,
-    "last_name": "Cassell",
+    "last_name": "S Cassell",
     "img": "/basket/img/players/s cassell.png",
     "full_name": "Sam Cassell",
     "team": "Retired",
@@ -1458,7 +1448,7 @@
 },
 {
     "id": 175,
-    "last_name": "Johnson",
+    "last_name": "Ke Johnson",
     "img": "/basket/img/players/ke johnson.png",
     "full_name": "Kevin Johnson",
     "team": "Retired",
@@ -1478,7 +1468,7 @@
 },
 {
     "id": 177,
-    "last_name": "Porter",
+    "last_name": "T Porter",
     "img": "/basket/img/players/t porter.png",
     "full_name": "Terry Porter",
     "team": "Retired",
@@ -1568,7 +1558,7 @@
 },
 {
   "id": 190,
-  "last_name": "Smith",
+  "last_name": "S Smith",
   "img": "/basket/img/players/s smith.png",
   "full_name": "Steve Smith",
   "team": "Retired",
@@ -1588,7 +1578,7 @@
 },
 {
   "id": 192,
-  "last_name": "Jones",
+  "last_name": "E Jones",
   "img": "/basket/img/players/e jones.png",
   "full_name": "Eddie Jones",
   "team": "Retired",
@@ -1618,7 +1608,7 @@
 },
 {
   "id": 195,
-  "last_name": "Jamison",
+  "last_name": "A Jamison",
   "img": "/basket/img/players/a jamison.png",
   "full_name": "Antawn Jamison",
   "team": "Retired",
@@ -1638,8 +1628,8 @@
 },
 {
   "id": 197,
-  "last_name": "Beasley",
-  "img": "/basket/img/players/m beasley.png",
+  "last_name": "Ma Beasley",
+  "img": "/basket/img/players/ma beasley.png",
   "full_name": "Malik Beasley",
   "team": "Milwaukee Bucks",
   "nationality": "USA",
@@ -1678,7 +1668,7 @@
 },
 {
   "id": 201,
-  "last_name": "Miller",
+  "last_name": "A Miller",
   "img": "/basket/img/players/a miller.png",
   "full_name": "Andre Miller",
   "team": "Retired",
@@ -1698,7 +1688,7 @@
 },
 {
   "id": 203,
-  "last_name": "Jackson",
+  "last_name": "B Jackson",
   "img": "/basket/img/players/b jackson.png",
   "full_name": "Bobby Jackson",
   "team": "Retired",
@@ -1708,7 +1698,7 @@
 },
 {
   "id": 204,
-  "last_name": "Miller",
+  "last_name": "Br Miller",
   "img": "/basket/img/players/br miller.png",
   "full_name": "Brad Miller",
   "team": "Retired",
@@ -1728,7 +1718,7 @@
 },
 {
   "id": 206,
-  "last_name": "Howard",
+  "last_name": "J Howard",
   "img": "/basket/img/players/j howard.png",
   "full_name": "Juwan Howard",
   "team": "Retired",
@@ -1748,7 +1738,7 @@
 },
 {
   "id": 208,
-  "last_name": "Terry",
+  "last_name": "J Terry",
   "img": "/basket/img/players/j terry.png",
   "full_name": "Jason Terry",
   "team": "Retired",
@@ -1788,7 +1778,7 @@
 },
 {
   "id": 212,
-  "last_name": "Harrington",
+  "last_name": "A Harrington",
   "img": "/basket/img/players/a harrington.png",
   "full_name": "Al Harrington",
   "team": "Retired",
@@ -1818,7 +1808,7 @@
 },
 {
   "id": 216,
-  "last_name": "Young",
+  "last_name": "Th Young",
   "img": "/basket/img/players/th young.png",
   "full_name": "Thaddeus Young",
   "team": "Toronto Raptors",
@@ -1828,7 +1818,7 @@
 },
 {
   "id": 217,
-  "last_name": "mi Beasley",
+  "last_name": "Mi Beasley",
   "img": "/basket/img/players/mi beasley.png",
   "full_name": "Michael Beasley",
   "team": "Free Agent",
@@ -1838,7 +1828,7 @@
 },
 {
   "id": 218,
-  "last_name": "Williams",
+  "last_name": "De Williams",
   "img": "/basket/img/players/de williams.png",
   "full_name": "Derrick Williams",
   "team": "Free Agent",
@@ -1859,7 +1849,7 @@
 {
   "id": 220,
   "last_name": "Exum",
-  "img": "/basket/img/players/d exum.png",
+  "img": "/basket/img/players/D exum.png",
   "full_name": "Dante Exum",
   "team": "Dallas Mavericks",
   "nationality": "Australia",
@@ -1878,852 +1868,1112 @@
 },
 {
     "id": 222,
-    "last_name": "Kuminga",
-    "img": "/football/img/players/J Kuminga.png",
-    "full_name": "Jonathan Kuminga",
-    "team": "Retired",
-    "nationality": "DR Congo",
-    "position": "Forward, Guard",
-    "description": "Former NBA player known for versatility and athleticism."
+    "last_name": "Ja Johnson",
+    "img": "/basket/img/players/Ja Johnson.png",
+    "full_name": "Jalen Johnson",
+    "team": "Atlanta Hawks",
+    "nationality": "USA",
+    "positions":  ["Small Forward", " Power Forward"],
+    "description": "Talented forward with great athleticism and versatility."
+},
+{
+    "id": 223,
+    "last_name": "Bey",
+    "img": "/basket/img/players/S Bey.png",
+    "full_name": "Saddiq Bey",
+    "team": "Atlanta Hawks",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Young forward with scoring ability and defensive skills."
+},
+{
+    "id": 224,
+    "last_name": "Kornet",
+    "img": "/basket/img/players/L Kornet.png",
+    "full_name": "Luke Kornet",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Center", " Power Forward"],
+    "description": "Stretch forward/center known for three-point shooting."
   },
   {
-    "id": 223,
-    "last_name": "Saric",
-    "img": "/football/img/players/D Saric.png",
-    "full_name": "Dario Saric",
-    "team": "Retired",
-    "nationality": "Croatia",
-    "position": "Forward, Center",
-    "description": "Skilled forward with international experience in the NBA."
+    "id": 225,
+    "last_name": "Pritchard",
+    "img": "/basket/img/players/P Pritchard.png",
+    "full_name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Young guard with excellent ball-handling and shooting."
   },
   {
     "id": 226,
-    "last_name": "Podziemski",
-    "img": "/football/img/players/B Podziemski.png",
-    "full_name": "Brandin Podziemski",
-    "team": "Retired",
+    "last_name": "Hauser",
+    "img": "/basket/img/players/S Hauser.png",
+    "full_name": "Sam Hauser",
+    "team": "Boston Celtics",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Emerging talent with potential in the basketball world."
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Skilled forward with a knack for three-point shooting."
   },
   {
     "id": 227,
-    "last_name": "Jackson-Davis",
-    "img": "/football/img/players/T Jackson-Davis.png",
-    "full_name": "Trayce Jackson-Davis",
-    "team": "Retired",
+    "last_name": "Finney-S",
+    "img": "/basket/img/players/D Finney-S.png",
+    "full_name": "Dorian Finney-S",
+    "team": "Brooklyn Nets",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Skilled forward-center with a promising future in basketball."
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Versatile forward known for defensive intensity."
   },
   {
     "id": 228,
-    "last_name": "Moody",
-    "img": "/football/img/players/M Moody.png",
-    "full_name": "Moses Moody",
-    "team": "Retired",
+    "last_name": "Walker IV",
+    "img": "/basket/img/players/L Walker IV.png",
+    "full_name": "Lonnie Walker IV",
+    "team": "Brooklyn Nets",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Young talent known for scoring and defensive abilities."
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Young guard/forward with athleticism and scoring ability."
   },
   {
     "id": 229,
-    "last_name": "Payton II",
-    "img": "/football/img/players/G Payton-II.png",
-    "full_name": "Gary Payton II",
-    "team": "Retired",
+    "last_name": "Sharpe",
+    "img": "/basket/img/players/D Sharpe.png",
+    "full_name": "Day’Ron Sharpe",
+    "team": "Brooklyn Nets",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Versatile player with strong defensive skills and athleticism."
+    "positions": ["Center", " Power Forward"],
+    "description": "Physical forward/center known for rebounding and hustle."
   },
   {
     "id": 230,
-    "last_name": "Eason",
-    "img": "/football/img/players/T Eason.png",
-    "full_name": "Tari Eason",
-    "team": "Retired",
+    "last_name": "Watford",
+    "img": "/basket/img/players/T Watford.png",
+    "full_name": "Trendon Watford",
+    "team": "Brooklyn Nets",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Emerging forward-center with potential in the NBA."
+    "positions": ["Power Forward", "Small Forward"],
+    "description": "Scoring forward with versatility and offensive skills."
   },
   {
     "id": 231,
-    "last_name": "Thompson",
-    "img": "/football/img/players/A Thompson.png",
-    "full_name": "Amen Thompson",
-    "team": "Retired",
+    "last_name": "D Smith Jr",
+    "img": "/basket/img/players/D Smith Jr.png",
+    "full_name": "Dennis Smith Jr",
+    "team": "Brooklyn Nets",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Young talent with a promising future in basketball."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Athletic guard with a flair for playmaking and scoring."
   },
   {
     "id": 232,
-    "last_name": "Green",
-    "img": "/football/img/players/J Green.png",
-    "full_name": "Jeff Green",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Veteran forward known for versatility and experience."
+    "last_name": "N Richards",
+    "img": "/basket/img/players/N Richards.png",
+    "full_name": "Nick Richards",
+    "team": "Charlotte Hornets",
+    "nationality": "Jamaica",
+    "positions": ["Center", " Power Forward"],
+    "description": "Jamaican big man with shot-blocking and rebounding skills."
   },
   {
     "id": 233,
-    "last_name": "Whitmore",
-    "img": "/football/img/players/C Whitmore.png",
-    "full_name": "Cam Whitmore",
-    "team": "Retired",
+    "last_name": "Co Martin",
+    "img": "/basket/img/players/Co Martin.png",
+    "full_name": "Cody Martin",
+    "team": "Charlotte Hornets",
     "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Young guard-forward with potential in the basketball world."
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Versatile player known for his defensive capabilities."
   },
   {
     "id": 234,
-    "last_name": "Tate",
-    "img": "/football/img/players/J Tate.png",
-    "full_name": "Jae’Sean Tate",
-    "team": "Retired",
+    "last_name": "C White",
+    "img": "/basket/img/players/C White.png",
+    "full_name": "Coby White",
+    "team": "Chicago Bulls",
     "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Versatile player with a strong work ethic in basketball."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Young guard with scoring ability and quickness."
   },
   {
     "id": 235,
-    "last_name": "Nesmith",
-    "img": "/football/img/players/A Nesmith.png",
-    "full_name": "Aaron Nesmith",
-    "team": "Retired",
+    "last_name": "P Williams",
+    "img": "/basket/img/players/P Williams.png",
+    "full_name": "Patrick Williams",
+    "team": "Chicago Bulls",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Sharpshooting wing with a bright future in the NBA."
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Young forward known for his athleticism and defensive skills."
   },
   {
     "id": 236,
-    "last_name": "McConnell",
-    "img": "/football/img/players/TJ McConnell.png",
-    "full_name": "T.J. McConnell",
-    "team": "Retired",
+    "last_name": "Dosunmu",
+    "img": "/basket/img/players/A Dosunmu.png",
+    "full_name": "Ayo Dosunmu",
+    "team": "Chicago Bulls",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Energetic guard known for playmaking and hustle on court."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Exciting guard with a versatile game and scoring ability."
   },
   {
     "id": 237,
-    "last_name": "Smith",
-    "img": "/football/img/players/J Smith.png",
-    "full_name": "Jalen Smith",
-    "team": "Retired",
+    "last_name": "T Craig",
+    "img": "/basket/img/players/T Craig.png",
+    "full_name": "Torrey Craig",
+    "team": "Chicago Bulls",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Young forward-center with potential in the basketball world."
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Defensive-minded forward known for his tenacity and hustle."
   },
   {
     "id": 238,
-    "last_name": "Jackson",
-    "img": "/football/img/players/I Jackson.png",
-    "full_name": "Isaiah Jackson",
-    "team": "Retired",
+    "last_name": "Strus",
+    "img": "/basket/img/players/M Strus.png",
+    "full_name": "Max Strus",
+    "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Athletic forward-center with shot-blocking skills and potential."
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Three-point specialist with a smooth shooting stroke."
   },
   {
     "id": 239,
-    "last_name": "Nembhard",
-    "img": "/football/img/players/A Nembhard.png",
-    "full_name": "Andrew Nembhard",
-    "team": "Retired",
-    "nationality": "Canada",
-    "position": "Guard, Forward",
-    "description": "Playmaking guard with strong basketball IQ."
+    "last_name": "Okoro",
+    "img": "/basket/img/players/I Okoro.png",
+    "full_name": "Isaac Okoro",
+    "team": "Cleveland Cavaliers",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Young forward known for his defensive prowess and athleticism."
   },
   {
     "id": 240,
-    "last_name": "Plumlee",
-    "img": "/football/img/players/M Plumlee.png",
-    "full_name": "Mason Plumlee",
-    "team": "Retired",
+    "last_name": "C Porter",
+    "img": "/basket/img/players/C Porter.png",
+    "full_name": "Craig Porter",
+    "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Skilled forward-center with experience in the NBA."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Emerging talent with playmaking ability and basketball IQ."
   },
   {
     "id": 241,
-    "last_name": "Hyland",
-    "img": "/football/img/players/B Hyland.png",
-    "full_name": "Bones Hyland",
-    "team": "Retired",
+    "last_name": "Merrill",
+    "img": "/basket/img/players/S Merrill.png",
+    "full_name": "Sam Merrill",
+    "team": "Cleveland Cavaliers",
     "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Exciting young talent with scoring ability in basketball."
-  },
-  {
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Sharpshooter with a scoring touch from beyond the arc."
+},
+{
     "id": 242,
-    "last_name": "Theis",
-    "img": "/football/img/players/D Theis.png",
-    "full_name": "Daniel Theis",
-    "team": "Retired",
-    "nationality": "Germany",
-    "position": "Forward, Center",
-    "description": "Versatile forward-center with international experience."
-  },
-  {
-    "id": 243,
-    "last_name": "Vanderbilt",
-    "img": "/football/img/players/J Vanderbilt.png",
-    "full_name": "Jarred Vanderbilt",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Athletic forward-guard known for his hustle and rebounding."
-  },
-  {
-    "id": 244,
-    "last_name": "Wood",
-    "img": "/football/img/players/C Wood.png",
-    "full_name": "Christian Wood",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Center",
-    "description": "Talented forward-center with scoring and shot-blocking ability."
-  },
-  {
-    "id": 245,
-    "last_name": "Vincent",
-    "img": "/football/img/players/G Vincent.png",
-    "full_name": "Gabe Vincent",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Guard-forward known for three-point shooting and versatility."
-  },
-  {
-    "id": 246,
-    "last_name": "Prince",
-    "img": "/football/img/players/T Prince.png",
-    "full_name": "Taurean Prince",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Versatile player with scoring and defensive abilities."
-  },
-  {
-    "id": 247,
-    "last_name": "Clarke",
-    "img": "/football/img/players/B Clarke.png",
-    "full_name": "Brandon Clarke",
-    "team": "Retired",
+    "last_name": "Powell",
+    "img": "/basket/img/players/D Powell.png",
+    "full_name": "Dwight Powell",
+    "team": "Dallas Mavericks",
     "nationality": "Canada",
-    "position": "Forward, Center",
-    "description": "Athletic forward-center with shot-blocking skills and potential."
-  },
-  {
-    "id": 248,
-    "last_name": "Aldama",
-    "img": "/football/img/players/S Aldama.png",
-    "full_name": "Santi Aldama",
-    "team": "Retired",
-    "nationality": "Spain",
-    "position": "Forward, Center",
-    "description": "Promising forward-center with international experience."
-  },
-  {
-    "id": 249,
-    "last_name": "Kennard",
-    "img": "/football/img/players/L Kennard.png",
-    "full_name": "Luke Kennard",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Sharpshooting guard-forward with a versatile offensive game."
-  },
-  {
-    "id": 250,
-    "last_name": "Jaquez Jr",
-    "img": "/football/img/players/J Jaquez-Jr.png",
-    "full_name": "Jaime Jaquez Jr.",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Versatile player with strong work ethic in basketball."
-  },
-  {
-    "id": 251,
-    "last_name": "Jovic",
-    "img": "/football/img/players/N Jovic.png",
-    "full_name": "Nikola Jovic",
-    "team": "Retired",
-    "nationality": "Serbia",
-    "position": "Guard, Forward",
-    "description": "Talented international guard-forward with a bright future."
-  },
-  {
-    "id": 252,
-    "last_name": "Beauchamp",
-    "img": "/football/img/players/M Beauchamp.png",
-    "full_name": "MarJon Beauchamp",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Young talent with potential in the basketball world."
-  },
-  {
-    "id": 253,
-    "last_name": "Anderson",
-    "img": "/football/img/players/K Anderson.png",
-    "full_name": "Kyle Anderson",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Guard, Forward",
-    "description": "Versatile player known for playmaking and defensive skills."
-  },
-  {
-    "id": 254,
-    "last_name": "Brown Jr",
-    "img": "/football/img/players/T Brown-Jr.png",
-    "full_name": "Troy Brown Jr.",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Young talent with potential in the basketball world."
-  },
-  {
-    "id": 255,
-    "last_name": "Murphy III",
-    "img": "/football/img/players/T Murphy-III.png",
-    "full_name": "Trey Murphy III",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": "Forward, Guard",
-    "description": "Promising forward-guard with a bright future in the NBA."
-  },
-  {
-    "id": 256,
-    "last_name": "Jones",
-    "img": "/football/img/players/Jones.png",
-    "full_name": "Herbert Jones",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Versatile player known for defensive prowess and athleticism."
+    "positions": ["Center", " Power Forward"],
+    "description": "Canadian big man known for his athleticism and energy."
 },
 {
-    "id": 257,
-    "last_name": "Alvarado",
-    "img": "/football/img/players/Alvarado.png",
-    "full_name": "Jose Alvarado",
-    "team": "Retired",
+    "id": 243,
+    "last_name": "D Jones Jr",
+    "img": "/basket/img/players/D Jones Jr.png",
+    "full_name": "Derrick Jones Jr",
+    "team": "Dallas Mavericks",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Energetic point guard with exceptional ball-handling skills."
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "High-flying forward known for his dunks and defensive abilities."
 },
 {
-    "id": 258,
-    "last_name": "Nance Jr.",
-    "img": "/football/img/players/Nance.png",
-    "full_name": "Larry Nance Jr.",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Athletic forward known for shot-blocking and dunking ability."
-},
-{
-    "id": 259,
-    "last_name": "Marshall",
-    "img": "/football/img/players/Marshall.png",
-    "full_name": "Naji Marshall",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "All-around player with scoring and defensive capabilities."
-},
-{
-    "id": 260,
-    "last_name": "Daniels",
-    "img": "/football/img/players/Daniels.png",
-    "full_name": "Dyson Daniels",
-    "team": "Retired",
+    "id": 244,
+    "last_name": "Jo Green",
+    "img": "/basket/img/players/Jo Green.png",
+    "full_name": "Josh Green",
+    "team": "Dallas Mavericks",
     "nationality": "Australia",
-    "position": ["Guard"],
-    "description": "Young Australian guard with great potential and athleticism."
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Australian player with a versatile game and athleticism."
 },
 {
-    "id": 261,
-    "last_name": "Robinson-Earl",
-    "img": "/football/img/players/Robinson-Earl.png",
-    "full_name": "Jeremiah Robinson-Earl",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Skilled forward with a knack for rebounding and scoring."
-},
-{
-    "id": 262,
-    "last_name": "Hartenstein",
-    "img": "/football/img/players/Hartenstein.png",
-    "full_name": "Isaiah Hartenstein",
-    "team": "Retired",
+    "id": 245,
+    "last_name": "Kleber",
+    "img": "/basket/img/players/M Kleber.png",
+    "full_name": "Maxi Kleber",
+    "team": "Dallas Mavericks",
     "nationality": "Germany",
-    "position": ["Forward", "Center"],
-    "description": "Versatile big man with solid rebounding and shot-blocking skills."
+    "positions": ["Power Forward", " Center"],
+    "description": "German forward/center with shot-blocking and three-point shooting."
 },
 {
-    "id": 263,
-    "last_name": "Hart",
-    "img": "/football/img/players/Hart.png",
-    "full_name": "Josh Hart",
-    "team": "Retired",
+    "id": 246,
+    "last_name": "Watson",
+    "img": "/basket/img/players/P Watson.png",
+    "full_name": "Peyton Watson",
+    "team": "Denver Nuggets",
     "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Hardworking player known for hustle, rebounding, and defense."
-},
-{
-    "id": 264,
-    "last_name": "Grimes",
-    "img": "/football/img/players/Grimes.png",
-    "full_name": "Quentin Grimes",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Sharpshooting guard with a knack for hitting clutch shots."
-},
-{
-    "id": 265,
-    "last_name": "Achiuwa",
-    "img": "/football/img/players/Achiuwa.png",
-    "full_name": "Precious Achiuwa",
-    "team": "Retired",
-    "nationality": "Nigeria",
-    "position": ["Forward", "Center"],
-    "description": "Athletic forward/center known for his rim protection and rebounding."
-},
-{
-    "id": 266,
-    "last_name": "McBride",
-    "img": "/football/img/players/McBride.png",
-    "full_name": "Miles McBride",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Young and promising guard with a strong defensive presence."
-},
-{
-    "id": 267,
-    "last_name": "Joe",
-    "img": "/football/img/players/Joe.png",
-    "full_name": "Isaiah Joe",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Three-point specialist with a smooth shooting stroke."
-},
-{
-    "id": 268,
-    "last_name": "Wallace",
-    "img": "/football/img/players/Wallace.png",
-    "full_name": "Cason Wallace",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Highly touted young guard with great defensive skills."
-},
-{
-    "id": 269,
-    "last_name": "Wiggins",
-    "img": "/football/img/players/Wiggins.png",
-    "full_name": "Aaron Wiggins",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Versatile player with scoring ability and defensive prowess."
-},
-{
-    "id": 270,
-    "last_name": "Mann",
-    "img": "/football/img/players/Mann.png",
-    "full_name": "Tre Mann",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Young guard with great ball-handling skills and scoring ability."
-},
-{
-    "id": 271,
-    "last_name": "Williams",
-    "img": "/football/img/players/Williams.png",
-    "full_name": "Kenrich Williams",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Hustle player known for his rebounding and defensive efforts."
-},
-{
-    "id": 272,
-    "last_name": "Suggs",
-    "img": "/football/img/players/Suggs.png",
-    "full_name": "Jalen Suggs",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Talented young guard with a bright future in the NBA."
-},
-{
-    "id": 273,
-    "last_name": "Wagner",
-    "img": "/football/img/players/Wagner.png",
-    "full_name": "Moritz Wagner",
-    "team": "Retired",
-    "nationality": "Germany",
-    "position": ["Forward", "Center"],
-    "description": "Skilled big man with a soft touch and basketball IQ."
-},
-{
-    "id": 274,
-    "last_name": "Bitadze",
-    "img": "/football/img/players/Bitadze.png",
-    "full_name": "Goga Bitadze",
-    "team": "Retired",
-    "nationality": "Georgia",
-    "position": ["Center"],
-    "description": "Promising young center with shot-blocking ability."
-},
-{
-    "id": 275,
-    "last_name": "Black",
-    "img": "/football/img/players/Black.png",
-    "full_name": "Anthony Black",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Emerging talent known for his scoring and athleticism."
-},
-{
-    "id": 276,
-    "last_name": "Harris",
-    "img": "/football/img/players/Harris.png",
-    "full_name": "Gary Harris",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Veteran guard with a reputation for perimeter defense."
-},
-{
-    "id": 277,
-    "last_name": "Reed",
-    "img": "/football/img/players/Reed.png",
-    "full_name": "Paul Reed",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Young forward with a promising future in the NBA."
-},
-{
-    "id": 278,
-    "last_name": "Beverley",
-    "img": "/football/img/players/Beverley.png",
-    "full_name": "Patrick Beverley",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Tenacious defender and energy player in the backcourt."
-},
-{
-    "id": 279,
-    "last_name": "Morris Sr.",
-    "img": "/football/img/players/Morris.png",
-    "full_name": "Marcus Morris Sr.",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Versatile forward with scoring ability and toughness."
-},
-{
-    "id": 280,
-    "last_name": "Bamba",
-    "img": "/football/img/players/Bamba.png",
-    "full_name": "Mo Bamba",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Center"],
-    "description": "Shot-blocking specialist with tremendous defensive potential."
-},
-{
-    "id": 281,
-    "last_name": "Allen",
-    "img": "/football/img/players/Allen.png",
-    "full_name": "Grayson Allen",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Sharpshooting guard with a competitive edge and intensity."
-},
-{
-    "id": 282,
-    "last_name": "Bol",
-    "img": "/football/img/players/Bol.png",
-    "full_name": "Bol Bol",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward", "Center"],
-    "description": "Unique talent with great size and three-point shooting ability."
-},
-{
-    "id": 283,
-    "last_name": "Metu",
-    "img": "/football/img/players/Metu.png",
-    "full_name": "Chimezie Metu",
-    "team": "Retired",
-    "nationality": "Nigeria",
-    "position": ["Forward", "Center"],
-    "description": "Athletic forward/center with potential to impact both ends."
-},
-{
-    "id": 284,
-    "last_name": "Little",
-    "img": "/football/img/players/Little.png",
-    "full_name": "Nassir Little",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Young forward with defensive prowess and athleticism."
-},
-{
-    "id": 285,
-    "last_name": "Eubanks",
-    "img": "/football/img/players/Eubanks.png",
-    "full_name": "Drew Eubanks",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward", "Center"],
-    "description": "Physical forward/center with rebounding and defensive skills."
-},
-{
-    "id": 286,
-    "last_name": "Lee",
-    "img": "/football/img/players/Lee.png",
-    "full_name": "Damion Lee",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Reliable shooter with a scoring touch from the perimeter."
-},
-{
-    "id": 287,
-    "last_name": "Henderson",
-    "img": "/football/img/players/Henderson.png",
-    "full_name": "Scoot Henderson",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Exciting young guard known for his explosiveness and creativity."
-},
-{
-    "id": 288,
-    "last_name": "Thybulle",
-    "img": "/football/img/players/Thybulle.png",
-    "full_name": "Matisse Thybulle",
-    "team": "Retired",
-    "nationality": "Australia",
-    "position": ["Guard", "Forward"],
-    "description": "Elite defender with a knack for steals and blocks."
-},
-{
-    "id": 289,
-    "last_name": "Walker",
-    "img": "/football/img/players/Walker.png",
-    "full_name": "Jabari Walker",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
+    "positions": ["Small Forward"],
     "description": "Young forward with potential to impact both ends of the floor."
 },
 {
-    "id": 290,
-    "last_name": "McGee",
-    "img": "/football/img/players/McGee.png",
-    "full_name": "JaVale McGee",
-    "team": "Retired",
+    "id": 247,
+    "last_name": "Mo Morris",
+    "img": "/basket/img/players/Mo Morris.png",
+    "full_name": "Monte Morris",
+    "team": "Detroit Pistons",
     "nationality": "USA",
-    "position": ["Center"],
-    "description": "Athletic center known for shot-blocking and rim-running."
+    "positions": ["Point Guard"],
+    "description": "Skilled point guard known for his playmaking and ball-handling."
 },
 {
+    "id": 248,
+    "last_name": "Sasser",
+    "img": "/basket/img/players/M Sasser.png",
+    "full_name": "Marcus Sasser",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Talented guard with a scoring touch and defensive ability."
+},
+{
+    "id": 249,
+    "last_name": "Wiseman",
+    "img": "/basket/img/players/J Wiseman.png",
+    "full_name": "James Wiseman",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Center"],
+    "description": "Promising young center with shot-blocking and rebounding skills."
+},
+{
+    "id": 251,
+    "last_name": "I Stewart",
+    "img": "/basket/img/players/I Stewart.png",
+    "full_name": "Isaiah Stewart",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Center"],
+    "description": "Young big man with toughness and shot-blocking ability."
+},
+{
+    "id": 252,
+    "last_name": "Burks",
+    "img": "/basket/img/players/A Burks.png",
+    "full_name": "Alec Burks",
+    "team": "Detroit Pistons",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Versatile player known for scoring and perimeter shooting."
+},
+{
+    "id": 253,
+    "last_name": "K Hayes",
+    "img": "/basket/img/players/K Hayes.png",
+    "full_name": "Killian Hayes",
+    "team": "Detroit Pistons",
+    "nationality": "France",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "French guard with playmaking ability and defensive skills."
+},
+{
+    "id": 254,
+    "last_name": "Kuminga",
+    "img": "/basket/img/players/J Kuminga.png",
+    "full_name": "Jonathan Kuminga",
+    "team": "Golden State Warriors",
+    "nationality": "DR Congo",
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Young NBA player known for versatility and athleticism."
+},
+{
+    "id": 255,
+    "last_name": "Saric",
+    "img": "/basket/img/players/D Saric.png",
+    "full_name": "Dario Saric",
+    "team": "Golden State Warriors",
+    "nationality": "Croatia",
+    "positions": ["Power Forward", " Center"],
+    "description": "Skilled forward with international experience in the NBA."
+},
+{
+    "id": 256,
+    "last_name": "Podziemski",
+    "img": "/basket/img/players/B Podziemski.png",
+    "full_name": "Brandin Podziemski",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Emerging talent with potential in the basketball world."
+},
+{
+    "id": 257,
+    "last_name": "Jackson-D",
+    "img": "/basket/img/players/T Jackson-D.png",
+    "full_name": "Trayce Jackson-D",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Center"],
+    "description": "Skilled forward-center with a promising future in basketball."
+},
+{
+    "id": 258,
+    "last_name": "Moody",
+    "img": "/basket/img/players/M Moody.png",
+    "full_name": "Moses Moody",
+    "team": "Golden State Warriors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Young talent known for scoring and defensive abilities."
+},
+  {
+      "id": 259,
+      "last_name": "G Payton II",
+      "img": "/basket/img/players/G Payton II.png",
+      "full_name": "Gary Payton II",
+      "team": "Golden State Warriors",
+      "nationality": "USA",
+      "positions": ["Shooting Guard", " Small Forward"],
+      "description": "Versatile player with strong defensive skills and athleticism."
+  },
+  {
+      "id": 260,
+      "last_name": "Eason",
+      "img": "/basket/img/players/T Eason.png",
+      "full_name": "Tari Eason",
+      "team": "Houston Rockets",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Center"],
+      "description": "Emerging forward-center with potential in the NBA."
+  },
+  {
+      "id": 261,
+      "last_name": "A Thompson",
+      "img": "/basket/img/players/A Thompson.png",
+      "full_name": "Amen Thompson",
+      "team": "Houston Rockets",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Center"],
+      "description": "Young talent with a promising future in basketball."
+  },
+  {
+      "id": 262,
+      "last_name": "Je Green",
+      "img": "/basket/img/players/Je Green.png",
+      "full_name": "Jeff Green",
+      "team": "Houston Rockets",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Small Forward"],
+      "description": "Veteran forward known for versatility and experience."
+  },
+  {
+      "id": 263,
+      "last_name": "Whitmore",
+      "img": "/basket/img/players/C Whitmore.png",
+      "full_name": "Cam Whitmore",
+      "team": "Houston Rockets",
+      "nationality": "USA",
+      "positions": ["Small Forward", " Shooting Guard"],
+      "description": "Young guard-forward with potential in the basketball world."
+  },
+  {
+      "id": 264,
+      "last_name": "Tate",
+      "img": "/basket/img/players/J Tate.png",
+      "full_name": "Jae’Sean Tate",
+      "team": "Houston Rockets",
+      "nationality": "USA",
+      "positions": ["Small Forward", " Power Forward"],
+      "description": "Versatile player with a strong work ethic in basketball."
+  },
+  {
+      "id": 265,
+      "last_name": "Nesmith",
+      "img": "/basket/img/players/A Nesmith.png",
+      "full_name": "Aaron Nesmith",
+      "team": "Indiana Pacers",
+      "nationality": "USA",
+      "positions": ["Small Forward", " Shooting Guard"],
+      "description": "Sharpshooting wing with a bright future in the NBA."
+  },
+  {
+      "id": 266,
+      "last_name": "McConnell",
+      "img": "/basket/img/players/TJ McConnell.png",
+      "full_name": "TJ McConnell",
+      "team": "Indiana Pacers",
+      "nationality": "USA",
+      "positions": ["Point Guard", " Shooting Guard"],
+      "description": "Energetic guard known for playmaking and hustle on court."
+  },
+  {
+      "id": 267,
+      "last_name": "Ja Smith",
+      "img": "/basket/img/players/Ja Smith.png",
+      "full_name": "Jalen Smith",
+      "team": "Indiana Pacers",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Center"],
+      "description": "Young forward-center with potential in the basketball world."
+  },
+  {
+      "id": 268,
+      "last_name": "I Jackson",
+      "img": "/basket/img/players/I Jackson.png",
+      "full_name": "Isaiah Jackson",
+      "team": "Indiana Pacers",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Center"],
+      "description": "Athletic forward-center with shot-blocking skills and potential."
+  },
+  {
+      "id": 269,
+      "last_name": "Nembhard",
+      "img": "/basket/img/players/A Nembhard.png",
+      "full_name": "Andrew Nembhard",
+      "team": "Indiana Pacers",
+      "nationality": "Canada",
+      "positions": ["Point Guard", " Shooting Guard"],
+      "description": "Playmaking guard with strong basketball IQ."
+  },
+  {
+      "id": 270,
+      "last_name": "Plumlee",
+      "img": "/basket/img/players/M Plumlee.png",
+      "full_name": "Mason Plumlee",
+      "team": "Los Angeles Clippers",
+      "nationality": "USA",
+      "positions": ["Power Forward", " Center"],
+      "description": "Skilled forward-center with experience in the NBA."
+  },
+  {
+      "id": 271,
+      "last_name": "Hyland",
+      "img": "/basket/img/players/B Hyland.png",
+      "full_name": "Bones Hyland",
+      "team": "Los Angeles Clippers",
+      "nationality": "USA",
+      "positions": ["Shooting Guard", " Point Guard"],
+      "description": "Exciting young talent with scoring ability in basketball."
+  },
+  {
+      "id": 272,
+      "last_name": "Theis",
+      "img": "/basket/img/players/D Theis.png",
+      "full_name": "Daniel Theis",
+      "team": "Los Angeles Clippers",
+      "nationality": "Germany",
+      "positions": ["Power Forward", " Center"],
+      "description": "Versatile forward-center with international experience."
+  },
+  {
+      "id": 273,
+      "last_name": "Vanderbilt",
+      "img": "/basket/img/players/J Vanderbilt.png",
+      "full_name": "Jarred Vanderbilt",
+      "team": "Los Angeles Lakers",
+      "nationality": "USA",
+      "positions": ["Power Forward", "Small Forward"],
+      "description": "Athletic forward-guard known for his hustle and rebounding."
+  },
+  {
+      "id": 275,
+      "last_name": "G Vincent",
+      "img": "/basket/img/players/G Vincent.png",
+      "full_name": "Gabe Vincent",
+      "team": "Los Angeles Lakers",
+      "nationality": "USA",
+      "positions": ["Shooting Guard", " Point Guard"],
+      "description": "Guard-forward known for three-point shooting and versatility."
+  },
+  {
+      "id": 276,
+      "last_name": "Ta Prince",
+      "img": "/basket/img/players/Ta Prince.png",
+      "full_name": "Taurean Prince",
+      "team": "Los Angeles Lakers",
+      "nationality": "USA",
+      "positions": ["Small Forward", " Power Forward"],
+      "description": "Versatile player with scoring and defensive abilities."
+  },
+  {
+      "id": 278,
+      "last_name": "Aldama",
+      "img": "/basket/img/players/S Aldama.png",
+      "full_name": "Santi Aldama",
+      "team": "Memphis Grizzlies",
+      "nationality": "Spain",
+      "positions": ["Power Forward", " Center"],
+      "description": "Promising forward-center with international experience."
+  },
+  {
+    "id": 279,
+    "last_name": "Kennard",
+    "img": "/basket/img/players/L Kennard.png",
+    "full_name": "Luke Kennard",
+    "team": "Memphis Grizzlies",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Sharpshooting guard-forward with a versatile offensive game."
+  },
+  {
+    "id": 280,
+    "last_name": "J Jaquez Jr",
+    "img": "/basket/img/players/J Jaquez Jr.png",
+    "full_name": "Jaime Jaquez Jr",
+    "team": "Miami Heat",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Versatile player with a strong work ethic in basketball."
+  },
+  {
+    "id": 281,
+    "last_name": "Jovic",
+    "img": "/basket/img/players/N Jovic.png",
+    "full_name": "Nikola Jovic",
+    "team": "Miami Heat",
+    "nationality": "Serbia",
+    "positions": ["Center", " Power Forward"],
+    "description": "Talented international guard-forward with a bright future."
+  },
+  {
+    "id": 282,
+    "last_name": "Beauchamp",
+    "img": "/basket/img/players/M Beauchamp.png",
+    "full_name": "MarJon Beauchamp",
+    "team": "Milwaukee Bucks",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Young talent with potential in the basketball world."
+  },
+  {
+    "id": 283,
+    "last_name": "Anderson",
+    "img": "/basket/img/players/K Anderson.png",
+    "full_name": "Kyle Anderson",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Versatile player known for playmaking and defensive skills."
+  },
+  {
+    "id": 284,
+    "last_name": "T Brown Jr",
+    "img": "/basket/img/players/T Brown Jr.png",
+    "full_name": "Troy Brown Jr.",
+    "team": "Minnesota Timberwolves",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Young talent with potential in the basketball world."
+  },
+  {
+    "id": 285,
+    "last_name": "T Murphy III",
+    "img": "/basket/img/players/T Murphy III.png",
+    "full_name": "Trey Murphy III",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Promising forward-guard with a bright future in the NBA."
+  },
+  {
+    "id": 287,
+    "last_name": "Alvarado",
+    "img": "/basket/img/players/J Alvarado.png",
+    "full_name": "Jose Alvarado",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Energetic point guard with exceptional ball-handling skills."
+  },
+  {
+    "id": 288,
+    "last_name": "Nance Jr",
+    "img": "/basket/img/players/L Nance Jr.png",
+    "full_name": "Larry Nance Jr",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Center"],
+    "description": "Athletic forward known for shot-blocking and dunking ability."
+  },
+  {
+    "id": 289,
+    "last_name": "Marshall",
+    "img": "/basket/img/players/N Marshall.png",
+    "full_name": "Naji Marshall",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "All-around player with scoring and defensive capabilities."
+  },
+  {
+    "id": 290,
+    "last_name": "Daniels",
+    "img": "/basket/img/players/D Daniels.png",
+    "full_name": "Dyson Daniels",
+    "team": "New Orleans Pelicans",
+    "nationality": "Australia",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Young Australian guard with great potential and athleticism."
+  },
+  {
     "id": 291,
-    "last_name": "Vezenkov",
-    "img": "/football/img/players/Vezenkov.png",
-    "full_name": "Sasha Vezenkov",
-    "team": "Retired",
-    "nationality": "Bulgaria",
-    "position": ["Forward"],
-    "description": "Skilled forward with a versatile offensive game."
-},
-{
+    "last_name": "Robinson-E",
+    "img": "/basket/img/players/J Robinson-E.png",
+    "full_name": "Jeremiah Robinson-E",
+    "team": "New Orleans Pelicans",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Center"],
+    "description": "Skilled forward with a knack for rebounding and scoring."
+  },
+  {
     "id": 292,
-    "last_name": "Sochan",
-    "img": "/football/img/players/Sochan.png",
-    "full_name": "Jeremy Sochan",
-    "team": "Retired",
-    "nationality": "United Kingdom",
-    "position": ["Forward", "Guard"],
-    "description": "Talented British forward/guard with a bright future."
-},
-{
+    "last_name": "Hartenstein",
+    "img": "/basket/img/players/I Hartenstein.png",
+    "full_name": "Isaiah Hartenstein",
+    "team": "New York Knicks",
+    "nationality": "Germany",
+    "positions": ["Center", " Power Forward"],
+    "description": "Versatile big man with solid rebounding and shot-blocking skills."
+  },
+  {
     "id": 293,
-    "last_name": "Bassey",
-    "img": "/football/img/players/Bassey.png",
-    "full_name": "Charles Bassey",
-    "team": "Retired",
-    "nationality": "Nigeria",
-    "position": ["Forward", "Center"],
-    "description": "Nigerian big man with great potential in the paint."
-},
+    "last_name": "Hart",
+    "img": "/basket/img/players/J Hart.png",
+    "full_name": "Josh Hart",
+    "team": "New York Knicks",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Hardworking player known for hustle, rebounding, and defense."
+  },
 {
     "id": 294,
-    "last_name": "Graham",
-    "img": "/football/img/players/Graham.png",
-    "full_name": "Devonte’ Graham",
-    "team": "Retired",
+    "last_name": "Grimes",
+    "img": "/basket/img/players/Q Grimes.png",
+    "full_name": "Quentin Grimes",
+    "team": "New York Knicks",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Crafty guard with a knack for scoring and playmaking."
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Sharpshooting guard with a knack for hitting clutch shots."
 },
 {
     "id": 295,
-    "last_name": "Brown",
-    "img": "/football/img/players/Brown.png",
-    "full_name": "Bruce Brown",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Versatile player known for defensive intensity and hustle."
+    "last_name": "Achiuwa",
+    "img": "/basket/img/players/P Achiuwa.png",
+    "full_name": "Precious Achiuwa",
+    "team": "New York Knicks",
+    "nationality": "Nigeria",
+    "positions": ["Power Forward", " Center"],
+    "description": "Athletic forward/center known for his rim protection and rebounding."
 },
 {
     "id": 296,
-    "last_name": "Trent Jr.",
-    "img": "/football/img/players/Trent.png",
-    "full_name": "Gary Trent Jr.",
-    "team": "Retired",
+    "last_name": "M McBride",
+    "img": "/basket/img/players/M McBride.png",
+    "full_name": "Miles McBride",
+    "team": "New York Knicks",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Sharpshooting guard with a knack for scoring from beyond the arc."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Young and promising guard with a strong defensive presence."
 },
 {
     "id": 297,
-    "last_name": "Nwora",
-    "img": "/football/img/players/Nwora.png",
-    "full_name": "Jordan Nwora",
-    "team": "Retired",
-    "nationality": "Nigeria",
-    "position": ["Forward"],
-    "description": "Talented forward with scoring ability and versatility."
+    "last_name": "Joe",
+    "img": "/basket/img/players/I Joe.png",
+    "full_name": "Isaiah Joe",
+    "team": "Oklahoma City Thunder",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Three-point specialist with a smooth shooting stroke."
 },
 {
     "id": 298,
-    "last_name": "Olynyk",
-    "img": "/football/img/players/Olynyk.png",
-    "full_name": "Kelly Olynyk",
-    "team": "Retired",
-    "nationality": "Canada",
-    "position": ["Forward", "Center"],
-    "description": "Skilled big man known for three-point shooting and passing."
+    "last_name": "Wallace",
+    "img": "/basket/img/players/C Wallace.png",
+    "full_name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Point Guard"],
+    "description": "Highly touted young guard with great defensive skills."
 },
 {
     "id": 299,
-    "last_name": "George",
-    "img": "/football/img/players/George.png",
-    "full_name": "Keyonte George",
-    "team": "Retired",
+    "last_name": "Wiggins",
+    "img": "/basket/img/players/Aa Wiggins.png",
+    "full_name": "Aaron Wiggins",
+    "team": "Oklahoma City Thunder",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Highly touted young guard with scoring and playmaking skills."
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Versatile player with scoring ability and defensive prowess."
 },
 {
     "id": 300,
-    "last_name": "Agbaji",
-    "img": "/football/img/players/Agbaji.png",
-    "full_name": "Ochai Agbaji",
-    "team": "Retired",
+    "last_name": "Mann",
+    "img": "/basket/img/players/T Mann.png",
+    "full_name": "Tre Mann",
+    "team": "Oklahoma City Thunder",
     "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Versatile player known for athleticism and defensive prowess."
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Young guard with great ball-handling skills and scoring ability."
 },
 {
     "id": 301,
-    "last_name": "Horton-Tucker",
-    "img": "/football/img/players/Horton-Tucker.png",
-    "full_name": "Talen Horton-Tucker",
-    "team": "Retired",
+    "last_name": "Williams",
+    "img": "/basket/img/players/K Williams.png",
+    "full_name": "Kenrich Williams",
+    "team": "Oklahoma City Thunder",
     "nationality": "USA",
-    "position": ["Guard", "Forward"],
-    "description": "Young and promising guard/forward with a bright future."
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Hustle player known for his rebounding and defensive efforts."
 },
 {
     "id": 302,
-    "last_name": "Fontecchio",
-    "img": "/football/img/players/Fontecchio.png",
-    "full_name": "Simone Fontecchio",
-    "team": "Retired",
-    "nationality": "Italy",
-    "position": ["Forward"],
-    "description": "Italian forward with an all-around game and basketball IQ."
+    "last_name": "Suggs",
+    "img": "/basket/img/players/J Suggs.png",
+    "full_name": "Jalen Suggs",
+    "team": "Orlando Magic",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Talented young guard with a bright future in the NBA."
 },
 {
     "id": 303,
-    "last_name": "Yurtseven",
-    "img": "/football/img/players/Yurtseven.png",
-    "full_name": "Omer Yurtseven",
-    "team": "Retired",
-    "nationality": "Turkey",
-    "position": ["Center"],
-    "description": "Turkish big man with scoring and rebounding ability."
+    "last_name": "Wagner",
+    "img": "/basket/img/players/M Wagner.png",
+    "full_name": "Moritz Wagner",
+    "team": "Orlando Magic",
+    "nationality": "Germany",
+    "positions": ["Center", " Power Forward"],
+    "description": "Skilled big man with a soft touch and basketball IQ."
 },
 {
     "id": 304,
-    "last_name": "Kispert",
-    "img": "/football/img/players/Kispert.png",
-    "full_name": "Corey Kispert",
-    "team": "Retired",
-    "nationality": "USA",
-    "position": ["Forward"],
-    "description": "Sharpshooter with a deadly three-point shot and basketball IQ."
+    "last_name": "Bitadze",
+    "img": "/basket/img/players/G Bitadze.png",
+    "full_name": "Goga Bitadze",
+    "team": "Orlando Magic",
+    "nationality": "Georgia",
+    "positions": ["Center", " Power Forward"],
+    "description": "Promising young center with shot-blocking ability."
 },
 {
     "id": 305,
-    "last_name": "Coulibaly",
-    "img": "/football/img/players/Coulibaly.png",
-    "full_name": "Bilal Coulibaly",
-    "team": "Retired",
-    "nationality": "France",
-    "position": ["Forward"],
-    "description": "French forward with athleticism and defensive skills."
-},
-{
-    "id": 306,
-    "last_name": "Diallo",
-    "img": "/football/img/players/Diallo.png",
-    "full_name": "Hamidou Diallo",
-    "team": "Retired",
+    "last_name": "Black",
+    "img": "/basket/img/players/A Black.png",
+    "full_name": "Anthony Black",
+    "team": "Orlando Magic",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Athletic guard known for his dunking and defensive prowess."
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Emerging talent known for his scoring and athleticism."
 },
 {
     "id": 307,
-    "last_name": "Wright",
-    "img": "/football/img/players/Wright.png",
-    "full_name": "Delon Wright",
-    "team": "Retired",
+    "last_name": "Reed",
+    "img": "/basket/img/players/P Reed.png",
+    "full_name": "Paul Reed",
+    "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "position": ["Guard"],
-    "description": "Experienced guard with playmaking and defensive skills."
+    "positions": ["Power Forward", " Center"],
+    "description": "Young forward with a promising future in the NBA."
 },
 {
     "id": 308,
-    "last_name": "Shamet",
-    "img": "/football/img/players/Shamet.png",
-    "full_name": "Landry Shamet",
-    "team": "Retired",
+    "last_name": "Beverley",
+    "img": "/basket/img/players/P Beverley.png",
+    "full_name": "Patrick Beverley",
+    "team": "Philadelphia 76ers",
     "nationality": "USA",
-    "position": ["Guard"],
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Tenacious defender and energy player in the backcourt."
+},
+{
+    "id": 309,
+    "last_name": "Ma Morris Sr",
+    "img": "/basket/img/players/Ma Morris Sr.png",
+    "full_name": "Marcus Morris Sr",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Small Forward"],
+    "description": "Versatile forward with scoring ability and toughness."
+},
+{
+    "id": 310,
+    "last_name": "Bamba",
+    "img": "/basket/img/players/M Bamba.png",
+    "full_name": "Mo Bamba",
+    "team": "Philadelphia 76ers",
+    "nationality": "USA",
+    "positions": ["Center", " Power Forward"],
+    "description": "Shot-blocking specialist with tremendous defensive potential."
+},
+{
+    "id": 311,
+    "last_name": "Allen",
+    "img": "/basket/img/players/G Allen.png",
+    "full_name": "Grayson Allen",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Sharpshooting guard with a competitive edge and intensity."
+},
+{
+    "id": 312,
+    "last_name": "Bol",
+    "img": "/basket/img/players/B Bol.png",
+    "full_name": "Bol Bol",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Center", " Power Forward"],
+    "description": "Unique talent with great size and three-point shooting ability."
+},
+{
+    "id": 313,
+    "last_name": "Metu",
+    "img": "/basket/img/players/C Metu.png",
+    "full_name": "Chimezie Metu",
+    "team": "Phoenix Suns",
+    "nationality": "Nigeria",
+    "positions": ["Power Forward", " Center"],
+    "description": "Athletic forward/center with potential to impact both ends."
+},
+{
+    "id": 314,
+    "last_name": "N Little",
+    "img": "/basket/img/players/N Little.png",
+    "full_name": "Nassir Little",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Young forward with defensive prowess and athleticism."
+},
+{
+    "id": 315,
+    "last_name": "Eubanks",
+    "img": "/basket/img/players/D Eubanks.png",
+    "full_name": "Drew Eubanks",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Power Forward", " Center"],
+    "description": "Physical forward/center with rebounding and defensive skills."
+},
+{
+    "id": 316,
+    "last_name": "Dam Lee",
+    "img": "/basket/img/players/Dam Lee.png",
+    "full_name": "Damion Lee",
+    "team": "Phoenix Suns",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Reliable shooter with a scoring touch from the perimeter."
+},
+{
+    "id": 317,
+    "last_name": "S Henderson",
+    "img": "/basket/img/players/S Henderson.png",
+    "full_name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Exciting young guard known for his explosiveness and creativity."
+},
+{
+    "id": 318,
+    "last_name": "Thybulle",
+    "img": "/basket/img/players/M Thybulle.png",
+    "full_name": "Matisse Thybulle",
+    "team": "Portland Trail Blazers",
+    "nationality": "Australia",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Elite defender with a knack for steals and blocks."
+},
+{
+    "id": 319,
+    "last_name": "J Walker",
+    "img": "/basket/img/players/J Walker.png",
+    "full_name": "Jabari Walker",
+    "team": "Portland Trail Blazers",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Young forward with potential to impact both ends of the floor."
+},
+{
+    "id": 321,
+    "last_name": "Vezenkov",
+    "img": "/basket/img/players/S Vezenkov.png",
+    "full_name": "Sasha Vezenkov",
+    "team": "Sacramento Kings",
+    "nationality": "Bulgaria",
+    "positions": ["Small Forward", " Power Forward"],
+    "description": "Skilled forward with a versatile offensive game."
+},
+{
+    "id": 322,
+    "last_name": "Sochan",
+    "img": "/basket/img/players/J Sochan.png",
+    "full_name": "Jeremy Sochan",
+    "team": "San Antonio Spurs",
+    "nationality": "Poland",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Talented British forward/guard with a bright future."
+},
+{
+    "id": 323,
+    "last_name": "Bassey",
+    "img": "/basket/img/players/C Bassey.png",
+    "full_name": "Charles Bassey",
+    "team": "San Antonio Spurs",
+    "nationality": "Nigeria",
+    "positions": ["Center", " Power Forward"],
+    "description": "Nigerian big man with great potential in the paint."
+},
+{
+    "id": 324,
+    "last_name": "D Graham",
+    "img": "/basket/img/players/D Graham.png",
+    "full_name": "Devonte’ Graham",
+    "team": "San Antonio Spurs",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Crafty guard with a knack for scoring and playmaking."
+},
+{
+    "id": 325,
+    "last_name": "B Brown",
+    "img": "/basket/img/players/B Brown.png",
+    "full_name": "Bruce Brown",
+    "team": "Toronto Raptors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Versatile player known for defensive intensity and hustle."
+},
+{
+    "id": 326,
+    "last_name": "G Trent Jr",
+    "img": "/basket/img/players/G Trent Jr.png",
+    "full_name": "Gary Trent Jr",
+    "team": "Toronto Raptors",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Sharpshooting guard with a knack for scoring from beyond the arc."
+},
+{
+    "id": 327,
+    "last_name": "Nwora",
+    "img": "/basket/img/players/J Nwora.png",
+    "full_name": "Jordan Nwora",
+    "team": "Toronto Raptors",
+    "nationality": "Nigeria",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Talented forward with scoring ability and versatility."
+},
+{
+    "id": 328,
+    "last_name": "Olynyk",
+    "img": "/basket/img/players/K Olynyk.png",
+    "full_name": "Kelly Olynyk",
+    "team": "Utah Jazz",
+    "nationality": "Canada",
+    "positions": ["Power Forward", " Center"],
+    "description": "Skilled big man known for three-point shooting and passing."
+},
+{
+    "id": 329,
+    "last_name": "K George",
+    "img": "/basket/img/players/K George.png",
+    "full_name": "Keyonte George",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Point Guard"],
+    "description": "Highly touted young guard with scoring and playmaking skills."
+},
+{
+    "id": 330,
+    "last_name": "Agbaji",
+    "img": "/basket/img/players/O Agbaji.png",
+    "full_name": "Ochai Agbaji",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Versatile player known for athleticism and defensive prowess."
+},
+{
+    "id": 331,
+    "last_name": "Horton-T",
+    "img": "/basket/img/players/T Horton-T.png",
+    "full_name": "Talen Horton-T",
+    "team": "Utah Jazz",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Young and promising guard/forward with a bright future."
+},
+{
+    "id": 332,
+    "last_name": "Fontecchio",
+    "img": "/basket/img/players/S Fontecchio.png",
+    "full_name": "Simone Fontecchio",
+    "team": "Utah Jazz",
+    "nationality": "Italy",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Italian forward with an all-around game and basketball IQ."
+},
+{
+    "id": 333,
+    "last_name": "Yurtseven",
+    "img": "/basket/img/players/O Yurtseven.png",
+    "full_name": "Omer Yurtseven",
+    "team": "Utah Jazz",
+    "nationality": "Turkey",
+    "positions": ["Center", " Power Forward"],
+    "description": "Turkish big man with scoring and rebounding ability."
+},
+{
+    "id": 334,
+    "last_name": "Kispert",
+    "img": "/basket/img/players/C Kispert.png",
+    "full_name": "Corey Kispert",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Small Forward", " Shooting Guard"],
+    "description": "Sharpshooter with a deadly three-point shot and basketball IQ."
+},
+{
+    "id": 335,
+    "last_name": "Coulibaly",
+    "img": "/basket/img/players/B Coulibaly.png",
+    "full_name": "Bilal Coulibaly",
+    "team": "Washington Wizards",
+    "nationality": "France",
+    "positions": ["Power Forward", " Center"],
+    "description": "French forward with athleticism and defensive skills."
+},
+{
+    "id": 336,
+    "last_name": "Diallo",
+    "img": "/basket/img/players/H Diallo.png",
+    "full_name": "Hamidou Diallo",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Small Forward"],
+    "description": "Athletic guard known for his dunking and defensive prowess."
+},
+{
+    "id": 337,
+    "last_name": "D Wright",
+    "img": "/basket/img/players/D Wright.png",
+    "full_name": "Delon Wright",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Point Guard", " Shooting Guard"],
+    "description": "Experienced guard with playmaking and defensive skills."
+},
+{
+    "id": 338,
+    "last_name": "Shamet",
+    "img": "/basket/img/players/L Shamet.png",
+    "full_name": "Landry Shamet",
+    "team": "Washington Wizards",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Point Guard"],
     "description": "Sharpshooting guard with a quick release and offensive skills."
 }
 ]

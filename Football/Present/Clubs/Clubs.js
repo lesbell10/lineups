@@ -482,7 +482,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "11") {
         STC.textContent = "Hojlund"
-        FR.textContent = "Sancho"
+        FR.textContent = "Antony M"
         AMC.textContent = "B Fernandes"
         FL.textContent = "Rashford"
         CMR.textContent = "Eriksen"
@@ -616,7 +616,7 @@ function updatePlayerInfo() {
         });
     }
     if (selectedYear == "7") {
-        STC.textContent = "La Martinez"
+        STC.textContent = "L Martinez"
         FR.textContent = "Cuadrado"
         AMC.textContent = "Mkhitaryan"
         FL.textContent = "M Thuram"
@@ -1260,7 +1260,7 @@ const updateDropdown = () => {
 
     if (selectedYear == "11") {
         STC.textContent = "Hojlund"
-        FR.textContent = "Sancho"
+        FR.textContent = "Antony M"
         AMC.textContent = "B Fernandes"
         FL.textContent = "Rashford"
         CMR.textContent = "Eriksen"
@@ -1394,7 +1394,7 @@ const updateDropdown = () => {
         });
     }
     if (selectedYear == "7") {
-        STC.textContent = "La Martinez"
+        STC.textContent = "L Martinez"
         FR.textContent = "Cuadrado"
         AMC.textContent = "Mkhitaryan"
         FL.textContent = "M Thuram"

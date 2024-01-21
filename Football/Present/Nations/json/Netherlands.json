@@ -46,7 +46,7 @@
         "birth_date": "31-05-1997",
 
         "position": "Forward",
-        "team": "Villarreal CF",
+        "team": "Villarreal",
         "nationality": "Netherlands",
         "height": "6'1\"",
         "description": "Winger known for his speed and dribbling skills."
@@ -88,7 +88,7 @@
         "team": "Bayer Leverkusen",
         "nationality": "Netherlands",
         "height": "5'7\"",
-        "description": "right back with speed and attacking prowess."
+        "description": "Right back with speed and attacking prowess."
     },
     {
         "id": 8,

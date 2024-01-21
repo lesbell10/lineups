@@ -786,7 +786,7 @@
    "id": 75,
    "last_name": "Vicente",
    "img": "/football/img/players/Vicente.webp",
-   "full_name": "Vicente Rodríguez",
+   "full_name": "Vicente Rodriguez",
    "birth_date": "16-07-1981",
 
    "position": "Left Winger",
@@ -1411,7 +1411,7 @@
    "id": 138,
    "last_name": "Hyypia",
    "img": "/football/img/players/Hyypia.webp",
-   "full_name": "Sami Hyypiä",
+   "full_name": "Sami Hyypia",
    "birth_date": "07-10-1973",
 
    "position": "Centre Back",
@@ -2276,7 +2276,7 @@
     "team": "Retired",
     "nationality": "England",
     "height": "6'0\"",
-    "description": "Prolific English goal scorer, prominent in the Premier League."
+    "description": "Prolific English goalscorer, prominent in the Premier League."
   },
   {
     "id": 216,
@@ -2425,7 +2425,7 @@
     "id": 227,
     "last_name": "Ivanovic",
     "img": "/football/img/players/Ivanovic.webp",
-    "full_name": "Branislav Ivanović",
+    "full_name": "Branislav Ivanovic",
     "birth_date": "22-02-1984",
 
     "position": "Centre Back, Right Back",
@@ -2536,7 +2536,7 @@
     "team": "Retired",
     "nationality": "England",
     "height": "5'9\"",
-    "description": "Prolific English striker, Arsenal's all-time leading goal scorer."
+    "description": "Prolific English striker, Arsenal's all-time leading goalscorer."
   },
   {
     "id": 237,
@@ -2907,7 +2907,7 @@
   "id": 271,
   "last_name": "Salgado",
   "img": "/football/img/players/Salgado.webp",
-  "full_name": "Míchel Salgado",
+  "full_name": "Michel Salgado",
   "team": "Retired",
   "nationality": "Spain",
   "position": "Right Back",
@@ -3308,7 +3308,7 @@
   "last_name": "Gotze",
   "img": "/football/img/players/Gotze.webp",
   "full_name": "Mario Gotze",
-  "team": "Frankfurt",
+  "team": "Eintracht Frankfurt",
   "nationality": "Germany",
   "position": "Attacking Midfielder",
   "description": "German attacking midfielder known for scoring the World Cup-winning goal in 2014."
@@ -3371,7 +3371,7 @@
   "team": "Wolves",
   "nationality": "Portuguese",
   "position": "Right Back",
-  "description": "Portuguese eight back known for speed and defensive skills."
+  "description": "Portuguese right back known for speed and defensive skills."
 },
 {
   "id": 325,
@@ -3450,7 +3450,7 @@
     "full_name": "Stefan Ortega",
     "team": "Manchester City",
     "nationality": "Germany",
-    "position": "Goalkeper",
+    "position": "Goalkeeper",
     "description": "A skilled, agile, German goalkeeper"
   },
   {
@@ -3477,7 +3477,7 @@
     "id": 336,
     "last_name": "Joselu",
     "img": "/football/img/players/Joselu.webp",
-    "full_name": "Joselu Sanmartín",
+    "full_name": "Joselu Sanmartin",
     "team": "Real Madrid",
     "nationality": "Spain",
     "position": "Striker",
@@ -4328,7 +4328,7 @@
     "last_name": "Ben Seghir",
     "img": "/football/img/players/Ben Seghir.webp",
     "full_name": "Eliesse Ben Seghir",
-    "team": "AS Monaco",
+    "team": "Monaco",
     "nationality": "France",
     "position": "Attacking Midfielder",
     "description": "Young talent, technical, midfield prospect"
@@ -4385,9 +4385,9 @@
   },
   {
     "id": 432,
-    "last_name": "Guéhi",
+    "last_name": "Guehi",
     "img": "/football/img/players/Guehi.webp",
-    "full_name": "Marc Guéhi",
+    "full_name": "Marc Guehi",
     "team": "Crystal Palace",
     "nationality": "England",
     "position": "Centre Back",
@@ -4401,7 +4401,7 @@
     "team": "Galatasaray",
     "nationality": "Ivory Coast",
     "position": "Forward",
-    "description": "Pacy winger, skillful dribbler, goal scorer"
+    "description": "Pacy winger, skillful dribbler, goalscorer"
   },
   {
     "id": 433,
@@ -4508,7 +4508,7 @@
     "last_name": "Wimmer",
     "img": "/football/img/players/Wimmer.webp",
     "full_name": "Patrick Wimmer",
-    "team": "VfL Wolfsburg",
+    "team": "Wolfsburg",
     "nationality": "Austria",
     "position": "Right Winger",
     "description": "Versatile winger, good pace, technical skill"
@@ -4528,7 +4528,7 @@
     "last_name": "Koopmeiners",
     "img": "/football/img/players/Koopmeiners.webp",
     "full_name": "Teun Koopmeiners",
-    "team": "Atalanta BC",
+    "team": "Atalanta",
     "nationality": "Netherlands",
     "position": "Defensive Midfielder",
     "description": "Talented midfielder, good vision, leadership qualities"
@@ -4704,5 +4704,3265 @@
     "nationality": "Spain",
     "position": "Goalkeeper",
     "description": "Spanish goalkeeper, known for his time at Valencia."
-  }
+  },
+  {
+    "id": 464,
+    "last_name": "J Gaya",
+    "img": "/football/img/players/J Gaya.webp",
+    "full_name": "Jose Gaya",
+    "team": "Valencia",
+    "nationality": "Spain",
+    "position": "Left Back",
+    "description": "Skillful Spanish left back with strong defense"
+},
+{
+    "id": 465,
+    "last_name": "Isak",
+    "img": "/football/img/players/Isak.webp",
+    "full_name": "Alexander Isak",
+    "team": "Newcastle United",
+    "nationality": "Sweden",
+    "position": "Striker",
+    "description": "Swedish striker excelling in goal-scoring prowess."
+},
+{
+    "id": 466,
+    "last_name": "L Alberto",
+    "img": "/football/img/players/L Alberto.webp",
+    "full_name": "Luis Alberto",
+    "team": "Lazio",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Creative, skilled Spanish midfielder, great passer."
+},
+{
+    "id": 467,
+    "last_name": "Zaccagni",
+    "img": "/football/img/players/Zaccagni.webp",
+    "full_name": "Mattia Zaccagni",
+    "team": "Lazio",
+    "nationality": "Italy",
+    "position": "Left Winger",
+    "description": "Dynamic midfielder, shines with creativity and energy"
+},
+{
+    "id": 468,
+    "last_name": "Kobel",
+    "img": "/football/img/players/Kobel.webp",
+    "full_name": "Gregor Kobel",
+    "team": "Borussia Dortmund",
+    "nationality": "Switzerland",
+    "position": "Goalkeeper",
+    "description": "Shot-stopping Swiss goalkeeper for Borussia Dortmund."
+},
+{
+    "id": 469,
+    "last_name": "Canales",
+    "img": "/football/img/players/Canales.webp",
+    "full_name": "Sergio Canales",
+    "team": "Real Betis",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "description": "Spanish midfielder, excellent dribbling, playmaker."
+},
+{
+    "id": 470,
+    "last_name": "Taremi",
+    "img": "/football/img/players/Taremi.webp",
+    "full_name": "Mehdi Taremi",
+    "team": "Porto",
+    "nationality": "Iran",
+    "position": "Striker",
+    "description": "Goal-scoring Iranian striker, highly effective."
+},
+{
+    "id": 472,
+    "last_name": "I Williams",
+    "img": "/football/img/players/I Williams.webp",
+    "full_name": "Inaki Williams",
+    "team": "Athletic Bilbao",
+    "nationality": "Spain",
+    "position": "Forward",
+    "description": "Athletic Bilbao's fast, versatile Spanish forward."
+},
+{
+    "id": 473,
+    "last_name": "Dunk",
+    "img": "/football/img/players/Dunk.webp",
+    "full_name": "Lewis Dunk",
+    "team": "Brighton",
+    "nationality": "England",
+    "position": "Centre Back",
+    "description": "English defender known for his aerial prowess and leadership."
+},
+{
+    "id": 474,
+    "last_name": "Brandt",
+    "img": "/football/img/players/Brandt.webp",
+    "full_name": "Julian Brandt",
+    "team": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "Attacking Midfielder",
+    "description": "Visionary German midfielder at Borussia Dortmund, accurate passer."
+},
+{
+    "id": 475,
+    "last_name": "Coates",
+    "img": "/football/img/players/Coates.webp",
+    "full_name": "Sebastian Coates",
+    "team": "Sporting Lisbon",
+    "nationality": "Uruguay",
+    "position": "Centre Back",
+    "description": "Uruguayan centre back at Sporting Lisbon, skilled leader."
+},
+{
+    "id": 476,
+    "last_name": "Horta",
+    "img": "/football/img/players/Horta.webp",
+    "full_name": "Ricardo Horta",
+    "team": "Braga",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "description": "Portuguese forward at Braga, skilled dribbler, crosser."
+},
+{
+    "id": 477,
+    "last_name": "Joelinton",
+    "img": "/football/img/players/Joelinton.webp",
+    "full_name": "Joelinton Cassio ",
+    "team": "Newcastle United",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "description": " Brazilian attacking midfielder, physical, hard-working."
+},
+{
+    "id": 478,
+    "last_name": "Zouma",
+    "img": "/football/img/players/Zouma.webp",
+    "full_name": "Kurt Zouma",
+    "team": "West Ham United",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "French centre back, athleticism, strength."
+},
+{
+    "id": 479,
+    "last_name": "Wilson",
+    "img": "/football/img/players/Wilson.webp",
+    "full_name": "Callum Wilson",
+    "team": "Newcastle United",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "Clinical English striker in prime at Newcastle."
+},
+{
+    "id": 480,
+    "last_name": "Aspas",
+    "img": "/football/img/players/Aspas.webp",
+    "full_name": "Iago Aspas",
+    "team": "Celta de Vigo",
+    "nationality": "Spain",
+    "position": "Forward",
+    "description": "Agile Spanish forward, goal-scoring prowess."
+},
+{
+    "id": 481,
+    "last_name": "Merino",
+    "img": "/football/img/players/Merino.webp",
+    "full_name": "Mikel Merino",
+    "team": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Spanish midfielder, admired for passing, vision."
+},
+{
+    "id": 482,
+    "last_name": "F Anderson",
+    "img": "/football/img/players/F Anderson.webp",
+    "full_name": "Felipe Anderson",
+    "team": "Lazio",
+    "nationality": "Brazil",
+    "position": "Right Winger",
+    "description": "Creative Brazilian winger, excellent dribbler."
+},
+{
+    "id": 483,
+    "last_name": "Ward-Prowse",
+    "img": "/football/img/players/Ward-Prowse.webp",
+    "full_name": "James Ward-Prowse",
+    "team": "West Ham United",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "Set-piece expert, hard-working English midfielder."
+},
+{
+    "id": 484,
+    "last_name": "Sarabia",
+    "img": "/football/img/players/Sarabia.webp",
+    "full_name": "Pablo Sarabia",
+    "team": "Wolves",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "description": "Spanish winger, excellent passing abilities."
+},
+{
+    "id": 485,
+    "last_name": "K Tierney",
+    "img": "/football/img/players/K Tierney.webp",
+    "full_name": "Kieran Tierney",
+    "team": "Real Sociedad",
+    "nationality": "Scotland",
+    "position": "Left Back",
+    "description": "Scottish left back, defensive skills, crossing ability."
+},
+{
+    "id": 486,
+    "last_name": "Ceballos",
+    "img": "/football/img/players/Ceballos.webp",
+    "full_name": "Dani Ceballos",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Spanish midfielder, excels in dribbling, ball control."
+},
+{
+    "id": 487,
+    "last_name": "Nacho",
+    "img": "/football/img/players/Nacho.webp",
+    "full_name": "Nacho Fernandez",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Centre Back, Full Back",
+    "description": "Versatile Spanish defender, excels defensively."
+},
+{
+    "id": 488,
+    "last_name": "Aursnes",
+    "img": "/football/img/players/Aursnes.webp",
+    "full_name": "Fredrik Aursnes",
+    "team": "Benfica",
+    "nationality": "Norway",
+    "position": "Defensive Midfielder",
+    "description": "Norwegian midfielder, skilled passer, hard-working."
+},
+{
+    "id": 490,
+    "last_name": "Diaby",
+    "img": "/football/img/players/Diaby.webp",
+    "full_name": "Moussa Diaby",
+    "team": "Aston Villa",
+    "nationality": "France",
+    "position": "Right Winger",
+    "description": "French winger known for his dribbling and pace on the flank."
+},
+{
+    "id": 491,
+    "last_name": "N Gonzalez",
+    "img": "/football/img/players/N Gonzalez.webp",
+    "full_name": "Nicolas Gonzalez",
+    "team": "Fiorentina",
+    "nationality": "Argentina",
+    "position": "Right Winger",
+    "description": "Argentinian winger with an eye for goal during his career."
+},
+{
+    "id": 493,
+    "last_name": "Romagnoli",
+    "img": "/football/img/players/Romagnoli.webp",
+    "full_name": "Alessio Romagnoli",
+    "team": "Lazio",
+    "nationality": "Italy",
+    "position": "Centre Back",
+    "description": "Italian centre back, composed, ball-playing skills."
+},
+{
+    "id": 494,
+    "last_name": "K Phillips",
+    "img": "/football/img/players/K Phillips.webp",
+    "full_name": "Kalvin Phillips",
+    "team": "Manchester City",
+    "nationality": "England",
+    "position": "Defensive Midfielder",
+    "description": "English midfielder, excels in tackling, passing."
+},
+{
+    "id": 495,
+    "last_name": "Hofmann",
+    "img": "/football/img/players/Hofmann.webp",
+    "full_name": "Jonas Hofmann",
+    "team": "Bayer Leverkusen",
+    "nationality": "Germany",
+    "position": "Attacking Midfielder",
+    "description": "Versatile German midfielder, creative playmaker."
+},
+{
+    "id": 496,
+    "last_name": "Uribe",
+    "img": "/football/img/players/Uribe.webp",
+    "full_name": "Mateus Uribe",
+    "team": "Al Sadd",
+    "nationality": "Colombia",
+    "position": "Defensive Midfielder",
+    "description": "Colombian defensive midfielder, good passing abilities."
+},
+{
+    "id": 497,
+    "last_name": "Saint-Maximin",
+    "img": "/football/img/players/Saint-Maximin.webp",
+    "full_name": "Allan Saint-Maximin",
+    "team": "Al Ahli",
+    "nationality": "France",
+    "position": "Left Winger",
+    "description": "French left winger, known for dribbling, flair."
+},
+{
+    "id": 498,
+    "last_name": "Paqueta",
+    "img": "/football/img/players/Paqueta.webp",
+    "full_name": "Lucas Paqueta",
+    "team": "West Ham United",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "description": "Brazilian attacking midfielder, creativity, playmaking skills."
+},
+{
+    "id": 499,
+    "last_name": "Provedel",
+    "img": "/football/img/players/Provedel.webp",
+    "full_name": "Ivan Provedel",
+    "team": "Lazio",
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "description": "Italian goalkeeper, known for shot-stopping skills."
+},
+{
+    "id": 500,
+    "last_name": "A Moreno",
+    "img": "/football/img/players/A Moreno.webp",
+    "full_name": "Alex Moreno",
+    "team": "Aston Villa",
+    "nationality": "Spain",
+    "position": "Left Back",
+    "description": "Spanish left back, speed, crossing ability."
+},
+{
+    "id": 501,
+    "last_name": "H Herrera",
+    "img": "/football/img/players/H Herrera.webp",
+    "full_name": "Hector Herrera",
+    "team": "Houston Dynamo",
+    "nationality": "Mexico",
+    "position": "Central Midfielder",
+    "description": "Mexican central midfielder, box-to-box style."
+},
+{
+    "id": 502,
+    "last_name": "P Goncalves",
+    "img": "/football/img/players/P Goncalves.webp",
+    "full_name": "Pedro Goncalves",
+    "team": "Sporting Lisbon",
+    "nationality": "Portugal",
+    "position": "Right Winger",
+    "description": "Portuguese right winger, goal-scoring knack."
+},
+{
+    "id": 503,
+    "last_name": "Bowen",
+    "img": "/football/img/players/Bowen.webp",
+    "full_name": "Jarrod Bowen",
+    "team": "West Ham United",
+    "nationality": "England",
+    "position": "Right Winger",
+    "description": "English right winger, work rate, goal-scoring ability."
+},
+{
+    "id": 504,
+    "last_name": "McGinn",
+    "img": "/football/img/players/McGinn.webp",
+    "full_name": "John McGinn",
+    "team": "Aston Villa",
+    "nationality": "Scotland",
+    "position": "Central Midfielder",
+    "description": "Scottish central midfielder, work rate, passing skills,."
+},
+{
+    "id": 505,
+    "last_name": "Schick",
+    "img": "/football/img/players/Schick.webp",
+    "full_name": "Patrik Schick",
+    "team": "Bayer Leverkusen",
+    "nationality": "Czech Republic",
+    "position": "Striker",
+    "description": "Czech striker, scoring ability, aerial prowess."
+},
+{
+    "id": 506,
+    "last_name": "Otavio",
+    "img": "/football/img/players/Otavio.webp",
+    "full_name": "Otavio Edmilson",
+    "team": "Al Nassr",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder, Winger",
+    "description": "Brazilian attacking midfielder/winger, creativity, dribbling skills."
+},
+{
+    "id": 507,
+    "last_name": "Calvert-Lewin",
+    "img": "/football/img/players/Calvert-L.webp",
+    "full_name": "Dominic Calvert-L",
+    "team": "Everton",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "English striker, physicality, goal-scoring ability."
+},
+{
+    "id": 508,
+    "last_name": "J Mario",
+    "img": "/football/img/players/J Mario.webp",
+    "full_name": "Joao Mario",
+    "team": "Benfica",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "description": "Portuguese central midfielder, known for passing, vision."
+},
+{
+    "id": 509,
+    "last_name": "E Alvarez",
+    "img": "/football/img/players/E Alvarez.webp",
+    "full_name": "Edson Alvarez",
+    "team": "West Ham United",
+    "nationality": "Mexico",
+    "position": "Defensive Midfielder, Centre Back",
+    "description": "Mexican defensive midfielder/centre back, versatility, physicality."
+},
+{
+    "id": 510,
+    "last_name": "Talisca",
+    "img": "/football/img/players/Talisca.webp",
+    "full_name": "Anderson Talisca",
+    "team": "Al Nassr",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "description": "Brazilian attacking midfielder, long-range shooting, set-pieces."
+},
+{
+    "id": 511,
+    "last_name": "Bounou",
+    "img": "/football/img/players/Bounou.webp",
+    "full_name": "Yassine Bounou",
+    "team": "Al Hilal",
+    "nationality": "Morocco",
+    "position": "Goalkeeper",
+    "description": "Moroccan goalkeeper known for his shot-stopping abilities."
+},
+{
+    "id": 512,
+    "last_name": "Toney",
+    "img": "/football/img/players/Toney.webp",
+    "full_name": "Ivan Toney",
+    "team": "Brentford",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "English striker, goal-focused, physical presence."
+},
+{
+    "id": 513,
+    "last_name": "E Pepe",
+    "img": "/football/img/players/E Pepe.webp",
+    "full_name": "Eduardo Pepe",
+    "team": "Porto",
+    "nationality": "Brazil",
+    "position": "Winger",
+    "description": "Brazilian winger known for his flair and dribbling skills."
+},
+{
+    "id": 514,
+    "last_name": "A Correa",
+    "img": "/football/img/players/A Correa.webp",
+    "full_name": "Angel Correa",
+    "team": "Atletico Madrid",
+    "nationality": "Argentina",
+    "position": "Right Winger",
+    "description": "Argentinian right winger, agility, creativity."
+},
+{
+    "id": 515,
+    "last_name": "Zubimendi",
+    "img": "/football/img/players/Zubimendi.webp",
+    "full_name": "Martin Zubimendi",
+    "team": "Real Sociedad",
+    "nationality": "Spain",
+    "position": "Defensive Midfielder",
+    "description": "Spanish defensive midfielder, passing, ball-winning abilities."
+},
+{
+    "id": 516,
+    "last_name": "Mitrovic",
+    "img": "/football/img/players/Mitrovic.webp",
+    "full_name": "Aleksandar Mitrovic",
+    "team": "Al Hilal",
+    "nationality": "Serbia",
+    "position": "Striker",
+    "description": "Serbian striker, physicality, goal-scoring prowess."
+},
+{
+    "id": 517,
+    "last_name": "W Carvalho",
+    "img": "/football/img/players/W Carvalho.webp",
+    "full_name": "William Carvalho",
+    "team": "Real Betis",
+    "nationality": "Portugal",
+    "position": "Defensive Midfielder",
+    "description": "Portuguese defensive midfielder, defensive skills, passing."
+},
+{
+    "id": 520,
+    "last_name": "Torreira",
+    "img": "/football/img/players/Torreira.webp",
+    "full_name": "Lucas Torreira",
+    "team": "Galatasaray",
+    "nationality": "Uruguay",
+    "position": "Defensive Midfielder",
+    "description": "Uruguayan defensive midfielder, ball-winning, work rate."
+},
+{
+    "id": 521,
+    "last_name": "E Mendy",
+    "img": "/football/img/players/E Mendy.webp",
+    "full_name": "Edouard Mendy",
+    "team": "Al Ahli",
+    "nationality": "Senegal",
+    "position": "Goalkeeper",
+    "description": "Senegalese goalkeeper admired for his shot-stopping abilities."
+},
+{
+    "id": 522,
+    "last_name": "Tadic",
+    "img": "/football/img/players/Tadic.webp",
+    "full_name": "Dusan Tadic",
+    "team": "Fenerbahce",
+    "nationality": "Serbia",
+    "position": "Left Winger",
+    "description": "Serbian left winger, versatility, creativity."
+},
+{
+    "id": 523,
+    "last_name": "Kudus",
+    "img": "/football/img/players/Kudus.webp",
+    "full_name": "Mohammed Kudus",
+    "team": "West Ham United",
+    "nationality": "Ghana",
+    "position": "Attacking Midfielder",
+    "description": "Ghanaian attacking midfielder, great dribbling, passing skills."
+},
+{
+    "id": 524,
+    "last_name": "Bergwijn",
+    "img": "/football/img/players/Bergwijn.webp",
+    "full_name": "Steven Bergwijn",
+    "team": "Ajax",
+    "nationality": "Netherlands",
+    "position": "Forward",
+    "description": "Dutch forward known for his pace and flair on the field."
+},
+{
+    "id": 525,
+    "last_name": "D Carlos",
+    "img": "/football/img/players/D Carlos.webp",
+    "full_name": "Diego Carlos",
+    "team": "Aston Villa",
+    "nationality": "Brazil",
+    "position": "Centre Back",
+    "description": "Brazilian centre back, strength, aerial ability."
+},
+{
+    "id": 531,
+    "last_name": "D Neres",
+    "img": "/football/img/players/D Neres.webp",
+    "full_name": "David Neres",
+    "team": "Benfica",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "description": "Brazilian forward known for his dribbling and flair on the wing."
+},
+{
+    "id": 532,
+    "last_name": "Kondogbia",
+    "img": "/football/img/players/Kondogbia.webp",
+    "full_name": "Geoffrey Kondogbia",
+    "team": "Marseille",
+    "nationality": "Central African Republic",
+    "position": "Defensive Midfielder",
+    "description": "Central African Republic defensive midfielder, strength, ball-winning."
+},
+{
+    "id": 533,
+    "last_name": "Le Normand",
+    "img": "/football/img/players/Le Normand.webp",
+    "full_name": "Robin Le Normand",
+    "team": "Real Sociedad",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "French centre back, defensive skills, positioning."
+},
+{
+    "id": 534,
+    "last_name": "M Almiron",
+    "img": "/football/img/players/M Almiron.webp",
+    "full_name": "Miguel Almiron",
+    "team": "Newcastle United",
+    "nationality": "Paraguay",
+    "position": "Right Winger",
+    "description": "Paraguayan right winger, speed, work rate."
+},
+{
+    "id": 535,
+    "last_name": "F Vieira",
+    "img": "/football/img/players/F Vieira.webp",
+    "full_name": "Fabio Vieira",
+    "team": "Arsenal",
+    "nationality": "Portugal",
+    "position": "Attacking Midfielder",
+    "description": "Portuguese attacking midfielder, creativity, passing skills."
+},
+{
+    "id": 536,
+    "last_name": "T Chalobah",
+    "img": "/football/img/players/T Chalobah.webp",
+    "full_name": "Trevoh Chalobah",
+    "team": "Chelsea",
+    "nationality": "England",
+    "position": "Centre Back",
+    "description": "English centre back, defensive skills, versatility."
+},
+{
+    "id": 541,
+    "last_name": "X Simons",
+    "img": "/football/img/players/X Simons.webp",
+    "full_name": "Xavi Simons",
+    "team": "RB Leipzig",
+    "nationality": "Netherlands",
+    "position": "Right Winger",
+    "description": "Dutch right winger, technical skills, vision, plays for RB Leipzig."
+},
+{
+    "id": 542,
+    "last_name": "Sabitzer",
+    "img": "/football/img/players/Sabitzer.webp",
+    "full_name": "Marcel Sabitzer",
+    "team": "Borussia Dortmund",
+    "nationality": "Austria",
+    "position": "Central Midfielder",
+    "description": "Austrian central midfielder, work rate, long-range shooting."
+},
+{
+    "id": 544,
+    "last_name": "L Vazquez",
+    "img": "/football/img/players/L Vazquez.webp",
+    "full_name": "Lucas Vazquez",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Right Back",
+    "description": "Spanish right back, pace, versatility."
+},
+{
+    "id": 545,
+    "last_name": "Ben Yedder",
+    "img": "/football/img/players/Ben Yedder.webp",
+    "full_name": "Wissam Ben Yedder",
+    "team": "Monaco",
+    "nationality": "France",
+    "position": "Striker",
+    "description": "French striker admired for his goal-scoring ability and agility."
+},
+{
+    "id": 546,
+    "last_name": "Sancho",
+    "img": "/football/img/players/Sancho.webp",
+    "full_name": "Jadon Sancho",
+    "team": "Borussia Dortmund",
+    "nationality": "England",
+    "position": "Left Winger",
+    "description": "English winger known for his dribbling and creativity on the wing."
+},
+{
+    "id": 548,
+    "last_name": "Haller",
+    "img": "/football/img/players/Haller.webp",
+    "full_name": "Sebastien Haller",
+    "team": "Borussia Dortmund",
+    "nationality": "Ivory Coast",
+    "position": "Striker",
+    "description": "Ivorian striker known for his physicality and goal-scoring prowess."
+},
+{
+    "id": 549,
+    "last_name": "Badiashile",
+    "img": "/football/img/players/Badiashile.webp",
+    "full_name": "Benoit Badiashile",
+    "team": "Chelsea",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "French centre back admired for his aerial ability and composure."
+},
+{
+    "id": 550,
+    "last_name": "Eze",
+    "img": "/football/img/players/Eze.webp",
+    "full_name": "Ebere Eze",
+    "team": "Crystal Palace",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "description": "English midfielder known for his dribbling and creativity."
+},
+{
+    "id": 552,
+    "last_name": "Schlotterbeck",
+    "img": "/football/img/players/Schlotterbeck.webp",
+    "full_name": "Nico Schlotterbeck",
+    "team": "Borussia Dortmund",
+    "nationality": "Germany",
+    "position": "Centre Back",
+    "description": "German centre back known for his defensive skills and versatility."
+},
+{
+    "id": 553,
+    "last_name": "de Roon",
+    "img": "/football/img/players/de Roon.webp",
+    "full_name": "Marten de Roon",
+    "team": "Atalanta",
+    "nationality": "Netherlands",
+    "position": "Defensive Midfielder",
+    "description": "Dutch midfielder with strong defensive attributes and work rate."
+},
+{
+    "id": 554,
+    "last_name": "Diaz",
+    "img": "/football/img/players/B Diaz.webp",
+    "full_name": "Brahim Diaz",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Attacking Midfielder",
+    "description": "Spanish midfielder known for his dribbling and playmaking abilities."
+},
+{
+    "id": 556,
+    "last_name": "Raspadori",
+    "img": "/football/img/players/Raspadori.webp",
+    "full_name": "Giacomo Raspadori",
+    "team": "Napoli",
+    "nationality": "Italy",
+    "position": "Forward",
+    "description": "Italian forward, goal-scoring, agile."
+},
+{
+    "id": 557,
+    "last_name": "E Royal",
+    "img": "/football/img/players/E Royal.webp",
+    "full_name": "Emerson Royal",
+    "team": "Tottenham",
+    "nationality": "Brazil",
+    "position": "Right Back",
+    "description": "Brazilian right back admired for his pace and attacking prowess."
+},
+{
+    "id": 561,
+    "last_name": "Chukwueze",
+    "img": "/football/img/players/Chukwueze.webp",
+    "full_name": "Samuel Chukwueze",
+    "team": "AC Milan",
+    "nationality": "Nigeria",
+    "position": "Right Winger",
+    "description": "Nigerian winger, pace, dribbling skills."
+},
+{
+    "id": 562,
+    "last_name": "Embolo",
+    "img": "/football/img/players/Embolo.webp",
+    "full_name": "Breel Embolo",
+    "team": "Monaco",
+    "nationality": "Switzerland",
+    "position": "Striker",
+    "description": "Swiss striker, strength, attacking versatility."
+},
+{
+    "id": 564,
+    "last_name": "Lozano",
+    "img": "/football/img/players/Lozano.webp",
+    "full_name": "Hirving Lozano",
+    "team": "PSV",
+    "nationality": "Mexico",
+    "position": "Right Winger",
+    "description": "Mexican winger known for his speed and goal-scoring ability."
+},
+{
+    "id": 566,
+    "last_name": "Zaniolo",
+    "img": "/football/img/players/Zaniolo.webp",
+    "full_name": "Nicolo Zaniolo",
+    "team": "Aston Villa",
+    "nationality": "Italy",
+    "position": "Attacking Midfielder",
+    "description": "Italian midfielder admired for his versatility and creativity."
+},
+{
+    "id": 568,
+    "last_name": "J Tah",
+    "img": "/football/img/players/J Tah.webp",
+    "full_name": "Jonathan Tah",
+    "team": "Bayer Leverkusen",
+    "nationality": "Germany",
+    "position": "Centre Back",
+    "description": "German centre back with strength and aerial prowess."
+},
+{
+    "id": 569,
+    "last_name": "Todibo",
+    "img": "/football/img/players/Todibo.webp",
+    "full_name": "Jean-Clair Todibo",
+    "team": "Nice",
+    "nationality": "France",
+    "position": "Centre Back",
+    "description": "French centre back known for his composure and ball-playing ability."
+},
+{
+    "id": 570,
+    "last_name": "Clauss",
+    "img": "/football/img/players/Clauss.webp",
+    "full_name": "Jonathan Clauss",
+    "team": "Marseille",
+    "nationality": "France",
+    "position": "Right Back",
+    "description": "French right back admired for his work rate and crossing."
+},
+{
+    "id": 575,
+    "last_name": "Foyth",
+    "img": "/football/img/players/Foyth.webp",
+    "full_name": "Juan Foyth",
+    "team": "Villarreal",
+    "nationality": "Argentina",
+    "position": "Right Back",
+    "description": "Argentinian right back known for his versatility and ball-playing ability."
+},
+{
+    "id": 578,
+    "last_name": "Scamacca",
+    "img": "/football/img/players/Scamacca.webp",
+    "full_name": "Gianluca Scamacca",
+    "team": "Atalanta",
+    "nationality": "Italy",
+    "position": "Striker",
+    "description": "Italian striker known for his height and heading ability."
+},
+{
+    "id": 579,
+    "last_name": "Watkins",
+    "img": "/football/img/players/Watkins.webp",
+    "full_name": "Ollie Watkins",
+    "team": "Aston Villa",
+    "nationality": "England",
+    "position": "Striker",
+    "description": "English striker admired for his pace and finishing."
+},
+{
+    "id": 580,
+    "last_name": "J David",
+    "img": "/football/img/players/J David.webp",
+    "full_name": "Jonathan David",
+    "team": "Lille",
+    "nationality": "Canada",
+    "position": "Forward",
+    "description": "Canadian striker, goal-scoring ability."
+},
+{
+    "id": 581,
+    "last_name": "P Sarr",
+    "img": "/football/img/players/P Sarr.webp",
+    "full_name": "Pape Matar Sarr",
+    "team": "Tottenham",
+    "nationality": "Senegal",
+    "position": "Central Midfielder",
+    "description": "Senegalese midfielder, work rate, passing skills."
+},
+{
+    "id": 582,
+    "last_name": "B Davies",
+    "img": "/football/img/players/B Davies.webp",
+    "full_name": "Ben Davies",
+    "team": "Retired",
+    "nationality": "Wales",
+    "position": "Left Back",
+    "description": "Welsh defender, defensive skills, versatility."
+},
+{
+    "id": 583,
+    "last_name": "Semedo",
+    "img": "/football/img/players/N Semedo.webp",
+    "full_name": "Nelson Semedo",
+    "team": "Wolves",
+    "nationality": "Portugal",
+    "position": "Right Back",
+    "description": "Portuguese right back admired for his speed and attacking ability."
+},
+{
+    "id": 584,
+    "last_name": "De Ketelaere",
+    "img": "/football/img/players/De Ketelaere.webp",
+    "full_name": "Charles De Ketelaere",
+    "team": "Atalanta",
+    "nationality": "Belgium",
+    "position": "Attacking Midfielder",
+    "description": "Belgian attacking midfielder known for his versatility and passing."
+},
+{
+    "id": 585,
+    "last_name": "Kiwior",
+    "img": "/football/img/players/Kiwior.webp",
+    "full_name": "Jakub Kiwior",
+    "team": "Arsenal",
+    "nationality": "Poland",
+    "position": "Centre Back",
+    "description": "Polish defender admired for his defensive skills and determination."
+},
+{
+    "id": 586,
+    "last_name": "Milner",
+    "img": "/football/img/players/Milner.webp",
+    "full_name": "James Milner",
+    "team": "Brighton",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "English midfielder known for his versatility and leadership on the field."
+},
+{
+    "id": 588,
+    "last_name": "G Simeone",
+    "img": "/football/img/players/G Simeone.webp",
+    "full_name": "Giovanni Simeone",
+    "team": "Napoli",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "description": "Argentinian forward known for his goal-scoring ability and work rate."
+},
+{
+    "id": 589,
+    "last_name": "G Paulista",
+    "img": "/football/img/players/G Paulista.webp",
+    "full_name": "Gabriel Paulista",
+    "team": "Valencia",
+    "nationality": "Brazil",
+    "position": "Centre Back",
+    "description": "Brazilian centre back known for his physicality and defensive skills."
+},
+{
+    "id": 590,
+    "last_name": "P Lopez",
+    "img": "/football/img/players/P Lopez.webp",
+    "full_name": "Pau Lopez",
+    "team": "Marseille",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "description": "Spanish goalkeeper admired for his shot-stopping and reflexes."
+},
+{
+    "id": 592,
+    "last_name": "Candreva",
+    "img": "/football/img/players/Candreva.webp",
+    "full_name": "Antonio Candreva",
+    "team": "Salernitana",
+    "nationality": "Italy",
+    "position": "Right Winger",
+    "description": "Italian winger known for his crossing and work rate."
+},
+{
+    "id": 593,
+    "last_name": "Cornet",
+    "img": "/football/img/players/Cornet.webp",
+    "full_name": "Maxwel Cornet",
+    "team": "West Ham United",
+    "nationality": "Ivory Coast",
+    "position": "Left Winger",
+    "description": "Ivorian winger admired for his pace and versatility."
+},
+{
+    "id": 594,
+    "last_name": "Lafont",
+    "img": "/football/img/players/Lafont.webp",
+    "full_name": "Alban Lafont",
+    "team": "Nantes",
+    "nationality": "France",
+    "position": "Goalkeeper",
+    "description": "French goalkeeper known for his shot-stopping and distribution."
+},
+{
+    "id": 595,
+    "last_name": "Origi",
+    "img": "/football/img/players/Origi.webp",
+    "full_name": "Divock Origi",
+    "team": "Nottingham Forest",
+    "nationality": "Belgium",
+    "position": "Forward",
+    "description": "Belgian forward admired for his goal-scoring ability and versatility."
+},
+{
+    "id": 596,
+    "last_name": "A Traore",
+    "img": "/football/img/players/A Traore.webp",
+    "full_name": "Adama Traore",
+    "team": "Fulham",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "description": "Spanish winger known for his speed and dribbling skills."
+},
+{
+    "id": 598,
+    "last_name": "F Garcia",
+    "img": "/football/img/players/F Garcia.webp",
+    "full_name": "Fran Garcia",
+    "team": "Real Madrid",
+    "nationality": "Spain",
+    "position": "Left Back",
+    "description": "Spanish full back known for his defensive skills and pace."
+},
+{
+    "id": 599,
+    "last_name": "Valdes",
+    "img": "/football/img/players/Valdes.webp",
+    "full_name": "Victor Valdes",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "description": "Spanish goalkeeper admired for his shot-stopping and composure."
+},
+{
+    "id": 600,
+    "last_name": "Irwin",
+    "img": "/football/img/players/Irwin.webp",
+    "full_name": "Denis Irwin",
+    "team": "Retired",
+    "nationality": "Ireland",
+    "position": "Left Back",
+    "description": "Irish full back known for his defensive solidity and set-pieces."
+},
+{
+    "id": 601,
+    "last_name": "J Barnes",
+    "img": "/football/img/players/J Barnes.webp",
+    "full_name": "John Barnes",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Left Winger",
+    "description": "English winger admired for his dribbling and creativity."
+},
+{
+    "id": 602,
+    "last_name": "Souness",
+    "img": "/football/img/players/Souness.webp",
+    "full_name": "Graeme Souness",
+    "team": "Retired",
+    "nationality": "Scotland",
+    "position": "Central Midfielder",
+    "description": "Scottish midfielder known for his leadership and passing skills."
+},
+{
+    "id": 603,
+    "last_name": "Salihamidzic",
+    "img": "/football/img/players/Salihamidzic.webp",
+    "full_name": "Hasan Salihamidzic",
+    "team": "Retired",
+    "nationality": "Bosnia and Herzegovina",
+    "position": "Right Winger",
+    "description": "Bosnian winger admired for his work rate and versatility."
+},
+{
+    "id": 604,
+    "last_name": "Albertini",
+    "img": "/football/img/players/Albertini.webp",
+    "full_name": "Demetrio Albertini",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Defensive Midfielder",
+    "description": "Italian midfielder known for his passing and vision on the field."
+},
+{
+    "id": 605,
+    "last_name": "Tacchinardi",
+    "img": "/football/img/players/Tacchinardi.webp",
+    "full_name": "Alessio Tacchinardi",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Defensive Midfielder",
+    "description": "Italian midfielder admired for his tackling and work rate."
+},
+{
+    "id": 606,
+    "last_name": "Marchisio",
+    "img": "/football/img/players/Marchisio.webp",
+    "full_name": "Claudio Marchisio",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Central Midfielder",
+    "description": "Italian midfielder known for his versatility and football intelligence."
+},
+{
+    "id": 608,
+    "last_name": "Birindelli",
+    "img": "/football/img/players/Birindelli.webp",
+    "full_name": "Alessandro Birindelli",
+    "team": "Retired",
+    "nationality": "Italy",
+    "position": "Right Back",
+    "description": "Italian full back admired for his defensive skills and versatility."
+},
+{
+    "id": 609,
+    "last_name": "Maxwell",
+    "img": "/football/img/players/Maxwell.webp",
+    "full_name": "Maxwell Scherrer",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Left Back",
+    "description": "Brazilian full back known for his pace and crossing ability."
+},
+{
+    "id": 611,
+    "last_name": "L Moura",
+    "img": "/football/img/players/L Moura.webp",
+    "full_name": "Lucas Moura",
+    "team": "Sao Paulo",
+    "nationality": "Brazil",
+    "position": "Right Winger",
+    "description": "Brazilian winger known for his pace and dribbling skills."
+},
+{
+    "id": 612,
+    "last_name": "A Ramsey",
+    "img": "/football/img/players/A Ramsey.webp",
+    "full_name": "Aaron Ramsey",
+    "team": "Cardiff",
+    "nationality": "Wales",
+    "position": "Central Midfielder",
+    "description": "Welsh midfielder admired for his box-to-box style of play."
+},
+{
+    "id": 613,
+    "last_name": "Kagawa",
+    "img": "/football/img/players/Kagawa.webp",
+    "full_name": "Shinji Kagawa",
+    "team": "Cerezo Osaka",
+    "nationality": "Japan",
+    "position": "Attacking Midfielder",
+    "description": "Japanese attacking midfielder known for his vision and passing abilities."
+},
+{
+    "id": 614,
+    "last_name": "Subotic",
+    "img": "/football/img/players/Subotic.webp",
+    "full_name": "Neven Subotic",
+    "team": "Retired",
+    "nationality": "Serbia",
+    "position": "Centre Back",
+    "description": "Serbian centre back admired for his defensive skills and aerial ability."
+},
+{
+    "id": 615,
+    "last_name": "Weidenfeller",
+    "img": "/football/img/players/Weidenfeller.webp",
+    "full_name": "Roman Weidenfeller",
+    "team": "Retired",
+    "nationality": "Germany",
+    "position": "Goalkeeper",
+    "description": "German goalkeeper known for his loyalty to Borussia Dortmund."
+},
+{
+    "id": 616,
+    "last_name": "Weigl",
+    "img": "/football/img/players/Weigl.webp",
+    "full_name": "Julian Weigl",
+    "team": "Borussia Monchengladbach",
+    "nationality": "Germany",
+    "position": "Defensive Midfielder",
+    "description": "German midfielder known for his passing and defensive abilities."
+},
+{
+    "id": 617,
+    "last_name": "Sahin",
+    "img": "/football/img/players/Sahin.webp",
+    "full_name": "Nuri Sahin",
+    "team": "Retired",
+    "nationality": "Turkey",
+    "position": "Defensive Midfielder",
+    "description": "Turkish midfielder who became the youngest Bundesliga scorer."
+},
+{
+    "id": 618,
+    "last_name": "Piszczek",
+    "img": "/football/img/players/Piszczek.webp",
+    "full_name": "Lukasz Piszczek",
+    "team": "Goczalkowice",
+    "nationality": "Poland",
+    "position": "Right Back",
+    "description": "Polish right back admired for his defensive contributions."
+},
+{
+    "id": 619,
+    "last_name": "Camacho",
+    "img": "/football/img/players/Camacho.webp",
+    "full_name": "J Antonio Camacho",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Left Back",
+    "description": "Spanish left back known for his versatility and work rate."
+},
+{
+    "id": 620,
+    "last_name": "Gabi",
+    "img": "/football/img/players/Gabi.webp",
+    "full_name": "Gabriel Luis Fernandez",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "description": "Spanish midfielder admired for his leadership and work ethic."
+},
+{
+    "id": 621,
+    "last_name": "Tiago M",
+    "img": "/football/img/players/Tiago M.webp",
+    "full_name": "Tiago Mendes",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "description": "Portuguese midfielder known for his passing and defensive skills."
+},
+{
+    "id": 622,
+    "last_name": "Winks",
+    "img": "/football/img/players/Winks.webp",
+    "full_name": "Harry Winks",
+    "team": "Leicester City",
+    "nationality": "England",
+    "position": "Defensive Midfielder",
+    "description": "English midfielder admired for his composure and passing ability."
+},
+{
+    "id": 623,
+    "last_name": "Anderton",
+    "img": "/football/img/players/Anderton.webp",
+    "full_name": "Darren Anderton",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "description": "English midfielder known for his creativity and set-piece delivery."
+},
+{
+    "id": 625,
+    "last_name": "Lennon",
+    "img": "/football/img/players/Lennon.webp",
+    "full_name": "Aaron Lennon",
+    "team": "Retired",
+    "nationality": "England",
+    "position": "Right Winger",
+    "description": "English winger known for his pace and dribbling skills."
+},
+{
+    "id": 626,
+    "last_name": "Alli",
+    "img": "/football/img/players/Alli.webp",
+    "full_name": "Dele Alli",
+    "team": "Everton",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "description": "English midfielder admired for his versatility and goal-scoring ability."
+},
+{
+    "id": 627,
+    "last_name": "Lamela",
+    "img": "/football/img/players/Lamela.webp",
+    "full_name": "Erik Lamela",
+    "team": "Sevilla",
+    "nationality": "Argentina",
+    "position": "Winger",
+    "description": "Argentinian winger known for his dribbling and flair."
+},
+{
+    "id": 628,
+    "last_name": "Ginola",
+    "img": "/football/img/players/Ginola.webp",
+    "full_name": "David Ginola",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "Left Winger",
+    "description": "French winger admired for his skill and creativity on the field."
+},
+{
+    "id": 629,
+    "last_name": "Beek",
+    "img": "/football/img/players/van de Beek.webp",
+    "full_name": "Donny van de Beek",
+    "team": "Eintracht Frankfurt",
+    "nationality": "Netherlands",
+    "position": "Central Midfielder",
+    "description": "Dutch midfielder known for his vision and passing accuracy."
+},
+{
+    "id": 630,
+    "last_name": "Litmanen",
+    "img": "/football/img/players/Litmanen.webp",
+    "full_name": "Jari Litmanen",
+    "team": "Retired",
+    "nationality": "Finland",
+    "position": "Attacking Midfielder",
+    "description": "Finnish midfielder admired for his technique and football intelligence."
+},
+{
+    "id": 631,
+    "last_name": "Pienaar",
+    "img": "/football/img/players/Pienaar.webp",
+    "full_name": "Steven Pienaar",
+    "team": "Retired",
+    "nationality": "South Africa",
+    "position": "Left Winger",
+    "description": "South African winger known for his dribbling and work rate."
+},
+{
+    "id": 632,
+    "last_name": "Huntelaar",
+    "img": "/football/img/players/Huntelaar.webp",
+    "full_name": "Klaas-Jan Huntelaar",
+    "team": "Retired",
+    "nationality": "Netherlands",
+    "position": "Striker",
+    "description": "Dutch striker admired for his goal-scoring ability and positioning."
+},
+{
+    "id": 633,
+    "last_name": "Emerson F",
+    "img": "/football/img/players/Emerson F.webp",
+    "full_name": "Emerson Ferreira",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Defensive Midfielder",
+    "description": "Versatile Brazilian defendive midfielder, skilled in passing and tackling."
+},
+{
+    "id": 634,
+    "last_name": "C Under",
+    "img": "/football/img/players/C Under.webp",
+    "full_name": "Cengiz Under",
+    "team": "Fenerbahce",
+    "nationality": "Turkey",
+    "position": "Right Winger",
+    "description": "Turkish winger admired for his pace and dribbling skills."
+},
+{
+    "id": 635,
+    "last_name": "J Callejon",
+    "img": "/football/img/players/J Callejon.webp",
+    "full_name": "Jose Callejon",
+    "team": "Granada",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "description": "Spanish winger known for his pace and goal-scoring ability."
+},
+{
+    "id": 636,
+    "last_name": "G Inler",
+    "img": "/football/img/players/G Inler.webp",
+    "full_name": "Gokhan Inler",
+    "team": "Retired",
+    "nationality": "Switzerland",
+    "position": "Defensive Midfielder",
+    "description": "Swiss midfielder admired for his passing and defensive skills."
+},
+{
+    "id": 637,
+    "last_name": "L Fabiano",
+    "img": "/football/img/players/L Fabiano.webp",
+    "full_name": "Luis Fabiano",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "description": "Brazilian forward known for his goal-scoring prowess."
+},
+{
+    "id": 639,
+    "last_name": "J Martinez",
+    "img": "/football/img/players/J Martinez.webp",
+    "full_name": "Jackson Martinez",
+    "team": "Retired",
+    "nationality": "Colombia",
+    "position": "Striker",
+    "description": "Colombian striker known for his physicality and goal-scoring ability."
+},
+{
+    "id": 640,
+    "last_name": "R Meireles",
+    "img": "/football/img/players/R Meireles.webp",
+    "full_name": "Raul Meireles",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "description": "Portuguese midfielder admired for his work rate and passing skills."
+},
+{
+    "id": 641,
+    "last_name": "Bosingwa",
+    "img": "/football/img/players/Bosingwa.webp",
+    "full_name": "Jose Bosingwa",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Right Back",
+    "description": "Portuguese full back known for his pace and defensive abilities."
+},
+{
+    "id": 642,
+    "last_name": "L Lopez",
+    "img": "/football/img/players/L Lopez.webp",
+    "full_name": "Lisandro Lopez",
+    "team": "Sarmiento Junin",
+    "nationality": "Argentina",
+    "position": "Striker",
+    "description": "Argentinian striker admired for his agility and goal-scoring ability."
+},
+{
+    "id": 643,
+    "last_name": "B Alves",
+    "img": "/football/img/players/B Alves.webp",
+    "full_name": "Bruno Alves",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Centre Back",
+    "description": "Portuguese centre back known for his defensive prowess."
+},
+{
+    "id": 644,
+    "last_name": "An Silva",
+    "img": "/football/img/players/An Silva.webp",
+    "full_name": "Andre Silva",
+    "team": "Retired",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "description": "Portuguese striker admired for his goal-scoring ability and versatility."
+},
+{
+    "id": 646,
+    "last_name": "Areola",
+    "img": "/football/img/players/Areola.webp",
+    "full_name": "Alphonse Areola",
+    "team": "West Ham United",
+    "nationality": "France",
+    "position": "Goalkeeper",
+    "description": "French goalkeeper known for agility and shot-stopping."
+},
+{
+    "id": 648,
+    "last_name": "J Correa",
+    "img": "/football/img/players/J Correa.webp",
+    "full_name": "Joaquin Correa",
+    "team": "Marseille",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "description": "Dynamic Argentinian forward, known for speed and skill."
+},
+{
+    "id": 649,
+    "last_name": "Abde",
+    "img": "/football/img/players/Abde.webp",
+    "full_name": "Ez Abde",
+    "team": "Real Betis",
+    "nationality": "Morocco",
+    "position": "Left Winger",
+    "description": "Moroccan winger, famous for pace and dribbling ability."
+},
+{
+    "id": 651,
+    "last_name": "Ajer",
+    "img": "/football/img/players/Ajer.webp",
+    "full_name": "Kristoffer Ajer",
+    "team": "Brentford",
+    "nationality": "Norway",
+    "position": "Centre Back",
+    "description": "Tall Norwegian defender, strong in aerial duels."
+},
+{
+    "id": 652,
+    "last_name": "J Evans",
+    "img": "/football/img/players/J Evans.webp",
+    "full_name": "Jonny Evans",
+    "team": "Manchester United",
+    "nationality": "Northern Ireland",
+    "position": "Centre Back",
+    "description": "Experienced defender, exceptional at reading the game."
+},
+{
+    "id": 655,
+    "last_name": "Madueke",
+    "img": "/football/img/players/Madueke.webp",
+    "full_name": "Noni Madueke",
+    "team": "Chelsea",
+    "nationality": "England",
+    "position": "Right Winger",
+    "description": "English winger, skilled in dribbling and finishing."
+},
+{
+    "id": 656,
+    "last_name": "Fabianski",
+    "img": "/football/img/players/Fabianski.webp",
+    "full_name": "Lukasz Fabianski",
+    "team": "West Ham United",
+    "nationality": "Poland",
+    "position": "Goalkeeper",
+    "description": "Polish goalkeeper, reliable with great reflexes."
+},
+{
+    "id": 657,
+    "last_name": "Belotti",
+    "img": "/football/img/players/Belotti.webp",
+    "full_name": "Andrea Belotti",
+    "team": "AS Roma",
+    "nationality": "Italy",
+    "position": "Striker",
+    "description": "Italian striker, renowned for clinical finishing."
+},
+{
+    "id": 658,
+    "last_name": "Balotelli",
+    "img": "/football/img/players/Balotelli.webp",
+    "full_name": "Mario Balotelli",
+    "team": "Adana Demirspor",
+    "nationality": "Italy",
+    "position": "Striker",
+    "description": "Italian striker known for talent, controversies, and charisma."
+},
+{
+    "id": 659,
+    "last_name": "Chalobah",
+    "img": "/football/img/players/N Chalobah.webp",
+    "full_name": "Nathaniel Chalobah",
+    "team": "West Brom",
+    "nationality": "England",
+    "position": "Defensive Midfielder",
+    "description": "English midfielder excelling with skill and versatility in football."
+},
+  {
+    "id": 660,
+    "last_name": "Wanyama",
+    "img": "/football/img/players/Wanyama.webp",
+    "full_name": "Victor Wanyama",
+    "team": "CF Montreal",
+    "nationality": "Kenya",
+    "position": "Defensive Midfielder",
+    "description": "Strong defensive midfielder with excellent ball interception skills."
+  },
+  {
+    "id": 661,
+    "last_name": "Piette",
+    "img": "/football/img/players/Piette.webp",
+    "full_name": "Samuel Piette",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Defensive Midfielder",
+    "description": "Tenacious midfielder known for his hard tackling style."
+  },
+  {
+    "id": 662,
+    "last_name": "Choiniere",
+    "img": "/football/img/players/Choiniere.webp",
+    "full_name": "Mathieu Choiniere",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Central Midfielder",
+    "description": "Versatile player with great passing and vision."
+  },
+  {
+    "id": 663,
+    "last_name": "Opoku",
+    "img": "/football/img/players/Opoku.webp",
+    "full_name": "Kwasi Opoku",
+    "team": "CF Montreal",
+    "nationality": "Ghana",
+    "position": "Forward",
+    "description": "Dynamic forward with impressive speed and finishing."
+  },
+  {
+    "id": 664,
+    "last_name": "Sirois",
+    "img": "/football/img/players/Sirois.webp",
+    "full_name": "Jonathan Sirois",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Goalkeeper",
+    "description": "Reliable goalkeeper with excellent reflexes and positioning."
+  },
+  {
+    "id": 665,
+    "last_name": "Corbo",
+    "img": "/football/img/players/Corbo.webp",
+    "full_name": "Gabriele Corbo",
+    "team": "CF Montreal",
+    "nationality": "Italy",
+    "position": "Centre Back",
+    "description": "Solid defender known for aerial strength and tackling."
+  },
+  {
+    "id": 666,
+    "last_name": "Edwards",
+    "img": "/football/img/players/Edwards.webp",
+    "full_name": "Raheem Edwards",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Left Back",
+    "description": "Fast and agile full back with good crossing ability."
+  },
+  {
+    "id": 667,
+    "last_name": "Waterman",
+    "img": "/football/img/players/Waterman.webp",
+    "full_name": "Joel Waterman",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Centre Back",
+    "description": "Strong centre back with good ball distribution skills."
+  },
+  {
+    "id": 668,
+    "last_name": "Lappalainen",
+    "img": "/football/img/players/Lappalainen.webp",
+    "full_name": "Lassi Lappalainen",
+    "team": "CF Montreal",
+    "nationality": "Finland",
+    "position": "Left Winger",
+    "description": "Quick winger with sharp dribbling and pace."
+  },
+  {
+    "id": 669,
+    "last_name": "B Duke",
+    "img": "/football/img/players/B Duke.webp",
+    "full_name": "Bryce Duke",
+    "team": "CF Montreal",
+    "nationality": "USA",
+    "position": "Central Midfielder",
+    "description": "Creative midfielder with excellent ball control skills."
+  },
+  {
+    "id": 670,
+    "last_name": "Ruan",
+    "img": "/football/img/players/Ruan.webp",
+    "full_name": "Ruan Teixeira",
+    "team": "CF Montreal",
+    "nationality": "Brazil",
+    "position": "Right Back",
+    "description": "Speedy full back known for his overlapping runs."
+  },
+  {
+    "id": 671,
+    "last_name": "Offor",
+    "img": "/football/img/players/Offor.webp",
+    "full_name": "Chinonso Offor",
+    "team": "CF Montreal",
+    "nationality": "Nigeria",
+    "position": "Forward",
+    "description": "Tall striker with strong aerial presence and finishing."
+  },
+  {
+    "id": 672,
+    "last_name": "M Toye",
+    "img": "/football/img/players/M Toye.webp",
+    "full_name": "Mason Toye",
+    "team": "CF Montreal",
+    "nationality": "USA",
+    "position": "Forward",
+    "description": "Dynamic forward with powerful shot and good movement."
+  },
+  {
+    "id": 673,
+    "last_name": "G Campbell",
+    "img": "/football/img/players/G Campbell.webp",
+    "full_name": "George Campbell",
+    "team": "CF Montreal",
+    "nationality": "USA",
+    "position": "Centre Back",
+    "description": "Strong and tactical defender with good positioning."
+  },
+  {
+    "id": 674,
+    "last_name": "Lassiter",
+    "img": "/football/img/players/Lassiter.webp",
+    "full_name": "Ariel Lassiter",
+    "team": "CF Montreal",
+    "nationality": "Costa Rica",
+    "position": "Left Winger",
+    "description": "Skilful winger with great pace and dribbling ability."
+  },
+  {
+    "id": 675,
+    "last_name": "S Ibrahim",
+    "img": "/football/img/players/S Ibrahim.webp",
+    "full_name": "Sunusi Ibrahim",
+    "team": "CF Montreal",
+    "nationality": "Nigeria",
+    "position": "Forward",
+    "description": "Quick and agile forward with sharp finishing skills."
+  },
+  {
+    "id": 676,
+    "last_name": "N Saliba",
+    "img": "/football/img/players/N Saliba.webp",
+    "full_name": "Nathan-D Saliba",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Central Midfielder",
+    "description": "Promising young midfielder with good tackling ability."
+  },
+  {
+    "id": 677,
+    "last_name": "F Alvarez",
+    "img": "/football/img/players/F Alvarez.webp",
+    "full_name": "Fernando Alvarez",
+    "team": "CF Montreal",
+    "nationality": "Mexico",
+    "position": "Centre Back",
+    "description": "Solid defender with excellent passing."
+  },
+  {
+    "id": 678,
+    "last_name": "Vilsaint",
+    "img": "/football/img/players/Vilsaint.webp",
+    "full_name": "Jules-A Vilsaint",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Forward",
+    "description": "Energetic forward with strong defensive contributions."
+  },
+  {
+    "id": 679,
+    "last_name": "Thorkelsson",
+    "img": "/football/img/players/Thorkelsson.webp",
+    "full_name": "Robert Thorkelsson",
+    "team": "CF Montreal",
+    "nationality": "Iceland",
+    "position": "Centre Back",
+    "description": "Talented centre back with good stamina."
+  },
+  {
+    "id": 680,
+    "last_name": "Ketterer",
+    "img": "/football/img/players/Ketterer.webp",
+    "full_name": "Logan Ketterer",
+    "team": "CF Montreal",
+    "nationality": "USA",
+    "position": "Goalkeeper",
+    "description": "Commanding goalkeeper with great shot-stopping abilities."
+  },
+  {
+    "id": 681,
+    "last_name": "Iliadis",
+    "img": "/football/img/players/Iliadis.webp",
+    "full_name": "Ilias Iliadis",
+    "team": "CF Montreal",
+    "nationality": "Greece",
+    "position": "Defensive Midfielder",
+    "description": "Technically gifted midfielder with strong passing skills."
+  },
+  {
+    "id": 682,
+    "last_name": "Zouhir",
+    "img": "/football/img/players/Zouhir.webp",
+    "full_name": "Rida Zouhir",
+    "team": "CF Montreal",
+    "nationality": "Canada",
+    "position": "Central Midfielder",
+    "description": "Young midfielder with potential and good technique."
+  },
+  {
+    "id": 683,
+    "last_name": "Jabang",
+    "img": "/football/img/players/Jabang.webp",
+    "full_name": "Ousman Jabang",
+    "team": "CF Montreal",
+    "nationality": "Gambia",
+    "position": "Defensive Midfielder",
+    "description": "Solid defensive with good marking and aerial ability."
+  },
+  {
+    "id": 684,
+    "last_name": "Emerson P",
+    "img": "/football/img/players/Emerson P.webp",
+    "full_name": "Emerson Palmieri",
+    "team": "West Ham United",
+    "nationality": "Italy",
+    "position": "Left Back",
+    "description": "Versatility and commitment, enhancing any team's defensive capabilities."
+  },
+  {
+    "id": 685,
+    "last_name": "D Ferguson",
+    "img": "/football/img/players/D Ferguson.webp",
+    "full_name": "Duncan Ferguson",
+    "team": "Retired",
+    "nationality": "Scotland",
+    "position": "Forward",
+    "description": "Former Scottish footballer known for his physicality."
+},
+{
+    "id": 686,
+    "last_name": "N Keita",
+    "img": "/football/img/players/N Keita.webp",
+    "full_name": "Naby Keita",
+    "team": "Werder Bremen",
+    "nationality": "Guinea",
+    "position": "Central Midfielder",
+    "description": "Guinean midfielder with versatile playing style."
+},
+{
+    "id": 687,
+    "last_name": "S Anderson",
+    "img": "/football/img/players/S Anderson.webp",
+    "full_name": "Sonny Anderson",
+    "team": "Retired",
+    "nationality": "Brazil",
+    "position": "Striker",
+    "description": "Former Brazilian striker known for goal-scoring abilities."
+},
+{
+    "id": 688,
+    "last_name": "Ad Silva",
+    "img": "/football/img/players/Ad Silva.webp",
+    "full_name": "Adrien Silva",
+    "team": "Free Agent",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "description": "Portuguese midfielder with passing expertise."
+},
+{
+    "id": 689,
+    "last_name": "Gulacsi",
+    "img": "/football/img/players/Gulacsi.webp",
+    "full_name": "Peter Gulacsi",
+    "team": "RB Leipzig",
+    "nationality": "Hungary",
+    "position": "Goalkeeper",
+    "description": "Former Hungarian goalkeeper known for shot-stopping skills."
+},
+{
+        "id": 690,
+        "last_name": "Casteels",
+        "img": "/football/img/players/Casteels.webp",
+        "full_name": "Koen Casteels",
+        "team": "Wolfsburg",
+        "nationality": "Belgium",
+        "position": "Goalkeeper",
+        "description": "Belgian goalkeeper known for his saves."
+    },
+    {
+        "id": 691,
+        "last_name": "Trapp",
+        "img": "/football/img/players/Trapp.webp",
+        "full_name": "Kevin Trapp",
+        "team": "Eintracht Frankfurt",
+        "nationality": "Germany",
+        "position": "Goalkeeper",
+        "description": "German goalkeeper with great reflexes."
+    },
+    {
+        "id": 692,
+        "last_name": "Openda",
+        "img": "/football/img/players/Openda.webp",
+        "full_name": "Lois Openda",
+        "team": "RB Leipzig",
+        "nationality": "Belgium",
+        "position": "Forward",
+        "description": "Belgian forward known for his pace."
+    },
+    {
+        "id": 693,
+        "last_name": "Tsygankov",
+        "img": "/football/img/players/Tsygankov.webp",
+        "full_name": "Viktor Tsygankov",
+        "team": "Girona",
+        "nationality": "Ukraine",
+        "position": "Right Winger",
+        "description": "Ukrainian winger with creative skills."
+    },
+    {
+        "id": 694,
+        "last_name": "Botman",
+        "img": "/football/img/players/Botman.webp",
+        "full_name": "Sven Botman",
+        "team": "Newcastle United",
+        "nationality": "Netherlands",
+        "position": "Centre Back",
+        "description": "Dutch defender known for his tackles."
+    },
+    {
+        "id": 696,
+        "last_name": "A Garcia",
+        "img": "/football/img/players/A Garcia.webp",
+        "full_name": "Aleix Garcia",
+        "team": "Girona",
+        "nationality": "Spain",
+        "position": "Central Midfielder",
+        "description": "Spanish midfielder known for his passing."
+    },
+    {
+        "id": 697,
+        "last_name": "G Rodriguez",
+        "img": "/football/img/players/G Rodriguez.webp",
+        "full_name": "Guido Rodriguez",
+        "team": "Real Betis",
+        "nationality": "Argentina",
+        "position": "Defensive Midfielder",
+        "description": "Argentine midfielder with versatility."
+    },
+    {
+        "id": 698,
+        "last_name": "Iglesias",
+        "img": "/football/img/players/Iglesias.webp",
+        "full_name": "Borja Iglesias",
+        "team": "Real Betis",
+        "nationality": "Spain",
+        "position": "Forward",
+        "description": "Spanish forward known for his finishing."
+    },
+    {
+        "id": 699,
+        "last_name": "R Silva",
+        "img": "/football/img/players/R Silva.webp",
+        "full_name": "Rafa Silva",
+        "team": "Benfica",
+        "nationality": "Portugal",
+        "position": "Forward",
+        "description": "Portuguese forward with dribbling skills."
+    },
+    {
+        "id": 700,
+        "last_name": "Orban",
+        "img": "/football/img/players/Orban.webp",
+        "full_name": "Willi Orban",
+        "team": "RB Leipzig",
+        "nationality": "Hungary",
+        "position": "Centre Back",
+        "description": "Hungarian defender known for his aerial presence."
+    },
+    {
+        "id": 701,
+        "last_name": "Ginter",
+        "img": "/football/img/players/Ginter.webp",
+        "full_name": "Matthias Ginter",
+        "team": "Freiburg",
+        "nationality": "Germany",
+        "position": "Centre Back",
+        "description": "German defender with strong defensive skills."
+    },
+    {
+        "id": 702,
+        "last_name": "B Dia",
+        "img": "/football/img/players/B Dia.webp",
+        "full_name": "Boulaye Dia",
+        "team": "Salernitana1",
+        "nationality": "Senegal",
+        "position": "Forward",
+        "description": "Senegalese forward known for his goal-scoring ability."
+    },
+    {
+        "id": 703,
+        "last_name": "Livakovic",
+        "img": "/football/img/players/Livakovic.webp",
+        "full_name": "Dominik Livakovic",
+        "team": "Fenerbahce",
+        "nationality": "Croatia",
+        "position": "Goalkeeper",
+        "description": "Croatian goalkeeper with excellent shot-stopping skills."
+    },
+    {
+        "id": 704,
+        "last_name": "Kokcu",
+        "img": "/football/img/players/Kokcu.webp",
+        "full_name": "Orkun Kokcu",
+        "team": "Benfica",
+        "nationality": "Turkey",
+        "position": "Midfielder",
+        "description": "Turkish midfielder known for his playmaking abilities."
+    },
+    {
+        "id": 705,
+        "last_name": "En-Nesyri",
+        "img": "/football/img/players/En-Nesyri.webp",
+        "full_name": "Youssef En-Nesyri",
+        "team": "Sevilla",
+        "nationality": "Morocco",
+        "position": "Forward",
+        "description": "Moroccan forward with strong aerial presence."
+    },
+    {
+        "id": 706,
+        "last_name": "Chiamulera",
+        "img": "/football/img/players/Chiamulera.webp",
+        "full_name": "Josué Chiamulera",
+        "team": "Athletico Paranaense",
+        "nationality": "Brazil",
+        "position": "Centre Back",
+        "description": "Brazilian defender known for his passing ability."
+    },
+    {
+        "id": 707,
+        "last_name": "Mantela",
+        "img": "/football/img/players/Mantela.webp",
+        "full_name": "Lucas Mantela",
+        "team": "Palmeiras",
+        "nationality": "Brazil",
+        "position": "Goalkeeper",
+        "description": "Brazilian goalkeeper know for his saves."
+    },
+    {
+        "id": 708,
+        "last_name": "D Garcia",
+        "img": "/football/img/players/D Garcia.webp",
+        "full_name": "David Garcia",
+        "team": "Osasuna",
+        "nationality": "Spain",
+        "position": "Centre Back",
+        "description": "Spanish defender known for his solid defending."
+    },
+    {
+        "id": 709,
+        "last_name": "Ledesma",
+        "img": "/football/img/players/Ledesma.webp",
+        "full_name": "Pablo Ledesma",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Central Midfielder",
+        "description": "Former Argentine midfielder with great vision."
+    },
+    {
+        "id": 710,
+        "last_name": "Schär",
+        "img": "/football/img/players/Schar.webp",
+        "full_name": "Fabian Schär",
+        "team": "Retired",
+        "nationality": "Switzerland",
+        "position": "Defender",
+        "description": "Former Swiss defender known for his interceptions."
+    },
+    {
+        "id": 711,
+        "last_name": "Fred",
+        "img": "/football/img/players/Fred.webp",
+        "full_name": "Frederico Rodrigues",
+        "team": "Fenerbahce",
+        "nationality": "Brazil",
+        "position": "Central Midfielder",
+        "description": "Brazilian midfielder with a dynamic playing style."
+    },
+    {
+        "id": 712,
+        "last_name": "B Samba",
+        "img": "/football/img/players/B Samba.webp",
+        "full_name": "Brice Samba",
+        "team": "Lens",
+        "nationality": "France",
+        "position": "Goalkeeper",
+        "description": "French goalkeeper known for his reflexes."
+    },
+    {
+        "id": 713,
+        "last_name": "Martinez",
+        "img": "/football/img/players/Martinez.webp",
+        "full_name": "Inigo Martinez",
+        "team": "Barcelonaa",
+        "nationality": "Spain",
+        "position": "Centre Back",
+        "description": "Spanish defender with strong aerial presence."
+    },
+    {
+        "id": 714,
+        "last_name": "Darder",
+        "img": "/football/img/players/Darder.webp",
+        "full_name": "Sergi Darder",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder with great passing ability."
+    },
+    {
+        "id": 715,
+        "last_name": "Hrádecký",
+        "img": "/football/img/players/Hradecky.webp",
+        "full_name": "Lukáš Hrádecký",
+        "team": "Retired",
+        "nationality": "Finland",
+        "position": "Goalkeeper",
+        "description": "Former Finnish goalkeeper known for his shot-stopping skills."
+    },
+    {
+        "id": 716,
+        "last_name": "Gulácsi",
+        "img": "/football/img/players/Gulacsi.webp",
+        "full_name": "Péter Gulácsi",
+        "team": "Retired",
+        "nationality": "Hungary",
+        "position": "Goalkeeper",
+        "description": "Former Hungarian goalkeeper with excellent reflexes."
+    },
+    {
+        "id": 717,
+        "last_name": "Mitoma",
+        "img": "/football/img/players/Mitoma.webp",
+        "full_name": "Kaoru Mitoma",
+        "team": "Retired",
+        "nationality": "Japan",
+        "position": "Forward",
+        "description": "Former Japanese forward known for his pace and dribbling."
+    },
+    {
+        "id": 718,
+        "last_name": "Al_Musrati",
+        "img": "/football/img/players/Al_Musrati.webp",
+        "full_name": "Ahmed Al Musrati",
+        "team": "Retired",
+        "nationality": "Libya",
+        "position": "Midfielder",
+        "description": "Former Libyan midfielder with excellent ball control."
+    },
+    {
+        "id": 719,
+        "last_name": "Tapsoba",
+        "img": "/football/img/players/Tapsoba.webp",
+        "full_name": "Edmond Tapsoba",
+        "team": "Retired",
+        "nationality": "Burkina Faso",
+        "position": "Defender",
+        "description": "Former Burkinabé defender known for his composure."
+    },
+    {
+        "id": 720,
+        "last_name": "Hancko",
+        "img": "/football/img/players/Hancko.webp",
+        "full_name": "David Hancko",
+        "team": "Retired",
+        "nationality": "Slovakia",
+        "position": "Defender",
+        "description": "Former Slovak defender with strong tackling skills."
+    },
+    {
+        "id": 721,
+        "last_name": "Lopez_Sancet",
+        "img": "/football/img/players/Lopez_Sancet.webp",
+        "full_name": "Unai López Sancet",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder known for his versatility."
+    },
+    {
+        "id": 722,
+        "last_name": "Rrahmani",
+        "img": "/football/img/players/Rrahmani.webp",
+        "full_name": "Amir Rrahmani",
+        "team": "Retired",
+        "nationality": "Kosovo",
+        "position": "Defender",
+        "description": "Former Kosovan defender with strong aerial presence."
+    },
+    {
+        "id": 723,
+        "last_name": "Frattesi",
+        "img": "/football/img/players/Frattesi.webp",
+        "full_name": "Davide Frattesi",
+        "team": "Retired",
+        "nationality": "Italy",
+        "position": "Midfielder",
+        "description": "Former Italian midfielder with great vision and passing."
+    },
+    {
+        "id": 724,
+        "last_name": "Claudin",
+        "img": "/football/img/players/Claudin.webp",
+        "full_name": "Jérémy Claudin",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Midfielder",
+        "description": "Former French midfielder known for his technical skills."
+    },
+    {
+        "id": 725,
+        "last_name": "Kubo",
+        "img": "/football/img/players/Kubo.webp",
+        "full_name": "Takefusa Kubo",
+        "team": "Retired",
+        "nationality": "Japan",
+        "position": "Midfielder",
+        "description": "Former Japanese midfielder with great dribbling and creativity."
+    },
+    {
+        "id": 726,
+        "last_name": "Mazraoui",
+        "img": "/football/img/players/Mazraoui.webp",
+        "full_name": "Noussair Mazraoui",
+        "team": "Retired",
+        "nationality": "Morocco",
+        "position": "Right-Back, Midfielder",
+        "description": "Former Moroccan player known for versatility and defensive skills."
+    },
+    {
+        "id": 727,
+        "last_name": "Reinildo",
+        "img": "/football/img/players/Reinildo.webp",
+        "full_name": "Reinildo Mandava",
+        "team": "Retired",
+        "nationality": "Mozambique",
+        "position": "Left-Back",
+        "description": "Former Mozambican left-back with excellent defensive abilities."
+    },
+    {
+        "id": 728,
+        "last_name": "Méndez",
+        "img": "/football/img/players/Mendez.webp",
+        "full_name": "Brais Méndez",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder known for creativity and passing skills."
+    },
+    {
+        "id": 729,
+        "last_name": "Álvarez",
+        "img": "/football/img/players/Alvarez.webp",
+        "full_name": "Emiliano Álvarez",
+        "team": "Retired",
+        "nationality": "Uruguay",
+        "position": "Goalkeeper",
+        "description": "Former Uruguayan goalkeeper with exceptional reflexes."
+    },
+    {
+        "id": 730,
+        "last_name": "Sangaré",
+        "img": "/football/img/players/Sangare.webp",
+        "full_name": "Ibrahim Sangaré",
+        "team": "Retired",
+        "nationality": "Ivory Coast",
+        "position": "Midfielder",
+        "description": "Former Ivorian midfielder known for physicality and ball-winning."
+    },
+    {
+        "id": 731,
+        "last_name": "Schlager",
+        "img": "/football/img/players/Schlager.webp",
+        "full_name": "Xaver Schlager",
+        "team": "Retired",
+        "nationality": "Austria",
+        "position": "Midfielder",
+        "description": "Former Austrian midfielder with great passing ability."
+    },
+    {
+        "id": 732,
+        "last_name": "Kamada",
+        "img": "/football/img/players/Kamada.webp",
+        "full_name": "Daichi Kamada",
+        "team": "Retired",
+        "nationality": "Japan",
+        "position": "Midfielder",
+        "description": "Former Japanese midfielder known for creativity and technique."
+    },
+    {
+        "id": 733,
+        "last_name": "Lookman",
+        "img": "/football/img/players/Lookman.webp",
+        "full_name": "Ademola Lookman",
+        "team": "Retired",
+        "nationality": "England",
+        "position": "Forward, Midfielder",
+        "description": "Former English player with pace and dribbling skills."
+    },
+    {
+        "id": 734,
+        "last_name": "Oswaldinato",
+        "img": "/football/img/players/Oswaldinato.webp",
+        "full_name": "Oswaldinato",
+        "team": "Retired",
+        "nationality": "Brazil",
+        "position": "Midfielder",
+        "description": "Former Brazilian midfielder known for creativity and flair."
+    },
+    {
+        "id": 735,
+        "last_name": "Palacios",
+        "img": "/football/img/players/Palacios.webp",
+        "full_name": "Exequiel Palacios",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Midfielder",
+        "description": "Former Argentine midfielder with exceptional passing ability."
+    },
+    {
+        "id": 736,
+        "last_name": "Suzuki",
+        "img": "/football/img/players/Suzuki.webp",
+        "full_name": "Nailton Suzuki",
+        "team": "Retired",
+        "nationality": "Japan",
+        "position": "Midfielder",
+        "description": "Former Japanese midfielder known for versatility and work rate."
+    },
+    {
+        "id": 737,
+        "last_name": "Dano",
+        "img": "/football/img/players/Dano.webp",
+        "full_name": "Welington Dano",
+        "team": "Retired",
+        "nationality": "Brazil",
+        "position": "Forward",
+        "description": "Former Brazilian forward with a keen eye for goal."
+    },
+    {
+        "id": 738,
+        "last_name": "Bisesi",
+        "img": "/football/img/players/Bisesi.webp",
+        "full_name": "Adriano Bisesi",
+        "team": "Retired",
+        "nationality": "Italy",
+        "position": "Midfielder",
+        "description": "Former Italian midfielder with great passing and vision."
+    },
+    {
+        "id": 739,
+        "last_name": "Dourado",
+        "img": "/football/img/players/Dourado.webp",
+        "full_name": "Rosival Dourado",
+        "team": "Retired",
+        "nationality": "Brazil",
+        "position": "Midfielder",
+        "description": "Former Brazilian midfielder known for ball control and creativity."
+    },
+    {
+        "id": 740,
+        "last_name": "Zonta",
+        "img": "/football/img/players/Zonta.webp",
+        "full_name": "Adryan Zonta",
+        "team": "Retired",
+        "nationality": "Brazil",
+        "position": "Midfielder",
+        "description": "Former Brazilian midfielder with flair and dribbling skills."
+    },
+    {
+        "id": 741,
+        "last_name": "Lo Celso",
+        "img": "/football/img/players/LoCelso.webp",
+        "full_name": "Giovani Lo Celso",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Midfielder",
+        "description": "Former Argentine midfielder known for creativity and passing."
+    },
+    {
+        "id": 742,
+        "last_name": "Kimpembe",
+        "img": "/football/img/players/Kimpembe.webp",
+        "full_name": "Presnel Kimpembe",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Defender",
+        "description": "Former French defender with strong defensive skills."
+    },
+    {
+        "id": 743,
+        "last_name": "Skhiri",
+        "img": "/football/img/players/Skhiri.webp",
+        "full_name": "Ellyes Skhiri",
+        "team": "Retired",
+        "nationality": "Tunisia",
+        "position": "Midfielder",
+        "description": "Former Tunisian midfielder known for physicality and tackling."
+    },
+    {
+        "id": 744,
+        "last_name": "Yeray",
+        "img": "/football/img/players/Yeray.webp",
+        "full_name": "Yeray Álvarez",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Defender",
+        "description": "Former Spanish defender with excellent defensive abilities."
+    },
+    {
+        "id": 745,
+        "last_name": "Ünal",
+        "img": "/football/img/players/Unal.webp",
+        "full_name": "Enes Ünal",
+        "team": "Retired",
+        "nationality": "Turkey",
+        "position": "Forward",
+        "description": "Former Turkish forward with a knack for goal scoring."
+    },
+    {
+        "id": 746,
+        "last_name": "Malcom",
+        "img": "/football/img/players/Malcom.webp",
+        "full_name": "Malcom",
+        "team": "Retired",
+        "nationality": "Brazil",
+        "position": "Forward",
+        "description": "Former Brazilian forward known for speed and dribbling."
+    },
+    {
+        "id": 747,
+        "last_name": "Kramaric",
+        "img": "/football/img/players/Kramaric.webp",
+        "full_name": "Andrej Kramaric",
+        "team": "Retired",
+        "nationality": "Croatia",
+        "position": "Forward",
+        "description": "Former Croatian forward with clinical finishing skills."
+    },
+    {
+        "id": 748,
+        "last_name": "Zapata",
+        "img": "/football/img/players/Zapata.webp",
+        "full_name": "Duván Zapata",
+        "team": "Retired",
+        "nationality": "Colombia",
+        "position": "Forward",
+        "description": "Former Colombian forward known for strength and heading ability."
+    },
+    {
+        "id": 749,
+        "last_name": "Andrich",
+        "img": "/football/img/players/Andrich.webp",
+        "full_name": "Robert Andrich",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Midfielder",
+        "description": "Former German midfielder with great passing range."
+    },
+{
+        "id": 750,
+        "last_name": "Grifo",
+        "img": "/football/img/players/Grifo.webp",
+        "full_name": "Vincenzo Grifo",
+        "team": "Retired",
+        "nationality": "Italy",
+        "position": "Forward",
+        "description": "Former Italian forward known for his accurate free-kicks."
+    },
+    {
+        "id": 751,
+        "last_name": "Vlachodimos",
+        "img": "/football/img/players/Vlachodimos.webp",
+        "full_name": "Odisseas Vlachodimos",
+        "team": "Retired",
+        "nationality": "Greece",
+        "position": "Goalkeeper",
+        "description": "Former Greek goalkeeper with great shot-stopping abilities."
+    },
+    {
+        "id": 752,
+        "last_name": "Silva",
+        "img": "/football/img/players/Silva.webp",
+        "full_name": "Rui Silva",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Goalkeeper",
+        "description": "Former Portuguese goalkeeper known for his reflexes and agility."
+    },
+    {
+        "id": 753,
+        "last_name": "Lopes",
+        "img": "/football/img/players/Lopes.webp",
+        "full_name": "Anthony Lopes",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Goalkeeper",
+        "description": "Former French goalkeeper with strong shot-stopping skills."
+    },
+    {
+        "id": 754,
+        "last_name": "Baumann",
+        "img": "/football/img/players/Baumann.webp",
+        "full_name": "Oliver Baumann",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Goalkeeper",
+        "description": "Former German goalkeeper known for his commanding presence."
+    },
+    {
+        "id": 755,
+        "last_name": "Lacazette",
+        "img": "/football/img/players/Lacazette.webp",
+        "full_name": "Alexandre Lacazette",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Forward",
+        "description": "Former French forward with clinical finishing skills."
+    },
+    {
+        "id": 756,
+        "last_name": "Capoue",
+        "img": "/football/img/players/Capoue.webp",
+        "full_name": "Étienne Capoue",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Midfielder",
+        "description": "Former French midfielder known for his physicality and passing."
+    },
+    {
+        "id": 757,
+        "last_name": "Ochoa",
+        "img": "/football/img/players/Ochoa.webp",
+        "full_name": "Guillermo Ochoa",
+        "team": "Retired",
+        "nationality": "Mexico",
+        "position": "Goalkeeper",
+        "description": "Former Mexican goalkeeper with incredible shot-stopping ability."
+    },
+    {
+        "id": 758,
+        "last_name": "Mamardashvili",
+        "img": "/football/img/players/Mamardashvili.webp",
+        "full_name": "Giorgi Mamardashvili",
+        "team": "Retired",
+        "nationality": "Georgia",
+        "position": "Goalkeeper",
+        "description": "Former Georgian goalkeeper known for his excellent reflexes."
+    },
+    {
+        "id": 759,
+        "last_name": "Martinez",
+        "img": "/football/img/players/Martinez.webp",
+        "full_name": "Arnau Martinez",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Defender",
+        "description": "Former Spanish defender with strong tackling abilities."
+    },
+    {
+        "id": 760,
+        "last_name": "Adeyemi",
+        "img": "/football/img/players/Adeyemi.webp",
+        "full_name": "Karim Adeyemi",
+        "team": "Retired",
+        "nationality": "Germany",
+        "position": "Forward",
+        "description": "Former German forward known for his pace and dribbling."
+    },
+    {
+        "id": 761,
+        "last_name": "Agbonlahor",
+        "img": "/football/img/players/Agbonlahor.webp",
+        "full_name": "Vivian Agbonlahor",
+        "team": "Retired",
+        "nationality": "Nigeria",
+        "position": "Forward",
+        "description": "Former Nigerian forward with incredible speed and agility."
+    },
+    {
+        "id": 762,
+        "last_name": "Yatabaré Boey",
+        "img": "/football/img/players/Yatabaré Boey.webp",
+        "full_name": "Sambou Yatabaré Boey",
+        "team": "Retired",
+        "nationality": "Mali",
+        "position": "Midfielder",
+        "description": "Former Malian midfielder known for his versatility."
+    },
+    {
+        "id": 763,
+        "last_name": "Zubeldia Elorza",
+        "img": "/football/img/players/Zubeldia Elorza.webp",
+        "full_name": "Igor Zubeldia Elorza",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder with exceptional passing skills."
+    },
+    {
+        "id": 764,
+        "last_name": "Boniface",
+        "img": "/football/img/players/Boniface.webp",
+        "full_name": "Vincent Boniface",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Defender",
+        "description": "Former French defender known for his solid defending."
+    },
+    {
+        "id": 765,
+        "last_name": "Ibañez",
+        "img": "/football/img/players/Ibañez.webp",
+        "full_name": "Gabriel Ibañez",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Defender",
+        "description": "Former Argentine defender with great aerial ability."
+    },
+    {
+        "id": 766,
+        "last_name": "Valles",
+        "img": "/football/img/players/Valles.webp",
+        "full_name": "Álvaro Valles",
+        "team": "Retired",
+        "nationality": "Uruguay",
+        "position": "Goalkeeper",
+        "description": "Former Uruguayan goalkeeper known for his shot-stopping."
+    },
+    {
+        "id": 767,
+        "last_name": "Kudus",
+        "img": "/football/img/players/Kudus.webp",
+        "full_name": "Mohammed Kudus",
+        "team": "Retired",
+        "nationality": "Ghana",
+        "position": "Midfielder",
+        "description": "Former Ghanaian midfielder with excellent dribbling skills."
+    },
+    {
+        "id": 768,
+        "last_name": "Giménez",
+        "img": "/football/img/players/Giménez.webp",
+        "full_name": "Sebastián Javier Giménez",
+        "team": "Retired",
+        "nationality": "Paraguay",
+        "position": "Midfielder",
+        "description": "Former Paraguayan midfielder known for his work rate."
+    },
+    {
+        "id": 769,
+        "last_name": "Simakan",
+        "img": "/football/img/players/Simakan.webp",
+        "full_name": "Mohamed Simakan",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Defender",
+        "description": "Former French defender with great speed and tackling."
+    },
+    {
+        "id": 770,
+        "last_name": "Claude",
+        "img": "/football/img/players/Claude.webp",
+        "full_name": "Alexis Claude",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Midfielder",
+        "description": "Former French midfielder known for his passing accuracy."
+    },
+    {
+        "id": 771,
+        "last_name": "Laurienté",
+        "img": "/football/img/players/Laurienté.webp",
+        "full_name": "Maurice Laurienté",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Midfielder",
+        "description": "Former French midfielder with exceptional dribbling skills."
+    },
+    {
+        "id": 772,
+        "last_name": "Elmas",
+        "img": "/football/img/players/Elmas.webp",
+        "full_name": "Elif Elmas",
+        "team": "Retired",
+        "nationality": "North Macedonia",
+        "position": "Midfielder",
+        "description": "Former North Macedonian midfielder known for his creativity."
+    },
+    {
+        "id": 773,
+        "last_name": "Danso",
+        "img": "/football/img/players/Danso.webp",
+        "full_name": "Kevin Danso",
+        "team": "Retired",
+        "nationality": "Austria",
+        "position": "Defender",
+        "description": "Former Austrian defender with great aerial ability."
+    },
+    {
+        "id": 774,
+        "last_name": "Estupiñán",
+        "img": "/football/img/players/Estupiñán.webp",
+        "full_name": "Pervis Estupiñán",
+        "team": "Retired",
+        "nationality": "Ecuador",
+        "position": "Defender",
+        "description": "Former Ecuadorian defender known for his pace."
+    },
+    {
+        "id": 775,
+        "last_name": "Foyth",
+        "img": "/football/img/players/Foyth.webp",
+        "full_name": "Juan Marcos Foyth",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Defender",
+        "description": "Former Argentine defender with strong defensive skills."
+    },
+    {
+        "id": 776,
+        "last_name": "Medina",
+        "img": "/football/img/players/Medina.webp",
+        "full_name": "Facundo Medina",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Defender",
+        "description": "Former Argentine defender known for his interceptions."
+    },
+    {
+        "id": 777,
+        "last_name": "Terrier",
+        "img": "/football/img/players/Terrier.webp",
+        "full_name": "Martin Terrier",
+        "team": "Retired",
+        "nationality": "France",
+        "position": "Forward",
+        "description": "Former French forward with excellent dribbling skills."
+    },
+    {
+        "id": 778,
+        "last_name": "Bissouma",
+        "img": "/football/img/players/Bissouma.webp",
+        "full_name": "Yves Bissouma",
+        "team": "Retired",
+        "nationality": "Mali",
+        "position": "Midfielder",
+        "description": "Former Malian midfielder known for his versatility."
+    },
+    {
+        "id": 779,
+        "last_name": "Edwards",
+        "img": "/football/img/players/Edwards.webp",
+        "full_name": "Marcus Edwards",
+        "team": "Retired",
+        "nationality": "England",
+        "position": "Midfielder",
+        "description": "Former English midfielder with great dribbling skills."
+    },
+    {
+        "id": 780,
+        "last_name": "Barnes",
+        "img": "/football/img/players/Barnes.webp",
+        "full_name": "Harvey Barnes",
+        "team": "Retired",
+        "nationality": "England",
+        "position": "Midfielder",
+        "description": "Former English midfielder known for his pace."
+    },
+    {
+        "id": 781,
+        "last_name": "Luis",
+        "img": "/football/img/players/Luis.webp",
+        "full_name": "Florentino Luis Luis",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Midfielder",
+        "description": "Former Portuguese midfielder with excellent passing skills."
+    },
+    {
+        "id": 782,
+        "last_name": "Zubeldia Elorza",
+        "img": "/football/img/players/Zubeldia Elorza.webp",
+        "full_name": "Igor Zubeldia Elorza",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder with exceptional passing skills."
+    },
+    {
+        "id": 783,
+        "last_name": "Abraham",
+        "img": "/football/img/players/Abraham.webp",
+        "full_name": "Tammy Abraham",
+        "team": "Retired",
+        "nationality": "England",
+        "position": "Forward",
+        "description": "Former English forward known for his goal-scoring abilities."
+    },
+    {
+        "id": 784,
+        "last_name": "Garcia Naranjo",
+        "img": "/football/img/players/Garcia Naranjo.webp",
+        "full_name": "José Manuel Garcia Naranjo (Pepelu)",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "description": "Former Spanish midfielder with great vision and passing."
+    },
+    {
+        "id": 785,
+        "last_name": "Abrantes",
+        "img": "/football/img/players/Abrantes.webp",
+        "full_name": "Tony Abrantes",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Midfielder",
+        "description": "Former Portuguese midfielder with great passing ability."
+    },
+    {
+        "id": 786,
+        "last_name": "Santeiro",
+        "img": "/football/img/players/Santeiro.webp",
+        "full_name": "Laure Santeiro",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Forward",
+        "description": "Former Portuguese forward known for goal-scoring abilities."
+    },
+    {
+        "id": 787,
+        "last_name": "Pires",
+        "img": "/football/img/players/Pires.webp",
+        "full_name": "Heberto Pires",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Midfielder",
+        "description": "Former Portuguese midfielder with exceptional dribbling skills."
+    },
+    {
+        "id": 788,
+        "last_name": "Pires",
+        "img": "/football/img/players/Pires.webp",
+        "full_name": "Héniton Pires",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Defender",
+        "description": "Former Portuguese defender with strong defensive skills."
+    },
+    {
+        "id": 789,
+        "last_name": "Catarino",
+        "img": "/football/img/players/Catarino.webp",
+        "full_name": "Maikel Catarino",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Midfielder",
+        "description": "Former Portuguese midfielder known for his versatility."
+    },
+    {
+        "id": 790,
+        "last_name": "Bailey",
+        "img": "/football/img/players/Bailey.webp",
+        "full_name": "Leon Bailey",
+        "team": "Retired",
+        "nationality": "Jamaica",
+        "position": "Forward",
+        "description": "Former Jamaican forward with great pace and dribbling."
+    },
+    {
+        "id": 791,
+        "last_name": "Pavlidis",
+        "img": "/football/img/players/Pavlidis.webp",
+        "full_name": "Vangelis Pavlidis",
+        "team": "Retired",
+        "nationality": "Greece",
+        "position": "Forward",
+        "description": "Former Greek forward known for his goal-scoring prowess."
+    },
+    {
+        "id": 792,
+        "last_name": "Ávila",
+        "img": "/football/img/players/Ávila.webp",
+        "full_name": "Emanuel Damián Ávila",
+        "team": "Retired",
+        "nationality": "Argentina",
+        "position": "Midfielder",
+        "description": "Former Argentine midfielder with excellent passing skills."
+    },
+    {
+        "id": 793,
+        "last_name": "Santos",
+        "img": "/football/img/players/Santos.webp",
+        "full_name": "Nuno Santos",
+        "team": "Retired",
+        "nationality": "Portugal",
+        "position": "Forward",
+        "description": "Former Portuguese forward with a great work rate."
+    },
+    {
+        "id": 794,
+        "last_name": "Konsa Ngoyo",
+        "img": "/football/img/players/Konsa Ngoyo.webp",
+        "full_name": "Ezri Konsa Ngoyo",
+        "team": "Retired",
+        "nationality": "England",
+        "position": "Defender",
+        "description": "Former English defender with strong defensive skills."
+    },
+    {
+        "id": 795,
+        "last_name": "Dmitrovic",
+        "img": "/football/img/players/Dmitrovic.webp",
+        "full_name": "Marko Dmitrovic",
+        "team": "Retired",
+        "nationality": "Serbia",
+        "position": "Goalkeeper",
+        "description": "Former Serbian goalkeeper with great shot-stopping ability."
+    },
+    {
+        "id": 796,
+        "last_name": "Elustondo Irribaria",
+        "img": "/football/img/players/Elustondo Irribaria.webp",
+        "full_name": "Aritz Elustondo Irribaria",
+        "team": "Retired",
+        "nationality": "Spain",
+        "position": "Defender",
+        "description": "Former Spanish defender known for his versatility."
+    },
+    {
+    "id": 797,
+    "last_name": "Bouanga",
+    "img": "/football/img/players/Bouanga.webp",
+    "full_name": "Denis Bouanga",
+    "team": "Retired",
+    "nationality": "Gabon",
+    "position": "LW RW",
+    "description": "Dynamic winger with pace and goal-scoring ability."
+  },
+  {
+    "id": 798,
+    "last_name": "Golovin",
+    "img": "/football/img/players/Golovin.webp",
+    "full_name": "Aleksandr Golovin",
+    "team": "Retired",
+    "nationality": "Russia",
+    "position": "CM CAM",
+    "description": "Talented Russian midfielder with playmaking skills."
+  },
+  {
+    "id": 799,
+    "last_name": "Berenguer",
+    "img": "/football/img/players/Berenguer.webp",
+    "full_name": "Álex Berenguer",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "LM RM",
+    "description": "Spanish winger known for dribbling and creativity."
+  },
+  {
+    "id": 800,
+    "last_name": "Jordán",
+    "img": "/football/img/players/Jordan.webp",
+    "full_name": "Joan Jordán Moreno",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "CM CDM",
+    "description": "Versatile Spanish midfielder with passing and tackling skills."
+  },
+  {
+    "id": 801,
+    "last_name": "Marušic",
+    "img": "/football/img/players/Marusic.webp",
+    "full_name": "Adam Marušic",
+    "team": "Retired",
+    "nationality": "Country",
+    "position": "Position",
+    "description": "Description."
+  },
+  {
+    "id": 802,
+    "last_name": "Soria",
+    "img": "/football/img/players/Soria.webp",
+    "full_name": "David Soria Solis",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "GK",
+    "description": "Spanish goalkeeper known for shot-stopping abilities."
+  },
+  {
+    "id": 803,
+    "last_name": "Rongier",
+    "img": "/football/img/players/Rongier.webp",
+    "full_name": "Valentin Rongier",
+    "team": "Retired",
+    "nationality": "France",
+    "position": "CM CDM",
+    "description": "French midfielder with passing and defensive skills."
+  },
+  {
+    "id": 804,
+    "last_name": "Muriqi",
+    "img": "/football/img/players/Muriqi.webp",
+    "full_name": "Vedat Muriqi",
+    "team": "Retired",
+    "nationality": "Kosovo",
+    "position": "ST",
+    "description": "Kosovan striker with aerial prowess and goal-scoring ability."
+  },
+  {
+    "id": 805,
+    "last_name": "Omlin",
+    "img": "/football/img/players/Omlin.webp",
+    "full_name": "Jonas Omlin",
+    "team": "Retired",
+    "nationality": "Switzerland",
+    "position": "GK",
+    "description": "Swiss goalkeeper known for excellent reflexes."
+  },
+  {
+    "id": 806,
+    "last_name": "Pasalic",
+    "img": "/football/img/players/Pasalic.webp",
+    "full_name": "Mario Pašalic",
+    "team": "Retired",
+    "nationality": "Croatia",
+    "position": "CM CAM",
+    "description": "Croatian midfielder with versatility and goal-scoring ability."
+  },
+  {
+    "id": 807,
+    "last_name": "Traoré",
+    "img": "/football/img/players/Traore.webp",
+    "full_name": "Hamari Traoré",
+    "team": "Retired",
+    "nationality": "Mali",
+    "position": "RB",
+    "description": "Malian right-back known for pace and defensive skills."
+  },
+  {
+    "id": 808,
+    "last_name": "Moreno",
+    "img": "/football/img/players/Moreno.webp",
+    "full_name": "Álex Moreno Lopera",
+    "team": "Retired",
+    "nationality": "Spain",
+    "position": "LB",
+    "description": "Spanish left-back with attacking and defensive contributions."
+  },
+  {
+   "id": 809,
+   "last_name": "Guirassy",
+   "img": "/football/img/players/Guirassy.webp",
+   "full_name": "Serhou Guirassy",
+   "team": "Retired",
+   "nationality": "France",
+   "position": ["Forward", "Striker"],
+   "description": "Former French striker known for his scoring prowess."
+},
+{
+   "id": 810,
+   "last_name": "Bourigeaud",
+   "img": "/football/img/players/Bourigeaud.webp",
+   "full_name": "Benjamin Bourigeaud",
+   "team": "Retired",
+   "nationality": "France",
+   "position": ["Midfielder", "Winger"],
+   "description": "Former French midfielder and winger with great skills."
+},
+{
+   "id": 811,
+   "last_name": "Ali",
+   "img": "/football/img/players/Ali.webp",
+   "full_name": "Hany Said Mukhtar Ali",
+   "team": "Retired",
+   "nationality": "Saudi Arabia",
+   "position": ["Midfielder", "Playmaker"],
+   "description": "Former Saudi Arabian playmaker known for his creative play."
+},
+{
+   "id": 812,
+   "last_name": "Laborde",
+   "img": "/football/img/players/Laborde.webp",
+   "full_name": "Gaëtan Laborde",
+   "team": "Retired",
+   "nationality": "France",
+   "position": ["Forward", "Attacker"],
+   "description": "Former French forward and attacker with goal-scoring ability."
+},
+{
+   "id": 813,
+   "last_name": "Sávio",
+   "img": "/football/img/players/Sávio.webp",
+   "full_name": "Matheus Magalhães Sávio",
+   "team": "Retired",
+   "nationality": "Brazil",
+   "position": ["Midfielder", "Playmaker"],
+   "description": "Former Brazilian midfielder and playmaker."
+},
+{
+   "id": 814,
+   "last_name": "Arnold",
+   "img": "/football/img/players/Arnold.webp",
+   "full_name": "Maximilian Arnold",
+   "team": "Retired",
+   "nationality": "Germany",
+   "position": ["Midfielder", "Playmaker"],
+   "description": "Former German midfielder known for his creativity and vision."
+},
+{
+   "id": 815,
+   "last_name": "Savanier",
+   "img": "/football/img/players/Savanier.webp",
+   "full_name": "Téji Savanier",
+   "team": "Retired",
+   "nationality": "France",
+   "position": ["Midfielder", "Playmaker"],
+   "description": "Former French midfielder known for his passing and control."
+},
+{
+   "id": 816,
+   "last_name": "Füllkrug",
+   "img": "/football/img/players/Füllkrug.webp",
+   "full_name": "Niclas Füllkrug",
+   "team": "Retired",
+   "nationality": "Germany",
+   "position": ["Forward", "Striker"],
+   "description": "Former German striker with a knack for goal-scoring."
+},
+{
+   "id": 817,
+   "last_name": "Gazzaniga",
+   "img": "/football/img/players/Gazzaniga.webp",
+   "full_name": "Paulo Gazzaniga",
+   "team": "Retired",
+   "nationality": "Argentina",
+   "position": ["Goalkeeper"],
+   "description": "Former Argentine goalkeeper known for his shot-stopping ability."
+},
+{
+   "id": 818,
+   "last_name": "Maguire",
+   "img": "/football/img/players/Maguire.webp",
+   "full_name": "Harry Maguire",
+   "team": "Retired",
+   "nationality": "England",
+   "position": ["Defender", "Center-back"],
+   "description": "Former English center-back known for his defensive prowess."
+},
+{
+   "id": 819,
+   "last_name": "Suso",
+   "img": "/football/img/players/Suso.webp",
+   "full_name": "Jesús Joaquin Suso Fernández",
+   "team": "Retired",
+   "nationality": "Spain",
+   "position": ["Midfielder", "Winger"],
+   "description": "Former Spanish midfielder and winger with flair and creativity."
+},
+{
+   "id": 820,
+   "last_name": "Veretout",
+   "img": "/football/img/players/Veretout.webp",
+   "full_name": "Jordan Veretout",
+   "team": "Retired",
+   "nationality": "France",
+   "position": ["Midfielder", "Central midfielder"],
+   "description": "Former French central midfielder known for his passing ability."
+},
+{
+   "id": 821,
+   "last_name": "Biraghi",
+   "img": "/football/img/players/Biraghi.webp",
+   "full_name": "Cristiano Biraghi",
+   "team": "Retired",
+   "nationality": "Italy",
+   "position": ["Defender", "Left-back"],
+   "description": "Former Italian left-back known for his defensive skills."
+},
+{
+   "id": 822,
+   "last_name": "Vanaken",
+   "img": "/football/img/players/Vanaken.webp",
+   "full_name": "Hans Vanaken",
+   "team": "Retired",
+   "nationality": "Belgium",
+   "position": ["Midfielder", "Attacking midfielder"],
+   "description": "Former Belgian attacking midfielder with great vision."
+},
+{
+   "id": 823,
+   "last_name": "Gudelj",
+   "img": "/football/img/players/Gudelj.webp",
+   "full_name": "Nemanja Gudelj",
+   "team": "Retired",
+   "nationality": "Serbia",
+   "position": ["Midfielder", "Defensive midfielder"],
+   "description": "Former Serbian defensive midfielder known for his tough tackles."
+},
+{
+   "id": 824,
+   "last_name": "Cuadrado",
+   "img": "/football/img/players/Cuadrado.webp",
+   "full_name": "Juan Guillermo Cuadrado Bello",
+   "team": "Retired",
+   "nationality": "Colombia",
+   "position": ["Midfielder", "Right winger"],
+   "description": "Former Colombian right winger with pace and dribbling skills."
+},
+{
+   "id": 825,
+   "last_name": "Matic",
+   "img": "/football/img/players/Matic.webp",
+   "full_name": "Nemanja Matic",
+   "team": "Retired",
+   "nationality": "Serbia",
+   "position": ["Midfielder", "Defensive midfielder"],
+   "description": "Former Serbian defensive midfielder known for his passing ability."
+},
+{
+   "id": 826,
+   "last_name": "Aduriz",
+   "img": "/football/img/players/Aduriz.webp",
+   "full_name": "Carlos Javier De Marcos Aduriz",
+   "team": "Retired",
+   "nationality": "Spain",
+   "position": ["Forward", "Striker"],
+   "description": "Former Spanish striker known for his goal-scoring prowess."
+},
+{
+   "id": 827,
+   "last_name": "de Jong",
+   "img": "/football/img/players/de_Jong.webp",
+   "full_name": "Luuk de Jong",
+   "team": "Retired",
+   "nationality": "Netherlands",
+   "position": ["Forward", "Striker"],
+   "description": "Former Dutch striker with aerial ability and strength."
+},
+{
+   "id": 828,
+   "last_name": "Muniain",
+   "img": "/football/img/players/Muniain.webp",
+   "full_name": "Iker Muniain Goñi",
+   "team": "Retired",
+   "nationality": "Spain",
+   "position": ["Midfielder", "Winger"],
+   "description": "Former Spanish winger known for his dribbling and creativity."
+},
+{
+   "id": 829,
+   "last_name": "Darmian",
+   "img": "/football/img/players/Darmian.webp",
+   "full_name": "Matteo Darmian",
+   "team": "Retired",
+   "nationality": "Italy",
+   "position": ["Defender", "Right-back"],
+   "description": "Former Italian right-back known for his defensive versatility."
+},
+{
+   "id": 830,
+   "last_name": "Tolói",
+   "img": "/football/img/players/Tolói.webp",
+   "full_name": "Rafael Tolói",
+   "team": "Retired",
+   "nationality": "Brazil",
+   "position": ["Defender", "Center-back"],
+   "description": "Former Brazilian center-back with strong defensive skills."
+},
+{
+   "id": 831,
+   "last_name": "Arnautovic",
+   "img": "/football/img/players/Arnautovic.webp",
+   "full_name": "Marko Arnautovic",
+   "team": "Retired",
+   "nationality": "Austria",
+   "position": ["Forward", "Attacker"],
+   "description": "Former Austrian forward known for his physicality and goal-scoring."
+},
+{
+   "id": 832,
+   "last_name": "Adán",
+   "img": "/football/img/players/Adán.webp",
+   "full_name": "Antonio Adán",
+   "team": "Retired",
+   "nationality": "Spain",
+   "position": ["Goalkeeper"],
+   "description": "Former Spanish goalkeeper with excellent shot-stopping skills."
+}
 ]

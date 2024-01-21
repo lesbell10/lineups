@@ -762,7 +762,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goal scorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich, setting numerous records and earning awards for his prolific scoring."
+            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goalscorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich, setting numerous records and earning awards for his prolific scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1716,7 +1716,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goal scorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich, setting numerous records and earning awards for his prolific scoring."
+            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goalscorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich, setting numerous records and earning awards for his prolific scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {

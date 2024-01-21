@@ -14,15 +14,12 @@
   },
   {
     "id": 2,
-    "last_name": "Sancho",
-    "img": "/football/img/players/Sancho.webp",
-    "full_name": "Jadon Sancho",
-    "birth_date": "25-03-2000",
-
-    "position": "Winger",
+    "last_name": "Antony M",
+    "img": "/football/img/players/Antony M.webp",
+    "full_name": "Antony Matheus",
+    "position": "Right Winger",
     "team": "Manchester United",
-    "nationality": "England",
-    "height": "5'11\"",
+    "nationality": "Brazil",
     "description": "Exciting young winger known for his dribbling skills."
   },
   {

@@ -81,7 +81,7 @@
         "position": "Left Winger",
         "height": "5'10\"",
 
-        "description": "One of the greatest goal scorers in NHL history."
+        "description": "One of the greatest goalscorers in NHL history."
     },
     {
         "id": 7,
@@ -137,7 +137,7 @@
         "position": "Center",
         "height": "6'1\"",
 
-        "description": "Prolific goal scorer and playmaker."
+        "description": "Prolific goalscorer and playmaker."
     },
     {
         "id": 11,
@@ -221,7 +221,7 @@
         "position": "Right Winger",
         "height": "6'0\"",
 
-        "description": "Prolific goal scorer, 9 consecutive 50-goal seasons."
+        "description": "Prolific goalscorer, 9 consecutive 50-goal seasons."
     },
     {
         "id": 17,
@@ -235,7 +235,7 @@
         "position": "Right Winger",
         "height": "5'10\"",
 
-        "description": "One of the most lethal goal scorers in NHL history."
+        "description": "One of the most lethal goalscorers in NHL history."
     },
     {
         "id": 18,
@@ -991,7 +991,7 @@
   "position": "Center",
   "height": "5'10\"",
 
-  "description": "American center and prolific goal scorer in the NHL."
+  "description": "American center and prolific goalscorer in the NHL."
 },
 {
   "id": 80,
@@ -1133,9 +1133,9 @@
   },
   {
       "id": 91,
-      "last_name": "Brière",
+      "last_name": "Briere",
       "img": "/hockey/img/players/Briere.jpg",
-      "full_name": "Daniel Brière",
+      "full_name": "Daniel Briere",
       "team": "Retired",
       "nationality": "Canada",
       "position": "Center",

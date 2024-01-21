@@ -62,6 +62,7 @@ Promise.all([
     loadJSON('/football/present/nations/json/italy.json'),
     loadJSON('/football/present/nations/json/portugal.json'),
     loadJSON('/football/present/nations/json/belgium.json'),
+    loadJSON('/football/present/nations/json/netherlands.json'),
     loadJSON('/football/past/clubs/json/manchester city.json'),
     loadJSON('/football/past/clubs/json/real madrid.json'),
     loadJSON('/football/past/clubs/json/paris saint-germain.json'),

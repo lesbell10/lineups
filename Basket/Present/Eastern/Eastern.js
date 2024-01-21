@@ -843,7 +843,7 @@ const updateDropdown = () => {
 
     if (selectedYear == "7") {
         PG.textContent = "T Haliburton";
-        SG.textContent = "B Brown";
+        SG.textContent = "P Siakam";
         SF.textContent = "B Hield";
         PF.textContent = "B Mathurin";
         C.textContent = "M Turner";

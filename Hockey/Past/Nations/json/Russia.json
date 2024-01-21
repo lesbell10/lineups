@@ -7,7 +7,7 @@
         "team": "Washington Capitals",
         "nationality": "Russia",
         "position": "Left Winger",
-        "description": "Russian left winger, one of the greatest goal scorers."
+        "description": "Russian left winger, one of the greatest goalscorers."
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "team": "Pittsburgh Penguins",
         "nationality": "Russia",
         "position": "Center",
-        "description": "Russian center, skilled playmaker and goal scorer."
+        "description": "Russian center, skilled playmaker and goalscorer."
     },
     {
         "id": 3,

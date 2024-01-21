@@ -372,7 +372,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "0") {
 
-        STC.textContent = "La Martinez";
+        STC.textContent = "L Martinez";
         FR.textContent = "Messi";
         AMC.textContent = "Alvarez";
         FL.textContent = "De Paul";
@@ -841,7 +841,7 @@ const updateDropdown = () => {
 
     if (selectedYear == "0") {
 
-        STC.textContent = "La Martinez";
+        STC.textContent = "L Martinez";
         FR.textContent = "Messi";
         AMC.textContent = "Alvarez";
         FL.textContent = "De Paul";
