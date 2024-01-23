@@ -2317,7 +2317,7 @@
   "img": "/hockey/img/players/Dvorak.jpg",
   "full_name": "Christian Dvorak",
   "team": "Montreal Canadiens",
-  "nationality": "Canada",
+  "nationality": "USA",
   "position": "Center",
   "description": "Skillful, strategic center, forward-line depth."
 },
@@ -2983,8 +2983,8 @@
 },
 {
     "id": 340,
-    "last_name": "m Joseph",
-    "img": "/hockey/img/players/m joseph.jpg",
+    "last_name": "M Joseph",
+    "img": "/hockey/img/players/M Joseph.jpg",
     "full_name": "Mathieu Joseph",
     "team": "Ottawa Senators",
     "nationality": "Canada",
@@ -3033,8 +3033,8 @@
 },
 {
     "id": 345,
-    "last_name": "p-o Joseph",
-    "img": "/hockey/img/players/p-o joseph.jpg",
+    "last_name": "P-O Joseph",
+    "img": "/hockey/img/players/P-O joseph.jpg",
     "full_name": "Pierre-Olivier Joseph",
     "team": "Pittsburgh Penguins",
     "nationality": "Canada",
@@ -3075,7 +3075,7 @@
     "id": 351,
     "last_name": "Bellemare",
     "img": "/hockey/img/players/bellemare.jpg",
-    "full_name": "Pierre-Edouard Bellemare",
+    "full_name": "Pierre-E Bellemare",
     "team": "Seattle Kraken",
     "nationality": "France",
     "position": "Center",
@@ -3133,7 +3133,7 @@
 },
 {
     "id": 361,
-    "last_name": "Roy",
+    "last_name": "N Roy",
     "img": "/hockey/img/players/n roy.jpg",
     "full_name": "Nicolas Roy",
     "team": "Vegas Golden Knights",
@@ -3250,5 +3250,705 @@
     "nationality": "Canada",
     "position": "Right Winger",
     "description": "Enforcer known for his physical play and fighting."
+},
+{
+    "id": 376,
+    "last_name": "G Murray",
+    "img": "/hockey/img/players/G Murray.jpg",
+    "full_name": "Glen Murray",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Former NHL right winger with a scoring touch."
+},
+{
+    "id": 377,
+    "last_name": "Lucic",
+    "img": "/hockey/img/players/Lucic.jpg",
+    "full_name": "Milan Lucic",
+    "team": "Boston Bruins",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Physical left winger known for his toughness."
+},
+{
+    "id": 378,
+    "last_name": "B Campbell",
+    "img": "/hockey/img/players/B Campbell.jpg",
+    "full_name": "Brian Campbell",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Skilled defenseman with offensive capabilities."
+},
+{
+    "id": 379,
+    "last_name": "Hannan",
+    "img": "/hockey/img/players/Hannan.jpg",
+    "full_name": "Dave Hannan",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Versatile centerman known for his two-way play."
+},
+{
+    "id": 380,
+    "last_name": "Larionov",
+    "img": "/hockey/img/players/Larionov.jpg",
+    "full_name": "Igor Larionov",
+    "team": "Retired",
+    "nationality": "Russia",
+    "position": "Center",
+    "description": "Russian center, Hall of Famer, and playmaker extraordinaire."
+},
+{
+    "id": 381,
+    "last_name": "McCarty",
+    "img": "/hockey/img/players/McCarty.jpg",
+    "full_name": "Darren McCarty",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Tough right winger known for his physical play."
+},
+{
+    "id": 382,
+    "last_name": "Draper",
+    "img": "/hockey/img/players/Draper.jpg",
+    "full_name": "Kris Draper",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Hardworking center, key part of the Red Wings' 'Grind Line.'"
+},
+{
+    "id": 383,
+    "last_name": "Holmstrom",
+    "img": "/hockey/img/players/T Holmstrom.jpg",
+    "full_name": "Tomas Holmstrom",
+    "team": "Retired",
+    "nationality": "Sweden",
+    "position": "Left Winger",
+    "description": "Swedish left winger known for his net-front presence."
+},
+{
+    "id": 385,
+    "last_name": "Weiss",
+    "img": "/hockey/img/players/Weiss.jpg",
+    "full_name": "Stephen Weiss",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Skilled centerman with offensive skills."
+},
+{
+    "id": 386,
+    "last_name": "R Dvorak",
+    "img": "/hockey/img/players/R Dvorak.jpg",
+    "full_name": "Radek Dvorak",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Right Winger",
+    "description": "Czech right winger known for his speed and versatility."
+},
+{
+    "id": 388,
+    "last_name": "N Horton",
+    "img": "/hockey/img/players/N Horton.jpg",
+    "full_name": "Nathan Horton",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Talented right winger with a scoring touch."
+},
+{
+    "id": 389,
+    "last_name": "Upshall",
+    "img": "/hockey/img/players/Upshall.jpg",
+    "full_name": "Scottie Upshall",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Energetic left winger known for his hustle and speed."
+},
+{
+    "id": 392,
+    "last_name": "Souray",
+    "img": "/hockey/img/players/Souray.jpg",
+    "full_name": "Sheldon Souray",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Hard-hitting defenseman known for his powerful shot."
+},
+{
+    "id": 393,
+    "last_name": "Keane",
+    "img": "/hockey/img/players/Keane.jpg",
+    "full_name": "Mike Keane",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Versatile right winger and three-time Stanley Cup winner."
+},
+{
+    "id": 394,
+    "last_name": "Gionta",
+    "img": "/hockey/img/players/Gionta.jpg",
+    "full_name": "Brian Gionta",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "American right winger with a scoring touch."
+},
+{
+    "id": 395,
+    "last_name": "Fisher",
+    "img": "/hockey/img/players/Fisher.jpg",
+    "full_name": "Mike Fisher",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Two-way centerman known for his defensive prowess."
+},
+{
+    "id": 396,
+    "last_name": "Phillips",
+    "img": "/hockey/img/players/Phillips.jpg",
+    "full_name": "Chris Phillips",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Longtime Ottawa Senators defenseman and former captain."
+},
+{
+    "id": 397,
+    "last_name": "Bonk",
+    "img": "/hockey/img/players/Bonk.jpg",
+    "full_name": "Radek Bonk",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Center",
+    "description": "Czech center known for his faceoff skills and defensive play."
+},
+{
+    "id": 398,
+    "last_name": "Turris",
+    "img": "/hockey/img/players/Turris.jpg",
+    "full_name": "Kyle Turris",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Skilled centerman with a knack for scoring."
+},
+{
+    "id": 399,
+    "last_name": "Ciccarelli",
+    "img": "/hockey/img/players/Ciccarelli.jpg",
+    "full_name": "Dino Ciccarelli",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Former right winger with a goal-scoring reputation."
+},
+{
+    "id": 400,
+    "last_name": "Bradley",
+    "img": "/hockey/img/players/Bradley.jpg",
+    "full_name": "Brian Bradley",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Offensive-minded center known for his playmaking abilities."
+},
+{
+    "id": 401,
+    "last_name": "Kubina",
+    "img": "/hockey/img/players/Kubina.jpg",
+    "full_name": "Pavel Kubina",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Defenseman",
+    "description": "Czech defenseman with a physical presence."
+},
+{
+    "id": 402,
+    "last_name": "T Johnson",
+    "img": "/hockey/img/players/T Johnson.jpg",
+    "full_name": "Tyler Johnson",
+    "team": "Chicago Balckhawks",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "American center with speed and offensive skills."
+},
+{
+    "id": 403,
+    "last_name": "Ysebaert",
+    "img": "/hockey/img/players/Ysebaert.jpg",
+    "full_name": "Paul Ysebaert",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Centerman known for his scoring touch."
+},
+{
+    "id": 404,
+    "last_name": "F Potvin",
+    "img": "/hockey/img/players/F Potvin.jpg",
+    "full_name": "Felix Potvin",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Goaltender",
+    "description": "Goaltender with quick reflexes and acrobatic saves."
+},
+{
+    "id": 406,
+    "last_name": "D Tucker",
+    "img": "/hockey/img/players/D Tucker.jpg",
+    "full_name": "Darcy Tucker",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Wing",
+    "description": "Feisty right winger known for his physical play."
+},
+{
+    "id": 407,
+    "last_name": "McCabe",
+    "img": "/hockey/img/players/McCabe.jpg",
+    "full_name": "Bryan McCabe",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Offensive-minded defenseman with a powerful shot."
+},
+{
+    "id": 408,
+    "last_name": "Wesley",
+    "img": "/hockey/img/players/Wesley.jpg",
+    "full_name": "Glen Wesley",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Longtime NHL defenseman with a strong defensive game."
+},
+{
+    "id": 409,
+    "last_name": "Irbe",
+    "img": "/hockey/img/players/Irbe.jpg",
+    "full_name": "Arturs Irbe",
+    "team": "Retired",
+    "nationality": "Latvia",
+    "position": "Goaltender",
+    "description": "Latvian goaltender known for his acrobatic saves."
+},
+{
+    "id": 410,
+    "last_name": "Kapanen",
+    "img": "/hockey/img/players/Kapanen.jpg",
+    "full_name": "Sami Kapanen",
+    "team": "Retired",
+    "nationality": "Finland",
+    "position": "Right Wing",
+    "description": "Finnish winger known for his speed and versatility."
+},
+{
+    "id": 411,
+    "last_name": "Vyborny",
+    "img": "/hockey/img/players/Vyborny.jpg",
+    "full_name": "David Vyborny",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Right Winger",
+    "description": "Czech right winger with playmaking abilities."
+},
+{
+    "id": 412,
+    "last_name": "Umberger",
+    "img": "/hockey/img/players/Umberger.jpg",
+    "full_name": "RJ Umberger",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "American center known for his two-way play."
+},
+{
+    "id": 413,
+    "last_name": "Wisniewski",
+    "img": "/hockey/img/players/Wisniewski.jpg",
+    "full_name": "James Wisniewski",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Offensive defenseman with a strong slap shot."
+},
+{
+    "id": 414,
+    "last_name": "MacLean",
+    "img": "/hockey/img/players/MacLean.jpg",
+    "full_name": "John MacLean",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Former right winger known for his scoring ability."
+},
+{
+    "id": 415,
+    "last_name": "K Muller",
+    "img": "/hockey/img/players/K Muller.jpg",
+    "full_name": "Kirk Muller",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Versatile left winger and former team captain."
+},
+{
+    "id": 416,
+    "last_name": "Langenbrunner",
+    "img": "/hockey/img/players/Langenbrunner.jpg",
+    "full_name": "Jamie Langenbrunner",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "American right winger known for his leadership."
+},
+{
+    "id": 417,
+    "last_name": "Arnott",
+    "img": "/hockey/img/players/Arnott.jpg",
+    "full_name": "Jason Arnott",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Skilled centerman with a history of clutch goals."
+},
+{
+    "id": 418,
+    "last_name": "Zajac",
+    "img": "/hockey/img/players/Zajac.jpg",
+    "full_name": "Travis Zajac",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Two-way centerman with a strong defensive game."
+},
+{
+    "id": 419,
+    "last_name": "Sykora",
+    "img": "/hockey/img/players/Sykora.jpg",
+    "full_name": "Petr Sykora",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Right Wing",
+    "description": "Czech right winger known for his scoring touch."
+},
+{
+    "id": 420,
+    "last_name": "Pandolfo",
+    "img": "/hockey/img/players/Pandolfo.jpg",
+    "full_name": "Jay Pandolfo",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Left Winger",
+    "description": "Left winger known for his defensive play and penalty killing."
+},
+{
+    "id": 421,
+    "last_name": "B Sutter",
+    "img": "/hockey/img/players/B Sutter.jpg",
+    "full_name": "Brent Sutter",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Two-way centerman and former team captain."
+},
+{
+    "id": 422,
+    "last_name": "Jonsson",
+    "img": "/hockey/img/players/Jonsson.jpg",
+    "full_name": "Kenny Jonsson",
+    "team": "Retired",
+    "nationality": "Sweden",
+    "position": "Defenseman",
+    "description": "Swedish defenseman known for his defensive play."
+},
+{
+    "id": 423,
+    "last_name": "Beukeboom",
+    "img": "/hockey/img/players/Beukeboom.jpg",
+    "full_name": "Jeff Beukeboom",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Physical defenseman and key part of championship teams."
+},
+{
+    "id": 424,
+    "last_name": "Hartnell",
+    "img": "/hockey/img/players/Hartnell.jpg",
+    "full_name": "Scott Hartnell",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Power forward known for his physical play and scoring."
+},
+{
+    "id": 425,
+    "last_name": "Mullen",
+    "img": "/hockey/img/players/Mullen.jpg",
+    "full_name": "Joe Mullen",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "American right winger and Hall of Famer."
+},
+{
+    "id": 426,
+    "last_name": "K Stevens",
+    "img": "/hockey/img/players/K Stevens.jpg",
+    "full_name": "Kevin Stevens",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Left Winger",
+    "description": "Powerful left winger and former Penguins star."
+},
+{
+    "id": 427,
+    "last_name": "R Brown",
+    "img": "/hockey/img/players/R Brown.jpg",
+    "full_name": "Rob Brown",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Skilled right winger known for his playmaking."
+},
+{
+    "id": 428,
+    "last_name": "Neal",
+    "img": "/hockey/img/players/Neal.jpg",
+    "full_name": "James Neal",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Goal-scoring left winger with a powerful shot."
+},
+{
+    "id": 429,
+    "last_name": "D Hunter",
+    "img": "/hockey/img/players/D Hunter.jpg",
+    "full_name": "Dale Hunter",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Tough centerman known for his physical play."
+},
+{
+    "id": 430,
+    "last_name": "Johansson",
+    "img": "/hockey/img/players/Johansson.jpg",
+    "full_name": "Calle Johansson",
+    "team": "Retired",
+    "nationality": "Sweden",
+    "position": "Defenseman",
+    "description": "Swedish defenseman with offensive skills."
+},
+{
+    "id": 431,
+    "last_name": "Pivonka",
+    "img": "/hockey/img/players/Pivonka.jpg",
+    "full_name": "Michal Pivonka",
+    "team": "Retired",
+    "nationality": "Czech Republic",
+    "position": "Center",
+    "description": "Czech center known for his playmaking abilities."
+},
+{
+    "id": 432,
+    "last_name": "Hatcher",
+    "img": "/hockey/img/players/Hatcher.jpg",
+    "full_name": "Kevin Hatcher",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Offensive-minded defenseman with a heavy shot."
+},
+{
+    "id": 433,
+    "last_name": "Amonte",
+    "img": "/hockey/img/players/Amonte.jpg",
+    "full_name": "Tony Amonte",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Right Winger",
+    "description": "American right winger with goal-scoring ability."
+},
+{
+    "id": 434,
+    "last_name": "Larmer",
+    "img": "/hockey/img/players/Larmer.jpg",
+    "full_name": "Steve Larmer",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Skilled right winger and former Blackhawks star."
+},
+{
+    "id": 435,
+    "last_name": "Olczyk",
+    "img": "/hockey/img/players/Olczyk.jpg",
+    "full_name": "Eddie Olczyk",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "American center known for his versatility and broadcasting career."
+},
+{
+    "id": 436,
+    "last_name": "Kamensky",
+    "img": "/hockey/img/players/Kamensky.jpg",
+    "full_name": "Valeri Kamensky",
+    "team": "Retired",
+    "nationality": "Russia",
+    "position": "Left Winger",
+    "description": "Russian left winger known for his skill and finesse."
+},
+{
+    "id": 437,
+    "last_name": "Lehtinen",
+    "img": "/hockey/img/players/Lehtinen.jpg",
+    "full_name": "Jere Lehtinen",
+    "team": "Retired",
+    "nationality": "Finland",
+    "position": "Right Winger",
+    "description": "Finnish forward known for his two-way play and versatility."
+},
+{
+    "id": 438,
+    "last_name": "Morrow",
+    "img": "/hockey/img/players/Morrow.jpg",
+    "full_name": "Brenden Morrow",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Physical left winger and former captain."
+},
+{
+    "id": 439,
+    "last_name": "Broten",
+    "img": "/hockey/img/players/Broten.jpg",
+    "full_name": "Neal Broten",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "American center known for his playmaking abilities."
+},
+{
+    "id": 440,
+    "last_name": "D Hatcher",
+    "img": "/hockey/img/players/D Hatcher.jpg",
+    "full_name": "Derian Hatcher",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Defenseman",
+    "description": "Physical defenseman and former team captain."
+},
+{
+    "id": 442,
+    "last_name": "Rolston",
+    "img": "/hockey/img/players/Rolston.jpg",
+    "full_name": "Brian Rolston",
+    "team": "Retired",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "Versatile forward known for his speed and penalty killing."
+},
+{
+    "id": 443,
+    "last_name": "Granlund",
+    "img": "/hockey/img/players/Granlund.jpg",
+    "full_name": "Mikael Granlund",
+    "team": "San Jose Sharks",
+    "nationality": "Finland",
+    "position": "Center",
+    "description": "Finnish center with playmaking skills and hockey IQ."
+},
+{
+    "id": 444,
+    "last_name": "PM Bouchard",
+    "img": "/hockey/img/players/PM Bouchard.jpg",
+    "full_name": "Pierre-Marc Bouchard",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Center",
+    "description": "Playmaking center known for his vision and passing."
+},
+{
+    "id": 446,
+    "last_name": "C Smith",
+    "img": "/hockey/img/players/C Smith.jpg",
+    "full_name": "Craig Smith",
+    "team": "Dallas Stars",
+    "nationality": "USA",
+    "position": "Center",
+    "description": "American center known for his speed and work ethic."
+},
+{
+    "id": 447,
+    "last_name": "Hamhuis",
+    "img": "/hockey/img/players/Hamhuis.jpg",
+    "full_name": "Dan Hamhuis",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Defenseman",
+    "description": "Solid defenseman with good defensive instincts."
+},
+{
+    "id": 448,
+    "last_name": "Elliott",
+    "img": "/hockey/img/players/Elliott.jpg",
+    "full_name": "Brian Elliott",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Goaltender",
+    "description": "Goaltender known for his consistency and strong performances."
+},
+{
+    "id": 449,
+    "last_name": "Steen",
+    "img": "/hockey/img/players/Steen.jpg",
+    "full_name": "Thomas Steen",
+    "team": "Retired",
+    "nationality": "Sweden",
+    "position": "Center",
+    "description": "Swedish center known for his offensive skills."
+},
+{
+    "id": 450,
+    "last_name": "Little",
+    "img": "/hockey/img/players/Little.jpg",
+    "full_name": "Bryan Little",
+    "team": "Arizona Coyotes",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Skilled right winger with a history of scoring."
+},
+{
+    "id": 451,
+    "last_name": "Hunter",
+    "img": "/hockey/img/players/Hunter.jpg",
+    "full_name": "Dave Hunter",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Left Winger",
+    "description": "Tenacious, skillful, team-focused left winger."
+},
+{
+    "id": 452,
+    "last_name": "M Hunter",
+    "img": "/hockey/img/players/M Hunter.jpg",
+    "full_name": "Mark Hunter",
+    "team": "Retired",
+    "nationality": "Canada",
+    "position": "Right Winger",
+    "description": "Dynamic and versatile player, strong work ethic."
 }
 ]

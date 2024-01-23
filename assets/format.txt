@@ -9,10 +9,10 @@
     "team": "Retired",
     "nationality": (name of country),
     "position": (2 positions),
-    "description": (8 word sentence),
+    "description": (8 word description),
   }
 
 
     Fifa pics – transfermarkt - webp
-    Nhl pics – hockey-reference - jpg
-    Nba pics – espn - png
+    Nhl pics – hockey-reference/hockey db - jpg
+    Nba pics – espn/2k ratings - png

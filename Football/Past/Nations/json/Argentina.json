@@ -10,7 +10,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "6'1\"",
-        "description": "Argentine forward with a clinical scoring record."
+        "description": "Argentinian forward with a clinical scoring record."
     },
     {
         "id": 2,
@@ -36,7 +36,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'8\"",
-        "description": "Argentine playmaker with creativity and goal-scoring ability."
+        "description": "Argentinian playmaker with creativity and goal-scoring ability."
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@
         "team": "Benfica",
         "nationality": "Argentina",
         "height": "5'11\"",
-        "description": "Argentine left winger known for his pace and dribbling skills."
+        "description": "Argentinian left winger known for his pace and dribbling skills."
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
         "team": "Al Shabab",
         "nationality": "Argentina",
         "height": "5'8\"",
-        "description": "Argentine midfielder with excellent passing abilities."
+        "description": "Argentinian midfielder with excellent passing abilities."
     },
     {
         "id": 6,
@@ -75,7 +75,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'9\"",
-        "description": "Argentine legend and former Barcelona player."
+        "description": "Argentinian legend and former Barcelona player."
     },
     {
         "id": 7,
@@ -88,7 +88,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'10\"",
-        "description": "Experienced Argentine right back with defensive solidity."
+        "description": "Experienced Argentinian right back with defensive solidity."
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@
         "team": "Benfica",
         "nationality": "Argentina",
         "height": "6'0\"",
-        "description": "Argentine central defender known for his tough tackling."
+        "description": "Argentinian central defender known for his tough tackling."
     },
     {
         "id": 9,
@@ -114,7 +114,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "6'4\"",
-        "description": "Argentine defender with aerial dominance."
+        "description": "Argentinian defender with aerial dominance."
     },
     {
         "id": 10,
@@ -127,7 +127,7 @@
         "team": "Lyon",
         "nationality": "Argentina",
         "height": "5'7\"",
-        "description": "Argentine left back known for his attacking runs."
+        "description": "Argentinian left back known for his attacking runs."
     },
     {
         "id": 11,
@@ -140,6 +140,6 @@
         "team": "Aston Villa",
         "nationality": "Argentina",
         "height": "6'5\"",
-        "description": "Argentine goalkeeper with great shot-stopping abilities."
+        "description": "Argentinian goalkeeper with great shot-stopping abilities."
     }
 ]

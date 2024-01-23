@@ -23,7 +23,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'5\"",
-        "description": "Argentine hero, \"Hand of God\", 1986 World Cup"
+        "description": "Argentinian hero, \"Hand of God\", 1986 World Cup"
     },
     {
         "id": 3,
@@ -62,7 +62,7 @@
         "team": "Retired",
         "nationality": "Argentina",
         "height": "5'9\"",
-        "description": "Argentine forward, Real Madrid legend, five European Cups"
+        "description": "Argentinian forward, Real Madrid legend, five European Cups"
     },
     {
         "id": 6,
@@ -466,7 +466,7 @@
     "team": "Retired",
     "nationality": "Argentina",
     "height": "6'0\"",
-    "description": "Tough and reliable Argentine central defender."
+    "description": "Tough and reliable Argentinian central defender."
 },
 {
     "id": 44,
@@ -665,8 +665,8 @@
 },
 {
    "id": 64,
-   "last_name": "Adriano",
-   "img": "/football/img/players/Adriano.webp",
+   "last_name": "Adriano L",
+   "img": "/football/img/players/Adriano L.webp",
    "full_name": "Adriano Leite",
    "birth_date": "17-02-1982",
 
@@ -912,7 +912,7 @@
       "team": "Retired",
       "nationality": "Argentina",
       "height": "5'11\"",
-      "description": "Talented Argentine midfielder with exceptional vision and passing."
+      "description": "Talented Argentinian midfielder with exceptional vision and passing."
    },
    {
       "id": 89,
@@ -925,7 +925,7 @@
       "team": "Retired",
       "nationality": "Argentina",
       "height": "6'0\"",
-      "description": "Solid Argentine defender known for his strong tackles."
+      "description": "Solid Argentinian defender known for his strong tackles."
    },
    {
    "id": 90,
@@ -964,7 +964,7 @@
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'7\"",
-   "description": "Creative Argentine midfielder with playmaking abilities."
+   "description": "Creative Argentinian midfielder with playmaking abilities."
 },
 {
    "id": 96,
@@ -1340,7 +1340,7 @@
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'10\"",
-   "description": "Argentine winger with passing and vision."
+   "description": "Argentinian winger with passing and vision."
 },
 {
    "id": 133,
@@ -1353,7 +1353,7 @@
    "team": "Retired",
    "nationality": "Argentina",
    "height": "5'7\"",
-   "description": "Argentine striker with agility and goal-scoring ability."
+   "description": "Argentinian striker with agility and goal-scoring ability."
 },
 {
    "id": 134,
@@ -2809,7 +2809,7 @@
     "team": "Retired",
     "nationality": "Argentina",
     "height": "5'8\"",
-    "description": "Former Argentine footballer, skillful forward."
+    "description": "Former Argentinian footballer, skillful forward."
   },
   {
     "id": 266,
@@ -3082,7 +3082,7 @@
   "team": "Retired",
   "nationality": "Argentina",
   "position": "Centre Back, Left Back",
-  "description": "Argentine defender with a strong defensive presence."
+  "description": "Argentinian defender with a strong defensive presence."
 },
 {
   "id": 297,
@@ -3092,7 +3092,7 @@
   "team": "Qatar SC",
   "nationality": "Argentina",
   "position": "Attacking Midfielder",
-  "description": "Argentine midfielder known for his creativity."
+  "description": "Argentinian midfielder known for his creativity."
 },
 {
   "id": 298,
@@ -4554,7 +4554,7 @@
     "team": "Galatasaray",
     "nationality": "Argentina",
     "position": "Striker",
-    "description": "Talented Argentine striker, known for his goal-scoring ability."
+    "description": "Talented Argentinian striker, known for his goal-scoring ability."
   },
   {
     "id": 459,
@@ -5848,7 +5848,7 @@
 },
 {
     "id": 629,
-    "last_name": "Beek",
+    "last_name": "van de Beek",
     "img": "/football/img/players/van de Beek.webp",
     "full_name": "Donny van de Beek",
     "team": "Eintracht Frankfurt",
@@ -5981,7 +5981,7 @@
     "last_name": "An Silva",
     "img": "/football/img/players/An Silva.webp",
     "full_name": "Andre Silva",
-    "team": "Retired",
+    "team": "Real Sociedad",
     "nationality": "Portugal",
     "position": "Forward",
     "description": "Portuguese striker admired for his goal-scoring ability and versatility."
@@ -6364,7 +6364,7 @@
     "team": "RB Leipzig",
     "nationality": "Hungary",
     "position": "Goalkeeper",
-    "description": "Former Hungarian goalkeeper known for shot-stopping skills."
+    "description": "Hungarian goalkeeper known for shot-stopping skills."
 },
 {
         "id": 690,
@@ -6434,7 +6434,7 @@
         "team": "Real Betis",
         "nationality": "Argentina",
         "position": "Defensive Midfielder",
-        "description": "Argentine midfielder with versatility."
+        "description": "Argentinian midfielder with versatility."
     },
     {
         "id": 698,
@@ -6481,7 +6481,7 @@
         "last_name": "B Dia",
         "img": "/football/img/players/B Dia.webp",
         "full_name": "Boulaye Dia",
-        "team": "Salernitana1",
+        "team": "Salernitana",
         "nationality": "Senegal",
         "position": "Forward",
         "description": "Senegalese forward known for his goal-scoring ability."
@@ -6517,26 +6517,6 @@
         "description": "Moroccan forward with strong aerial presence."
     },
     {
-        "id": 706,
-        "last_name": "Chiamulera",
-        "img": "/football/img/players/Chiamulera.webp",
-        "full_name": "Josué Chiamulera",
-        "team": "Athletico Paranaense",
-        "nationality": "Brazil",
-        "position": "Centre Back",
-        "description": "Brazilian defender known for his passing ability."
-    },
-    {
-        "id": 707,
-        "last_name": "Mantela",
-        "img": "/football/img/players/Mantela.webp",
-        "full_name": "Lucas Mantela",
-        "team": "Palmeiras",
-        "nationality": "Brazil",
-        "position": "Goalkeeper",
-        "description": "Brazilian goalkeeper know for his saves."
-    },
-    {
         "id": 709,
         "last_name": "Ledesma",
         "img": "/football/img/players/Ledesma.webp",
@@ -6544,13 +6524,13 @@
         "team": "Retired",
         "nationality": "Argentina",
         "position": "Central Midfielder",
-        "description": "Former Argentine midfielder with great vision."
+        "description": "Former Argentinian midfielder with great vision."
     },
     {
         "id": 710,
-        "last_name": "Schär",
+        "last_name": "Schar",
         "img": "/football/img/players/Schar.webp",
-        "full_name": "Fabian Schär",
+        "full_name": "Fabian Schar",
         "team": "Newcastle United",
         "nationality": "Switzerland",
         "position": "Centre Back",
@@ -6579,7 +6559,7 @@
     {
         "id": 713,
         "last_name": "Martinez",
-        "img": "/football/img/players/Martinez.webp",
+        "img": "/football/img/players/I Martinez.webp",
         "full_name": "Inigo Martinez",
         "team": "Barcelona",
         "nationality": "Spain",
@@ -6624,7 +6604,7 @@
         "team": "Bayer Leverkusen",
         "nationality": "Burkina Faso",
         "position": "Centre Back",
-        "description": "Burkinabé defender known for his composure."
+        "description": "Burkinabe defender known for his composure."
     },
     {
         "id": 720,
@@ -6674,7 +6654,7 @@
         "team": "Atletico Madrid",
         "nationality": "Mozambique",
         "position": "Left Back",
-        "description": "Former Mozambican left back with excellent defensive abilities."
+        "description": "Mozambican left back with excellent defensive abilities."
     },
     {
         "id": 730,
@@ -6704,7 +6684,7 @@
         "team": "Bayer Leverkusen",
         "nationality": "Argentina",
         "position": "Central Midfielder",
-        "description": "Argentine midfielder with exceptional passing ability."
+        "description": "Argentinian midfielder with exceptional passing ability."
     },
     {
         "id": 741,
@@ -6714,13 +6694,13 @@
         "team": "Tottenham",
         "nationality": "Argentina",
         "position": "Attacking Midfielder",
-        "description": "Argentine midfielder known for creativity and passing."
+        "description": "Argentinian midfielder known for creativity and passing."
     },
     {
         "id": 744,
         "last_name": "Yeray",
         "img": "/football/img/players/Yeray.webp",
-        "full_name": "Yeray alvarez",
+        "full_name": "Yeray Alvarez",
         "team": "Athletic Bilbao",
         "nationality": "Spain",
         "position": "Centre Back",
@@ -6734,7 +6714,7 @@
         "team": "Getafe",
         "nationality": "Turkey",
         "position": "Forward",
-        "description": "Former Turkish forward with a knack for goal scoring."
+        "description": "Turkish forward with a knack for goal scoring."
     },
     {
         "id": 746,
@@ -6791,10 +6771,10 @@
         "last_name": "Lopes",
         "img": "/football/img/players/A Lopes.webp",
         "full_name": "Anthony Lopes",
-        "team": "Retired",
-        "nationality": "France",
+        "team": "Lyon",
+        "nationality": "Portugal",
         "position": "Goalkeeper",
-        "description": "Former French goalkeeper with strong shot-stopping skills."
+        "description": "Portuguese goalkeeper with strong shot-stopping skills."
     },
     {
         "id": 754,
@@ -6831,7 +6811,7 @@
         "last_name": "Ochoa",
         "img": "/football/img/players/Ochoa.webp",
         "full_name": "Guillermo Ochoa",
-        "team": "Ssalernitana",
+        "team": "Salernitana",
         "nationality": "Mexico",
         "position": "Goalkeeper",
         "description": "Mexican goalkeeper with incredible shot-stopping ability."
@@ -6844,7 +6824,7 @@
         "team": "Valencia",
         "nationality": "Georgia",
         "position": "Goalkeeper",
-        "description": "Former Georgian goalkeeper known for his excellent reflexes."
+        "description": "Georgian goalkeeper known for his excellent reflexes."
     },
     {
         "id": 759,
@@ -6974,7 +6954,7 @@
         "team": "Lens",
         "nationality": "Argentina",
         "position": "Centre Back",
-        "description": "Argentine defender known for his interceptions."
+        "description": "Argentinian defender known for his interceptions."
     },
     {
         "id": 778,
@@ -7018,7 +6998,7 @@
     },
     {
         "id": 784,
-        "last_name": "J Garcia ",
+        "last_name": "J Garcia",
         "img": "/football/img/players/J Garcia.webp",
         "full_name": "Jose Luis Garcia",
         "team": "Valencia",
@@ -7134,7 +7114,7 @@
    "team": "PSV Eindhoven",
    "nationality": "Netherlands",
    "position": "Striker",
-   "description": "Former Dutch striker with aerial ability and strength."
+   "description": "Dutch striker with aerial ability and strength."
 },
 {
    "id": 828,
@@ -7194,7 +7174,7 @@
    "team": "Atalanta",
    "nationality": "Italy",
    "position": "Goalkeeper",
-   "description": "Italian goalkeeper known for his agility and reflexes."
+   "description": "Young Italian goalkeeper known for his agility and reflexes."
 },
 {
    "id": 835,
@@ -7204,7 +7184,7 @@
    "team": "Borussia Dortmund",
    "nationality": "Germany",
    "position": "Forward",
-   "description": "Cameroonian-born striker known for his goal-scoring records."
+   "description": "Young Cameroonian-born striker known for his goal-scoring records."
 },
 {
    "id": 836,
@@ -7214,66 +7194,46 @@
    "team": "Real Madrid",
    "nationality": "Turkey",
    "position": "Attacking Midfielder",
-   "description": "Turkish attacking midfielder with creative flair."
+   "description": "Young Turkish attacking midfielder with creative flair."
 },
 {
    "id": 837,
    "last_name": "Roque",
    "img": "/football/img/players/Roque.webp",
    "full_name": "Vitor Roque",
-   "team": "Retired",
-   "nationality": "Portugal",
-   "position": ["Defender", "Center-back"],
-   "description": "Former Portuguese center-back known for his defensive solidity."
+   "team": "Barcelona",
+   "nationality": "Brazil",
+   "position": "Forward",
+   "description": "Promising Brazilian forward, rising star in football world."
 },
 {
    "id": 838,
    "last_name": "Miretti",
    "img": "/football/img/players/Miretti.webp",
    "full_name": "Fabio Miretti",
-   "team": "Retired",
+   "team": "Juventus",
    "nationality": "Italy",
-   "position": ["Forward", "Winger"],
-   "description": "Former Italian winger with pace and dribbling skills."
-},
-{
-   "id": 839,
-   "last_name": "Tel",
-   "img": "/football/img/players/Tel.webp",
-   "full_name": "Mathys Tel",
-   "team": "Retired",
-   "nationality": "Netherlands",
-   "position": ["Midfielder", "Central midfielder"],
-   "description": "Former Dutch central midfielder with vision and passing ability."
-},
-{
-   "id": 840,
-   "last_name": "Hato",
-   "img": "/football/img/players/Hato.webp",
-   "full_name": "Jorrel Hato",
-   "team": "Retired",
-   "nationality": "Curacao",
-   "position": ["Forward", "Striker"],
-   "description": "Former Curacaoan striker known for his goal-scoring prowess."
+   "position": "Central Midfielder",
+   "description": "Young Italian midfielder with pace and dribbling skills."
 },
 {
    "id": 841,
    "last_name": "Veiga",
    "img": "/football/img/players/Veiga.webp",
    "full_name": "Gabri Veiga",
-   "team": "Retired",
-   "nationality": "Brazil",
-   "position": ["Midfielder", "Central midfielder"],
-   "description": "Former Brazilian central midfielder with strong tackling skills."
+   "team": "Al Ahli",
+   "nationality": "Spain",
+   "position": "Central Midfielder",
+   "description": "Spanish central midfielder with strong tackling skills."
 },
 {
    "id": 842,
    "last_name": "Zaire-Emery",
    "img": "/football/img/players/Zaire-Emery.webp",
    "full_name": "Warren Zaire-Emery",
-   "team": "Retired",
+   "team": "PSG",
    "nationality": "France",
-   "position": ["Forward", "Attacker"],
-   "description": "Former French attacker known for his flair and creativity."
+   "position": "Central Midfielder",
+   "description": "Young footballer, future french star."
 }
 ]
