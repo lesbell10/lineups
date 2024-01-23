@@ -1,5 +1,5 @@
 
- put each player in this:
+ put each player in this in json:
 
   {
     "id": 1,

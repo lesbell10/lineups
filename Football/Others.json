@@ -1060,7 +1060,7 @@
 {
    "id": 105,
    "last_name": "Bakayoko",
-   "img": "/football/img/players/Bakayoko.png",
+   "img": "/football/img/players/Bakayoko.webp",
    "full_name": "Ibrahima Bakayoko",
    "birth_date": "31-12-1976",
 
@@ -5999,5 +5999,85 @@
    "nationality": "France",
    "position": "Central Midfielder",
    "description": "Young footballer, future french star."
+},
+{
+  "id": 843,
+  "last_name": "N Gonzalez",
+  "img": "/football/img/players/N Gonzalez.webp",
+  "full_name": "Nicolas Gonzalez",
+  "team": "Fiorentina",
+  "nationality": "Argentina",
+  "position": "Right Winger",
+  "description": "Talented Argentine winger with great goal-scoring ability."
+},
+{
+  "id": 844,
+  "last_name": "Almiron",
+  "img": "/football/img/players/Almiron.webp",
+  "full_name": "Miguel Almiron",
+  "team": "Newcastle United",
+  "nationality": "Paraguay",
+  "position": "Right Winger",
+  "description": "Creative Paraguayan winger known for his playmaking skills."
+},
+{
+  "id": 845,
+  "last_name": "Tsygankov",
+  "img": "/football/img/players/Tsygankov.webp",
+  "full_name": "Viktor Tsygankov",
+  "team": "Girona",
+  "nationality": "Ukraine",
+  "position": "Right Winger",
+  "description": "Talented Ukrainian winger with great passing ability."
+},
+{
+  "id": 846,
+  "last_name": "Casteels",
+  "img": "/football/img/players/Casteels.webp",
+  "full_name": "Koen Casteels",
+  "team": "Wolfsburg",
+  "nationality": "Belgium",
+  "position": "Goalkeeper",
+  "description": "Solid Belgian goalkeeper with excellent shot-stopping skills."
+},
+{
+  "id": 847,
+  "last_name": "L Alberto",
+  "img": "/football/img/players/L Alberto.webp",
+  "full_name": "Luis Alberto",
+  "team": "Lazio",
+  "nationality": "Spain",
+  "position": "Central Midfielder",
+  "description": "Creative Spanish midfielder known for his vision on the field."
+},
+{
+  "id": 848,
+  "last_name": "Pope",
+  "img": "/football/img/players/Pope.webp",
+  "full_name": "Nick Pope",
+  "team": "Newcastle United",
+  "nationality": "England",
+  "position": "Goalkeeper",
+  "description": "Reliable English goalkeeper with strong presence in the box."
+},
+{
+  "id": 849,
+  "last_name": "Remiro",
+  "img": "/football/img/players/Remiro.webp",
+  "full_name": "Alex Remiro",
+  "team": "Real Sociedad",
+  "nationality": "Spain",
+  "position": "Goalkeeper",
+  "description": "Spanish goalkeeper known for his quick reflexes and agility."
+},
+{
+  "id": 850,
+  "last_name": "Grimaldo",
+  "img": "/football/img/players/Grimaldo.webp",
+  "full_name": "Alejandro Grimaldo",
+  "team": "Bayer Leverkusen",
+  "nationality": "Spain",
+  "position": "Left Back",
+  "description": "Solid Spanish left back with excellent defensive skills."
 }
 ]
