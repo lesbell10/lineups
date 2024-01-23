@@ -5571,26 +5571,6 @@
     "description": "Creative midfielder with excellent ball control skills."
   },
   {
-    "id": 670,
-    "last_name": "Ruan",
-    "img": "/football/img/players/Ruan.webp",
-    "full_name": "Ruan Teixeira",
-    "team": "CF Montreal",
-    "nationality": "Brazil",
-    "position": "Right Back",
-    "description": "Speedy full back known for his overlapping runs."
-  },
-  {
-    "id": 671,
-    "last_name": "Offor",
-    "img": "/football/img/players/Offor.webp",
-    "full_name": "Chinonso Offor",
-    "team": "CF Montreal",
-    "nationality": "Nigeria",
-    "position": "Forward",
-    "description": "Tall striker with strong aerial presence and finishing."
-  },
-  {
     "id": 672,
     "last_name": "M Toye",
     "img": "/football/img/players/M Toye.webp",
@@ -5599,16 +5579,6 @@
     "nationality": "USA",
     "position": "Forward",
     "description": "Dynamic forward with powerful shot and good movement."
-  },
-  {
-    "id": 673,
-    "last_name": "G Campbell",
-    "img": "/football/img/players/G Campbell.webp",
-    "full_name": "George Campbell",
-    "team": "CF Montreal",
-    "nationality": "USA",
-    "position": "Centre Back",
-    "description": "Strong and tactical defender with good positioning."
   },
   {
     "id": 674,
@@ -5639,66 +5609,6 @@
     "nationality": "Canada",
     "position": "Central Midfielder",
     "description": "Promising young midfielder with good tackling ability."
-  },
-  {
-    "id": 677,
-    "last_name": "F Alvarez",
-    "img": "/football/img/players/F Alvarez.webp",
-    "full_name": "Fernando Alvarez",
-    "team": "CF Montreal",
-    "nationality": "Mexico",
-    "position": "Centre Back",
-    "description": "Solid defender with excellent passing."
-  },
-  {
-    "id": 678,
-    "last_name": "Vilsaint",
-    "img": "/football/img/players/Vilsaint.webp",
-    "full_name": "Jules-A Vilsaint",
-    "team": "CF Montreal",
-    "nationality": "Canada",
-    "position": "Forward",
-    "description": "Energetic forward with strong defensive contributions."
-  },
-  {
-    "id": 679,
-    "last_name": "Thorkelsson",
-    "img": "/football/img/players/Thorkelsson.webp",
-    "full_name": "Robert Thorkelsson",
-    "team": "CF Montreal",
-    "nationality": "Iceland",
-    "position": "Centre Back",
-    "description": "Talented centre back with good stamina."
-  },
-  {
-    "id": 680,
-    "last_name": "Ketterer",
-    "img": "/football/img/players/Ketterer.webp",
-    "full_name": "Logan Ketterer",
-    "team": "CF Montreal",
-    "nationality": "USA",
-    "position": "Goalkeeper",
-    "description": "Commanding goalkeeper with great shot-stopping abilities."
-  },
-  {
-    "id": 682,
-    "last_name": "Zouhir",
-    "img": "/football/img/players/Zouhir.webp",
-    "full_name": "Rida Zouhir",
-    "team": "CF Montreal",
-    "nationality": "Canada",
-    "position": "Central Midfielder",
-    "description": "Young midfielder with potential and good technique."
-  },
-  {
-    "id": 683,
-    "last_name": "Jabang",
-    "img": "/football/img/players/Jabang.webp",
-    "full_name": "Ousman Jabang",
-    "team": "CF Montreal",
-    "nationality": "Gambia",
-    "position": "Defensive Midfielder",
-    "description": "Solid defensive with good marking and aerial ability."
   },
   {
     "id": 684,
