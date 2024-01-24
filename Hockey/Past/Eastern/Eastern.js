@@ -483,7 +483,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = ""
+            sideModal.textContent = "The Ottawa Senators, from 2010 to 2020, had a decade with a mix of playoff runs and rebuilding efforts. They reached the Eastern Conference Finals in 2017, featuring star players like Erik Karlsson. The franchise faced challenges but emphasized a strategy to develop young talent for future competitiveness."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -513,7 +513,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Ottawa Senators, from 2010 to 2020, had a decade with a mix of playoff runs and rebuilding efforts. They reached the Eastern Conference Finals in 2017, featuring star players like Erik Karlsson. The franchise faced challenges but emphasized a strategy to develop young talent for future competitiveness."
+            sideModal.textContent = "The Philadelphia Flyers from 2010 to 2020 witnessed a fluctuating decade. They made several playoff appearances with star players like Claude Giroux, but struggled to win a Stanley Cup. Ownership changes and coaching shifts influenced the team's performance."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -575,7 +575,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Tampa Bay Lightning, from 2010 to 2020, established themselves as an NHL powerhouse. They won the Stanley Cup twice in 2020 and 2021. Led by stars like Steven Stamkos and Nikita Kucherov, the franchise showcased strong regular-season performance and a commitment to playoff success."
+            sideModal.textContent = "The Tampa Bay Lightning, from 2010 to 2020, established themselves as an NHL powerhouse. They won the Stanley Cup in 2020. Led by stars like Steven Stamkos and Nikita Kucherov, the franchise showcased strong regular-season performance and a commitment to playoff success."
         })
 
         smallpic.addEventListener("mouseout", () => {

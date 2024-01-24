@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "last_name": "Tatar",
+        "img": "/hockey/img/players/Tatar.jpg",
+        "full_name": "Tomas Tatar",
+        "team": "Colorado Avalanche",
+        "nationality": "Slovak",
+        "position": "Left Winger",
+        "description": "Slovak left winger, known for scoring ability."
+    },
+    {
+        "id": 2,
         "last_name": "Hossa",
         "img": "/hockey/img/players/Hossa.jpg",
         "full_name": "Marian Hossa",
@@ -10,7 +20,7 @@
         "description": "Slovak right winger, known for his two-way play."
     },
     {
-        "id": 2,
+        "id": 3,
         "last_name": "Gaborik",
         "img": "/hockey/img/players/Gaborik.jpg",
         "full_name": "Marian Gaborik",
@@ -18,16 +28,6 @@
         "nationality": "Slovak",
         "position": "Right Winger",
         "description": "Slovak right winger, known for his speed and scoring ability."
-    },
-    {
-        "id": 3,
-        "last_name": "Tatar",
-        "img": "/hockey/img/players/Tatar.jpg",
-        "full_name": "Tomas Tatar",
-        "team": "Colorado Avalanche",
-        "nationality": "Slovak",
-        "position": "Left Winger",
-        "description": "Slovak left winger, known for scoring ability."
     },
     {
         "id": 4,

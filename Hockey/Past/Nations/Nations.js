@@ -317,9 +317,9 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "5") {
-        FL.textContent = "Hossa";
-        FC.textContent = "Gaborik";
-        FR.textContent = "Tatar";
+        FL.textContent = "Tatar";
+        FC.textContent = "Hossa";
+        FR.textContent = "Gaborik";
         DL.textContent = "Chara";
         DR.textContent = "Sekera";
         G.textContent = "Halak";

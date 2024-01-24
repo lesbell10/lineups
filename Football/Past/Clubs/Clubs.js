@@ -773,14 +773,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Tottenham Hotspur had a transformative decade from 2010 to 2020. Under Mauricio Pochettino's management, they became top-four contenders in the Premier League and reached the UEFA Champions League final in 2019, though they didn't secure a trophy during this period.."
+            sideModal.textContent = "Tottenham Hotspur had a transformative decade from 2010 to 2020. Under Mauricio Pochettino's management, they became top-four contenders in the Premier League and reached the UEFA Champions League final in 2019, though they didn't secure a trophy during this period."
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Best Manager: Maurici Pochetino"
+        coach.textContent = "Best Manager: Mauricio Pochetino"
     }
 
     if (selectedYear == "2") {

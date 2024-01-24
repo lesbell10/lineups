@@ -170,7 +170,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, European basketball continued to thrive, marked by intense competition and high skill levels. The EuroLeague remained the premier club competition, showcasing top-tier talents and teams from across the continent"
+            sideModal.innerHTML = "Best Coach: Igor Kokoškov <br> Best Player: Nikola Jokic <br> Best Ever: Dirk Nowitzki, Giannis Antetokounmpo, Tony Parker, Nikola Jokic"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -201,7 +201,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, basketball further cemented its status as a global sport.The NBA continued to dominate with its blend of star power and international talent. The FIBA World Cup highlighted the sport's international reach. "
+            sideModal.innerHTML = "Best Coach: Nick Nurse <br> Best Player: Shai Gilgeous-Alexander <br> Best Ever: Hakeem Olajuwon, Steve Nash, Manu Ginobili, Yao Ming"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -229,7 +229,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "In 2023, USA Basketball maintained its global dominance with a strong focus on the development and performance of both its men's and women's teams. The NBA continued to showcase exceptional talent and competitiveness, with thrilling playoffs and emerging young stars. "
+            sideModal.innerHTML = "Best Coach: Erik Spoelstra <br> Best Player: LeBron James <br> Best Ever: Michael Jordan, Kobe Bryant, Kareem Abdul-Jabbar, LeBron James"
         })
 
         smallpic.addEventListener("mouseout", () => {

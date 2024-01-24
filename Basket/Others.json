@@ -1551,7 +1551,7 @@
   "last_name": "Mason",
   "img": "/basket/img/players/a mason.png",
   "full_name": "Anthony Mason",
-  "team": "Los Angeles Clippers",
+  "team": "Retired",
   "nationality": "USA",
   "positions": ["Power Forward", " Small Forward"],
   "description": "Physical forward with exceptional defensive skills and rebounding prowess."
@@ -2983,7 +2983,7 @@
   "full_name": "Antoine Walker",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Former NBA player, three-time All-Star."
 },
 {
@@ -2993,7 +2993,7 @@
   "full_name": "Robert Parish",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Center", " Power Forward"],
+  "positions": ["Center", " Power Forward"],
   "description": "NBA legend, four-time NBA champion, Hall of Famer."
 },
 {
@@ -3003,7 +3003,7 @@
   "full_name": "Kendrick Perkins",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Center",
+  "positions": "Center",
   "description": "Defensive stalwart, NBA champion with Celtics."
 },
 {
@@ -3013,7 +3013,7 @@
   "full_name": "Derrick Coleman",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Former Rookie of the Year, NBA All-Star."
 },
 {
@@ -3023,7 +3023,7 @@
   "full_name": "Kerry Kittles",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Versatile wing, played for the Nets."
 },
 {
@@ -3033,17 +3033,17 @@
   "full_name": "Drazen Petrovic",
   "team": "Retired",
   "nationality": "Croatia",
-  "position": "Shooting Guard",
+  "positions": "Shooting Guard",
   "description": "Croatian legend, known for scoring ability."
 },
 {
   "id": 348,
-  "last_name": "K Van Horn",
+  "last_name": "K van Horn",
   "img": "/basket/img/players/K van Horn.png",
-  "full_name": "Keith Van Horn",
+  "full_name": "Keith van Horn",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Small Forward"],
+  "positions": ["Power Forward", " Small Forward"],
   "description": "Skilled forward, played for the Nets and others."
 },
 {
@@ -3053,7 +3053,7 @@
   "full_name": "Stephon Marbury",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "Talented point guard, former NBA All-Star."
 },
 {
@@ -3063,7 +3063,7 @@
   "full_name": "Jeremy Lin",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "Linsanity sensation, made an impact with the Knicks."
 },
 {
@@ -3073,7 +3073,7 @@
   "full_name": "Maurice Cheeks",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "NBA legend, elite defender and playmaker."
 },
 {
@@ -3083,7 +3083,7 @@
   "full_name": "Kyle Korver",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Three-point specialist, NBA All-Star."
 },
 {
@@ -3093,7 +3093,7 @@
   "full_name": "Hersey Hawkins",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Solid scorer, known for his time with the 76ers."
 },
 {
@@ -3103,7 +3103,7 @@
   "full_name": "Jose Calderon",
   "team": "Retired",
   "nationality": "Spain",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "Spanish point guard, known for his passing."
 },
 {
@@ -3113,7 +3113,7 @@
   "full_name": "Andrea Bargnani",
   "team": "Retired",
   "nationality": "Italy",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Skilled big man, former Raptors player."
 },
 {
@@ -3123,17 +3123,17 @@
   "full_name": "Terrence Ross",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Athletic wing, known for his dunking ability."
 },
 {
   "id": 360,
   "last_name": "T Kukoc",
   "img": "/basket/img/players/T Kukoc.png",
-  "full_name": "Toni Kukoč",
+  "full_name": "Toni Kukoc",
   "team": "Retired",
   "nationality": "Croatia",
-  "position": ["Small Forward", " Power Forward"],
+  "positions": ["Small Forward", " Power Forward"],
   "description": "Croatian versatile forward, NBA champion."
 },
 {
@@ -3143,7 +3143,7 @@
   "full_name": "Horace Grant",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Four-time NBA champion, defensive specialist."
 },
 {
@@ -3153,7 +3153,7 @@
   "full_name": "Ron Harper",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Versatile guard, multiple-time NBA champion."
 },
 {
@@ -3163,7 +3163,7 @@
   "full_name": "Steve Kerr",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "NBA champion as a player and coach, sharpshooter."
 },
 {
@@ -3173,18 +3173,8 @@
   "full_name": "BJ Armstrong",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "Three-time NBA champion with the Bulls."
-},
-{
-  "id": 365,
-  "last_name": "T Gibson",
-  "img": "/basket/img/players/T Gibson.png",
-  "full_name": "Taj Gibson",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": "Power Forward",
-  "description": "Defensive-minded forward, known for his toughness."
 },
 {
   "id": 366,
@@ -3193,27 +3183,27 @@
   "full_name": "Kirk Hinrich",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Versatile guard, known for his defensive skills."
 },
 {
   "id": 367,
   "last_name": "A Varejao",
   "img": "/basket/img/players/A Varejao.png",
-  "full_name": "Anderson Varejão",
+  "full_name": "Anderson Varejao",
   "team": "Retired",
   "nationality": "Brazil",
-  "position": "Center",
+  "positions": "Center",
   "description": "Energetic Brazilian big man, played for Cavaliers."
 },
 {
   "id": 368,
-  "last_name": "M Williams",
-  "img": "/basket/img/players/M Williams.png",
+  "last_name": "Mo Williams",
+  "img": "/basket/img/players/Mo Williams.png",
   "full_name": "Mo Williams",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "Skilled point guard, former All-Star."
 },
 {
@@ -3223,7 +3213,7 @@
   "full_name": "Terrell Brandon",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Crafty guard, known for his playmaking."
 },
 {
@@ -3233,18 +3223,8 @@
   "full_name": "Darius Miles",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Small Forward", " Power Forward"],
+  "positions": ["Small Forward", " Power Forward"],
   "description": "Athletic forward, former Rookie of the Year."
-},
-{
-  "id": 371,
-  "last_name": "R Davis",
-  "img": "/basket/img/players/R Davis.png",
-  "full_name": "Ricky Davis",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Scoring swingman, known for his time with the Celtics."
 },
 {
   "id": 372,
@@ -3253,38 +3233,18 @@
   "full_name": "Jerry Stackhouse",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "High-scoring guard, played for multiple teams."
 },
 {
-  "id": 374,
-  "last_name": "D Davis",
-  "img": "/basket/img/players/D Davis.png",
-  "full_name": "Dale Davis",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Power Forward", " Center"],
-  "description": "Defensive-minded big man, known for his rebounds."
-},
-{
   "id": 375,
-  "last_name": "A Davis",
-  "img": "/basket/img/players/A Davis.png",
+  "last_name": "An Davis",
+  "img": "/basket/img/players/An Davis.png",
   "full_name": "Antonio Davis",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Tough frontcourt player, former All-Star."
-},
-{
-  "id": 376,
-  "last_name": "D McKey",
-  "img": "/basket/img/players/D McKey.png",
-  "full_name": "Derrick McKey",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Small Forward", " Power Forward"],
-  "description": "Versatile forward, known for his defense."
 },
 {
   "id": 377,
@@ -3293,7 +3253,7 @@
   "full_name": "Mark Jackson",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Point Guard",
+  "positions": "Point Guard",
   "description": "NBA legend, elite playmaker and coach."
 },
 {
@@ -3303,7 +3263,7 @@
   "full_name": "Vin Baker",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Skilled big man, former NBA All-Star."
 },
 {
@@ -3313,7 +3273,7 @@
   "full_name": "Terry Cummings",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Scoring forward, known for his post moves."
 },
 {
@@ -3323,18 +3283,8 @@
   "full_name": "Ricky Pierce",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Prolific scorer, former NBA Sixth Man of the Year."
-},
-{
-  "id": 381,
-  "last_name": "J McGlocklin",
-  "img": "/basket/img/players/J McGlocklin.png",
-  "full_name": "Jon McGlocklin",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Sharpshooting guard, part of the Bucks' history."
 },
 {
   "id": 382,
@@ -3343,7 +3293,7 @@
   "full_name": "Jack Sikma",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Center",
+  "positions": "Center",
   "description": "Hall of Fame big man, known for his shooting touch."
 },
 {
@@ -3353,7 +3303,7 @@
   "full_name": "John Henson",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Power Forward",
+  "positions": "Power Forward",
   "description": "Defensive-minded forward, shot-blocker."
 },
 {
@@ -3363,7 +3313,7 @@
   "full_name": "Antonio McDyess",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Versatile forward, former NBA All-Star."
 },
 {
@@ -3373,7 +3323,7 @@
   "full_name": "LaPhonso Ellis",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Small Forward"],
+  "positions": ["Power Forward", " Small Forward"],
   "description": "Athletic forward, played for the Nuggets."
 },
 {
@@ -3383,18 +3333,8 @@
   "full_name": "Mahmoud Abdul-Rauf",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Dynamic guard, known for his scoring and controversy."
-},
-{
-  "id": 389,
-  "last_name": "W Szczerbiak",
-  "img": "/basket/img/players/W Szczerbiak.png",
-  "full_name": "Wally Szczerbiak",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Sharpshooting forward, former NBA All-Star."
 },
 {
   "id": 390,
@@ -3403,28 +3343,8 @@
   "full_name": "Christian Laettner",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "College basketball legend, NBA forward."
-},
-{
-  "id": 391,
-  "last_name": "T Brandon",
-  "img": "/basket/img/players/T Brandon.png",
-  "full_name": "Terrell Brandon",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
-  "description": "Crafty guard, known for his playmaking."
-},
-{
-  "id": 392,
-  "last_name": "A Roberson",
-  "img": "/basket/img/players/A Roberson.png",
-  "full_name": "Andre Roberson",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Defensive specialist, known for his shot-blocking."
 },
 {
   "id": 393,
@@ -3433,7 +3353,7 @@
   "full_name": "Thabo Sefolosha",
   "team": "Retired",
   "nationality": "Switzerland",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Swiss wing, known for his defensive skills."
 },
 {
@@ -3443,7 +3363,7 @@
   "full_name": "Clifford Robinson",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Versatile forward, known for his shot-blocking."
 },
 {
@@ -3453,7 +3373,7 @@
   "full_name": "Brian Grant",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Tough forward, played for multiple NBA teams."
 },
 {
@@ -3463,18 +3383,8 @@
   "full_name": "Damon Stoudamire",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Quick guard, former Rookie of the Year."
-},
-{
-  "id": 397,
-  "last_name": "W Matthews",
-  "img": "/basket/img/players/W Matthews.png",
-  "full_name": "Wesley Matthews",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Three-and-D specialist, known for his defense."
 },
 {
   "id": 398,
@@ -3483,18 +3393,8 @@
   "full_name": "Jeff Hornacek",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Point Guard"],
+  "positions": ["Shooting Guard", " Point Guard"],
   "description": "Sharpshooter, played for the Jazz and Suns."
-},
-{
-  "id": 399,
-  "last_name": "C Boozer",
-  "img": "/basket/img/players/C Boozer.png",
-  "full_name": "Carlos Boozer",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Power Forward", " Center"],
-  "description": "Skilled big man, known for his scoring in the paint."
 },
 {
   "id": 400,
@@ -3503,17 +3403,17 @@
   "full_name": "Mark Eaton",
   "team": "Retired",
   "nationality": "USA",
-  "position": "Center",
+  "positions": "Center",
   "description": "Shot-blocking specialist, NBA Defensive Player of the Year."
 },
 {
   "id": 401,
-  "last_name": "B Russell",
-  "img": "/basket/img/players/B Russell.png",
+  "last_name": "Br Russell",
+  "img": "/basket/img/players/Br Russell.png",
   "full_name": "Bryon Russell",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Small Forward", " Shooting Guard"],
+  "positions": ["Small Forward", " Shooting Guard"],
   "description": "Defensive-minded forward, played for the Jazz."
 },
 {
@@ -3523,38 +3423,18 @@
   "full_name": "Thurl Bailey",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Small Forward"],
+  "positions": ["Power Forward", " Small Forward"],
   "description": "Versatile forward, part of the Jazz history."
 },
 {
-  "id": 403,
-  "last_name": "M Harpring",
-  "img": "/basket/img/players/M Harpring.png",
-  "full_name": "Matt Harpring",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Small Forward", " Shooting Guard"],
-  "description": "Tough and physical player, known for his hustle."
-},
-{
   "id": 404,
-  "last_name": "J Richardson",
-  "img": "/basket/img/players/J Richardson.png",
+  "last_name": "Ja Richardson",
+  "img": "/basket/img/players/Ja Richardson.png",
   "full_name": "Jason Richardson",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "High-flying guard, known for his dunks."
-},
-{
-  "id": 405,
-  "last_name": "A Jamison",
-  "img": "/basket/img/players/A Jamison.png",
-  "full_name": "Antawn Jamison",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Power Forward", " Small Forward"],
-  "description": "Scoring forward, former NBA All-Star."
 },
 {
   "id": 406,
@@ -3563,7 +3443,7 @@
   "full_name": "Danny Manning",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Versatile big man, former NBA Rookie of the Year."
 },
 {
@@ -3573,48 +3453,8 @@
   "full_name": "Corey Maggette",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Small Forward", " Shooting Guard"],
+  "positions": ["Small Forward", " Shooting Guard"],
   "description": "Strong forward, known for his scoring ability."
-},
-{
-  "id": 408,
-  "last_name": "D Miles",
-  "img": "/basket/img/players/D Miles.png",
-  "full_name": "Darius Miles",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Small Forward", " Power Forward"],
-  "description": "Athletic forward, former Rookie of the Year."
-},
-{
-  "id": 409,
-  "last_name": "J Crawford",
-  "img": "/basket/img/players/J Crawford.png",
-  "full_name": "Jamal Crawford",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Point Guard"],
-  "description": "Scoring guard, known for his handles and crossovers."
-},
-{
-  "id": 410,
-  "last_name": "W Free",
-  "img": "/basket/img/players/W Free.png",
-  "full_name": "World B. Free",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Exciting scorer, known for his unique name."
-},
-{
-  "id": 411,
-  "last_name": "R Harper",
-  "img": "/basket/img/players/R Harper.png",
-  "full_name": "Ron Harper",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
-  "description": "Versatile guard, multiple-time NBA champion."
 },
 {
   "id": 412,
@@ -3623,7 +3463,7 @@
   "full_name": "Derek Fisher",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Clutch shooter, won championships with the Lakers."
 },
 {
@@ -3633,18 +3473,8 @@
   "full_name": "Nick van Exel",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Crafty guard, known for his scoring and passing."
-},
-{
-  "id": 414,
-  "last_name": "A Bynum",
-  "img": "/basket/img/players/A Bynum.png",
-  "full_name": "Andrew Bynum",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": "Center",
-  "description": "Talented big man, played for the Lakers and others."
 },
 {
   "id": 415,
@@ -3653,7 +3483,7 @@
   "full_name": "Robert Horry",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Big-shot Bob, clutch performer with multiple rings."
 },
 {
@@ -3663,18 +3493,8 @@
   "full_name": "Tom Chambers",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "High-scoring forward, NBA All-Star."
-},
-{
-  "id": 417,
-  "last_name": "D Majerle",
-  "img": "/basket/img/players/D Majerle.png",
-  "full_name": "Dan Majerle",
-  "team": "Retired",
-  "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
-  "description": "Defensive ace, known for his three-point shooting."
 },
 {
   "id": 418,
@@ -3683,7 +3503,7 @@
   "full_name": "Alvan Adams",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Center", " Power Forward"],
+  "positions": ["Center", " Power Forward"],
   "description": "Franchise player for the Suns, versatile big man."
 },
 {
@@ -3693,17 +3513,17 @@
   "full_name": "Channing Frye",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Power Forward", " Center"],
+  "positions": ["Power Forward", " Center"],
   "description": "Stretch big man, known for his three-point shooting."
 },
 {
   "id": 420,
-  "last_name": "J Williams",
-  "img": "/basket/img/players/J Williams.png",
+  "last_name": "Ja Williams",
+  "img": "/basket/img/players/Ja Williams.png",
   "full_name": "Jason Williams",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "White Chocolate, flashy passer with handles."
 },
 {
@@ -3713,7 +3533,7 @@
   "full_name": "Doug Christie",
   "team": "Retired",
   "nationality": "USA",
-  "position": ["Shooting Guard", " Small Forward"],
+  "positions": ["Shooting Guard", " Small Forward"],
   "description": "Lockdown defender, known for his defense."
 },
 {
@@ -3723,7 +3543,7 @@
   "full_name": "Hedo Turkoglu",
   "team": "Retired",
   "nationality": "Turkey",
-  "position": ["Small Forward", " Power Forward"],
+  "positions": ["Small Forward", " Power Forward"],
   "description": "Versatile forward, first Turkish player in the NBA."
 },
 {
@@ -3733,7 +3553,7 @@
   "full_name": "Beno Udrih",
   "team": "Retired",
   "nationality": "Slovenia",
-  "position": ["Point Guard", " Shooting Guard"],
+  "positions": ["Point Guard", " Shooting Guard"],
   "description": "Slovenian guard, known for his playmaking skills."
 }
 ]

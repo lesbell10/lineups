@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "O'Reilly",
-        "img": "/hockey/img/players/OReilly.jpg",
+        "img": "/hockey/img/players/O'Reilly.jpg",
         "full_name": "Ryan O'Reilly",
         "team": "Nashville Predators",
         "nationality": "Canada",
@@ -27,7 +27,7 @@
         "team": "Ottawa Senators",
         "nationality": "Russia",
         "position": "Right Winger",
-        "description": "Russian right winger, scoring machine for the Blues."
+        "description": "Russian right winger, scoring machine for the Senators."
     },
     {
         "id": 4,

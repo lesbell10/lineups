@@ -72,7 +72,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = "Last year, Connor McDavid, the Edmonton Oilers' dynamic center, continued to dominate the NHL. Exhibiting exceptional skill and leadership, he maintained his reputation as one of the league's top players."
+        sideModal.textContent = "Last year, Connor McDavid, the Edmonton Oilers' dynamic center, continued to dominate the NHL. Exhibiting exceptional skill and leadership, he maintained his reputation as the league's top player."
     })
 
     smallpic.addEventListener("mouseout", () => {

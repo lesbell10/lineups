@@ -168,7 +168,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Quin Snyder <br> Best Player: Trae Young <br> Best Ever: Dominique Wilkins, Joe Johnson <br> Position Last Year: 7th in the East"
+            sideModal.innerHTML = "Head Coach: Quin Snyder <br> Best Player: Trae Young <br> Best Ever: Dominique Wilkins, Bob Pettit, Bob Cousy, Dikembe Mutombo <br> Position Last Year: 7th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -197,7 +197,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Joe Mazzulla <br> Best Player: Jayson Tatum <br> Best Ever: Bill Russell, Larry Bird, Paul Pierce <br> Position Last Year: 2nd in the East"
+            sideModal.innerHTML = "Head Coach: Joe Mazzulla <br> Best Player: Bill Russell, Larry Bird, Paul Pierce, Kevin McHale <br> Position Last Year: 2nd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -227,7 +227,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Jacque Vaughn <br> Best Player: Mikal Bridges <br> Best Ever: Julius Erving, Jason Kidd, Vince Carter <br> Position Last Year: 6th in the East"
+            sideModal.innerHTML = "Head Coach: Jacque Vaughn <br> Best Player: Mikal Bridges <br> Best Ever: Julius Erving, Jason Kidd, Vince Carter, Brook Lopez <br> Position Last Year: 6th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -256,7 +256,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Steve Clifford <br> Best Player: Lamelo Ball <br> Best Ever: Kemba Walker, Alonzo Mourning <br> Position Last Year: 14th in the East"
+            sideModal.innerHTML = "Head Coach: Steve Clifford <br> Best Player: Lamelo Ball <br> Best Ever: Kemba Walker, Larry Johnson, Alonzo Mourning, Glen Rice <br> Position Last Year: 14th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -315,7 +315,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: JB Bickerstaff <br> Best Player: Donovan Mitchell <br> Best Ever: LeBron James, Kyrie Irving <br> Position Last Year: 4th in the East"
+            sideModal.innerHTML = "Head Coach: JB Bickerstaff <br> Best Player: Donovan Mitchell <br> Best Ever: LeBron James, Mark Price, Brad Daugherty, Kyrie Irving <br> Position Last Year: 4th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -345,7 +345,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Monty Williams <br> Best Player: Cade Cunningham <br> Best Ever: Isiah Thomas, Ben Wallace, Chauncey Billups <br> Position Last Year: 15th in the East"
+            sideModal.innerHTML = "Head Coach: Monty Williams <br> Best Player: Cade Cunningham <br> Best Ever: Isiah Thomas, Joe Dumars, Bob Lanier, Chauncey Billups <br> Position Last Year: 15th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -374,7 +374,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Rick Carlisle <br> Best Player: Tyrese Haliburton <br> Best Ever: Reggie Miller, Paul George <br> Position Last Year: 11th in the East"
+            sideModal.innerHTML = "Head Coach: Rick Carlisle <br> Best Player: Tyrese Haliburton <br> Best Ever: Reggie Miller, Paul George, Jermaine O'Neal, George McGinnis <br> Position Last Year: 11th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -404,7 +404,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: ERik Spoelstra <br> Best Player: Jimmy Butler <br> Best Ever: Dwyane Wade, Lebron James <br> Position Last Year: 8th in the East"
+            sideModal.innerHTML = "Head Coach: ERik Spoelstra <br> Best Player: Jimmy Butler <br> Best Ever: Dwyane Wade, LeBron James, Chris Bosh, Alonzo Mourning <br> Position Last Year: 8th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -434,7 +434,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Adrian Griffin <br> Best Player: Giannis Antetokounmpo <br> Best Ever: Karim Abdul-Jabbar, Ray Allen <br> Position Last Year: 1st in the East"
+            sideModal.innerHTML = "Head Coach: Adrian Griffin <br> Best Player: Giannis Antetokounmpo <br> Best Ever:  Kareem Abdul-Jabbar, Giannis Antetokounmpo, Sidney Moncrief, Oscar Robertson <br> Position Last Year: 1st in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -464,7 +464,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Tom Thibodeau <br> Best Player: Jalen Brunson, Charles Oakley, Patrick Ewing <br> Best Ever: Willis Reed <br> Position Last Year: 5th in the East"
+            sideModal.innerHTML = "Head Coach: Tom Thibodeau <br> Best Player: Jalen Brunson <br> Best Ever:  Willis Reed, Walt Frazier, Charles Oakley, Patrick Ewing <br> Position Last Year: 5th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -494,7 +494,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Jamahl Mosley <br> Best Player: Paolo Banchero <br> Best Ever: Shaquille O'Neal, Tracy McGgrady, Dwight Howard <br> Position Last Year: 13th in the East"
+            sideModal.innerHTML = "Head Coach: Jamahl Mosley <br> Best Player: Paolo Banchero <br> Best Ever: Shaquille O'Neal, Dwight Howard, Penny Hardaway, Tracy McGrady <br> Position Last Year: 13th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -524,7 +524,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Nick Nurse <br> Best Player: Joel Embiid <br> Best Ever: Wilt Chamberlain, Allen Iverson, Charles Barkley <br> Position Last Year: 3rd in the East"
+            sideModal.innerHTML = "Head Coach: Nick Nurse <br> Best Player: Joel Embiid <br> Best Ever: Wilt Chamberlain, Allen Iverson, Julius Erving, Charles Barkley <br> Position Last Year: 3rd in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -553,7 +553,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Darko Rajakovic <br> Best Player: Scottie Barnes <br> Best Ever: Vince Carter, Chris Bosh, Kyle Lowry <br> Position Last Year: 10th in the East"
+            sideModal.innerHTML = "Head Coach: Darko Rajakovic <br> Best Player: Scottie Barnes <br> Best Ever: Vince Carter, Chris Bosh, Kyle Lowry, DeMar DeRozan <br> Position Last Year: 10th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {

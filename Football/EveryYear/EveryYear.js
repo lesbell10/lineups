@@ -456,7 +456,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Kaká, a Brazilian football sensation, possessed incredible speed, dribbling, and scoring ability. He won the FIFA World Cup and Ballon d'Or and excelled with AC Milan and Real Madrid. Kaká's elegance and creativity made him one of football's most captivating players."
+            sideModal.textContent = "Kaka, a Brazilian football sensation, possessed incredible speed, dribbling, and scoring ability. He won the FIFA World Cup and Ballon d'Or and excelled with AC Milan and Real Madrid. Kaka's elegance and creativity made him one of football's most captivating players."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -848,7 +848,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Neymar Jr., a Brazilian football superstar, is celebrated for his dazzling dribbling, creativity, and flair on the field. He has played for Barcelona and Paris Saint-Germain (PSG), forming a formidable attacking trio with Messi and Suárez, and is known for his individual brilliance and playmaking abilities."
+            sideModal.textContent = "Neymar Jr, a Brazilian football superstar, is celebrated for his dazzling dribbling, creativity, and flair on the field. He has played for Barcelona and Paris Saint-Germain, forming a formidable attacking trio with Messi and Suárez, and is known for his individual brilliance and playmaking abilities."
         })
 
         smallpic.addEventListener("mouseout", () => {

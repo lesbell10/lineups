@@ -168,7 +168,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Dallas Mavericks' last season was marked by dynamic performances and strategic play. Led by star Luka Dončić, the team demonstrated strong offensive capabilities and resilience. "
+            sideModal.innerHTML = "Head Coach: Jason Kidd <br> Best Player: Luka Doncic <br> Best Ever: Dirk Nowitzki, Jason Kidd, Rolando Blackman, Mark Aguirre <br> Position Last Year: 11th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -196,7 +196,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, the Denver Nuggets, led by MVP Nikola Jokić, showcased a powerful mix of talent and strategic gameplay in the NBA. With a strong supporting cast including Jamal Murray and Michael Porter Jr., the Nuggets won the NBA Finals against the Miami Heat."
+            sideModal.innerHTML = "Head Coach: Michael Malone <br> Best Player: Nikola Jokic <br> Best Ever: Alex English, David Thompson, Carmelo Anthony, Dan Issel  <br> Position Last Year: 1st in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -224,7 +224,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, the Golden State Warriors continued their legacy as a dominant force in the NBA. With star players like Stephen Curry, Klay Thompson, and Draymond Green, they displayed exceptional skill and teamwork."
+            sideModal.innerHTML = "Head Coach: Steve Kerr <br> Best Player: Stephen Curry <br> Best Ever: Stephen Curry, Wilt Chamberlain, Rick Barry, Kevin Durant <br> Position Last Year: 6th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -251,7 +251,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last season, the Houston Rockets focused on rebuilding with a young roster. Emphasizing development, the team, led by players like Jalen Green and Kevin Porter Jr., showcased potential and growth. "
+            sideModal.innerHTML = "Head Coach: Ime Udoka <br> Best Player: Alperen Sengun <br> Best Ever: Hakeem Olajuwon, Yao Ming, Tracy McGrady, James Harden <br> Position Last Year: 14th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -279,7 +279,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Clippers' last season was characterized by high expectations with a roster boasting stars like Kawhi Leonard and Paul George. After overcoming injury setbacks, the team aimed to capitalize on its deep, talented lineup to make a significant impact in the NBA."
+            sideModal.innerHTML = "Head Coach: Tyronn Lue <br> Best Player: Kawhi Leonard <br> Best Ever: Chris Paul, Blake Griffin, Bob McAdoo, Elton Brand <br> Position Last Year: 5th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -306,7 +306,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The LA Lakers' last season was marked by a mix of high-profile talent and challenging dynamics. With LeBron James and Anthony Davis leading the roster, the team aimed to blend experience with emerging talent for a strong playoff push."
+            sideModal.innerHTML = "Head Coach: Darvin Ham <br> Best Player: Lebron James <br> Best Ever: Magic Johnson, Kobe Bryant, Kareem Abdul-Jabbar, Shaquille O'Neal <br> Position Last Year: 7th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -333,7 +333,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Memphis Grizzlies' last season showcased their emergence as a powerhouse in the NBA. Led by the electrifying Ja Morant, the team combined youthful energy with gritty, dynamic play."
+            sideModal.innerHTML = "Head Coach: Taylor Jenkins <br> Best Player: Ja Morant <br> Best Ever: Marc Gasol, Zach Randolph, Mike Conley, Pau Gasol <br> Position Last Year: 2nd in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -361,7 +361,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, the Minnesota Timberwolves displayed a promising mix of young talent and veteran leadership. Anchored by stars like Karl-Anthony Towns and Anthony Edwards, the team focused on building chemistry and consistency."
+            sideModal.innerHTML = "Head Coach: Chris Finch <br> Best Player: Anthony Edwards <br> Best Ever: Kevin Garnett, Kevin Love <br> Position Last Year: 8th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -389,7 +389,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New Orleans Pelicans' last season was highlighted by their rising potential in the NBA. With a core led by Zion Williamson, Brandon Ingram, and CJ McCollum, the Pelicans blended athleticism, scoring prowess, and strategic gameplay."
+            sideModal.innerHTML = "Head Coach: Dennis Allen <br> Best Player: Zion Williamson <br> Best Ever: Kevin Garnett, Kevin Love, Karl-Anthony Towns, Sam Cassell <br> Position Last Year: 10th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -416,7 +416,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Oklahoma City Thunder's 2022-23 season was marked by a focus on youth development and rebuilding. With promising talents like Shai Gilgeous-Alexander and a host of young prospects, the team aimed to lay a strong foundation for the future. "
+            sideModal.innerHTML = "Head Coach: Mark Daigneault <br> Best Player: Shai Gilgeous-Alexander <br> Best Ever: Kevin Durant, Russell Westbrook, Gary Payton, Serge Ibaka <br> Position Last Year: 9th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -443,7 +443,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, the Phoenix Suns, led by stars Devin Booker and Chris Paul, aimed to continue their recent success in the NBA. Known for their cohesive team play and strong coaching, the Suns combined a high-powered offense with strategic defense."
+            sideModal.innerHTML = "Head Coach: Frank Vogel <br> Best Player: Kevin Durant <br> Best Ever: Steve Nash, Charles Barkley, Amar'e Stoudemire, Shawn Marion <br> Position Last Year: 4th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -471,7 +471,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Portland Trail Blazers' last season was centered around rebuilding and resilience. With star Damian Lillard at the helm, the team aimed to blend his leadership with emerging talents like Anfernee Simons."
+            sideModal.innerHTML = "Head Coach: Chauncey Billups <br> Best Player: Anfernee Simons <br> Best Ever: Clyde Drexler, Bill Walton, Damian Lillard, Terry Porter <br> Position Last Year: 14th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -499,7 +499,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Sacramento Kings' last season was a period of transition and growth. Led by De'Aaron Fox and with the addition of new talents, the team focused on building a competitive roster."
+            sideModal.innerHTML = "Head Coach: Mike Brown <br> Best Player: De’Aaron Fox <br> Best Ever: Chris Webber, Oscar Robertson, Jerry Lucas, Mitch Richmond <br> Position Last Year: 3rd in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -527,7 +527,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The San Antonio Spurs' last season was marked by a period of rebuilding and development. Under the guidance of Coach Gregg Popovich, the team focused on nurturing young talents like Dejounte Murray."
+            sideModal.innerHTML = "Head Coach: Gregg Popovich <br> Best Player: Victor Wembanyama <br> Best Ever: Tim Duncan, David Robinson, Manu Ginóbili, Tony Parker <br> Position Last Year: 15th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -554,7 +554,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Last year, the Utah Jazz underwent significant changes, focusing on rebuilding with a blend of veterans and young talents.The team, known for its strong defensive play and cohesive teamwork, aimed to maintain competitiveness in the Western Conference."
+            sideModal.innerHTML = "Head Coach: Will Hardy <br> Best Player: Lauri Markkanen <br> Best Ever: Karl Malone, John Stockton, Adrian Dantley, Pete Maravich <br> Position Last Year: 12th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {

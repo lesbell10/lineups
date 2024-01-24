@@ -189,7 +189,7 @@ function updatePlayerInfo() {
         FR.textContent = "Kessel";
         DL.textContent = "Ekman-Larsson";
         DR.textContent = "Yandle";
-        G.textContent = "Smith";
+        G.textContent = "M Smith";
 
         FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
         FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
@@ -247,8 +247,8 @@ function updatePlayerInfo() {
 
     if (selectedYear == "3") {
         FL.textContent = "Hossa";
-        FC.textContent = "Toews";
-        FR.textContent = "Kane";
+        FC.textContent = "J Toews";
+        FR.textContent = "P Kane";
         DL.textContent = "Keith";
         DR.textContent = "Seabrook";
         G.textContent = "Crawford";
@@ -403,7 +403,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "8") {
         FL.textContent = "Parise";
-        FC.textContent = "Koivu";
+        FC.textContent = "M Koivu";
         FR.textContent = "Pominville";
         DL.textContent = "Suter";
         DR.textContent = "Spurgeon";
@@ -593,7 +593,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "14") {
 
-        FL.textContent = "Connor";
+        FL.textContent = "K Connor";
         FC.textContent = "Scheifele";
         FR.textContent = "Wheeler";
         DL.textContent = "Byfuglien";

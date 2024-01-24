@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "last_name": "Verhaeghe",
-    "img": "/hockey/img/players/Verhaeghe.jpg",
-    "full_name": "Carter Verhaeghe",
-    "birth_date": "23-08-1995",
+    "last_name": "M Tkachuk",
+    "img": "/hockey/img/players/M Tkachuk.jpg",
+    "full_name": "Matthew Tkachuk",
+    "birth_date": "11-12-1997",
 
     "team": "Florida Panthers",
-    "nationality": "Canada",
+    "nationality": "USA",
     "position": "Left winger",
     "height": "6'2\"",
 
-    "description": "Talented left winger for the Florida Panthers."
+    "description": "Powerful left winger for the Calgary Flames."
   },
-  {
+    {
     "id": 2,
     "last_name": "Barkov",
     "img": "/hockey/img/players/Barkov.jpg",
@@ -29,17 +29,17 @@
   },
   {
     "id": 3,
-    "last_name": "M Tkachuk",
-    "img": "/hockey/img/players/M Tkachuk.jpg",
-    "full_name": "Matthew Tkachuk",
-    "birth_date": "11-12-1997",
+    "last_name": "Verhaeghe",
+    "img": "/hockey/img/players/Verhaeghe.jpg",
+    "full_name": "Carter Verhaeghe",
+    "birth_date": "23-08-1995",
 
     "team": "Florida Panthers",
-    "nationality": "USA",
+    "nationality": "Canada",
     "position": "Left winger",
     "height": "6'2\"",
 
-    "description": "Powerful left winger for the Calgary Flames."
+    "description": "Talented left winger for the Florida Panthers."
   },
   {
     "id": 4,

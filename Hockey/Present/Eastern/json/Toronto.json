@@ -1,13 +1,13 @@
 [
-    {
+        {
         "id": 1,
-        "last_name": "Marner",
-        "img": "/hockey/img/players/Marner.jpg",
-        "full_name": "Mitch Marner",
+        "last_name": "Nylander",
+        "img": "/hockey/img/players/Nylander.jpg",
+        "full_name": "William Nylander",
         "team": "Toronto Maple Leafs",
-        "nationality": "Canada",
+        "nationality": "Sweden",
         "position": "Right Winger",
-        "description": "Dynamic right winger with playmaking skills and offensive prowess."
+        "description": "Skilled forward with a scoring touch and playmaking ability."
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
     },
     {
         "id": 3,
-        "last_name": "Nylander",
-        "img": "/hockey/img/players/Nylander.jpg",
-        "full_name": "William Nylander",
+        "last_name": "Marner",
+        "img": "/hockey/img/players/Marner.jpg",
+        "full_name": "Mitch Marner",
         "team": "Toronto Maple Leafs",
-        "nationality": "Sweden",
+        "nationality": "Canada",
         "position": "Right Winger",
-        "description": "Skilled forward with a scoring touch and playmaking ability."
+        "description": "Dynamic right winger with playmaking skills and offensive prowess."
     },
     {
         "id": 4,
