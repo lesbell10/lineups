@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "last_name": "Buchnevich",
-        "img": "/hockey/img/players/Buchnevich.jpg",
-        "full_name": "Pavel Buchnevich",
+        "last_name": "Kyrou",
+        "img": "/hockey/img/players/Kyrou.jpg",
+        "full_name": "Jordan Kyrou",
         "team": "St Louis Blues",
-        "nationality": "Russia",
+        "nationality": "Canada",
         "position": "Right Winger",
-        "description": "Russian right winger known for his offensive skills."
+        "description": "Young Canadian right winger with offensive skills."
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
     },
     {
         "id": 3,
-        "last_name": "Kyrou",
-        "img": "/hockey/img/players/Kyrou.jpg",
-        "full_name": "Jordan Kyrou",
+        "last_name": "Buchnevich",
+        "img": "/hockey/img/players/Buchnevich.jpg",
+        "full_name": "Pavel Buchnevich",
         "team": "St Louis Blues",
-        "nationality": "Canada",
+        "nationality": "Russia",
         "position": "Right Winger",
-        "description": "Young Canadian right winger with offensive skills."
+        "description": "Russian right winger known for his offensive skills."
     },
     {
         "id": 4,

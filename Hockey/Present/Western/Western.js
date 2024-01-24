@@ -204,7 +204,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Andre Tourigny <br> Best Player: Shane Doan, Keith Tkachuk, Oliver Ekman-Larsson, Jeremy Roenick <br> Best Ever: Shane Doan, Keith Tkachuk <br> Position Last Year: 12th in the West"
+            sideModal.innerHTML = "Head Coach: Andre Tourigny <br> Best Player: Clayton Keller <br> Best Ever: Shane Doan, Keith Tkachuk, Oliver Ekman-Larsson, Jeremy Roenick <br> Position Last Year: 12th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -471,9 +471,9 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "10") {
-        FL.textContent = "Hertl";
+        FL.textContent = "Duclair";
         FC.textContent = "Couture";
-        FR.textContent = "Duclair";
+        FR.textContent = "Hertl";
         DL.textContent = "Vlasic";
         DR.textContent = "Ferraro";
         G.textContent = "Kahkonen";
@@ -533,9 +533,9 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "12") {
-        FL.textContent = "Buchnevic";
+        FL.textContent = "Kyrou";
         FC.textContent = "Thomas";
-        FR.textContent = "Kyrou";
+        FR.textContent = "Buchnevich";
         DL.textContent = "Krug";
         DR.textContent = "Parayko";
         G.textContent = "Binnington";
@@ -564,9 +564,9 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "13") {
-        FL.textContent = "JT Miller";
+        FL.textContent = "Kuzmenko";
         FC.textContent = "Pettersson";;
-        FR.textContent = "Kuzmenko";
+        FR.textContent = "JT Miller";
         DL.textContent = "Q Hughes";
         DR.textContent = "Hronek";;
         G.textContent = "Demko";
@@ -629,7 +629,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "15") {
-        FL.textContent = "Connor";
+        FL.textContent = "K Connor";
         FC.textContent = "Scheifele";
         FR.textContent = "Ehlers";
         DL.textContent = "Morrissey";
@@ -1079,7 +1079,7 @@ const updateDropdown = () => {
     }
 
     if (selectedYear == "12") {
-        FL.textContent = "Buchnevic";
+        FL.textContent = "Buchnevich";
         FC.textContent = "Thomas";
         FR.textContent = "Kyrou";
         DL.textContent = "Krug";
@@ -1175,7 +1175,7 @@ const updateDropdown = () => {
     }
 
     if (selectedYear == "15") {
-        FL.textContent = "Connor";
+        FL.textContent = "K Connor";
         FC.textContent = "Scheifele";
         FR.textContent = "Ehlers";
         DL.textContent = "Morrissey";

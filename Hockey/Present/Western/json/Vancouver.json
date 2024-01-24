@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "last_name": "Miller",
-        "img": "/hockey/img/players/JT Miller.jpg",
-        "full_name": "JT Miller",
+        "last_name": "Kuzmenko",
+        "img": "/hockey/img/players/Kuzmenko.jpg",
+        "full_name": "Vladislav Kuzmenko",
         "team": "Vancouver Canucks",
-        "nationality": "USA",
-        "position": "Center",
-        "description": "Versatile American Center for the Canucks."
+        "nationality": "Russia",
+        "position": "Left Winger",
+        "description": "Russian left winger with scoring ability."
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
     },
     {
         "id": 3,
-        "last_name": "Kuzmenko",
-        "img": "/hockey/img/players/Kuzmenko.jpg",
-        "full_name": "Vladislav Kuzmenko",
+        "last_name": "Miller",
+        "img": "/hockey/img/players/JT Miller.jpg",
+        "full_name": "JT Miller",
         "team": "Vancouver Canucks",
-        "nationality": "Russia",
-        "position": "Left Winger",
-        "description": "Russian left winger with scoring ability."
+        "nationality": "USA",
+        "position": "Center",
+        "description": "Versatile American Center for the Canucks."
     },
     {
         "id": 4,

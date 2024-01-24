@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "last_name": "Hertl",
-        "img": "/hockey/img/players/Hertl.jpg",
-        "full_name": "Tomas Hertl",
+        "last_name": "Duclair",
+        "img": "/hockey/img/players/Duclair.jpg",
+        "full_name": "Anthony Duclair",
         "team": "San Jose Sharks",
-        "nationality": "Czech Republic",
-        "position": "Center",
-        "description": "Czech center known for his versatility and skill."
+        "nationality": "Canada",
+        "position": "Left Winger",
+        "description": "Canadian left winger known for his offensive abilities."
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
     },
     {
         "id": 3,
-        "last_name": "Duclair",
-        "img": "/hockey/img/players/Duclair.jpg",
-        "full_name": "Anthony Duclair",
+        "last_name": "Hertl",
+        "img": "/hockey/img/players/Hertl.jpg",
+        "full_name": "Tomas Hertl",
         "team": "San Jose Sharks",
-        "nationality": "Canada",
-        "position": "Left Winger",
-        "description": "Canadian left winger known for his offensive abilities."
+        "nationality": "Czech Republic",
+        "position": "Center",
+        "description": "Czech center known for his versatility and skill."
     },
     {
         "id": 4,
