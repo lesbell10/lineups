@@ -172,7 +172,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "During the 2010-2020 decade, the Boston Bruins were a dominant force in the NHL. They won the Stanley Cup in 2011 and reached the finals in 2013. Key players included Zdeno Chara, Patrice Bergeron, and Tuukka Rask, contributing to the team's sustained success and competitive presence in the league."
+            sideModal.textContent = "During the 2010s, the Boston Bruins were a dominant force in the NHL. They won the Stanley Cup in 2011 and reached the finals in 2013. Key players included Zdeno Chara, Patrice Bergeron, and Tuukka Rask, contributing to the team's sustained success and competitive presence in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -235,7 +235,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Carolina Hurricanes, during the 2010-2020 decade, experienced a mix of ups and downs. They made the playoffs several times, including a run to the Eastern Conference Finals in 2019, driven by emerging stars like Sebastian Aho."
+            sideModal.textContent = "The Carolina Hurricanes, during the 2010s, experienced a mix of ups and downs. They made the playoffs several times, including a run to the Eastern Conference Finals in 2019, driven by emerging stars like Sebastian Aho."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -266,7 +266,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets, in the 2010-2020 decade, transitioned into a competitive NHL team. They clinched playoff berths and recorded their first-ever series win in 2019. Notable players like Artemi Panarin contributed to their growth, marking a period of progress and increased relevance in the league."
+            sideModal.textContent = "The Columbus Blue Jackets, in the 2010s, transitioned into a competitive NHL team. They clinched playoff berths and recorded their first-ever series win in 2019. Notable players like Artemi Panarin contributed to their growth, marking a period of progress and increased relevance in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -297,7 +297,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings, during the 2010-2020 decade, navigated a shift from their historic dominance. They extended their playoff streak but faced challenges as aging stars like Henrik Zetterberg retired. The franchise emphasized rebuilding, looking to regain their status as a powerhouse in the NHL."
+            sideModal.textContent = "The Detroit Red Wings, during the 2010s, navigated a shift from their historic dominance. They extended their playoff streak but faced challenges as aging stars like Henrik Zetterberg retired. The franchise emphasized rebuilding, looking to regain their status as a powerhouse in the NHL."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -359,7 +359,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Montreal Canadiens, during the 2010-2020 decade, experienced varying degrees of success. They made playoff appearances, including a trip to the Eastern Conference Finals in 2014. Star players like Carey Price and Max Pacioretty played significant roles, but the franchise sought to capture its storied Stanley Cup legacy."
+            sideModal.textContent = "The Montreal Canadiens, during the 2010s, experienced varying degrees of success. They made playoff appearances, including a trip to the Eastern Conference Finals in 2014. Star players like Carey Price and Max Pacioretty played significant roles, but the franchise sought to capture its storied Stanley Cup legacy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -421,7 +421,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Islanders, during the 2010-2020 decade, showcased a mix of highs and lows. They reached the Eastern Conference Finals in 2020, led by star players like John Tavares at the beginning and later Mathew Barzal. The franchise focused on a balanced approach, blending youth development and veteran leadership."
+            sideModal.textContent = "The New York Islanders, during the 2010s, showcased a mix of highs and lows. They reached the Eastern Conference Finals in 2020, led by star players like John Tavares at the beginning and later Mathew Barzal. The franchise focused on a balanced approach, blending youth development and veteran leadership."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -452,7 +452,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Rangers, during the 2010-2020 decade, were marked by competitive playoff appearances. Led by star goaltender Henrik Lundqvist and forwards like Chris Kreider, they reached the Stanley Cup Finals in 2014. The franchise balanced veteran talent with youth development, aiming for sustained success in the NHL."
+            sideModal.textContent = "The New York Rangers, during the 2010s, were marked by competitive playoff appearances. Led by star goaltender Henrik Lundqvist and forwards like Chris Kreider, they reached the Stanley Cup Finals in 2014. The franchise balanced veteran talent with youth development, aiming for sustained success in the NHL."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -544,7 +544,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Pittsburgh Penguins, during the 2010-2020 decade, enjoyed significant success. They won two Stanley Cups in 2016 and 2017, with star players Sidney Crosby and Evgeni Malkin leading the way. The franchise maintained a strong presence in the playoffs and aimed for consistent competitiveness."
+            sideModal.textContent = "The Pittsburgh Penguins, during the 2010s, enjoyed significant success. They won two Stanley Cups in 2016 and 2017, with star players Sidney Crosby and Evgeni Malkin leading the way. The franchise maintained a strong presence in the playoffs and aimed for consistent competitiveness."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -606,7 +606,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs, during the 2010-2020 decade, experienced a shift towards young talent and potential. They made playoff appearances but faced challenges. Players like Auston Matthews and Mitch Marner emerged as stars, and the franchise focused on building a competitive roster for sustained success."
+            sideModal.textContent = "The Toronto Maple Leafs, during the 2010s, experienced a shift towards young talent and potential. They made playoff appearances but faced challenges. Players like Auston Matthews and Mitch Marner emerged as stars, and the franchise focused on building a competitive roster for sustained success."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -706,7 +706,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "During the 2010-2020 decade, the Boston Bruins were a dominant force in the NHL. They won the Stanley Cup in 2011 and reached the finals in 2013. Key players included Zdeno Chara, Patrice Bergeron, and Tuukka Rask, contributing to the team's sustained success and competitive presence in the league."
+            sideModal.textContent = "During the 2010s, the Boston Bruins were a dominant force in the NHL. They won the Stanley Cup in 2011 and reached the finals in 2013. Key players included Zdeno Chara, Patrice Bergeron, and Tuukka Rask, contributing to the team's sustained success and competitive presence in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -769,7 +769,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Carolina Hurricanes, during the 2010-2020 decade, experienced a mix of ups and downs. They made the playoffs several times, including a run to the Eastern Conference Finals in 2019, driven by emerging stars like Sebastian Aho."
+            sideModal.textContent = "The Carolina Hurricanes, during the 2010s, experienced a mix of ups and downs. They made the playoffs several times, including a run to the Eastern Conference Finals in 2019, driven by emerging stars like Sebastian Aho."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -800,7 +800,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Columbus Blue Jackets, in the 2010-2020 decade, transitioned into a competitive NHL team. They clinched playoff berths and recorded their first-ever series win in 2019. Notable players like Artemi Panarin contributed to their growth, marking a period of progress and increased relevance in the league."
+            sideModal.textContent = "The Columbus Blue Jackets, in the 2010s, transitioned into a competitive NHL team. They clinched playoff berths and recorded their first-ever series win in 2019. Notable players like Artemi Panarin contributed to their growth, marking a period of progress and increased relevance in the league."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -831,7 +831,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Detroit Red Wings, during the 2010-2020 decade, navigated a shift from their historic dominance. They extended their playoff streak but faced challenges as aging stars like Henrik Zetterberg retired. The franchise emphasized rebuilding, looking to regain their status as a powerhouse in the NHL."
+            sideModal.textContent = "The Detroit Red Wings, during the 2010s, navigated a shift from their historic dominance. They extended their playoff streak but faced challenges as aging stars like Henrik Zetterberg retired. The franchise emphasized rebuilding, looking to regain their status as a powerhouse in the NHL."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -893,7 +893,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Montreal Canadiens, during the 2010-2020 decade, experienced varying degrees of success. They made playoff appearances, including a trip to the Eastern Conference Finals in 2014. Star players like Carey Price and Max Pacioretty played significant roles, but the franchise sought to capture its storied Stanley Cup legacy."
+            sideModal.textContent = "The Montreal Canadiens, during the 2010s, experienced varying degrees of success. They made playoff appearances, including a trip to the Eastern Conference Finals in 2014. Star players like Carey Price and Max Pacioretty played significant roles, but the franchise sought to capture its storied Stanley Cup legacy."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -955,7 +955,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Islanders, during the 2010-2020 decade, showcased a mix of highs and lows. They reached the Eastern Conference Finals in 2020, led by star players like John Tavares at the beginning and later Mathew Barzal. The franchise focused on a balanced approach, blending youth development and veteran leadership."
+            sideModal.textContent = "The New York Islanders, during the 2010s, showcased a mix of highs and lows. They reached the Eastern Conference Finals in 2020, led by star players like John Tavares at the beginning and later Mathew Barzal. The franchise focused on a balanced approach, blending youth development and veteran leadership."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -986,7 +986,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The New York Rangers, during the 2010-2020 decade, were marked by competitive playoff appearances. Led by star goaltender Henrik Lundqvist and forwards like Chris Kreider, they reached the Stanley Cup Finals in 2014. The franchise balanced veteran talent with youth development, aiming for sustained success in the NHL."
+            sideModal.textContent = "The New York Rangers, during the 2010s, were marked by competitive playoff appearances. Led by star goaltender Henrik Lundqvist and forwards like Chris Kreider, they reached the Stanley Cup Finals in 2014. The franchise balanced veteran talent with youth development, aiming for sustained success in the NHL."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1078,7 +1078,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Pittsburgh Penguins, during the 2010-2020 decade, enjoyed significant success. They won two Stanley Cups in 2016 and 2017, with star players Sidney Crosby and Evgeni Malkin leading the way. The franchise maintained a strong presence in the playoffs and aimed for consistent competitiveness."
+            sideModal.textContent = "The Pittsburgh Penguins, during the 2010s, enjoyed significant success. They won two Stanley Cups in 2016 and 2017, with star players Sidney Crosby and Evgeni Malkin leading the way. The franchise maintained a strong presence in the playoffs and aimed for consistent competitiveness."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1140,7 +1140,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "The Toronto Maple Leafs, during the 2010-2020 decade, experienced a shift towards young talent and potential. They made playoff appearances but faced challenges. Players like Auston Matthews and Mitch Marner emerged as stars, and the franchise focused on building a competitive roster for sustained success."
+            sideModal.textContent = "The Toronto Maple Leafs, during the 2010s, experienced a shift towards young talent and potential. They made playoff appearances but faced challenges. Players like Auston Matthews and Mitch Marner emerged as stars, and the franchise focused on building a competitive roster for sustained success."
         })
 
         smallpic.addEventListener("mouseout", () => {

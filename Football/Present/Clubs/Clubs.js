@@ -374,7 +374,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Manager: Jurgen Klopp <br> Best Player: Mohamed Salah <br> Best Ever: Michael Owen, Steven Gerrard, Jamie Carragher, Robbie Fowler, Luis Suarez <br> Position Last Year: 5th in Premier League"
+            sideModal.innerHTML = "Manager: Jurgen Klopp <br> Best Player: Mohamed Salah <br> Best Ever: Michael Owen, Steven Gerrard, Jamie Carragher, Luis Suarez <br> Position Last Year: 5th in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {

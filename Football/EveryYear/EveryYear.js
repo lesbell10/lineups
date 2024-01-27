@@ -190,7 +190,7 @@ function updatePlayerInfo() {
         GK2.src = "/football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/wallpapers/zidane.png";
+        smallpic.src = "/football/img/wallpapers/zidane.jpg";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2004.json");
@@ -675,7 +675,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Zlatan Ibrahimović, a Swedish football striker, is renowned for his towering presence, acrobatic goals, and strong personality. He's played for top clubs worldwide, including Barcelona, PSG, and AC Milan, and has consistently delivered remarkable performances throughout his career."
+            sideModal.textContent = "Zlatan Ibrahimović, a Swedish football striker, is renowned for his towering presence, acrobatic goals, and strong personality. He's played for top clubs worldwide, including Inter Milan, Barcelona, PSG, and AC Milan, and has consistently delivered remarkable performances throughout his career."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -762,7 +762,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goalscorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich, setting numerous records and earning awards for his prolific scoring."
+            sideModal.textContent = "Robert Lewandowski, a Polish football striker, is one of the world's premier goalscorers. Known for his clinical finishing, aerial ability, and work rate, he has excelled at Bayern Munich. Now with Barcelona, he is setting numerous records and earning awards for his prolific scoring."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -805,7 +805,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Luis Suárez, a Uruguayan football forward, is renowned for his goal-scoring prowess and controversial incidents. He has played for top clubs like Ajax, Liverpool, Barcelona, and Atlético Madrid, consistently delivering impressive performances and winning multiple titles throughout his career."
+            sideModal.textContent = "Luis Suárez, a Uruguayan football forward, is renowned for his goal-scoring prowess and controversial incidents. He has played for top clubs like Ajax, Liverpool, Barcelona, and Atlético Madrid. Now with Inter Miami, he is consistently delivering impressive performances and winning multiple titles throughout his career."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -848,7 +848,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Neymar Jr, a Brazilian football superstar, is celebrated for his dazzling dribbling, creativity, and flair on the field. He has played for Barcelona and Paris Saint-Germain, forming a formidable attacking trio with Messi and Suárez, and is known for his individual brilliance and playmaking abilities."
+            sideModal.textContent = "Neymar Jr, a Brazilian football superstar, is celebrated for his dazzling dribbling, creativity, and flair on the field. He has played for Barcelona and Paris Saint-Germain, forming a formidable attacking trio with Messi and Suárez. Now with Al Hilal, he is known for his individual brilliance and playmaking abilities."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -933,7 +933,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Cristiano Ronaldo, often simply referred to as Ronaldo or CR7, is a Portuguese football icon. Known for his incredible athleticism, speed, and goal-scoring ability, he has played for top clubs like Manchester United, Real Madrid, Juventus, and returned to Manchester United in 2021. Ronaldo is widely regarded as one of the greatest footballers of all time, having won numerous awards, titles, and accolades throughout his illustrious career."
+            sideModal.textContent = "Cristiano Ronaldo, often simply referred to as Ronaldo or CR7, is a Portuguese football icon. Known for his incredible athleticism, speed, and goal-scoring ability, he has played for top clubs like Manchester United, Real Madrid, Juventus, returned to Manchester United in 2021 and now with Al Nassr. Ronaldo is widely regarded as one of the greatest footballers of all time, having won numerous awards, titles, and accolades throughout his illustrious career."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -988,9 +988,9 @@ function updatePlayerInfo() {
 
     if (selectedYear == "19") {
 
-        STC.textContent = "Lewandowski";
-        FR.textContent = "Messi";
-        AMC.textContent = "Benzema";
+        STC.textContent = "Benzema";
+        FR.textContent = "Salah";
+        AMC.textContent = "Messi";
         FL.textContent = "Mbappe";
         CMR.textContent = "De Bruyne";
         CML.textContent = "Casemiro";
@@ -1019,7 +1019,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Karim Benzema, a French football striker, is celebrated for his exceptional goal-scoring ability, versatility, and link-up play. He has played for Real Madrid since 2009 and has been a crucial part of their success in domestic and international competitions. Benzema is known for his technical skills and football intelligence."
+            sideModal.textContent = "Karim Benzema, a French football striker, is celebrated for his exceptional goal-scoring ability, versatility, and link-up play. He has played for Real Madrid since 2009 and has been a crucial part of their success in domestic and international competitions. He's now playing with Al Ittihad."
         })
 
         smallpic.addEventListener("mouseout", () => {

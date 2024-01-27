@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "S Gilgeous-Alexander",
-    "img": "/basket/img/players/S Gilgeous-Alexander.png",
+    "img": "/basket/img/players/S Gilgeous-A.png",
     "full_name": "S Gilgeous-Alexander",
     "team": "Oklahoma City Thunder",
     "nationality": "Canada",
@@ -17,7 +17,7 @@
     "team": "Oklahoma City Thunder",
     "nationality": "Australia",
     "positions": ["Point Guard", " Shooting Guard"],
-    "description": "Rookie guard with playmaking skills."
+    "description": "Young guard with playmaking skills."
   },
   {
     "id": 3,
@@ -47,6 +47,6 @@
     "team": "Oklahoma City Thunder",
     "nationality": "USA",
     "positions": ["Center"],
-    "description": "Rookie center with shot-blocking and versatility."
+    "description": "Young center with shot-blocking and versatility."
   }
 ]

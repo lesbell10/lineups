@@ -79,7 +79,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = "Between 2010 and 2020, LeBron James achieved incredible success in the NBA. He secured four NBA championships, garnered four MVP awards, and consistently demonstrated his prowess as a versatile and dominant player. Beyond the court, he left an indelible mark as one of the greatest basketball players and influential athletes of his era."
+        sideModal.textContent = "Joel Embiid, Cameroonian professional basketball player, currently plays for the Philadelphia 76ers in the NBA. Known for his dominant presence as a center, exceptional scoring ability, rebounding, and defensive skills.Charismatic, impactful, and a multiple-time All-Star."
     })
 
     smallpic.addEventListener("mouseout", () => {

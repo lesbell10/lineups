@@ -1,16 +1,6 @@
 [
-  {
+    {
     "id": 1,
-    "last_name": "L Doncic",
-    "img": "/basket/img/players/L Doncic.png",
-    "full_name": "Luka Dončić",
-    "team": "Dallas Mavericks",
-    "nationality": "Slovenia",
-    "positions": ["Shooting Guard", " Point Guard"],
-    "description": "Young star known for his versatile scoring and playmaking."
-  },
-  {
-    "id": 2,
     "last_name": "T Parker",
     "img": "/basket/img/players/T Parker.png",
     "full_name": "Tony Parker",
@@ -20,17 +10,17 @@
     "description": "Former Spurs point guard and NBA champion."
   },
   {
-    "id": 3,
-    "last_name": "D Nowitzki",
-    "img": "/basket/img/players/D Nowitzki.png",
-    "full_name": "Dirk Nowitzki",
-    "team": "Retired",
-    "nationality": "Germany",
-    "positions": ["Power Forward", " Center"],
-    "description": "NBA legend and one of the greatest power forwards."
+    "id": 2,
+    "last_name": "L Doncic",
+    "img": "/basket/img/players/L Doncic.png",
+    "full_name": "Luka Doncic",
+    "team": "Dallas Mavericks",
+    "nationality": "Slovenia",
+    "positions": ["Shooting Guard", " Point Guard"],
+    "description": "Young star known for his versatile scoring and playmaking."
   },
   {
-    "id": 4,
+    "id": 3,
     "last_name": "G Antetokounmpo",
     "img": "/basket/img/players/G Antetokounmpo.png",
     "full_name": "Giannis Antetokounmpo",
@@ -38,6 +28,16 @@
     "nationality": "Greece",
     "positions": ["Power Forward", " Small Forward"],
     "description": "Two-time NBA MVP and versatile forward."
+  },
+  {
+    "id": 4,
+    "last_name": "D Nowitzki",
+    "img": "/basket/img/players/D Nowitzki.png",
+    "full_name": "Dirk Nowitzki",
+    "team": "Retired",
+    "nationality": "Germany",
+    "positions": ["Power Forward", " Center"],
+    "description": "NBA legend and one of the greatest power forwards."
   },
   {
     "id": 5,

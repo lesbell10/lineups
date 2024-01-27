@@ -183,7 +183,7 @@ function updatePlayerInfo() {
 
 
     if (selectedYear == "1") {
-        PG.textContent = "S Gilgeous-Alexander";
+        PG.textContent = "S Gilgeous-A";
         SG.textContent = "J Murray";
         SF.textContent = "P Siakam";
         PF.textContent = "A Horford";

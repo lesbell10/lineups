@@ -4,8 +4,8 @@
         "last_name": "Tatar",
         "img": "/hockey/img/players/Tatar.jpg",
         "full_name": "Tomas Tatar",
-        "team": "Colorado Avalanche",
-        "nationality": "Slovak",
+        "team": "Seattle Kraken",
+        "nationality": "Slovakia",
         "position": "Left Winger",
         "description": "Slovak left winger, known for scoring ability."
     },
@@ -15,7 +15,7 @@
         "img": "/hockey/img/players/Hossa.jpg",
         "full_name": "Marian Hossa",
         "team": "Retired",
-        "nationality": "Slovak",
+        "nationality": "Slovakia",
         "position": "Right Winger",
         "description": "Slovak right winger, known for his two-way play."
     },
@@ -25,7 +25,7 @@
         "img": "/hockey/img/players/Gaborik.jpg",
         "full_name": "Marian Gaborik",
         "team": "Retired",
-        "nationality": "Slovak",
+        "nationality": "Slovakia",
         "position": "Right Winger",
         "description": "Slovak right winger, known for his speed and scoring ability."
     },
@@ -35,7 +35,7 @@
         "img": "/hockey/img/players/Chara.jpg",
         "full_name": "Zdeno Chara",
         "team": "Retired",
-        "nationality": "Slovak",
+        "nationality": "Slovakia",
         "position": "Defenseman",
         "description": "Slovak defenseman, one of the tallest players in NHL history."
     },
@@ -45,7 +45,7 @@
         "img": "/hockey/img/players/Sekera.jpg",
         "full_name": "Andrej Sekera",
         "team": "Retired",
-        "nationality": "Slovak",
+        "nationality": "Slovakia",
         "position": "Defenseman",
         "description": "Slovak defenseman, known for his defensive skills."
     },

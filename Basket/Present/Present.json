@@ -23,7 +23,7 @@
     "id": 3,
     "last_name": "G Antetokounmpo",
     "img": "/basket/img/players/G Antetokounmpo.png",
-    "full_name": "Giannis Antetokounmpo",
+    "full_name": "G Antetokounmpo",
     "team": "Milwaukee Bucks",
     "nationality": "Greece",
     "positions": ["Power Forward", " Small Forward"],
@@ -47,6 +47,6 @@
     "team": "Philadelphia 76ers",
     "nationality": "Cameroon",
     "positions": ["Center"],
-    "description": "Dominant center with strong scoring and defense."
+    "description": "Dominant center with strong scoring and defense, Regning MVP."
   }
 ]

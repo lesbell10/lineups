@@ -39,9 +39,8 @@ nav {
 
 a, span {
     position: relative;
-    font-size: 38px;
+    font-size: 35px;
     color: white;
-    cursor: pointer;
     text-decoration: none;
     font-weight: bold;
     border-left: 2px solid black;
@@ -50,12 +49,12 @@ a, span {
 
 a:hover {
     color: black;
-    transition: .5s;
+    transition: 1.15s;
 }
 
 
 .right {
-    margin-left: -375px;
+    margin-right: 335px;
 }
 
 a:first-child {

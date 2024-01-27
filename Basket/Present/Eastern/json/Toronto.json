@@ -5,7 +5,7 @@
   "img": "/basket/img/players/D Schroder.png",
   "full_name": "Dennis Schroder",
   "team": "Toronto Raptors",
-  "nationality": "German",
+  "nationality": "Germany",
   "positions": ["Point Guard", " Shooting Guard"],
   "description": "An agile point guard known for his playmaking skills on the court."
 },
@@ -37,7 +37,7 @@
     "team": "Toronto Raptors",
     "nationality": "USA",
     "positions": ["Small Forward", " Power Forward"],
-    "description": "Rookie forward with potential and athleticism."
+    "description": "Young forward with potential and athleticism."
   },
   {
     "id": 5,

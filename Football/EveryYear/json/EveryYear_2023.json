@@ -1,30 +1,6 @@
 [
     {
         "id": 1,
-        "last_name": "Lewandowski",
-        "img": "/football/img/players/Lewandowski.webp",
-        "full_name": "Robert Lewandowski",
-        "birth_date": "21-08-1988",
-        "position": "Striker",
-        "team": "Barcelona",
-        "nationality": "Poland",
-        "height": "6'1\"",
-        "description": "Prolific Polish striker, Barcelona goal machine"
-    },
-    {
-        "id": 2,
-        "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
-        "full_name": "Lionel Messi",
-        "birth_date": "24-06-1987",
-        "position": "Forward",
-        "team": "Inter Miami",
-        "nationality": "Argentina",
-        "height": "5'7\"",
-        "description": "Argentinian genius, record Ballon d’Or winner, playmaking maestro"
-    },
-    {
-        "id": 3,
         "last_name": "Benzema",
         "img": "/football/img/players/Benzema.webp",
         "full_name": "Karim Benzema",
@@ -34,6 +10,30 @@
         "nationality": "France",
         "height": "6'1\"",
         "description": "French striker, former Real Madrid's key forward, clinical finisher"
+    },
+    {
+        "id": 2,
+        "last_name": "Salah",
+        "img": "/football/img/players/Salah.webp",
+        "full_name": "Mohamed Salah",
+        "birth_date": "15-06-1992",
+        "position": "Right Winger",
+        "team": "Liverpool",
+        "nationality": "Egypt",
+        "height": "5'9\"",
+        "description": "Pace and precision make him a lethal attacker."
+    },
+    {
+        "id": 3,
+        "last_name": "Messi",
+        "img": "/football/img/players/Messi.webp",
+        "full_name": "Lionel Messi",
+        "birth_date": "24-06-1987",
+        "position": "Forward",
+        "team": "Inter Miami",
+        "nationality": "Argentina",
+        "height": "5'7\"",
+        "description": "Argentinian genius, record Ballon d’Or winner, playmaking maestro"
     },
     {
         "id": 4,

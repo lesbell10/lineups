@@ -1,16 +1,6 @@
 [
   {
     "id": 1,
-    "last_name": "J Harden",
-    "img": "/basket/img/players/J Harden.png",
-    "full_name": "James Harden",
-    "team": "Los Angeles Clippers",
-    "nationality": "USA",
-    "positions": ["Shooting Guard", " Point Guard"],
-    "description": "Former MVP and elite scorer known for his step-back three."
-  },
-  {
-    "id": 2,
     "last_name": "S Curry",
     "img": "/basket/img/players/S Curry.png",
     "full_name": "Stephen Curry",
@@ -18,6 +8,16 @@
     "nationality": "USA",
     "positions": ["Point Guard", " Shooting Guard"],
     "description": "Two-time NBA MVP and greatest shooter of all time."
+  },
+  {
+    "id": 2,
+    "last_name": "J Harden",
+    "img": "/basket/img/players/J Harden.png",
+    "full_name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "nationality": "USA",
+    "positions": ["Shooting Guard", " Point Guard"],
+    "description": "Former MVP and elite scorer known for his step-back three."
   },
   {
     "id": 3,

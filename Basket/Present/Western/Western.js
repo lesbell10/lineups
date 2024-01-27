@@ -306,7 +306,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Darvin Ham <br> Best Player: Lebron James <br> Best Ever: Magic Johnson, Kobe Bryant, Kareem Abdul-Jabbar, Shaquille O'Neal <br> Position Last Year: 7th in the West"
+            sideModal.innerHTML = "Head Coach: Darvin Ham <br> Best Player: LeBron James <br> Best Ever: Magic Johnson, Kobe Bryant, Kareem Abdul-Jabbar, Shaquille O'Neal <br> Position Last Year: 7th in the West"
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -398,7 +398,7 @@ function updatePlayerInfo() {
     }
 
     if (selectedYear == "9") {
-        PG.textContent = "S Gilgeous-Alexander";
+        PG.textContent = "S Gilgeous-A";
         SG.textContent = "J Giddey";
         SF.textContent = "J Williams";
         PF.textContent = "L Dort";

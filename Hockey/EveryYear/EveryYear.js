@@ -582,7 +582,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Nicklas Lidström, a legendary Swedish defenseman, spent his entire NHL career with the Detroit Red Wings. Widely regarded as one of the greatest defensemen in history, he won numerous Norris Trophies and Stanley Cups due to his incredible defensive prowess and leadership on the ice."
+            sideModal.textContent = "Nicklas Lidstrom, a legendary Swedish defenseman, spent his entire NHL career with the Detroit Red Wings. Widely regarded as one of the greatest defensemen in history, he won numerous Norris Trophies and Stanley Cups due to his incredible defensive prowess and leadership on the ice."
         })
 
         smallpic.addEventListener("mouseout", () => {

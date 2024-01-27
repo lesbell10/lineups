@@ -2526,19 +2526,6 @@
     "description": "English forward with pace and goal-scoring ability."
   },
   {
-    "id": 241,
-    "last_name": "Aubameyang",
-    "img": "/football/img/players/Aubameyang.webp",
-    "full_name": "P-E Aubameyang",
-    "birth_date": "18-06-1989",
-
-    "position": "Forward",
-    "team": "Marseille",
-    "nationality": "Gabon",
-    "height": "6'2\"",
-    "description": "Gabonese striker known for his speed and goal-scoring prowess."
-  },
-  {
     "id": 242,
     "last_name": "Djorkaeff",
     "img": "/football/img/players/Djorkaeff.webp",
@@ -2620,7 +2607,7 @@
     "id": 248,
     "last_name": "Stekelenburg",
     "img": "/football/img/players/Stekelenburg.webp",
-    "full_name": "Maarten Stekelenburg",
+    "full_name": "M Stekelenburg",
     "birth_date": "22-09-1982",
 
     "position": "Goalkeeper",
@@ -5774,7 +5761,7 @@
         "id": 751,
         "last_name": "Vlachodimos",
         "img": "/football/img/players/Vlachodimos.webp",
-        "full_name": "Odisseas Vlachodimos",
+        "full_name": "O Vlachodimos",
         "team": "Nottingham Forest",
         "nationality": "Greece",
         "position": "Goalkeeper",
@@ -5814,7 +5801,7 @@
         "id": 758,
         "last_name": "Mamardashvili",
         "img": "/football/img/players/Mamardashvili.webp",
-        "full_name": "Giorgi Mamardashvili",
+        "full_name": "G Mamardashvili",
         "team": "Valencia",
         "nationality": "Georgia",
         "position": "Goalkeeper",

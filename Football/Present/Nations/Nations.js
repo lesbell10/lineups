@@ -290,7 +290,7 @@ function updatePlayerInfo() {
 
         STC.textContent = "Kane";
         FR.textContent = "Saka";
-        AMC.textContent = "Grealish";
+        AMC.textContent = "Foden";
         FL.textContent = "Rashford";
         CMR.textContent = "Bellingham";
         CML.textContent = "Rice";

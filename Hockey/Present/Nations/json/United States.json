@@ -7,7 +7,7 @@
         "team": "Dallas Stars",
         "nationality": "USA",
         "position": "Left Winger",
-        "description": "American left winger, known for his scoring talent and offensive capabilities. Currently playing for the Dallas Stars."
+        "description": "American left winger, known for his scoring talent and offensive capabilities."
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
         "position": "Center",
-        "description": "American center, renowned for his goal-scoring ability and playmaking skills. A key player for the Toronto Maple Leafs."
+        "description": "American center, renowned for his goal-scoring ability and playmaking skills."
     },
     {
         "id": 3,

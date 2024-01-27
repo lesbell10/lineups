@@ -520,7 +520,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/Philadelphia.gif";
 
-        MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
+        MainFetchPopUp("/basket/present/eastern/json/Philadelphia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1006,7 +1006,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/Philadelphia.gif";
 
-        MainFetchPopUp("/basket/present/eastern/json/Phildadelphia.json");
+        MainFetchPopUp("/basket/present/eastern/json/Philadelphia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

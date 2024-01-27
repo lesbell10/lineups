@@ -524,7 +524,7 @@ function updatePlayerInfo() {
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".webp";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
@@ -987,7 +987,7 @@ const updateDropdown = () => {
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
-        SF2.src = "/basket/img/players/" + SF.textContent + ".webp";
+        SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 

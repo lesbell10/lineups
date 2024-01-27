@@ -177,14 +177,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Jim Montgomery <br> Best Player: Connor McDavid <br> Best Ever: Sidney Crosby, Jarome Iginla, Wayne Gretzky, Mario Lemieux <br> 2023 IIHF World Championship: 1st"
+            sideModal.innerHTML = "Best Coach: Jim Montgomery <br> Best Player: Connor McDavid <br> Best Ever: Sidney Crosby, Wayne Gretzky, Connor McDavid, Mario Lemieux <br> 2023 IIHF World Championship: 1st"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Andre Tourigny"
+        coach.textContent = "Best Coach: Andre Tourigny"
     }
 
     if (selectedYear == "1") {
@@ -209,14 +209,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Radim Rulik <br> Best Player: David Pastrnak <br> Best Ever: Jaromir Jagr, David Pastrnak, Patrik Elias, Dominik Hasek <br> 2023 IIHF World Championship: 8th"
+            sideModal.innerHTML = "Best Coach: Radim Rulik <br> Best Player: David Pastrnak <br> Best Ever: Jaromir Jagr, David Pastrnak, Patrik Elias, Dominik Hasek <br> 2023 IIHF World Championship: 8th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Radim Rulik"
+        coach.textContent = "Best Coach: Radim Rulik"
     }
 
 
@@ -242,14 +242,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Jukka Jalonen <br> Best Player: Mikko Rantanen <br> Best Ever: Teemu Selanne, Patrik Laine, Mikko Rantanen, Aleksander Barkov <br> 2023 IIHF World Championship: 7th"
+            sideModal.innerHTML = "Best Coach: Jukka Jalonen <br> Best Player: Mikko Rantanen <br> Best Ever: Teemu Selanne, Patrik Laine, Mikko Rantanen, Aleksander Barkov <br> 2023 IIHF World Championship: 7th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Jukka Jalonen"
+        coach.textContent = "Best Coach: Jukka Jalonen"
     }
 
     if (selectedYear == "3") {
@@ -274,14 +274,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Harold Kreis <br> Best Player: Leon Draisaitl <br> Best Ever: Leon Draisaitl, Marco Sturm, Olaf Kolzig, Dennis Seidenberg <br> 2023 IIHF World Championship: 2nd"
+            sideModal.innerHTML = "Best Coach: Harold Kreis <br> Best Player: Leon Draisaitl <br> Best Ever: Leon Draisaitl, Marco Sturm, Olaf Kolzig, Dennis Seidenberg <br> 2023 IIHF World Championship: 2nd"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Harold Kreis"
+        coach.textContent = "Best Coach: Harold Kreis"
     }
 
     if (selectedYear == "4") {
@@ -306,14 +306,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Alexei Zhamnov <br> Best Player: Nikita Kucherov <br> Best Ever: Alex Ovechkin, Evgeni Malkin,  Sergei Fedorov, Andrei Vasilevskiy <br> 2023 IIHF World Championship: not present"
+            sideModal.innerHTML = "Best Coach: Alexei Zhamnov <br> Best Player: Nikita Kucherov <br> Best Ever: Alex Ovechkin, Evgeni Malkin,  Alexei Kovalev, Andrei Vasilevskiy <br> 2023 IIHF World Championship: not present"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Alexei Zhamnov"
+        coach.textContent = "Best Coach: Alexei Zhamnov"
     }
 
     if (selectedYear == "5") {
@@ -338,14 +338,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Craig Ramsey <br> Best Player: Erik Cernak <br> Best Ever: Peter Stastny, Marian Hossa, Marian Gaborik, Zdeno Chara <br> 2023 IIHF World Championship: 9th"
+            sideModal.innerHTML = "Best Coach: Craig Ramsey <br> Best Player: Erik Cernak <br> Best Ever: Peter Stastny, Marian Hossa, Marian Gaborik, Zdeno Chara <br> 2023 IIHF World Championship: 9th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Craig Ramsey"
+        coach.textContent = "Best Coach: Craig Ramsey"
     }
 
     if (selectedYear == "6") {
@@ -370,20 +370,20 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Sam Hallan <br> Best Player: Elias Pettersson <br> Best Ever: Mats Sundin, Henrik Lundqvist, Victor Hedman, Niklas Lidstrom <br> 2023 IIHF World Championship: 6th"
+            sideModal.innerHTML = "Best Coach: Sam Hallan <br> Best Player: Elias Pettersson <br> Best Ever: Mats Sundin, Henrik Lundqvist, Erik Karlsson, Niklas Lidstrom <br> 2023 IIHF World Championship: 6th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Sam Hallan"
+        coach.textContent = "Best Coach: Sam Hallan"
     }
 
     if (selectedYear == "7") {
-        FL.textContent = "Meier";
+        FL.textContent = "Fiala";
         FC.textContent = "Hischier";
-        FR.textContent = "Fiala";
+        FR.textContent = "Meier";
         DL.textContent = "Josi";
         DR.textContent = "Siegenthaler";
         G.textContent = "Genoni";
@@ -401,14 +401,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Patrick Fischer <br> Best Player: Roman Josi <br> Best Ever: Roman Josi, Mark Streit, Nino Niederreiter, Sven Andrighetto <br> 2023 IIHF World Championship: 5th"
+            sideModal.innerHTML = "Best Coach: Patrick Fischer <br> Best Player: Roman Josi <br> Best Ever: Roman Josi, Mark Streit, Nino Niederreiter, Sven Andrighetto <br> 2023 IIHF World Championship: 5th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: Patrick Fischer"
+        coach.textContent = "Best Coach: Patrick Fischer"
 
         G2.style.width = '120px';
         G2.style.objectFit = "cover";
@@ -435,14 +435,14 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: David Quinn <br> Best Player: Auston Mathews <br> Best Ever: Mike Modano, Patrick Kane, Brian Leetch, Auston Matthews <br> 2023 IIHF World Championship: 4th"
+            sideModal.innerHTML = "Best Coach: David Quinn <br> Best Player: Auston Mathews <br> Best Ever: Mike Modano, Patrick Kane, Brian Leetch, Jeremy Roenick <br> 2023 IIHF World Championship: 4th"
         })
 
         smallpic.addEventListener("mouseout", () => {
             sideModal.style.display = 'none'; // Hide the modal
         });
 
-        coach.textContent = "Head Coach: David Quinn"
+        coach.textContent = "Best Coach: David Quinn"
     }
 
     function clearAndFadeInElements() {

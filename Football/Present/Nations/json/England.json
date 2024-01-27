@@ -27,16 +27,16 @@
     },
     {
         "id": 3,
-        "last_name": "Grealish",
-        "img": "/football/img/players/Grealish.webp",
-        "full_name": "Jack Grealish",
-        "birth_date": "10-09-1995",
+        "last_name": "Foden",
+        "img": "/football/img/players/Foden.webp",
+        "full_name": "Phil Foden",
+        "birth_date": "28-05-2000",
 
-        "position": "Left Winger",
+        "position": "Attacking Midfielder, Right Winger",
         "team": "Manchester City",
         "nationality": "England",
-        "height": "5'9\"",
-        "description": "Creative midfielder with flair and vision."
+        "height": "5'7\"",
+        "description": "Young English midfielder with immense potential."
     },
     {
         "id": 4,

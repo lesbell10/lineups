@@ -15,7 +15,7 @@
     "img": "/basket/img/players/J Clarkson.png",
     "full_name": "Jordan Clarkson",
     "team": "Utah Jazz",
-    "nationality": "Philippines/USA",
+    "nationality": "Philippines / USA",
     "positions": ["Shooting Guard", " Point Guard"],
     "description": "Sixth Man of the Year known for his scoring off the bench."
   },
@@ -41,12 +41,12 @@
   },
   {
     "id": 5,
-    "last_name": "WKessler",
+    "last_name": "W Kessler",
     "img": "/basket/img/players/W Kessler.png",
     "full_name": "Walker Kessler",
     "team": "Utah Jazz",
     "nationality": "USA",
     "positions": ["Center"],
-    "description": "Rookie center with shot-blocking potential."
+    "description": "Young center with shot-blocking potential."
   }
 ]

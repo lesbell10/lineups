@@ -17,7 +17,7 @@
     "team": "Houston Rockets",
     "nationality": "USA",
     "positions": ["Shooting Guard", " Small Forward"],
-    "description": "Highly-touted rookie with scoring potential."
+    "description": "Highly-touted youngster with scoring potential."
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "team": "Houston Rockets",
     "nationality": "Canada",
     "positions": ["Small Forward", " Shooting Guard"],
-    "description": "Tough defender and scorer for the Grizzlies."
+    "description": "Tough defender and scorer for the Rockets."
   },
   {
     "id": 4,
@@ -47,6 +47,6 @@
     "team": "Houston Rockets",
     "nationality": "Turkey",
     "positions": ["Center", " Power Forward"],
-    "description": "Rookie center with post moves and rebounding skills."
+    "description": "Young center with post moves and rebounding skills."
   }
 ]

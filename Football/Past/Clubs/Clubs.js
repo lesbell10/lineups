@@ -190,7 +190,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Manchester City, from 2010 to 2020, transformed into a football powerhouse under wealthy ownership. They secured multiple Premier League title and reached the UEFA Champions League finals. The era was defined by attractive attacking football and the leadership of managers like Pep Guardiola."
+            sideModal.textContent = "Manchester City, from 2010 to 2020, transformed into a football powerhouse under wealthy ownership. They secured multiple Premier League titles and reached the UEFA Champions League final. The era was defined by attractive attacking football and the leadership of managers like Pep Guardiola."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -527,7 +527,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Juventus FC dominated Italian football during the 2010-2020 decade, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
+            sideModal.textContent = "Juventus FC dominated Italian football during the 2010s, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -609,7 +609,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Inter Milan's 2010-2020 decade featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
+            sideModal.textContent = "Inter Milan's 2010s featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1240,7 +1240,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Juventus FC dominated Italian football during the 2010-2020 decade, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
+            sideModal.textContent = "Juventus FC dominated Italian football during the 2010s, winning numerous Serie A titles consecutively. They also reached UEFA Champions League finals but fell short. Key signings like Cristiano Ronaldo bolstered their squad, making Juventus a formidable force domestically and a prominent club in European competitions."
         })
 
         smallpic.addEventListener("mouseout", () => {
@@ -1322,7 +1322,7 @@ const updateDropdown = () => {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.textContent = "Inter Milan's 2010-2020 decade featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
+            sideModal.textContent = "Inter Milan's 2010s featured a historic treble-winning season under José Mourinho in 2010, but they encountered domestic struggles in Serie A during the rest of the decade, aiming to regain their former prominence."
         })
 
         smallpic.addEventListener("mouseout", () => {

@@ -151,11 +151,11 @@ function updatePlayerInfo() {
     selectedYear = yearSelector.value;
 
     if (selectedYear == "2") {
-        SG.textContent = "Harden";
-        PG.textContent = "Curry";
-        SF.textContent = "James";
-        PF.textContent = "Durant";
-        C.textContent = "Davis";
+        SG.textContent = "J Harden";
+        PG.textContent = "S Curry";
+        SF.textContent = "L James";
+        PF.textContent = "K Durant";
+        C.textContent = "A Davis";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -179,8 +179,8 @@ function updatePlayerInfo() {
     } if (selectedYear == "0") {
         SG.textContent = "L Doncic";
         PG.textContent = "T Parker";
-        SF.textContent = "D Nowitzki";
-        PF.textContent = "G Antetokounmpo";
+        SF.textContent = "G Antetokounmpo";
+        PF.textContent = "D Nowitzki";
         C.textContent = "N Jokic";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
@@ -206,10 +206,10 @@ function updatePlayerInfo() {
 
     if (selectedYear == "1") {
         SG.textContent = "M Ginobili";
-        PG.textContent = "Y Ming";
-        SF.textContent = "H Olajuwon";
-        PF.textContent = "J Embiid";
-        C.textContent = "A Horford";
+        PG.textContent = "J Embiid";
+        SF.textContent = "A Horford";
+        PF.textContent = "H Olajuwon";
+        C.textContent = "Y Ming";
 
         PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
@@ -287,7 +287,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/past/nations/json/usa.json");
+        MainFetchPopUp("/basket/past/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

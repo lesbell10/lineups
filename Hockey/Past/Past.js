@@ -75,7 +75,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
-        sideModal.textContent = "Sidney Crosby, the Pittsburgh Penguins' captain, led his team to two Stanley Cup victories (2016, 2017) during the 2010-2020 decade. His exceptional playmaking and leadership solidified his status as one of the NHL's premier players and earned him numerous accolades."
+        sideModal.textContent = "Sidney Crosby, the Pittsburgh Penguins' captain, led his team to two Stanley Cup victories (2016, 2017) during the 2010s. His exceptional playmaking and leadership solidified his status as one of the NHL's premier players and earned him numerous accolades."
     })
 
     smallpic.addEventListener("mouseout", () => {

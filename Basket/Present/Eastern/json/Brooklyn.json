@@ -10,7 +10,7 @@
     "description": "Dynamic guard for the Brooklyn Nets, known for clutch plays."
   },
   {
-    "id": 6,
+    "id": 2,
     "last_name": "M Bridges",
     "img": "/basket/img/players/Mik Bridges.png",
     "full_name": "Mikal Bridges",
@@ -37,7 +37,7 @@
     "team": "Brooklyn Nets",
     "nationality": "USA",
     "positions": ["Power Forward", " Small Forward"],
-    "description": "Versatile forward for the Phoenix Suns, a three-point specialist."
+    "description": "Versatile forward for the Brooklyn Nets, a three-point specialist."
   },
   {
     "id": 5,
