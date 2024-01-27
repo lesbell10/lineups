@@ -53,7 +53,7 @@ a {
 
 a:hover {
     color: black;
-    transition: 1.15s;
+    transition: .6s;
 }
 
 /* a::after {
@@ -243,7 +243,7 @@ nav.home {
 .player, .player-info {
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     border-radius: 20px;
     margin: 15px;
@@ -256,6 +256,10 @@ nav.home {
     width: 70%;
     height: 70%;
     box-shadow: -5px 5px 10px black;
+}
+
+.player:hover, .player-info:hover {
+    border: 2px solid white;
 }
 
 .player img, .player-info img {
