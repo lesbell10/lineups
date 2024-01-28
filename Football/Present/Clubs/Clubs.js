@@ -207,17 +207,17 @@ function updatePlayerInfo() {
 
     if (selectedYear == "14") {
 
-        STC.textContent = "Rodrygo"
-        FR.textContent = "Valverde"
-        AMC.textContent = "Bellingham"
-        FL.textContent = "Vinicius Jr"
-        CMR.textContent = "Kroos"
-        CML.textContent = "Tchouameni"
-        DR.textContent = "Carvajal"
-        DCR.textContent = "E Militao"
-        DCL.textContent = "Alaba"
-        DL.textContent = "Camavinga"
-        GK.textContent = "Kepa"
+        STC.textContent = "Rodrygo";
+        FR.textContent = "Valverde";
+        AMC.textContent = "Bellingham";
+        FL.textContent = "Vinicius Jr";
+        CMR.textContent = "Kroos";
+        CML.textContent = "Tchouameni";
+        DR.textContent = "Carvajal";
+        DCR.textContent = "E Militao";
+        DCL.textContent = "Alaba";
+        DL.textContent = "Camavinga";
+        GK.textContent = "Kepa";
 
         STC2.src = "/football/img/players/" + STC.textContent + ".webp";
         FR2.src = "/football/img/players/" + FR.textContent + ".webp";
