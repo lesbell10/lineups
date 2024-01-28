@@ -191,7 +191,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Manager: Pep Guardiola yesss <br> Best Player: Erling Haaland <br> Best Ever: Sergio Aguero, David Silva, Kevin De Bruyne, Yaya Toure <br> Position Last Year: 1st in Premier League"
+            sideModal.innerHTML = "Manager: Pep Guardiola <br> Best Player: Erling Haaland <br> Best Ever: Sergio Aguero, David Silva, Kevin De Bruyne, Yaya Toure <br> Position Last Year: 1st in Premier League"
         })
 
         smallpic.addEventListener("mouseout", () => {
