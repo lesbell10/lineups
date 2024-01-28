@@ -84,7 +84,7 @@ function updatePlayerInfo() {
 
     STC2.src = "/football/img/players/" + STC.textContent + ".webp";
     FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-    AMC2.src = "/football/img/players/" + AMC.textContent + ".webp ";
+    AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
     FL2.src = "/football/img/players/" + FL.textContent + ".webp";
     CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
     CML2.src = "/football/img/players/" + CML.textContent + ".webp";
