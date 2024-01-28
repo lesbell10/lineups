@@ -171,7 +171,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Jim Montgomery <br> Best Player: David Pastrnak <br> Best Ever: Bobby Orr, Ray Bourque, Zdeno Chara, Patrice Bergeron <br> Position Last Year: 1st in the East"
+            sideModal.innerHTML = "Head Coach: Jim Montgomery yesss <br> Best Player: David Pastrnak <br> Best Ever: Bobby Orr, Ray Bourque, Zdeno Chara, Patrice Bergeron <br> Position Last Year: 1st in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {

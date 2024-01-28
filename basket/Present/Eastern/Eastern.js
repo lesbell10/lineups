@@ -168,7 +168,7 @@ function updatePlayerInfo() {
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
-            sideModal.innerHTML = "Head Coach: Quin Snyder <br> Best Player: Trae Young <br> Best Ever: Dominique Wilkins, Bob Pettit, Bob Cousy, Dikembe Mutombo <br> Position Last Year: 7th in the East"
+            sideModal.innerHTML = "Head Coach: Quin Snyder yesss <br> Best Player: Trae Young <br> Best Ever: Dominique Wilkins, Bob Pettit, Bob Cousy, Dikembe Mutombo <br> Position Last Year: 7th in the East"
         })
 
         smallpic.addEventListener("mouseout", () => {
