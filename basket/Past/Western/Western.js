@@ -298,7 +298,7 @@ function updatePlayerInfo() {
         PF.textContent = "D Howard";
         C.textContent = "P Gasol";
 
-        PG2.src = "/basket/img/players/" + PG.textContent + ".webp";
+        PG2.src = "/basket/img/players/" + PG.textContent + ".png";
         SG2.src = "/basket/img/players/" + SG.textContent + ".png";
         SF2.src = "/basket/img/players/" + SF.textContent + ".png";
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
