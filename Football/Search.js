@@ -236,6 +236,7 @@ function displayResults(players) {
         const img = document.createElement('img');
         img.src = player.img;
         img.alt = `Image of ${player.full_name}`;
+        img.loading = "lazy"; // Enable lazy loading
         img.style.display = "flex";
         img.style.marginBottom = "10px";
         img.style.animation = "none"
