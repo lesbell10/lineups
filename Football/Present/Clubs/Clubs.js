@@ -173,17 +173,17 @@ function updatePlayerInfo() {
         DL.textContent = "Gvardiol";
         GK.textContent = "Ederson";
 
-        STC2.src = "../Football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "../Football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "../Football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "../Football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "../Football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "../Football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "../Football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "../Football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "../Football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "../Football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "../Football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "../football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "../football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "../football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "../football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "../football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "../football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "../football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "../football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "../football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "../football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "../football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/logos/man city.webp";
 
