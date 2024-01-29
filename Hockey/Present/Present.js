@@ -65,12 +65,12 @@ function updatePlayerInfo() {
     DR.textContent = "Josi";
     G.textContent = "Vasilevskiy";
 
-    FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-    FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-    FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-    DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-    DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-    G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+    FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+    FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+    FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+    DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+    DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+    G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
     smallpic.src = "/hockey/img/wallpapers/mcdavid.jpg";
 
