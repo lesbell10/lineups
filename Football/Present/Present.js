@@ -83,7 +83,7 @@ function updatePlayerInfo() {
     DL.textContent = "Robertson";
     GK.textContent = "Courtois";
 
-    STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+    STC2.src = "http://127.0.0.1:5501/Football/img/players/Haaland.webp";
     FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
     AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
     FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
