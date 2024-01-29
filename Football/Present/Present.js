@@ -20,7 +20,7 @@ const preloadedImages = [];
 function preloadImages() {
     for (const imageUrl of imageUrls) {
         const img = new Image();
-        img.src = `/football/img/players/${imageUrl}`;
+        img.src = `/Football/img/players/${imageUrl}`;
         preloadedImages.push(img);
     }
 }
