@@ -78,7 +78,7 @@ function updatePlayerInfo() {
 
     playerNames.forEach((name, index) => {
         const element = playerImages[index];
-        element.src = `/football/img/players/${name}.webp`;
+        element.src = `/Football/img/players/${name}.webp`;
     });
 
     smallpic.src = "/football/img/wallpapers/haaland.jpg";
