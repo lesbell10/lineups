@@ -29,7 +29,6 @@ const coach = document.querySelector(".coach");
 window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = '3%'
-    updatePlayerInfo();
 }
 
 

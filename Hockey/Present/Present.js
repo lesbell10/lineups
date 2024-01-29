@@ -16,6 +16,10 @@ const sideModal = document.querySelector(".side-modal");
 const containers = document.querySelectorAll(".carousel-item");
 const coach = document.querySelector(".coach");
 
+window.onload = function () { 
+    updatePlayerInfo();
+}
+
 // Function to handle mouseover
 const handleMouseover = (event) => {
     // Find the image and paragraph within the container
