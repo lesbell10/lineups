@@ -76,7 +76,7 @@ function updatePlayerInfo() {
     }
 
 
-    smallpic.src = "/Hockey/img/Wallpapers/mcdavid.jpg";
+    smallpic.src = "/Hockey/img/wallpapers/mcdavid.jpg";
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'

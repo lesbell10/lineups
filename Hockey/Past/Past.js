@@ -69,7 +69,7 @@ function updatePlayerInfo() {
     G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
 
-    smallpic.src = "/Hockey/img/Wallpapers/crosby.jpg";
+    smallpic.src = "/Hockey/img/wallpapers/crosby.jpg";
 
     MainFetchPopUp("/hockey/past/past.json");
 

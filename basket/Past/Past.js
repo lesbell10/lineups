@@ -74,7 +74,7 @@ function updatePlayerInfo() {
     PF2.src = "/basket/img/players/" + PF.textContent + ".png";
     C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-    smallpic.src = "/basket/img/Wallpapers/james 4.jpg";
+    smallpic.src = "/basket/img/wallpapers/james 4.jpg";
 
     MainFetchPopUp("/basket/past/past.json");
 

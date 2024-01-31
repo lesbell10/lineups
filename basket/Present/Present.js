@@ -73,7 +73,7 @@ function updatePlayerInfo() {
     C2.src = "/basket/img/players/" + C.textContent + ".png";
 
 
-    smallpic.src = "/basket/img/Wallpapers/embiid.jpg";
+    smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
     MainFetchPopUp("/basket/present/present.json");
 

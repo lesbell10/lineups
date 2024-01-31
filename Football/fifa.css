@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url("img/Wallpapers/main.jpg");
+    background-image: url("img/wallpapers/main.jpg");
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
@@ -28,7 +28,7 @@ nav {
 
 .background {
     flex: 1;
-    background-image: url("img/Wallpapers/Messi.webp");
+    background-image: url("img/wallpapers/Messi.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }

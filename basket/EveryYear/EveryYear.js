@@ -168,7 +168,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/embiid.jpg";
+        smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
@@ -198,7 +198,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/Jokic.jpg";
+        smallpic.src = "/basket/img/wallpapers/Jokic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
 
@@ -228,7 +228,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/curry.jpg";
+        smallpic.src = "/basket/img/wallpapers/curry.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
 
@@ -258,7 +258,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/antetokounmpo.jpg";
+        smallpic.src = "/basket/img/wallpapers/antetokounmpo.jpg";
 
         MainFetchPopUp("./json/EveryYear_2021.json");
 
@@ -288,7 +288,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/harden.png";
+        smallpic.src = "/basket/img/wallpapers/harden.png";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
 
@@ -318,7 +318,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/durant.jpg"
+        smallpic.src = "/basket/img/wallpapers/durant.jpg"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
 
@@ -348,7 +348,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/james.jpg";
+        smallpic.src = "/basket/img/wallpapers/james.jpg";
 
         MainFetchPopUp("./json/EveryYear_2018.json");
 
@@ -378,7 +378,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/leonard.jpg";
+        smallpic.src = "/basket/img/wallpapers/leonard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
 
@@ -408,7 +408,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/davis.jpg";
+        smallpic.src = "/basket/img/wallpapers/davis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
 
@@ -438,7 +438,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/duncan.jpg";
+        smallpic.src = "/basket/img/wallpapers/duncan.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
 
@@ -468,7 +468,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/paul.jpg";
+        smallpic.src = "/basket/img/wallpapers/paul.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
 
@@ -498,7 +498,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/bryant.jpg";
+        smallpic.src = "/basket/img/wallpapers/bryant.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
 
@@ -528,7 +528,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/howard.jpg";
+        smallpic.src = "/basket/img/wallpapers/howard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
 
@@ -559,7 +559,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/anthony.jpg";
+        smallpic.src = "/basket/img/wallpapers/anthony.jpg";
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
@@ -589,7 +589,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/garnett.jpg";
+        smallpic.src = "/basket/img/wallpapers/garnett.jpg";
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
@@ -619,7 +619,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/wade.jpg";
+        smallpic.src = "/basket/img/wallpapers/wade.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
 
@@ -649,7 +649,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/james 2.jpg";
+        smallpic.src = "/basket/img/wallpapers/james 2.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
 
@@ -679,7 +679,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/nash.jpg";
+        smallpic.src = "/basket/img/wallpapers/nash.jpg";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
 
@@ -709,7 +709,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/nowitzki.jpg";
+        smallpic.src = "/basket/img/wallpapers/nowitzki.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
 
@@ -739,7 +739,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/O'Neal.webp";
+        smallpic.src = "/basket/img/wallpapers/O'Neal.webp";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
 
@@ -769,7 +769,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/iverson.jpg";
+        smallpic.src = "/basket/img/wallpapers/iverson.jpg";
 
         MainFetchPopUp("./json/EveryYear_2004.json");
 
@@ -839,7 +839,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/embiid.jpg";
+        smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
@@ -869,7 +869,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/Jokic.jpg";
+        smallpic.src = "/basket/img/wallpapers/Jokic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
 
@@ -899,7 +899,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/curry.jpg";
+        smallpic.src = "/basket/img/wallpapers/curry.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
 
@@ -929,7 +929,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/antetokounmpo.jpg";
+        smallpic.src = "/basket/img/wallpapers/antetokounmpo.jpg";
 
         MainFetchPopUp("./json/EveryYear_2021.json");
 
@@ -959,7 +959,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/harden.png";
+        smallpic.src = "/basket/img/wallpapers/harden.png";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
 
@@ -989,7 +989,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/durant.jpg"
+        smallpic.src = "/basket/img/wallpapers/durant.jpg"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
 
@@ -1019,7 +1019,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/james.jpg";
+        smallpic.src = "/basket/img/wallpapers/james.jpg";
 
         MainFetchPopUp("./json/EveryYear_2018.json");
 
@@ -1049,7 +1049,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/leonard.jpg";
+        smallpic.src = "/basket/img/wallpapers/leonard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
 
@@ -1079,7 +1079,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/davis.jpg";
+        smallpic.src = "/basket/img/wallpapers/davis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
 
@@ -1109,7 +1109,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/duncan.jpg";
+        smallpic.src = "/basket/img/wallpapers/duncan.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
 
@@ -1139,7 +1139,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/paul.jpg";
+        smallpic.src = "/basket/img/wallpapers/paul.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
 
@@ -1169,7 +1169,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/bryant.jpg";
+        smallpic.src = "/basket/img/wallpapers/bryant.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
 
@@ -1199,7 +1199,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/howard.jpg";
+        smallpic.src = "/basket/img/wallpapers/howard.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
 
@@ -1230,7 +1230,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/anthony.jpg";
+        smallpic.src = "/basket/img/wallpapers/anthony.jpg";
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
@@ -1260,7 +1260,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/garnett.jpg";
+        smallpic.src = "/basket/img/wallpapers/garnett.jpg";
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
@@ -1290,7 +1290,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/wade.jpg";
+        smallpic.src = "/basket/img/wallpapers/wade.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
 
@@ -1320,7 +1320,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/james 2.jpg";
+        smallpic.src = "/basket/img/wallpapers/james 2.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
 
@@ -1350,7 +1350,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/nash.jpg";
+        smallpic.src = "/basket/img/wallpapers/nash.jpg";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
 
@@ -1380,7 +1380,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/nowitzki.jpg";
+        smallpic.src = "/basket/img/wallpapers/nowitzki.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
 
@@ -1410,7 +1410,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/O'Neal.webp";
+        smallpic.src = "/basket/img/wallpapers/O'Neal.webp";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
 
@@ -1440,7 +1440,7 @@ const updateDropdown = () => {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/Wallpapers/iverson.jpg";
+        smallpic.src = "/basket/img/wallpapers/iverson.jpg";
 
         MainFetchPopUp("./json/EveryYear_2004.json");
 
