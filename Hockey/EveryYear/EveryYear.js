@@ -170,7 +170,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/mcdavid.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/mcdavid.jpg";
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
@@ -201,7 +201,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/matthews.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/matthews.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
 
@@ -232,7 +232,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/mackinnon.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/mackinnon.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
 
@@ -263,7 +263,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/draisaitl.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/draisaitl.jpg";
 
 
         MainFetchPopUp("./json/EveryYear_2021.json");
@@ -295,7 +295,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/burns.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/burns.jpg";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
 
@@ -326,7 +326,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/kucherov.png"
+        smallpic.src = "/Hockey/img/Wallpapers/kucherov.png"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
 
@@ -357,7 +357,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/ovechkin.png";
+        smallpic.src = "/Hockey/img/Wallpapers/ovechkin.png";
 
 
         MainFetchPopUp("./json/EveryYear_2018.json");
@@ -389,7 +389,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/price.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/price.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
 
@@ -420,7 +420,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/toews.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/toews.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
 
@@ -451,7 +451,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/kane.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/kane.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
 
@@ -483,7 +483,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/malkin.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/malkin.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
 
@@ -514,7 +514,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/chara.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/chara.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
 
@@ -545,7 +545,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/stamkos.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/stamkos.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
 
@@ -576,7 +576,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/lidstrom.avif";
+        smallpic.src = "/Hockey/img/Wallpapers/lidstrom.avif";
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
@@ -607,7 +607,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/datsyuk.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/datsyuk.jpg";
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
@@ -638,7 +638,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/iginla.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/iginla.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
 
@@ -669,7 +669,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/thornton.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/thornton.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
 
@@ -700,7 +700,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/jagr.webp";
+        smallpic.src = "/Hockey/img/Wallpapers/jagr.webp";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
 
@@ -731,7 +731,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/niedermayer.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/niedermayer.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
 
@@ -762,7 +762,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/sakic.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/sakic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
 
@@ -794,7 +794,7 @@ function updatePlayerInfo() {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/st louis.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/st louis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2004.json");
 
@@ -865,7 +865,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/mcdavid.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/mcdavid.jpg";
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
@@ -896,7 +896,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/matthews.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/matthews.jpg";
 
         MainFetchPopUp("./json/EveryYear_2023.json");
 
@@ -927,7 +927,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/mackinnon.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/mackinnon.jpg";
 
         MainFetchPopUp("./json/EveryYear_2022.json");
 
@@ -958,7 +958,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/draisaitl.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/draisaitl.jpg";
 
 
         MainFetchPopUp("./json/EveryYear_2021.json");
@@ -990,7 +990,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/burns.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/burns.jpg";
 
         MainFetchPopUp("./json/EveryYear_2020.json");
 
@@ -1021,7 +1021,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/kucherov.png"
+        smallpic.src = "/Hockey/img/Wallpapers/kucherov.png"
 
         MainFetchPopUp("./json/EveryYear_2019.json");
 
@@ -1052,7 +1052,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/ovechkin.png";
+        smallpic.src = "/Hockey/img/Wallpapers/ovechkin.png";
 
 
         MainFetchPopUp("./json/EveryYear_2018.json");
@@ -1084,7 +1084,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/price.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/price.jpg";
 
         MainFetchPopUp("./json/EveryYear_2017.json");
 
@@ -1115,7 +1115,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/toews.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/toews.jpg";
 
         MainFetchPopUp("./json/EveryYear_2016.json");
 
@@ -1146,7 +1146,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/kane.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/kane.jpg";
 
         MainFetchPopUp("./json/EveryYear_2015.json");
 
@@ -1178,7 +1178,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/malkin.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/malkin.jpg";
 
         MainFetchPopUp("./json/EveryYear_2014.json");
 
@@ -1209,7 +1209,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/chara.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/chara.jpg";
 
         MainFetchPopUp("./json/EveryYear_2013.json");
 
@@ -1240,7 +1240,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/stamkos.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/stamkos.jpg";
 
         MainFetchPopUp("./json/EveryYear_2012.json");
 
@@ -1271,7 +1271,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/lidstrom.avif";
+        smallpic.src = "/Hockey/img/Wallpapers/lidstrom.avif";
 
         MainFetchPopUp("./json/EveryYear_2011.json");
 
@@ -1302,7 +1302,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/datsyuk.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/datsyuk.jpg";
 
         MainFetchPopUp("./json/EveryYear_2010.json");
 
@@ -1333,7 +1333,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/iginla.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/iginla.jpg";
 
         MainFetchPopUp("./json/EveryYear_2009.json");
 
@@ -1364,7 +1364,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/thornton.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/thornton.jpg";
 
         MainFetchPopUp("./json/EveryYear_2008.json");
 
@@ -1395,7 +1395,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/jagr.webp";
+        smallpic.src = "/Hockey/img/Wallpapers/jagr.webp";
 
         MainFetchPopUp("./json/EveryYear_2007.json");
 
@@ -1426,7 +1426,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/niedermayer.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/niedermayer.jpg";
 
         MainFetchPopUp("./json/EveryYear_2006.json");
 
@@ -1457,7 +1457,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/sakic.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/sakic.jpg";
 
         MainFetchPopUp("./json/EveryYear_2005.json");
 
@@ -1489,7 +1489,7 @@ const updateDropdown = () => {
         DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
         G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/Hockey/img/wallpapers/st louis.jpg";
+        smallpic.src = "/Hockey/img/Wallpapers/st louis.jpg";
 
         MainFetchPopUp("./json/EveryYear_2004.json");
 

@@ -95,7 +95,7 @@ function updatePlayerInfo() {
     DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
     GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-    smallpic.src = "/Football/img/wallpapers/haaland.jpg";
+    smallpic.src = "/Football/img/Wallpapers/haaland.jpg";
 
     MainFetchPopUp("/Football/Present/Present.json");
 

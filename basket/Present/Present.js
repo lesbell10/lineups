@@ -30,7 +30,7 @@ const handleMouseover = (event) => {
     // Modify the image
     img.style.height = "31%";
     img.style.transform = "translateY(-22%)";
-    
+
     // Modify the paragraph
     p.style.scale = "1.3";
     p.style.transform = "translateY(10px) translateX(25px)";
@@ -73,7 +73,7 @@ function updatePlayerInfo() {
     C2.src = "/basket/img/players/" + C.textContent + ".png";
 
 
-    smallpic.src = "/basket/img/wallpapers/embiid.jpg";
+    smallpic.src = "/basket/img/Wallpapers/embiid.jpg";
 
     MainFetchPopUp("/basket/present/present.json");
 

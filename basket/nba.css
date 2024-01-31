@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url("img/wallpapers/main.jpg");
+    background-image: url("img/Wallpapers/main.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -27,7 +27,7 @@ nav {
 
 .background {
     height: 100vh;
-    background-image: url("img/wallpapers/James\ 3.jpg");
+    background-image: url("img/Wallpapers/James\ 3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
