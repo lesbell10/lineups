@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "T Muller",
-        "img": "/football/img/players/T Muller.webp",
+        "img": "/Football/img/players/T Muller.webp",
         "full_name": "Thomas Muller",
         "birth_date": "13-09-1989",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Sane",
-        "img": "/football/img/players/Sane.webp",
+        "img": "/Football/img/players/Sane.webp",
         "full_name": "Leroy Sane",
         "birth_date": "11-01-1996",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Ozil",
-        "img": "/football/img/players/Ozil.webp",
+        "img": "/Football/img/players/Ozil.webp",
         "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Reus",
-        "img": "/football/img/players/Reus.webp",
+        "img": "/Football/img/players/Reus.webp",
         "full_name": "Marco Reus",
         "birth_date": "31-05-1989",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Kroos",
-        "img": "/football/img/players/Kroos.webp",
+        "img": "/Football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Schweinsteiger",
-        "img": "/football/img/players/Schweinsteiger.webp",
+        "img": "/Football/img/players/Schweinsteiger.webp",
         "full_name": "B Schweinsteiger",
         "birth_date": "01-08-1984",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Kimmich",
-        "img": "/football/img/players/Kimmich.webp",
+        "img": "/Football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Hummels",
-        "img": "/football/img/players/Hummels.webp",
+        "img": "/Football/img/players/Hummels.webp",
         "full_name": "Mats Hummels",
         "birth_date": "16-12-1988",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Boateng",
-        "img": "/football/img/players/Boateng.webp",
+        "img": "/Football/img/players/Boateng.webp",
         "full_name": "Jerome Boateng",
         "birth_date": "03-09-1988",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Lahm",
-        "img": "/football/img/players/Lahm.webp",
+        "img": "/Football/img/players/Lahm.webp",
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Neuer",
-        "img": "/football/img/players/Neuer.webp",
+        "img": "/Football/img/players/Neuer.webp",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
 

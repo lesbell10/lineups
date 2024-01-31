@@ -2,7 +2,7 @@
 {
     "id": 1,
     "last_name": "Dzeko",
-    "img": "/football/img/players/Dzeko.webp",
+    "img": "/Football/img/players/Dzeko.webp",
     "full_name": "Edin Dzeko",
     "birth_date": "17-03-1986",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Mkhitaryan",
-    "img": "/football/img/players/Mkhitaryan.webp",
+    "img": "/Football/img/players/Mkhitaryan.webp",
     "full_name": "Henrikh Mkhitaryan",
     "birth_date": "21-01-1989",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Totti",
-    "img": "/football/img/players/Totti.webp",
+    "img": "/Football/img/players/Totti.webp",
     "full_name": "Francesco Totti",
     "birth_date": "27-09-1976",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "El Shaarawy",
-    "img": "/football/img/players/El Shaarawy.webp",
+    "img": "/Football/img/players/El Shaarawy.webp",
     "full_name": "Stephan El Shaarawy",
     "birth_date": "27-10-1992",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Pjanic",
-    "img": "/football/img/players/Pjanic.webp",
+    "img": "/Football/img/players/Pjanic.webp",
     "full_name": "Miralem Pjanic",
     "birth_date": "02-04-1990",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "De Rossi",
-    "img": "/football/img/players/De Rossi.webp",
+    "img": "/Football/img/players/De Rossi.webp",
     "full_name": "Daniele De Rossi",
     "birth_date": "24-07-1983",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Florenzi",
-    "img": "/football/img/players/Florenzi.webp",
+    "img": "/Football/img/players/Florenzi.webp",
     "full_name": "Alessandro Florenzi",
     "birth_date": "11-03-1991",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Smalling",
-    "img": "/football/img/players/Smalling.webp",
+    "img": "/Football/img/players/Smalling.webp",
     "full_name": "Chris Smalling",
     "birth_date": "22-11-1989",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Manolas",
-    "img": "/football/img/players/Manolas.webp",
+    "img": "/Football/img/players/Manolas.webp",
     "full_name": "Kostas Manolas",
     "birth_date": "14-06-1991",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Kolarov",
-    "img": "/football/img/players/Kolarov.webp",
+    "img": "/Football/img/players/Kolarov.webp",
     "full_name": "Aleksandar Kolarov",
     "birth_date": "10-11-1985",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Szczesny",
-    "img": "/football/img/players/Szczesny.webp",
+    "img": "/Football/img/players/Szczesny.webp",
     "full_name": "Wojciech Szczesny",
     "birth_date": "18-04-1990",
 

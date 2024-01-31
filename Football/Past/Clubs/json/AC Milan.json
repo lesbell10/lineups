@@ -3,7 +3,7 @@
 
   "id": 1,
   "last_name": "Ibrahimovic",
-  "img": "/football/img/players/Ibrahimovic.webp",
+  "img": "/Football/img/players/Ibrahimovic.webp",
   "full_name": "Zlatan Ibrahimovic",
   "birth_date": "03-10-1981",
   "position": "Striker",
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "Cassano",
-  "img": "/football/img/players/Cassano.webp",
+  "img": "/Football/img/players/Cassano.webp",
   "full_name": "Antonio Cassano",
   "birth_date": "12-07-1982",
   "position": "Forward",
@@ -27,7 +27,7 @@
 {
   "id": 3,
   "last_name": "Kaka",
-  "img": "/football/img/players/Kaka.webp",
+  "img": "/Football/img/players/Kaka.webp",
   "full_name": "Ricardo Kaka",
   "birth_date": "22-04-1982",
   "position": "Attacking Midfielder",
@@ -39,7 +39,7 @@
 {
   "id": 4,
   "last_name": "Robinho",
-  "img": "/football/img/players/Robinho.webp",
+  "img": "/Football/img/players/Robinho.webp",
   "full_name": "Robinho de Souza",
   "birth_date": "25-01-1984",
   "position": "Forward",
@@ -51,7 +51,7 @@
 {
   "id": 5,
   "last_name": "Seedorf",
-  "img": "/football/img/players/Seedorf.webp",
+  "img": "/Football/img/players/Seedorf.webp",
   "full_name": "Clarence Seedorf",
   "birth_date": "01-04-1976",
   "position": "Central Midfielder",
@@ -63,7 +63,7 @@
 {
   "id": 6,
   "last_name": "Pirlo",
-  "img": "/football/img/players/Pirlo.webp",
+  "img": "/Football/img/players/Pirlo.webp",
   "full_name": "Andrea Pirlo",
   "birth_date": "19-05-1979",
   "position": "Defensive Midfielder",
@@ -75,7 +75,7 @@
 {
   "id": 7,
   "last_name": "Abate",
-  "img": "/football/img/players/Abate.webp",
+  "img": "/Football/img/players/Abate.webp",
   "full_name": "Ignazio Abate",
   "birth_date": "12-11-1986",
   "position": "Right Back",
@@ -87,7 +87,7 @@
 {
   "id": 8,
   "last_name": "T Silva",
-  "img": "/football/img/players/T Silva.webp",
+  "img": "/Football/img/players/T Silva.webp",
   "full_name": "Thiago Silva",
   "birth_date": "22-09-1984",
   "position": "Centre Back",
@@ -99,7 +99,7 @@
 {
   "id": 9,
   "last_name": "Nesta",
-  "img": "/football/img/players/Nesta.webp",
+  "img": "/Football/img/players/Nesta.webp",
   "full_name": "Alessandro Nesta",
   "birth_date": "19-03-1976",
   "position": "Centre Back",
@@ -111,7 +111,7 @@
 {
   "id": 10,
   "last_name": "Antonini",
-  "img": "/football/img/players/Antonini.webp",
+  "img": "/Football/img/players/Antonini.webp",
   "full_name": "Luca Antonini",
   "birth_date": "11-02-1982",
   "position": "Left Back",
@@ -123,7 +123,7 @@
 {
   "id": 11,
   "last_name": "Abbiati",
-  "img": "/football/img/players/Abbiati.webp",
+  "img": "/Football/img/players/Abbiati.webp",
   "full_name": "Christian Abbiati",
   "birth_date": "08-07-1977",
   "position": "Goalkeeper",

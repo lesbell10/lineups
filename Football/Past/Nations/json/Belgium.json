@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Lukaku",
-        "img": "/football/img/players/Lukaku.webp",
+        "img": "/Football/img/players/Lukaku.webp",
         "full_name": "Romelu Lukaku",
         "birth_date": "13-05-1993",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Mertens",
-        "img": "/football/img/players/Mertens.webp",
+        "img": "/Football/img/players/Mertens.webp",
         "full_name": "Dries Mertens",
         "birth_date": "06-05-1987",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "De Bruyne",
-        "img": "/football/img/players/De Bruyne.webp",
+        "img": "/Football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "E Hazard",
-        "img": "/football/img/players/E Hazard.webp",
+        "img": "/Football/img/players/E Hazard.webp",
         "full_name": "Eden Hazard",
         "birth_date": "07-01-1991",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Tielemans",
-        "img": "/football/img/players/Tielemans.webp",
+        "img": "/Football/img/players/Tielemans.webp",
         "full_name": "Youri Tielemans",
         "birth_date": "07-05-1997",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Witsel",
-        "img": "/football/img/players/Witsel.webp",
+        "img": "/Football/img/players/Witsel.webp",
         "full_name": "Axel Witsel",
         "birth_date": "12-01-1989",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Meunier",
-        "img": "/football/img/players/Meunier.webp",
+        "img": "/Football/img/players/Meunier.webp",
         "full_name": "Thomas Meunier",
         "birth_date": "12-09-1991",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Kompany",
-        "img": "/football/img/players/Kompany.webp",
+        "img": "/Football/img/players/Kompany.webp",
         "full_name": "Vincent Kompany",
         "birth_date": "10-04-1986",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Alderweireld",
-        "img": "/football/img/players/Alderweireld.webp",
+        "img": "/Football/img/players/Alderweireld.webp",
         "full_name": "Toby Alderweireld",
         "birth_date": "02-03-1989",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Vertonghen",
-        "img": "/football/img/players/Vertonghen.webp",
+        "img": "/Football/img/players/Vertonghen.webp",
         "full_name": "Jan Vertonghen",
         "birth_date": "24-04-1987",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Courtois",
-        "img": "/football/img/players/Courtois.webp",
+        "img": "/Football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
 

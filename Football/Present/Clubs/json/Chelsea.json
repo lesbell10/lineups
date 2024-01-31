@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "N Jackson",
-    "img": "/football/img/players/N Jackson.webp",
+    "img": "/Football/img/players/N Jackson.webp",
     "full_name": "Nicolas Jackson",
     "birth_date": "20-11-2000",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Sterling",
-    "img": "/football/img/players/Sterling.webp",
+    "img": "/Football/img/players/Sterling.webp",
     "full_name": "Raheem Sterling",
     "birth_date": "08-12-1994",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Nkunku",
-    "img": "/football/img/players/Nkunku.webp",
+    "img": "/Football/img/players/Nkunku.webp",
     "full_name": "Christopher Nkunku",
     "birth_date": "14-11-1997",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Mudryk",
-    "img": "/football/img/players/Mudryk.webp",
+    "img": "/Football/img/players/Mudryk.webp",
     "full_name": "Mykola Mudryk",
     "birth_date": "20-04-1999",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "E Fernandez",
-    "img": "/football/img/players/E Fernandez.webp",
+    "img": "/Football/img/players/E Fernandez.webp",
     "full_name": "Enzo Fernandez",
     "birth_date": "17-01-2001",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Caicedo",
-    "img": "/football/img/players/Caicedo.webp",
+    "img": "/Football/img/players/Caicedo.webp",
     "full_name": "Moises Caicedo",
     "birth_date": "23-04-1993",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "R James",
-    "img": "/football/img/players/R James.webp",
+    "img": "/Football/img/players/R James.webp",
     "full_name": "Reece James",
     "birth_date": "08-12-1999",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "T Silva",
-    "img": "/football/img/players/T Silva.webp",
+    "img": "/Football/img/players/T Silva.webp",
     "full_name": "Thiago Silva",
     "birth_date": "22-09-1984",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Disasi",
-    "img": "/football/img/players/Disasi.webp",
+    "img": "/Football/img/players/Disasi.webp",
     "full_name": "Axel Disasi",
     "birth_date": "11-03-1998",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Chilwell",
-    "img": "/football/img/players/Chilwell.webp",
+    "img": "/Football/img/players/Chilwell.webp",
     "full_name": "Ben Chilwell",
     "birth_date": "21-12-1996",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "R Sanchez",
-    "img": "/football/img/players/R Sanchez.webp",
+    "img": "/Football/img/players/R Sanchez.webp",
     "full_name": "Robert Sanchez",
     "birth_date": "23-06-1994",
 

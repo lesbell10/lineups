@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "T Muller",
-        "img": "/football/img/players/T Muller.webp",
+        "img": "/Football/img/players/T Muller.webp",
         "full_name": "Thomas Muller",
         "birth_date": "13-09-1989",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Sane",
-        "img": "/football/img/players/Sane.webp",
+        "img": "/Football/img/players/Sane.webp",
         "full_name": "Leroy Sane",
         "birth_date": "11-01-1996",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Wirtz",
-        "img": "/football/img/players/Wirtz.webp",
+        "img": "/Football/img/players/Wirtz.webp",
         "full_name": "Florian Wirtz",
         "birth_date": "03-05-2003",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Musiala",
-        "img": "/football/img/players/Musiala.webp",
+        "img": "/Football/img/players/Musiala.webp",
         "full_name": "Jamal Musiala",
         "birth_date": "26-02-2003",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Gundogan",
-        "img": "/football/img/players/Gundogan.webp",
+        "img": "/Football/img/players/Gundogan.webp",
         "full_name": "Ilkay Gundogan",
         "birth_date": "24-10-1990",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Kroos",
-        "img": "/football/img/players/Kroos.webp",
+        "img": "/Football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Kimmich",
-        "img": "/football/img/players/Kimmich.webp",
+        "img": "/Football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Rudiger",
-        "img": "/football/img/players/Rudiger.webp",
+        "img": "/Football/img/players/Rudiger.webp",
         "full_name": "Antonio Rudiger",
         "birth_date": "03-03-1993",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Sule",
-        "img": "/football/img/players/Sule.webp",
+        "img": "/Football/img/players/Sule.webp",
         "full_name": "Niklas Sule",
         "birth_date": "03-09-1995",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Gosens",
-        "img": "/football/img/players/Gosens.webp",
+        "img": "/Football/img/players/Gosens.webp",
         "full_name": "Robin Gosens",
         "birth_date": "05-07-1994",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "ter Stegen",
-        "img": "/football/img/players/ter Stegen.webp",
+        "img": "/Football/img/players/ter Stegen.webp",
         "full_name": "M-Andre  ter Stegen",
         "birth_date": "30-04-1992",
 

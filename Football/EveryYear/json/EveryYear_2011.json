@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Rooney",
-        "img": "/football/img/players/Rooney.webp",
+        "img": "/Football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
         "position": "Forward",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "position": "Forward",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Iniesta",
-        "img": "/football/img/players/Iniesta.webp",
+        "img": "/Football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
         "position": "Attacking Midfielder",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "position": "Forward",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Xavi",
-        "img": "/football/img/players/Xavi.webp",
+        "img": "/Football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
         "position": "Central Midfielder",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Schweinsteiger",
-        "img": "/football/img/players/Schweinsteiger.webp",
+        "img": "/Football/img/players/Schweinsteiger.webp",
         "full_name": "B Schweinsteiger",
         "birth_date": "01-08-1984",
         "position": "Central Midfielder",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "Maicon",
-        "img": "/football/img/players/Maicon.webp",
+        "img": "/Football/img/players/Maicon.webp",
         "full_name": "Maicon Douglas",
         "birth_date": "26-07-1981",
         "position": "Right Back",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "Vidic",
-        "img": "/football/img/players/Vidic.webp",
+        "img": "/Football/img/players/Vidic.webp",
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
         "position": "Centre Back",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "Terry",
-        "img": "/football/img/players/Terry.webp",
+        "img": "/Football/img/players/Terry.webp",
         "full_name": "John Terry",
         "birth_date": "07-12-1980",
         "position": "Centre Back",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "Evra",
-        "img": "/football/img/players/Evra.webp",
+        "img": "/Football/img/players/Evra.webp",
         "full_name": "Patrice Evra",
         "birth_date": "15-05-1981",
         "position": "Left Back",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Casillas",
-        "img": "/football/img/players/Casillas.webp",
+        "img": "/Football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
         "position": "Goalkeeper",

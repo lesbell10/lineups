@@ -2,7 +2,7 @@
     {
   "id": 1,
   "last_name": "Falcao",
-  "img": "/football/img/players/Falcao.webp",
+  "img": "/Football/img/players/Falcao.webp",
   "full_name": "Radamel Falcao",
   "birth_date": "10-02-1986",
 
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "Carrasco",
-  "img": "/football/img/players/Carrasco.webp",
+  "img": "/Football/img/players/Carrasco.webp",
   "full_name": "Yannick Carrasco",
   "birth_date": "04-09-1993",
 
@@ -28,7 +28,7 @@
 {
   "id": 3,
   "last_name": "Griezmann",
-  "img": "/football/img/players/Griezmann.webp",
+  "img": "/Football/img/players/Griezmann.webp",
   "full_name": "Antoine Griezmann",
   "birth_date": "21-03-1991",
 
@@ -41,7 +41,7 @@
 {
   "id": 4,
   "last_name": "Turan",
-  "img": "/football/img/players/Turan.webp",
+  "img": "/Football/img/players/Turan.webp",
   "full_name": "Arda Turan",
   "birth_date": "30-01-1987",
 
@@ -54,7 +54,7 @@
 {
   "id": 5,
   "last_name": "Koke",
-  "img": "/football/img/players/Koke.webp",
+  "img": "/Football/img/players/Koke.webp",
   "full_name": "Jorge Koke",
   "birth_date": "08-01-1992",
 
@@ -67,7 +67,7 @@
 {
   "id": 6,
   "last_name": "Saul",
-  "img": "/football/img/players/Saul.webp",
+  "img": "/Football/img/players/Saul.webp",
   "full_name": "Saul Niguez",
   "birth_date": "21-11-1994",
 
@@ -80,7 +80,7 @@
 {
   "id": 7,
   "last_name": "Juanfran",
-  "img": "/football/img/players/Juanfran.webp",
+  "img": "/Football/img/players/Juanfran.webp",
   "full_name": "Juan Francisco Torres",
   "birth_date": "09-01-1985",
 
@@ -93,7 +93,7 @@
 {
   "id": 8,
   "last_name": "Godin",
-  "img": "/football/img/players/Godin.webp",
+  "img": "/Football/img/players/Godin.webp",
   "full_name": "Diego Godin",
   "birth_date": "16-02-1986",
 
@@ -106,7 +106,7 @@
 {
   "id": 9,
   "last_name": "Miranda",
-  "img": "/football/img/players/Miranda.webp",
+  "img": "/Football/img/players/Miranda.webp",
   "full_name": "Joao Miranda",
   "birth_date": "07-09-1984",
 
@@ -119,7 +119,7 @@
 {
   "id": 10,
   "last_name": "F Luis",
-  "img": "/football/img/players/F Luis.webp",
+  "img": "/Football/img/players/F Luis.webp",
   "full_name": "Filipe Luis",
   "birth_date": "09-08-1985",
 
@@ -132,7 +132,7 @@
 {
   "id": 11,
   "last_name": "Oblak",
-  "img": "/football/img/players/Oblak.webp",
+  "img": "/Football/img/players/Oblak.webp",
   "full_name": "Jan Oblak",
   "birth_date": "07-01-1993",
 

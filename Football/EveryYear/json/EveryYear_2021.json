@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Lewandowski",
-        "img": "/football/img/players/Lewandowski.webp",
+        "img": "/Football/img/players/Lewandowski.webp",
         "full_name": "Robert Lewandowski",
         "birth_date": "21-08-1988",
         "position": "Striker",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "position": "Forward",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "position": "Forward",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "Neymar",
-        "img": "/football/img/players/Neymar.webp",
+        "img": "/Football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
         "position": "Forward",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "De Bruyne",
-        "img": "/football/img/players/De Bruyne.webp",
+        "img": "/Football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
         "position": "Central Midfielder",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Kante",
-        "img": "/football/img/players/Kante.webp",
+        "img": "/Football/img/players/Kante.webp",
         "full_name": "N'Golo Kante",
         "birth_date": "29-03-1991",
         "position": "Defensive Midfielder",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "Kimmich",
-        "img": "/football/img/players/Kimmich.webp",
+        "img": "/Football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
         "position": "Central Midfielder, Right Back",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "van Dijk",
-        "img": "/football/img/players/Van Dijk.webp",
+        "img": "/Football/img/players/Van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
         "position": "Centre Back",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "S Ramos",
-        "img": "/football/img/players/S Ramos.webp",
+        "img": "/Football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
         "position": "Centre Back",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "Robertson",
-        "img": "/football/img/players/Robertson.webp",
+        "img": "/Football/img/players/Robertson.webp",
         "full_name": "Andy Robertson",
         "birth_date": "11-03-1994",
         "position": "Left Back",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Oblak",
-        "img": "/football/img/players/Oblak.webp",
+        "img": "/Football/img/players/Oblak.webp",
         "full_name": "Jan Oblak",
         "birth_date": "07-01-1993",
         "position": "Goalkeeper",

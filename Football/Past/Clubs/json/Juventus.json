@@ -2,7 +2,7 @@
  {
   "id": 1,
   "last_name": "Higuain",
-  "img": "/football/img/players/Higuain.webp",
+  "img": "/Football/img/players/Higuain.webp",
   "full_name": "Gonzalo Higuain",
   "birth_date": "10-12-1987",
 
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "Do Costa",
-  "img": "/football/img/players/Do Costa.webp",
+  "img": "/Football/img/players/Do Costa.webp",
   "full_name": "Douglas Costa",
   "birth_date": "14-09-1990",
 
@@ -28,7 +28,7 @@
 {
   "id": 3,
   "last_name": "Dybala",
-  "img": "/football/img/players/Dybala.webp",
+  "img": "/Football/img/players/Dybala.webp",
   "full_name": "Paulo Dybala",
   "birth_date": "15-11-1993",
 
@@ -41,7 +41,7 @@
 {
   "id": 4,
   "last_name": "C Ronaldo",
-  "img": "/football/img/players/C Ronaldo.webp",
+  "img": "/Football/img/players/C Ronaldo.webp",
   "full_name": "Cristiano Ronaldo",
   "birth_date": "05-02-1985",
 
@@ -54,7 +54,7 @@
 {
   "id": 5,
   "last_name": "Pjanic",
-  "img": "/football/img/players/Pjanic.webp",
+  "img": "/Football/img/players/Pjanic.webp",
   "full_name": "Miralem Pjanic",
   "birth_date": "02-04-1990",
 
@@ -67,7 +67,7 @@
 {
   "id": 6,
   "last_name": "Pirlo",
-  "img": "/football/img/players/Pirlo.webp",
+  "img": "/Football/img/players/Pirlo.webp",
   "full_name": "Andrea Pirlo",
   "birth_date": "19-05-1979",
 
@@ -80,7 +80,7 @@
 {
   "id": 7,
   "last_name": "Cuadrado",
-  "img": "/football/img/players/Cuadrado.webp",
+  "img": "/Football/img/players/Cuadrado.webp",
   "full_name": "Juan Cuadrado",
   "birth_date": "26-05-1988",
 
@@ -93,7 +93,7 @@
 {
   "id": 8,
   "last_name": "Bonucci",
-  "img": "/football/img/players/Bonucci.webp",
+  "img": "/Football/img/players/Bonucci.webp",
   "full_name": "Leonardo Bonucci",
   "birth_date": "01-05-1987",
 
@@ -106,7 +106,7 @@
 {
   "id": 9,
   "last_name": "Chiellini",
-  "img": "/football/img/players/Chiellini.webp",
+  "img": "/Football/img/players/Chiellini.webp",
   "full_name": "Giorgio Chiellini",
   "birth_date": "14-08-1984",
 
@@ -119,7 +119,7 @@
 {
   "id": 10,
   "last_name": "A Sandro",
-  "img": "/football/img/players/A Sandro.webp",
+  "img": "/Football/img/players/A Sandro.webp",
   "full_name": "Alex Sandro",
   "birth_date": "26-01-1991",
 
@@ -132,7 +132,7 @@
 {
   "id": 11,
   "last_name": "Buffon",
-  "img": "/football/img/players/Buffon.webp",
+  "img": "/Football/img/players/Buffon.webp",
   "full_name": "Gianluigi Buffon",
   "birth_date": "28-01-1978",
 

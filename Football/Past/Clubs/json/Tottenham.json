@@ -2,7 +2,7 @@
     {
   "id": 1,
   "last_name": "Kane",
-  "img": "/football/img/players/Kane.webp",
+  "img": "/Football/img/players/Kane.webp",
   "full_name": "Harry Kane",
   "birth_date": "28-07-1993",
 
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "van der Vaart",
-  "img": "/football/img/players/van der Vaart.webp",
+  "img": "/Football/img/players/van der Vaart.webp",
   "full_name": "Rafael van der Vaart",
   "birth_date": "11-02-1983",
 
@@ -28,7 +28,7 @@
 {
   "id": 3,
   "last_name": "Eriksen",
-  "img": "/football/img/players/Eriksen.webp",
+  "img": "/Football/img/players/Eriksen.webp",
   "full_name": "Christian Eriksen",
   "birth_date": "14-02-1992",
 
@@ -41,7 +41,7 @@
 {
   "id": 4,
   "last_name": "H-M Son",
-  "img": "/football/img/players/H-M Son.webp",
+  "img": "/Football/img/players/H-M Son.webp",
   "full_name": "Heung-Min Son",
   "birth_date": "08-07-1992",
 
@@ -54,7 +54,7 @@
 {
   "id": 5,
   "last_name": "Modric",
-  "img": "/football/img/players/Modric.webp",
+  "img": "/Football/img/players/Modric.webp",
   "full_name": "Luka Modric",
   "birth_date": "09-09-1985",
 
@@ -67,7 +67,7 @@
 {
   "id": 6,
   "last_name": "M Dembele",
-  "img": "/football/img/players/M Dembele.webp",
+  "img": "/Football/img/players/M Dembele.webp",
   "full_name": "Mousa Dembele",
   "birth_date": "16-07-1987",
 
@@ -80,7 +80,7 @@
 {
   "id": 7,
   "last_name": "Walker",
-  "img": "/football/img/players/Walker.webp",
+  "img": "/Football/img/players/Walker.webp",
   "full_name": "Kyle Walker",
   "birth_date": "28-05-1990",
 
@@ -93,7 +93,7 @@
 {
   "id": 8,
   "last_name": "Alderweireld",
-  "img": "/football/img/players/Alderweireld.webp",
+  "img": "/Football/img/players/Alderweireld.webp",
   "full_name": "Toby Alderweireld",
   "birth_date": "02-03-1989",
 
@@ -106,7 +106,7 @@
 {
   "id": 9,
   "last_name": "Vertonghen",
-  "img": "/football/img/players/Vertonghen.webp",
+  "img": "/Football/img/players/Vertonghen.webp",
   "full_name": "Jan Vertonghen",
   "birth_date": "24-04-1987",
 
@@ -119,7 +119,7 @@
 {
   "id": 10,
   "last_name": "D Rose",
-  "img": "/football/img/players/D Rose.webp",
+  "img": "/Football/img/players/D Rose.webp",
   "full_name": "Danny Rose",
   "birth_date": "02-07-1990",
 
@@ -132,7 +132,7 @@
 {
   "id": 11,
   "last_name": "Lloris",
-  "img": "/football/img/players/Lloris.webp",
+  "img": "/Football/img/players/Lloris.webp",
   "full_name": "Hugo Lloris",
   "birth_date": "26-12-1986",
 

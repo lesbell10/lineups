@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Benzema",
-        "img": "/football/img/players/Benzema.webp",
+        "img": "/Football/img/players/Benzema.webp",
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
         "position": "Forward",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Salah",
-        "img": "/football/img/players/Salah.webp",
+        "img": "/Football/img/players/Salah.webp",
         "full_name": "Mohamed Salah",
         "birth_date": "15-06-1992",
         "position": "Right Winger",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "position": "Forward",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "Mbappe",
-        "img": "/football/img/players/Mbappe.webp",
+        "img": "/Football/img/players/Mbappe.webp",
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
         "position": "Forward",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "De Bruyne",
-        "img": "/football/img/players/De Bruyne.webp",
+        "img": "/Football/img/players/De Bruyne.webp",
         "full_name": "Kevin De Bruyne",
         "birth_date": "28-06-1991",
         "position": "Central Midfielder",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Casemiro",
-        "img": "/football/img/players/Casemiro.webp",
+        "img": "/Football/img/players/Casemiro.webp",
         "full_name": "Carlos Casemiro",
         "birth_date": "23-02-1992",
         "position": "Defensive Midfielder",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "Kimmich",
-        "img": "/football/img/players/Kimmich.webp",
+        "img": "/Football/img/players/Kimmich.webp",
         "full_name": "Joshua Kimmich",
         "birth_date": "08-02-1995",
         "position": "Central Midfielde, Right Back",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "R Dias",
-        "img": "/football/img/players/R Dias.webp",
+        "img": "/Football/img/players/R Dias.webp",
         "full_name": "Ruben Dias",
         "birth_date": "14-05-1997",
         "position": "Centre Back",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "Marquinhos",
-        "img": "/football/img/players/Marquinhos.webp",
+        "img": "/Football/img/players/Marquinhos.webp",
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
         "position": "Centre Back",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "J Cancelo",
-        "img": "/football/img/players/J Cancelo.webp",
+        "img": "/Football/img/players/J Cancelo.webp",
         "full_name": "Joao Cancelo",
         "birth_date": "27-05-1994",
         "position": "Full Back",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Courtois",
-        "img": "/football/img/players/Courtois.webp",
+        "img": "/Football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
         "position": "Goalkeeper",

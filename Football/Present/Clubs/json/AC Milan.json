@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Giroud",
-    "img": "/football/img/players/Giroud.webp",
+    "img": "/Football/img/players/Giroud.webp",
     "full_name": "Olivier Giroud",
     "birth_date": "30-09-1986",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Pulisic",
-    "img": "/football/img/players/Pulisic.webp",
+    "img": "/Football/img/players/Pulisic.webp",
     "full_name": "Christian Pulisic",
     "birth_date": "18-09-1998",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Loftus-C",
-    "img": "/football/img/players/Loftus-C.webp",
+    "img": "/Football/img/players/Loftus-C.webp",
     "full_name": "Ruben Loftus-Cheek",
     "birth_date": "23-01-1996",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "R Leao",
-    "img": "/football/img/players/R Leao.webp",
+    "img": "/Football/img/players/R Leao.webp",
     "full_name": "Rafael Leao",
     "birth_date": "10-06-1999",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Bennacer",
-    "img": "/football/img/players/Bennacer.webp",
+    "img": "/Football/img/players/Bennacer.webp",
     "full_name": "Ismael Bennacer",
     "birth_date": "01-12-1997",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Krunic",
-    "img": "/football/img/players/Krunic.webp",
+    "img": "/Football/img/players/Krunic.webp",
     "full_name": "Rade Krunic",
     "birth_date": "07-10-1993",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Calabria",
-    "img": "/football/img/players/Calabria.webp",
+    "img": "/Football/img/players/Calabria.webp",
     "full_name": "Davide Calabria",
     "birth_date": "06-12-1996",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Tomori",
-    "img": "/football/img/players/Tomori.webp",
+    "img": "/Football/img/players/Tomori.webp",
     "full_name": "Fikayo Tomori",
     "birth_date": "19-12-1997",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Kjaer",
-    "img": "/football/img/players/Kjaer.webp",
+    "img": "/Football/img/players/Kjaer.webp",
     "full_name": "Simon Kjær",
     "birth_date": "26-03-1989",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "T Hernandez",
-    "img": "/football/img/players/T Hernandez.webp",
+    "img": "/Football/img/players/T Hernandez.webp",
     "full_name": "Theo Hernandez",
     "birth_date": "06-10-1997",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Maignan",
-    "img": "/football/img/players/Maignan.webp",
+    "img": "/Football/img/players/Maignan.webp",
     "full_name": "Mike Maignan",
     "birth_date": "03-07-1995",
 

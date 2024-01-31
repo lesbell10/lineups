@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Henry",
-    "img": "/football/img/players/Henry.webp",
+    "img": "/Football/img/players/Henry.webp",
     "full_name": "Thierry Henry",
     "birth_date": "17-08-1977",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "Totti",
-    "img": "/football/img/players/Totti.webp",
+    "img": "/Football/img/players/Totti.webp",
     "full_name": "Francesco Totti",
     "birth_date": "27-09-1976",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Zidane",
-    "img": "/football/img/players/Zidane.webp",
+    "img": "/Football/img/players/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "birth_date": "23-06-1972",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Ronaldinho",
-    "img": "/football/img/players/Ronaldinho.webp",
+    "img": "/Football/img/players/Ronaldinho.webp",
     "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Gerrard",
-    "img": "/football/img/players/Gerrard.webp",
+    "img": "/Football/img/players/Gerrard.webp",
     "full_name": "Steven Gerrard",
     "birth_date": "30-05-1980",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "Vieira",
-    "img": "/football/img/players/Vieira.webp",
+    "img": "/Football/img/players/Vieira.webp",
     "full_name": "Patrick Vieira",
     "birth_date": "23-06-1976",
 
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "last_name": "Thuram",
-    "img": "/football/img/players/Thuram.webp",
+    "img": "/Football/img/players/Thuram.webp",
     "full_name": "Lilian Thuram",
     "birth_date": "01-01-1972",
 
@@ -100,7 +100,7 @@
   {
     "id": 8,
     "last_name": "Nesta",
-    "img": "/football/img/players/Nesta.webp",
+    "img": "/Football/img/players/Nesta.webp",
     "full_name": "Alessandro Nesta",
     "birth_date": "19-03-1976",
 
@@ -114,7 +114,7 @@
   {
     "id": 9,
     "last_name": "Lucio",
-    "img": "/football/img/players/Lucio.webp",
+    "img": "/Football/img/players/Lucio.webp",
     "full_name": "Lucio Ferreira",
     "birth_date": "08-05-1978",
 
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "last_name": "Maldini",
-    "img": "/football/img/players/Maldini.webp",
+    "img": "/Football/img/players/Maldini.webp",
     "full_name": "Paolo Maldini",
     "birth_date": "26-06-1968",
 
@@ -142,7 +142,7 @@
   {
     "id": 11,
     "last_name": "Buffon",
-    "img": "/football/img/players/Buffon.webp",
+    "img": "/Football/img/players/Buffon.webp",
     "full_name": "Gianluigi Buffon",
     "birth_date": "28-01-1978",
 

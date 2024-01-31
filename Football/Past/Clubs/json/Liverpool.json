@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Suarez",
-    "img": "/football/img/players/Suarez.webp",
+    "img": "/Football/img/players/Suarez.webp",
     "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Salah",
-    "img": "/football/img/players/Salah.webp",
+    "img": "/Football/img/players/Salah.webp",
     "full_name": "Mohamed Salah",
     "birth_date": "15-06-1992",
 
@@ -28,7 +28,7 @@
    {
     "id": 3,
     "last_name": "Coutinho",
-    "img": "/football/img/players/Coutinho.webp",
+    "img": "/Football/img/players/Coutinho.webp",
     "full_name": "Philippe Coutinho",
     "birth_date": "12-06-1992",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Mane",
-    "img": "/football/img/players/Mane.webp",
+    "img": "/Football/img/players/Mane.webp",
     "full_name": "Sadio Mane",
     "birth_date": "10-04-1992",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Gerrard",
-    "img": "/football/img/players/Gerrard.webp",
+    "img": "/Football/img/players/Gerrard.webp",
     "full_name": "Steven Gerrard",
     "birth_date": "30-05-1980",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Fabinho",
-    "img": "/football/img/players/Fabinho.webp",
+    "img": "/Football/img/players/Fabinho.webp",
     "full_name": "Fabinho Henrique",
     "birth_date": "23-10-1993",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Alexander-A",
-    "img": "/football/img/players/Alexander-A.webp",
+    "img": "/Football/img/players/Alexander-A.webp",
     "full_name": "Trent Alexander-A",
     "birth_date": "07-10-1998",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "van Dijk",
-    "img": "/football/img/players/van Dijk.webp",
+    "img": "/Football/img/players/van Dijk.webp",
     "full_name": "Virgil van Dijk",
     "birth_date": "08-07-1991",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Matip",
-    "img": "/football/img/players/Matip.webp",
+    "img": "/Football/img/players/Matip.webp",
     "full_name": "Joel Matip",
     "birth_date": "08-08-1991",
     "position": "Centre Back",
@@ -118,7 +118,7 @@
   {
     "id": 10,
     "last_name": "Robertson",
-    "img": "/football/img/players/Robertson.webp",
+    "img": "/Football/img/players/Robertson.webp",
     "full_name": "Andy Robertson",
     "birth_date": "11-03-1994",
 
@@ -131,7 +131,7 @@
   {
     "id": 11,
     "last_name": "Alisson",
-    "img": "/football/img/players/Alisson.webp",
+    "img": "/Football/img/players/Alisson.webp",
     "full_name": "Alisson Becker",
     "birth_date": "02-10-1992",
 

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ibrahimovic",
-        "img": "/football/img/players/Ibrahimovic.webp",
+        "img": "/Football/img/players/Ibrahimovic.webp",
         "full_name": "Zlatan Ibrahimovic",
         "birth_date": "03-10-1981",
         "position": "Striker",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Robben",
-        "img": "/football/img/players/Robben.webp",
+        "img": "/Football/img/players/Robben.webp",
         "full_name": "Arjen Robben",
         "birth_date": "23-01-1984",
         "position": "Winger",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "position": "Forward",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "position": "Forward",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Iniesta",
-        "img": "/football/img/players/Iniesta.webp",
+        "img": "/Football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
         "position": "Attacking Midfielder",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Kroos",
-        "img": "/football/img/players/Kroos.webp",
+        "img": "/Football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
         "position": "Central Midfielder",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "D Alves",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "full_name": "Dani Alves",
         "birth_date": "06-05-1983",
         "position": "Right Back",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "T Silva",
-        "img": "/football/img/players/T Silva.webp",
+        "img": "/Football/img/players/T Silva.webp",
         "full_name": "Thiago Silva",
         "birth_date": "22-09-1984",
         "position": "Centre Back",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "S Ramos",
-        "img": "/football/img/players/S Ramos.webp",
+        "img": "/Football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
         "position": "Centre Back",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "Lahm",
-        "img": "/football/img/players/Lahm.webp",
+        "img": "/Football/img/players/Lahm.webp",
         "full_name": "Philipp Lahm",
         "birth_date": "11-11-1983",
         "position": "Full Back",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Neuer",
-        "img": "/football/img/players/Neuer.webp",
+        "img": "/Football/img/players/Neuer.webp",
         "full_name": "Manuel Neuer",
         "birth_date": "27-03-1986",
         "position": "Goalkeeper",

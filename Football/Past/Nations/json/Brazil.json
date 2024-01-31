@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Neymar",
-    "img": "/football/img/players/Neymar.webp",
+    "img": "/Football/img/players/Neymar.webp",
     "full_name": "Neymar da Silva Jr",
     "birth_date": "05-02-1992",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Hulk",
-    "img": "/football/img/players/Hulk.webp",
+    "img": "/Football/img/players/Hulk.webp",
     "full_name": "Hulk de Sousa",
     "birth_date": "25-07-1986",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Kaka",
-    "img": "/football/img/players/Kaka.webp",
+    "img": "/Football/img/players/Kaka.webp",
     "full_name": "Ricardo Kaka",
     "birth_date": "22-04-1982",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Ronaldinho",
-    "img": "/football/img/players/Ronaldinho.webp",
+    "img": "/Football/img/players/Ronaldinho.webp",
     "full_name": "Ronaldinho de Assis",
     "birth_date": "21-03-1980",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Casemiro",
-    "img": "/football/img/players/Casemiro.webp",
+    "img": "/Football/img/players/Casemiro.webp",
     "full_name": "Carlos Casimero",
     "birth_date": "23-02-1992",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Fernandinho",
-    "img": "/football/img/players/Fernandinho.webp",
+    "img": "/Football/img/players/Fernandinho.webp",
     "full_name": "Fernandinho Luiz",
     "birth_date": "04-05-1985",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "D Alves",
-    "img": "/football/img/players/D Alves.webp",
+    "img": "/Football/img/players/D Alves.webp",
     "full_name": "Dani Alves",
     "birth_date": "06-05-1983",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "T Silva",
-    "img": "/football/img/players/T Silva.webp",
+    "img": "/Football/img/players/T Silva.webp",
     "full_name": "Thiago Silva",
     "birth_date": "22-09-1984",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Marquinhos",
-    "img": "/football/img/players/Marquinhos.webp",
+    "img": "/Football/img/players/Marquinhos.webp",
     "full_name": "Marquinhos Correa",
     "birth_date": "14-05-1994",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Marcelo",
-    "img": "/football/img/players/Marcelo.webp",
+    "img": "/Football/img/players/Marcelo.webp",
     "full_name": "Marcelo Vieira",
     "birth_date": "12-05-1988",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Alisson",
-    "img": "/football/img/players/Alisson.webp",
+    "img": "/Football/img/players/Alisson.webp",
     "full_name": "Alisson Becker",
     "birth_date": "02-10-1992",
 

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Benzema",
-        "img": "/football/img/players/Benzema.webp",
+        "img": "/Football/img/players/Benzema.webp",
         "full_name": "Karim Benzema",
         "birth_date": "19-12-1987",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Bale",
-        "img": "/football/img/players/Bale.webp",
+        "img": "/Football/img/players/Bale.webp",
         "full_name": "Gareth Bale",
         "birth_date": "16-07-1989",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Ozil",
-        "img": "/football/img/players/Ozil.webp",
+        "img": "/Football/img/players/Ozil.webp",
         "full_name": "Mesut Ozil",
         "birth_date": "15-10-1988",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Modric",
-        "img": "/football/img/players/Modric.webp",
+        "img": "/Football/img/players/Modric.webp",
         "full_name": "Luka Modric",
         "birth_date": "09-09-1985",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Kroos",
-        "img": "/football/img/players/Kroos.webp",
+        "img": "/Football/img/players/Kroos.webp",
         "full_name": "Toni Kroos",
         "birth_date": "04-01-1990",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Carvajal",
-        "img": "/football/img/players/Carvajal.webp",
+        "img": "/Football/img/players/Carvajal.webp",
         "full_name": "Dani Carvajal",
         "birth_date": "11-01-1992",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "S Ramos",
-        "img": "/football/img/players/S Ramos.webp",
+        "img": "/Football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Varane",
-        "img": "/football/img/players/Varane.webp",
+        "img": "/Football/img/players/Varane.webp",
         "full_name": "Raphael Varane",
         "birth_date": "25-04-1993",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Marcelo",
-        "img": "/football/img/players/Marcelo.webp",
+        "img": "/Football/img/players/Marcelo.webp",
         "full_name": "Marcelo Vieira",
         "birth_date": "12-05-1988",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Courtois",
-        "img": "/football/img/players/Courtois.webp",
+        "img": "/Football/img/players/Courtois.webp",
         "full_name": "Thibaut Courtois",
         "birth_date": "11-05-1992",
 

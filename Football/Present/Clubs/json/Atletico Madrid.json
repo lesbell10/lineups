@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Morata",
-    "img": "/football/img/players/Morata.webp",
+    "img": "/Football/img/players/Morata.webp",
     "full_name": "Alvaro Morata",
     "birth_date": "23-10-1992",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "De Paul",
-    "img": "/football/img/players/De Paul.webp",
+    "img": "/Football/img/players/De Paul.webp",
     "full_name": "Rodrigo De Paul",
     "birth_date": "24-05-1994",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Griezmann",
-    "img": "/football/img/players/Griezmann.webp",
+    "img": "/Football/img/players/Griezmann.webp",
     "full_name": "Antoine Griezmann",
     "birth_date": "21-03-1991",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "M Depay",
-    "img": "/football/img/players/M Depay.webp",
+    "img": "/Football/img/players/M Depay.webp",
     "full_name": "Memphis Depay",
     "birth_date": "13-02-1994",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "M Llorente",
-    "img": "/football/img/players/M Llorente.webp",
+    "img": "/Football/img/players/M Llorente.webp",
     "full_name": "Marcos Llorente",
     "birth_date": "30-01-1995",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Koke",
-    "img": "/football/img/players/Koke.webp",
+    "img": "/Football/img/players/Koke.webp",
     "full_name": "Jorge Koke",
     "birth_date": "08-01-1992",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Molina",
-    "img": "/football/img/players/Molina.webp",
+    "img": "/Football/img/players/Molina.webp",
     "full_name": "Nahuel Molina",
     "birth_date": "27-01-1998",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Gimenez",
-    "img": "/football/img/players/Gimenez.webp",
+    "img": "/Football/img/players/Gimenez.webp",
     "full_name": "Jose Maria Gimenez",
     "birth_date": "20-01-1995",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Savic",
-    "img": "/football/img/players/Savic.webp",
+    "img": "/Football/img/players/Savic.webp",
     "full_name": "Stefan Savic",
     "birth_date": "08-01-1991",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Hermoso",
-    "img": "/football/img/players/Hermoso.webp",
+    "img": "/Football/img/players/Hermoso.webp",
     "full_name": "Mario Hermoso",
     "birth_date": "18-04-1995",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Oblak",
-    "img": "/football/img/players/Oblak.webp",
+    "img": "/Football/img/players/Oblak.webp",
     "full_name": "Jan Oblak",
     "birth_date": "07-01-1993",
 

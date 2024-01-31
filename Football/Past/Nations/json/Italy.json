@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Immobile",
-        "img": "/football/img/players/Immobile.webp",
+        "img": "/Football/img/players/Immobile.webp",
         "full_name": "Ciro Immobile",
         "birth_date": "20-02-1990",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Berardi",
-        "img": "/football/img/players/Berardi.webp",
+        "img": "/Football/img/players/Berardi.webp",
         "full_name": "Domenico Berardi",
         "birth_date": "01-08-1994",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Barella",
-        "img": "/football/img/players/Barella.webp",
+        "img": "/Football/img/players/Barella.webp",
         "full_name": "Nicolo Barella",
         "birth_date": "07-02-1997",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Insigne",
-        "img": "/football/img/players/Insigne.webp",
+        "img": "/Football/img/players/Insigne.webp",
         "full_name": "Lorenzo Insigne",
         "birth_date": "04-06-1991",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Verratti",
-        "img": "/football/img/players/Verratti.webp",
+        "img": "/Football/img/players/Verratti.webp",
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Jorginho",
-        "img": "/football/img/players/Jorginho.webp",
+        "img": "/Football/img/players/Jorginho.webp",
         "full_name": "Jorginho Luiz",
         "birth_date": "20-12-1991",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Florenzi",
-        "img": "/football/img/players/Florenzi.webp",
+        "img": "/Football/img/players/Florenzi.webp",
         "full_name": "Alessandro Florenzi",
         "birth_date": "11-03-1991",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Bonucci",
-        "img": "/football/img/players/Bonucci.webp",
+        "img": "/Football/img/players/Bonucci.webp",
         "full_name": "Leonardo Bonucci",
         "birth_date": "01-05-1987",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Chiellini",
-        "img": "/football/img/players/Chiellini.webp",
+        "img": "/Football/img/players/Chiellini.webp",
         "full_name": "Giorgio Chiellini",
         "birth_date": "14-08-1984",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Spinazzola",
-        "img": "/football/img/players/Spinazzola.webp",
+        "img": "/Football/img/players/Spinazzola.webp",
         "full_name": "Leonardo Spinazzola",
         "birth_date": "25-03-1993",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Buffon",
-        "img": "/football/img/players/Buffon.webp",
+        "img": "/Football/img/players/Buffon.webp",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
 

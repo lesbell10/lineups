@@ -2,7 +2,7 @@
 {
   "id": 1,
   "last_name": "Ibrahimovic",
-  "img": "/football/img/players/Ibrahimovic.webp",
+  "img": "/Football/img/players/Ibrahimovic.webp",
   "full_name": "Zlatan Ibrahimovic",
   "birth_date": "03-10-1981",
 
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "van Persie",
-  "img": "/football/img/players/van Persie.webp",
+  "img": "/Football/img/players/van Persie.webp",
   "full_name": "Robin van Persie",
   "birth_date": "06-08-1983",
 
@@ -28,7 +28,7 @@
 {
   "id": 3,
   "last_name": "Rooney",
-  "img": "/football/img/players/Rooney.webp",
+  "img": "/Football/img/players/Rooney.webp",
   "full_name": "Wayne Rooney",
   "birth_date": "24-10-1985",
 
@@ -41,7 +41,7 @@
 {
   "id": 4,
   "last_name": "Di Maria",
-  "img": "/football/img/players/Di Maria.webp",
+  "img": "/Football/img/players/Di Maria.webp",
   "full_name": "Angel Di Maria",
   "birth_date": "14-02-1988",
 
@@ -54,7 +54,7 @@
 {
   "id": 5,
   "last_name": "Pogba",
-  "img": "/football/img/players/Pogba.webp",
+  "img": "/Football/img/players/Pogba.webp",
   "full_name": "Paul Pogba",
   "birth_date": "15-03-1993",
 
@@ -67,7 +67,7 @@
 {
   "id": 6,
   "last_name": "Carrick",
-  "img": "/football/img/players/Carrick.webp",
+  "img": "/Football/img/players/Carrick.webp",
   "full_name": "Michael Carrick",
   "birth_date": "28-07-1981",
 
@@ -80,7 +80,7 @@
 {
   "id": 7,
   "last_name": "Valencia",
-  "img": "/football/img/players/Valencia.webp",
+  "img": "/Football/img/players/Valencia.webp",
   "full_name": "Antonio Valencia",
   "birth_date": "04-08-1985",
 
@@ -93,7 +93,7 @@
 {
   "id": 8,
   "last_name": "Ferdinand",
-  "img": "/football/img/players/Ferdinand.webp",
+  "img": "/Football/img/players/Ferdinand.webp",
   "full_name": "Rio Ferdinand",
   "birth_date": "07-11-1978",
 
@@ -106,7 +106,7 @@
 {
   "id": 9,
   "last_name": "Vidic",
-  "img": "/football/img/players/Vidic.webp",
+  "img": "/Football/img/players/Vidic.webp",
   "full_name": "Nemanja Vidic",
   "birth_date": "21-10-1981",
 
@@ -119,7 +119,7 @@
 {
   "id": 10,
   "last_name": "Evra",
-  "img": "/football/img/players/Evra.webp",
+  "img": "/Football/img/players/Evra.webp",
   "full_name": "Patrice Evra",
   "birth_date": "15-05-1981",
 
@@ -132,7 +132,7 @@
 {
   "id": 11,
   "last_name": "De Gea",
-  "img": "/football/img/players/De Gea.webp",
+  "img": "/Football/img/players/De Gea.webp",
   "full_name": "David de Gea",
   "birth_date": "07-11-1990",
 

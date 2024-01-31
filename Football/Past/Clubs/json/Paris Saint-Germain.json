@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ibrahimovic",
-        "img": "/football/img/players/Ibrahimovic.webp",
+        "img": "/Football/img/players/Ibrahimovic.webp",
         "full_name": "Zlatan Ibrahimović",
         "birth_date": "03-10-1981",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Mbappe",
-        "img": "/football/img/players/Mbappe.webp",
+        "img": "/Football/img/players/Mbappe.webp",
         "full_name": "Kylian Mbappe",
         "birth_date": "20-12-1998",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Neymar",
-        "img": "/football/img/players/Neymar.webp",
+        "img": "/Football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Di Maria",
-        "img": "/football/img/players/Di Maria.webp",
+        "img": "/Football/img/players/Di Maria.webp",
         "full_name": "Angel Di Maria",
         "birth_date": "14-02-1988",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Verratti",
-        "img": "/football/img/players/Verratti.webp",
+        "img": "/Football/img/players/Verratti.webp",
         "full_name": "Marco Verratti",
         "birth_date": "05-11-1992",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "T Motta",
-        "img": "/football/img/players/T Motta.webp",
+        "img": "/Football/img/players/T Motta.webp",
         "full_name": "Thiago Motta",
         "birth_date": "28-08-1982",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "D Alves",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "full_name": "Dani Alves",
         "birth_date": "06-05-1983",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "T Silva",
-        "img": "/football/img/players/T Silva.webp",
+        "img": "/Football/img/players/T Silva.webp",
         "full_name": "Thiago Silva",
         "birth_date": "22-09-1984",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Marquinhos",
-        "img": "/football/img/players/Marquinhos.webp",
+        "img": "/Football/img/players/Marquinhos.webp",
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Bernat",
-        "img": "/football/img/players/Bernat.webp",
+        "img": "/Football/img/players/Bernat.webp",
         "full_name": "Juan Bernat",
         "birth_date": "01-03-1993",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "K Navas",
-        "img": "/football/img/players/K Navas.webp",
+        "img": "/Football/img/players/K Navas.webp",
         "full_name": "Keylor Navas",
         "birth_date": "15-12-1986",
 

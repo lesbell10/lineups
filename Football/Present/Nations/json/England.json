@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Kane",
-        "img": "/football/img/players/Kane.webp",
+        "img": "/Football/img/players/Kane.webp",
         "full_name": "Harry Kane",
         "birth_date": "28-07-1993",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Saka",
-        "img": "/football/img/players/Saka.webp",
+        "img": "/Football/img/players/Saka.webp",
         "full_name": "Bukayo Saka",
         "birth_date": "05-09-2001",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Foden",
-        "img": "/football/img/players/Foden.webp",
+        "img": "/Football/img/players/Foden.webp",
         "full_name": "Phil Foden",
         "birth_date": "28-05-2000",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Rashford",
-        "img": "/football/img/players/Rashford.webp",
+        "img": "/Football/img/players/Rashford.webp",
         "full_name": "Marcus Rashford",
         "birth_date": "31-10-1997",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Bellingham",
-        "img": "/football/img/players/Bellingham.webp",
+        "img": "/Football/img/players/Bellingham.webp",
         "full_name": "Jude Bellingham",
         "birth_date": "29-06-2003",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Rice",
-        "img": "/football/img/players/Rice.webp",
+        "img": "/Football/img/players/Rice.webp",
         "full_name": "Declan Rice",
         "birth_date": "14-01-1999",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Alexander-A",
-        "img": "/football/img/players/Alexander-A.webp",
+        "img": "/Football/img/players/Alexander-A.webp",
         "full_name": "Trent Alexander-A",
         "birth_date": "07-10-1998",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Stones",
-        "img": "/football/img/players/Stones.webp",
+        "img": "/Football/img/players/Stones.webp",
         "full_name": "John Stones",
         "birth_date": "28-05-1994",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Tomori",
-        "img": "/football/img/players/Tomori.webp",
+        "img": "/Football/img/players/Tomori.webp",
         "full_name": "Fikayo Tomori",
         "birth_date": "19-12-1997",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Shaw",
-        "img": "/football/img/players/Shaw.webp",
+        "img": "/Football/img/players/Shaw.webp",
         "full_name": "Luke Shaw",
         "birth_date": "12-07-1995",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Pickford",
-        "img": "/football/img/players/Pickford.webp",
+        "img": "/Football/img/players/Pickford.webp",
         "full_name": "Jordan Pickford",
         "team": "Everton",
         "nationality": "England",

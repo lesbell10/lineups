@@ -7,7 +7,7 @@
         "nationality": "Poland",
         "position": "Striker",
         "height": "6'1\"",
-        "img": "/football/img/players/Lewandowski.webp",
+        "img": "/Football/img/players/Lewandowski.webp",
         "team": "Barcelona",
         "description": "Prolific Polish striker, Barcelona goal machine"
     },
@@ -19,7 +19,7 @@
         "nationality": "Egypt",
         "position": "Right Winger",
         "height": "5'9\"",
-        "img": "/football/img/players/Salah.webp",
+        "img": "/Football/img/players/Salah.webp",
         "team": "Liverpool",
         "description": "Egyptian forward, Liverpool's prolific goalscorer, speedster"
 
@@ -32,7 +32,7 @@
         "nationality": "Argentina",
         "position": "Forward",
         "height": "5'7\"",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "team": "Inter Miami",
         "description": "Argentinian genius, record Ballon d’Or winner, playmaking maestro"
     },
@@ -44,7 +44,7 @@
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2\"",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "team": "Al Nassr",
         "description": "Legendary Portuguese forward, prolific scorer, multiple Ballon d’Ors"
     },
@@ -56,7 +56,7 @@
         "nationality": "Belgium",
         "position": "Central Midfielder",
         "height": "5'11\"",
-        "img": "/football/img/players/De Bruyne.webp",
+        "img": "/Football/img/players/De Bruyne.webp",
         "team": "Manchester City",
         "description": "Belgian playmaker, exceptional passing, Manchester City key midfielder"
     },
@@ -68,7 +68,7 @@
         "nationality": "France",
         "position": "Defensive Midfielder",
         "height": "5'7\"",
-        "img": "/football/img/players/Kante.webp",
+        "img": "/Football/img/players/Kante.webp",
         "team": "Al Ittihad",
         "description": "Tireless French midfielder, former key for Chelsea, World Cup winner"
     },
@@ -80,7 +80,7 @@
         "nationality": "Germany",
         "position": "Central Midfielder, Right Back",
         "height": "5'10\"",
-        "img": "/football/img/players/Kimmich.webp",
+        "img": "/Football/img/players/Kimmich.webp",
         "team": "Bayern Munich",
         "description": "Versatile German midfielder, Bayern Munich's tactical asset"
     },
@@ -92,7 +92,7 @@
         "nationality": "Netherlands",
         "position": "Centre Back",
         "height": "6'4\"",
-        "img": "/football/img/players/Van Dijk.webp",
+        "img": "/Football/img/players/Van Dijk.webp",
         "team": "Liverpool",
         "description": "Dominant Dutch defender, Liverpool's defensive cornerstone"
     },
@@ -104,7 +104,7 @@
         "nationality": "Portugal",
         "position": "Centre Back",
         "height": "6'1\"",
-        "img": "/football/img/players/R Dias.webp",
+        "img": "/Football/img/players/R Dias.webp",
         "team": "Manchester City",
         "description": "Solid Portuguese centre back, Manchester City's defensive rock."
     },
@@ -116,7 +116,7 @@
         "nationality": "Portugal",
         "position": "Full Back",
         "height": "5'11\"",
-        "img": "/football/img/players/J Cancelo.webp",
+        "img": "/Football/img/players/J Cancelo.webp",
         "team": "Barcelona",
         "description": "Portuguese full back, Barcelona's dynamic, versatile defender"
     },
@@ -128,7 +128,7 @@
         "nationality": "Germany",
         "position": "Goalkeeper",
         "height": "6'4\"",
-        "img": "/football/img/players/Neuer.webp",
+        "img": "/Football/img/players/Neuer.webp",
         "team": "Bayern Munich",
         "description": "German goalkeeper, sweeper-keeper, reflexive, innovative, commanding"
     }

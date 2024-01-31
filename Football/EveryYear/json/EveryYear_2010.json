@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "F Torres",
-        "img": "/football/img/players/F Torres.webp",
+        "img": "/Football/img/players/F Torres.webp",
         "full_name": "Fernando Torres",
         "birth_date": "20-03-1984",
         "position": "Striker",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "position": "Forward",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Kaka",
-        "img": "/football/img/players/Kaka.webp",
+        "img": "/Football/img/players/Kaka.webp",
         "full_name": "Ricardo Kaka",
         "birth_date": "22-04-1982",
         "position": "Attacking Midfielder",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "position": "Forward",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Xavi",
-        "img": "/football/img/players/Xavi.webp",
+        "img": "/Football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
         "position": "Central Midfielder",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Essien",
-        "img": "/football/img/players/Essien.webp",
+        "img": "/Football/img/players/Essien.webp",
         "full_name": "Michael Essien",
         "birth_date": "03-12-1982",
         "position": "Defensive Midfielder",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "D Alves",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "full_name": "Dani Alves",
         "birth_date": "06-05-1983",
         "position": "Right Back",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "Puyol",
-        "img": "/football/img/players/Puyol.webp",
+        "img": "/Football/img/players/Puyol.webp",
         "full_name": "Carles Puyol",
         "birth_date": "13-04-1978",
         "position": "Centre Back",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "Ferdinand",
-        "img": "/football/img/players/Ferdinand.webp",
+        "img": "/Football/img/players/Ferdinand.webp",
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
         "position": "Centre Back",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "A Cole",
-        "img": "/football/img/players/A Cole.webp",
+        "img": "/Football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
         "position": "Left Back",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Buffon",
-        "img": "/football/img/players/Buffon.webp",
+        "img": "/Football/img/players/Buffon.webp",
         "full_name": "Gianluigi Buffon",
         "birth_date": "28-01-1978",
         "position": "Goalkeeper",

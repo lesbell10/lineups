@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "L Martinez",
-    "img": "/football/img/players/L Martinez.webp",
+    "img": "/Football/img/players/L Martinez.webp",
     "full_name": "Lautaro Martinez",
     "birth_date": "22-08-1997",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Cuadrado",
-    "img": "/football/img/players/Cuadrado.webp",
+    "img": "/Football/img/players/Cuadrado.webp",
     "full_name": "Juan Cuadrado",
     "birth_date": "26-05-1988",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Mkhitaryan",
-    "img": "/football/img/players/Mkhitaryan.webp",
+    "img": "/Football/img/players/Mkhitaryan.webp",
     "full_name": "Henrikh Mkhitaryan",
     "birth_date": "21-01-1989",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "M Thuram",
-    "img": "/football/img/players/M Thuram.webp",
+    "img": "/Football/img/players/M Thuram.webp",
     "full_name": "Marcus Thuram",
     "birth_date": "06-08-1997",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Barella",
-    "img": "/football/img/players/Barella.webp",
+    "img": "/Football/img/players/Barella.webp",
     "full_name": "Nicolo Barella",
     "birth_date": "07-02-1997",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Calhanoglu",
-    "img": "/football/img/players/Calhanoglu.webp",
+    "img": "/Football/img/players/Calhanoglu.webp",
     "full_name": "Hakan Calhanoglu",
     "birth_date": "08-02-1994",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Pavard",
-    "img": "/football/img/players/Pavard.webp",
+    "img": "/Football/img/players/Pavard.webp",
     "full_name": "Benjamin Pavard",
     "birth_date": "28-03-1996",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "de Vrij",
-    "img": "/football/img/players/de Vrij.webp",
+    "img": "/Football/img/players/de Vrij.webp",
     "full_name": "Stefan de Vrij",
     "birth_date": "05-02-1992",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Bastoni",
-    "img": "/football/img/players/Bastoni.webp",
+    "img": "/Football/img/players/Bastoni.webp",
     "full_name": "Alessandro Bastoni",
     "birth_date": "13-04-1999",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Dimarco",
-    "img": "/football/img/players/Dimarco.webp",
+    "img": "/Football/img/players/Dimarco.webp",
     "full_name": "Federico Dimarco",
     "birth_date": "10-11-1997",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Sommer",
-    "img": "/football/img/players/Sommer.webp",
+    "img": "/Football/img/players/Sommer.webp",
     "full_name": "Yann Sommer",
     "birth_date": "17-12-1988",
 

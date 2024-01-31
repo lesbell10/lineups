@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Suarez",
-    "img": "/football/img/players/Suarez.webp",
+    "img": "/Football/img/players/Suarez.webp",
     "full_name": "Luis Suarez",
     "birth_date": "24-01-1987",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Messi",
-    "img": "/football/img/players/Messi.webp",
+    "img": "/Football/img/players/Messi.webp",
     "full_name": "Lionel Messi",
     "birth_date": "24-06-1987",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Iniesta",
-    "img": "/football/img/players/Iniesta.webp",
+    "img": "/Football/img/players/Iniesta.webp",
     "full_name": "Andres Iniesta",
     "birth_date": "11-05-1984",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Neymar",
-    "img": "/football/img/players/Neymar.webp",
+    "img": "/Football/img/players/Neymar.webp",
     "full_name": "Neymar da Silva Jr",
     "birth_date": "05-02-1992",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Xavi",
-    "img": "/football/img/players/Xavi.webp",
+    "img": "/Football/img/players/Xavi.webp",
     "full_name": "Xavi Hernandez",
     "birth_date": "25-01-1980",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Busquets",
-    "img": "/football/img/players/Busquets.webp",
+    "img": "/Football/img/players/Busquets.webp",
     "full_name": "Sergio Busquets",
     "birth_date": "16-07-1988",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "D Alves",
-    "img": "/football/img/players/D Alves.webp",
+    "img": "/Football/img/players/D Alves.webp",
     "full_name": "Dani Alves",
     "birth_date": "06-05-1983",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Pique",
-    "img": "/football/img/players/Pique.webp",
+    "img": "/Football/img/players/Pique.webp",
     "full_name": "Gerard Pique",
     "birth_date": "02-02-1987",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Mascherano",
-    "img": "/football/img/players/Mascherano.webp",
+    "img": "/Football/img/players/Mascherano.webp",
     "full_name": "Javier Mascherano",
     "birth_date": "08-06-1984",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Alba",
-    "img": "/football/img/players/Alba.webp",
+    "img": "/Football/img/players/Alba.webp",
     "full_name": "Jordi Alba",
     "birth_date": "21-03-1989",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "ter Stegen",
-    "img": "/football/img/players/ter Stegen.webp",
+    "img": "/Football/img/players/ter Stegen.webp",
     "full_name": "M-Andre ter Stegen",
     "birth_date": "30-04-1992",
 

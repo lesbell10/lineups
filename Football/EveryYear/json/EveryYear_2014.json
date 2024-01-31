@@ -8,7 +8,7 @@
         "position": "Striker",
         "height": "6'5\"",
         "team": "Retired",
-        "img": "/football/img/players/Ibrahimovic.webp",
+        "img": "/Football/img/players/Ibrahimovic.webp",
         "description": "Acrobatic striker, technical, 500+ goals, multiple club legend."
     },
     {
@@ -20,7 +20,7 @@
         "position": "Forward",
         "height": "6'2\"",
         "team": "Al Nassr",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "description": "Five-time Ballon d'Or, legendary goal-scorer, football icon."
     },
     {
@@ -32,7 +32,7 @@
         "position": "Forward",
         "height": "5'7\"",
         "team": "Inter Miami",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "description": "Record eight Ballon d’Or, legendary Argentinian forward."
     },
     {
@@ -44,7 +44,7 @@
         "position": "Winger",
         "height": "5'7\"",
         "team": "Retired",
-        "img": "/football/img/players/Ribery.webp",
+        "img": "/Football/img/players/Ribery.webp",
         "description": "Dynamic French winger, skillful, pacey, Bayern Munich star."
     },
     {
@@ -56,7 +56,7 @@
         "position": "Central Midfielder",
         "height": "5'7\"",
         "team": "Retired",
-        "img": "/football/img/players/Xavi.webp",
+        "img": "/Football/img/players/Xavi.webp",
         "description": "Barcelona's midfield maestro, visionary, tactician, trophy-laden career."
     },
     {
@@ -68,7 +68,7 @@
         "position": "Central Midfielder",
         "height": "6'0\"",
         "team": "Retired",
-        "img": "/football/img/players/Schweinsteiger.webp",
+        "img": "/Football/img/players/Schweinsteiger.webp",
         "description": "German midfield general, versatile, Bayern and national team."
     },
     {
@@ -80,7 +80,7 @@
         "position": "Right Back",
         "height": "5'8\"",
         "team": "Pumas",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "description": "Brazilian right back, attacking flair, multiple titles, skillful."
     },
     {
@@ -92,7 +92,7 @@
         "position": "Centre Back",
         "height": "5'11\"",
         "team": "Chelsea",
-        "img": "/football/img/players/T Silva.webp",
+        "img": "/Football/img/players/T Silva.webp",
         "description": "Commanding centre back, aerial, tackling, leadership, multiple clubs."
     },
     {
@@ -104,7 +104,7 @@
         "position": "Centre Back",
         "height": "6'3\"",
         "team": "Retired",
-        "img": "/football/img/players/Kompany.webp",
+        "img": "/Football/img/players/Kompany.webp",
         "description": "Belgian defensive leader, Manchester City icon, solid tackler."
     },
     {
@@ -116,7 +116,7 @@
         "position": "Full Back",
         "height": "5'7\"",
         "team": "Retired",
-        "img": "/football/img/players/Lahm.webp",
+        "img": "/Football/img/players/Lahm.webp",
         "description": "German full back, tactical intelligence, Bayern Munich mainstay."
     },
     {
@@ -128,7 +128,7 @@
         "position": "Goalkeeper",
         "height": "6'4\"",
         "team": "Bayern Munich",
-        "img": "/football/img/players/Neuer.webp",
+        "img": "/Football/img/players/Neuer.webp",
         "description": "Revolutionary goalkeeper, reflexes, Bayern Munich, Germany's wall."
     }
 ]

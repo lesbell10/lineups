@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Rooney",
-        "img": "/football/img/players/Rooney.webp",
+        "img": "/Football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
         "nationality": "England",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Messi",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "full_name": "Lionel Messi",
         "birth_date": "24-06-1987",
         "nationality": "Argentina",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Iniesta",
-        "img": "/football/img/players/Iniesta.webp",
+        "img": "/Football/img/players/Iniesta.webp",
         "full_name": "Andres Iniesta",
         "birth_date": "11-05-1984",
         "nationality": "Spain",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "nationality": "Portugal",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Xavi",
-        "img": "/football/img/players/Xavi.webp",
+        "img": "/Football/img/players/Xavi.webp",
         "full_name": "Xavi Hernandez",
         "birth_date": "25-01-1980",
         "nationality": "Spain",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Busquets",
-        "img": "/football/img/players/Busquets.webp",
+        "img": "/Football/img/players/Busquets.webp",
         "full_name": "Sergio Busquets", 
         "birth_date": "16-07-1988",
         "nationality": "Spain",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "last_name": "D Alves",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "full_name": "Dani Alves",
         "birth_date": "06-05-1983",
         "nationality": "Brazil",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "last_name": "Vidic",
-        "img": "/football/img/players/Vidic.webp",
+        "img": "/Football/img/players/Vidic.webp",
         "full_name": "Nemanja Vidic",
         "birth_date": "21-10-1981",
         "nationality": "Serbia",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "last_name": "S Ramos",
-        "img": "/football/img/players/S Ramos.webp",
+        "img": "/Football/img/players/S Ramos.webp",
         "full_name": "Sergio Ramos",
         "birth_date": "30-03-1986",
         "nationality": "Spain",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "last_name": "A Cole",
-        "img": "/football/img/players/A Cole.webp",
+        "img": "/Football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
         "nationality": "England",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "last_name": "Casillas",
-        "img": "/football/img/players/Casillas.webp",
+        "img": "/Football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
         "nationality": "Spanish",

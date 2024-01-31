@@ -2,7 +2,7 @@
     {
       "id": 1,
       "last_name": "Suarez",
-      "img": "/football/img/players/Suarez.webp",
+      "img": "/Football/img/players/Suarez.webp",
       "full_name": "Luis Suarez",
       "birth_date": "24-01-1987",
       "nationality": "Uruguay",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "last_name": "C Ronaldo",
-      "img": "/football/img/players/C Ronaldo.webp",
+      "img": "/Football/img/players/C Ronaldo.webp",
       "full_name": "Cristiano Ronaldo",
       "birth_date": "05-02-1985",
       "nationality": "Portugal",
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "last_name": "Messi",
-      "img": "/football/img/players/Messi.webp",
+      "img": "/Football/img/players/Messi.webp",
       "full_name": "Lionel Messi",
       "birth_date": "24-06-1987",
       "nationality": "Argentina",
@@ -38,7 +38,7 @@
     {
       "id": 4,
       "last_name": "Neymar",
-      "img": "/football/img/players/Neymar.webp",
+      "img": "/Football/img/players/Neymar.webp",
       "full_name": "Neymar da Silva Jr",
       "birth_date": "05-02-1992",
       "nationality": "Brazil",
@@ -50,7 +50,7 @@
     {
       "id": 5,
       "last_name": "De Bruyne",
-      "img": "/football/img/players/De Bruyne.webp",
+      "img": "/Football/img/players/De Bruyne.webp",
       "full_name": "Kevin De Bruyne",
       "birth_date": "28-06-1991",
       "nationality": "Belgium",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "last_name": "Kroos",
-      "img": "/football/img/players/Kroos.webp",
+      "img": "/Football/img/players/Kroos.webp",
       "full_name": "Toni Kroos",
       "birth_date": "04-01-1990",
       "nationality": "Germany",
@@ -74,7 +74,7 @@
     {
       "id": 7,
       "last_name": "Carvajal",
-      "img": "/football/img/players/Carvajal.webp",
+      "img": "/Football/img/players/Carvajal.webp",
       "full_name": "Dani Carvajal",
       "birth_date": "11-01-1992",
       "nationality": "Spain",
@@ -86,7 +86,7 @@
     {
       "id": 8,
       "last_name": "S Ramos",
-      "img": "/football/img/players/S Ramos.webp",
+      "img": "/Football/img/players/S Ramos.webp",
       "full_name": "Sergio Ramos",
       "birth_date": "30-03-1986",
       "nationality": "Spain",
@@ -98,7 +98,7 @@
     {
       "id": 9,
       "last_name": "Godin",
-      "img": "/football/img/players/Godin.webp",
+      "img": "/Football/img/players/Godin.webp",
       "full_name": "Diego Godin",
       "birth_date": "16-02-1986",
       "nationality": "Uruguay",
@@ -110,7 +110,7 @@
     {
       "id": 10,
       "last_name": "Marcelo",
-      "img": "/football/img/players/Marcelo.webp",
+      "img": "/Football/img/players/Marcelo.webp",
       "full_name": "Marcelo Vieira",
       "birth_date": "12-05-1988",
       "nationality": "Brazil",
@@ -122,7 +122,7 @@
     {
       "id": 11,
       "last_name": "De Gea",
-      "img": "/football/img/players/De Gea.webp",
+      "img": "/Football/img/players/De Gea.webp",
       "full_name": "David De Gea",
       "birth_date": "07-11-1990",
       "nationality": "Spain",

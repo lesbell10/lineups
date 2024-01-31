@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Lukaku",
-    "img": "/football/img/players/Lukaku.webp",
+    "img": "/Football/img/players/Lukaku.webp",
     "full_name": "Romelu Lukaku",
     "birth_date": "13-05-1993",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Aouar",
-    "img": "/football/img/players/Aouar.webp",
+    "img": "/Football/img/players/Aouar.webp",
     "full_name": "Houssem Aouar",
     "birth_date": "30-06-1998",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Dybala",
-    "img": "/football/img/players/Dybala.webp",
+    "img": "/Football/img/players/Dybala.webp",
     "full_name": "Paulo Dybala",
     "birth_date": "15-11-1993",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Pellegrini",
-    "img": "/football/img/players/Pellegrini.webp",
+    "img": "/Football/img/players/Pellegrini.webp",
     "full_name": "Lorenzo Pellegrini",
     "birth_date": "19-06-1996",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "R Sanches",
-    "img": "/football/img/players/R Sanches.webp",
+    "img": "/Football/img/players/R Sanches.webp",
     "full_name": "Renato Sanches",
     "birth_date": "18-08-1997",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Cristante",
-    "img": "/football/img/players/Cristante.webp",
+    "img": "/Football/img/players/Cristante.webp",
     "full_name": "Bryan Cristante",
     "birth_date": "03-03-1995",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Karsdorp",
-    "img": "/football/img/players/Karsdorp.webp",
+    "img": "/Football/img/players/Karsdorp.webp",
     "full_name": "Rick Karsdorp",
     "birth_date": "11-02-1995",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Smalling",
-    "img": "/football/img/players/Smalling.webp",
+    "img": "/Football/img/players/Smalling.webp",
     "full_name": "Chris Smalling",
     "birth_date": "22-11-1989",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "G Mancini",
-    "img": "/football/img/players/G Mancini.webp",
+    "img": "/Football/img/players/G Mancini.webp",
     "full_name": "Gianluca Mancini",
     "birth_date": "17-04-1996",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Spinazzola",
-    "img": "/football/img/players/Spinazzola.webp",
+    "img": "/Football/img/players/Spinazzola.webp",
     "full_name": "Leonardo Spinazzola",
     "birth_date": "25-03-1993",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "R Patricio",
-    "img": "/football/img/players/R Patricio.webp",
+    "img": "/Football/img/players/R Patricio.webp",
     "full_name": "Rui Patricio",
     "birth_date": "15-02-1988",
 

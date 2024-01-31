@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "van Persie",
-        "img": "/football/img/players/van Persie.webp",
+        "img": "/Football/img/players/van Persie.webp",
         "full_name": "Robin van Persie",
         "birth_date": "06-08-1983",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Robben",
-        "img": "/football/img/players/Robben.webp",
+        "img": "/Football/img/players/Robben.webp",
         "full_name": "Arjen Robben",
         "birth_date": "23-01-1984",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Sneijder",
-        "img": "/football/img/players/Sneijder.webp",
+        "img": "/Football/img/players/Sneijder.webp",
         "full_name": "Wesley Sneijder",
         "birth_date": "09-06-1984",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "M Depay",
-        "img": "/football/img/players/M Depay.webp",
+        "img": "/Football/img/players/M Depay.webp",
         "full_name": "Memphis Depay",
         "birth_date": "13-02-1994",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Wijnaldum",
-        "img": "/football/img/players/Wijnaldum.webp",
+        "img": "/Football/img/players/Wijnaldum.webp",
         "full_name": "Georginio Wijnaldum",
         "birth_date": "11-11-1990",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "F de Jong",
-        "img": "/football/img/players/F de Jong.webp",
+        "img": "/Football/img/players/F de Jong.webp",
         "full_name": "Frenkie de Jong",
         "birth_date": "12-05-1997",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Dumfries",
-        "img": "/football/img/players/Dumfries.webp",
+        "img": "/Football/img/players/Dumfries.webp",
         "full_name": "Denzel Dumfries",
         "birth_date": "18-04-1996",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "van Dijk",
-        "img": "/football/img/players/van Dijk.webp",
+        "img": "/Football/img/players/van Dijk.webp",
         "full_name": "Virgil van Dijk",
         "birth_date": "08-07-1991",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "de Ligt",
-        "img": "/football/img/players/de Ligt.webp",
+        "img": "/Football/img/players/de Ligt.webp",
         "full_name": "Matthijs de Ligt",
         "birth_date": "12-08-1999",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "D Blind",
-        "img": "/football/img/players/D Blind.webp",
+        "img": "/Football/img/players/D Blind.webp",
         "full_name": "Daley Blind",
         "birth_date": "09-03-1990",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Cillessen",
-        "img": "/football/img/players/Cillessen.webp",
+        "img": "/Football/img/players/Cillessen.webp",
         "full_name": "Jasper Cillessen",
         "birth_date": "22-04-1989",
 

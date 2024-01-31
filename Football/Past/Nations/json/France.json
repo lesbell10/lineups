@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Benzema",
-    "img": "/football/img/players/Benzema.webp",
+    "img": "/Football/img/players/Benzema.webp",
     "full_name": "Karim Benzema",
     "birth_date": "19-12-1987",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Ribery",
-    "img": "/football/img/players/Ribery.webp",
+    "img": "/Football/img/players/Ribery.webp",
     "full_name": "Franck Ribery",
     "birth_date": "07-04-1983",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Griezmann",
-    "img": "/football/img/players/Griezmann.webp",
+    "img": "/Football/img/players/Griezmann.webp",
     "full_name": "Antoine Griezmann",
     "birth_date": "21-03-1991",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Mbappe",
-    "img": "/football/img/players/Mbappe.webp",
+    "img": "/Football/img/players/Mbappe.webp",
     "full_name": "Kylian Mbappe",
     "birth_date": "20-12-1998",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Pogba",
-    "img": "/football/img/players/Pogba.webp",
+    "img": "/Football/img/players/Pogba.webp",
     "full_name": "Paul Pogba",
     "birth_date": "15-03-1993",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Kante",
-    "img": "/football/img/players/Kante.webp",
+    "img": "/Football/img/players/Kante.webp",
     "full_name": "N'Golo Kante",
     "birth_date": "29-03-1991",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Sagna",
-    "img": "/football/img/players/Sagna.webp",
+    "img": "/Football/img/players/Sagna.webp",
     "full_name": "Bacary Sagna",
     "birth_date": "14-02-1983",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Varane",
-    "img": "/football/img/players/Varane.webp",
+    "img": "/Football/img/players/Varane.webp",
     "full_name": "Raphael Varane",
     "birth_date": "25-04-1993",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Koscielny",
-    "img": "/football/img/players/Koscielny.webp",
+    "img": "/Football/img/players/Koscielny.webp",
     "full_name": "Laurent Koscielny",
     "birth_date": "10-09-1985",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Evra",
-    "img": "/football/img/players/Evra.webp",
+    "img": "/Football/img/players/Evra.webp",
     "full_name": "Patrice Evra",
     "birth_date": "15-05-1981",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Lloris",
-    "img": "/football/img/players/Lloris.webp",
+    "img": "/Football/img/players/Lloris.webp",
     "full_name": "Hugo Lloris",
     "birth_date": "26-12-1986",
 

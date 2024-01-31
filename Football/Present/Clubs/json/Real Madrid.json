@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Rodrygo",
-    "img": "/football/img/players/Rodrygo.webp",
+    "img": "/Football/img/players/Rodrygo.webp",
     "full_name": "Rodrygo Silva",
     "birth_date": "09-01-2001",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Valverde",
-    "img": "/football/img/players/Valverde.webp",
+    "img": "/Football/img/players/Valverde.webp",
     "full_name": "Federico Valverde",
     "birth_date": "22-07-1998",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Bellingham",
-    "img": "/football/img/players/Bellingham.webp",
+    "img": "/Football/img/players/Bellingham.webp",
     "full_name": "Jude Bellingham",
     "birth_date": "29-06-2003",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Vinicius Jr",
-    "img": "/football/img/players/Vinicius jr.webp",
+    "img": "/Football/img/players/Vinicius jr.webp",
     "full_name": "Vinicius de Oliveira Jr",
     "birth_date": "12-07-2000",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Kroos",
-    "img": "/football/img/players/Kroos.webp",
+    "img": "/Football/img/players/Kroos.webp",
     "full_name": "Toni Kroos",
     "birth_date": "04-01-1990",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Tchouameni",
-    "img": "/football/img/players/Tchouameni.webp",
+    "img": "/Football/img/players/Tchouameni.webp",
     "full_name": "Aurelien Tchouaméni",
     "birth_date": "27-01-2000",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "Carvajal",
-    "img": "/football/img/players/Carvajal.webp",
+    "img": "/Football/img/players/Carvajal.webp",
     "full_name": "Dani Carvajal",
     "birth_date": "11-01-1992",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "E Militao",
-    "img": "/football/img/players/E Militao.webp",
+    "img": "/Football/img/players/E Militao.webp",
     "full_name": "Eder Militao",
     "birth_date": "18-01-1998",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Alaba",
-    "img": "/football/img/players/Alaba.webp",
+    "img": "/Football/img/players/Alaba.webp",
     "full_name": "David Alaba",
     "birth_date": "24-06-1992",
 
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "last_name": "Camavinga",
-    "img": "/football/img/players/Camavinga.webp",
+    "img": "/Football/img/players/Camavinga.webp",
     "full_name": "Eduardo Camavinga",
     "birth_date": "10-11-2002",
 
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "last_name": "Kepa",
-    "img": "/football/img/players/Kepa.webp",
+    "img": "/Football/img/players/Kepa.webp",
     "full_name": "Kepa Arrizabalaga",
     "birth_date": "03-10-1994",
 

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Pele",
-        "img": "/football/img/players/Pele.webp",
+        "img": "/Football/img/players/Pele.webp",
         "full_name": "Pele do Nascimento",
         "birth_date": "23-10-1940",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Maradona",
-        "img": "/football/img/players/Maradona.webp",
+        "img": "/Football/img/players/Maradona.webp",
         "full_name": "Diego Maradona",
         "birth_date": "30-10-1960",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Cruyff",
-        "img": "/football/img/players/J Cruyff.webp",
+        "img": "/Football/img/players/J Cruyff.webp",
         "full_name": "Johan Cruyff",
         "birth_date": "25-04-1947",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Beckenbauer",
-        "img": "/football/img/players/Beckenbauer.webp",
+        "img": "/Football/img/players/Beckenbauer.webp",
         "full_name": "Franz Beckenbauer",
         "birth_date": "11-09-1945",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "di Stefano",
-        "img": "/football/img/players/di Stefano.webp",
+        "img": "/Football/img/players/di Stefano.webp",
         "full_name": "Alfredo Di Stefano",
         "birth_date": "04-07-1926",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Platini",
-        "img": "/football/img/players/Platini.webp",
+        "img": "/Football/img/players/Platini.webp",
         "full_name": "Michel Platini",
         "birth_date": "21-06-1955",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "G Best",
-        "img": "/football/img/players/G Best.webp",
+        "img": "/Football/img/players/G Best.webp",
         "full_name": "George Best",
         "birth_date": "22-05-1946",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Puskas",
-        "img": "/football/img/players/puskas.webp",
+        "img": "/Football/img/players/puskas.webp",
         "full_name": "Ferenc Puskas",
         "birth_date": "02-04-1927",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Charlton",
-        "img": "/football/img/players/charlton.webp",
+        "img": "/Football/img/players/charlton.webp",
         "full_name": "Bobby Charlton",
         "birth_date": "11-10-1937",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "van Basten",
-        "img": "/football/img/players/van basten.webp",
+        "img": "/Football/img/players/van basten.webp",
         "full_name": "Marco van Basten",
         "birth_date": "31-10-1964",
 
@@ -132,7 +132,7 @@
     {
         "id": 12,
         "last_name": "Meazza",
-        "img": "/football/img/players/meazza.webp",
+        "img": "/Football/img/players/meazza.webp",
         "full_name": "Giuseppe Meazza",
         "birth_date": "23-08-1910",
 
@@ -145,7 +145,7 @@
     {
         "id": 13,
         "last_name": "R Baggio",
-        "img": "/football/img/players/r baggio.webp",
+        "img": "/Football/img/players/r baggio.webp",
         "full_name": "Roberto Baggio",
         "birth_date": "18-02-1967",
 
@@ -158,7 +158,7 @@
     {
         "id": 14,
         "last_name": "G Weah",
-        "img": "/football/img/players/g weah.webp",
+        "img": "/Football/img/players/g weah.webp",
         "full_name": "George Weah",
         "birth_date": "01-10-1966",
 
@@ -171,7 +171,7 @@
     {
         "id": 15,
         "last_name": "Romario",
-        "img": "/football/img/players/Romario.webp",
+        "img": "/Football/img/players/Romario.webp",
         "full_name": "Romario de Souza",
         "birth_date": "29-01-1966",
 
@@ -184,7 +184,7 @@
     {
         "id": 16,
         "last_name": "Baresi",
-        "img": "/football/img/players/Baresi.webp",
+        "img": "/Football/img/players/Baresi.webp",
         "full_name": "Franco Baresi",
         "birth_date": "08-05-1960",
 
@@ -197,7 +197,7 @@
     {
         "id": 17,
         "last_name": "Matthaus",
-        "img": "/football/img/players/Matthaus.webp",
+        "img": "/Football/img/players/Matthaus.webp",
         "full_name": "Lothar Matthaus",
         "birth_date": "21-03-1961",
 
@@ -210,7 +210,7 @@
     {
         "id": 19,
         "last_name": "Gullit",
-        "img": "/football/img/players/Gullit.webp",
+        "img": "/Football/img/players/Gullit.webp",
         "full_name": "Ruud Gullit",
         "birth_date": "01-09-1962",
 
@@ -223,7 +223,7 @@
     {
       "id": 20,
       "last_name": "Socrates",
-      "img": "/football/img/players/Socrates.webp",
+      "img": "/Football/img/players/Socrates.webp",
       "full_name": "Socrates Brasileiro",
       "birth_date": "19-02-1954",
 
@@ -236,7 +236,7 @@
 {
     "id": 23,
     "last_name": "Coutinho",
-    "img": "/football/img/players/Coutinho.webp",
+    "img": "/Football/img/players/Coutinho.webp",
     "full_name": "Philippe Coutinho",
     "birth_date": "12-06-1992",
 
@@ -249,7 +249,7 @@
 {
     "id": 25,
     "last_name": "Del Piero",
-    "img": "/football/img/players/del piero.webp",
+    "img": "/Football/img/players/del piero.webp",
     "full_name": "Alessandro Del Piero",
     "birth_date": "09-11-1974",
 
@@ -262,7 +262,7 @@
 {
     "id": 26,
     "last_name": "R Carlos",
-    "img": "/football/img/players/R Carlos.webp",
+    "img": "/Football/img/players/R Carlos.webp",
     "full_name": "Roberto Carlos",
     "birth_date": "10-04-1973",
 
@@ -275,7 +275,7 @@
 {
     "id": 27,
     "last_name": "Beckham",
-    "img": "/football/img/players/Beckham.webp",
+    "img": "/Football/img/players/Beckham.webp",
     "full_name": "David Beckham",
     "birth_date": "02-05-1975",
 
@@ -288,7 +288,7 @@
 {
     "id": 28,
     "last_name": "Raul",
-    "img": "/football/img/players/raul.webp",
+    "img": "/Football/img/players/raul.webp",
     "full_name": "Raul Gonzalez",
     "birth_date": "27-06-1977",
 
@@ -301,7 +301,7 @@
 {
     "id": 29,
     "last_name": "Shevchenko",
-    "img": "/football/img/players/Shevchenko.webp",
+    "img": "/Football/img/players/Shevchenko.webp",
     "full_name": "Andriy Shevchenko",
     "birth_date": "29-09-1976",
 
@@ -314,7 +314,7 @@
 {
     "id": 30,
     "last_name": "Ballack",
-    "img": "/football/img/players/ballack.webp",
+    "img": "/Football/img/players/ballack.webp",
     "full_name": "Michael Ballack",
     "birth_date": "26-09-1976",
 
@@ -327,7 +327,7 @@
 {
     "id": 31,
     "last_name": "Figo",
-    "img": "/football/img/players/figo.webp",
+    "img": "/Football/img/players/figo.webp",
     "full_name": "Luis Figo",
     "birth_date": "04-11-1972",
 
@@ -340,7 +340,7 @@
 {
     "id": 32,
     "last_name": "Nedved",
-    "img": "/football/img/players/nedved.webp",
+    "img": "/Football/img/players/nedved.webp",
     "full_name": "Pavel Nedved",
     "birth_date": "30-08-1972",
 
@@ -353,7 +353,7 @@
 {
     "id": 33,
     "last_name": "R Keane",
-    "img": "/football/img/players/R keane.webp",
+    "img": "/Football/img/players/R keane.webp",
     "full_name": "Roy Keane",
     "birth_date": "10-08-1971",
 
@@ -366,7 +366,7 @@
 {
     "id": 34,
     "last_name": "Campbell",
-    "img": "/football/img/players/Campbell.webp",
+    "img": "/Football/img/players/Campbell.webp",
     "full_name": "Sol Campbell",
     "birth_date": "18-09-1974",
 
@@ -379,7 +379,7 @@
 {
     "id": 35,
     "last_name": "van Nistelrooy",
-    "img": "/football/img/players/van Nistelrooy.webp",
+    "img": "/Football/img/players/van Nistelrooy.webp",
     "full_name": "Ruud van Nistelrooy",
     "birth_date": "01-07-1976",
 
@@ -392,7 +392,7 @@
 {
     "id": 36,
     "last_name": "Hierro",
-    "img": "/football/img/players/Hierro.webp",
+    "img": "/Football/img/players/Hierro.webp",
     "full_name": "Fernando Hierro",
     "birth_date": "23-03-1968",
 
@@ -405,7 +405,7 @@
 {
     "id": 37,
     "last_name": "Kahn",
-    "img": "/football/img/players/Kahn.webp",
+    "img": "/Football/img/players/Kahn.webp",
     "full_name": "Oliver Kahn",
     "birth_date": "15-06-1969",
 
@@ -418,7 +418,7 @@
 {
     "id": 38,
     "last_name": "Crespo",
-    "img": "/football/img/players/Crespo.webp",
+    "img": "/Football/img/players/Crespo.webp",
     "full_name": "Hernan Crespo",
     "birth_date": "05-07-1975",
 
@@ -431,7 +431,7 @@
 {
     "id": 39,
     "last_name": "Cafu",
-    "img": "/football/img/players/Cafu.webp",
+    "img": "/Football/img/players/Cafu.webp",
     "full_name": "Marcos Cafu",
     "birth_date": "07-06-1970",
 
@@ -444,7 +444,7 @@
 {
     "id": 40,
     "last_name": "Drogba",
-    "img": "/football/img/players/Drogba.webp",
+    "img": "/Football/img/players/Drogba.webp",
     "full_name": "Didier Drogba",
     "birth_date": "11-03-1978",
 
@@ -458,7 +458,7 @@
   {
     "id": 41,
     "last_name": "Ayala",
-    "img": "/football/img/players/Ayala.webp",
+    "img": "/Football/img/players/Ayala.webp",
     "full_name": "Roberto Ayala",
     "birth_date": "14-04-1973",
 
@@ -471,7 +471,7 @@
 {
     "id": 44,
     "last_name": "Hagi",
-    "img": "/football/img/players/Hagi.webp",
+    "img": "/Football/img/players/Hagi.webp",
     "full_name": "Gheorghe Hagi",
     "birth_date": "05-02-1965",
 
@@ -484,7 +484,7 @@
 {
     "id": 45,
     "last_name": "Riquelme",
-    "img": "/football/img/players/Riquelme.webp",
+    "img": "/Football/img/players/Riquelme.webp",
     "full_name": "Juan R Riquelme",
     "birth_date": "24-06-1978",
 
@@ -497,7 +497,7 @@
 {
     "id": 46,
     "last_name": "H Larsson",
-    "img": "/football/img/players/H Larsson.webp",
+    "img": "/Football/img/players/H Larsson.webp",
     "full_name": "Henrik Larsson",
     "birth_date": "20-09-1971",
 
@@ -510,7 +510,7 @@
 {
     "id": 47,
     "last_name": "Makelele",
-    "img": "/football/img/players/Makelele.webp",
+    "img": "/Football/img/players/Makelele.webp",
     "full_name": "Claude Makelele",
     "birth_date": "18-02-1973",
 
@@ -523,7 +523,7 @@
 {
     "id": 48,
     "last_name": "P Kluivert",
-    "img": "/football/img/players/P Kluivert.webp",
+    "img": "/Football/img/players/P Kluivert.webp",
     "full_name": "Patrick Kluivert",
     "birth_date": "01-07-1976",
 
@@ -536,7 +536,7 @@
 {
     "id": 49,
     "last_name": "Lehmann",
-    "img": "/football/img/players/Lehmann.webp",
+    "img": "/Football/img/players/Lehmann.webp",
     "full_name": "Jens Lehmann",
     "birth_date": "10-11-1969",
 
@@ -549,7 +549,7 @@
 {
     "id": 50,
     "last_name": "Costacurta",
-    "img": "/football/img/players/Costacurta.webp",
+    "img": "/Football/img/players/Costacurta.webp",
     "full_name": "Alessio Costacurta",
     "birth_date": "24-04-1966",
 
@@ -562,7 +562,7 @@
 {
    "id": 53,
    "last_name": "Ljungberg",
-   "img": "/football/img/players/Ljungberg.webp",
+   "img": "/Football/img/players/Ljungberg.webp",
    "full_name": "Freddie Ljungberg",
    "birth_date": "16-04-1977",
 
@@ -575,7 +575,7 @@
 {
    "id": 54,
    "last_name": "Rui Costa",
-   "img": "/football/img/players/Rui Costa.webp",
+   "img": "/Football/img/players/Rui Costa.webp",
    "full_name": "Rui Costa",
    "birth_date": "29-03-1972",
 
@@ -588,7 +588,7 @@
 {
    "id": 56,
    "last_name": "Giggs",
-   "img": "/football/img/players/Giggs.webp",
+   "img": "/Football/img/players/Giggs.webp",
    "full_name": "Ryan Giggs",
    "birth_date": "29-11-1973",
 
@@ -601,7 +601,7 @@
 {
    "id": 58,
    "last_name": "Mendieta",
-   "img": "/football/img/players/Mendieta.webp",
+   "img": "/Football/img/players/Mendieta.webp",
    "full_name": "Gaizka Mendieta",
    "birth_date": "27-03-1974",
 
@@ -614,7 +614,7 @@
 {
    "id": 59,
    "last_name": "Okocha",
-   "img": "/football/img/players/Okocha.webp",
+   "img": "/Football/img/players/Okocha.webp",
    "full_name": "Jay-Jay Okocha",
    "birth_date": "14-08-1973",
 
@@ -627,7 +627,7 @@
 {
    "id": 61,
    "last_name": "Batistuta",
-   "img": "/football/img/players/Batistuta.webp",
+   "img": "/Football/img/players/Batistuta.webp",
    "full_name": "Gabriel Batistuta",
    "birth_date": "01-02-1969",
 
@@ -640,7 +640,7 @@
 {
    "id": 62,
    "last_name": "Dida",
-   "img": "/football/img/players/dida.webp",
+   "img": "/Football/img/players/dida.webp",
    "full_name": "Nelson Dida",
    "birth_date": "07-10-1973",
 
@@ -653,7 +653,7 @@
 {
    "id": 63,
    "last_name": "Klose",
-   "img": "/football/img/players/Klose.webp",
+   "img": "/Football/img/players/Klose.webp",
    "full_name": "Miroslav Klose",
    "birth_date": "09-06-1978",
 
@@ -666,7 +666,7 @@
 {
    "id": 64,
    "last_name": "Adriano L",
-   "img": "/football/img/players/Adriano L.webp",
+   "img": "/Football/img/players/Adriano L.webp",
    "full_name": "Adriano Leite",
    "birth_date": "17-02-1982",
 
@@ -679,7 +679,7 @@
 {
    "id": 65,
    "last_name": "Toldo",
-   "img": "/football/img/players/Toldo.webp",
+   "img": "/Football/img/players/Toldo.webp",
    "full_name": "Francesco Toldo",
    "birth_date": "02-12-1971",
 
@@ -692,7 +692,7 @@
 {
    "id": 66,
    "last_name": "Desailly",
-   "img": "/football/img/players/Desailly.webp",
+   "img": "/Football/img/players/Desailly.webp",
    "full_name": "Marcel Desailly",
    "birth_date": "07-09-1968",
 
@@ -705,7 +705,7 @@
 {
    "id": 67,
    "last_name": "Owen",
-   "img": "/football/img/players/Owen.webp",
+   "img": "/Football/img/players/Owen.webp",
    "full_name": "Michael Owen",
    "birth_date": "14-12-1979",
 
@@ -718,7 +718,7 @@
 {
    "id": 69,
    "last_name": "van der Sar",
-   "img": "/football/img/players/van der Sar.webp",
+   "img": "/Football/img/players/van der Sar.webp",
    "full_name": "Edwin van der Sar",
    "birth_date": "29-10-1970",
 
@@ -731,7 +731,7 @@
 {
    "id": 70,
    "last_name": "A Mutu",
-   "img": "/football/img/players/A Mutu.webp",
+   "img": "/Football/img/players/A Mutu.webp",
    "full_name": "Adrian Mutu",
    "birth_date": "08-01-1979",
 
@@ -744,7 +744,7 @@
 {
    "id": 71,
    "last_name": "Vieri",
-   "img": "/football/img/players/Vieri.webp",
+   "img": "/Football/img/players/Vieri.webp",
    "full_name": "Christian Vieri",
    "birth_date": "12-07-1973",
 
@@ -757,7 +757,7 @@
 {
    "id": 72,
    "last_name": "Zola",
-   "img": "/football/img/players/Zola.webp",
+   "img": "/Football/img/players/Zola.webp",
    "full_name": "Gianfranco Zola",
    "birth_date": "05-07-1966",
 
@@ -771,7 +771,7 @@
 {
    "id": 74,
    "last_name": "Valerón",
-   "img": "/football/img/players/Valeron.webp",
+   "img": "/Football/img/players/Valeron.webp",
    "full_name": "Juan Carlos Valeron",
    "birth_date": "17-06-1975",
 
@@ -785,7 +785,7 @@
 {
    "id": 75,
    "last_name": "Vicente",
-   "img": "/football/img/players/Vicente.webp",
+   "img": "/Football/img/players/Vicente.webp",
    "full_name": "Vicente Rodriguez",
    "birth_date": "16-07-1981",
 
@@ -799,7 +799,7 @@
 {
    "id": 76,
    "last_name": "Veron",
-   "img": "/football/img/players/Veron.webp",
+   "img": "/Football/img/players/Veron.webp",
    "full_name": "Juan Sebastian Veron",
    "birth_date": "09-03-1975",
 
@@ -812,7 +812,7 @@
 {
    "id": 78,
    "last_name": "Miccoli",
-   "img": "/football/img/players/Miccoli.webp",
+   "img": "/Football/img/players/Miccoli.webp",
    "full_name": "Fabrizio Miccoli",
    "birth_date": "27-06-1979",
 
@@ -825,7 +825,7 @@
 {
    "id": 80,
    "last_name": "H Nakata",
-   "img": "/football/img/players/H Nakata.webp",
+   "img": "/Football/img/players/H Nakata.webp",
    "full_name": "Hidetoshi Nakata",
    "birth_date": "22-01-1977",
 
@@ -839,7 +839,7 @@
 {
    "id": 81,
    "last_name": "Gattuso",
-   "img": "/football/img/players/Gattuso.webp",
+   "img": "/Football/img/players/Gattuso.webp",
    "full_name": "Gennaro Gattuso",
    "birth_date": "09-01-1978",
 
@@ -852,7 +852,7 @@
 {
    "id": 83,
    "last_name": "Montella",
-   "img": "/football/img/players/Montella.webp",
+   "img": "/Football/img/players/Montella.webp",
    "full_name": "Vincenzo Montella",
    "birth_date": "18-06-1974",
 
@@ -865,7 +865,7 @@
 {
   "id": 84,
   "last_name": "Trezeguet",
-  "img": "/football/img/players/trezeguet.webp",
+  "img": "/Football/img/players/trezeguet.webp",
   "full_name": "David Trezeguet",
   "birth_date": "15-10-1977",
 
@@ -878,7 +878,7 @@
 {
     "id": 85,
     "last_name": "Di Canio",
-    "img": "/football/img/players/Di Canio.webp",
+    "img": "/Football/img/players/Di Canio.webp",
     "full_name": "Paolo Di Canio",
     "birth_date": "09-07-1968",
 
@@ -891,7 +891,7 @@
 {
     "id": 86,
     "last_name": "Pires",
-    "img": "/football/img/players/Pires.webp",
+    "img": "/Football/img/players/Pires.webp",
     "full_name": "Robert Pires",
     "birth_date": "29-10-1973",
 
@@ -904,7 +904,7 @@
 {
       "id": 88,
       "last_name": "Cambiasso",
-      "img": "/football/img/players/Cambiasso.webp",
+      "img": "/Football/img/players/Cambiasso.webp",
       "full_name": "Esteban Cambiasso",
       "birth_date": "18-08-1980",
 
@@ -917,7 +917,7 @@
    {
       "id": 89,
       "last_name": "Samuel",
-      "img": "/football/img/players/Samuel.webp",
+      "img": "/Football/img/players/Samuel.webp",
       "full_name": "Walter Samuel",
       "birth_date": "23-03-1978",
 
@@ -930,7 +930,7 @@
    {
    "id": 90,
    "last_name": "Cordoba",
-   "img": "/football/img/players/Cordoba.webp",
+   "img": "/Football/img/players/Cordoba.webp",
    "full_name": "Ivan Cordoba",
    "birth_date": "11-08-1976",
 
@@ -943,7 +943,7 @@
 {
    "id": 92,
    "last_name": "Joaquin",
-   "img": "/football/img/players/Joaquin.webp",
+   "img": "/Football/img/players/Joaquin.webp",
    "full_name": "Joaquin Sanchez",
    "birth_date": "21-07-1981",
 
@@ -956,7 +956,7 @@
 {
    "id": 93,
    "last_name": "Aimar",
-   "img": "/football/img/players/Aimar.webp",
+   "img": "/Football/img/players/Aimar.webp",
    "full_name": "Pablo Aimar",
    "birth_date": "03-11-1979",
 
@@ -969,7 +969,7 @@
 {
    "id": 96,
    "last_name": "van Bommel",
-   "img": "/football/img/players/van Bommel.webp",
+   "img": "/Football/img/players/van Bommel.webp",
    "full_name": "Mark van Bommel",
    "birth_date": "22-04-1977",
 
@@ -982,7 +982,7 @@
 {
    "id": 97,
    "last_name": "Makaay",
-   "img": "/football/img/players/Makaay.webp",
+   "img": "/Football/img/players/Makaay.webp",
    "full_name": "Roy Makaay",
    "birth_date": "09-03-1975",
 
@@ -995,7 +995,7 @@
 {
    "id": 100,
    "last_name": "Reiziger",
-   "img": "/football/img/players/Reiziger.webp",
+   "img": "/Football/img/players/Reiziger.webp",
    "full_name": "Michael Reiziger",
    "birth_date": "03-05-1973",
 
@@ -1008,7 +1008,7 @@
 {
    "id": 101,
    "last_name": "Mido",
-   "img": "/football/img/players/Mido.webp",
+   "img": "/Football/img/players/Mido.webp",
    "full_name": "Ahmed Mido",
    "birth_date": "23-02-1983",
 
@@ -1021,7 +1021,7 @@
 {
    "id": 102,
    "last_name": "Kanu",
-   "img": "/football/img/players/kanu.webp",
+   "img": "/Football/img/players/kanu.webp",
    "full_name": "Nwankwo Kanu",
    "birth_date": "01-08-1976",
 
@@ -1034,7 +1034,7 @@
 {
    "id": 103,
    "last_name": "X Alonso",
-   "img": "/football/img/players/X Alonso.webp",
+   "img": "/Football/img/players/X Alonso.webp",
    "full_name": "Xabi Alonso",
    "birth_date": "25-11-1981",
 
@@ -1047,7 +1047,7 @@
 {
    "id": 104,
    "last_name": "Foe",
-   "img": "/football/img/players/Foe.webp",
+   "img": "/Football/img/players/Foe.webp",
    "full_name": "Marc-Vivien Foe",
    "birth_date": "01-05-1975",
 
@@ -1060,7 +1060,7 @@
 {
    "id": 105,
    "last_name": "Bakayoko",
-   "img": "/football/img/players/Bakayoko.webp",
+   "img": "/Football/img/players/Bakayoko.webp",
    "full_name": "Ibrahima Bakayoko",
    "birth_date": "31-12-1976",
 
@@ -1073,7 +1073,7 @@
 {
    "id": 106,
    "last_name": "B Kalou",
-   "img": "/football/img/players/B Kalou.webp",
+   "img": "/Football/img/players/B Kalou.webp",
    "full_name": "Bonaventure Kalou",
    "birth_date": "12-01-1978",
 
@@ -1086,7 +1086,7 @@
 {
    "id": 107,
    "last_name": "S Kalou",
-   "img": "/football/img/players/S Kalou.webp",
+   "img": "/Football/img/players/S Kalou.webp",
    "full_name": "Salomon Kalou",
    "birth_date": "05-08-1985",
 
@@ -1099,7 +1099,7 @@
 {
    "id": 108,
    "last_name": "Adebayor",
-   "img": "/football/img/players/Adebayor.webp",
+   "img": "/Football/img/players/Adebayor.webp",
    "full_name": "Emmanuel Adebayor",
    "birth_date": "26-02-1984",
 
@@ -1112,7 +1112,7 @@
 {
    "id": 109,
    "last_name": "Mikel",
-   "img": "/football/img/players/Mikel.webp",
+   "img": "/Football/img/players/Mikel.webp",
    "full_name": "John Obi Mikel",
    "birth_date": "22-04-1987",
 
@@ -1125,7 +1125,7 @@
 {
    "id": 110,
    "last_name": "O Martins",
-   "img": "/football/img/players/O Martins.webp",
+   "img": "/Football/img/players/O Martins.webp",
    "full_name": "Obafemi Martins",
    "birth_date": "28-10-1984",
 
@@ -1138,7 +1138,7 @@
 {
   "id": 111,
   "last_name": "P Neville",
-  "img": "/football/img/players/P Neville.webp",
+  "img": "/Football/img/players/P Neville.webp",
   "full_name": "Phil Neville",
   "birth_date": "21-01-1977",
 
@@ -1151,7 +1151,7 @@
 {
    "id": 112,
    "last_name": "Yobo",
-   "img": "/football/img/players/Yobo.webp",
+   "img": "/Football/img/players/Yobo.webp",
    "full_name": "Joseph Yobo",
    "birth_date": "06-09-1980",
 
@@ -1164,7 +1164,7 @@
 {
    "id": 113,
    "last_name": "McManaman",
-   "img": "/football/img/players/McManaman.webp",
+   "img": "/Football/img/players/McManaman.webp",
    "full_name": "Steve McManaman",
    "birth_date": "11-02-1972",
 
@@ -1177,7 +1177,7 @@
 {
    "id": 114,
    "last_name": "P Robinson",
-   "img": "/football/img/players/P Robinson.webp",
+   "img": "/Football/img/players/P Robinson.webp",
    "full_name": "Paul Robinson",
    "birth_date": "15-10-1979",
 
@@ -1190,7 +1190,7 @@
 {
    "id": 115,
    "last_name": "Heskey",
-   "img": "/football/img/players/Heskey.webp",
+   "img": "/Football/img/players/Heskey.webp",
    "full_name": "Emile Heskey",
    "birth_date": "11-01-1978",
 
@@ -1203,7 +1203,7 @@
 {
    "id": 117,
    "last_name": "Fowler",
-   "img": "/football/img/players/Fowler.webp",
+   "img": "/Football/img/players/Fowler.webp",
    "full_name": "Robbie Fowler",
    "birth_date": "09-04-1975",
 
@@ -1216,7 +1216,7 @@
 {
    "id": 118,
    "last_name": "G Neville",
-   "img": "/football/img/players/G Neville.webp",
+   "img": "/Football/img/players/G Neville.webp",
    "full_name": "Gary Neville",
    "birth_date": "18-02-1975",
 
@@ -1229,7 +1229,7 @@
 {
    "id": 120,
    "last_name": "Scholes",
-   "img": "/football/img/players/Scholes.webp",
+   "img": "/Football/img/players/Scholes.webp",
    "full_name": "Paul Scholes",
    "birth_date": "16-11-1974",
    "position": "Central Midfielder",
@@ -1241,7 +1241,7 @@
 {
    "id": 122,
    "last_name": "G Speed",
-   "img": "/football/img/players/G Speed.webp",
+   "img": "/Football/img/players/G Speed.webp",
    "full_name": "Gary Speed",
    "birth_date": "08-09-1969",
 
@@ -1254,7 +1254,7 @@
 {
    "id": 123,
    "last_name": "Viduka",
-   "img": "/football/img/players/Viduka.webp",
+   "img": "/Football/img/players/Viduka.webp",
    "full_name": "Mark Viduka",
    "birth_date": "09-10-1975",
 
@@ -1267,7 +1267,7 @@
 {
    "id": 126,
    "last_name": "C Bellamy",
-   "img": "/football/img/players/C Bellamy.webp",
+   "img": "/Football/img/players/C Bellamy.webp",
    "full_name": "Craig Bellamy",
    "birth_date": "13-07-1979",
 
@@ -1280,7 +1280,7 @@
 {
    "id": 127,
    "last_name": "Given",
-   "img": "/football/img/players/Given.webp",
+   "img": "/Football/img/players/Given.webp",
    "full_name": "Shay Given",
    "birth_date": "20-04-1976",
 
@@ -1293,7 +1293,7 @@
 {
    "id": 128,
    "last_name": "Giuly",
-   "img": "/football/img/players/Giuly.webp",
+   "img": "/Football/img/players/Giuly.webp",
    "full_name": "Ludovic Giuly",
    "birth_date": "10-07-1976",
 
@@ -1306,7 +1306,7 @@
 {
    "id": 129,
    "last_name": "Marchena",
-   "img": "/football/img/players/Marchena.webp",
+   "img": "/Football/img/players/Marchena.webp",
    "full_name": "Carlos Marchena",
    "birth_date": "31-07-1979",
 
@@ -1319,7 +1319,7 @@
 {
    "id": 131,
    "last_name": "Juninho",
-   "img": "/football/img/players/Juninho.webp",
+   "img": "/Football/img/players/Juninho.webp",
    "full_name": "Juninho P",
    "birth_date": "30-01-1975",
 
@@ -1332,7 +1332,7 @@
 {
    "id": 132,
    "last_name": "Solari",
-   "img": "/football/img/players/Solari.webp",
+   "img": "/Football/img/players/Solari.webp",
    "full_name": "Santiago Solari",
    "birth_date": "17-10-1976",
 
@@ -1345,7 +1345,7 @@
 {
    "id": 133,
    "last_name": "Saviola",
-   "img": "/football/img/players/Saviola.webp",
+   "img": "/Football/img/players/Saviola.webp",
    "full_name": "Javier Saviola",
    "birth_date": "11-12-1981",
 
@@ -1358,7 +1358,7 @@
 {
    "id": 134,
    "last_name": "Salas",
-   "img": "/football/img/players/Salas.webp",
+   "img": "/Football/img/players/Salas.webp",
    "full_name": "Marcelo Salas",
    "birth_date": "24-12-1974",
 
@@ -1371,7 +1371,7 @@
 {
    "id": 135,
    "last_name": "Dudek",
-   "img": "/football/img/players/Dudek.webp",
+   "img": "/Football/img/players/Dudek.webp",
    "full_name": "Jerzy Dudek",
    "birth_date": "23-03-1973",
 
@@ -1384,7 +1384,7 @@
 {
    "id": 138,
    "last_name": "Hyypia",
-   "img": "/football/img/players/Hyypia.webp",
+   "img": "/Football/img/players/Hyypia.webp",
    "full_name": "Sami Hyypia",
    "birth_date": "07-10-1973",
 
@@ -1397,7 +1397,7 @@
 {
    "id": 139,
    "last_name": "Kewell",
-   "img": "/football/img/players/Kewell.webp",
+   "img": "/Football/img/players/Kewell.webp",
    "full_name": "Harry Kewell",
    "birth_date": "22-09-1978",
 
@@ -1410,7 +1410,7 @@
 {
    "id": 140,
    "last_name": "D Cisse",
-   "img": "/football/img/players/D Cisse.webp",
+   "img": "/Football/img/players/D Cisse.webp",
    "full_name": "Djibril Cisse",
    "birth_date": "12-08-1981",
 
@@ -1423,7 +1423,7 @@
 {
    "id": 141,
    "last_name": "Hamann",
-   "img": "/football/img/players/Hamann.webp",
+   "img": "/Football/img/players/Hamann.webp",
    "full_name": "Dietmar Hamann",
    "birth_date": "27-08-1973",
 
@@ -1436,7 +1436,7 @@
 {
    "id": 142,
    "last_name": "Podolski",
-   "img": "/football/img/players/Podolski.webp",
+   "img": "/Football/img/players/Podolski.webp",
    "full_name": "Lukas Podolski",
    "birth_date": "04-06-1985",
 
@@ -1449,7 +1449,7 @@
 {
    "id": 144,
    "last_name": "Carragher",
-   "img": "/football/img/players/Carragher.webp",
+   "img": "/Football/img/players/Carragher.webp",
    "full_name": "Jamie Carragher",
    "birth_date": "28-01-1978",
 
@@ -1462,7 +1462,7 @@
 {
    "id": 146,
    "last_name": "Anelka",
-   "img": "/football/img/players/Anelka.webp",
+   "img": "/Football/img/players/Anelka.webp",
    "full_name": "Nicolas Anelka",
    "birth_date": "14-03-1979",
 
@@ -1475,7 +1475,7 @@
 {
    "id": 148,
    "last_name": "Ro Keane",
-   "img": "/football/img/players/Ro Keane.webp",
+   "img": "/Football/img/players/Ro Keane.webp",
    "full_name": "Robbie Keane",
    "birth_date": "08-07-1980",
 
@@ -1488,7 +1488,7 @@
 {
    "id": 149,
    "last_name": "G Silva",
-   "img": "/football/img/players/G Silva.webp",
+   "img": "/Football/img/players/G Silva.webp",
    "full_name": "Gilberto Silva",
    "birth_date": "07-10-1976",
 
@@ -1501,7 +1501,7 @@
 {
    "id": 150,
    "last_name": "Cudicini",
-   "img": "/football/img/players/Cudicini.webp",
+   "img": "/Football/img/players/Cudicini.webp",
    "full_name": "Carlo Cudicini",
    "birth_date": "06-09-1973",
 
@@ -1514,7 +1514,7 @@
 {
    "id": 152,
    "last_name": "Gallas",
-   "img": "/football/img/players/Gallas.webp",
+   "img": "/Football/img/players/Gallas.webp",
    "full_name": "William Gallas",
    "birth_date": "17-08-1977",
 
@@ -1527,7 +1527,7 @@
 {
    "id": 153,
    "last_name": "Crouch",
-   "img": "/football/img/players/Crouch.webp",
+   "img": "/Football/img/players/Crouch.webp",
    "full_name": "Peter Crouch",
    "birth_date": "30-01-1981",
 
@@ -1540,7 +1540,7 @@
 {
    "id": 154,
    "last_name": "Rosicky",
-   "img": "/football/img/players/Rosicky.webp",
+   "img": "/Football/img/players/Rosicky.webp",
    "full_name": "Tomas Rosicky",
    "birth_date": "04-10-1980",
 
@@ -1553,7 +1553,7 @@
 {
    "id": 155,
    "last_name": "L Toni",
-   "img": "/football/img/players/L Toni.webp",
+   "img": "/Football/img/players/L Toni.webp",
    "full_name": "Luca Toni",
    "birth_date": "26-05-1977",
 
@@ -1566,7 +1566,7 @@
 {
    "id": 156,
    "last_name": "Barzagli",
-   "img": "/football/img/players/Barzagli.webp",
+   "img": "/Football/img/players/Barzagli.webp",
    "full_name": "Andrea Barzagli",
    "birth_date": "08-05-1981",
 
@@ -1579,7 +1579,7 @@
 {
    "id": 157,
    "last_name": "Oddo",
-   "img": "/football/img/players/Oddo.webp",
+   "img": "/Football/img/players/Oddo.webp",
    "full_name": "Massimo Oddo",
    "birth_date": "14-06-1976",
 
@@ -1592,7 +1592,7 @@
 {
    "id": 158,
    "last_name": "Grosso",
-   "img": "/football/img/players/Grosso.webp",
+   "img": "/Football/img/players/Grosso.webp",
    "full_name": "Fabio Grosso",
    "birth_date": "28-11-1977",
 
@@ -1605,7 +1605,7 @@
 {
    "id": 159,
    "last_name": "Materazzi",
-   "img": "/football/img/players/Materazzi.webp",
+   "img": "/Football/img/players/Materazzi.webp",
    "full_name": "Marco Materazzi",
    "birth_date": "19-08-1973",
 
@@ -1618,7 +1618,7 @@
 {
    "id": 160,
    "last_name": "Perrotta",
-   "img": "/football/img/players/Perrotta.webp",
+   "img": "/Football/img/players/Perrotta.webp",
    "full_name": "Simone Perrotta",
    "birth_date": "17-09-1977",
 
@@ -1631,7 +1631,7 @@
 {
    "id": 161,
    "last_name": "Quagliarella",
-   "img": "/football/img/players/Quagliarella.webp",
+   "img": "/Football/img/players/Quagliarella.webp",
    "full_name": "Fabio Quagliarella",
    "birth_date": "31-01-1983",
 
@@ -1644,7 +1644,7 @@
 {
    "id": 162,
    "last_name": "Peruzzi",
-   "img": "/football/img/players/Peruzzi.webp",
+   "img": "/Football/img/players/Peruzzi.webp",
    "full_name": "Angelo Peruzzi",
    "birth_date": "16-02-1970",
 
@@ -1657,7 +1657,7 @@
 {
    "id": 165,
    "last_name": "Iaquinta",
-   "img": "/football/img/players/Iaquinta.webp",
+   "img": "/Football/img/players/Iaquinta.webp",
    "full_name": "Vincenzo Iaquinta",
    "birth_date": "21-11-1979",
 
@@ -1670,7 +1670,7 @@
 {
    "id": 166,
    "last_name": "S Inzaghi",
-   "img": "/football/img/players/S Inzaghi.webp",
+   "img": "/Football/img/players/S Inzaghi.webp",
    "full_name": "Simone Inzaghi",
    "birth_date": "05-04-1976",
 
@@ -1683,7 +1683,7 @@
 {
    "id": 167,
    "last_name": "Camoranesi",
-   "img": "/football/img/players/Camoranesi.webp",
+   "img": "/Football/img/players/Camoranesi.webp",
    "full_name": "Mauro Camoranesi",
    "birth_date": "04-10-1976",
 
@@ -1696,7 +1696,7 @@
 {
    "id": 168,
    "last_name": "Panucci",
-   "img": "/football/img/players/Panucci.webp",
+   "img": "/Football/img/players/Panucci.webp",
    "full_name": "Christian Panucci",
    "birth_date": "12-04-1973",
 
@@ -1709,7 +1709,7 @@
 {
    "id": 170,
    "last_name": "Pessotto",
-   "img": "/football/img/players/Pessotto.webp",
+   "img": "/Football/img/players/Pessotto.webp",
    "full_name": "Gianluca Pessotto",
    "birth_date": "11-08-1970",
 
@@ -1722,7 +1722,7 @@
 {
    "id": 172,
    "last_name": "Tudor",
-   "img": "/football/img/players/Tudor.webp",
+   "img": "/Football/img/players/Tudor.webp",
    "full_name": "Igor Tudor",
    "birth_date": "16-04-1978",
 
@@ -1735,7 +1735,7 @@
 {
    "id": 173,
    "last_name": "Jankulovski",
-   "img": "/football/img/players/Jankulovski.webp",
+   "img": "/Football/img/players/Jankulovski.webp",
    "full_name": "Marek Jankulovski",
    "birth_date": "09-05-1977",
 
@@ -1748,7 +1748,7 @@
 {
   "id": 174,
   "last_name": "F Inzaghi",
-  "img": "/football/img/players/F Inzaghi.webp",
+  "img": "/Football/img/players/F Inzaghi.webp",
   "full_name": "Filippo Inzaghi",
   "birth_date": "09-08-1973",
 
@@ -1761,7 +1761,7 @@
  {
     "id": 175,
     "last_name": "Deco",
-    "img": "/football/img/players/Deco.webp",
+    "img": "/Football/img/players/Deco.webp",
     "full_name": "Anderson Deco",
     "birth_date": "27-08-1977",
 
@@ -1774,7 +1774,7 @@
   {
     "id": 176,
     "last_name": "Forlan",
-    "img": "/football/img/players/Forlan.webp",
+    "img": "/Football/img/players/Forlan.webp",
     "full_name": "Diego Forlan",
     "birth_date": "19-05-1979",
 
@@ -1787,7 +1787,7 @@
   {
     "id": 177,
     "last_name": "Tevez",
-    "img": "/football/img/players/Tevez.webp",
+    "img": "/Football/img/players/Tevez.webp",
     "full_name": "Carlos Tevez",
     "birth_date": "05-02-1984",
 
@@ -1800,7 +1800,7 @@
   {
     "id": 178,
     "last_name": "R Firmino",
-    "img": "/football/img/players/R Firmino.webp",
+    "img": "/Football/img/players/R Firmino.webp",
     "full_name": "Roberto Firmino",
     "birth_date": "02-10-1991",
 
@@ -1813,7 +1813,7 @@
   {
     "id": 179,
     "last_name": "Isco",
-    "img": "/football/img/players/Isco.webp",
+    "img": "/Football/img/players/Isco.webp",
     "full_name": "Isco Alarcon",
     "birth_date": "21-04-1992",
 
@@ -1826,7 +1826,7 @@
   {
     "id": 180,
     "last_name": "Vidal",
-    "img": "/football/img/players/Vidal.webp",
+    "img": "/Football/img/players/Vidal.webp",
     "full_name": "Arturo Vidal",
     "birth_date": "22-05-1987",
 
@@ -1839,7 +1839,7 @@
   {
     "id": 181,
     "last_name": "Parejo",
-    "img": "/football/img/players/Parejo.webp",
+    "img": "/Football/img/players/Parejo.webp",
     "full_name": "Daniel Parejo",
     "birth_date": "16-04-1989",
 
@@ -1852,7 +1852,7 @@
   {
     "id": 182,
     "last_name": "J Rodriguez",
-    "img": "/football/img/players/J Rodriguez.webp",
+    "img": "/Football/img/players/J Rodriguez.webp",
     "full_name": "James Rodriguez",
     "birth_date": "12-07-1991",
 
@@ -1865,7 +1865,7 @@
   {
     "id": 185,
     "last_name": "Gnabry",
-    "img": "/football/img/players/Gnabry.webp",
+    "img": "/Football/img/players/Gnabry.webp",
     "full_name": "Serge Gnabry",
     "birth_date": "14-07-1995",
 
@@ -1878,7 +1878,7 @@
   {
     "id": 186,
     "last_name": "Ziyech",
-    "img": "/football/img/players/Ziyech.webp",
+    "img": "/Football/img/players/Ziyech.webp",
     "full_name": "Hakim Ziyech",
     "birth_date": "19-03-1993",
 
@@ -1891,7 +1891,7 @@
   {
     "id": 187,
     "last_name": "Lemar",
-    "img": "/football/img/players/Lemar.webp",
+    "img": "/Football/img/players/Lemar.webp",
     "full_name": "Thomas Lemar",
     "birth_date": "12-11-1995",
 
@@ -1904,7 +1904,7 @@
   {
     "id": 189,
     "last_name": "Mahrez",
-    "img": "/football/img/players/Mahrez.webp",
+    "img": "/Football/img/players/Mahrez.webp",
     "full_name": "Riyad Mahrez",
     "birth_date": "21-02-1991",
 
@@ -1917,7 +1917,7 @@
   {
   "id": 190,
   "last_name": "Rivaldo",
-  "img": "/football/img/players/Rivaldo.webp",
+  "img": "/Football/img/players/Rivaldo.webp",
   "full_name": "Rivaldo",
   "birth_date": "19-04-1972",
 
@@ -1930,7 +1930,7 @@
 {  
   "id": 191,
   "last_name": "Barthez",
-  "img": "/football/img/players/Barthez.webp",
+  "img": "/Football/img/players/Barthez.webp",
   "full_name": "Fabien Barthez",
   "birth_date": "28-06-1971",
 
@@ -1943,7 +1943,7 @@
 {
   "id": 192,
   "last_name": "Denilson",
-  "img": "/football/img/players/Denilson.webp",
+  "img": "/Football/img/players/Denilson.webp",
   "full_name": "Denilson de Oliveira",
   "birth_date": "24-08-1977",
 
@@ -1956,7 +1956,7 @@
 {
   "id": 193,
   "last_name": "A Pele",
-  "img": "/football/img/players/A Pele.webp",
+  "img": "/Football/img/players/A Pele.webp",
   "full_name": "Abedi Pele",
   "birth_date": "05-11-1964",
 
@@ -1969,7 +1969,7 @@
 {
   "id": 194,
   "last_name": "Vialli",
-  "img": "/football/img/players/Vialli.webp",
+  "img": "/Football/img/players/Vialli.webp",
   "full_name": "Gianluca Vialli",
   "birth_date": "09-07-1964",
 
@@ -1982,7 +1982,7 @@
 {
   "id": 195,
   "last_name": "Schmeichel",
-  "img": "/football/img/players/Schmeichel.webp",
+  "img": "/Football/img/players/Schmeichel.webp",
   "full_name": "Peter Schmeichel",
   "birth_date": "18-11-1963",
 
@@ -1995,7 +1995,7 @@
 {
   "id": 196,
   "last_name": "Bergkamp",
-  "img": "/football/img/players/Bergkamp.webp",
+  "img": "/Football/img/players/Bergkamp.webp",
   "full_name": "Dennis Bergkamp",
   "birth_date": "10-05-1969",
 
@@ -2008,7 +2008,7 @@
 {
   "id": 198,
   "last_name": "Klinsmann",
-  "img": "/football/img/players/Klinsmann.webp",
+  "img": "/Football/img/players/Klinsmann.webp",
   "full_name": "Jurgen Klinsmann",
   "birth_date": "30-07-1964",
 
@@ -2021,7 +2021,7 @@
 {
   "id": 199,
   "last_name": "Lineker",
-  "img": "/football/img/players/Lineker.webp",
+  "img": "/Football/img/players/Lineker.webp",
   "full_name": "Gary Lineker",
   "birth_date": "30-11-1960",
 
@@ -2034,7 +2034,7 @@
 {
   "id": 200,
   "last_name": "Shearer",
-  "img": "/football/img/players/Shearer.webp",
+  "img": "/Football/img/players/Shearer.webp",
   "full_name": "Alan Shearer",
   "birth_date": "13-08-1970",
 
@@ -2047,7 +2047,7 @@
 {
   "id": 201,
   "last_name": "J Cesar",
-  "img": "/football/img/players/J Cesar.webp",
+  "img": "/Football/img/players/J Cesar.webp",
   "full_name": "Julio Cesar",
   "birth_date": "03-09-1979",
 
@@ -2060,7 +2060,7 @@
 {
   "id": 202,
   "last_name": "Bebeto",
-  "img": "/football/img/players/Bebeto.webp",
+  "img": "/Football/img/players/Bebeto.webp",
   "full_name": "Jose Bebeto",
   "birth_date": "16-02-1964",
 
@@ -2073,7 +2073,7 @@
 {
   "id": 203,
   "last_name": "Dunga",
-  "img": "/football/img/players/Dunga.webp",
+  "img": "/Football/img/players/Dunga.webp",
   "full_name": "Carlos Dunga",
   "birth_date": "31-10-1963",
 
@@ -2086,7 +2086,7 @@
 {
   "id": 204,
   "last_name": "Eusebio",
-  "img": "/football/img/players/Eusebio.webp",
+  "img": "/Football/img/players/Eusebio.webp",
   "full_name": "Eusébio da Silva",
   "birth_date": "25-01-1942",
 
@@ -2099,7 +2099,7 @@
 {
   "id": 205,
   "last_name": "Zico",
-  "img": "/football/img/players/Zico.webp",
+  "img": "/Football/img/players/Zico.webp",
   "full_name": "Arthur Zico",
   "birth_date": "03-03-1953",
 
@@ -2112,7 +2112,7 @@
   {
     "id": 206,
     "last_name": "Guardiola",
-    "img": "/football/img/players/Guardiola.webp",
+    "img": "/Football/img/players/Guardiola.webp",
     "full_name": "Pep Guardiola",
     "birth_date": "18-01-1971",
 
@@ -2125,7 +2125,7 @@
   {
     "id": 207,
     "last_name": "Laudrup",
-    "img": "/football/img/players/Laudrup.webp",
+    "img": "/Football/img/players/Laudrup.webp",
     "full_name": "Michael Laudrup",
     "birth_date": "15-06-1964",
 
@@ -2138,7 +2138,7 @@
   {
     "id": 208,
     "last_name": "R Koeman",
-    "img": "/football/img/players/R Koeman.webp",
+    "img": "/Football/img/players/R Koeman.webp",
     "full_name": "Ronald Koeman",
     "birth_date": "21-03-1963",
 
@@ -2151,7 +2151,7 @@
   {
     "id": 210,
     "last_name": "L Enrique",
-    "img": "/football/img/players/L Enrique.webp",
+    "img": "/Football/img/players/L Enrique.webp",
     "full_name": "Luis Enrique",
     "birth_date": "08-05-1970",
 
@@ -2164,7 +2164,7 @@
   {
     "id": 212,
     "last_name": "Cantona",
-    "img": "/football/img/players/Cantona.webp",
+    "img": "/Football/img/players/Cantona.webp",
     "full_name": "Eric Cantona",
     "birth_date": "24-05-1966",
 
@@ -2177,7 +2177,7 @@
   {
     "id": 213,
     "last_name": "Solskjaer",
-    "img": "/football/img/players/Solskjaer.webp",
+    "img": "/Football/img/players/Solskjaer.webp",
     "full_name": "Ole Gunnar Solskjær",
     "birth_date": "26-02-1973",
 
@@ -2190,7 +2190,7 @@
   {
     "id": 214,
     "last_name": "Yorke",
-    "img": "/football/img/players/Yorke.webp",
+    "img": "/Football/img/players/Yorke.webp",
     "full_name": "Dwight Yorke",
     "birth_date": "03-11-1971",
 
@@ -2203,7 +2203,7 @@
   {
     "id": 215,
     "last_name": "An Cole",
-    "img": "/football/img/players/An Cole.webp",
+    "img": "/Football/img/players/An Cole.webp",
     "full_name": "Andy Cole",
     "birth_date": "15-10-1971",
 
@@ -2216,7 +2216,7 @@
   {
     "id": 216,
     "last_name": "Sheringham",
-    "img": "/football/img/players/Sheringham.webp",
+    "img": "/Football/img/players/Sheringham.webp",
     "full_name": "Teddy Sheringham",
     "birth_date": "02-04-1966",
 
@@ -2229,7 +2229,7 @@
   {
     "id": 217,
     "last_name": "Stam",
-    "img": "/football/img/players/Stam.webp",
+    "img": "/Football/img/players/Stam.webp",
     "full_name": "Jaap Stam",
     "birth_date": "17-07-1972",
 
@@ -2242,7 +2242,7 @@
   {
     "id": 218,
     "last_name": "Berbatov",
-    "img": "/football/img/players/Berbatov.webp",
+    "img": "/Football/img/players/Berbatov.webp",
     "full_name": "Dimitar Berbatov",
     "birth_date": "30-01-1981",
 
@@ -2255,7 +2255,7 @@
   {
     "id": 219,
     "last_name": "F de Boer",
-    "img": "/football/img/players/F de Boer.webp",
+    "img": "/Football/img/players/F de Boer.webp",
     "full_name": "Frank de Boer",
     "birth_date": "15-05-1970",
 
@@ -2268,7 +2268,7 @@
   {
     "id": 220,
     "last_name": "R de Boer",
-    "img": "/football/img/players/R de Boer.webp",
+    "img": "/Football/img/players/R de Boer.webp",
     "full_name": "Ronald de Boer",
     "birth_date": "15-05-1970",
 
@@ -2281,7 +2281,7 @@
   {
     "id": 221,
     "last_name": "Ze Roberto",
-    "img": "/football/img/players/Ze Roberto.webp",
+    "img": "/Football/img/players/Ze Roberto.webp",
     "full_name": "Ze Roberto",
     "birth_date": "06-07-1974",
 
@@ -2294,7 +2294,7 @@
   {
     "id": 222,
     "last_name": "Leonardo",
-    "img": "/football/img/players/Leonardo.webp",
+    "img": "/Football/img/players/Leonardo.webp",
     "full_name": "Leonardo Nascimento",
     "birth_date": "05-09-1969",
 
@@ -2307,7 +2307,7 @@
   {
     "id": 223,
     "last_name": "Montero",
-    "img": "/football/img/players/Montero.webp",
+    "img": "/Football/img/players/Montero.webp",
     "full_name": "Paolo Montero",
     "birth_date": "03-09-1971",
 
@@ -2320,7 +2320,7 @@
   {
     "id": 224,
     "last_name": "Ferrara",
-    "img": "/football/img/players/Ferrara.webp",
+    "img": "/Football/img/players/Ferrara.webp",
     "full_name": "Ciro Ferrara",
     "birth_date": "11-02-1967",
 
@@ -2333,7 +2333,7 @@
   {
     "id": 225,
     "last_name": "A Conte",
-    "img": "/football/img/players/A Conte.webp",
+    "img": "/Football/img/players/A Conte.webp",
     "full_name": "Antonio Conte",
     "birth_date": "31-07-1969",
 
@@ -2346,7 +2346,7 @@
   {
     "id": 226,
     "last_name": "Carvalho",
-    "img": "/football/img/players/Carvalho.webp",
+    "img": "/Football/img/players/Carvalho.webp",
     "full_name": "Ricardo Carvalho",
     "birth_date": "18-05-1978",
 
@@ -2359,7 +2359,7 @@
   {
     "id": 227,
     "last_name": "Ivanovic",
-    "img": "/football/img/players/Ivanovic.webp",
+    "img": "/Football/img/players/Ivanovic.webp",
     "full_name": "Branislav Ivanovic",
     "birth_date": "22-02-1984",
 
@@ -2372,7 +2372,7 @@
   {
     "id": 228,
     "last_name": "J Cole",
-    "img": "/football/img/players/J Cole.webp",
+    "img": "/Football/img/players/J Cole.webp",
     "full_name": "Joe Cole",
     "birth_date": "08-11-1981",
 
@@ -2385,7 +2385,7 @@
   {
     "id": 229,
     "last_name": "Gudjohnsen",
-    "img": "/football/img/players/Gudjohnsen.webp",
+    "img": "/Football/img/players/Gudjohnsen.webp",
     "full_name": "Eidur Guðjohnsen",
     "birth_date": "15-09-1978",
 
@@ -2398,7 +2398,7 @@
   {
     "id": 231,
     "last_name": "Malouda",
-    "img": "/football/img/players/Malouda.webp",
+    "img": "/Football/img/players/Malouda.webp",
     "full_name": "Florent Malouda",
     "birth_date": "13-06-1980",
 
@@ -2411,7 +2411,7 @@
   {
     "id": 232,
     "last_name": "Hasselbaink",
-    "img": "/football/img/players/Hasselbaink.webp",
+    "img": "/Football/img/players/Hasselbaink.webp",
     "full_name": "Jimmy F Hasselbaink",
     "birth_date": "27-03-1972",
 
@@ -2424,7 +2424,7 @@
   {
     "id": 233,
     "last_name": "Quaresma",
-    "img": "/football/img/players/Quaresma.webp",
+    "img": "/Football/img/players/Quaresma.webp",
     "full_name": "Ricardo Quaresma",
     "birth_date": "26-09-1983",
 
@@ -2437,7 +2437,7 @@
   {
     "id": 234,
     "last_name": "P Ferreira",
-    "img": "/football/img/players/P Ferreira.webp",
+    "img": "/Football/img/players/P Ferreira.webp",
     "full_name": "Paulo Ferreira",
     "birth_date": "18-01-1979",
 
@@ -2450,7 +2450,7 @@
    {
     "id": 235,
     "last_name": "T Adams",
-    "img": "/football/img/players/T Adams.webp",
+    "img": "/Football/img/players/T Adams.webp",
     "full_name": "Tony Adams",
     "birth_date": "10-10-1966",
 
@@ -2463,7 +2463,7 @@
   {
     "id": 236,
     "last_name": "I Wright",
-    "img": "/football/img/players/I Wright.webp",
+    "img": "/Football/img/players/I Wright.webp",
     "full_name": "Ian Wright",
     "birth_date": "03-11-1963",
 
@@ -2476,7 +2476,7 @@
   {
     "id": 237,
     "last_name": "Overmars",
-    "img": "/football/img/players/Overmars.webp",
+    "img": "/Football/img/players/Overmars.webp",
     "full_name": "Marc Overmars",
     "birth_date": "29-03-1973",
 
@@ -2489,7 +2489,7 @@
   {
     "id": 238,
     "last_name": "Seaman",
-    "img": "/football/img/players/Seaman.webp",
+    "img": "/Football/img/players/Seaman.webp",
     "full_name": "David Seaman",
     "birth_date": "19-09-1963",
 
@@ -2502,7 +2502,7 @@
   {
     "id": 239,
     "last_name": "K Toure",
-    "img": "/football/img/players/K Toure.webp",
+    "img": "/Football/img/players/K Toure.webp",
     "full_name": "Kolo Toure",
     "birth_date": "19-03-1981",
 
@@ -2515,7 +2515,7 @@
   {
     "id": 240,
     "last_name": "Walcott",
-    "img": "/football/img/players/Walcott.webp",
+    "img": "/Football/img/players/Walcott.webp",
     "full_name": "Theo Walcott",
     "birth_date": "16-03-1989",
 
@@ -2528,7 +2528,7 @@
   {
     "id": 242,
     "last_name": "Djorkaeff",
-    "img": "/football/img/players/Djorkaeff.webp",
+    "img": "/Football/img/players/Djorkaeff.webp",
     "full_name": "Youri Djorkaeff",
     "birth_date": "09-03-1968",
 
@@ -2541,7 +2541,7 @@
   {
     "id": 243,
     "last_name": "Recoba",
-    "img": "/football/img/players/Recoba.webp",
+    "img": "/Football/img/players/Recoba.webp",
     "full_name": "Alvaro Recoba",
     "birth_date": "17-03-1976",
 
@@ -2554,7 +2554,7 @@
   {
     "id": 244,
     "last_name": "Pauleta",
-    "img": "/football/img/players/Pauleta.webp",
+    "img": "/Football/img/players/Pauleta.webp",
     "full_name": "Pedro Pauleta",
     "birth_date": "28-04-1973",
 
@@ -2567,7 +2567,7 @@
   {
     "id": 245,
     "last_name": "Di Vaio",
-    "img": "/football/img/players/Di Vaio.webp",
+    "img": "/Football/img/players/Di Vaio.webp",
     "full_name": "Marco Di Vaio",
     "birth_date": "15-07-1976",
 
@@ -2580,7 +2580,7 @@
   {
     "id": 246,
     "last_name": "Rijkaard",
-    "img": "/football/img/players/Rijkaard.webp",
+    "img": "/Football/img/players/Rijkaard.webp",
     "full_name": "Frank Rijkaard",
     "birth_date": "30-09-1962",
 
@@ -2593,7 +2593,7 @@
   {
     "id": 247,
     "last_name": "Babel",
-    "img": "/football/img/players/Babel.webp",
+    "img": "/Football/img/players/Babel.webp",
     "full_name": "Ryan Babel",
     "birth_date": "19-12-1986",
 
@@ -2606,7 +2606,7 @@
   {
     "id": 248,
     "last_name": "Stekelenburg",
-    "img": "/football/img/players/Stekelenburg.webp",
+    "img": "/Football/img/players/Stekelenburg.webp",
     "full_name": "M Stekelenburg",
     "birth_date": "22-09-1982",
 
@@ -2619,7 +2619,7 @@
   {
     "id": 249,
     "last_name": "L Gonzalez",
-    "img": "/football/img/players/L Gonzalez.webp",
+    "img": "/Football/img/players/L Gonzalez.webp",
     "full_name": "Lucho Gonzalez",
     "birth_date": "19-01-1981",
 
@@ -2632,7 +2632,7 @@
   {
     "id": 250,
     "last_name": "Simao",
-    "img": "/football/img/players/Simao.webp",
+    "img": "/Football/img/players/Simao.webp",
     "full_name": "Simao Sabrosa",
     "birth_date": "31-10-1979",
 
@@ -2645,7 +2645,7 @@
   {
     "id": 253,
     "last_name": "Pedro",
-    "img": "/football/img/players/Pedro.webp",
+    "img": "/Football/img/players/Pedro.webp",
     "full_name": "Pedro Rodriguez",
     "birth_date": "28-07-1987",
 
@@ -2658,7 +2658,7 @@
   {
     "id": 254,
     "last_name": "M Richards",
-    "img": "/football/img/players/M Richards.webp",
+    "img": "/Football/img/players/M Richards.webp",
     "full_name": "Micah Richards",
     "birth_date": "24-06-1988",
 
@@ -2671,7 +2671,7 @@
   {
     "id": 256,
     "last_name": "C Bravo",
-    "img": "/football/img/players/C Bravo.webp",
+    "img": "/Football/img/players/C Bravo.webp",
     "full_name": "Claudio Bravo",
     "birth_date": "13-04-1983",
 
@@ -2684,7 +2684,7 @@
   {
     "id": 257,
     "last_name": "D James",
-    "img": "/football/img/players/D James.webp",
+    "img": "/Football/img/players/D James.webp",
     "full_name": "David James",
     "birth_date": "01-08-1970",
 
@@ -2697,7 +2697,7 @@
   {
     "id": 258,
     "last_name": "S Wright-P",
-    "img": "/football/img/players/S Wright-P.webp",
+    "img": "/Football/img/players/S Wright-P.webp",
     "full_name": "Shaun Wright-P",
     "birth_date": "25-10-1981",
 
@@ -2710,7 +2710,7 @@
   {
     "id": 260,
     "last_name": "Gascoigne",
-    "img": "/football/img/players/Gascoigne.webp",
+    "img": "/Football/img/players/Gascoigne.webp",
     "full_name": "Paul Gascoigne",
     "birth_date": "27-05-1967",
 
@@ -2723,7 +2723,7 @@
   {
     "id": 261,
     "last_name": "Defoe",
-    "img": "/football/img/players/Defoe.webp",
+    "img": "/Football/img/players/Defoe.webp",
     "full_name": "Jermain Defoe",
     "birth_date": "07-10-1982",
 
@@ -2736,7 +2736,7 @@
   {
     "id": 262,
     "last_name": "Trippier",
-    "img": "/football/img/players/Trippier.webp",
+    "img": "/Football/img/players/Trippier.webp",
     "full_name": "Kieran Trippier",
     "birth_date": "19-09-1990",
 
@@ -2749,7 +2749,7 @@
   {
     "id": 263,
     "last_name": "L Blanc",
-    "img": "/football/img/players/L Blanc.webp",
+    "img": "/Football/img/players/L Blanc.webp",
     "full_name": "Laurent Blanc",
     "birth_date": "19-11-1965",
 
@@ -2762,7 +2762,7 @@
   {
     "id": 265,
     "last_name": "Lavezzi",
-    "img": "/football/img/players/Lavezzi.webp",
+    "img": "/Football/img/players/Lavezzi.webp",
     "full_name": "Ezequiel Lavezzi",
     "birth_date": "03-05-1985",
 
@@ -2775,7 +2775,7 @@
   {
     "id": 266,
     "last_name": "P Cannavaro",
-    "img": "/football/img/players/P Cannavaro.webp",
+    "img": "/Football/img/players/P Cannavaro.webp",
     "full_name": "Paolo Cannavaro",
     "birth_date": "13-06-1981",
 
@@ -2788,7 +2788,7 @@
   {
   "id": 267,
   "last_name": "Nasri",
-  "img": "/football/img/players/Nasri.webp",
+  "img": "/Football/img/players/Nasri.webp",
   "full_name": "Samir Nasri",
   "team": "Retired",
   "nationality": "France",
@@ -2798,7 +2798,7 @@
   {
     "id": 268,
     "last_name": "Arbeloa",
-    "img": "/football/img/players/Arbeloa.webp",
+    "img": "/Football/img/players/Arbeloa.webp",
     "full_name": "Alvaro Arbeloa",
     "team": "Retired",
     "nationality": "Spain",
@@ -2808,7 +2808,7 @@
   {
     "id": 269,
     "last_name": "Karembeu",
-    "img": "/football/img/players/Karembeu.webp",
+    "img": "/Football/img/players/Karembeu.webp",
     "full_name": "Christian Karembeu",
     "team": "Retired",
     "nationality": "France",
@@ -2818,7 +2818,7 @@
   {
     "id": 270,
     "last_name": "Morientes",
-    "img": "/football/img/players/Morientes.webp",
+    "img": "/Football/img/players/Morientes.webp",
     "full_name": "Fernando Morientes",
     "team": "Retired",
     "nationality": "Spain",
@@ -2828,7 +2828,7 @@
 {
   "id": 271,
   "last_name": "Salgado",
-  "img": "/football/img/players/Salgado.webp",
+  "img": "/Football/img/players/Salgado.webp",
   "full_name": "Michel Salgado",
   "team": "Retired",
   "nationality": "Spain",
@@ -2838,7 +2838,7 @@
 {
   "id": 272,
   "last_name": "Guti",
-  "img": "/football/img/players/Guti.webp",
+  "img": "/Football/img/players/Guti.webp",
   "full_name": "Jose Maria Guti",
   "team": "Retired",
   "nationality": "Spain",
@@ -2848,7 +2848,7 @@
 {
   "id": 273,
   "last_name": "H Sanchez",
-  "img": "/football/img/players/H Sanchez.webp",
+  "img": "/Football/img/players/H Sanchez.webp",
   "full_name": "Hugo Sanchez",
   "team": "Retired",
   "nationality": "Mexico",
@@ -2858,7 +2858,7 @@
 {
   "id": 274,
   "last_name": "J Navas",
-  "img": "/football/img/players/J Navas.webp",
+  "img": "/Football/img/players/J Navas.webp",
   "full_name": "Jesus Navas",
   "team": "Sevilla",
   "nationality": "Spain",
@@ -2868,7 +2868,7 @@
 {
   "id": 276,
   "last_name": "Sagnol",
-  "img": "/football/img/players/Sagnol.webp",
+  "img": "/Football/img/players/Sagnol.webp",
   "full_name": "Willy Sagnol",
   "team": "Retired",
   "nationality": "France",
@@ -2878,7 +2878,7 @@
 {
   "id": 277,
   "last_name": "Hargreaves",
-  "img": "/football/img/players/Hargreaves.webp",
+  "img": "/Football/img/players/Hargreaves.webp",
   "full_name": "Owen Hargreaves",
   "team": "Retired",
   "nationality": "England",
@@ -2888,7 +2888,7 @@
 {
   "id": 278,
   "last_name": "Rummenigge",
-  "img": "/football/img/players/Rummenigge.webp",
+  "img": "/Football/img/players/Rummenigge.webp",
   "full_name": "Karl-H Rummenigge",
   "team": "Retired",
   "nationality": "Germany",
@@ -2898,7 +2898,7 @@
 {
   "id": 279,
   "last_name": "Umtiti",
-  "img": "/football/img/players/Umtiti.webp",
+  "img": "/Football/img/players/Umtiti.webp",
   "full_name": "Samuel Umtiti",
   "team": "Lille",
   "nationality": "France",
@@ -2908,7 +2908,7 @@
 {
   "id": 280,
   "last_name": "S Keita",
-  "img": "/football/img/players/S Keita.webp",
+  "img": "/Football/img/players/S Keita.webp",
   "full_name": "Seydou Keita",
   "team": "Retired",
   "nationality": "Mali",
@@ -2918,7 +2918,7 @@
 {
   "id": 281,
   "last_name": "Rakitic",
-  "img": "/football/img/players/Rakitic.webp",
+  "img": "/Football/img/players/Rakitic.webp",
   "full_name": "Ivan Rakitic",
   "team": "Sevilla",
   "nationality": "Croatia",
@@ -2928,7 +2928,7 @@
 {
   "id": 282,
   "last_name": "Eto'o",
-  "img": "/football/img/players/Eto'o.webp",
+  "img": "/Football/img/players/Eto'o.webp",
   "full_name": "Samuel Eto'o",
   "team": "Retired",
   "nationality": "Cameroon",
@@ -2938,7 +2938,7 @@
 {
   "id": 283,
   "last_name": "Stoichkov",
-  "img": "/football/img/players/Stoichkov.webp",
+  "img": "/Football/img/players/Stoichkov.webp",
   "full_name": "Hristo Stoichkov",
   "team": "Retired",
   "nationality": "Bulgaria",
@@ -2948,7 +2948,7 @@
 {
   "id": 284,
   "last_name": "Arshavin",
-  "img": "/football/img/players/Arshavin.webp",
+  "img": "/Football/img/players/Arshavin.webp",
   "full_name": "Andrey Arshavin",
   "team": "Retired",
   "nationality": "Russia",
@@ -2958,7 +2958,7 @@
 {
   "id": 286,
   "last_name": "Arteta",
-  "img": "/football/img/players/Arteta.webp",
+  "img": "/Football/img/players/Arteta.webp",
   "full_name": "Mikel Arteta",
   "team": "Retired",
   "nationality": "Spain",
@@ -2968,7 +2968,7 @@
 {
   "id": 287,
   "last_name": "Hleb",
-  "img": "/football/img/players/Hleb.webp",
+  "img": "/Football/img/players/Hleb.webp",
   "full_name": "Alex Hleb",
   "team": "Retired",
   "nationality": "Belarus",
@@ -2978,7 +2978,7 @@
 {
   "id": 288,
   "last_name": "E Petit",
-  "img": "/football/img/players/E Petit.webp",
+  "img": "/Football/img/players/E Petit.webp",
   "full_name": "Emmanuel Petit",
   "team": "Retired",
   "nationality": "France",
@@ -2988,7 +2988,7 @@
 {
   "id": 289,
   "last_name": "Skrtel",
-  "img": "/football/img/players/Skrtel.webp",
+  "img": "/Football/img/players/Skrtel.webp",
   "full_name": "Martin Skrtel",
   "team": "Retired",
   "nationality": "Slovakia",
@@ -2998,7 +2998,7 @@
 {
   "id": 290,
   "last_name": "G Johnson",
-  "img": "/football/img/players/G Johnson.webp",
+  "img": "/Football/img/players/G Johnson.webp",
   "full_name": "Glen Johnson",
   "team": "Retired",
   "nationality": "England",
@@ -3008,7 +3008,7 @@
 {
   "id": 291,
   "last_name": "Kuyt",
-  "img": "/football/img/players/Kuyt.webp",
+  "img": "/Football/img/players/Kuyt.webp",
   "full_name": "Dirk Kuyt",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -3018,7 +3018,7 @@
 {
   "id": 292,
   "last_name": "Dalglish",
-  "img": "/football/img/players/Dalglish.webp",
+  "img": "/Football/img/players/Dalglish.webp",
   "full_name": "Kenny Dalglish",
   "team": "Retired",
   "nationality": "Scotland",
@@ -3028,7 +3028,7 @@
 {
   "id": 295,
   "last_name": "Matuidi",
-  "img": "/football/img/players/Matuidi.webp",
+  "img": "/Football/img/players/Matuidi.webp",
   "full_name": "Blaise Matuidi",
   "team": "Retired",
   "nationality": "France",
@@ -3038,7 +3038,7 @@
 {
   "id": 296,
   "last_name": "Heinze",
-  "img": "/football/img/players/Heinze.webp",
+  "img": "/Football/img/players/Heinze.webp",
   "full_name": "Gabriel Heinze",
   "team": "Retired",
   "nationality": "Argentina",
@@ -3048,7 +3048,7 @@
 {
   "id": 297,
   "last_name": "Pastore",
-  "img": "/football/img/players/Pastore.webp",
+  "img": "/Football/img/players/Pastore.webp",
   "full_name": "Javier Pastore",
   "team": "Qatar SC",
   "nationality": "Argentina",
@@ -3058,7 +3058,7 @@
 {
   "id": 298,
   "last_name": "Rai",
-  "img": "/football/img/players/Rai.webp",
+  "img": "/Football/img/players/Rai.webp",
   "full_name": "Rai Souza",
   "team": "Retired",
   "nationality": "Brazil",
@@ -3068,7 +3068,7 @@
 {
   "id": 300,
   "last_name": "Stankovic",
-  "img": "/football/img/players/Stankovic.webp",
+  "img": "/Football/img/players/Stankovic.webp",
   "full_name": "Dejan Stankovic",
   "team": "Retired",
   "nationality": "Serbia",
@@ -3078,7 +3078,7 @@
 {
   "id": 301,
   "last_name": "Zamorano",
-  "img": "/football/img/players/Zamorano.webp",
+  "img": "/Football/img/players/Zamorano.webp",
   "full_name": "Ivan Zamorano",
   "team": "Retired",
   "nationality": "Chile",
@@ -3088,7 +3088,7 @@
 {
   "id": 302,
   "last_name": "Pato",
-  "img": "/football/img/players/A Pato.webp",
+  "img": "/Football/img/players/A Pato.webp",
   "full_name": "Alexandre Pato",
   "team": "Sao Paulo",
   "nationality": "Brazil",
@@ -3098,7 +3098,7 @@
 {
   "id": 303,
   "last_name": "Ambrosini",
-  "img": "/football/img/players/Ambrosini.webp",
+  "img": "/Football/img/players/Ambrosini.webp",
   "full_name": "Massimo Ambrosini",
   "team": "Retired",
   "nationality": "Italy",
@@ -3108,7 +3108,7 @@
 {
   "id": 305,
   "last_name": "Pjanic",
-  "img": "/football/img/players/Pjanic.webp",
+  "img": "/Football/img/players/Pjanic.webp",
   "full_name": "Miralem Pjanic",
   "team": "Sharjah",
   "nationality": "Bosnia",
@@ -3118,7 +3118,7 @@
 {
   "id": 306,
   "last_name": "Aldair",
-  "img": "/football/img/players/Aldair.webp",
+  "img": "/Football/img/players/Aldair.webp",
   "full_name": "Aldair Nascimento",
   "team": "Retired",
   "nationality": "Brazil",
@@ -3128,7 +3128,7 @@
 {
   "id": 307,
   "last_name": "Deschamps",
-  "img": "/football/img/players/Deschamps.webp",
+  "img": "/Football/img/players/Deschamps.webp",
   "full_name": "Didier Deschamps",
   "team": "Retired",
   "nationality": "France",
@@ -3138,7 +3138,7 @@
 {
   "id": 308,
   "last_name": "P Rossi",
-  "img": "/football/img/players/P Rossi.webp",
+  "img": "/Football/img/players/P Rossi.webp",
   "full_name": "Paolo Rossi",
   "team": "Retired",
   "nationality": "Italy",
@@ -3148,7 +3148,7 @@
 {
   "id": 309,
   "last_name": "Richarlison",
-  "img": "/football/img/players/Richarlison.webp",
+  "img": "/Football/img/players/Richarlison.webp",
   "full_name": "Joao Richarlison",
   "team": "Tottenham",
   "nationality": "Brazil",
@@ -3158,7 +3158,7 @@
 {
   "id": 310,
   "last_name": "D Luiz",
-  "img": "/football/img/players/D Luiz.webp",
+  "img": "/Football/img/players/D Luiz.webp",
   "full_name": "David Luiz",
   "team": "Flamengo",
   "nationality": "Brazil",
@@ -3168,7 +3168,7 @@
 {
   "id": 311,
   "last_name": "Taffarel",
-  "img": "/football/img/players/Taffarel.webp",
+  "img": "/Football/img/players/Taffarel.webp",
   "full_name": "Claudio Taffarel",
   "team": "Retired",
   "nationality": "Brazil",
@@ -3178,7 +3178,7 @@
 {
   "id": 312,
   "last_name": "Garrincha",
-  "img": "/football/img/players/Garrincha.webp",
+  "img": "/Football/img/players/Garrincha.webp",
   "full_name": "Manuel Garrincha",
   "team": "Retired",
   "nationality": "Brazil",
@@ -3188,7 +3188,7 @@
 {
   "id": 313,
   "last_name": "Wilshere",
-  "img": "/football/img/players/Wilshere.webp",
+  "img": "/Football/img/players/Wilshere.webp",
   "full_name": "Jack Wilshere",
   "team": "Retired",
   "nationality": "England",
@@ -3198,7 +3198,7 @@
 {
   "id": 314,
   "last_name": "Robson",
-  "img": "/football/img/players/Robson.webp",
+  "img": "/Football/img/players/Robson.webp",
   "full_name": "Bryan Robson",
   "team": "Retired",
   "nationality": "England",
@@ -3208,7 +3208,7 @@
 {
   "id": 315,
   "last_name": "Fekir",
-  "img": "/football/img/players/Fekir.webp",
+  "img": "/Football/img/players/Fekir.webp",
   "full_name": "Nabil Fekir",
   "team": "Real Betis",
   "nationality": "France",
@@ -3218,7 +3218,7 @@
 {
   "id": 316,
   "last_name": "E Can",
-  "img": "/football/img/players/E Can.webp",
+  "img": "/Football/img/players/E Can.webp",
   "full_name": "Emre Can",
   "team": "Dortmund",
   "nationality": "Germany",
@@ -3228,7 +3228,7 @@
 {
   "id": 317,
   "last_name": "Gotze",
-  "img": "/football/img/players/Gotze.webp",
+  "img": "/Football/img/players/Gotze.webp",
   "full_name": "Mario Gotze",
   "team": "Eintracht Frankfurt",
   "nationality": "Germany",
@@ -3238,7 +3238,7 @@
 {
   "id": 318,
   "last_name": "Mertesacker",
-  "img": "/football/img/players/Mertesacker.webp",
+  "img": "/Football/img/players/Mertesacker.webp",
   "full_name": "Per Mertesacker",
   "team": "Retired",
   "nationality": "Germany",
@@ -3248,7 +3248,7 @@
 {
   "id": 319,
   "last_name": "R Mancini",
-  "img": "/football/img/players/R Mancini.webp",
+  "img": "/Football/img/players/R Mancini.webp",
   "full_name": "Roberto Mancini",
   "team": "Retired",
   "nationality": "Italy",
@@ -3258,7 +3258,7 @@
 {
   "id": 321,
   "last_name": "Donadoni",
-  "img": "/football/img/players/Donadoni.webp",
+  "img": "/Football/img/players/Donadoni.webp",
   "full_name": "Roberto Donadoni",
   "team": "Retired",
   "nationality": "Italy",
@@ -3268,7 +3268,7 @@
 {
   "id": 322,
   "last_name": "Zoff",
-  "img": "/football/img/players/Zoff.webp",
+  "img": "/Football/img/players/Zoff.webp",
   "full_name": "Dino Zoff",
   "team": "Retired",
   "nationality": "Italy",
@@ -3278,7 +3278,7 @@
 {
   "id": 323,
   "last_name": "van Bronckhorst",
-  "img": "/football/img/players/van Bronckhorst.webp",
+  "img": "/Football/img/players/van Bronckhorst.webp",
   "full_name": "G van Bronckhorst",
   "team": "Retired",
   "nationality": "Netherlands",
@@ -3288,7 +3288,7 @@
 {
   "id": 324,
   "last_name": "Semedo",
-  "img": "/football/img/players/Semedo.webp",
+  "img": "/Football/img/players/Semedo.webp",
   "full_name": "Nelson Semedo",
   "team": "Wolves",
   "nationality": "Portuguese",
@@ -3298,7 +3298,7 @@
 {
   "id": 325,
   "last_name": "Baia",
-  "img": "/football/img/players/Baia.webp",
+  "img": "/Football/img/players/Baia.webp",
   "full_name": "Vitor Baia",
   "team": "Retired",
   "nationality": "Portugal",
@@ -3308,7 +3308,7 @@
 {
   "id": 326,
   "last_name": "Nani",
-  "img": "/football/img/players/Nani.webp",
+  "img": "/Football/img/players/Nani.webp",
   "full_name": "Luis Nani",
   "team": "Retired",
   "nationality": "Portugal",
@@ -3318,7 +3318,7 @@
 {
   "id": 327,
   "last_name": "N Gomes",
-  "img": "/football/img/players/N Gomes.webp",
+  "img": "/Football/img/players/N Gomes.webp",
   "full_name": "Nuno Gomes",
   "team": "Retired",
   "nationality": "Portugal",
@@ -3328,7 +3328,7 @@
 {
   "id": 328,
   "last_name": "Lizarazu",
-  "img": "/football/img/players/Lizarazu.webp",
+  "img": "/Football/img/players/Lizarazu.webp",
   "full_name": "Bixente Lizarazu",
   "team": "Retired",
   "nationality": "France",
@@ -3338,7 +3338,7 @@
 {
     "id": 329,
     "last_name": "A Mancini",
-    "img": "/football/img/players/A Mancini.webp",
+    "img": "/Football/img/players/A Mancini.webp",
     "full_name": "Alessandro Mancini",
     "team": "Retired",
     "nationality": "Brazil",
@@ -3348,7 +3348,7 @@
   {
     "id": 330,
     "last_name": "Akanji",
-    "img": "/football/img/players/Akanji.webp",
+    "img": "/Football/img/players/Akanji.webp",
     "full_name": "Manuel Akanji",
     "team": "Manchester City",
     "nationality": "Switzerland",
@@ -3358,7 +3358,7 @@
   {
     "id": 331,
     "last_name": "Kovacic",
-    "img": "/football/img/players/Kovacic.webp",
+    "img": "/Football/img/players/Kovacic.webp",
     "full_name": "Mateo Kovacic",
     "team": "Manchester City",
     "nationality": "Croatia",
@@ -3368,7 +3368,7 @@
   {
     "id": 333,
     "last_name": "Ortega",
-    "img": "/football/img/players/Ortega.webp",
+    "img": "/Football/img/players/Ortega.webp",
     "full_name": "Stefan Ortega",
     "team": "Manchester City",
     "nationality": "Germany",
@@ -3378,7 +3378,7 @@
   {
     "id": 334,
     "last_name": "R Lewis",
-    "img": "/football/img/players/R Lewis.webp",
+    "img": "/Football/img/players/R Lewis.webp",
     "full_name": "Rico Lewis",
     "team": "Manchester City",
     "nationality": "England",
@@ -3388,7 +3388,7 @@
   {
     "id": 335,
     "last_name": "F Mendy",
-    "img": "/football/img/players/F Mendy.webp",
+    "img": "/Football/img/players/F Mendy.webp",
     "full_name": "Ferland Mendy",
     "team": "Real Madrid",
     "nationality": "France",
@@ -3398,7 +3398,7 @@
   {
     "id": 336,
     "last_name": "Joselu",
-    "img": "/football/img/players/Joselu.webp",
+    "img": "/Football/img/players/Joselu.webp",
     "full_name": "Joselu Sanmartin",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -3408,7 +3408,7 @@
   {
     "id": 337,
     "last_name": "Andriy Lunin",
-    "img": "/football/img/players/Lunin.webp",
+    "img": "/Football/img/players/Lunin.webp",
     "full_name": "Andriy Lunin",
     "team": "Real Madrid",
     "nationality": "Ukraine",
@@ -3418,7 +3418,7 @@
   {
     "id": 338,
     "last_name": "Mazraoui",
-    "img": "/football/img/players/Mazraoui.webp",
+    "img": "/Football/img/players/Mazraoui.webp",
     "full_name": "Noussair Mazraoui",
     "team": "Bayern Munich",
     "nationality": "Morocco",
@@ -3428,7 +3428,7 @@
   {
     "id": 339,
     "last_name": "Dayot Upamecano",
-    "img": "/football/img/players/Upamecano.webp",
+    "img": "/Football/img/players/Upamecano.webp",
     "full_name": "Dayot Upamecano",
     "team": "Bayern Munich",
     "nationality": "France",
@@ -3438,7 +3438,7 @@
   {
     "id": 340,
     "last_name": "M Tel",
-    "img": "/football/img/players/M Tel.webp",
+    "img": "/Football/img/players/M Tel.webp",
     "full_name": "Mathys Tel",
     "team": "Bayern Munich",
     "nationality": "France",
@@ -3448,7 +3448,7 @@
   {
     "id": 341,
     "last_name": "B Sarr",
-    "img": "/football/img/players/B Sarr.webp",
+    "img": "/Football/img/players/B Sarr.webp",
     "full_name": "Bouna Sarr",
     "team": "Bayern Munich",
     "nationality": "Senegal",
@@ -3458,7 +3458,7 @@
   {
     "id": 342,
     "last_name": "Kessie",
-    "img": "/football/img/players/Kessie.webp",
+    "img": "/Football/img/players/Kessie.webp",
     "full_name": "Franck Kessie",
     "team": "Al Ahli",
     "nationality": "Ivory Coast",
@@ -3468,7 +3468,7 @@
   {
     "id": 343,
     "last_name": "Raphinha",
-    "img": "/football/img/players/Raphinha.webp",
+    "img": "/Football/img/players/Raphinha.webp",
     "full_name": "Raphinha Dias",
     "team": "Barcelona",
     "nationality": "Brazil",
@@ -3478,7 +3478,7 @@
   {
     "id": 344,
     "last_name": "Christensen",
-    "img": "/football/img/players/Christensen.webp",
+    "img": "/Football/img/players/Christensen.webp",
     "full_name": "Andreas Christensen",
     "team": "Barcelona",
     "nationality": "Denmark",
@@ -3488,7 +3488,7 @@
   {
     "id": 345,
     "last_name": "Fe Torres",
-    "img": "/football/img/players/Fe Torres.webp",
+    "img": "/Football/img/players/Fe Torres.webp",
     "full_name": "Ferran Torres",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -3498,7 +3498,7 @@
   {
     "id": 346,
     "last_name": "O Romeu",
-    "img": "/football/img/players/O Romeu.webp",
+    "img": "/Football/img/players/O Romeu.webp",
     "full_name": "Oriol Romeu",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -3508,7 +3508,7 @@
   {
     "id": 347,
     "last_name": "S Roberto",
-    "img": "/football/img/players/S Roberto.webp",
+    "img": "/Football/img/players/S Roberto.webp",
     "full_name": "Sergi Roberto",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -3518,7 +3518,7 @@
   {
     "id": 348,
     "last_name": "M Alonso",
-    "img": "/football/img/players/M Alonso.webp",
+    "img": "/Football/img/players/M Alonso.webp",
     "full_name": "Marcos Alonso",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -3528,7 +3528,7 @@
   {
     "id": 349,
     "last_name": "D Nunez",
-    "img": "/football/img/players/D Nunez.webp",
+    "img": "/Football/img/players/D Nunez.webp",
     "full_name": "Darwin Nunez",
     "team": "Liverpool",
     "nationality": "Uruguay",
@@ -3538,7 +3538,7 @@
   {
     "id": 350,
     "last_name": "W Endo",
-    "img": "/football/img/players/W Endo.webp",
+    "img": "/Football/img/players/W Endo.webp",
     "full_name": "Wataru Endo",
     "team": "Liverpool",
     "nationality": "Japan",
@@ -3548,7 +3548,7 @@
   {
     "id": 352,
     "last_name": "Gravenberch",
-    "img": "/football/img/players/Gravenberch.webp",
+    "img": "/Football/img/players/Gravenberch.webp",
     "full_name": "Ryan Gravenberch",
     "team": "Liverpool",
     "nationality": "Netherlands",
@@ -3558,7 +3558,7 @@
   {
     "id": 353,
     "last_name": "J Gomez",
-    "img": "/football/img/players/J Gomez.webp",
+    "img": "/Football/img/players/J Gomez.webp",
     "full_name": "Joe Gomez",
     "team": "Liverpool",
     "nationality": "England",
@@ -3568,7 +3568,7 @@
   {
     "id": 354,
     "last_name": "H Elliott",
-    "img": "/football/img/players/H Elliott.webp",
+    "img": "/Football/img/players/H Elliott.webp",
     "full_name": "Harvey Elliott",
     "team": "Liverpool",
     "nationality": "England",
@@ -3578,7 +3578,7 @@
   {
     "id": 355,
     "last_name": "C Jones",
-    "img": "/football/img/players/C Jones.webp",
+    "img": "/Football/img/players/C Jones.webp",
     "full_name": "Curtis Jones",
     "team": "Liverpool",
     "nationality": "England",
@@ -3588,7 +3588,7 @@
   {
     "id": 356,
     "last_name": "Tsimikas",
-    "img": "/football/img/players/Tsimikas.webp",
+    "img": "/Football/img/players/Tsimikas.webp",
     "full_name": "Konstan Tsimikas",
     "team": "Liverpool",
     "nationality": "Greece",
@@ -3598,7 +3598,7 @@
   {
     "id": 358,
     "last_name": "K Muani",
-    "img": "/football/img/players/K Muani.webp",
+    "img": "/Football/img/players/K Muani.webp",
     "full_name": "Randal Kolo Muani",
     "team": "PSG",
     "nationality": "France",
@@ -3608,7 +3608,7 @@
   {
     "id": 359,
     "last_name": "KI Lee",
-    "img": "/football/img/players/KI Lee.webp",
+    "img": "/Football/img/players/KI Lee.webp",
     "full_name": "Kang In Lee",
     "team": "PSG",
     "nationality": "South Korea",
@@ -3618,7 +3618,7 @@
   {
     "id": 360,
     "last_name": "Mukiele",
-    "img": "/football/img/players/Mukiele.webp",
+    "img": "/Football/img/players/Mukiele.webp",
     "full_name": "Nordi Mukiele",
     "team": "PSG",
     "nationality": "France",
@@ -3628,7 +3628,7 @@
   {
     "id": 361,
     "last_name": "Soler",
-    "img": "/football/img/players/Soler.webp",
+    "img": "/Football/img/players/Soler.webp",
     "full_name": "Carlos Soler",
     "team": "PSG",
     "nationality": "Spain",
@@ -3638,7 +3638,7 @@
   {
     "id": 362,
     "last_name": "Fabian",
-    "img": "/football/img/players/Fabian.webp",
+    "img": "/Football/img/players/Fabian.webp",
     "full_name": "Fabian Ruiz",
     "team": "PSG",
     "nationality": "Spain",
@@ -3648,7 +3648,7 @@
   {
     "id": 363,
     "last_name": "Kimpembe",
-    "img": "/football/img/players/Kimpembe.webp",
+    "img": "/Football/img/players/Kimpembe.webp",
     "full_name": "Presnel Kimpembe",
     "team": "PSG",
     "nationality": "France",
@@ -3658,7 +3658,7 @@
   {
     "id": 364,
     "last_name": "N Mendes",
-    "img": "/football/img/players/N Mendes.webp",
+    "img": "/Football/img/players/N Mendes.webp",
     "full_name": "Nuno Mendes",
     "team": "PSG",
     "nationality": "Portugal",
@@ -3668,7 +3668,7 @@
   {
     "id": 365,
     "last_name": "Acerbi",
-    "img": "/football/img/players/Acerbi.webp",
+    "img": "/Football/img/players/Acerbi.webp",
     "full_name": "Francesco Acerbi",
     "team": "Inter Milan",
     "nationality": "Italy",
@@ -3678,7 +3678,7 @@
   {
     "id": 366,
     "last_name": "K Havertz",
-    "img": "/football/img/players/K Havertz.webp",
+    "img": "/Football/img/players/K Havertz.webp",
     "full_name": "Kai Havertz",
     "team": "Arsenal",
     "nationality": "Germany",
@@ -3688,7 +3688,7 @@
   {
     "id": 367,
     "last_name": "J Timber",
-    "img": "/football/img/players/J Timber.webp",
+    "img": "/Football/img/players/J Timber.webp",
     "full_name": "Jurrien Timber",
     "team": "Arsenal",
     "nationality": "Netherlands",
@@ -3698,7 +3698,7 @@
   {
     "id": 368,
     "last_name": "T Tomiyasu",
-    "img": "/football/img/players/T Tomiyasu.webp",
+    "img": "/Football/img/players/T Tomiyasu.webp",
     "full_name": "Takehiro Tomiyasu",
     "team": "Arsenal",
     "nationality": "Japan",
@@ -3708,7 +3708,7 @@
   {
     "id": 369,
     "last_name": "Nketiah",
-    "img": "/football/img/players/Nketiah.webp",
+    "img": "/Football/img/players/Nketiah.webp",
     "full_name": "Eddie Nketiah",
     "team": "Arsenal",
     "nationality": "England",
@@ -3718,7 +3718,7 @@
   {
     "id": 372,
     "last_name": "M Mount",
-    "img": "/football/img/players/M Mount.webp",
+    "img": "/Football/img/players/M Mount.webp",
     "full_name": "Mason Mount",
     "team": "Manchester United",
     "nationality": "England",
@@ -3728,7 +3728,7 @@
   {
     "id": 373,
     "last_name": "A Wan-Bissaka",
-    "img": "/football/img/players/A Wan-Bissaka.webp",
+    "img": "/Football/img/players/A Wan-Bissaka.webp",
     "full_name": "Aaron Wan-Bissaka",
     "team": "Manchester United",
     "nationality": "England",
@@ -3738,7 +3738,7 @@
   {
     "id": 374,
     "last_name": "Pellistri",
-    "img": "/football/img/players/Pellistri.webp",
+    "img": "/Football/img/players/Pellistri.webp",
     "full_name": "Facundo Pellistri",
     "team": "Manchester United",
     "nationality": "Uruguay",
@@ -3748,7 +3748,7 @@
   {
     "id": 375,
     "last_name": "A Garnacho",
-    "img": "/football/img/players/A Garnacho.webp",
+    "img": "/Football/img/players/A Garnacho.webp",
     "full_name": "Alejandro Garnacho",
     "team": "Manchester United",
     "nationality": "Argentina",
@@ -3758,7 +3758,7 @@
   {
     "id": 376,
     "last_name": "Malacia",
-    "img": "/football/img/players/Malacia.webp",
+    "img": "/Football/img/players/Malacia.webp",
     "full_name": "Tyrell Malacia",
     "team": "Manchester United",
     "nationality": "Netherlands",
@@ -3768,7 +3768,7 @@
   {
     "id": 377,
     "last_name": "S Reguilon",
-    "img": "/football/img/players/S Reguilon.webp",
+    "img": "/Football/img/players/S Reguilon.webp",
     "full_name": "Sergio Reguilon",
     "team": "Manchester United",
     "nationality": "Spain",
@@ -3778,7 +3778,7 @@
   {
     "id": 378,
     "last_name": "McTominay",
-    "img": "/football/img/players/McTominay.webp",
+    "img": "/Football/img/players/McTominay.webp",
     "full_name": "Scott McTominay",
     "team": "Manchester United",
     "nationality": "Scotland",
@@ -3788,7 +3788,7 @@
   {
     "id": 379,
     "last_name": "A Martial",
-    "img": "/football/img/players/A Martial.webp",
+    "img": "/Football/img/players/A Martial.webp",
     "full_name": "Anthony Martial",
     "team": "Manchester United",
     "nationality": "France",
@@ -3798,7 +3798,7 @@
   {
     "id": 380,
     "last_name": "Lindelof",
-    "img": "/football/img/players/Lindelof.webp",
+    "img": "/Football/img/players/Lindelof.webp",
     "full_name": "Victor Lindelof",
     "team": "Manchester United",
     "nationality": "Sweden",
@@ -3808,7 +3808,7 @@
   {
     "id": 381,
     "last_name": "S Amrabat",
-    "img": "/football/img/players/S Amrabat.webp",
+    "img": "/Football/img/players/S Amrabat.webp",
     "full_name": "Sofyan Amrabat",
     "team": "Manchester United",
     "nationality": "Morocco",
@@ -3818,7 +3818,7 @@
   {
     "id": 382,
     "last_name": "Mainoo",
-    "img": "/football/img/players/Mainoo.webp",
+    "img": "/Football/img/players/Mainoo.webp",
     "full_name": "Kobbie Mainoo",
     "team": "Manchester United",
     "nationality": "England",
@@ -3828,7 +3828,7 @@
   {
     "id": 383,
     "last_name": "A Milik",
-    "img": "/football/img/players/A Milik.webp",
+    "img": "/Football/img/players/A Milik.webp",
     "full_name": "Arkadiusz Milik",
     "team": "Juventus",
     "nationality": "Poland",
@@ -3838,7 +3838,7 @@
   {
     "id": 384,
     "last_name": "W Fofana",
-    "img": "/football/img/players/W Fofana.webp",
+    "img": "/Football/img/players/W Fofana.webp",
     "full_name": "Wesley Fofana",
     "team": "Chelsea",
     "nationality": "France",
@@ -3848,7 +3848,7 @@
   {
     "id": 385,
     "last_name": "Cucurella",
-    "img": "/football/img/players/Cucurella.webp",
+    "img": "/Football/img/players/Cucurella.webp",
     "full_name": "Marc Cucurella",
     "team": "Chelsea",
     "nationality": "Spain",
@@ -3858,7 +3858,7 @@
   {
     "id": 388,
     "last_name": "Henry",
-    "img": "/football/img/players/Henry.webp",
+    "img": "/Football/img/players/Henry.webp",
     "full_name": "Thierry Henry",
     "team": "Retired",
     "nationality": "France",
@@ -3868,7 +3868,7 @@
 {
     "id": 389,
     "last_name": "Zidane",
-    "img": "/football/img/players/Zidane.webp",
+    "img": "/Football/img/players/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "team": "Retired",
     "nationality": "France",
@@ -3878,7 +3878,7 @@
 {
     "id": 392,
     "last_name": "Lucio",
-    "img": "/football/img/players/Lucio.webp",
+    "img": "/Football/img/players/Lucio.webp",
     "full_name": "Lucio Ferreira",
     "team": "Retired",
     "nationality": "Brazil",
@@ -3888,7 +3888,7 @@
 {
     "id": 394,
     "last_name": "Ronaldo",
-    "img": "/football/img/players/Ronaldo.webp",
+    "img": "/Football/img/players/Ronaldo.webp",
     "full_name": "Luis Ronaldo",
     "team": "Retired",
     "nationality": "Brazil",
@@ -3898,7 +3898,7 @@
 {
     "id": 396,
     "last_name": "Adriano C",
-    "img": "/football/img/players/Adriano C.webp",
+    "img": "/Football/img/players/Adriano C.webp",
     "full_name": "Adriano Correia",
     "team": "Free Agent",
     "nationality": "Brazil",
@@ -3908,7 +3908,7 @@
   {
     "id": 397,
     "last_name": "M Nunes",
-    "img": "/football/img/players/M Nunes.webp",
+    "img": "/Football/img/players/M Nunes.webp",
     "full_name": "Matheus Nunes",
     "team": "Manchester City",
     "nationality": "Portugal",
@@ -3918,7 +3918,7 @@
   {
     "id": 398,
     "last_name": "T Hazard",
-    "img": "/football/img/players/T Hazard.webp",
+    "img": "/Football/img/players/T Hazard.webp",
     "full_name": "Thorgan Hazard",
     "team": "Borussia Dortmund",
     "nationality": "Belgium",
@@ -3928,7 +3928,7 @@
   {
     "id": 399,
     "last_name": "J Kluivert",
-    "img": "/football/img/players/J Kluivert.webp",
+    "img": "/Football/img/players/J Kluivert.webp",
     "full_name": "Justin Kluivert",
     "team": "AS Roma",
     "nationality": "Netherlands",
@@ -3938,7 +3938,7 @@
   {
     "id": 400,
     "last_name": "G Milito",
-    "img": "/football/img/players/G Milito.webp",
+    "img": "/Football/img/players/G Milito.webp",
     "full_name": "Gabriel Milito",
     "team": "Retired",
     "nationality": "Argentinian",
@@ -3948,7 +3948,7 @@
   {
     "id": 401,
     "last_name": "K Muani",
-    "img": "/football/img/players/K Muani.webp",
+    "img": "/Football/img/players/K Muani.webp",
     "full_name": "Kolo Muani",
     "team": "PSG",
     "nationality": "France",
@@ -3958,7 +3958,7 @@
   {
     "id": 402,
     "last_name": "Werner",
-    "img": "/football/img/players/Werner.webp",
+    "img": "/Football/img/players/Werner.webp",
     "full_name": "Timo Werner",
     "team": "Tottenham",
     "nationality": "Germany",
@@ -3968,7 +3968,7 @@
   {
     "id": 403,
     "last_name": "Milinkovic-Savic",
-    "img": "/football/img/players/Milinkovic-S.webp",
+    "img": "/Football/img/players/Milinkovic-S.webp",
     "full_name": "Sergej Milinkovic-S",
     "team": "Al Hihal",
     "nationality": "Serbia",
@@ -3978,7 +3978,7 @@
   {
     "id": 404,
     "last_name": "Moreno",
-    "img": "/football/img/players/Moreno.webp",
+    "img": "/Football/img/players/Moreno.webp",
     "full_name": "Gerard Moreno",
     "team": "Villarreal",
     "nationality": "Spain",
@@ -3988,7 +3988,7 @@
   {
     "id": 405,
     "last_name": "Gomez",
-    "img": "/football/img/players/M Gomez.webp",
+    "img": "/Football/img/players/M Gomez.webp",
     "full_name": "Mario Gomez",
     "team": "Retired",
     "nationality": "Germany",
@@ -3998,7 +3998,7 @@
   {
     "id": 407,
     "last_name": "Sukur",
-    "img": "/football/img/players/Sukur.webp",
+    "img": "/Football/img/players/Sukur.webp",
     "full_name": "Hakan Sukur",
     "team": "Retired",
     "nationality": "Turkey",
@@ -4008,7 +4008,7 @@
   {
     "id": 408,
     "last_name": "Die Costa",
-    "img": "/football/img/players/Die Costa.webp",
+    "img": "/Football/img/players/Die Costa.webp",
     "full_name": "Diego Costa",
     "team": "Botafogo",
     "nationality": "Spain",
@@ -4018,7 +4018,7 @@
   {
     "id": 409,
     "last_name": "Vermaelen",
-    "img": "/football/img/players/Vermaelen.webp",
+    "img": "/Football/img/players/Vermaelen.webp",
     "full_name": "Thomas Vermaelen",
     "team": "Retired",
     "nationality": "Belgium",
@@ -4028,7 +4028,7 @@
   {
     "id": 410,
     "last_name": "Brozovic",
-    "img": "/football/img/players/Brozovic.webp",
+    "img": "/Football/img/players/Brozovic.webp",
     "full_name": "Marcelo Brozovic",
     "team": "Al Nassr",
     "nationality": "Croatia",
@@ -4038,7 +4038,7 @@
   {
     "id": 411,
     "last_name": "Vardy",
-    "img": "/football/img/players/Vardy.webp",
+    "img": "/Football/img/players/Vardy.webp",
     "full_name": "Jamie Vardy",
     "team": "Leicester City",
     "nationality": "England",
@@ -4048,7 +4048,7 @@
   {
     "id": 412,
     "last_name": "Shaqiri",
-    "img": "/football/img/players/Shaqiri.webp",
+    "img": "/Football/img/players/Shaqiri.webp",
     "full_name": "Xherdan Shaqiri",
     "team": "Chicago Fire",
     "nationality": "Switzerland",
@@ -4058,7 +4058,7 @@
   {
     "id": 413,
     "last_name": "Endrick",
-    "img": "/football/img/players/Endrick.webp",
+    "img": "/Football/img/players/Endrick.webp",
     "full_name": "Endrick Felipe",
     "team": "Palmeiras",
     "nationality": "Brazil",
@@ -4068,7 +4068,7 @@
   {
   "id": 414,
   "last_name": "Yamal",
-  "img": "/football/img/players/Yamal.webp",
+  "img": "/Football/img/players/Yamal.webp",
   "full_name": "Lamine Yamal",
   "team": "Barcelona",
   "nationality": "Spain",
@@ -4078,7 +4078,7 @@
 {
   "id": 416,
   "last_name": "A Fati",
-  "img": "/football/img/players/A Fati.webp",
+  "img": "/Football/img/players/A Fati.webp",
   "full_name": "Ansu Fati",
   "team": "Brighton",
   "nationality": "Spain",
@@ -4088,7 +4088,7 @@
   {
     "id": 418,
     "last_name": "Pino",
-    "img": "/football/img/players/Pino.webp",
+    "img": "/Football/img/players/Pino.webp",
     "full_name": "Yeremi Pino",
     "team": "Villarreal",
     "nationality": "Spain",
@@ -4098,7 +4098,7 @@
   {
     "id": 419,
     "last_name": "N Williams",
-    "img": "/football/img/players/N Williams.webp",
+    "img": "/Football/img/players/N Williams.webp",
     "full_name": "Nico Williams",
     "team": "Athletic Bilbao",
     "nationality": "Spain",
@@ -4108,7 +4108,7 @@
   {
     "id": 420,
     "last_name": "Lukeba",
-    "img": "/football/img/players/Lukeba.webp",
+    "img": "/Football/img/players/Lukeba.webp",
     "full_name": "Castello Lukeba",
     "team": "RB Leipzig",
     "nationality": "France",
@@ -4118,7 +4118,7 @@
   {
     "id": 421,
     "last_name": "A Silva",
-    "img": "/football/img/players/A Silva.webp",
+    "img": "/Football/img/players/A Silva.webp",
     "full_name": "Antonio Silva",
     "team": "Benfica",
     "nationality": "Portugal",
@@ -4128,7 +4128,7 @@
 {
   "id": 423,
   "last_name": "Hato",
-  "img": "/football/img/players/Hato.webp",
+  "img": "/Football/img/players/Hato.webp",
   "full_name": "Jorrel Hato",
   "team": "AFC Ajax",
   "nationality": "Netherlands",
@@ -4138,7 +4138,7 @@
  {
     "id": 426,
     "last_name": "Ben Seghir",
-    "img": "/football/img/players/Ben Seghir.webp",
+    "img": "/Football/img/players/Ben Seghir.webp",
     "full_name": "Eliesse Ben Seghir",
     "team": "Monaco",
     "nationality": "France",
@@ -4148,7 +4148,7 @@
   {
     "id": 430,
     "last_name": "Musah",
-    "img": "/football/img/players/Y Musah.webp",
+    "img": "/Football/img/players/Y Musah.webp",
     "full_name": "Yunus Musah",
     "team": "AC Milan",
     "nationality": "USA",
@@ -4158,7 +4158,7 @@
   {
     "id": 432,
     "last_name": "Guehi",
-    "img": "/football/img/players/Guehi.webp",
+    "img": "/Football/img/players/Guehi.webp",
     "full_name": "Marc Guehi",
     "team": "Crystal Palace",
     "nationality": "England",
@@ -4168,7 +4168,7 @@
 {
     "id": 432,
     "last_name": "Zaha",
-    "img": "/football/img/players/Zaha.webp",
+    "img": "/Football/img/players/Zaha.webp",
     "full_name": "Wilfried Zaha",
     "team": "Galatasaray",
     "nationality": "Ivory Coast",
@@ -4178,7 +4178,7 @@
   {
     "id": 434,
     "last_name": "Seiwald",
-    "img": "/football/img/players/Seiwald.webp",
+    "img": "/Football/img/players/Seiwald.webp",
     "full_name": "Nicolas Seiwald",
     "team": "RB Leipzig",
     "nationality": "Austria",
@@ -4188,7 +4188,7 @@
   {
     "id": 436,
     "last_name": "Trubin",
-    "img": "/football/img/players/Trubin.webp",
+    "img": "/Football/img/players/Trubin.webp",
     "full_name": "Anatoliy Trubin",
     "team": "Benfica",
     "nationality": "Ukraine",
@@ -4198,7 +4198,7 @@
   {
     "id": 438,
     "last_name": "Saelemaekers",
-    "img": "/football/img/players/Saelemaekers.webp",
+    "img": "/Football/img/players/Saelemaekers.webp",
     "full_name": "Alexis Saelemaekers",
     "team": "Bologna",
     "nationality": "Belgium",
@@ -4208,7 +4208,7 @@
   {
   "id": 439,
   "last_name": "Baldanzi",
-  "img": "/football/img/players/Baldanzi.webp",
+  "img": "/Football/img/players/Baldanzi.webp",
   "full_name": "Tommaso Baldanzi",
   "team": "Empoli",
   "nationality": "Italy",
@@ -4218,7 +4218,7 @@
   {
     "id": 442,
     "last_name": "Schade",
-    "img": "/football/img/players/Schade.webp",
+    "img": "/Football/img/players/Schade.webp",
     "full_name": "Kevin Schade",
     "team": "Brentford",
     "nationality": "Germany",
@@ -4228,7 +4228,7 @@
   {
     "id": 444,
     "last_name": "Oyarzabal",
-    "img": "/football/img/players/Oyarzabal.webp",
+    "img": "/Football/img/players/Oyarzabal.webp",
     "full_name": "Mikel Oyarzabal",
     "team": "Real Sociedad",
     "nationality": "Spain",
@@ -4238,7 +4238,7 @@
   {
     "id": 449,
     "last_name": "Ramsdale",
-    "img": "/football/img/players/Ramsdale.webp",
+    "img": "/Football/img/players/Ramsdale.webp",
     "full_name": "Aaron Ramsdale",
     "birth_date": "14-05-1998",
     "position": "Goalkeeper",
@@ -4250,7 +4250,7 @@
   {
     "id": 451,
     "last_name": "Scholl",
-    "img": "/football/img/players/Scholl.webp",
+    "img": "/Football/img/players/Scholl.webp",
     "full_name": "Mehmet Scholl",
     "team": "Retired",
     "nationality": "Germany",
@@ -4260,7 +4260,7 @@
   {
     "id": 452,
     "last_name": "Guardiola",
-    "img": "/football/img/players/Guardiola.webp",
+    "img": "/Football/img/players/Guardiola.webp",
     "full_name": "Pep Guardiola",
     "team": "Retired",
     "nationality": "Spain",
@@ -4270,7 +4270,7 @@
   {
     "id": 453,
     "last_name": "Wise",
-    "img": "/football/img/players/Wise.webp",
+    "img": "/Football/img/players/Wise.webp",
     "full_name": "Dennis Wise",
     "team": "Retired",
     "nationality": "England",
@@ -4280,7 +4280,7 @@
   {
     "id": 454,
     "last_name": "Rush",
-    "img": "/football/img/players/I Rush.webp",
+    "img": "/Football/img/players/I Rush.webp",
     "full_name": "Ian Rush",
     "team": "Retired",
     "nationality": "Wales",
@@ -4290,7 +4290,7 @@
   {
     "id": 455,
     "last_name": "King",
-    "img": "/football/img/players/L King.webp",
+    "img": "/Football/img/players/L King.webp",
     "full_name": "Ledley King",
     "team": "Retired",
     "nationality": "England",
@@ -4300,7 +4300,7 @@
   {
     "id": 456,
     "last_name": "Vucinic",
-    "img": "/football/img/players/Vucinic.webp",
+    "img": "/Football/img/players/Vucinic.webp",
     "full_name": "Mirko Vucinic",
     "team": "Retired",
     "nationality": "Montenegro",
@@ -4310,7 +4310,7 @@
   {
     "id": 457,
     "last_name": "Reyes",
-    "img": "/football/img/players/Reyes.webp",
+    "img": "/Football/img/players/Reyes.webp",
     "full_name": "Jose Antonio Reyes",
     "team": "Retired",
     "nationality": "Spain",
@@ -4320,7 +4320,7 @@
   {
     "id": 458,
     "last_name": "Icardi",
-    "img": "/football/img/players/Icardi.webp",
+    "img": "/Football/img/players/Icardi.webp",
     "full_name": "Mauro Icardi",
     "team": "Galatasaray",
     "nationality": "Argentina",
@@ -4330,7 +4330,7 @@
   {
     "id": 459,
     "last_name": "Milla",
-    "img": "/football/img/players/Milla.webp",
+    "img": "/Football/img/players/Milla.webp",
     "full_name": "Roger Milla",
     "team": "Retired",
     "nationality": "Cameroon",
@@ -4340,7 +4340,7 @@
   {
     "id": 460,
     "last_name": "Voller",
-    "img": "/football/img/players/Voller.webp",
+    "img": "/Football/img/players/Voller.webp",
     "full_name": "Rudi Voller",
     "team": "Retired",
     "nationality": "Germany",
@@ -4350,7 +4350,7 @@
   {
     "id": 462,
     "last_name": "Leboeuf",
-    "img": "/football/img/players/Leboeuf.webp",
+    "img": "/Football/img/players/Leboeuf.webp",
     "full_name": "Frank Leboeuf",
     "team": "Retired",
     "nationality": "France",
@@ -4360,7 +4360,7 @@
   {
     "id": 463,
     "last_name": "Canizares",
-    "img": "/football/img/players/Canizares.webp",
+    "img": "/Football/img/players/Canizares.webp",
     "full_name": "Santiago Canizares",
     "team": "Retired",
     "nationality": "Spain",
@@ -4370,7 +4370,7 @@
 {
     "id": 465,
     "last_name": "Isak",
-    "img": "/football/img/players/Isak.webp",
+    "img": "/Football/img/players/Isak.webp",
     "full_name": "Alexander Isak",
     "team": "Newcastle United",
     "nationality": "Sweden",
@@ -4380,7 +4380,7 @@
 {
     "id": 467,
     "last_name": "Zaccagni",
-    "img": "/football/img/players/Zaccagni.webp",
+    "img": "/Football/img/players/Zaccagni.webp",
     "full_name": "Mattia Zaccagni",
     "team": "Lazio",
     "nationality": "Italy",
@@ -4390,7 +4390,7 @@
 {
     "id": 468,
     "last_name": "Kobel",
-    "img": "/football/img/players/Kobel.webp",
+    "img": "/Football/img/players/Kobel.webp",
     "full_name": "Gregor Kobel",
     "team": "Borussia Dortmund",
     "nationality": "Switzerland",
@@ -4400,7 +4400,7 @@
 {
     "id": 469,
     "last_name": "Canales",
-    "img": "/football/img/players/Canales.webp",
+    "img": "/Football/img/players/Canales.webp",
     "full_name": "Sergio Canales",
     "team": "Real Betis",
     "nationality": "Spain",
@@ -4410,7 +4410,7 @@
 {
     "id": 472,
     "last_name": "I Williams",
-    "img": "/football/img/players/I Williams.webp",
+    "img": "/Football/img/players/I Williams.webp",
     "full_name": "Inaki Williams",
     "team": "Athletic Bilbao",
     "nationality": "Spain",
@@ -4420,7 +4420,7 @@
 {
     "id": 474,
     "last_name": "Brandt",
-    "img": "/football/img/players/Brandt.webp",
+    "img": "/Football/img/players/Brandt.webp",
     "full_name": "Julian Brandt",
     "team": "Borussia Dortmund",
     "nationality": "Germany",
@@ -4430,7 +4430,7 @@
 {
     "id": 477,
     "last_name": "Joelinton",
-    "img": "/football/img/players/Joelinton.webp",
+    "img": "/Football/img/players/Joelinton.webp",
     "full_name": "Joelinton Cassio ",
     "team": "Newcastle United",
     "nationality": "Brazil",
@@ -4440,7 +4440,7 @@
 {
     "id": 478,
     "last_name": "Zouma",
-    "img": "/football/img/players/Zouma.webp",
+    "img": "/Football/img/players/Zouma.webp",
     "full_name": "Kurt Zouma",
     "team": "West Ham United",
     "nationality": "France",
@@ -4450,7 +4450,7 @@
 {
     "id": 479,
     "last_name": "Wilson",
-    "img": "/football/img/players/Wilson.webp",
+    "img": "/Football/img/players/Wilson.webp",
     "full_name": "Callum Wilson",
     "team": "Newcastle United",
     "nationality": "England",
@@ -4460,7 +4460,7 @@
 {
     "id": 480,
     "last_name": "Aspas",
-    "img": "/football/img/players/Aspas.webp",
+    "img": "/Football/img/players/Aspas.webp",
     "full_name": "Iago Aspas",
     "team": "Celta de Vigo",
     "nationality": "Spain",
@@ -4470,7 +4470,7 @@
 {
     "id": 481,
     "last_name": "Merino",
-    "img": "/football/img/players/Merino.webp",
+    "img": "/Football/img/players/Merino.webp",
     "full_name": "Mikel Merino",
     "team": "Real Sociedad",
     "nationality": "Spain",
@@ -4480,7 +4480,7 @@
 {
     "id": 482,
     "last_name": "F Anderson",
-    "img": "/football/img/players/F Anderson.webp",
+    "img": "/Football/img/players/F Anderson.webp",
     "full_name": "Felipe Anderson",
     "team": "Lazio",
     "nationality": "Brazil",
@@ -4490,7 +4490,7 @@
 {
     "id": 483,
     "last_name": "Ward-Prowse",
-    "img": "/football/img/players/Ward-Prowse.webp",
+    "img": "/Football/img/players/Ward-Prowse.webp",
     "full_name": "James Ward-Prowse",
     "team": "West Ham United",
     "nationality": "England",
@@ -4500,7 +4500,7 @@
 {
     "id": 484,
     "last_name": "Sarabia",
-    "img": "/football/img/players/Sarabia.webp",
+    "img": "/Football/img/players/Sarabia.webp",
     "full_name": "Pablo Sarabia",
     "team": "Wolves",
     "nationality": "Spain",
@@ -4510,7 +4510,7 @@
 {
     "id": 485,
     "last_name": "K Tierney",
-    "img": "/football/img/players/K Tierney.webp",
+    "img": "/Football/img/players/K Tierney.webp",
     "full_name": "Kieran Tierney",
     "team": "Real Sociedad",
     "nationality": "Scotland",
@@ -4520,7 +4520,7 @@
 {
     "id": 486,
     "last_name": "Ceballos",
-    "img": "/football/img/players/Ceballos.webp",
+    "img": "/Football/img/players/Ceballos.webp",
     "full_name": "Dani Ceballos",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -4530,7 +4530,7 @@
 {
     "id": 487,
     "last_name": "Nacho",
-    "img": "/football/img/players/Nacho.webp",
+    "img": "/Football/img/players/Nacho.webp",
     "full_name": "Nacho Fernandez",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -4540,7 +4540,7 @@
 {
     "id": 490,
     "last_name": "Diaby",
-    "img": "/football/img/players/Diaby.webp",
+    "img": "/Football/img/players/Diaby.webp",
     "full_name": "Moussa Diaby",
     "team": "Aston Villa",
     "nationality": "France",
@@ -4550,7 +4550,7 @@
 {
     "id": 493,
     "last_name": "Romagnoli",
-    "img": "/football/img/players/Romagnoli.webp",
+    "img": "/Football/img/players/Romagnoli.webp",
     "full_name": "Alessio Romagnoli",
     "team": "Lazio",
     "nationality": "Italy",
@@ -4560,7 +4560,7 @@
 {
     "id": 494,
     "last_name": "K Phillips",
-    "img": "/football/img/players/K Phillips.webp",
+    "img": "/Football/img/players/K Phillips.webp",
     "full_name": "Kalvin Phillips",
     "team": "Manchester City",
     "nationality": "England",
@@ -4570,7 +4570,7 @@
 {
     "id": 496,
     "last_name": "Uribe",
-    "img": "/football/img/players/Uribe.webp",
+    "img": "/Football/img/players/Uribe.webp",
     "full_name": "Mateus Uribe",
     "team": "Al Sadd",
     "nationality": "Colombia",
@@ -4580,7 +4580,7 @@
 {
     "id": 497,
     "last_name": "Saint-Maximin",
-    "img": "/football/img/players/Saint-Maximin.webp",
+    "img": "/Football/img/players/Saint-Maximin.webp",
     "full_name": "Allan Saint-Maximin",
     "team": "Al Ahli",
     "nationality": "France",
@@ -4590,7 +4590,7 @@
 {
     "id": 498,
     "last_name": "Paqueta",
-    "img": "/football/img/players/Paqueta.webp",
+    "img": "/Football/img/players/Paqueta.webp",
     "full_name": "Lucas Paqueta",
     "team": "West Ham United",
     "nationality": "Brazil",
@@ -4600,7 +4600,7 @@
 {
     "id": 501,
     "last_name": "H Herrera",
-    "img": "/football/img/players/H Herrera.webp",
+    "img": "/Football/img/players/H Herrera.webp",
     "full_name": "Hector Herrera",
     "team": "Houston Dynamo",
     "nationality": "Mexico",
@@ -4610,7 +4610,7 @@
 {
     "id": 503,
     "last_name": "Bowen",
-    "img": "/football/img/players/Bowen.webp",
+    "img": "/Football/img/players/Bowen.webp",
     "full_name": "Jarrod Bowen",
     "team": "West Ham United",
     "nationality": "England",
@@ -4620,7 +4620,7 @@
 {
     "id": 505,
     "last_name": "Schick",
-    "img": "/football/img/players/Schick.webp",
+    "img": "/Football/img/players/Schick.webp",
     "full_name": "Patrik Schick",
     "team": "Bayer Leverkusen",
     "nationality": "Czech Republic",
@@ -4630,7 +4630,7 @@
 {
     "id": 506,
     "last_name": "Otavio",
-    "img": "/football/img/players/Otavio.webp",
+    "img": "/Football/img/players/Otavio.webp",
     "full_name": "Otavio Edmilson",
     "team": "Al Nassr",
     "nationality": "Brazil",
@@ -4640,7 +4640,7 @@
 {
     "id": 508,
     "last_name": "J Mario",
-    "img": "/football/img/players/J Mario.webp",
+    "img": "/Football/img/players/J Mario.webp",
     "full_name": "Joao Mario",
     "team": "Benfica",
     "nationality": "Portugal",
@@ -4650,7 +4650,7 @@
 {
     "id": 510,
     "last_name": "Talisca",
-    "img": "/football/img/players/Talisca.webp",
+    "img": "/Football/img/players/Talisca.webp",
     "full_name": "Anderson Talisca",
     "team": "Al Nassr",
     "nationality": "Brazil",
@@ -4660,7 +4660,7 @@
 {
     "id": 511,
     "last_name": "Bounou",
-    "img": "/football/img/players/Bounou.webp",
+    "img": "/Football/img/players/Bounou.webp",
     "full_name": "Yassine Bounou",
     "team": "Al Hilal",
     "nationality": "Morocco",
@@ -4670,7 +4670,7 @@
 {
     "id": 512,
     "last_name": "Toney",
-    "img": "/football/img/players/Toney.webp",
+    "img": "/Football/img/players/Toney.webp",
     "full_name": "Ivan Toney",
     "team": "Brentford",
     "nationality": "England",
@@ -4680,7 +4680,7 @@
 {
     "id": 513,
     "last_name": "E Pepe",
-    "img": "/football/img/players/E Pepe.webp",
+    "img": "/Football/img/players/E Pepe.webp",
     "full_name": "Eduardo Pepe",
     "team": "Porto",
     "nationality": "Brazil",
@@ -4690,7 +4690,7 @@
 {
     "id": 514,
     "last_name": "A Correa",
-    "img": "/football/img/players/A Correa.webp",
+    "img": "/Football/img/players/A Correa.webp",
     "full_name": "Angel Correa",
     "team": "Atletico Madrid",
     "nationality": "Argentina",
@@ -4700,7 +4700,7 @@
 {
     "id": 515,
     "last_name": "Zubimendi",
-    "img": "/football/img/players/Zubimendi.webp",
+    "img": "/Football/img/players/Zubimendi.webp",
     "full_name": "Martin Zubimendi",
     "team": "Real Sociedad",
     "nationality": "Spain",
@@ -4710,7 +4710,7 @@
 {
     "id": 516,
     "last_name": "Mitrovic",
-    "img": "/football/img/players/Mitrovic.webp",
+    "img": "/Football/img/players/Mitrovic.webp",
     "full_name": "Aleksandar Mitrovic",
     "team": "Al Hilal",
     "nationality": "Serbia",
@@ -4720,7 +4720,7 @@
 {
     "id": 517,
     "last_name": "W Carvalho",
-    "img": "/football/img/players/W Carvalho.webp",
+    "img": "/Football/img/players/W Carvalho.webp",
     "full_name": "William Carvalho",
     "team": "Real Betis",
     "nationality": "Portugal",
@@ -4730,7 +4730,7 @@
 {
     "id": 520,
     "last_name": "Torreira",
-    "img": "/football/img/players/Torreira.webp",
+    "img": "/Football/img/players/Torreira.webp",
     "full_name": "Lucas Torreira",
     "team": "Galatasaray",
     "nationality": "Uruguay",
@@ -4740,7 +4740,7 @@
 {
     "id": 521,
     "last_name": "E Mendy",
-    "img": "/football/img/players/E Mendy.webp",
+    "img": "/Football/img/players/E Mendy.webp",
     "full_name": "Edouard Mendy",
     "team": "Al Ahli",
     "nationality": "Senegal",
@@ -4750,7 +4750,7 @@
 {
     "id": 522,
     "last_name": "Tadic",
-    "img": "/football/img/players/Tadic.webp",
+    "img": "/Football/img/players/Tadic.webp",
     "full_name": "Dusan Tadic",
     "team": "Fenerbahce",
     "nationality": "Serbia",
@@ -4760,7 +4760,7 @@
 {
     "id": 523,
     "last_name": "Kudus",
-    "img": "/football/img/players/Kudus.webp",
+    "img": "/Football/img/players/Kudus.webp",
     "full_name": "Mohammed Kudus",
     "team": "West Ham United",
     "nationality": "Ghana",
@@ -4770,7 +4770,7 @@
 {
     "id": 524,
     "last_name": "Bergwijn",
-    "img": "/football/img/players/Bergwijn.webp",
+    "img": "/Football/img/players/Bergwijn.webp",
     "full_name": "Steven Bergwijn",
     "team": "Ajax",
     "nationality": "Netherlands",
@@ -4780,7 +4780,7 @@
 {
     "id": 531,
     "last_name": "D Neres",
-    "img": "/football/img/players/D Neres.webp",
+    "img": "/Football/img/players/D Neres.webp",
     "full_name": "David Neres",
     "team": "Benfica",
     "nationality": "Brazil",
@@ -4790,7 +4790,7 @@
 {
     "id": 535,
     "last_name": "F Vieira",
-    "img": "/football/img/players/F Vieira.webp",
+    "img": "/Football/img/players/F Vieira.webp",
     "full_name": "Fabio Vieira",
     "team": "Arsenal",
     "nationality": "Portugal",
@@ -4800,7 +4800,7 @@
 {
     "id": 541,
     "last_name": "X Simons",
-    "img": "/football/img/players/X Simons.webp",
+    "img": "/Football/img/players/X Simons.webp",
     "full_name": "Xavi Simons",
     "team": "RB Leipzig",
     "nationality": "Netherlands",
@@ -4810,7 +4810,7 @@
 {
     "id": 542,
     "last_name": "Sabitzer",
-    "img": "/football/img/players/Sabitzer.webp",
+    "img": "/Football/img/players/Sabitzer.webp",
     "full_name": "Marcel Sabitzer",
     "team": "Borussia Dortmund",
     "nationality": "Austria",
@@ -4820,7 +4820,7 @@
 {
     "id": 544,
     "last_name": "L Vazquez",
-    "img": "/football/img/players/L Vazquez.webp",
+    "img": "/Football/img/players/L Vazquez.webp",
     "full_name": "Lucas Vazquez",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -4830,7 +4830,7 @@
 {
     "id": 545,
     "last_name": "Ben Yedder",
-    "img": "/football/img/players/Ben Yedder.webp",
+    "img": "/Football/img/players/Ben Yedder.webp",
     "full_name": "Wissam Ben Yedder",
     "team": "Monaco",
     "nationality": "France",
@@ -4840,7 +4840,7 @@
 {
     "id": 546,
     "last_name": "Sancho",
-    "img": "/football/img/players/Sancho.webp",
+    "img": "/Football/img/players/Sancho.webp",
     "full_name": "Jadon Sancho",
     "team": "Borussia Dortmund",
     "nationality": "England",
@@ -4850,7 +4850,7 @@
 {
     "id": 548,
     "last_name": "Haller",
-    "img": "/football/img/players/Haller.webp",
+    "img": "/Football/img/players/Haller.webp",
     "full_name": "Sebastien Haller",
     "team": "Borussia Dortmund",
     "nationality": "Ivory Coast",
@@ -4860,7 +4860,7 @@
 {
     "id": 549,
     "last_name": "Badiashile",
-    "img": "/football/img/players/Badiashile.webp",
+    "img": "/Football/img/players/Badiashile.webp",
     "full_name": "Benoit Badiashile",
     "team": "Chelsea",
     "nationality": "France",
@@ -4870,7 +4870,7 @@
 {
     "id": 550,
     "last_name": "Eze",
-    "img": "/football/img/players/Eze.webp",
+    "img": "/Football/img/players/Eze.webp",
     "full_name": "Ebere Eze",
     "team": "Crystal Palace",
     "nationality": "England",
@@ -4880,7 +4880,7 @@
 {
     "id": 552,
     "last_name": "Schlotterbeck",
-    "img": "/football/img/players/Schlotterbeck.webp",
+    "img": "/Football/img/players/Schlotterbeck.webp",
     "full_name": "Nico Schlotterbeck",
     "team": "Borussia Dortmund",
     "nationality": "Germany",
@@ -4890,7 +4890,7 @@
 {
     "id": 554,
     "last_name": "Diaz",
-    "img": "/football/img/players/B Diaz.webp",
+    "img": "/Football/img/players/B Diaz.webp",
     "full_name": "Brahim Diaz",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -4900,7 +4900,7 @@
 {
     "id": 556,
     "last_name": "Raspadori",
-    "img": "/football/img/players/Raspadori.webp",
+    "img": "/Football/img/players/Raspadori.webp",
     "full_name": "Giacomo Raspadori",
     "team": "Napoli",
     "nationality": "Italy",
@@ -4910,7 +4910,7 @@
 {
     "id": 557,
     "last_name": "E Royal",
-    "img": "/football/img/players/E Royal.webp",
+    "img": "/Football/img/players/E Royal.webp",
     "full_name": "Emerson Royal",
     "team": "Tottenham",
     "nationality": "Brazil",
@@ -4920,7 +4920,7 @@
 {
     "id": 561,
     "last_name": "Chukwueze",
-    "img": "/football/img/players/Chukwueze.webp",
+    "img": "/Football/img/players/Chukwueze.webp",
     "full_name": "Samuel Chukwueze",
     "team": "AC Milan",
     "nationality": "Nigeria",
@@ -4930,7 +4930,7 @@
 {
     "id": 566,
     "last_name": "Zaniolo",
-    "img": "/football/img/players/Zaniolo.webp",
+    "img": "/Football/img/players/Zaniolo.webp",
     "full_name": "Nicolo Zaniolo",
     "team": "Aston Villa",
     "nationality": "Italy",
@@ -4940,7 +4940,7 @@
 {
     "id": 568,
     "last_name": "J Tah",
-    "img": "/football/img/players/J Tah.webp",
+    "img": "/Football/img/players/J Tah.webp",
     "full_name": "Jonathan Tah",
     "team": "Bayer Leverkusen",
     "nationality": "Germany",
@@ -4950,7 +4950,7 @@
 {
     "id": 569,
     "last_name": "Todibo",
-    "img": "/football/img/players/Todibo.webp",
+    "img": "/Football/img/players/Todibo.webp",
     "full_name": "Jean-Clair Todibo",
     "team": "Nice",
     "nationality": "France",
@@ -4960,7 +4960,7 @@
 {
     "id": 570,
     "last_name": "Clauss",
-    "img": "/football/img/players/Clauss.webp",
+    "img": "/Football/img/players/Clauss.webp",
     "full_name": "Jonathan Clauss",
     "team": "Marseille",
     "nationality": "France",
@@ -4970,7 +4970,7 @@
 {
     "id": 578,
     "last_name": "Scamacca",
-    "img": "/football/img/players/Scamacca.webp",
+    "img": "/Football/img/players/Scamacca.webp",
     "full_name": "Gianluca Scamacca",
     "team": "Atalanta",
     "nationality": "Italy",
@@ -4980,7 +4980,7 @@
 {
     "id": 579,
     "last_name": "Watkins",
-    "img": "/football/img/players/Watkins.webp",
+    "img": "/Football/img/players/Watkins.webp",
     "full_name": "Ollie Watkins",
     "team": "Aston Villa",
     "nationality": "England",
@@ -4990,7 +4990,7 @@
 {
     "id": 580,
     "last_name": "J David",
-    "img": "/football/img/players/J David.webp",
+    "img": "/Football/img/players/J David.webp",
     "full_name": "Jonathan David",
     "team": "Lille",
     "nationality": "Canada",
@@ -5000,7 +5000,7 @@
 {
     "id": 581,
     "last_name": "P Sarr",
-    "img": "/football/img/players/P Sarr.webp",
+    "img": "/Football/img/players/P Sarr.webp",
     "full_name": "Pape Matar Sarr",
     "team": "Tottenham",
     "nationality": "Senegal",
@@ -5010,7 +5010,7 @@
 {
     "id": 583,
     "last_name": "Semedo",
-    "img": "/football/img/players/N Semedo.webp",
+    "img": "/Football/img/players/N Semedo.webp",
     "full_name": "Nelson Semedo",
     "team": "Wolves",
     "nationality": "Portugal",
@@ -5020,7 +5020,7 @@
 {
     "id": 584,
     "last_name": "De Ketelaere",
-    "img": "/football/img/players/De Ketelaere.webp",
+    "img": "/Football/img/players/De Ketelaere.webp",
     "full_name": "Charles De Ketelaere",
     "team": "Atalanta",
     "nationality": "Belgium",
@@ -5030,7 +5030,7 @@
 {
     "id": 585,
     "last_name": "Kiwior",
-    "img": "/football/img/players/Kiwior.webp",
+    "img": "/Football/img/players/Kiwior.webp",
     "full_name": "Jakub Kiwior",
     "team": "Arsenal",
     "nationality": "Poland",
@@ -5040,7 +5040,7 @@
 {
     "id": 588,
     "last_name": "G Simeone",
-    "img": "/football/img/players/G Simeone.webp",
+    "img": "/Football/img/players/G Simeone.webp",
     "full_name": "Giovanni Simeone",
     "team": "Napoli",
     "nationality": "Argentina",
@@ -5050,7 +5050,7 @@
 {
     "id": 589,
     "last_name": "G Paulista",
-    "img": "/football/img/players/G Paulista.webp",
+    "img": "/Football/img/players/G Paulista.webp",
     "full_name": "Gabriel Paulista",
     "team": "Valencia",
     "nationality": "Brazil",
@@ -5060,7 +5060,7 @@
 {
     "id": 590,
     "last_name": "P Lopez",
-    "img": "/football/img/players/P Lopez.webp",
+    "img": "/Football/img/players/P Lopez.webp",
     "full_name": "Pau Lopez",
     "team": "Marseille",
     "nationality": "Spain",
@@ -5070,7 +5070,7 @@
 {
     "id": 592,
     "last_name": "Candreva",
-    "img": "/football/img/players/Candreva.webp",
+    "img": "/Football/img/players/Candreva.webp",
     "full_name": "Antonio Candreva",
     "team": "Salernitana",
     "nationality": "Italy",
@@ -5080,7 +5080,7 @@
 {
     "id": 593,
     "last_name": "Cornet",
-    "img": "/football/img/players/Cornet.webp",
+    "img": "/Football/img/players/Cornet.webp",
     "full_name": "Maxwel Cornet",
     "team": "West Ham United",
     "nationality": "Ivory Coast",
@@ -5090,7 +5090,7 @@
 {
     "id": 594,
     "last_name": "Lafont",
-    "img": "/football/img/players/Lafont.webp",
+    "img": "/Football/img/players/Lafont.webp",
     "full_name": "Alban Lafont",
     "team": "Nantes",
     "nationality": "France",
@@ -5100,7 +5100,7 @@
 {
     "id": 595,
     "last_name": "Origi",
-    "img": "/football/img/players/Origi.webp",
+    "img": "/Football/img/players/Origi.webp",
     "full_name": "Divock Origi",
     "team": "Nottingham Forest",
     "nationality": "Belgium",
@@ -5110,7 +5110,7 @@
 {
     "id": 596,
     "last_name": "A Traore",
-    "img": "/football/img/players/A Traore.webp",
+    "img": "/Football/img/players/A Traore.webp",
     "full_name": "Adama Traore",
     "team": "Fulham",
     "nationality": "Spain",
@@ -5120,7 +5120,7 @@
 {
     "id": 598,
     "last_name": "F Garcia",
-    "img": "/football/img/players/F Garcia.webp",
+    "img": "/Football/img/players/F Garcia.webp",
     "full_name": "Fran Garcia",
     "team": "Real Madrid",
     "nationality": "Spain",
@@ -5130,7 +5130,7 @@
 {
     "id": 599,
     "last_name": "Valdes",
-    "img": "/football/img/players/Valdes.webp",
+    "img": "/Football/img/players/Valdes.webp",
     "full_name": "Victor Valdes",
     "team": "Retired",
     "nationality": "Spain",
@@ -5140,7 +5140,7 @@
 {
     "id": 600,
     "last_name": "Irwin",
-    "img": "/football/img/players/Irwin.webp",
+    "img": "/Football/img/players/Irwin.webp",
     "full_name": "Denis Irwin",
     "team": "Retired",
     "nationality": "Ireland",
@@ -5150,7 +5150,7 @@
 {
     "id": 602,
     "last_name": "Souness",
-    "img": "/football/img/players/Souness.webp",
+    "img": "/Football/img/players/Souness.webp",
     "full_name": "Graeme Souness",
     "team": "Retired",
     "nationality": "Scotland",
@@ -5160,7 +5160,7 @@
 {
     "id": 603,
     "last_name": "Salihamidzic",
-    "img": "/football/img/players/Salihamidzic.webp",
+    "img": "/Football/img/players/Salihamidzic.webp",
     "full_name": "Hasan Salihamidzic",
     "team": "Retired",
     "nationality": "Bosnia and Herzegovina",
@@ -5170,7 +5170,7 @@
 {
     "id": 606,
     "last_name": "Marchisio",
-    "img": "/football/img/players/Marchisio.webp",
+    "img": "/Football/img/players/Marchisio.webp",
     "full_name": "Claudio Marchisio",
     "team": "Retired",
     "nationality": "Italy",
@@ -5180,7 +5180,7 @@
 {
     "id": 609,
     "last_name": "Maxwell",
-    "img": "/football/img/players/Maxwell.webp",
+    "img": "/Football/img/players/Maxwell.webp",
     "full_name": "Maxwell Scherrer",
     "team": "Retired",
     "nationality": "Brazil",
@@ -5190,7 +5190,7 @@
 {
     "id": 611,
     "last_name": "L Moura",
-    "img": "/football/img/players/L Moura.webp",
+    "img": "/Football/img/players/L Moura.webp",
     "full_name": "Lucas Moura",
     "team": "Sao Paulo",
     "nationality": "Brazil",
@@ -5200,7 +5200,7 @@
 {
     "id": 612,
     "last_name": "A Ramsey",
-    "img": "/football/img/players/A Ramsey.webp",
+    "img": "/Football/img/players/A Ramsey.webp",
     "full_name": "Aaron Ramsey",
     "team": "Cardiff",
     "nationality": "Wales",
@@ -5210,7 +5210,7 @@
 {
     "id": 613,
     "last_name": "Kagawa",
-    "img": "/football/img/players/Kagawa.webp",
+    "img": "/Football/img/players/Kagawa.webp",
     "full_name": "Shinji Kagawa",
     "team": "Cerezo Osaka",
     "nationality": "Japan",
@@ -5220,7 +5220,7 @@
 {
     "id": 614,
     "last_name": "Subotic",
-    "img": "/football/img/players/Subotic.webp",
+    "img": "/Football/img/players/Subotic.webp",
     "full_name": "Neven Subotic",
     "team": "Retired",
     "nationality": "Serbia",
@@ -5230,7 +5230,7 @@
 {
     "id": 615,
     "last_name": "Weidenfeller",
-    "img": "/football/img/players/Weidenfeller.webp",
+    "img": "/Football/img/players/Weidenfeller.webp",
     "full_name": "Roman Weidenfeller",
     "team": "Retired",
     "nationality": "Germany",
@@ -5240,7 +5240,7 @@
 {
     "id": 616,
     "last_name": "Weigl",
-    "img": "/football/img/players/Weigl.webp",
+    "img": "/Football/img/players/Weigl.webp",
     "full_name": "Julian Weigl",
     "team": "Borussia Monchengladbach",
     "nationality": "Germany",
@@ -5250,7 +5250,7 @@
 {
     "id": 617,
     "last_name": "Sahin",
-    "img": "/football/img/players/Sahin.webp",
+    "img": "/Football/img/players/Sahin.webp",
     "full_name": "Nuri Sahin",
     "team": "Retired",
     "nationality": "Turkey",
@@ -5260,7 +5260,7 @@
 {
     "id": 620,
     "last_name": "Gabi",
-    "img": "/football/img/players/Gabi.webp",
+    "img": "/Football/img/players/Gabi.webp",
     "full_name": "Gabriel Luis Fernandez",
     "team": "Retired",
     "nationality": "Spain",
@@ -5270,7 +5270,7 @@
 {
     "id": 621,
     "last_name": "Tiago M",
-    "img": "/football/img/players/Tiago M.webp",
+    "img": "/Football/img/players/Tiago M.webp",
     "full_name": "Tiago Mendes",
     "team": "Retired",
     "nationality": "Portugal",
@@ -5280,7 +5280,7 @@
 {
     "id": 622,
     "last_name": "Winks",
-    "img": "/football/img/players/Winks.webp",
+    "img": "/Football/img/players/Winks.webp",
     "full_name": "Harry Winks",
     "team": "Leicester City",
     "nationality": "England",
@@ -5290,7 +5290,7 @@
 {
     "id": 625,
     "last_name": "Lennon",
-    "img": "/football/img/players/Lennon.webp",
+    "img": "/Football/img/players/Lennon.webp",
     "full_name": "Aaron Lennon",
     "team": "Retired",
     "nationality": "England",
@@ -5300,7 +5300,7 @@
 {
     "id": 627,
     "last_name": "Lamela",
-    "img": "/football/img/players/Lamela.webp",
+    "img": "/Football/img/players/Lamela.webp",
     "full_name": "Erik Lamela",
     "team": "Sevilla",
     "nationality": "Argentina",
@@ -5310,7 +5310,7 @@
 {
     "id": 628,
     "last_name": "Ginola",
-    "img": "/football/img/players/Ginola.webp",
+    "img": "/Football/img/players/Ginola.webp",
     "full_name": "David Ginola",
     "team": "Retired",
     "nationality": "France",
@@ -5320,7 +5320,7 @@
 {
     "id": 632,
     "last_name": "Huntelaar",
-    "img": "/football/img/players/Huntelaar.webp",
+    "img": "/Football/img/players/Huntelaar.webp",
     "full_name": "Klaas-Jan Huntelaar",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -5330,7 +5330,7 @@
 {
     "id": 633,
     "last_name": "Emerson F",
-    "img": "/football/img/players/Emerson F.webp",
+    "img": "/Football/img/players/Emerson F.webp",
     "full_name": "Emerson Ferreira",
     "team": "Retired",
     "nationality": "Brazil",
@@ -5340,7 +5340,7 @@
 {
     "id": 634,
     "last_name": "C Under",
-    "img": "/football/img/players/C Under.webp",
+    "img": "/Football/img/players/C Under.webp",
     "full_name": "Cengiz Under",
     "team": "Fenerbahce",
     "nationality": "Turkey",
@@ -5350,7 +5350,7 @@
 {
     "id": 635,
     "last_name": "J Callejon",
-    "img": "/football/img/players/J Callejon.webp",
+    "img": "/Football/img/players/J Callejon.webp",
     "full_name": "Jose Callejon",
     "team": "Granada",
     "nationality": "Spain",
@@ -5360,7 +5360,7 @@
 {
     "id": 637,
     "last_name": "L Fabiano",
-    "img": "/football/img/players/L Fabiano.webp",
+    "img": "/Football/img/players/L Fabiano.webp",
     "full_name": "Luis Fabiano",
     "team": "Retired",
     "nationality": "Brazil",
@@ -5370,7 +5370,7 @@
 {
     "id": 639,
     "last_name": "J Martinez",
-    "img": "/football/img/players/J Martinez.webp",
+    "img": "/Football/img/players/J Martinez.webp",
     "full_name": "Jackson Martinez",
     "team": "Retired",
     "nationality": "Colombia",
@@ -5380,7 +5380,7 @@
 {
     "id": 640,
     "last_name": "R Meireles",
-    "img": "/football/img/players/R Meireles.webp",
+    "img": "/Football/img/players/R Meireles.webp",
     "full_name": "Raul Meireles",
     "team": "Retired",
     "nationality": "Portugal",
@@ -5390,7 +5390,7 @@
 {
     "id": 641,
     "last_name": "Bosingwa",
-    "img": "/football/img/players/Bosingwa.webp",
+    "img": "/Football/img/players/Bosingwa.webp",
     "full_name": "Jose Bosingwa",
     "team": "Retired",
     "nationality": "Portugal",
@@ -5400,7 +5400,7 @@
 {
     "id": 642,
     "last_name": "L Lopez",
-    "img": "/football/img/players/L Lopez.webp",
+    "img": "/Football/img/players/L Lopez.webp",
     "full_name": "Lisandro Lopez",
     "team": "Sarmiento Junin",
     "nationality": "Argentina",
@@ -5410,7 +5410,7 @@
 {
     "id": 643,
     "last_name": "B Alves",
-    "img": "/football/img/players/B Alves.webp",
+    "img": "/Football/img/players/B Alves.webp",
     "full_name": "Bruno Alves",
     "team": "Retired",
     "nationality": "Portugal",
@@ -5420,7 +5420,7 @@
 {
     "id": 644,
     "last_name": "An Silva",
-    "img": "/football/img/players/An Silva.webp",
+    "img": "/Football/img/players/An Silva.webp",
     "full_name": "Andre Silva",
     "team": "Real Sociedad",
     "nationality": "Portugal",
@@ -5430,7 +5430,7 @@
 {
     "id": 648,
     "last_name": "J Correa",
-    "img": "/football/img/players/J Correa.webp",
+    "img": "/Football/img/players/J Correa.webp",
     "full_name": "Joaquin Correa",
     "team": "Marseille",
     "nationality": "Argentina",
@@ -5440,7 +5440,7 @@
 {
     "id": 655,
     "last_name": "Madueke",
-    "img": "/football/img/players/Madueke.webp",
+    "img": "/Football/img/players/Madueke.webp",
     "full_name": "Noni Madueke",
     "team": "Chelsea",
     "nationality": "England",
@@ -5450,7 +5450,7 @@
 {
     "id": 657,
     "last_name": "Belotti",
-    "img": "/football/img/players/Belotti.webp",
+    "img": "/Football/img/players/Belotti.webp",
     "full_name": "Andrea Belotti",
     "team": "AS Roma",
     "nationality": "Italy",
@@ -5460,7 +5460,7 @@
 {
     "id": 658,
     "last_name": "Balotelli",
-    "img": "/football/img/players/Balotelli.webp",
+    "img": "/Football/img/players/Balotelli.webp",
     "full_name": "Mario Balotelli",
     "team": "Adana Demirspor",
     "nationality": "Italy",
@@ -5470,7 +5470,7 @@
   {
     "id": 660,
     "last_name": "Wanyama",
-    "img": "/football/img/players/Wanyama.webp",
+    "img": "/Football/img/players/Wanyama.webp",
     "full_name": "Victor Wanyama",
     "team": "CF Montreal",
     "nationality": "Kenya",
@@ -5480,7 +5480,7 @@
   {
     "id": 661,
     "last_name": "Piette",
-    "img": "/football/img/players/Piette.webp",
+    "img": "/Football/img/players/Piette.webp",
     "full_name": "Samuel Piette",
     "team": "CF Montreal",
     "nationality": "Canada",
@@ -5490,7 +5490,7 @@
   {
     "id": 662,
     "last_name": "Choiniere",
-    "img": "/football/img/players/Choiniere.webp",
+    "img": "/Football/img/players/Choiniere.webp",
     "full_name": "Mathieu Choiniere",
     "team": "CF Montreal",
     "nationality": "Canada",
@@ -5500,7 +5500,7 @@
   {
     "id": 663,
     "last_name": "Opoku",
-    "img": "/football/img/players/Opoku.webp",
+    "img": "/Football/img/players/Opoku.webp",
     "full_name": "Kwasi Opoku",
     "team": "CF Montreal",
     "nationality": "Ghana",
@@ -5510,7 +5510,7 @@
   {
     "id": 664,
     "last_name": "Sirois",
-    "img": "/football/img/players/Sirois.webp",
+    "img": "/Football/img/players/Sirois.webp",
     "full_name": "Jonathan Sirois",
     "team": "CF Montreal",
     "nationality": "Canada",
@@ -5520,7 +5520,7 @@
   {
     "id": 665,
     "last_name": "Corbo",
-    "img": "/football/img/players/Corbo.webp",
+    "img": "/Football/img/players/Corbo.webp",
     "full_name": "Gabriele Corbo",
     "team": "CF Montreal",
     "nationality": "Italy",
@@ -5530,7 +5530,7 @@
   {
     "id": 667,
     "last_name": "Waterman",
-    "img": "/football/img/players/Waterman.webp",
+    "img": "/Football/img/players/Waterman.webp",
     "full_name": "Joel Waterman",
     "team": "CF Montreal",
     "nationality": "Canada",
@@ -5540,7 +5540,7 @@
   {
     "id": 668,
     "last_name": "Lappalainen",
-    "img": "/football/img/players/Lappalainen.webp",
+    "img": "/Football/img/players/Lappalainen.webp",
     "full_name": "Lassi Lappalainen",
     "team": "CF Montreal",
     "nationality": "Finland",
@@ -5550,7 +5550,7 @@
   {
     "id": 669,
     "last_name": "B Duke",
-    "img": "/football/img/players/B Duke.webp",
+    "img": "/Football/img/players/B Duke.webp",
     "full_name": "Bryce Duke",
     "team": "CF Montreal",
     "nationality": "USA",
@@ -5560,7 +5560,7 @@
   {
     "id": 672,
     "last_name": "M Toye",
-    "img": "/football/img/players/M Toye.webp",
+    "img": "/Football/img/players/M Toye.webp",
     "full_name": "Mason Toye",
     "team": "CF Montreal",
     "nationality": "USA",
@@ -5570,7 +5570,7 @@
   {
     "id": 674,
     "last_name": "Lassiter",
-    "img": "/football/img/players/Lassiter.webp",
+    "img": "/Football/img/players/Lassiter.webp",
     "full_name": "Ariel Lassiter",
     "team": "CF Montreal",
     "nationality": "Costa Rica",
@@ -5580,7 +5580,7 @@
   {
     "id": 675,
     "last_name": "S Ibrahim",
-    "img": "/football/img/players/S Ibrahim.webp",
+    "img": "/Football/img/players/S Ibrahim.webp",
     "full_name": "Sunusi Ibrahim",
     "team": "CF Montreal",
     "nationality": "Nigeria",
@@ -5590,7 +5590,7 @@
   {
     "id": 676,
     "last_name": "N Saliba",
-    "img": "/football/img/players/N Saliba.webp",
+    "img": "/Football/img/players/N Saliba.webp",
     "full_name": "Nathan-D Saliba",
     "team": "CF Montreal",
     "nationality": "Canada",
@@ -5600,7 +5600,7 @@
   {
     "id": 684,
     "last_name": "Emerson P",
-    "img": "/football/img/players/Emerson P.webp",
+    "img": "/Football/img/players/Emerson P.webp",
     "full_name": "Emerson Palmieri",
     "team": "West Ham United",
     "nationality": "Italy",
@@ -5610,7 +5610,7 @@
     {
         "id": 691,
         "last_name": "Trapp",
-        "img": "/football/img/players/Trapp.webp",
+        "img": "/Football/img/players/Trapp.webp",
         "full_name": "Kevin Trapp",
         "team": "Eintracht Frankfurt",
         "nationality": "Germany",
@@ -5620,7 +5620,7 @@
     {
         "id": 693,
         "last_name": "Tsygankov",
-        "img": "/football/img/players/Tsygankov.webp",
+        "img": "/Football/img/players/Tsygankov.webp",
         "full_name": "Viktor Tsygankov",
         "team": "Girona",
         "nationality": "Ukraine",
@@ -5630,7 +5630,7 @@
     {
         "id": 694,
         "last_name": "Botman",
-        "img": "/football/img/players/Botman.webp",
+        "img": "/Football/img/players/Botman.webp",
         "full_name": "Sven Botman",
         "team": "Newcastle United",
         "nationality": "Netherlands",
@@ -5640,7 +5640,7 @@
     {
         "id": 703,
         "last_name": "Livakovic",
-        "img": "/football/img/players/Livakovic.webp",
+        "img": "/Football/img/players/Livakovic.webp",
         "full_name": "Dominik Livakovic",
         "team": "Fenerbahce",
         "nationality": "Croatia",
@@ -5650,7 +5650,7 @@
     {
         "id": 705,
         "last_name": "En-Nesyri",
-        "img": "/football/img/players/En-Nesyri.webp",
+        "img": "/Football/img/players/En-Nesyri.webp",
         "full_name": "Youssef En-Nesyri",
         "team": "Sevilla",
         "nationality": "Morocco",
@@ -5660,7 +5660,7 @@
     {
         "id": 709,
         "last_name": "Ledesma",
-        "img": "/football/img/players/Ledesma.webp",
+        "img": "/Football/img/players/Ledesma.webp",
         "full_name": "Pablo Ledesma",
         "team": "Retired",
         "nationality": "Argentina",
@@ -5670,7 +5670,7 @@
     {
         "id": 710,
         "last_name": "Schar",
-        "img": "/football/img/players/Schar.webp",
+        "img": "/Football/img/players/Schar.webp",
         "full_name": "Fabian Schar",
         "team": "Newcastle United",
         "nationality": "Switzerland",
@@ -5680,7 +5680,7 @@
     {
         "id": 711,
         "last_name": "Fred",
-        "img": "/football/img/players/Fred.webp",
+        "img": "/Football/img/players/Fred.webp",
         "full_name": "Frederico Rodrigues",
         "team": "Fenerbahce",
         "nationality": "Brazil",
@@ -5690,7 +5690,7 @@
     {
         "id": 713,
         "last_name": "Martinez",
-        "img": "/football/img/players/I Martinez.webp",
+        "img": "/Football/img/players/I Martinez.webp",
         "full_name": "Inigo Martinez",
         "team": "Barcelona",
         "nationality": "Spain",
@@ -5700,7 +5700,7 @@
     {
         "id": 717,
         "last_name": "Mitoma",
-        "img": "/football/img/players/Mitoma.webp",
+        "img": "/Football/img/players/Mitoma.webp",
         "full_name": "Kaoru Mitoma",
         "team": "Brighton",
         "nationality": "Japan",
@@ -5710,7 +5710,7 @@
     {
         "id": 725,
         "last_name": "Kubo",
-        "img": "/football/img/players/Kubo.webp",
+        "img": "/Football/img/players/Kubo.webp",
         "full_name": "Takefusa Kubo",
         "team": "Real Sociedad",
         "nationality": "Japan",
@@ -5720,7 +5720,7 @@
     {
         "id": 741,
         "last_name": "Lo Celso",
-        "img": "/football/img/players/Lo Celso.webp",
+        "img": "/Football/img/players/Lo Celso.webp",
         "full_name": "Giovani Lo Celso",
         "team": "Tottenham",
         "nationality": "Argentina",
@@ -5730,7 +5730,7 @@
     {
         "id": 744,
         "last_name": "Yeray",
-        "img": "/football/img/players/Yeray.webp",
+        "img": "/Football/img/players/Yeray.webp",
         "full_name": "Yeray Alvarez",
         "team": "Athletic Bilbao",
         "nationality": "Spain",
@@ -5740,7 +5740,7 @@
     {
         "id": 746,
         "last_name": "Malcom",
-        "img": "/football/img/players/Malcom.webp",
+        "img": "/Football/img/players/Malcom.webp",
         "full_name": "Malcom Filipe Silva",
         "team": "Al Hilal",
         "nationality": "Brazil",
@@ -5750,7 +5750,7 @@
     {
         "id": 748,
         "last_name": "Zapata",
-        "img": "/football/img/players/Zapata.webp",
+        "img": "/Football/img/players/Zapata.webp",
         "full_name": "Duvan Zapata",
         "team": "Torino",
         "nationality": "Colombia",
@@ -5760,7 +5760,7 @@
     {
         "id": 751,
         "last_name": "Vlachodimos",
-        "img": "/football/img/players/Vlachodimos.webp",
+        "img": "/Football/img/players/Vlachodimos.webp",
         "full_name": "O Vlachodimos",
         "team": "Nottingham Forest",
         "nationality": "Greece",
@@ -5770,7 +5770,7 @@
     {
         "id": 753,
         "last_name": "Lopes",
-        "img": "/football/img/players/A Lopes.webp",
+        "img": "/Football/img/players/A Lopes.webp",
         "full_name": "Anthony Lopes",
         "team": "Lyon",
         "nationality": "Portugal",
@@ -5780,7 +5780,7 @@
     {
         "id": 755,
         "last_name": "Lacazette",
-        "img": "/football/img/players/Lacazette.webp",
+        "img": "/Football/img/players/Lacazette.webp",
         "full_name": "Alexandre Lacazette",
         "team": "Lyon",
         "nationality": "France",
@@ -5790,7 +5790,7 @@
     {
         "id": 757,
         "last_name": "Ochoa",
-        "img": "/football/img/players/Ochoa.webp",
+        "img": "/Football/img/players/Ochoa.webp",
         "full_name": "Guillermo Ochoa",
         "team": "Salernitana",
         "nationality": "Mexico",
@@ -5800,7 +5800,7 @@
     {
         "id": 758,
         "last_name": "Mamardashvili",
-        "img": "/football/img/players/Mamardashvili.webp",
+        "img": "/Football/img/players/Mamardashvili.webp",
         "full_name": "G Mamardashvili",
         "team": "Valencia",
         "nationality": "Georgia",
@@ -5810,7 +5810,7 @@
     {
         "id": 760,
         "last_name": "Adeyemi",
-        "img": "/football/img/players/Adeyemi.webp",
+        "img": "/Football/img/players/Adeyemi.webp",
         "full_name": "Karim Adeyemi",
         "team": "Borussia Dortmund",
         "nationality": "Germany",
@@ -5820,7 +5820,7 @@
     {
         "id": 779,
         "last_name": "M Edwards",
-        "img": "/football/img/players/M Edwards.webp",
+        "img": "/Football/img/players/M Edwards.webp",
         "full_name": "Marcus Edwards",
         "team": "Sporting Lisbon",
         "nationality": "England",
@@ -5830,7 +5830,7 @@
     {
         "id": 781,
         "last_name": "Florentino",
-        "img": "/football/img/players/Florentino.webp",
+        "img": "/Football/img/players/Florentino.webp",
         "full_name": "Florentino Luis",
         "team": "Benfica",
         "nationality": "Portugal",
@@ -5840,7 +5840,7 @@
 {
    "id": 813,
    "last_name": "Savio",
-   "img": "/football/img/players/Savio.webp",
+   "img": "/Football/img/players/Savio.webp",
    "full_name": "Matheus Savio",
    "team": "Girona",
    "nationality": "Brazil",
@@ -5850,7 +5850,7 @@
 {
    "id": 818,
    "last_name": "Maguire",
-   "img": "/football/img/players/Maguire.webp",
+   "img": "/Football/img/players/Maguire.webp",
    "full_name": "Harry Maguire",
    "team": "Manchester United",
    "nationality": "England",
@@ -5860,7 +5860,7 @@
 {
    "id": 819,
    "last_name": "Suso",
-   "img": "/football/img/players/Suso.webp",
+   "img": "/Football/img/players/Suso.webp",
    "full_name": "Jesus Suso",
    "team": "Sevilla",
    "nationality": "Spain",
@@ -5870,7 +5870,7 @@
 {
    "id": 820,
    "last_name": "Veretout",
-   "img": "/football/img/players/Veretout.webp",
+   "img": "/Football/img/players/Veretout.webp",
    "full_name": "Jordan Veretout",
    "team": "Marseille",
    "nationality": "France",
@@ -5880,7 +5880,7 @@
 {
    "id": 825,
    "last_name": "Matic",
-   "img": "/football/img/players/Matic.webp",
+   "img": "/Football/img/players/Matic.webp",
    "full_name": "Nemanja Matic",
    "team": "Rennes",
    "nationality": "Serbia",
@@ -5890,7 +5890,7 @@
 {
    "id": 827,
    "last_name": "de Jong",
-   "img": "/football/img/players/L de Jong.webp",
+   "img": "/Football/img/players/L de Jong.webp",
    "full_name": "Luuk de Jong",
    "team": "PSV Eindhoven",
    "nationality": "Netherlands",
@@ -5900,7 +5900,7 @@
 {
    "id": 828,
    "last_name": "Muniain",
-   "img": "/football/img/players/Muniain.webp",
+   "img": "/Football/img/players/Muniain.webp",
    "full_name": "Iker Muniain",
    "team": "Athletic Bilbao",
    "nationality": "Spain",
@@ -5910,7 +5910,7 @@
 {
    "id": 830,
    "last_name": "Toloi",
-   "img": "/football/img/players/Toloi.webp",
+   "img": "/Football/img/players/Toloi.webp",
    "full_name": "Rafael Toloi",
    "team": "Retired",
    "nationality": "Italy",
@@ -5920,7 +5920,7 @@
 {
    "id": 833,
    "last_name": "Carnesecchi",
-   "img": "/football/img/players/Carnesecchi.webp",
+   "img": "/Football/img/players/Carnesecchi.webp",
    "full_name": "Marco Carnesecchi",
    "team": "Atalanta",
    "nationality": "Italy",
@@ -5930,7 +5930,7 @@
 {
    "id": 835,
    "last_name": "Moukoko",
-   "img": "/football/img/players/Moukoko.webp",
+   "img": "/Football/img/players/Moukoko.webp",
    "full_name": "Yossoufa Moukoko",
    "team": "Borussia Dortmund",
    "nationality": "Germany",
@@ -5940,7 +5940,7 @@
 {
    "id": 836,
    "last_name": "Guler",
-   "img": "/football/img/players/Guler.webp",
+   "img": "/Football/img/players/Guler.webp",
    "full_name": "Arda Guler",
    "team": "Real Madrid",
    "nationality": "Turkey",
@@ -5950,7 +5950,7 @@
 {
    "id": 837,
    "last_name": "Roque",
-   "img": "/football/img/players/Roque.webp",
+   "img": "/Football/img/players/Roque.webp",
    "full_name": "Vitor Roque",
    "team": "Barcelona",
    "nationality": "Brazil",
@@ -5960,7 +5960,7 @@
 {
    "id": 838,
    "last_name": "Miretti",
-   "img": "/football/img/players/Miretti.webp",
+   "img": "/Football/img/players/Miretti.webp",
    "full_name": "Fabio Miretti",
    "team": "Juventus",
    "nationality": "Italy",
@@ -5970,7 +5970,7 @@
 {
    "id": 841,
    "last_name": "Veiga",
-   "img": "/football/img/players/Veiga.webp",
+   "img": "/Football/img/players/Veiga.webp",
    "full_name": "Gabri Veiga",
    "team": "Al Ahli",
    "nationality": "Spain",
@@ -5980,7 +5980,7 @@
 {
    "id": 842,
    "last_name": "Zaire-Emery",
-   "img": "/football/img/players/Zaire-Emery.webp",
+   "img": "/Football/img/players/Zaire-Emery.webp",
    "full_name": "Warren Zaire-Emery",
    "team": "PSG",
    "nationality": "France",
@@ -5990,7 +5990,7 @@
 {
   "id": 843,
   "last_name": "N Gonzalez",
-  "img": "/football/img/players/N Gonzalez.webp",
+  "img": "/Football/img/players/N Gonzalez.webp",
   "full_name": "Nicolas Gonzalez",
   "team": "Fiorentina",
   "nationality": "Argentina",
@@ -6000,7 +6000,7 @@
 {
   "id": 844,
   "last_name": "Almiron",
-  "img": "/football/img/players/Almiron.webp",
+  "img": "/Football/img/players/Almiron.webp",
   "full_name": "Miguel Almiron",
   "team": "Newcastle United",
   "nationality": "Paraguay",
@@ -6010,7 +6010,7 @@
 {
   "id": 845,
   "last_name": "Tsygankov",
-  "img": "/football/img/players/Tsygankov.webp",
+  "img": "/Football/img/players/Tsygankov.webp",
   "full_name": "Viktor Tsygankov",
   "team": "Girona",
   "nationality": "Ukraine",
@@ -6020,7 +6020,7 @@
 {
   "id": 846,
   "last_name": "Casteels",
-  "img": "/football/img/players/Casteels.webp",
+  "img": "/Football/img/players/Casteels.webp",
   "full_name": "Koen Casteels",
   "team": "Wolfsburg",
   "nationality": "Belgium",
@@ -6030,7 +6030,7 @@
 {
   "id": 847,
   "last_name": "L Alberto",
-  "img": "/football/img/players/L Alberto.webp",
+  "img": "/Football/img/players/L Alberto.webp",
   "full_name": "Luis Alberto",
   "team": "Lazio",
   "nationality": "Spain",
@@ -6040,7 +6040,7 @@
 {
   "id": 848,
   "last_name": "Pope",
-  "img": "/football/img/players/Pope.webp",
+  "img": "/Football/img/players/Pope.webp",
   "full_name": "Nick Pope",
   "team": "Newcastle United",
   "nationality": "England",
@@ -6050,7 +6050,7 @@
 {
   "id": 849,
   "last_name": "Remiro",
-  "img": "/football/img/players/Remiro.webp",
+  "img": "/Football/img/players/Remiro.webp",
   "full_name": "Alex Remiro",
   "team": "Real Sociedad",
   "nationality": "Spain",
@@ -6060,7 +6060,7 @@
 {
   "id": 850,
   "last_name": "Grimaldo",
-  "img": "/football/img/players/Grimaldo.webp",
+  "img": "/Football/img/players/Grimaldo.webp",
   "full_name": "Alejandro Grimaldo",
   "team": "Bayer Leverkusen",
   "nationality": "Spain",

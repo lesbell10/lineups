@@ -7,7 +7,7 @@
         "nationality": "France",
         "position": "Forward",
         "height": "6'2",
-        "img": "/football/img/players/Henry.webp",
+        "img": "/Football/img/players/Henry.webp",
         "team": "Retired",
         "description": "Arsenal legend, prolific scorer, World Cup winner.",
         "age": "46 years old"
@@ -20,7 +20,7 @@
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "team": "Al Nassr",
         "description": "Five-time Ballon d'Or, legendary prolific forward.",
         "age": "38 years old"
@@ -33,7 +33,7 @@
         "nationality": "England",
         "position": "Forward",
         "height": "5'9",
-        "img": "/football/img/players/Rooney.webp",
+        "img": "/Football/img/players/Rooney.webp",
         "team": "Retired",
         "description": "Manchester United's top scorer, versatile, determined leader.",
         "age": "38 years old"
@@ -46,7 +46,7 @@
         "nationality": "Brazil",
         "position": "Forward",
         "height": "5'10",
-        "img": "/football/img/players/Ronaldinho.webp",
+        "img": "/Football/img/players/Ronaldinho.webp",
         "team": "Retired",
         "description": "Magical playmaker, two-time Ballon d'Or, Barcelona star.",
         "age": "43 years old"
@@ -59,7 +59,7 @@
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'10",
-        "img": "/football/img/players/Fabregas.webp",
+        "img": "/Football/img/players/Fabregas.webp",
         "team": "Retired",
         "description": "World Cup winner, creative midfielder, Premier League success.",
         "age": "36 years old"
@@ -72,7 +72,7 @@
         "nationality": "England",
         "position": "Central Midfielder",
         "height": "6'0",
-        "img": "/football/img/players/Gerrard.webp",
+        "img": "/Football/img/players/Gerrard.webp",
         "team": "Retired",
         "description": "Liverpool icon, Champions League hero, versatile midfielder.",
         "age": "43 years old"
@@ -85,7 +85,7 @@
         "nationality": "Spain",
         "position": "Centre Back, Right Back",
         "height": "6'0",
-        "img": "/football/img/players/S Ramos.webp",
+        "img": "/Football/img/players/S Ramos.webp",
         "team": "Sevilla",
         "description": "Spanish defender, World Cup winner, Real Madrid legend.",
         "age": "37 years old"
@@ -98,7 +98,7 @@
         "nationality": "Italy",
         "position": "Centre Back",
         "height": "6'2",
-        "img": "/football/img/players/Nesta.webp",
+        "img": "/Football/img/players/Nesta.webp",
         "team": "Retired",
         "description": "World Cup winner, defensive master, AC Milan stalwart.",
         "age": "47 years old"
@@ -111,7 +111,7 @@
         "nationality": "England",
         "position": "Centre Back",
         "height": "6'2",
-        "img": "/football/img/players/Terry.webp",
+        "img": "/Football/img/players/Terry.webp",
         "team": "Retired",
         "description": "Chelsea captain, Premier League champion, defensive leader.",
         "age": "43 years old"
@@ -124,7 +124,7 @@
         "nationality": "Argentina",
         "position": "Full Back",
         "height": "5'10",
-        "img": "/football/img/players/Zanetti.webp",
+        "img": "/Football/img/players/Zanetti.webp",
         "team": "Retired",
         "description": "Inter Milan legend, versatile defender, Argentina international.",
         "age": "50 years old"
@@ -137,7 +137,7 @@
         "nationality": "Italy",
         "position": "Goalkeeper",
         "height": "6'4",
-        "img": "/football/img/players/Buffon.webp",
+        "img": "/Football/img/players/Buffon.webp",
         "team": "Retired",
         "description": "Iconic goalkeeper, World Cup champion, Juventus legend.",
         "age": "45 years old"

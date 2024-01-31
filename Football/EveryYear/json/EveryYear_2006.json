@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ronaldo",
-        "img": "/football/img/players/Ronaldo.webp",
+        "img": "/Football/img/players/Ronaldo.webp",
         "full_name": "Luis Ronaldo",
         "birth_date": "22-09-1976",
         "age": "47 years old",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "C Ronaldo",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "full_name": "Cristiano Ronaldo",
         "birth_date": "05-02-1985",
         "age": "38 years old",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Rooney",
-        "img": "/football/img/players/Rooney.webp",
+        "img": "/Football/img/players/Rooney.webp",
         "full_name": "Wayne Rooney",
         "birth_date": "24-10-1985",
         "age": "38 years old",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Ronaldinho",
-        "img": "/football/img/players/Ronaldinho.webp",
+        "img": "/Football/img/players/Ronaldinho.webp",
         "full_name": "Ronaldinho",
         "birth_date": "21-03-1980",
         "age": "43 years old",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Zidane",
-        "img": "/football/img/players/Zidane.webp",
+        "img": "/Football/img/players/Zidane.webp",
         "full_name": "Zinedine Zidane",
         "birth_date": "23-06-1972",
         "age": "51 years old",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Essien",
-        "img": "/football/img/players/Essien.webp",
+        "img": "/Football/img/players/Essien.webp",
         "full_name": "Michael Essien",
         "birth_date": "03-12-1982",
         "age": "41 years old",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "Cafu",
-        "img": "/football/img/players/Cafu.webp",
+        "img": "/Football/img/players/Cafu.webp",
         "full_name": "Marcos Cafu",
         "birth_date": "07-06-1970",
         "age": "53 years old",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Ferdinand",
-        "img": "/football/img/players/Ferdinand.webp",
+        "img": "/Football/img/players/Ferdinand.webp",
         "full_name": "Rio Ferdinand",
         "birth_date": "07-11-1978",
         "age": "45 years old",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Maldini",
-        "img": "/football/img/players/Maldini.webp",
+        "img": "/Football/img/players/Maldini.webp",
         "full_name": "Paolo Maldini",
         "birth_date": "26-06-1968",
         "age": "55 years old",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "A Cole",
-        "img": "/football/img/players/A Cole.webp",
+        "img": "/Football/img/players/A Cole.webp",
         "full_name": "Ashley Cole",
         "birth_date": "20-12-1980",
         "age": "43 years old",
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Casillas",
-        "img": "/football/img/players/Casillas.webp",
+        "img": "/Football/img/players/Casillas.webp",
         "full_name": "Iker Casillas",
         "birth_date": "20-05-1981",
         "age": "42 years old",

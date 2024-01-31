@@ -220,17 +220,17 @@ function updatePlayerInfo() {
         DL.textContent = "Maldini";
         GK.textContent = "Buffon";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
         smallpic.src = "/football/img/wallpapers/gerrard.jpg";
@@ -263,17 +263,17 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Casillas";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
 
@@ -305,17 +305,17 @@ function updatePlayerInfo() {
         DL.textContent = "Abidal";
         GK.textContent = "Buffon";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/henry.jpg";
 
@@ -349,17 +349,17 @@ function updatePlayerInfo() {
         GK.textContent = "Buffon";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
 
@@ -393,17 +393,17 @@ function updatePlayerInfo() {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Xavi.jpg";
 
@@ -437,17 +437,17 @@ function updatePlayerInfo() {
         GK.textContent = "Buffon";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Kaka.jpg";
 
@@ -481,17 +481,17 @@ function updatePlayerInfo() {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         document.getElementById("smallpic").src = "/football/img/wallpapers/Iniesta.webp";
 
@@ -524,17 +524,17 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ozil.png";
 
@@ -568,17 +568,17 @@ function updatePlayerInfo() {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         document.getElementById("smallpic").src = "/football/img/wallpapers/Rooney.jpg";
 
@@ -612,17 +612,17 @@ function updatePlayerInfo() {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ribery.jpg";
 
@@ -656,17 +656,17 @@ function updatePlayerInfo() {
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ibrahimovic.jpg";
 
@@ -699,17 +699,17 @@ function updatePlayerInfo() {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Robben.jpg";
 
@@ -743,17 +743,17 @@ function updatePlayerInfo() {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Lewandowski.jpg";
 
@@ -786,17 +786,17 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Suarez.jpg";
 
@@ -829,17 +829,17 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "De Gea";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Neymar.jpg";
 
@@ -872,17 +872,17 @@ function updatePlayerInfo() {
         DL.textContent = "Alba";
         GK.textContent = "Oblak";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Hazard.jpg";
 
@@ -914,17 +914,17 @@ function updatePlayerInfo() {
         DL.textContent = "Robertson";
         GK.textContent = "Oblak";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
@@ -957,17 +957,17 @@ function updatePlayerInfo() {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Salah.jpg";
 
@@ -1000,17 +1000,17 @@ function updatePlayerInfo() {
         DL.textContent = "J Cancelo";
         GK.textContent = "Courtois";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Benzema.jpg";
 
@@ -1043,17 +1043,17 @@ function updatePlayerInfo() {
         DL.textContent = "Robertson";
         GK.textContent = "Courtois";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Haaland.jpg";
 
@@ -1131,17 +1131,17 @@ const updateDropdown = () => {
         DL.textContent = "R Carlos";
         GK.textContent = "Cech";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
         smallpic.src = "/football/img/wallpapers/zidane.png";
@@ -1174,17 +1174,17 @@ const updateDropdown = () => {
         DL.textContent = "Maldini";
         GK.textContent = "Buffon";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
         smallpic.src = "/football/img/wallpapers/gerrard.jpg";
@@ -1217,17 +1217,17 @@ const updateDropdown = () => {
         DL.textContent = "A Cole";
         GK.textContent = "Casillas";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
 
@@ -1259,17 +1259,17 @@ const updateDropdown = () => {
         DL.textContent = "Abidal";
         GK.textContent = "Buffon";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/henry.jpg";
 
@@ -1303,17 +1303,17 @@ const updateDropdown = () => {
         GK.textContent = "Buffon";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
 
@@ -1347,17 +1347,17 @@ const updateDropdown = () => {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Xavi.jpg";
 
@@ -1391,17 +1391,17 @@ const updateDropdown = () => {
         GK.textContent = "Buffon";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Kaka.jpg";
 
@@ -1435,17 +1435,17 @@ const updateDropdown = () => {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         document.getElementById("smallpic").src = "/football/img/wallpapers/Iniesta.webp";
 
@@ -1478,17 +1478,17 @@ const updateDropdown = () => {
         DL.textContent = "A Cole";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ozil.png";
 
@@ -1522,17 +1522,17 @@ const updateDropdown = () => {
         GK.textContent = "Casillas";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         document.getElementById("smallpic").src = "/football/img/wallpapers/Rooney.jpg";
 
@@ -1566,17 +1566,17 @@ const updateDropdown = () => {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ribery.jpg";
 
@@ -1610,17 +1610,17 @@ const updateDropdown = () => {
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Ibrahimovic.jpg";
 
@@ -1653,17 +1653,17 @@ const updateDropdown = () => {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Robben.jpg";
 
@@ -1697,17 +1697,17 @@ const updateDropdown = () => {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Lewandowski.jpg";
 
@@ -1740,17 +1740,17 @@ const updateDropdown = () => {
         DL.textContent = "Marcelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Suarez.jpg";
 
@@ -1783,17 +1783,17 @@ const updateDropdown = () => {
         DL.textContent = "Marcelo";
         GK.textContent = "De Gea";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Neymar.jpg";
 
@@ -1826,17 +1826,17 @@ const updateDropdown = () => {
         DL.textContent = "Alba";
         GK.textContent = "Oblak";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Hazard.jpg";
 
@@ -1868,17 +1868,17 @@ const updateDropdown = () => {
         DL.textContent = "Robertson";
         GK.textContent = "Oblak";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
@@ -1911,17 +1911,17 @@ const updateDropdown = () => {
         GK.textContent = "Neuer";
 
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Salah.jpg";
 
@@ -1954,17 +1954,17 @@ const updateDropdown = () => {
         DL.textContent = "J Cancelo";
         GK.textContent = "Courtois";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Benzema.jpg";
 
@@ -1997,17 +1997,17 @@ const updateDropdown = () => {
         DL.textContent = "Robertson";
         GK.textContent = "Courtois";
 
-        STC2.src = "/football/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/football/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/football/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/football/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/football/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/football/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/football/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/football/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/football/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/football/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/football/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
         smallpic.src = "/football/img/wallpapers/Haaland.jpg";
 

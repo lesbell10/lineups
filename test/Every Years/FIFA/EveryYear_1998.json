@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Ronaldo",
-    "img": "/football/img/players/Ronaldo.webp",
+    "img": "/Football/img/players/Ronaldo.webp",
     "full_name": "Luis Ronaldo",
     "team": "Retired",
     "nationality": "Brazil",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "Beckham",
-    "img": "/football/img/players/Beckham.webp",
+    "img": "/Football/img/players/Beckham.webp",
     "full_name": "David Beckham",
     "team": "Retired",
     "nationality": "England",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "Rivaldo",
-    "img": "/football/img/players/Rivaldo.webp",
+    "img": "/Football/img/players/Rivaldo.webp",
     "full_name": "Rivaldo Vitor",
     "team": "Retired",
     "nationality": "Brazil",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "Figo",
-    "img": "/football/img/players/Figo.webp",
+    "img": "/Football/img/players/Figo.webp",
     "full_name": "Luis Figo",
     "team": "Retired",
     "nationality": "Portugal",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "Zidane",
-    "img": "/football/img/players/Zidane.webp",
+    "img": "/Football/img/players/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "team": "Retired",
     "nationality": "France",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "Davids",
-    "img": "/football/img/players/Davids.webp",
+    "img": "/Football/img/players/Davids.webp",
     "full_name": "Edgar Davids",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "last_name": "Cafu",
-    "img": "/football/img/players/Cafu.webp",
+    "img": "/Football/img/players/Cafu.webp",
     "full_name": "Marcos Cafu",
     "team": "Retired",
     "nationality": "Brazil",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "last_name": "Nesta",
-    "img": "/football/img/players/Nesta.webp",
+    "img": "/Football/img/players/Nesta.webp",
     "full_name": "Alessandro Nesta",
     "team": "Retired",
     "nationality": "Italy",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "last_name": "Desailly",
-    "img": "/football/img/players/Desailly.webp",
+    "img": "/Football/img/players/Desailly.webp",
     "full_name": "Marcel Desailly",
     "team": "Retired",
     "nationality": "France",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "last_name": "Carlos",
-    "img": "/football/img/players/Carlos.webp",
+    "img": "/Football/img/players/Carlos.webp",
     "full_name": "Roberto Carlos",
     "team": "Retired",
     "nationality": "Brazil",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "last_name": "Barthez",
-    "img": "/football/img/players/Barthez.webp",
+    "img": "/Football/img/players/Barthez.webp",
     "full_name": "Fabien Barthez",
     "team": "Retired",
     "nationality": "France",

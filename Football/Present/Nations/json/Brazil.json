@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "G Jesus",
-        "img": "/football/img/players/G Jesus.webp",
+        "img": "/Football/img/players/G Jesus.webp",
         "full_name": "Gabriel Jesus",
         "birth_date": "03-04-1997",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "Rodrygo",
-        "img": "/football/img/players/Rodrygo.webp",
+        "img": "/Football/img/players/Rodrygo.webp",
         "full_name": "Rodrygo Silva",
         "birth_date": "09-01-2001",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Neymar",
-        "img": "/football/img/players/Neymar.webp",
+        "img": "/Football/img/players/Neymar.webp",
         "full_name": "Neymar da Silva Jr",
         "birth_date": "05-02-1992",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Vinicius Jr",
-        "img": "/football/img/players/Vinicius Jr.webp",
+        "img": "/Football/img/players/Vinicius Jr.webp",
         "full_name": "Vinicius de Oliveira Jr",
         "birth_date": "12-07-2000",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Guimaraes",
-        "img": "/football/img/players/Guimaraes.webp",
+        "img": "/Football/img/players/Guimaraes.webp",
         "full_name": "Bruno Guimaraes",
         "birth_date": "16-11-1997",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Casemiro",
-        "img": "/football/img/players/Casemiro.webp",
+        "img": "/Football/img/players/Casemiro.webp",
         "full_name": "Carlos Casemiro",
         "birth_date": "23-02-1992",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "E Militao",
-        "img": "/football/img/players/E Militao.webp",
+        "img": "/Football/img/players/E Militao.webp",
         "full_name": "Eder Militao",
         "birth_date": "18-01-1998",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "Marquinhos",
-        "img": "/football/img/players/Marquinhos.webp",
+        "img": "/Football/img/players/Marquinhos.webp",
         "full_name": "Marquinhos Correa",
         "birth_date": "14-05-1994",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Gabriel",
-        "img": "/football/img/players/Gabriel.webp",
+        "img": "/Football/img/players/Gabriel.webp",
         "full_name": "Gabriel Magalhaes",
         "birth_date": "19-12-1997",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Danilo",
-        "img": "/football/img/players/Danilo.webp",
+        "img": "/Football/img/players/Danilo.webp",
         "full_name": "Danilo Luiz",
         "birth_date": "15-07-1991",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "Ederson",
-        "img": "/football/img/players/Ederson.webp",
+        "img": "/Football/img/players/Ederson.webp",
         "full_name": "Ederson Moraes",
         "birth_date": "17-08-1993",
 

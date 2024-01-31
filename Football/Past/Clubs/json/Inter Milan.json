@@ -2,7 +2,7 @@
 {
   "id": 1,
   "last_name": "D Milito",
-  "img": "/football/img/players/D Milito.webp",
+  "img": "/Football/img/players/D Milito.webp",
   "full_name": "Diego Milito",
   "birth_date": "12-06-1979",
 
@@ -15,7 +15,7 @@
 {
   "id": 2,
   "last_name": "A Sanchez",
-  "img": "/football/img/players/A Sanchez.webp",
+  "img": "/Football/img/players/A Sanchez.webp",
   "full_name": "Alexis Sanchez",
   "birth_date": "19-12-1988",
 
@@ -28,7 +28,7 @@
 {
   "id": 3,
   "last_name": "Sneijder",
-  "img": "/football/img/players/Sneijder.webp",
+  "img": "/Football/img/players/Sneijder.webp",
   "full_name": "Wesley Sneijder",
   "birth_date": "09-06-1984",
 
@@ -41,7 +41,7 @@
 {
   "id": 4,
   "last_name": "Perisic",
-  "img": "/football/img/players/Perisic.webp",
+  "img": "/Football/img/players/Perisic.webp",
   "full_name": "Ivan Perisic",
   "birth_date": "02-02-1989",
 
@@ -54,7 +54,7 @@
 {
   "id": 5,
   "last_name": "Nainggolan",
-  "img": "/football/img/players/Nainggolan.webp",
+  "img": "/Football/img/players/Nainggolan.webp",
   "full_name": "Radja Nainggolan",
   "birth_date": "04-05-1988",
 
@@ -67,7 +67,7 @@
 {
   "id": 6,
   "last_name": "Cambiasso",
-  "img": "/football/img/players/Cambiasso.webp",
+  "img": "/Football/img/players/Cambiasso.webp",
   "full_name": "Esteban Cambiasso",
   "birth_date": "18-08-1980",
 
@@ -80,7 +80,7 @@
 {
   "id": 7,
   "last_name": "Maicon",
-  "img": "/football/img/players/Maicon.webp",
+  "img": "/Football/img/players/Maicon.webp",
   "full_name": "Maicon Douglas",
   "birth_date": "26-07-1981",
 
@@ -93,7 +93,7 @@
 {
   "id": 8,
   "last_name": "Skriniar",
-  "img": "/football/img/players/Skriniar.webp",
+  "img": "/Football/img/players/Skriniar.webp",
   "full_name": "Milan Skriniar",
   "birth_date": "11-02-1995",
 
@@ -106,7 +106,7 @@
 {
   "id": 9,
   "last_name": "de Vrij",
-  "img": "/football/img/players/de Vrij.webp",
+  "img": "/Football/img/players/de Vrij.webp",
   "full_name": "Stefan de Vrij",
   "birth_date": "05-02-1992",
 
@@ -119,7 +119,7 @@
 {
   "id": 10,
   "last_name": "Chivu",
-  "img": "/football/img/players/Chivu.webp",
+  "img": "/Football/img/players/Chivu.webp",
   "full_name": "Cristian Chivu",
   "birth_date": "26-10-1980",
 
@@ -132,7 +132,7 @@
 {
   "id": 11,
   "last_name": "Handanovic",
-  "img": "/football/img/players/Handanovic.webp",
+  "img": "/Football/img/players/Handanovic.webp",
   "full_name": "Samir Handanovic",
   "birth_date": "14-07-1984",
 

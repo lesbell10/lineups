@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Morata",
-        "img": "/football/img/players/Morata.webp",
+        "img": "/Football/img/players/Morata.webp",
         "full_name": "Alvaro Morata",
         "birth_date": "23-10-1992",
 
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "last_name": "D Olmo",
-        "img": "/football/img/players/D Olmo.webp",
+        "img": "/Football/img/players/D Olmo.webp",
         "full_name": "Dani Olmo",
         "birth_date": "07-05-1998",
 
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "last_name": "Pedri",
-        "img": "/football/img/players/Pedri.webp",
+        "img": "/Football/img/players/Pedri.webp",
         "full_name": "Pedri Gonzalez",
         "birth_date": "25-11-2002",
 
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "last_name": "Gavi",
-        "img": "/football/img/players/Gavi.webp",
+        "img": "/Football/img/players/Gavi.webp",
         "full_name": "Pablo Gavi",
         "birth_date": "05-08-2004",
 
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "last_name": "Koke",
-        "img": "/football/img/players/Koke.webp",
+        "img": "/Football/img/players/Koke.webp",
         "full_name": "Jorge Koke",
         "birth_date": "08-01-1992",
 
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "last_name": "Rodri",
-        "img": "/football/img/players/Rodri.webp",
+        "img": "/Football/img/players/Rodri.webp",
         "full_name": "Rodrigo Hernandez",
         "birth_date": "22-06-1996",
 
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "last_name": "P Porro",
-        "img": "/football/img/players/P Porro.webp",
+        "img": "/Football/img/players/P Porro.webp",
         "full_name": "Pedro Porro",
         "birth_date": "13-02-2000",
 
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "last_name": "P Torres",
-        "img": "/football/img/players/P Torres.webp",
+        "img": "/Football/img/players/P Torres.webp",
         "full_name": "Pau Torres",
         "birth_date": "16-11-1997",
 
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "last_name": "Laporte",
-        "img": "/football/img/players/Laporte.webp",
+        "img": "/Football/img/players/Laporte.webp",
         "full_name": "Aymeric Laporte",
         "birth_date": "27-05-1994",
 
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "last_name": "Balde",
-        "img": "/football/img/players/Balde.webp",
+        "img": "/Football/img/players/Balde.webp",
         "full_name": "Alejandro Balde",
         "birth_date": "17-12-2003",
 
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "last_name": "U Simon",
-        "img": "/football/img/players/U Simon.webp",
+        "img": "/Football/img/players/U Simon.webp",
         "full_name": "Unai Simon",
         "birth_date": "11-03-1997",
 

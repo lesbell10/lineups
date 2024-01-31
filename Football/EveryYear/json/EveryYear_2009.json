@@ -7,7 +7,7 @@
         "nationality": "Sweden",
         "position": "Striker",
         "height": "6'5\"",
-        "img": "/football/img/players/Ibrahimovic.webp",
+        "img": "/Football/img/players/Ibrahimovic.webp",
         "team": "Retired",
         "description": "Retired Swedish striker, known for technical, acrobatic skills."
     },
@@ -19,7 +19,7 @@
         "nationality": "Argentina",
         "position": "Forward",
         "height": "5'7\"",
-        "img": "/football/img/players/Messi.webp",
+        "img": "/Football/img/players/Messi.webp",
         "team": "Inter Miami",
         "description": "Argentinian forward, Miami player, multiple Ballon d'Or winner."
     },
@@ -31,7 +31,7 @@
         "nationality": "Brazil",
         "position": "Attacking Midfielder",
         "height": "6'1\"",
-        "img": "/football/img/players/Kaka.webp",
+        "img": "/Football/img/players/Kaka.webp",
         "team": "Retired",
         "description": "Brazilian retired midfielder, World Cup, Ballon d'Or winner."
     },
@@ -43,7 +43,7 @@
         "nationality": "Portugal",
         "position": "Forward",
         "height": "6'2\"",
-        "img": "/football/img/players/C Ronaldo.webp",
+        "img": "/Football/img/players/C Ronaldo.webp",
         "team": "Al Nassr",
         "description": "Portuguese forward, Manchester United, five-time Ballon d'Or winner."
     },
@@ -55,7 +55,7 @@
         "nationality": "Spain",
         "position": "Central Midfielder",
         "height": "5'7\"",
-        "img": "/football/img/players/Xavi.webp",
+        "img": "/Football/img/players/Xavi.webp",
         "team": "Retired",
         "description": "Retired Spanish midfielder, World Cup, Champions League winner."
     },
@@ -67,7 +67,7 @@
         "nationality": "England",
         "position": "Central Midfielder",
         "height": "6'0\"",
-        "img": "/football/img/players/Gerrard.webp",
+        "img": "/Football/img/players/Gerrard.webp",
         "team": "Retired",
         "description": "Retired English midfielder, Champions League, UEFA Cup winner."
     },
@@ -79,7 +79,7 @@
         "nationality": "Brazil",
         "position": "Right Back",
         "height": "5'8\"",
-        "img": "/football/img/players/D Alves.webp",
+        "img": "/Football/img/players/D Alves.webp",
         "team": "Pumas",
         "description": "Brazilian right back, multiple Champions League, La Liga winner."
     },
@@ -91,7 +91,7 @@
         "nationality": "Spain",
         "position": "Centre Back",
         "height": "5'10\"",
-        "img": "/football/img/players/Puyol.webp",
+        "img": "/Football/img/players/Puyol.webp",
         "team": "Retired",
         "description": "Retired Spanish defender, Barcelona legend, strong, loyal leader."
     },
@@ -103,7 +103,7 @@
         "nationality": "Italy",
         "position": "Centre Back",
         "height": "6'2\"",
-        "img": "/football/img/players/Nesta.webp",
+        "img": "/Football/img/players/Nesta.webp",
         "team": "Retired",
         "description": "Retired Italian defender, World Cup, Champions League winner."
     },
@@ -115,7 +115,7 @@
         "nationality": "Germany",
         "position": "Full Back",
         "height": "5'7\"",
-        "img": "/football/img/players/Lahm.webp",
+        "img": "/Football/img/players/Lahm.webp",
         "team": "Retired",
         "description": "Retired German full back, World Cup, Champions League winner."
     },
@@ -127,7 +127,7 @@
         "nationality": "Spain",
         "position": "Goalkeeper",
         "height": "6'1\"",
-        "img": "/football/img/players/Casillas.webp",
+        "img": "/Football/img/players/Casillas.webp",
         "team": "Retired",
         "description": "Retired Spanish goalkeeper, World Cup, Champions League winner."
     }

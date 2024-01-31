@@ -2,7 +2,7 @@
  {
     "id": 1,
     "last_name": "G Jesus",
-    "img": "/football/img/players/G Jesus.webp",
+    "img": "/Football/img/players/G Jesus.webp",
     "full_name": "Gabriel Jesus",
     "birth_date": "03-04-1997",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Saka",
-    "img": "/football/img/players/Saka.webp",
+    "img": "/Football/img/players/Saka.webp",
     "full_name": "Bukayo Saka",
     "birth_date": "05-09-2001",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Odegaard",
-    "img": "/football/img/players/Odegaard.webp",
+    "img": "/Football/img/players/Odegaard.webp",
     "full_name": "Martin Odegaard",
     "birth_date": "17-12-1998",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Martinelli",
-    "img": "/football/img/players/Martinelli.webp",
+    "img": "/Football/img/players/Martinelli.webp",
     "full_name": "Gabriel Martinelli",
     "birth_date": "18-06-2001",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Partey",
-    "img": "/football/img/players/Partey.webp",
+    "img": "/Football/img/players/Partey.webp",
     "full_name": "Thomas Partey",
     "birth_date": "13-06-1993",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Rice",
-    "img": "/football/img/players/Rice.webp",
+    "img": "/Football/img/players/Rice.webp",
     "full_name": "Declan Rice",
     "birth_date": "14-01-1999",
 
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "last_name": "B White",
-    "img": "/football/img/players/B White.webp",
+    "img": "/Football/img/players/B White.webp",
     "full_name": "Ben White",
     "birth_date": "08-10-1997",
 
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "last_name": "Saliba",
-    "img": "/football/img/players/Saliba.webp",
+    "img": "/Football/img/players/Saliba.webp",
     "full_name": "William Saliba",
     "birth_date": "24-03-2001",
 
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "last_name": "Gabriel",
-    "img": "/football/img/players/Gabriel.webp",
+    "img": "/Football/img/players/Gabriel.webp",
     "full_name": "Gabriel Magalhaes",
     "birth_date": "19-12-1997",
     "position": "Centre Back",
@@ -118,7 +118,7 @@
   {
     "id": 10,
     "last_name": "Zinchenko",
-    "img": "/football/img/players/Zinchenko.webp",
+    "img": "/Football/img/players/Zinchenko.webp",
     "full_name": "Oleksandr Zinchenko",
     "birth_date": "15-12-1996",
 
@@ -131,7 +131,7 @@
   {
     "id": 11,
     "last_name": "D Raya",
-    "img": "/football/img/players/D Raya.webp",
+    "img": "/Football/img/players/D Raya.webp",
     "full_name": "David Raya",
     "birth_date": "28-09-1995",
 

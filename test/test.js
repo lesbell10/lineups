@@ -205,7 +205,7 @@ function updatePlayerInfo(selectedYear) {
 
         if (playerNameElement && playerImageElement) {
             playerNameElement.textContent = player.name;
-            playerImageElement.src = `/football/img/players/${player.name}.webp`;
+            playerImageElement.src = `/Football/img/players/${player.name}.webp`;
         }
     });
 
