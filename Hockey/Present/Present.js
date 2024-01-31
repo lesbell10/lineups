@@ -98,7 +98,7 @@ function updatePlayerInfo() {
     //             sideModal.style.display = 'none'; // Hide the modal
     // }); 
 
-    MainFetchPopUp("/hockey/present/present.json");
+    MainFetchPopUp("/Hockey/Present/Present.json");
 
 
     function clearAndFadeInElements() {
