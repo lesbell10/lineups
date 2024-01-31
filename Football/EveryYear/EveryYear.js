@@ -1122,7 +1122,7 @@ const updateDropdown = () => {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho";
+        FL.textContent = "Ronaldinhoooooo";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
