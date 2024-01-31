@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Benn",
-        "img": "/hockey/img/players/Benn.jpg",
+        "img": "/Hockey/img/players/Benn.jpg",
         "full_name": "Jamie Benn",
         "team": "Dallas Stars",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Seguin",
-        "img": "/hockey/img/players/Seguin.jpg",
+        "img": "/Hockey/img/players/Seguin.jpg",
         "full_name": "Tyler Seguin",
         "team": "Dallas Stars",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Radulov",
-        "img": "/hockey/img/players/Radulov.jpg",
+        "img": "/Hockey/img/players/Radulov.jpg",
         "full_name": "Alexander Radulov",
         "team": "Ak Bars Kazan (Russia)",
         "nationality": "Russia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Klingberg",
-        "img": "/hockey/img/players/Klingberg.jpg",
+        "img": "/Hockey/img/players/Klingberg.jpg",
         "full_name": "John Klingberg",
         "team": "Toronto Maple Leafs",
         "nationality": "Sweden",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Heiskanen",
-        "img": "/hockey/img/players/Heiskanen.jpg",
+        "img": "/Hockey/img/players/Heiskanen.jpg",
         "full_name": "Miro Heiskanen",
         "team": "Dallas Stars",
         "nationality": "Finland",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Bishop",
-        "img": "/hockey/img/players/Bishop.jpg",
+        "img": "/Hockey/img/players/Bishop.jpg",
         "full_name": "Ben Bishop",
         "team": "Retired",
         "nationality": "USA",

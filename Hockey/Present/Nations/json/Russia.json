@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ovechkin",
-        "img": "/hockey/img/players/Ovechkin.jpg",
+        "img": "/Hockey/img/players/Ovechkin.jpg",
         "full_name": "Alex Ovechkin",
         "team": "Washington Capitals",
         "nationality": "Russia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Kucherov",
-        "img": "/hockey/img/players/Kucherov.jpg",
+        "img": "/Hockey/img/players/Kucherov.jpg",
         "full_name": "Nikita Kucherov",
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Panarin",
-        "img": "/hockey/img/players/Panarin.jpg",
+        "img": "/Hockey/img/players/Panarin.jpg",
         "full_name": "Artemi Panarin",
         "team": "New York Rangers",
         "nationality": "Russia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Provorov",
-        "img": "/hockey/img/players/Provorov.jpg",
+        "img": "/Hockey/img/players/Provorov.jpg",
         "full_name": "Ivan Provorov",
         "team": "Columbus Blue Jackets",
         "nationality": "Russia",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Sergachev",
-        "img": "/hockey/img/players/Sergachev.jpg",
+        "img": "/Hockey/img/players/Sergachev.jpg",
         "full_name": "Mikhail Sergachev",
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Vasilevskiy",
-        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "img": "/Hockey/img/players/Vasilevskiy.jpg",
         "full_name": "Andrei Vasilevskiy",
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",

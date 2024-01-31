@@ -19,11 +19,11 @@
         const playerData = {
             "0": {
                 names: ["MacKinnon", "McDavid", "Crosby", "Makar", "Hamilton", "Jarry"],
-                logo: "/hockey/img/logos/canada.png"
+                logo: "/Hockey/img/logos/canada.png"
             },
             "1": {
                 names: ["Necas", "Hertl", "Pastrnak", "Rutta", "Simek", "Vanecek"],
-                logo: "/hockey/img/logos/czech republic.webp"
+                logo: "/Hockey/img/logos/czech republic.webp"
             },
             "2": {
                 names: ["Hintz", "Barkov", "Rantanen", "Heiskanen", "Lindell", "Saros"],
@@ -43,7 +43,7 @@
                 const playerImage = document.getElementById(position + '2');
 
                 playerElement.textContent = country.names[index];
-                playerImage.src = "/hockey/img/players/" + country.names[index] + ".jpg";
+                playerImage.src = "/Hockey/img/players/" + country.names[index] + ".jpg";
             });
 
             smallpic.src = country.logo;

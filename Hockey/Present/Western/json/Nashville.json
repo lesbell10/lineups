@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "F Forsberg",
-        "img": "/hockey/img/players/F Forsberg.jpg",
+        "img": "/Hockey/img/players/F Forsberg.jpg",
         "full_name": "Filip Forsberg",
         "team": "Nashville Predators",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "O'Reilly",
-        "img": "/hockey/img/players/O'Reilly.jpg",
+        "img": "/Hockey/img/players/O'Reilly.jpg",
         "full_name": "Ryan O'Reilly",
         "team": "Nashville Predators",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Novak",
-        "img": "/hockey/img/players/Novak.jpg",
+        "img": "/Hockey/img/players/Novak.jpg",
         "full_name": "Thomas Novak",
         "team": "Nashville Predators",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Josi",
-        "img": "/hockey/img/players/Josi.jpg",
+        "img": "/Hockey/img/players/Josi.jpg",
         "full_name": "Roman Josi",
         "team": "Nashville Predators",
         "nationality": "Switzerland",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "McDonagh",
-        "img": "/hockey/img/players/McDonagh.jpg",
+        "img": "/Hockey/img/players/McDonagh.jpg",
         "full_name": "Ryan McDonagh",
         "team": "Nashville Predators",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Saros",
-        "img": "/hockey/img/players/Saros.jpg",
+        "img": "/Hockey/img/players/Saros.jpg",
         "full_name": "Juuse Saros",
         "team": "Nashville Predators",
         "nationality": "Finland",

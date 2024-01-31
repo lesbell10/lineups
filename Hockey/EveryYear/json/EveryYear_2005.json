@@ -9,7 +9,7 @@
         "position": "Left Winger",
         "height": "6'0\"",
         "description": "Swedish left winger, a scoring sensation for the Vancouver Canucks.",
-        "img": "/hockey/img/players/Naslund.jpg"
+        "img": "/Hockey/img/players/Naslund.jpg"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "position": "Center",
         "height": "5'11\"",
         "description": "Canadian center, a legendary figure for the Colorado Avalanche.",
-        "img": "/hockey/img/players/Sakic.jpg"
+        "img": "/Hockey/img/players/Sakic.jpg"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "position": "Right Winger",
         "height": "6'1\"",
         "description": "Canadian right winger, a prolific scorer for the Calgary Flames.",
-        "img": "/hockey/img/players/Iginla.jpg"
+        "img": "/Hockey/img/players/Iginla.jpg"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "position": "Defenseman",
         "height": "6'1\"",
         "description": "Canadian defenseman, a key figure for the New Jersey Devils.",
-        "img": "/hockey/img/players/S Niedermayer.jpg"
+        "img": "/Hockey/img/players/S Niedermayer.jpg"
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "position": "Defenseman",
         "height": "6'6\"",
         "description": "Canadian defenseman, a dominant presence in the NHL.",
-        "img": "/hockey/img/players/Pronger.jpg"
+        "img": "/Hockey/img/players/Pronger.jpg"
     },
     {
         "id": 6,
@@ -69,6 +69,6 @@
         "position": "Goaltender",
         "height": "6'2\"",
         "description": "Canadian goaltender, a legendary figure for the New Jersey Devils.",
-        "img": "/hockey/img/players/Brodeur.jpg"
+        "img": "/Hockey/img/players/Brodeur.jpg"
     }
 ]

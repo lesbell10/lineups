@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Hall",
-        "img": "/hockey/img/players/Hall.jpg",
+        "img": "/Hockey/img/players/Hall.jpg",
         "full_name": "Taylor Hall",
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Henrique",
-        "img": "/hockey/img/players/Henrique.jpg",
+        "img": "/Hockey/img/players/Henrique.jpg",
         "full_name": "Adam Henrique",
         "team": "Anaheim Ducks",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Hischier",
-        "img": "/hockey/img/players/Hischier.jpg",
+        "img": "/Hockey/img/players/Hischier.jpg",
         "full_name": "Nico Hischier",
         "team": "New Jersey Devils",
         "nationality": "Switzerland",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "A Greene",
-        "img": "/hockey/img/players/A Greene.jpg",
+        "img": "/Hockey/img/players/A Greene.jpg",
         "full_name": "Andy Greene",
         "team": "Retired",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Subban",
-        "img": "/hockey/img/players/Subban.jpg",
+        "img": "/Hockey/img/players/Subban.jpg",
         "full_name": "PK Subban",
         "team": "Retired",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Schneider",
-        "img": "/hockey/img/players/Schneider.jpg",
+        "img": "/Hockey/img/players/Schneider.jpg",
         "full_name": "Cory Schneider",
         "team": "Retired",
         "nationality": "USA",

@@ -158,14 +158,14 @@ function updatePlayerInfo() {
         DR.textContent = "Carlo";
         G.textContent = "Ullmark";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/boston.gif";
+        smallpic.src = "/Hockey/img/logos/boston.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/boston.json");
 
@@ -200,14 +200,14 @@ function updatePlayerInfo() {
         DR.textContent = "Power";
         G.textContent = "Luukkonen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/buffalo.gif";
+        smallpic.src = "/Hockey/img/logos/buffalo.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/buffalo.json");
 
@@ -243,14 +243,14 @@ function updatePlayerInfo() {
         DR.textContent = "Burns";
         G.textContent = "Andersen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/carolina.gif";
+        smallpic.src = "/Hockey/img/logos/carolina.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/carolina.json");
 
@@ -287,14 +287,14 @@ function updatePlayerInfo() {
         DR.textContent = "Provorov";
         G.textContent = "Merzlikins";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/columbus.gif";
+        smallpic.src = "/Hockey/img/logos/columbus.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/columbus.json");
 
@@ -328,14 +328,14 @@ function updatePlayerInfo() {
         DR.textContent = "Petry";
         G.textContent = "Husso";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/detroit.gif";
+        smallpic.src = "/Hockey/img/logos/detroit.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/detroit.json");
 
@@ -370,14 +370,14 @@ function updatePlayerInfo() {
         DR.textContent = "Montour";
         G.textContent = "Bobrovsky";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/florida.gif";
+        smallpic.src = "/Hockey/img/logos/florida.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/florida.json");
 
@@ -413,14 +413,14 @@ function updatePlayerInfo() {
         DR.textContent = "Guhle";
         G.textContent = "J Allen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/montreal.gif";
+        smallpic.src = "/Hockey/img/logos/montreal.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/montreal.json");
 
@@ -455,14 +455,14 @@ function updatePlayerInfo() {
         DR.textContent = "Siegenthaler";
         G.textContent = "Vanecek";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/new jersey.gif";
+        smallpic.src = "/Hockey/img/logos/new jersey.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/new jersey.json");
 
@@ -498,14 +498,14 @@ function updatePlayerInfo() {
         DR.textContent = "Pulock";
         G.textContent = "Sorokin";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ny islanders.gif";
+        smallpic.src = "/Hockey/img/logos/ny islanders.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny islanders.json");
 
@@ -540,14 +540,14 @@ function updatePlayerInfo() {
         DR.textContent = "K Miller";
         G.textContent = "Shesterkin";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ny rangers.gif";
+        smallpic.src = "/Hockey/img/logos/ny rangers.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
 
@@ -581,14 +581,14 @@ function updatePlayerInfo() {
         DR.textContent = "Chychrun";
         G.textContent = "Korpisalo";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ottawa.gif";
+        smallpic.src = "/Hockey/img/logos/ottawa.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
 
@@ -622,14 +622,14 @@ function updatePlayerInfo() {
         DR.textContent = "York";
         G.textContent = "C Hart";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/philadelphia.gif";
+        smallpic.src = "/Hockey/img/logos/philadelphia.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/philadelphia.json");
 
@@ -664,14 +664,14 @@ function updatePlayerInfo() {
         DR.textContent = "Marino";
         G.textContent = "Jarry";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/pittsburgh.gif";
+        smallpic.src = "/Hockey/img/logos/pittsburgh.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/pittsburgh.json");
 
@@ -706,14 +706,14 @@ function updatePlayerInfo() {
         DR.textContent = "Cernak";
         G.textContent = "Vasilevskiy";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/tampa bay.gif";
+        smallpic.src = "/Hockey/img/logos/tampa bay.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/tampa bay.json");
 
@@ -748,14 +748,14 @@ function updatePlayerInfo() {
         DR.textContent = "Brodie";
         G.textContent = "Samsonov";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/toronto.gif";
+        smallpic.src = "/Hockey/img/logos/toronto.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/toronto.json");
 
@@ -790,14 +790,14 @@ function updatePlayerInfo() {
         DR.textContent = "Fehervary";
         G.textContent = "Kuemper";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/washington.gif";
+        smallpic.src = "/Hockey/img/logos/washington.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/washington.json");
 
@@ -870,14 +870,14 @@ const updateDropdown = () => {
         DR.textContent = "Carlo";
         G.textContent = "Ullmark";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/boston.gif";
+        smallpic.src = "/Hockey/img/logos/boston.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/boston.json");
 
@@ -912,14 +912,14 @@ const updateDropdown = () => {
         DR.textContent = "Power";
         G.textContent = "Luukkonen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/buffalo.gif";
+        smallpic.src = "/Hockey/img/logos/buffalo.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/buffalo.json");
 
@@ -955,14 +955,14 @@ const updateDropdown = () => {
         DR.textContent = "Burns";
         G.textContent = "Andersen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/carolina.gif";
+        smallpic.src = "/Hockey/img/logos/carolina.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/carolina.json");
 
@@ -999,14 +999,14 @@ const updateDropdown = () => {
         DR.textContent = "Provorov";
         G.textContent = "Merzlikins";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/columbus.gif";
+        smallpic.src = "/Hockey/img/logos/columbus.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/columbus.json");
 
@@ -1040,14 +1040,14 @@ const updateDropdown = () => {
         DR.textContent = "Petry";
         G.textContent = "Husso";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/detroit.gif";
+        smallpic.src = "/Hockey/img/logos/detroit.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/detroit.json");
 
@@ -1082,14 +1082,14 @@ const updateDropdown = () => {
         DR.textContent = "Montour";
         G.textContent = "Bobrovsky";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/florida.gif";
+        smallpic.src = "/Hockey/img/logos/florida.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/florida.json");
 
@@ -1125,14 +1125,14 @@ const updateDropdown = () => {
         DR.textContent = "Guhle";
         G.textContent = "J Allen";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/montreal.gif";
+        smallpic.src = "/Hockey/img/logos/montreal.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/montreal.json");
 
@@ -1167,14 +1167,14 @@ const updateDropdown = () => {
         DR.textContent = "Siegenthaler";
         G.textContent = "Vanecek";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/new jersey.gif";
+        smallpic.src = "/Hockey/img/logos/new jersey.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/new jersey.json");
 
@@ -1210,14 +1210,14 @@ const updateDropdown = () => {
         DR.textContent = "Pulock";
         G.textContent = "Sorokin";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ny islanders.gif";
+        smallpic.src = "/Hockey/img/logos/ny islanders.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny islanders.json");
 
@@ -1252,14 +1252,14 @@ const updateDropdown = () => {
         DR.textContent = "K Miller";
         G.textContent = "Shesterkin";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ny rangers.gif";
+        smallpic.src = "/Hockey/img/logos/ny rangers.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
 
@@ -1293,14 +1293,14 @@ const updateDropdown = () => {
         DR.textContent = "Chychrun";
         G.textContent = "Korpisalo";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/ottawa.gif";
+        smallpic.src = "/Hockey/img/logos/ottawa.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
 
@@ -1334,14 +1334,14 @@ const updateDropdown = () => {
         DR.textContent = "York";
         G.textContent = "C Hart";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/philadelphia.gif";
+        smallpic.src = "/Hockey/img/logos/philadelphia.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/philadelphia.json");
 
@@ -1376,14 +1376,14 @@ const updateDropdown = () => {
         DR.textContent = "Marino";
         G.textContent = "Jarry";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/pittsburgh.gif";
+        smallpic.src = "/Hockey/img/logos/pittsburgh.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/pittsburgh.json");
 
@@ -1418,14 +1418,14 @@ const updateDropdown = () => {
         DR.textContent = "Cernak";
         G.textContent = "Vasilevskiy";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/tampa bay.gif";
+        smallpic.src = "/Hockey/img/logos/tampa bay.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/tampa bay.json");
 
@@ -1460,14 +1460,14 @@ const updateDropdown = () => {
         DR.textContent = "Brodie";
         G.textContent = "Samsonov";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/toronto.gif";
+        smallpic.src = "/Hockey/img/logos/toronto.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/toronto.json");
 
@@ -1502,14 +1502,14 @@ const updateDropdown = () => {
         DR.textContent = "Fehervary";
         G.textContent = "Kuemper";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/washington.gif";
+        smallpic.src = "/Hockey/img/logos/washington.gif";
 
         MainFetchPopUp("/hockey/present/eastern/json/washington.json");
 

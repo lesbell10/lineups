@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "F Forsberg",
-        "img": "/hockey/img/players/F Forsberg.jpg",
+        "img": "/Hockey/img/players/F Forsberg.jpg",
         "full_name": "Filip Forsberg",
         "team": "Nashville Predators",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Johansen",
-        "img": "/hockey/img/players/Johansen.jpg",
+        "img": "/Hockey/img/players/Johansen.jpg",
         "full_name": "Ryan Johansen",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Arvidsson",
-        "img": "/hockey/img/players/Arvidsson.jpg",
+        "img": "/Hockey/img/players/Arvidsson.jpg",
         "full_name": "Viktor Arvidsson",
         "team": "Los Angeles Kings",
         "nationality": "Sweden",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Josi",
-        "img": "/hockey/img/players/Josi.jpg",
+        "img": "/Hockey/img/players/Josi.jpg",
         "full_name": "Roman Josi",
         "team": "Nashville Predators",
         "nationality": "Switzerland",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Weber",
-        "img": "/hockey/img/players/Weber.jpg",
+        "img": "/Hockey/img/players/Weber.jpg",
         "full_name": "Shea Weber",
         "team": "Arizona Coyotes",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Rinne",
-        "img": "/hockey/img/players/Rinne.jpg",
+        "img": "/Hockey/img/players/Rinne.jpg",
         "full_name": "Pekka Rinne",
         "team": "Retired",
         "nationality": "Finland",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "K Connor",
-        "img": "/hockey/img/players/K Connor.jpg",
+        "img": "/Hockey/img/players/K Connor.jpg",
         "full_name": "Kyle Connor",
         "team": "Winnipeg Jets",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Scheifele",
-        "img": "/hockey/img/players/Scheifele.jpg",
+        "img": "/Hockey/img/players/Scheifele.jpg",
         "full_name": "Mark Scheifele",
         "team": "Winnipeg Jets",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Wheeler",
-        "img": "/hockey/img/players/Wheeler.jpg",
+        "img": "/Hockey/img/players/Wheeler.jpg",
         "full_name": "Blake Wheeler",
         "team": "New York Rangers",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Byfuglien",
-        "img": "/hockey/img/players/Byfuglien.jpg",
+        "img": "/Hockey/img/players/Byfuglien.jpg",
         "full_name": "Dustin Byfuglien",
         "team": "Retired",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Trouba",
-        "img": "/hockey/img/players/Trouba.jpg",
+        "img": "/Hockey/img/players/Trouba.jpg",
         "full_name": "Jacob Trouba",
         "team": "New York Rangers",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Hellebuyck",
-        "img": "/hockey/img/players/Hellebuyck.jpg",
+        "img": "/Hockey/img/players/Hellebuyck.jpg",
         "full_name": "Connor Hellebuyck",
         "team": "Winnipeg Jets",
         "nationality": "USA",

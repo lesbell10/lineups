@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "D Sedin",
-        "img": "/hockey/img/players/D Sedin.jpg",
+        "img": "/Hockey/img/players/D Sedin.jpg",
         "full_name": "Daniel Sedin",
         "team": "Retired",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "H Sedin",
-        "img": "/hockey/img/players/H Sedin.jpg",
+        "img": "/Hockey/img/players/H Sedin.jpg",
         "full_name": "Henrik Sedin",
         "team": "Retired",
         "nationality": "Sweden",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Horvat",
-        "img": "/hockey/img/players/Horvat.jpg",
+        "img": "/Hockey/img/players/Horvat.jpg",
         "full_name": "Bo Horvat",
         "team": "New York Islanders",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Edler",
-        "img": "/hockey/img/players/Edler.jpg",
+        "img": "/Hockey/img/players/Edler.jpg",
         "full_name": "Alexander Edler",
         "team": "Free Agent",
         "nationality": "Sweden",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Bieksa",
-        "img": "/hockey/img/players/Bieksa.jpg",
+        "img": "/Hockey/img/players/Bieksa.jpg",
         "full_name": "Kevin Bieksa",
         "team": "Retired",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Luongo",
-        "img": "/hockey/img/players/Luongo.jpg",
+        "img": "/Hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "team": "Retired",
         "nationality": "Canada",

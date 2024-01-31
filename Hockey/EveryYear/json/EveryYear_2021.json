@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Draisaitl",
-        "img": "/hockey/img/players/Draisaitl.jpg",
+        "img": "/Hockey/img/players/Draisaitl.jpg",
         "full_name": "Leon Draisaitl",
         "birth_date": "27-10-1995",
         "team": "Edmonton Oilers",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "McDavid",
-        "img": "/hockey/img/players/McDavid.jpg",
+        "img": "/Hockey/img/players/McDavid.jpg",
         "full_name": "Connor McDavid",
         "birth_date": "13-01-1997",
         "team": "Edmonton Oilers",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "MacKinnon",
-        "img": "/hockey/img/players/MacKinnon.jpg",
+        "img": "/Hockey/img/players/MacKinnon.jpg",
         "full_name": "Nathan MacKinnon",
         "birth_date": "01-09-1995",
         "team": "Colorado Avalanche",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "Hedman",
-        "img": "/hockey/img/players/Hedman.jpg",
+        "img": "/Hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "birth_date": "18-12-1990",
         "team": "Tampa Bay Lightning",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Makar",
-        "img": "/hockey/img/players/Makar.jpg",
+        "img": "/Hockey/img/players/Makar.jpg",
         "full_name": "Cale Makar",
         "birth_date": "30-10-1998",
         "team": "Colorado Avalanche",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Vasilevskiy",
-        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "img": "/Hockey/img/players/Vasilevskiy.jpg",
         "full_name": "Andrei Vasilevskiy",
         "birth_date": "25-07-1994",
         "team": "Tampa Bay Lightning",

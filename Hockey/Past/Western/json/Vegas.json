@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Marchessault",
-        "img": "/hockey/img/players/Marchessault.jpg",
+        "img": "/Hockey/img/players/Marchessault.jpg",
         "full_name": "Jonathan Marchessault",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "W Karlsson",
-        "img": "/hockey/img/players/W Karlsson.jpg",
+        "img": "/Hockey/img/players/W Karlsson.jpg",
         "full_name": "William Karlsson",
         "team": "Vegas Golden Knights",
         "nationality": "Sweden",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Stone",
-        "img": "/hockey/img/players/Stone.jpg",
+        "img": "/Hockey/img/players/Stone.jpg",
         "full_name": "Mark Stone",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Theodore",
-        "img": "/hockey/img/players/Theodore.jpg",
+        "img": "/Hockey/img/players/Theodore.jpg",
         "full_name": "Shea Theodore",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Schmidt",
-        "img": "/hockey/img/players/Schmidt.jpg",
+        "img": "/Hockey/img/players/Schmidt.jpg",
         "full_name": "Nate Schmidt",
         "team": "Winnipeg Jets",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Fleury",
-        "img": "/hockey/img/players/Fleury.jpg",
+        "img": "/Hockey/img/players/Fleury.jpg",
         "full_name": "Marc-André Fleury",
         "team": "Minnesota Wild",
         "nationality": "Canada",

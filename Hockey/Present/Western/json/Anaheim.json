@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Killorn",
-        "img": "/hockey/img/players/Killorn.jpg",
+        "img": "/Hockey/img/players/Killorn.jpg",
         "full_name": "Alex Killorn",
         "team": "Anaheim Ducks",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Zegras",
-        "img": "/hockey/img/players/Zegras.jpg",
+        "img": "/Hockey/img/players/Zegras.jpg",
         "full_name": "Trevor Zegras",
         "team": "Anaheim Ducks",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Terry",
-        "img": "/hockey/img/players/Terry.jpg",
+        "img": "/Hockey/img/players/Terry.jpg",
         "full_name": "Troy Terry",
         "team": "Anaheim Ducks",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Drysdale",
-        "img": "/hockey/img/players/Drysdale.jpg",
+        "img": "/Hockey/img/players/Drysdale.jpg",
         "full_name": "Jamie Drysdale",
         "team": "Anaheim Ducks",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Fowler",
-        "img": "/hockey/img/players/Fowler.jpg",
+        "img": "/Hockey/img/players/Fowler.jpg",
         "full_name": "Cam Fowler",
         "team": "Anaheim Ducks",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Gibson",
-        "img": "/hockey/img/players/Gibson.jpg",
+        "img": "/Hockey/img/players/Gibson.jpg",
         "full_name": "John Gibson",
         "team": "Anaheim Ducks",
         "nationality": "USA",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Rieder",
-        "img": "/hockey/img/players/Rieder.jpg",
+        "img": "/Hockey/img/players/Rieder.jpg",
         "full_name": "Tobias Rieder",
         "team": "Växjö Lakers (Sweden)",
         "nationality": "Germany",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Draisaitl",
-        "img": "/hockey/img/players/Draisaitl.jpg",
+        "img": "/Hockey/img/players/Draisaitl.jpg",
         "full_name": "Leon Draisaitl",
         "team": "Edmonton Oilers",
         "nationality": "Germany",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Goc",
-        "img": "/hockey/img/players/Goc.jpg",
+        "img": "/Hockey/img/players/Goc.jpg",
         "full_name": "Marcel Goc",
         "team": "Retired",
         "nationality": "Germany",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Ehrhoff",
-        "img": "/hockey/img/players/Ehrhoff.jpg",
+        "img": "/Hockey/img/players/Ehrhoff.jpg",
         "full_name": "Christian Ehrhoff",
         "team": "Krefeld Pinguine (Germany)",
         "nationality": "Germany",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Seidenberg",
-        "img": "/hockey/img/players/Seidenberg.jpg",
+        "img": "/Hockey/img/players/Seidenberg.jpg",
         "full_name": "Dennis Seidenberg",
         "team": "Retired",
         "nationality": "Germany",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Grubauer",
-        "img": "/hockey/img/players/Grubauer.jpg",
+        "img": "/Hockey/img/players/Grubauer.jpg",
         "full_name": "Philipp Grubauer",
         "team": "Seattle Kraken",
         "nationality": "Germany",

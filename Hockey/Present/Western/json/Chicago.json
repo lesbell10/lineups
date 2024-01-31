@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Hall",
-        "img": "/hockey/img/players/Hall.jpg",
+        "img": "/Hockey/img/players/Hall.jpg",
         "full_name": "Taylor Hall",
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Bedard",
-        "img": "/hockey/img/players/Bedard.jpg",
+        "img": "/Hockey/img/players/Bedard.jpg",
         "full_name": "Connor Bedard",
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Raddysh",
-        "img": "/hockey/img/players/Raddysh.jpg",
+        "img": "/Hockey/img/players/Raddysh.jpg",
         "full_name": "Taylor Raddysh",
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "S Jones",
-        "img": "/hockey/img/players/S Jones.jpg",
+        "img": "/Hockey/img/players/S Jones.jpg",
         "full_name": "Seth Jones",
         "team": "Chicago Blackhawks",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "C Murphy",
-        "img": "/hockey/img/players/C Murphy.jpg",
+        "img": "/Hockey/img/players/C Murphy.jpg",
         "full_name": "Connor Murphy",
         "team": "Chicago Blackhawks",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Mrazek",
-        "img": "/hockey/img/players/Mrazek.jpg",
+        "img": "/Hockey/img/players/Mrazek.jpg",
         "full_name": "Petr Mrazek",
         "team": "Chicago Blackhawks",
         "nationality": "Czech Republic",

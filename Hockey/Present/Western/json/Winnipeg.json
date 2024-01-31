@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "K Connor",
-        "img": "/hockey/img/players/K Connor.jpg",
+        "img": "/Hockey/img/players/K Connor.jpg",
         "full_name": "Kyle Connor",
         "team": "Winnipeg Jets",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Scheifele",
-        "img": "/hockey/img/players/Scheifele.jpg",
+        "img": "/Hockey/img/players/Scheifele.jpg",
         "full_name": "Mark Scheifele",
         "team": "Winnipeg Jets",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Ehlers",
-        "img": "/hockey/img/players/Ehlers.jpg",
+        "img": "/Hockey/img/players/Ehlers.jpg",
         "full_name": "Nikolaj Ehlers",
         "team": "Winnipeg Jets",
         "nationality": "Denmark",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Morrissey",
-        "img": "/hockey/img/players/Morrissey.jpg",
+        "img": "/Hockey/img/players/Morrissey.jpg",
         "full_name": "Josh Morrissey",
         "team": "Winnipeg Jets",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Pionk",
-        "img": "/hockey/img/players/Pionk.jpg",
+        "img": "/Hockey/img/players/Pionk.jpg",
         "full_name": "Neal Pionk",
         "team": "Winnipeg Jets",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Hellebuyck",
-        "img": "/hockey/img/players/Hellebuyck.jpg",
+        "img": "/Hockey/img/players/Hellebuyck.jpg",
         "full_name": "Connor Hellebuyck",
         "team": "Winnipeg Jets",
         "nationality": "USA",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Landeskog",
-        "img": "/hockey/img/players/Landeskog.jpg",
+        "img": "/Hockey/img/players/Landeskog.jpg",
         "full_name": "Gabriel Landeskog",
         "team": "Colorado Avalanche",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "MacKinnon",
-        "img": "/hockey/img/players/MacKinnon.jpg",
+        "img": "/Hockey/img/players/MacKinnon.jpg",
         "full_name": "Nathan MacKinnon",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Rantanen",
-        "img": "/hockey/img/players/Rantanen.jpg",
+        "img": "/Hockey/img/players/Rantanen.jpg",
         "full_name": "Mikko Rantanen",
         "team": "Colorado Avalanche",
         "nationality": "Finland",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Makar",
-        "img": "/hockey/img/players/Makar.jpg",
+        "img": "/Hockey/img/players/Makar.jpg",
         "full_name": "Cale Makar",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "D Toews",
-        "img": "/hockey/img/players/D Toews.jpg",
+        "img": "/Hockey/img/players/D Toews.jpg",
         "full_name": "Devon Toews",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Georgiev",
-        "img": "/hockey/img/players/Georgiev.jpg",
+        "img": "/Hockey/img/players/Georgiev.jpg",
         "full_name": "Alexandar Georgiev",
         "team": "Colorado Avalanche",
         "nationality": "Russia",

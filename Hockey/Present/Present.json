@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Draisaitl",
-    "img": "/hockey/img/players/Draisaitl.jpg",
+    "img": "/Hockey/img/players/Draisaitl.jpg",
     "full_name": "Leon Draisaitl",
     "birth_date": "27-10-1995",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "McDavid",
-    "img": "/hockey/img/players/McDavid.jpg",
+    "img": "/Hockey/img/players/McDavid.jpg",
     "full_name": "Connor McDavid",
     "birth_date": "13-01-1997",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Pastrnak",
-    "img": "/hockey/img/players/Pastrnak.jpg",
+    "img": "/Hockey/img/players/Pastrnak.jpg",
     "full_name": "David Pastrnak",
     "birth_date": "25-05-1996",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Makar",
-    "img": "/hockey/img/players/Makar.jpg",
+    "img": "/Hockey/img/players/Makar.jpg",
     "full_name": "Cale Makar",
     "birth_date": "30-10-1998",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Josi",
-    "img": "/hockey/img/players/Josi.jpg",
+    "img": "/Hockey/img/players/Josi.jpg",
     "full_name": "Roman Josi",
     "birth_date": "01-06-1990",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "Vasilevskiy",
-    "img": "/hockey/img/players/Vasilevskiy.jpg",
+    "img": "/Hockey/img/players/Vasilevskiy.jpg",
     "full_name": "Andrei Vasilevskiy",
     "birth_date": "25-07-1994",
 

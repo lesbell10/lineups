@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Tavares",
-        "img": "/hockey/img/players/Tavares.jpg",
+        "img": "/Hockey/img/players/Tavares.jpg",
         "full_name": "John Tavares",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Matthews",
-        "img": "/hockey/img/players/Matthews.jpg",
+        "img": "/Hockey/img/players/Matthews.jpg",
         "full_name": "Auston Matthews",
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Marner",
-        "img": "/hockey/img/players/Marner.jpg",
+        "img": "/Hockey/img/players/Marner.jpg",
         "full_name": "Mitch Marner",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Rielly",
-        "img": "/hockey/img/players/Rielly.jpg",
+        "img": "/Hockey/img/players/Rielly.jpg",
         "full_name": "Morgan Rielly",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Phaneuf",
-        "img": "/hockey/img/players/Phaneuf.jpg",
+        "img": "/Hockey/img/players/Phaneuf.jpg",
         "full_name": "Dion Phaneuf",
         "team": "Retired",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Andersen",
-        "img": "/hockey/img/players/Andersen.jpg",
+        "img": "/Hockey/img/players/Andersen.jpg",
         "full_name": "Frederik Andersen",
         "team": "Carolina Hurricanes",
         "nationality": "Denmark",

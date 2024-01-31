@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Parise",
-        "img": "/hockey/img/players/Parise.jpg",
+        "img": "/Hockey/img/players/Parise.jpg",
         "full_name": "Zach Parise",
         "team": "Free Agent",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "M Koivu",
-        "img": "/hockey/img/players/M Koivu.jpg",
+        "img": "/Hockey/img/players/M Koivu.jpg",
         "full_name": "Mikko Koivu",
         "team": "Retired",
         "nationality": "Finland",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Pominville",
-        "img": "/hockey/img/players/Pominville.jpg",
+        "img": "/Hockey/img/players/Pominville.jpg",
         "full_name": "Jason Pominville",
         "team": "Retired",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Suter",
-        "img": "/hockey/img/players/Suter.jpg",
+        "img": "/Hockey/img/players/Suter.jpg",
         "full_name": "Ryan Suter",
         "team": "Dallas Stars",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Spurgeon",
-        "img": "/hockey/img/players/Spurgeon.jpg",
+        "img": "/Hockey/img/players/Spurgeon.jpg",
         "full_name": "Jared Spurgeon",
         "team": "Minnesota Wild",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Dubnyk",
-        "img": "/hockey/img/players/Dubnyk.jpg",
+        "img": "/Hockey/img/players/Dubnyk.jpg",
         "full_name": "Devan Dubnyk",
         "team": "Retired",
         "nationality": "Canada",

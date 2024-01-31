@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "J Skinner",
-    "img": "/hockey/img/players/J Skinner.jpg",
+    "img": "/Hockey/img/players/J Skinner.jpg",
     "full_name": "Jeff Skinner",
     "birth_date": "16-05-1992",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "T Thompson",
-    "img": "/hockey/img/players/T Thompson.jpg",
+    "img": "/Hockey/img/players/T Thompson.jpg",
     "full_name": "Tage Thompson",
     "birth_date": "30-10-1997",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Tuch",
-    "img": "/hockey/img/players/Tuch.jpg",
+    "img": "/Hockey/img/players/Tuch.jpg",
     "full_name": "Alex Tuch",
     "birth_date": "10-05-1996",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Dahlin",
-    "img": "/hockey/img/players/Dahlin.jpg",
+    "img": "/Hockey/img/players/Dahlin.jpg",
     "full_name": "Rasmus Dahlin",
     "birth_date": "13-04-2000",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Power",
-    "img": "/hockey/img/players/Power.jpg",
+    "img": "/Hockey/img/players/Power.jpg",
     "full_name": "Owen Power",
     "birth_date": "22-11-2002",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "Luukkonen",
-    "img": "/hockey/img/players/Luukkonen.jpg",
+    "img": "/Hockey/img/players/Luukkonen.jpg",
     "full_name": "U-P Luukkonen",
     "birth_date": "09-03-1999",
 

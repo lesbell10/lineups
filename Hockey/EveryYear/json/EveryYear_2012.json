@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ovechkin",
-        "img": "/hockey/img/players/Ovechkin.jpg",
+        "img": "/Hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
         "team": "Washington Capitals",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Crosby",
-        "img": "/hockey/img/players/Crosby.jpg",
+        "img": "/Hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "birth_date": "07-08-1987",
         "team": "Pittsburgh Penguins",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Stamkos",
-        "img": "/hockey/img/players/Stamkos.jpg",
+        "img": "/Hockey/img/players/Stamkos.jpg",
         "full_name": "Steven Stamkos",
         "birth_date": "07-02-1990",
         "team": "Tampa Bay Lightning",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "Chara",
-        "img": "/hockey/img/players/Chara.jpg",
+        "img": "/Hockey/img/players/Chara.jpg",
         "full_name": "Zdeno Chara",
         "birth_date": "18-03-1977",
         "team": "Retired",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "last_name": "Weber",
-        "img": "/hockey/img/players/Weber.jpg",
+        "img": "/Hockey/img/players/Weber.jpg",
         "full_name": "Shea Weber",
         "birth_date": "14-08-1985",
         "team": "Arizona Coyotes",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "last_name": "Lundqvist",
-        "img": "/hockey/img/players/Lundqvist.jpg",
+        "img": "/Hockey/img/players/Lundqvist.jpg",
         "full_name": "Henrik Lundqvist",
         "birth_date": "02-03-1982",
         "team": "Retired",

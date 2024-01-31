@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "D Brown",
-        "img": "/hockey/img/players/D Brown.jpg",
+        "img": "/Hockey/img/players/D Brown.jpg",
         "full_name": "Dustin Brown",
         "team": "Retired",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Kopitar",
-        "img": "/hockey/img/players/Kopitar.jpg",
+        "img": "/Hockey/img/players/Kopitar.jpg",
         "full_name": "Anze Kopitar",
         "team": "Los Angeles Kings",
         "nationality": "Slovenia",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Carter",
-        "img": "/hockey/img/players/Carter.jpg",
+        "img": "/Hockey/img/players/Carter.jpg",
         "full_name": "Jeff Carter",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Doughty",
-        "img": "/hockey/img/players/Doughty.jpg",
+        "img": "/Hockey/img/players/Doughty.jpg",
         "full_name": "Drew Doughty",
         "team": "Los Angeles Kings",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Muzzin",
-        "img": "/hockey/img/players/Muzzin.jpg",
+        "img": "/Hockey/img/players/Muzzin.jpg",
         "full_name": "Jake Muzzin",
         "team": "Retired",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Quick",
-        "img": "/hockey/img/players/Quick.jpg",
+        "img": "/Hockey/img/players/Quick.jpg",
         "full_name": "Jonathan Quick",
         "team": "New York Rangers",
         "nationality": "USA",

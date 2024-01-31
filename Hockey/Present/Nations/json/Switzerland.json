@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Fiala",
-        "img": "/hockey/img/players/Fiala.jpg",
+        "img": "/Hockey/img/players/Fiala.jpg",
         "full_name": "Kevin Fiala",
         "team": "Los Angeles Kings",
         "nationality": "Switzerland",
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "last_name": "Hischier",
-        "img": "/hockey/img/players/Hischier.jpg",
+        "img": "/Hockey/img/players/Hischier.jpg",
         "full_name": "Nico Hischier",
         "team": "New Jersey Devils",
         "nationality": "Switzerland",
@@ -23,7 +23,7 @@
     {
         "id": 3,
         "last_name": "Meier",
-        "img": "/hockey/img/players/Meier.jpg",
+        "img": "/Hockey/img/players/Meier.jpg",
         "full_name": "Timo Meier",
         "team": "New Jersey Devils",
         "nationality": "Switzerland",
@@ -33,7 +33,7 @@
     {
         "id": 4,
         "last_name": "Josi",
-        "img": "/hockey/img/players/Josi.jpg",
+        "img": "/Hockey/img/players/Josi.jpg",
         "full_name": "Roman Josi",
         "team": "Nashville Predators",
         "nationality": "Switzerland",
@@ -43,7 +43,7 @@
     {
         "id": 5,
         "last_name": "Siegenthaler",
-        "img": "/hockey/img/players/Siegenthaler.jpg",
+        "img": "/Hockey/img/players/Siegenthaler.jpg",
         "full_name": "Jonas Siegenthaler",
         "team": "New Jersey Devils",
         "nationality": "Switzerland",
@@ -53,7 +53,7 @@
     {
         "id": 6,
         "last_name": "Genoni",
-        "img": "/hockey/img/players/Genoni.jpg",
+        "img": "/Hockey/img/players/Genoni.jpg",
         "full_name": "Leonardo Genoni",
         "team": "HC Davos (Switzerland)",
         "nationality": "Switzerland",

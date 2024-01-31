@@ -165,14 +165,14 @@ function updatePlayerInfo() {
         DR.textContent = "Weber";
         G.textContent = "Price";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/canada.png";
+        smallpic.src = "/Hockey/img/logos/canada.png";
 
         MainFetchPopUp("/hockey/past/nations/json/canada.json");
 
@@ -196,14 +196,14 @@ function updatePlayerInfo() {
         DR.textContent = "Kempny";
         G.textContent = "Mrazek";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/czech republic.webp";
+        smallpic.src = "/Hockey/img/logos/czech republic.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/czech republic.json");
 
@@ -228,14 +228,14 @@ function updatePlayerInfo() {
         DR.textContent = "Lindell";
         G.textContent = "Saros";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/finland.webp";
+        smallpic.src = "/Hockey/img/logos/finland.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/finland.json");
 
@@ -260,14 +260,14 @@ function updatePlayerInfo() {
         DR.textContent = "Seidenberg";
         G.textContent = "Grubauer";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/germany.webp";
+        smallpic.src = "/Hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/germany.json");
 
@@ -292,14 +292,14 @@ function updatePlayerInfo() {
         DR.textContent = "Gonchar";
         G.textContent = "Vasilevskiy";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/russia.png";
+        smallpic.src = "/Hockey/img/logos/russia.png";
 
         MainFetchPopUp("/hockey/past/nations/json/russia.json");
 
@@ -324,14 +324,14 @@ function updatePlayerInfo() {
         DR.textContent = "Sekera";
         G.textContent = "Halak";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/slovakia.webp";
+        smallpic.src = "/Hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/slovakia.json");
 
@@ -356,14 +356,14 @@ function updatePlayerInfo() {
         DR.textContent = "Hedman";
         G.textContent = "Lundqvist";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/sweden.webp";
+        smallpic.src = "/Hockey/img/logos/sweden.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/sweden.json");
 
@@ -387,14 +387,14 @@ function updatePlayerInfo() {
         DR.textContent = "Streit";
         G.textContent = "Hiller";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/switzerland.png"
+        smallpic.src = "/Hockey/img/logos/switzerland.png"
 
         MainFetchPopUp("/hockey/past/nations/json/switzerland.json");
 
@@ -419,14 +419,14 @@ function updatePlayerInfo() {
         DR.textContent = "Carlson";
         G.textContent = "Quick";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/usa.webp";
+        smallpic.src = "/Hockey/img/logos/usa.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/united states.json");
 
@@ -488,14 +488,14 @@ const updateDropdown = () => {
         DR.textContent = "Weber";
         G.textContent = "Price";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/canada.png";
+        smallpic.src = "/Hockey/img/logos/canada.png";
 
         MainFetchPopUp("/hockey/past/nations/json/canada.json");
 
@@ -519,14 +519,14 @@ const updateDropdown = () => {
         DR.textContent = "Kempny";
         G.textContent = "Mrazek";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/czech republic.webp";
+        smallpic.src = "/Hockey/img/logos/czech republic.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/czech republic.json");
 
@@ -551,14 +551,14 @@ const updateDropdown = () => {
         DR.textContent = "Lindell";
         G.textContent = "Saros";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/finland.webp";
+        smallpic.src = "/Hockey/img/logos/finland.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/finland.json");
 
@@ -583,14 +583,14 @@ const updateDropdown = () => {
         DR.textContent = "Seidenberg";
         G.textContent = "Grubauer";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/germany.webp";
+        smallpic.src = "/Hockey/img/logos/germany.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/germany.json");
 
@@ -615,14 +615,14 @@ const updateDropdown = () => {
         DR.textContent = "Gonchar";
         G.textContent = "Vasilevskiy";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/russia.png";
+        smallpic.src = "/Hockey/img/logos/russia.png";
 
         MainFetchPopUp("/hockey/past/nations/json/russia.json");
 
@@ -647,14 +647,14 @@ const updateDropdown = () => {
         DR.textContent = "Sekera";
         G.textContent = "Halak";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/slovakia.webp";
+        smallpic.src = "/Hockey/img/logos/slovakia.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/slovakia.json");
 
@@ -679,14 +679,14 @@ const updateDropdown = () => {
         DR.textContent = "Hedman";
         G.textContent = "Lundqvist";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/sweden.webp";
+        smallpic.src = "/Hockey/img/logos/sweden.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/sweden.json");
 
@@ -710,14 +710,14 @@ const updateDropdown = () => {
         DR.textContent = "Streit";
         G.textContent = "Hiller";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/switzerland.png"
+        smallpic.src = "/Hockey/img/logos/switzerland.png"
 
         MainFetchPopUp("/hockey/past/nations/json/switzerland.json");
 
@@ -742,14 +742,14 @@ const updateDropdown = () => {
         DR.textContent = "Carlson";
         G.textContent = "Quick";
 
-        FL2.src = "/hockey/img/players/" + FL.textContent + ".jpg";
-        FC2.src = "/hockey/img/players/" + FC.textContent + ".jpg";
-        FR2.src = "/hockey/img/players/" + FR.textContent + ".jpg";
-        DL2.src = "/hockey/img/players/" + DL.textContent + ".jpg";
-        DR2.src = "/hockey/img/players/" + DR.textContent + ".jpg";
-        G2.src = "/hockey/img/players/" + G.textContent + ".jpg";
+        FL2.src = "/Hockey/img/players/" + FL.textContent + ".jpg";
+        FC2.src = "/Hockey/img/players/" + FC.textContent + ".jpg";
+        FR2.src = "/Hockey/img/players/" + FR.textContent + ".jpg";
+        DL2.src = "/Hockey/img/players/" + DL.textContent + ".jpg";
+        DR2.src = "/Hockey/img/players/" + DR.textContent + ".jpg";
+        G2.src = "/Hockey/img/players/" + G.textContent + ".jpg";
 
-        smallpic.src = "/hockey/img/logos/usa.webp";
+        smallpic.src = "/Hockey/img/logos/usa.webp";
 
         MainFetchPopUp("/hockey/past/nations/json/united states.json");
 

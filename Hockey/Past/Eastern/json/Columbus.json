@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Panarin",
-    "img": "/hockey/img/players/Panarin.jpg",
+    "img": "/Hockey/img/players/Panarin.jpg",
     "full_name": "Artemi Panarin",
     "team": "New York Rangers",
     "nationality": "Russia",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "N Foligno",
-    "img": "/hockey/img/players/N Foligno.jpg",
+    "img": "/Hockey/img/players/N Foligno.jpg",
     "full_name": "Nick Foligno",
     "team": "Chicago Blackhawks",
     "nationality": "USA",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "Atkinson",
-    "img": "/hockey/img/players/Atkinson.jpg",
+    "img": "/Hockey/img/players/Atkinson.jpg",
     "full_name": "Cam Atkinson",
     "team": "Philadelphia Flyers",
     "nationality": "USA",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "J Johnson",
-    "img": "/hockey/img/players/J Johnson.jpg",
+    "img": "/Hockey/img/players/J Johnson.jpg",
     "full_name": "Jack Johnson",
     "team": "Colorado Avalanche",
     "nationality": "USA",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "S Jones",
-    "img": "/hockey/img/players/S Jones.jpg",
+    "img": "/Hockey/img/players/S Jones.jpg",
     "full_name": "Seth Jones",
     "team": "Chicago Blackhawks",
     "nationality": "USA",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "Bobrovsky",
-    "img": "/hockey/img/players/Bobrovsky.jpg",
+    "img": "/Hockey/img/players/Bobrovsky.jpg",
     "full_name": "Sergei Bobrovsky",
     "team": "Florida Panthers",
     "nationality": "Russia",

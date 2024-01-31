@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Nelson",
-    "img": "/hockey/img/players/Nelson.jpg",
+    "img": "/Hockey/img/players/Nelson.jpg",
     "full_name": "Brock Nelson",
     "birth_date": "15-10-1991",
     "team": "New York Islanders",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "last_name": "Barzal",
-    "img": "/hockey/img/players/Barzal.jpg",
+    "img": "/Hockey/img/players/Barzal.jpg",
     "full_name": "Mathew Barzal",
     "birth_date": "26-05-1997",
     "team": "New York Islanders",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "last_name": "Horvat",
-    "img": "/hockey/img/players/Horvat.jpg",
+    "img": "/Hockey/img/players/Horvat.jpg",
     "full_name": "Bo Horvat",
     "birth_date": "05-04-1995",
 
@@ -40,7 +40,7 @@
   {
     "id": 4,
     "last_name": "Pelech",
-    "img": "/hockey/img/players/Pelech.jpg",
+    "img": "/Hockey/img/players/Pelech.jpg",
     "full_name": "Adam Pelech",
     "birth_date": "16-08-1994",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Pulock",
-    "img": "/hockey/img/players/Pulock.jpg",
+    "img": "/Hockey/img/players/Pulock.jpg",
     "full_name": "Ryan Pulock",
     "birth_date": "06-10-1994",
 
@@ -68,7 +68,7 @@
   {
     "id": 6,
     "last_name": "Sorokin",
-    "img": "/hockey/img/players/Sorokin.jpg",
+    "img": "/Hockey/img/players/Sorokin.jpg",
     "full_name": "Ilya Sorokin",
     "birth_date": "04-08-1995",
 

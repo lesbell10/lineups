@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Rakell",
-        "img": "/hockey/img/players/Rakell.jpg",
+        "img": "/Hockey/img/players/Rakell.jpg",
         "full_name": "Rickard Rakell",
         "team": "Pittsburgh Penguins",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Getzlaf",
-        "img": "/hockey/img/players/Getzlaf.jpg",
+        "img": "/Hockey/img/players/Getzlaf.jpg",
         "full_name": "Ryan Getzlaf",
         "team": "Retired",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Perry",
-        "img": "/hockey/img/players/Perry.jpg",
+        "img": "/Hockey/img/players/Perry.jpg",
         "full_name": "Corey Perry",
         "team": "Chicago Blackhawks",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Fowler",
-        "img": "/hockey/img/players/Fowler.jpg",
+        "img": "/Hockey/img/players/Fowler.jpg",
         "full_name": "Cam Fowler",
         "team": "Anaheim Ducks",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "H Lindholm",
-        "img": "/hockey/img/players/H Lindholm.jpg",
+        "img": "/Hockey/img/players/H Lindholm.jpg",
         "full_name": "Hampus Lindholm",
         "team": "Boston Bruins",
         "nationality": "Sweden",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Gibson",
-        "img": "/hockey/img/players/Gibson.jpg",
+        "img": "/Hockey/img/players/Gibson.jpg",
         "full_name": "John Gibson",
         "team": "Anaheim Ducks",
         "nationality": "USA",

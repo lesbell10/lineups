@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Kessel",
-        "img": "/hockey/img/players/Kessel.jpg",
+        "img": "/Hockey/img/players/Kessel.jpg",
         "full_name": "Phil Kessel",
         "team": "Free Agent",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Matthews",
-        "img": "/hockey/img/players/Matthews.jpg",
+        "img": "/Hockey/img/players/Matthews.jpg",
         "full_name": "Auston Matthews",
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "P Kane",
-        "img": "/hockey/img/players/P Kane.jpg",
+        "img": "/Hockey/img/players/P Kane.jpg",
         "full_name": "Patrick Kane",
         "team": "Detroit Red Wings",
         "nationality": "American",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Suter",
-        "img": "/hockey/img/players/Suter.jpg",
+        "img": "/Hockey/img/players/Suter.jpg",
         "full_name": "Ryan Suter",
         "team": "Dallas Stars",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Carlson",
-        "img": "/hockey/img/players/Carlson.jpg",
+        "img": "/Hockey/img/players/Carlson.jpg",
         "full_name": "John Carlson",
         "team": "Washington Capitals",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Quick",
-        "img": "/hockey/img/players/Quick.jpg",
+        "img": "/Hockey/img/players/Quick.jpg",
         "full_name": "Jonathan Quick",
         "team": "New York Rangers",
         "nationality": "USA",

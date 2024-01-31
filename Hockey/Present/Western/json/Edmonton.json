@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Draisaitl",
-        "img": "/hockey/img/players/Draisaitl.jpg",
+        "img": "/Hockey/img/players/Draisaitl.jpg",
         "full_name": "Leon Draisaitl",
         "team": "Edmonton Oilers",
         "nationality": "Germany",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "McDavid",
-        "img": "/hockey/img/players/McDavid.jpg",
+        "img": "/Hockey/img/players/McDavid.jpg",
         "full_name": "Connor McDavid",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Nugent-Hopkins",
-        "img": "/hockey/img/players/Nugent-Hopkins.jpg",
+        "img": "/Hockey/img/players/Nugent-Hopkins.jpg",
         "full_name": "Ryan Nugent-Hopkins",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Ekholm",
-        "img": "/hockey/img/players/Ekholm.jpg",
+        "img": "/Hockey/img/players/Ekholm.jpg",
         "full_name": "Mattias Ekholm",
         "team": "Edmonton Oilers",
         "nationality": "Sweden",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Nurse",
-        "img": "/hockey/img/players/Nurse.jpg",
+        "img": "/Hockey/img/players/Nurse.jpg",
         "full_name": "Darnell Nurse",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "S Skinner",
-        "img": "/hockey/img/players/S Skinner.jpg",
+        "img": "/Hockey/img/players/S Skinner.jpg",
         "full_name": "Stuart Skinner",
         "team": "Edmonton Oilers",
         "nationality": "Canada",

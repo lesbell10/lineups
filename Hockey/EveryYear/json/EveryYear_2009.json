@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ovechkin",
-        "img": "/hockey/img/players/Ovechkin.jpg",
+        "img": "/Hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "birth_date": "17-09-1985",
         "team": "Washington Capitals",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "last_name": "Malkin",
-        "img": "/hockey/img/players/Malkin.jpg",
+        "img": "/Hockey/img/players/Malkin.jpg",
         "full_name": "Evgeni Malkin",
         "birth_date": "31-07-1986",
         "team": "Pittsburgh Penguins",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "last_name": "Iginla",
-        "img": "/hockey/img/players/Iginla.jpg",
+        "img": "/Hockey/img/players/Iginla.jpg",
         "full_name": "Jarome Iginla",
         "birth_date": "01-07-1977",
         "team": "Retired",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "last_name": "Lidstrom",
-        "img": "/hockey/img/players/Lidstrom.jpg",
+        "img": "/Hockey/img/players/Lidstrom.jpg",
         "full_name": "Nicklas Lidstrom",
         "birth_date": "28-04-1970",
         "team": "Retired",
@@ -50,7 +50,7 @@
      {
         "id": 5,
         "last_name": "M Green",
-        "img": "/hockey/img/players/M Green.jpg",
+        "img": "/Hockey/img/players/M Green.jpg",
         "full_name": "Mike Green",
         "team": "Retired",
         "nationality": "Canada",
@@ -60,7 +60,7 @@
     {
         "id": 6,
         "last_name": "Luongo",
-        "img": "/hockey/img/players/Luongo.jpg",
+        "img": "/Hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "birth_date": "04-04-1979",
         "team": "Retired",

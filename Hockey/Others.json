@@ -2,7 +2,7 @@
   {
         "id": 1,
         "last_name": "Gretzky",
-        "img": "/hockey/img/players/Gretzky.jpg",
+        "img": "/Hockey/img/players/Gretzky.jpg",
         "full_name": "Wayne Gretzky",
         "birth_date": "26-01-1961",
 
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "last_name": "Lemieux",
-        "img": "/hockey/img/players/lemieux.jpg",
+        "img": "/Hockey/img/players/lemieux.jpg",
         "full_name": "Mario Lemieux",
         "birth_date": "05-10-1965",
 
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "last_name": "Orr",
-        "img": "/hockey/img/players/orr.jpg",
+        "img": "/Hockey/img/players/orr.jpg",
         "full_name": "Bobby Orr",
         "birth_date": "20-03-1948",
 
@@ -44,7 +44,7 @@
     {
         "id": 4,
         "last_name": "Howe",
-        "img": "/hockey/img/players/howe.jpg",
+        "img": "/Hockey/img/players/howe.jpg",
         "full_name": "Gordie Howe",
         "birth_date": "31-03-1928",
 
@@ -58,7 +58,7 @@
     {
         "id": 5,
         "last_name": "Richard",
-        "img": "/hockey/img/players/m richard.jpg",
+        "img": "/Hockey/img/players/m richard.jpg",
         "full_name": "Maurice Richard",
         "birth_date": "04-08-1921",
 
@@ -72,7 +72,7 @@
     {
         "id": 6,
         "last_name": "Hull",
-        "img": "/hockey/img/players/bo hull.jpg",
+        "img": "/Hockey/img/players/bo hull.jpg",
         "full_name": "Bobby Hull",
         "birth_date": "03-01-1939",
 
@@ -86,7 +86,7 @@
     {
         "id": 7,
         "last_name": "Beliveau",
-        "img": "/hockey/img/players/beliveau.jpg",
+        "img": "/Hockey/img/players/beliveau.jpg",
         "full_name": "Jean Beliveau",
         "birth_date": "31-08-1931",
 
@@ -100,7 +100,7 @@
     {
         "id": 8,
         "last_name": "Mikita",
-        "img": "/hockey/img/players/mikita.jpg",
+        "img": "/Hockey/img/players/mikita.jpg",
         "full_name": "Stan Mikita",
         "birth_date": "20-05-1940",
 
@@ -114,7 +114,7 @@
     {
         "id": 9,
         "last_name": "Lafleur",
-        "img": "/hockey/img/players/lafleur.jpg",
+        "img": "/Hockey/img/players/lafleur.jpg",
         "full_name": "Guy Lafleur",
         "birth_date": "20-09-1951",
 
@@ -128,7 +128,7 @@
     {
         "id": 10,
         "last_name": "Esposito",
-        "img": "/hockey/img/players/esposito.jpg",
+        "img": "/Hockey/img/players/esposito.jpg",
         "full_name": "Phil Esposito",
         "birth_date": "20-02-1942",
 
@@ -142,7 +142,7 @@
     {
         "id": 11,
         "last_name": "Bourque",
-        "img": "/hockey/img/players/bourque.jpg",
+        "img": "/Hockey/img/players/bourque.jpg",
         "full_name": "Raymond Bourque",
         "birth_date": "28-12-1960",
 
@@ -156,7 +156,7 @@
     {
         "id": 12,
         "last_name": "Messier",
-        "img": "/hockey/img/players/messier.jpg",
+        "img": "/Hockey/img/players/messier.jpg",
         "full_name": "Mark Messier",
         "birth_date": "18-01-1961",
 
@@ -170,7 +170,7 @@
     {
         "id": 13,
         "last_name": "Coffey",
-        "img": "/hockey/img/players/coffey.jpg",
+        "img": "/Hockey/img/players/coffey.jpg",
         "full_name": "Paul Coffey",
         "birth_date": "01-06-1961",
 
@@ -184,7 +184,7 @@
     {
         "id": 14,
         "last_name": "Robinson",
-        "img": "/hockey/img/players/robinson.jpg",
+        "img": "/Hockey/img/players/robinson.jpg",
         "full_name": "Larry Robinson",
         "birth_date": "02-06-1951",
 
@@ -198,7 +198,7 @@
     {
         "id": 15,
         "last_name": "Trottier",
-        "img": "/hockey/img/players/trottier.jpg",
+        "img": "/Hockey/img/players/trottier.jpg",
         "full_name": "Bryan Trottier",
         "birth_date": "17-07-1956",
 
@@ -212,7 +212,7 @@
     {
         "id": 16,
         "last_name": "Bossy",
-        "img": "/hockey/img/players/bossy.jpg",
+        "img": "/Hockey/img/players/bossy.jpg",
         "full_name": "Mike Bossy",
         "birth_date": "22-01-1957",
 
@@ -226,7 +226,7 @@
     {
         "id": 17,
         "last_name": "Hull",
-        "img": "/hockey/img/players/br Hull.jpg",
+        "img": "/Hockey/img/players/br Hull.jpg",
         "full_name": "Brett Hull",
         "birth_date": "09-08-1964",
 
@@ -240,7 +240,7 @@
     {
         "id": 18,
         "last_name": "Dionne",
-        "img": "/hockey/img/players/dionne.jpg",
+        "img": "/Hockey/img/players/dionne.jpg",
         "full_name": "Marcel Dionne",
         "birth_date": "03-08-1951",
 
@@ -254,7 +254,7 @@
   {
     "id": 19,
     "last_name": "Yzerman",
-    "img": "/hockey/img/players/Yzerman.jpg",
+    "img": "/Hockey/img/players/Yzerman.jpg",
     "full_name": "Steve Yzerman",
     "birth_date": "09-05-1965",
 
@@ -268,7 +268,7 @@
   {
     "id": 22,
     "last_name": "Francis",
-    "img": "/hockey/img/players/Francis.jpg",
+    "img": "/Hockey/img/players/Francis.jpg",
     "full_name": "Ron Francis",
     "birth_date": "01-03-1963",
 
@@ -282,7 +282,7 @@
   {
     "id": 23,
     "last_name": "Potvin",
-    "img": "/hockey/img/players/Potvin.jpg",
+    "img": "/Hockey/img/players/Potvin.jpg",
     "full_name": "Denis Potvin",
     "birth_date": "29-10-1953",
 
@@ -296,7 +296,7 @@
   {
     "id": 24,
     "last_name": "Parent",
-    "img": "/hockey/img/players/Parent.jpg",
+    "img": "/Hockey/img/players/Parent.jpg",
     "full_name": "Bernie Parent",
     "birth_date": "03-04-1945",
 
@@ -310,7 +310,7 @@
   {
     "id": 25,
     "last_name": "Plante",
-    "img": "/hockey/img/players/Plante.jpg",
+    "img": "/Hockey/img/players/Plante.jpg",
     "full_name": "Jacques Plante",
     "birth_date": "17-01-1929",
 
@@ -324,7 +324,7 @@
   {
     "id": 26,
     "last_name": "Roy",
-    "img": "/hockey/img/players/P Roy.jpg",
+    "img": "/Hockey/img/players/P Roy.jpg",
     "full_name": "Patrick Roy",
     "birth_date": "05-10-1965",
 
@@ -338,7 +338,7 @@
   {
     "id": 27,
     "last_name": "Sawchuk",
-    "img": "/hockey/img/players/Sawchuk.jpg",
+    "img": "/Hockey/img/players/Sawchuk.jpg",
     "full_name": "Terry Sawchuk",
     "birth_date": "28-12-1929",
 
@@ -352,7 +352,7 @@
   {
     "id": 28,
     "last_name": "Dryden",
-    "img": "/hockey/img/players/Dryden.jpg",
+    "img": "/Hockey/img/players/Dryden.jpg",
     "full_name": "Ken Dryden",
     "birth_date": "08-08-1947",
 
@@ -366,7 +366,7 @@
   {
     "id": 29,
     "last_name": "Bucyk",
-    "img": "/hockey/img/players/Bucyk.jpg",
+    "img": "/Hockey/img/players/Bucyk.jpg",
     "full_name": "Johnny Bucyk",
     "birth_date": "12-05-1935",
 
@@ -380,7 +380,7 @@
   {
     "id": 30,
     "last_name": "Bower",
-    "img": "/hockey/img/players/Bower.jpg",
+    "img": "/Hockey/img/players/Bower.jpg",
     "full_name": "Johnny Bower",
     "birth_date": "08-11-1924",
 
@@ -394,7 +394,7 @@
   {
     "id": 31,
     "last_name": "Keon",
-    "img": "/hockey/img/players/Keon.jpg",
+    "img": "/Hockey/img/players/Keon.jpg",
     "full_name": "Dave Keon",
     "birth_date": "22-03-1940",
 
@@ -408,7 +408,7 @@
   {
     "id": 32,
     "last_name": "Hasek",
-    "img": "/hockey/img/players/Hasek.jpg",
+    "img": "/Hockey/img/players/Hasek.jpg",
     "full_name": "Dominik Hasek",
     "birth_date": "29-01-1965",
 
@@ -422,7 +422,7 @@
   {
     "id": 33,
     "last_name": "Clarke",
-    "img": "/hockey/img/players/Clarke.jpg",
+    "img": "/Hockey/img/players/Clarke.jpg",
     "full_name": "Bobby Clarke",
     "birth_date": "13-08-1949",
 
@@ -436,7 +436,7 @@
   {
     "id": 34,
     "last_name": "Horton",
-    "img": "/hockey/img/players/Horton.jpg",
+    "img": "/Hockey/img/players/Horton.jpg",
     "full_name": "Tim Horton",
     "birth_date": "12-01-1930",
 
@@ -450,7 +450,7 @@
   {
     "id": 35,
     "last_name": "Chelios",
-    "img": "/hockey/img/players/Chelios.jpg",
+    "img": "/Hockey/img/players/Chelios.jpg",
     "full_name": "Chris Chelios",
     "birth_date": "25-01-1962",
 
@@ -464,7 +464,7 @@
   {
     "id": 36,
     "last_name": "MacInnis",
-    "img": "/hockey/img/players/MacInnis.jpg",
+    "img": "/Hockey/img/players/MacInnis.jpg",
     "full_name": "Al MacInnis",
     "birth_date": "11-07-1963",
 
@@ -478,7 +478,7 @@
   {
     "id": 37,
     "last_name": "Fuhr",
-    "img": "/hockey/img/players/Fuhr.jpg",
+    "img": "/Hockey/img/players/Fuhr.jpg",
     "full_name": "Grant Fuhr",
     "birth_date": "28-09-1962",
 
@@ -492,7 +492,7 @@
   {
     "id": 38,
     "last_name": "Park",
-    "img": "/hockey/img/players/Park.jpg",
+    "img": "/Hockey/img/players/Park.jpg",
     "full_name": "Brad Park",
     "birth_date": "06-07-1948",
 
@@ -506,7 +506,7 @@
   {
     "id": 39,
     "last_name": "Harvey",
-    "img": "/hockey/img/players/Harvey.jpg",
+    "img": "/Hockey/img/players/Harvey.jpg",
     "full_name": "Doug Harvey",
     "birth_date": "19-12-1924",
 
@@ -520,7 +520,7 @@
   {
     "id": 40,
     "last_name": "Kurri",
-    "img": "/hockey/img/players/Kurri.jpg",
+    "img": "/Hockey/img/players/Kurri.jpg",
     "full_name": "Jari Kurri",
     "birth_date": "18-05-1960",
 
@@ -534,7 +534,7 @@
   {
     "id": 41,
     "last_name": "Hall",
-    "img": "/hockey/img/players/G Hall.jpg",
+    "img": "/Hockey/img/players/G Hall.jpg",
     "full_name": "Glenn Hall",
     "birth_date": "03-10-1931",
 
@@ -548,7 +548,7 @@
   {
     "id": 42,
     "last_name": "Mahovlich",
-    "img": "/hockey/img/players/Mahovlich.jpg",
+    "img": "/Hockey/img/players/Mahovlich.jpg",
     "full_name": "Frank Mahovlich",
     "birth_date": "10-01-1938",
 
@@ -562,7 +562,7 @@
   {
     "id": 43,
     "last_name": "R Kelly",
-    "img": "/hockey/img/players/R Kelly.jpg",
+    "img": "/Hockey/img/players/R Kelly.jpg",
     "full_name": "Red Kelly",
     "birth_date": "09-07-1927",
 
@@ -576,7 +576,7 @@
   {
     "id": 44,
     "last_name": "H Richard",
-    "img": "/hockey/img/players/H Richard.jpg",
+    "img": "/Hockey/img/players/H Richard.jpg",
     "full_name": "Henri Richard",
     "birth_date": "29-02-1936",
 
@@ -590,7 +590,7 @@
   {
     "id": 45,
     "last_name": "Morenz",
-    "img": "/hockey/img/players/Morenz.jpg",
+    "img": "/Hockey/img/players/Morenz.jpg",
     "full_name": "Howie Morenz",
     "birth_date": "21-09-1902",
 
@@ -604,7 +604,7 @@
   {
     "id": 46,
     "last_name": "Gilmour",
-    "img": "/hockey/img/players/Gilmour.jpg",
+    "img": "/Hockey/img/players/Gilmour.jpg",
     "full_name": "Doug Gilmour",
     "birth_date": "25-06-1963",
 
@@ -618,7 +618,7 @@
   {
     "id": 48,
     "last_name": "Perreault",
-    "img": "/hockey/img/players/Perreault.jpg",
+    "img": "/Hockey/img/players/Perreault.jpg",
     "full_name": "Gilbert Perreault",
     "birth_date": "13-11-1950",
 
@@ -632,7 +632,7 @@
   {
     "id": 50,
     "last_name": "Hextall",
-    "img": "/hockey/img/players/Hextall.jpg",
+    "img": "/Hockey/img/players/Hextall.jpg",
     "full_name": "Ron Hextall",
     "birth_date": "03-05-1964",
 
@@ -646,7 +646,7 @@
      {
     "id": 51,
     "last_name": "Federko",
-    "img": "/hockey/img/players/Federko.jpg",
+    "img": "/Hockey/img/players/Federko.jpg",
     "full_name": "Bernie Federko",
     "birth_date": "12-05-1956",
 
@@ -660,7 +660,7 @@
   {
     "id": 52,
     "last_name": "Shanahan",
-    "img": "/hockey/img/players/Shanahan.jpg",
+    "img": "/Hockey/img/players/Shanahan.jpg",
     "full_name": "Brendan Shanahan",
     "birth_date": "23-01-1969",
 
@@ -674,7 +674,7 @@
   {
     "id": 53,
     "last_name": "Ullman",
-    "img": "/hockey/img/players/Ullman.jpg",
+    "img": "/Hockey/img/players/Ullman.jpg",
     "full_name": "Norm Ullman",
     "birth_date": "26-12-1935",
 
@@ -688,7 +688,7 @@
   {
     "id": 55,
     "last_name": "Robitaille",
-    "img": "/hockey/img/players/Robitaille.jpg",
+    "img": "/Hockey/img/players/Robitaille.jpg",
     "full_name": "Luc Robitaille",
     "birth_date": "17-02-1966",
 
@@ -702,7 +702,7 @@
   {
     "id": 56,
     "last_name": "Sittler",
-    "img": "/hockey/img/players/Sittler.jpg",
+    "img": "/Hockey/img/players/Sittler.jpg",
     "full_name": "Darryl Sittler",
     "birth_date": "18-09-1950",
 
@@ -716,7 +716,7 @@
   {
     "id": 58,
     "last_name": "P Bure",
-    "img": "/hockey/img/players/P Bure.jpg",
+    "img": "/Hockey/img/players/P Bure.jpg",
     "full_name": "Pavel Bure",
     "birth_date": "31-03-1971",
 
@@ -730,7 +730,7 @@
   {
     "id": 61,
     "last_name": "Geoffrion",
-    "img": "/hockey/img/players/Geoffrion.jpg",
+    "img": "/Hockey/img/players/Geoffrion.jpg",
     "full_name": "Bernie Geoffrion",
     "birth_date": "14-02-1931",
 
@@ -744,7 +744,7 @@
   {
     "id": 62,
     "last_name": "L Murphy",
-    "img": "/hockey/img/players/L Murphy.jpg",
+    "img": "/Hockey/img/players/L Murphy.jpg",
     "full_name": "Larry Murphy",
     "birth_date": "08-03-1961",
 
@@ -758,7 +758,7 @@
   {
     "id": 63,
     "last_name": "Stevens",
-    "img": "/hockey/img/players/Stevens.jpg",
+    "img": "/Hockey/img/players/Stevens.jpg",
     "full_name": "Scott Stevens",
     "birth_date": "01-04-1964",
 
@@ -772,7 +772,7 @@
     {
   "id": 64,
   "last_name": "Brind'Amour",
-  "img": "/hockey/img/players/Brind'Amour.jpg",
+  "img": "/Hockey/img/players/Brind'Amour.jpg",
   "full_name": "Rod Brind'Amour",
   "birth_date": "09-08-1970",
 
@@ -786,7 +786,7 @@
 {
   "id": 65,
   "last_name": "Shore",
-  "img": "/hockey/img/players/Shore.jpg",
+  "img": "/Hockey/img/players/Shore.jpg",
   "full_name": "Eddie Shore",
   "birth_date": "25-11-1902",
 
@@ -800,7 +800,7 @@
 {
   "id": 66,
   "last_name": "Salming",
-  "img": "/hockey/img/players/Salming.jpg",
+  "img": "/Hockey/img/players/Salming.jpg",
   "full_name": "Borje Salming",
   "birth_date": "17-04-1951",
 
@@ -814,7 +814,7 @@
 {
   "id": 67,
   "last_name": "Fedorov",
-  "img": "/hockey/img/players/Fedorov.jpg",
+  "img": "/Hockey/img/players/Fedorov.jpg",
   "full_name": "Sergei Fedorov",
   "birth_date": "13-12-1969",
 
@@ -828,7 +828,7 @@
 {
   "id": 68,
   "last_name": "Housley",
-  "img": "/hockey/img/players/Housley.jpg",
+  "img": "/Hockey/img/players/Housley.jpg",
   "full_name": "Phil Housley",
   "birth_date": "09-03-1964",
 
@@ -842,7 +842,7 @@
 {
   "id": 69,
   "last_name": "Modano",
-  "img": "/hockey/img/players/Modano.jpg",
+  "img": "/Hockey/img/players/Modano.jpg",
   "full_name": "Mike Modano",
   "birth_date": "07-06-1970",
 
@@ -856,7 +856,7 @@
 {
   "id": 70,
   "last_name": "Selanne",
-  "img": "/hockey/img/players/Selanne.jpg",
+  "img": "/Hockey/img/players/Selanne.jpg",
   "full_name": "Teemu Selanne",
   "birth_date": "03-07-1970",
 
@@ -870,7 +870,7 @@
 {
   "id": 71,
   "last_name": "Oates",
-  "img": "/hockey/img/players/Oates.jpg",
+  "img": "/Hockey/img/players/Oates.jpg",
   "full_name": "Adam Oates",
   "birth_date": "27-08-1962",
 
@@ -884,7 +884,7 @@
 {
   "id": 72,
   "last_name": "G Anderson",
-  "img": "/hockey/img/players/G Anderson.jpg",
+  "img": "/Hockey/img/players/G Anderson.jpg",
   "full_name": "Glenn Anderson",
   "birth_date": "02-10-1960",
 
@@ -898,7 +898,7 @@
 {
   "id": 73,
   "last_name": "Hawerchuk",
-  "img": "/hockey/img/players/Hawerchuk.jpg",
+  "img": "/Hockey/img/players/Hawerchuk.jpg",
   "full_name": "Dale Hawerchuk",
   "birth_date": "04-04-1963",
 
@@ -912,7 +912,7 @@
 {
   "id": 74,
   "last_name": "Bourque",
-  "img": "/hockey/img/players/Bourque.jpg",
+  "img": "/Hockey/img/players/Bourque.jpg",
   "full_name": "Ray Bourque",
   "birth_date": "28-12-1960",
 
@@ -926,7 +926,7 @@
 {
   "id": 75,
   "last_name": "Nieuwendyk",
-  "img": "/hockey/img/players/Nieuwendyk.jpg",
+  "img": "/Hockey/img/players/Nieuwendyk.jpg",
   "full_name": "Joe Nieuwendyk",
   "birth_date": "10-09-1966",
 
@@ -940,7 +940,7 @@
 {
   "id": 76,
   "last_name": "Gainey",
-  "img": "/hockey/img/players/Gainey.jpg",
+  "img": "/Hockey/img/players/Gainey.jpg",
   "full_name": "Bob Gainey",
   "birth_date": "13-12-1953",
 
@@ -954,7 +954,7 @@
 {
   "id": 77,
   "last_name": "Lindros",
-  "img": "/hockey/img/players/Lindros.jpg",
+  "img": "/Hockey/img/players/Lindros.jpg",
   "full_name": "Eric Lindros",
   "birth_date": "28-02-1973",
 
@@ -968,7 +968,7 @@
 {
   "id": 78,
   "last_name": "Lapointe",
-  "img": "/hockey/img/players/Lapointe.jpg",
+  "img": "/Hockey/img/players/Lapointe.jpg",
   "full_name": "Guy Lapointe",
   "birth_date": "18-03-1948",
 
@@ -982,7 +982,7 @@
 {
   "id": 79,
   "last_name": "LaFontaine",
-  "img": "/hockey/img/players/LaFontaine.jpg",
+  "img": "/Hockey/img/players/LaFontaine.jpg",
   "full_name": "Pat LaFontaine",
   "birth_date": "22-02-1965",
 
@@ -996,7 +996,7 @@
 {
   "id": 80,
   "last_name": "Graves",
-  "img": "/hockey/img/players/A Graves.jpg",
+  "img": "/Hockey/img/players/A Graves.jpg",
   "full_name": "Adam Graves",
   "birth_date": "12-04-1968",
 
@@ -1010,7 +1010,7 @@
 {
   "id": 81,
   "last_name": "Leetch",
-  "img": "/hockey/img/players/Leetch.jpg",
+  "img": "/Hockey/img/players/Leetch.jpg",
   "full_name": "Brian Leetch",
   "birth_date": "03-03-1968",
 
@@ -1024,7 +1024,7 @@
 {
   "id": 82,
   "last_name": "Tkachuk",
-  "img": "/hockey/img/players/K Tkachuk.jpg",
+  "img": "/Hockey/img/players/K Tkachuk.jpg",
   "full_name": "Keith Tkachuk",
   "birth_date": "28-03-1972",
 
@@ -1038,7 +1038,7 @@
 {
   "id": 83,
   "last_name": "Turgeon",
-  "img": "/hockey/img/players/Turgeon.jpg",
+  "img": "/Hockey/img/players/Turgeon.jpg",
   "full_name": "Pierre Turgeon",
   "birth_date": "29-08-1969",
 
@@ -1052,7 +1052,7 @@
 {
   "id": 84,
   "last_name": "Fleury",
-  "img": "/hockey/img/players/T Fleury.jpg",
+  "img": "/Hockey/img/players/T Fleury.jpg",
   "full_name": "Theoren Fleury",
   "birth_date": "29-06-1968",
 
@@ -1066,7 +1066,7 @@
 {
   "id": 85,
   "last_name": "Carbonneau",
-  "img": "/hockey/img/players/Carbonneau.jpg",
+  "img": "/Hockey/img/players/Carbonneau.jpg",
   "full_name": "Guy Carbonneau",
   "birth_date": "18-03-1960",
 
@@ -1080,7 +1080,7 @@
 {
   "id": 86,
   "last_name": "B Richards",
-  "img": "/hockey/img/players/B Richards.jpg",
+  "img": "/Hockey/img/players/B Richards.jpg",
   "full_name": "Brad Richards",
   "birth_date": "02-05-1980",
 
@@ -1094,7 +1094,7 @@
  {
     "id": 87,
     "last_name": "Kariya",
-    "img": "/hockey/img/players/Kariya.jpg",
+    "img": "/Hockey/img/players/Kariya.jpg",
     "full_name": "Paul Kariya",
     "team": "Retired",
     "nationality": "Canada",
@@ -1104,7 +1104,7 @@
   {
     "id": 88,
     "last_name": "Giguere",
-    "img": "/hockey/img/players/Giguere.jpg",
+    "img": "/Hockey/img/players/Giguere.jpg",
     "full_name": "J-Sebastien Giguere",
     "team": "Retired",
     "nationality": "Canada",
@@ -1114,7 +1114,7 @@
 {
     "id": 89,
     "last_name": "Roenick",
-    "img": "/hockey/img/players/Roenick.jpg",
+    "img": "/Hockey/img/players/Roenick.jpg",
     "full_name": "Jeremy Roenick",
     "team": "Retired",
     "nationality": "USA",
@@ -1124,7 +1124,7 @@
   {
       "id": 90,
       "last_name": "Khabibulin",
-      "img": "/hockey/img/players/Khabibulin.jpg",
+      "img": "/Hockey/img/players/Khabibulin.jpg",
       "full_name": "Nikolai Khabibulin",
       "team": "Retired",
       "nationality": "Russia",
@@ -1134,7 +1134,7 @@
   {
       "id": 91,
       "last_name": "Briere",
-      "img": "/hockey/img/players/Briere.jpg",
+      "img": "/Hockey/img/players/Briere.jpg",
       "full_name": "Daniel Briere",
       "team": "Retired",
       "nationality": "Canada",
@@ -1144,7 +1144,7 @@
   {
       "id": 92,
       "last_name": "T Thomas",
-      "img": "/hockey/img/players/T Thomas.jpg",
+      "img": "/Hockey/img/players/T Thomas.jpg",
       "full_name": "Tim Thomas",
       "team": "Retired",
       "nationality": "USA",
@@ -1154,7 +1154,7 @@
   {
       "id": 93,
       "last_name": "M Savard",
-      "img": "/hockey/img/players/M Savard.jpg",
+      "img": "/Hockey/img/players/M Savard.jpg",
       "full_name": "Marc Savard",
       "team": "Retired",
       "nationality": "Canada",
@@ -1164,7 +1164,7 @@
   {
       "id": 94,
       "last_name": "Peca",
-      "img": "/hockey/img/players/Peca.jpg",
+      "img": "/Hockey/img/players/Peca.jpg",
       "full_name": "Michael Peca",
       "team": "Retired",
       "nationality": "Canada",
@@ -1174,7 +1174,7 @@
   {
       "id": 95,
       "last_name": "Mogilny",
-      "img": "/hockey/img/players/Mogilny.jpg",
+      "img": "/Hockey/img/players/Mogilny.jpg",
       "full_name": "Alexander Mogilny",
       "team": "Retired",
       "nationality": "Russia",
@@ -1184,7 +1184,7 @@
   {
       "id": 96,
       "last_name": "Andreychuk",
-      "img": "/hockey/img/players/Andreychuk.jpg",
+      "img": "/Hockey/img/players/Andreychuk.jpg",
       "full_name": "Dave Andreychuk",
       "team": "Retired",
       "nationality": "Canada",
@@ -1194,7 +1194,7 @@
   {
       "id": 97,
       "last_name": "Afinogenov",
-      "img": "/hockey/img/players/Afinogenov.jpg",
+      "img": "/Hockey/img/players/Afinogenov.jpg",
       "full_name": "Maxim Afinogenov",
       "team": "Retired",
       "nationality": "Russia",
@@ -1204,7 +1204,7 @@
   {
       "id": 98,
       "last_name": "Drury",
-      "img": "/hockey/img/players/Drury.jpg",
+      "img": "/Hockey/img/players/Drury.jpg",
       "full_name": "Chris Drury",
       "team": "Retired",
       "nationality": "USA",
@@ -1214,7 +1214,7 @@
   {
       "id": 99,
       "last_name": "Primeau",
-      "img": "/hockey/img/players/Primeau.jpg",
+      "img": "/Hockey/img/players/Primeau.jpg",
       "full_name": "Keith Primeau",
       "team": "Retired",
       "nationality": "Canada",
@@ -1224,7 +1224,7 @@
   {
       "id": 100,
       "last_name": "De Savard",
-      "img": "/hockey/img/players/De Savard.jpg",
+      "img": "/Hockey/img/players/De Savard.jpg",
       "full_name": "Denis Savard",
       "team": "Retired",
       "nationality": "Canada",
@@ -1234,7 +1234,7 @@
   {
       "id": 101,
       "last_name": "Belfour",
-      "img": "/hockey/img/players/Belfour.jpg",
+      "img": "/Hockey/img/players/Belfour.jpg",
       "full_name": "Ed Belfour",
       "team": "Retired",
       "nationality": "Canada",
@@ -1244,7 +1244,7 @@
   {
       "id": 102,
       "last_name": "Hejduk",
-      "img": "/hockey/img/players/Hejduk.jpg",
+      "img": "/Hockey/img/players/Hejduk.jpg",
       "full_name": "Milan Hejduk",
       "team": "Retired",
       "nationality": "Czech Republic",
@@ -1254,7 +1254,7 @@
   {
       "id": 103,
       "last_name": "Foote",
-      "img": "/hockey/img/players/Foote.jpg",
+      "img": "/Hockey/img/players/Foote.jpg",
       "full_name": "Adam Foote",
       "team": "Retired",
       "nationality": "Canada",
@@ -1264,7 +1264,7 @@
   {
       "id": 104,
       "last_name": "Blake",
-      "img": "/hockey/img/players/Blake.jpg",
+      "img": "/Hockey/img/players/Blake.jpg",
       "full_name": "Rob Blake",
       "team": "Retired",
       "nationality": "Canada",
@@ -1274,7 +1274,7 @@
   {
       "id": 105,
       "last_name": "Stastny",
-      "img": "/hockey/img/players/Stastny.jpg",
+      "img": "/Hockey/img/players/Stastny.jpg",
       "full_name": "Paul Stastny",
       "team": "Retired",
       "nationality": "Canada",
@@ -1284,7 +1284,7 @@
   {
       "id": 106,
       "last_name": "Nash",
-      "img": "/hockey/img/players/Nash.jpg",
+      "img": "/Hockey/img/players/Nash.jpg",
       "full_name": "Rick Nash",
       "team": "Retired",
       "nationality": "Canada",
@@ -1294,7 +1294,7 @@
   {
       "id": 107,
       "last_name": "Modano",
-      "img": "/hockey/img/players/Modano.jpg",
+      "img": "/Hockey/img/players/Modano.jpg",
       "full_name": "Mike Modano",
       "team": "Retired",
       "nationality": "USA",
@@ -1304,7 +1304,7 @@
   {
       "id": 108,
       "last_name": "Hull",
-      "img": "/hockey/img/players/Hull.jpg",
+      "img": "/Hockey/img/players/Hull.jpg",
       "full_name": "Brett Hull",
       "team": "Retired",
       "nationality": "Canada",
@@ -1314,7 +1314,7 @@
   {
       "id": 109,
       "last_name": "Turco",
-      "img": "/hockey/img/players/Turco.jpg",
+      "img": "/Hockey/img/players/Turco.jpg",
       "full_name": "Marty Turco",
       "team": "Retired",
       "nationality": "Canada",
@@ -1324,7 +1324,7 @@
   {
       "id": 110,
       "last_name": "Guerin",
-      "img": "/hockey/img/players/Guerin.jpg",
+      "img": "/Hockey/img/players/Guerin.jpg",
       "full_name": "Bill Guerin",
       "team": "Retired",
       "nationality": "USA",
@@ -1334,7 +1334,7 @@
   {
       "id": 111,
       "last_name": "Joseph",
-      "img": "/hockey/img/players/Joseph.jpg",
+      "img": "/Hockey/img/players/Joseph.jpg",
       "full_name": "Curtis Joseph",
       "team": "Retired",
       "nationality": "Canada",
@@ -1344,7 +1344,7 @@
   {
       "id": 112,
       "last_name": "Sharp",
-      "img": "/hockey/img/players/Sharp.jpg",
+      "img": "/Hockey/img/players/Sharp.jpg",
       "full_name": "Patrick Sharp",
       "team": "Retired",
       "nationality": "Canada",
@@ -1354,7 +1354,7 @@
   {
       "id": 113,
       "last_name": "Tanguay",
-      "img": "/hockey/img/players/Tanguay.jpg",
+      "img": "/Hockey/img/players/Tanguay.jpg",
       "full_name": "Alex Tanguay",
       "team": "Retired",
       "nationality": "Canada",
@@ -1364,7 +1364,7 @@
   {
       "id": 114,
       "last_name": "Avery",
-      "img": "/hockey/img/players/Avery.jpg",
+      "img": "/Hockey/img/players/Avery.jpg",
       "full_name": "Sean Avery",
       "team": "Retired",
       "nationality": "Canada",
@@ -1374,7 +1374,7 @@
   {
       "id": 115,
       "last_name": "Osgood",
-      "img": "/hockey/img/players/Osgood.jpg",
+      "img": "/Hockey/img/players/Osgood.jpg",
       "full_name": "Chris Osgood",
       "team": "Retired",
       "nationality": "Canada",
@@ -1384,7 +1384,7 @@
   {
       "id": 116,
       "last_name": "T Bertuzzi",
-      "img": "/hockey/img/players/Bertuzzi.jpg",
+      "img": "/Hockey/img/players/Bertuzzi.jpg",
       "full_name": "Todd Bertuzzi",
       "team": "Retired",
       "nationality": "Canada",
@@ -1394,7 +1394,7 @@
   {
       "id": 117,
       "last_name": "Smyth",
-      "img": "/hockey/img/players/Smyth.jpg",
+      "img": "/Hockey/img/players/Smyth.jpg",
       "full_name": "Ryan Smyth",
       "team": "Retired",
       "nationality": "Canada",
@@ -1404,7 +1404,7 @@
   {
       "id": 118,
       "last_name": "Weight",
-      "img": "/hockey/img/players/Weight.jpg",
+      "img": "/Hockey/img/players/Weight.jpg",
       "full_name": "Doug Weight",
       "team": "Retired",
       "nationality": "USA",
@@ -1414,7 +1414,7 @@
   {
       "id": 119,
       "last_name": "V Bure",
-      "img": "/hockey/img/players/V Bure.jpg",
+      "img": "/Hockey/img/players/V Bure.jpg",
       "full_name": "Valeri Bure",
       "team": "Retired",
       "nationality": "Russia",
@@ -1424,7 +1424,7 @@
   {
       "id": 120,
       "last_name": "Jovanovski",
-      "img": "/hockey/img/players/Jovanovski.jpg",
+      "img": "/Hockey/img/players/Jovanovski.jpg",
       "full_name": "Ed Jovanovski",
       "team": "Retired",
       "nationality": "Canada",
@@ -1434,7 +1434,7 @@
   {
         "id": 121,
         "last_name": "Bouwmeester",
-        "img": "/hockey/img/players/Bouwmeester.jpg",
+        "img": "/Hockey/img/players/Bouwmeester.jpg",
         "full_name": "Jay Bouwmeester",
         "team": "Retired",
         "nationality": "Canada",
@@ -1444,7 +1444,7 @@
     {
         "id": 122,
         "last_name": "Heatley",
-        "img": "/hockey/img/players/Heatley.jpg",
+        "img": "/Hockey/img/players/Heatley.jpg",
         "full_name": "Dany Heatley",
         "team": "Retired",
         "nationality": "Canada",
@@ -1454,7 +1454,7 @@
     {
         "id": 123,
         "last_name": "Havlat",
-        "img": "/hockey/img/players/Havlat.jpg",
+        "img": "/Hockey/img/players/Havlat.jpg",
         "full_name": "Martin Havlat",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -1464,7 +1464,7 @@
     {
         "id": 124,
         "last_name": "S Koivu",
-        "img": "/hockey/img/players/S Koivu.jpg",
+        "img": "/Hockey/img/players/S Koivu.jpg",
         "full_name": "Saku Koivu",
         "team": "Retired",
         "nationality": "Finland",
@@ -1474,7 +1474,7 @@
     {
         "id": 125,
         "last_name": "J Theodore",
-        "img": "/hockey/img/players/J Theodore.jpg",
+        "img": "/Hockey/img/players/J Theodore.jpg",
         "full_name": "Jose Theodore",
         "team": "Retired",
         "nationality": "Canada",
@@ -1484,7 +1484,7 @@
     {
         "id": 126,
         "last_name": "Damphousse",
-        "img": "/hockey/img/players/Damphousse.jpg",
+        "img": "/Hockey/img/players/Damphousse.jpg",
         "full_name": "Vincent Damphousse",
         "team": "Retired",
         "nationality": "Canada",
@@ -1494,7 +1494,7 @@
     {
         "id": 127,
         "last_name": "Recchi",
-        "img": "/hockey/img/players/Recchi.jpg",
+        "img": "/Hockey/img/players/Recchi.jpg",
         "full_name": "Mark Recchi",
         "team": "Retired",
         "nationality": "Canada",
@@ -1504,7 +1504,7 @@
     {
         "id": 128,
         "last_name": "Kovalev",
-        "img": "/hockey/img/players/Kovalev.jpg",
+        "img": "/Hockey/img/players/Kovalev.jpg",
         "full_name": "Alexei Kovalev",
         "team": "Retired",
         "nationality": "Russia",
@@ -1514,7 +1514,7 @@
     {
         "id": 129,
         "last_name": "Brunet",
-        "img": "/hockey/img/players/Brunet.jpg",
+        "img": "/Hockey/img/players/Brunet.jpg",
         "full_name": "Benoit Brunet",
         "team": "Retired",
         "nationality": "Canada",
@@ -1524,7 +1524,7 @@
     {
         "id": 130,
         "last_name": "Plekanec",
-        "img": "/hockey/img/players/Plekanec.jpg",
+        "img": "/Hockey/img/players/Plekanec.jpg",
         "full_name": "Tomas Plekanec",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -1534,7 +1534,7 @@
     {
         "id": 131,
         "last_name": "Ribeiro",
-        "img": "/hockey/img/players/Ribeiro.jpg",
+        "img": "/Hockey/img/players/Ribeiro.jpg",
         "full_name": "Mike Ribeiro",
         "team": "Retired",
         "nationality": "Canada",
@@ -1544,7 +1544,7 @@
     {
         "id": 132,
         "last_name": "Elias",
-        "img": "/hockey/img/players/Elias.jpg",
+        "img": "/Hockey/img/players/Elias.jpg",
         "full_name": "Patrik Elias",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -1554,7 +1554,7 @@
     {
         "id": 133,
         "last_name": "Alfredsson",
-        "img": "/hockey/img/players/Alfredsson.jpg",
+        "img": "/Hockey/img/players/Alfredsson.jpg",
         "full_name": "Daniel Alfredsson",
         "team": "Retired",
         "nationality": "Sweden",
@@ -1564,7 +1564,7 @@
     {
         "id": 134,
         "last_name": "Redden",
-        "img": "/hockey/img/players/Redden.jpg",
+        "img": "/Hockey/img/players/Redden.jpg",
         "full_name": "Wade Redden",
         "team": "Retired",
         "nationality": "Canada",
@@ -1574,7 +1574,7 @@
     {
         "id": 135,
         "last_name": "Yashin",
-        "img": "/hockey/img/players/Yashin.jpg",
+        "img": "/Hockey/img/players/Yashin.jpg",
         "full_name": "Alexei Yashin",
         "team": "Retired",
         "nationality": "Russia",
@@ -1584,7 +1584,7 @@
     {
         "id": 136,
         "last_name": "Gagne",
-        "img": "/hockey/img/players/Gagne.jpg",
+        "img": "/Hockey/img/players/Gagne.jpg",
         "full_name": "Simon Gagne",
         "team": "Retired",
         "nationality": "Canada",
@@ -1594,7 +1594,7 @@
     {
         "id": 137,
         "last_name": "M Richards",
-        "img": "/hockey/img/players/M Richards.jpg",
+        "img": "/Hockey/img/players/M Richards.jpg",
         "full_name": "Mike Richards",
         "team": "Retired",
         "nationality": "Canada",
@@ -1604,7 +1604,7 @@
     {
         "id": 139,
         "last_name": "J Staal",
-        "img": "/hockey/img/players/J Staal.jpg",
+        "img": "/Hockey/img/players/J Staal.jpg",
         "full_name": "Jordan Staal",
         "team": "Carolina Hurricanes",
         "nationality": "Canada",
@@ -1614,7 +1614,7 @@
     {
         "id": 140,
         "last_name": "Marleau",
-        "img": "/hockey/img/players/Marleau.jpg",
+        "img": "/Hockey/img/players/Marleau.jpg",
         "full_name": "Patrick Marleau",
         "team": "Retired",
         "nationality": "Canada",
@@ -1624,7 +1624,7 @@
     {
         "id": 141,
         "last_name": "Nabokov",
-        "img": "/hockey/img/players/Nabokov.jpg",
+        "img": "/Hockey/img/players/Nabokov.jpg",
         "full_name": "Evgeni Nabokov",
         "team": "Retired",
         "nationality": "Kazakhstan",
@@ -1634,7 +1634,7 @@
     {
         "id": 142,
         "last_name": "Demitra",
-        "img": "/hockey/img/players/Demitra.jpg",
+        "img": "/Hockey/img/players/Demitra.jpg",
         "full_name": "Pavol Demitra",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -1644,7 +1644,7 @@
     {
         "id": 144,
         "last_name": "Boyle",
-        "img": "/hockey/img/players/Boyle.jpg",
+        "img": "/Hockey/img/players/Boyle.jpg",
         "full_name": "Dan Boyle",
         "team": "Retired",
         "nationality": "Canada",
@@ -1654,7 +1654,7 @@
     {
         "id": 145,
         "last_name": "Hamrlik",
-        "img": "/hockey/img/players/Hamrlik.jpg",
+        "img": "/Hockey/img/players/Hamrlik.jpg",
         "full_name": "Roman Hamrlik",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -1664,7 +1664,7 @@
     {
         "id": 146,
         "last_name": "Sundin",
-        "img": "/hockey/img/players/Sundin.jpg",
+        "img": "/Hockey/img/players/Sundin.jpg",
         "full_name": "Mats Sundin",
         "team": "Retired",
         "nationality": "Sweden",
@@ -1674,7 +1674,7 @@
     {
         "id": 147,
         "last_name": "Kaberle",
-        "img": "/hockey/img/players/Kaberle.jpg",
+        "img": "/Hockey/img/players/Kaberle.jpg",
         "full_name": "Tomas Kaberle",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -1684,7 +1684,7 @@
     {
         "id": 148,
         "last_name": "T Domi",
-        "img": "/hockey/img/players/T Domi.jpg",
+        "img": "/Hockey/img/players/T Domi.jpg",
         "full_name": "Tie Domi",
         "team": "Retired",
         "nationality": "Canada",
@@ -1694,7 +1694,7 @@
     {
         "id": 149,
         "last_name": "Linden",
-        "img": "/hockey/img/players/Linden.jpg",
+        "img": "/Hockey/img/players/Linden.jpg",
         "full_name": "Trevor Linden",
         "team": "Retired",
         "nationality": "Canada",
@@ -1704,7 +1704,7 @@
     {
         "id": 150,
         "last_name": "Kesler",
-        "img": "/hockey/img/players/Kesler.jpg",
+        "img": "/Hockey/img/players/Kesler.jpg",
         "full_name": "Ryan Kesler",
         "team": "Retired",
         "nationality": "USA",
@@ -1714,7 +1714,7 @@
     {
         "id": 151,
         "last_name": "Bondra",
-        "img": "/hockey/img/players/Bondra.jpg",
+        "img": "/Hockey/img/players/Bondra.jpg",
         "full_name": "Peter Bondra",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -1724,7 +1724,7 @@
     {
         "id": 152,
         "last_name": "Kolzig",
-        "img": "/hockey/img/players/Kolzig.jpg",
+        "img": "/Hockey/img/players/Kolzig.jpg",
         "full_name": "Olaf Kolzig",
         "team": "Retired",
         "nationality": "Germany",
@@ -1734,7 +1734,7 @@
     {
         "id": 153,
         "last_name": "Duchene",
-        "img": "/hockey/img/players/Duchene.jpg",
+        "img": "/Hockey/img/players/Duchene.jpg",
         "full_name": "Matt Duchene",
         "team": "Dallas Stars",
         "nationality": "Canada",
@@ -1744,7 +1744,7 @@
     {
         "id": 154,
         "last_name": "Schenn",
-        "img": "/hockey/img/players/Schenn.jpg",
+        "img": "/Hockey/img/players/Schenn.jpg",
         "full_name": "Brayden Schenn",
         "team": "St Louis Blues",
         "nationality": "Canada",
@@ -1754,7 +1754,7 @@
     {
         "id": 155,
         "last_name": "Hayes",
-        "img": "/hockey/img/players/Hayes.jpg",
+        "img": "/Hockey/img/players/Hayes.jpg",
         "full_name": "Kevin Hayes",
         "team": "St Louis Blues",
         "nationality": "USA",
@@ -1764,7 +1764,7 @@
     {
         "id": 156,
         "last_name": "Bailey",
-        "img": "/hockey/img/players/Bailey.jpg",
+        "img": "/Hockey/img/players/Bailey.jpg",
         "full_name": "Josh Bailey",
         "team": "Free Agent",
         "nationality": "Canada",
@@ -1774,7 +1774,7 @@
     {
         "id": 157,
         "last_name": "Backlund",
-        "img": "/hockey/img/players/Backlund.jpg",
+        "img": "/Hockey/img/players/Backlund.jpg",
         "full_name": "Mikael Backlund",
         "team": "Calgary Flames",
         "nationality": "Sweden",
@@ -1784,7 +1784,7 @@
     {
         "id": 158,
         "last_name": "Oshie",
-        "img": "/hockey/img/players/Oshie.jpg",
+        "img": "/Hockey/img/players/Oshie.jpg",
         "full_name": "TJ Oshie",
         "team": "Washington Capitals",
         "nationality": "USA",
@@ -1794,7 +1794,7 @@
     {
         "id": 159,
         "last_name": "van Riemsdyk",
-        "img": "/hockey/img/players/van Riemsdyk.jpg",
+        "img": "/Hockey/img/players/van Riemsdyk.jpg",
         "full_name": "James van Riemsdyk",
         "team": "Boston Bruins",
         "nationality": "USA",
@@ -1804,7 +1804,7 @@
     {
         "id": 160,
         "last_name": "Teravainen",
-        "img": "/hockey/img/players/Teravainen.jpg",
+        "img": "/Hockey/img/players/Teravainen.jpg",
         "full_name": "Teuvo Teravainen",
         "team": "Carolina Hurricanes",
         "nationality": "Finland",
@@ -1814,7 +1814,7 @@
     {
         "id": 161,
         "last_name": "Smith",
-        "img": "/hockey/img/players/R Smith.jpg",
+        "img": "/Hockey/img/players/R Smith.jpg",
         "full_name": "Reilly Smith",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -1824,7 +1824,7 @@
     {
         "id": 162,
         "last_name": "Guentzel",
-        "img": "/hockey/img/players/Guentzel.jpg",
+        "img": "/Hockey/img/players/Guentzel.jpg",
         "full_name": "Jake Guentzel",
         "team": "Pittsburgh Penguins",
         "nationality": "USA",
@@ -1834,7 +1834,7 @@
     {
         "id": 163,
         "last_name": "Toffoli",
-        "img": "/hockey/img/players/Toffoli.jpg",
+        "img": "/Hockey/img/players/Toffoli.jpg",
         "full_name": "Tyler Toffoli",
         "team": "New Jersey Devils",
         "nationality": "Canada",
@@ -1844,7 +1844,7 @@
     {
         "id": 164,
         "last_name": "Trocheck",
-        "img": "/hockey/img/players/Trocheck.jpg",
+        "img": "/Hockey/img/players/Trocheck.jpg",
         "full_name": "Vincent Trocheck",
         "team": "New York Rangers",
         "nationality": "USA",
@@ -1854,7 +1854,7 @@
     {
         "id": 165,
         "last_name": "Reinhart",
-        "img": "/hockey/img/players/Reinhart.jpg",
+        "img": "/Hockey/img/players/Reinhart.jpg",
         "full_name": "Sam Reinhart",
         "team": "Florida Panthers",
         "nationality": "Canada",
@@ -1864,7 +1864,7 @@
     {
         "id": 166,
         "last_name": "McTavish",
-        "img": "/hockey/img/players/McTavish.jpg",
+        "img": "/Hockey/img/players/McTavish.jpg",
         "full_name": "Mason McTavish",
         "team": "Anaheim Ducks",
         "nationality": "Canada",
@@ -1874,7 +1874,7 @@
     {
         "id": 167,
         "last_name": "Swayman",
-        "img": "/hockey/img/players/Swayman.jpg",
+        "img": "/Hockey/img/players/Swayman.jpg",
         "full_name": "Jeremy Swayman",
         "team": "Boston Bruins",
         "nationality": "USA",
@@ -1884,7 +1884,7 @@
     {
         "id": 168,
         "last_name": "Cozens",
-        "img": "/hockey/img/players/Cozens.jpg",
+        "img": "/Hockey/img/players/Cozens.jpg",
         "full_name": "Dylan Cozens",
         "team": "Buffalo Sabres",
         "nationality": "Canada",
@@ -1894,7 +1894,7 @@
     {
         "id": 169,
         "last_name": "Hanifin",
-        "img": "/hockey/img/players/Hanifin.jpg",
+        "img": "/Hockey/img/players/Hanifin.jpg",
         "full_name": "Noah Hanifin",
         "team": "Calgary Flames",
         "nationality": "USA",
@@ -1904,7 +1904,7 @@
     {
         "id": 170,
         "last_name": "Pesce",
-        "img": "/hockey/img/players/Pesce.jpg",
+        "img": "/Hockey/img/players/Pesce.jpg",
         "full_name": "Brett Pesce",
         "team": "Carolina Hurricanes",
         "nationality": "USA",
@@ -1914,7 +1914,7 @@
     {
         "id": 171,
         "last_name": "Skjei",
-        "img": "/hockey/img/players/Skjei.jpg",
+        "img": "/Hockey/img/players/Skjei.jpg",
         "full_name": "Brady Skjei",
         "team": "Carolina Hurricanes",
         "nationality": "USA",
@@ -1924,7 +1924,7 @@
     {
         "id": 172,
         "last_name": "Orlov",
-        "img": "/hockey/img/players/Orlov.jpg",
+        "img": "/Hockey/img/players/Orlov.jpg",
         "full_name": "Dmitry Orlov",
         "team": "Carolina Hurricanes",
         "nationality": "Russia",
@@ -1934,7 +1934,7 @@
     {
         "id": 173,
         "last_name": "Byram",
-        "img": "/hockey/img/players/Byram.jpg",
+        "img": "/Hockey/img/players/Byram.jpg",
         "full_name": "Bowen Byram",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -1944,7 +1944,7 @@
     {
         "id": 174,
         "last_name": "Nichushkin",
-        "img": "/hockey/img/players/Nichushkin.jpg",
+        "img": "/Hockey/img/players/Nichushkin.jpg",
         "full_name": "Valeri Nichushkin",
         "team": "Colorado Avalanche",
         "nationality": "Russia",
@@ -1954,7 +1954,7 @@
     {
         "id": 175,
         "last_name": "Severson",
-        "img": "/hockey/img/players/Severson.jpg",
+        "img": "/Hockey/img/players/Severson.jpg",
         "full_name": "Damon Severson",
         "team": "Columbus Blue Jackets",
         "nationality": "Canada",
@@ -1964,7 +1964,7 @@
     {
         "id": 176,
         "last_name": "Gostisbehere",
-        "img": "/hockey/img/players/Gostisbehere.jpg",
+        "img": "/Hockey/img/players/Gostisbehere.jpg",
         "full_name": "Shayne Gostisbehere",
         "team": "Detroit Red Wings",
         "nationality": "USA",
@@ -1974,7 +1974,7 @@
     {
         "id": 177,
         "last_name": "Hyman",
-        "img": "/hockey/img/players/Hyman.jpg",
+        "img": "/Hockey/img/players/Hyman.jpg",
         "full_name": "Zach Hyman",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -1984,7 +1984,7 @@
     {
         "id": 178,
         "last_name": "Bouchard",
-        "img": "/hockey/img/players/Bouchard.jpg",
+        "img": "/Hockey/img/players/Bouchard.jpg",
         "full_name": "Evan Bouchard",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -1994,7 +1994,7 @@
     {
         "id": 179,
         "last_name": "E Kane",
-        "img": "/hockey/img/players/E Kane.jpg",
+        "img": "/Hockey/img/players/E Kane.jpg",
         "full_name": "Evander Kane",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -2004,7 +2004,7 @@
     {
         "id": 180,
         "last_name": "Forsling",
-        "img": "/hockey/img/players/Forsling.jpg",
+        "img": "/Hockey/img/players/Forsling.jpg",
         "full_name": "Gustav Forsling",
         "team": "Florida Panthers",
         "nationality": "Sweden",
@@ -2014,7 +2014,7 @@
     {
         "id": 182,
         "last_name": "Danault",
-        "img": "/hockey/img/players/Danault.jpg",
+        "img": "/Hockey/img/players/Danault.jpg",
         "full_name": "Phillip Danault",
         "team": "Los Angeles Kings",
         "nationality": "Canada",
@@ -2024,7 +2024,7 @@
     {
         "id": 183,
         "last_name": "Dubois",
-        "img": "/hockey/img/players/Dubois.jpg",
+        "img": "/Hockey/img/players/Dubois.jpg",
         "full_name": "Pierre-Luc Dubois",
         "team": "Los Angeles Kings",
         "nationality": "Canada",
@@ -2034,7 +2034,7 @@
     {
         "id": 184,
         "last_name": "Boldy",
-        "img": "/hockey/img/players/Boldy.jpg",
+        "img": "/Hockey/img/players/Boldy.jpg",
         "full_name": "Matt Boldy",
         "team": "Minnesota Wild",
         "nationality": "USA",
@@ -2044,7 +2044,7 @@
     {
         "id": 185,
         "last_name": "Savard",
-        "img": "/hockey/img/players/Da Savard.jpg",
+        "img": "/Hockey/img/players/Da Savard.jpg",
         "full_name": "David Savard",
         "team": "Montreal Canadiens",
         "nationality": "Canada",
@@ -2054,7 +2054,7 @@
     {
         "id": 186,
         "last_name": "Marino",
-        "img": "/hockey/img/players/Marino.jpg",
+        "img": "/Hockey/img/players/Marino.jpg",
         "full_name": "John Marino",
         "team": "New Jersey Devils",
         "nationality": "USA",
@@ -2064,7 +2064,7 @@
     {
         "id": 187,
         "last_name": "Dobson",
-        "img": "/hockey/img/players/Dobson.jpg",
+        "img": "/Hockey/img/players/Dobson.jpg",
         "full_name": "Noah Dobson",
         "team": "New York Islanders",
         "nationality": "Canada",
@@ -2074,7 +2074,7 @@
     {
         "id": 188,
         "last_name": "Norris",
-        "img": "/hockey/img/players/Norris.jpg",
+        "img": "/Hockey/img/players/Norris.jpg",
         "full_name": "Josh Norris",
         "team": "Ottawa Senators",
         "nationality": "USA",
@@ -2084,7 +2084,7 @@
     {
         "id": 189,
         "last_name": "R Graves",
-        "img": "/hockey/img/players/R Graves.jpg",
+        "img": "/Hockey/img/players/R Graves.jpg",
         "full_name": "Ryan Graves",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -2094,7 +2094,7 @@
     {
         "id": 190,
         "last_name": "Burakovsky",
-        "img": "/hockey/img/players/Burakovsky.jpg",
+        "img": "/Hockey/img/players/Burakovsky.jpg",
         "full_name": "Andre Burakovsky",
         "team": "Seattle Kraken",
         "nationality": "Sweden",
@@ -2104,7 +2104,7 @@
     {
         "id": 191,
         "last_name": "Dumoulin",
-        "img": "/hockey/img/players/Dumoulin.jpg",
+        "img": "/Hockey/img/players/Dumoulin.jpg",
         "full_name": "Brian Dumoulin",
         "team": "Seattle Kraken",
         "nationality": "USA",
@@ -2114,7 +2114,7 @@
     {
         "id": 192,
         "last_name": "Bjorkstrand",
-        "img": "/hockey/img/players/Bjorkstrand.jpg",
+        "img": "/Hockey/img/players/Bjorkstrand.jpg",
         "full_name": "Oliver Bjorkstrand",
         "team": "Seattle Kraken",
         "nationality": "Denmark",
@@ -2124,7 +2124,7 @@
     {
         "id": 193,
         "last_name": "Hagel",
-        "img": "/hockey/img/players/Hagel.jpg",
+        "img": "/Hockey/img/players/Hagel.jpg",
         "full_name": "Brandon Hagel",
         "team": "Tampa Bay Lightning",
         "nationality": "Canada",
@@ -2134,7 +2134,7 @@
     {
         "id": 194,
         "last_name": "Samsonov",
-        "img": "/hockey/img/players/Samsonov.jpg",
+        "img": "/Hockey/img/players/Samsonov.jpg",
         "full_name": "Ilya Samsonov",
         "team": "Toronto Maple Leafs",
         "nationality": "Russia",
@@ -2144,7 +2144,7 @@
     {
         "id": 195,
         "last_name": "Boeser",
-        "img": "/hockey/img/players/Boeser.jpg",
+        "img": "/Hockey/img/players/Boeser.jpg",
         "full_name": "Brock Boeser",
         "team": "Vancouver Canucks",
         "nationality": "USA",
@@ -2154,7 +2154,7 @@
     {
         "id": 196,
         "last_name": "Hill",
-        "img": "/hockey/img/players/Hill.jpg",
+        "img": "/Hockey/img/players/Hill.jpg",
         "full_name": "Adin Hill",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -2164,7 +2164,7 @@
     {
         "id": 197,
         "last_name": "Stephenson",
-        "img": "/hockey/img/players/Stephenson.jpg",
+        "img": "/Hockey/img/players/Stephenson.jpg",
         "full_name": "Chandler Stephenson",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -2174,7 +2174,7 @@
     {
         "id": 198,
         "last_name": "L Thompson",
-        "img": "/hockey/img/players/L Thompson.jpg",
+        "img": "/Hockey/img/players/L Thompson.jpg",
         "full_name": "Logan Thompson",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -2184,7 +2184,7 @@
     {
         "id": 199,
         "last_name": "Kuemper",
-        "img": "/hockey/img/players/Kuemper.jpg",
+        "img": "/Hockey/img/players/Kuemper.jpg",
         "full_name": "Darcy Kuemper",
         "team": "Washington Capitals",
         "nationality": "Canada",
@@ -2194,7 +2194,7 @@
     {
     "id": 208,
     "last_name": "Reimer",
-    "img": "/hockey/img/players/Reimer.jpg",
+    "img": "/Hockey/img/players/Reimer.jpg",
     "full_name": "James Reimer",
     "team": "Detroit Red Wings",
     "nationality": "Canada",
@@ -2204,7 +2204,7 @@
   {
     "id": 209,
     "last_name": "Bernier",
-    "img": "/hockey/img/players/Bernier.jpg",
+    "img": "/Hockey/img/players/Bernier.jpg",
     "full_name": "Jonathan Bernier",
     "team": "Retired",
     "nationality": "Canada",
@@ -2214,7 +2214,7 @@
   {
     "id": 211,
     "last_name": "Lehtonen",
-    "img": "/hockey/img/players/Lehtonen.jpg",
+    "img": "/Hockey/img/players/Lehtonen.jpg",
     "full_name": "Kari Lehtonen",
     "team": "Retired",
     "nationality": "Finland",
@@ -2224,7 +2224,7 @@
    {
     "id": 216,
     "last_name": "Bryzgalov",
-    "img": "/hockey/img/players/Bryzgalov.jpg",
+    "img": "/Hockey/img/players/Bryzgalov.jpg",
     "full_name": "Ilya Bryzgalov",
     "team": "Retired",
     "nationality": "Russia",
@@ -2234,7 +2234,7 @@
   {
     "id": 223,
     "last_name": "Raanta",
-    "img": "/hockey/img/players/Raanta.jpg",
+    "img": "/Hockey/img/players/Raanta.jpg",
     "full_name": "Antti Raanta",
     "team": "Carolina Hurricanes",
     "nationality": "Finland",
@@ -2244,7 +2244,7 @@
   {
     "id": 227,
     "last_name": "Richter",
-    "img": "/hockey/img/players/Richter.jpg",
+    "img": "/Hockey/img/players/Richter.jpg",
     "full_name": "Mike Richter",
     "team": "Retired",
     "nationality": "USA",
@@ -2254,7 +2254,7 @@
   {
     "id": 228,
     "last_name": "Goligoski",
-    "img": "/hockey/img/players/Goligoski.jpg",
+    "img": "/Hockey/img/players/Goligoski.jpg",
     "full_name": "Alex Goligoski",
     "team": "Retired",
     "nationality": "USA",
@@ -2264,7 +2264,7 @@
   {
   "id": 229,
   "last_name": "Newhook",
-  "img": "/hockey/img/players/Newhook.jpg",
+  "img": "/Hockey/img/players/Newhook.jpg",
   "full_name": "Alex Newhook",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2274,7 +2274,7 @@
 {
   "id": 230,
   "last_name": "Barron",
-  "img": "/hockey/img/players/Barron.jpg",
+  "img": "/Hockey/img/players/Barron.jpg",
   "full_name": "Justin Barron",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2284,7 +2284,7 @@
 {
   "id": 231,
   "last_name": "J Anderson",
-  "img": "/hockey/img/players/J Anderson.jpg",
+  "img": "/Hockey/img/players/J Anderson.jpg",
   "full_name": "Josh Anderson",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2294,7 +2294,7 @@
 {
   "id": 232,
   "last_name": "Evans",
-  "img": "/hockey/img/players/Evans.jpg",
+  "img": "/Hockey/img/players/Evans.jpg",
   "full_name": "Jake Evans",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2304,7 +2304,7 @@
 {
   "id": 233,
   "last_name": "Pearson",
-  "img": "/hockey/img/players/Pearson.jpg",
+  "img": "/Hockey/img/players/Pearson.jpg",
   "full_name": "Tanner Pearson",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2314,7 +2314,7 @@
 {
   "id": 235,
   "last_name": "Dvorak",
-  "img": "/hockey/img/players/Dvorak.jpg",
+  "img": "/Hockey/img/players/Dvorak.jpg",
   "full_name": "Christian Dvorak",
   "team": "Montreal Canadiens",
   "nationality": "USA",
@@ -2324,7 +2324,7 @@
 {
   "id": 236,
   "last_name": "Ylonen",
-  "img": "/hockey/img/players/Ylonen.jpg",
+  "img": "/Hockey/img/players/Ylonen.jpg",
   "full_name": "Jesse Ylonen",
   "team": "Montreal Canadiens",
   "nationality": "Finland",
@@ -2334,7 +2334,7 @@
 {
   "id": 237,
   "last_name": "Kovacevic",
-  "img": "/hockey/img/players/Kovacevic.jpg",
+  "img": "/Hockey/img/players/Kovacevic.jpg",
   "full_name": "Johnathan Kovacevic",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2344,7 +2344,7 @@
 {
   "id": 238,
   "last_name": "Pezzetta",
-  "img": "/hockey/img/players/Pezzetta.jpg",
+  "img": "/Hockey/img/players/Pezzetta.jpg",
   "full_name": "Michael Pezzetta",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2354,7 +2354,7 @@
 {
   "id": 239,
   "last_name": "Armia",
-  "img": "/hockey/img/players/Armia.jpg",
+  "img": "/Hockey/img/players/Armia.jpg",
   "full_name": "Joel Armia",
   "team": "Montreal Canadiens",
   "nationality": "Finland",
@@ -2364,7 +2364,7 @@
 {
   "id": 240,
   "last_name": "G Lindstrom",
-  "img": "/hockey/img/players/G Lindstrom.jpg",
+  "img": "/Hockey/img/players/G Lindstrom.jpg",
   "full_name": "Gustav Lindstrom",
   "team": "Montreal Canadiens",
   "nationality": "Sweden",
@@ -2374,7 +2374,7 @@
 {
   "id": 241,
   "last_name": "Struble",
-  "img": "/hockey/img/players/Struble.jpg",
+  "img": "/Hockey/img/players/Struble.jpg",
   "full_name": "Jayden Struble",
   "team": "Montreal Canadiens",
   "nationality": "USA",
@@ -2384,7 +2384,7 @@
 {
   "id": 242,
   "last_name": "Harvey-Pinard",
-  "img": "/hockey/img/players/Harvey-Pinard.jpg",
+  "img": "/Hockey/img/players/Harvey-Pinard.jpg",
   "full_name": "Rafael Harvey-Pinard",
   "team": "Montreal Canadiens",
   "nationality": "CanadiCanadaan",
@@ -2394,7 +2394,7 @@
 {
   "id": 243,
   "last_name": "Harris",
-  "img": "/hockey/img/players/Harris.jpg",
+  "img": "/Hockey/img/players/Harris.jpg",
   "full_name": "Jordan Harris",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2404,7 +2404,7 @@
 {
   "id": 244,
   "last_name": "Stephens",
-  "img": "/hockey/img/players/Stephens.jpg",
+  "img": "/Hockey/img/players/Stephens.jpg",
   "full_name": "Mitchell Stephens",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2414,7 +2414,7 @@
 {
   "id": 245,
   "last_name": "Montembeault",
-  "img": "/hockey/img/players/Montembeault.jpg",
+  "img": "/Hockey/img/players/Montembeault.jpg",
   "full_name": "Sam Montembeault",
   "team": "Montreal Canadiens",
   "nationality": "Canada",
@@ -2424,7 +2424,7 @@
 {
   "id": 246,
   "last_name": "C Primeau",
-  "img": "/hockey/img/players/C Primeau.jpg",
+  "img": "/Hockey/img/players/C Primeau.jpg",
   "full_name": "Cayden Primeau",
   "team": "Montreal Canadiens",
   "nationality": "USA",
@@ -2434,7 +2434,7 @@
 {
     "id": 247,
     "last_name": "Numminen",
-    "img": "/hockey/img/players/numminen.jpg",
+    "img": "/Hockey/img/players/numminen.jpg",
     "full_name": "Teppo Numminen",
     "team": "Retired",
     "nationality": "Finland",
@@ -2444,7 +2444,7 @@
 {
     "id": 248,
     "last_name": "Neely",
-    "img": "/hockey/img/players/neely.jpg",
+    "img": "/Hockey/img/players/neely.jpg",
     "full_name": "Cam Neely",
     "team": "Retired",
     "nationality": "Canada",
@@ -2454,7 +2454,7 @@
 {
     "id": 253,
     "last_name": "Martin",
-    "img": "/hockey/img/players/r martin.jpg",
+    "img": "/Hockey/img/players/r martin.jpg",
     "full_name": "Rick Martin",
     "team": "Retired",
     "nationality": "Canada",
@@ -2464,7 +2464,7 @@
 {
     "id": 259,
     "last_name": "Williams",
-    "img": "/hockey/img/players/J williams.jpg",
+    "img": "/Hockey/img/players/J williams.jpg",
     "full_name": "Justin Williams",
     "team": "Retired",
     "nationality": "Canada",
@@ -2474,7 +2474,7 @@
 {
     "id": 261,
     "last_name": "Hejduk",
-    "img": "/hockey/img/players/hejduk.jpg",
+    "img": "/Hockey/img/players/hejduk.jpg",
     "full_name": "Milan Hejduk",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -2484,7 +2484,7 @@
 {
     "id": 263,
     "last_name": "Jenner",
-    "img": "/hockey/img/players/jenner.jpg",
+    "img": "/Hockey/img/players/jenner.jpg",
     "full_name": "Boone Jenner",
     "team": "Retired",
     "nationality": "Canada",
@@ -2494,7 +2494,7 @@
 {
     "id": 266,
     "last_name": "Lindsay",
-    "img": "/hockey/img/players/lindsay.jpg",
+    "img": "/Hockey/img/players/lindsay.jpg",
     "full_name": "Ted Lindsay",
     "team": "Retired",
     "nationality": "Canada",
@@ -2504,7 +2504,7 @@
 {
     "id": 270,
     "last_name": "Vanbiesbrouck",
-    "img": "/hockey/img/players/vanbiesbrouck.jpg",
+    "img": "/Hockey/img/players/vanbiesbrouck.jpg",
     "full_name": "John Vanbiesbrouck",
     "team": "Retired",
     "nationality": "USA",
@@ -2514,7 +2514,7 @@
 {
     "id": 271,
     "last_name": "Jokinen",
-    "img": "/hockey/img/players/jokinen.jpg",
+    "img": "/Hockey/img/players/jokinen.jpg",
     "full_name": "Olli Jokinen",
     "team": "Retired",
     "nationality": "Finland",
@@ -2524,7 +2524,7 @@
 {
     "id": 272,
     "last_name": "Mellanby",
-    "img": "/hockey/img/players/mellanby.jpg",
+    "img": "/Hockey/img/players/mellanby.jpg",
     "full_name": "Scott Mellanby",
     "team": "Retired",
     "nationality": "Canada",
@@ -2534,7 +2534,7 @@
 {
     "id": 275,
     "last_name": "Legwand",
-    "img": "/hockey/img/players/legwand.jpg",
+    "img": "/Hockey/img/players/legwand.jpg",
     "full_name": "David Legwand",
     "team": "Retired",
     "nationality": "USA",
@@ -2544,7 +2544,7 @@
 {
     "id": 276,
     "last_name": "Daneyko",
-    "img": "/hockey/img/players/daneyko.jpg",
+    "img": "/Hockey/img/players/daneyko.jpg",
     "full_name": "Ken Daneyko",
     "team": "Retired",
     "nationality": "Canada",
@@ -2554,7 +2554,7 @@
 {
     "id": 279,
     "last_name": "Smith",
-    "img": "/hockey/img/players/smith.jpg",
+    "img": "/Hockey/img/players/smith.jpg",
     "full_name": "Billy Smith",
     "team": "Retired",
     "nationality": "Canada",
@@ -2564,7 +2564,7 @@
 {
     "id": 280,
     "last_name": "Gillies",
-    "img": "/hockey/img/players/gillies.jpg",
+    "img": "/Hockey/img/players/gillies.jpg",
     "full_name": "Clark Gillies",
     "team": "Retired",
     "nationality": "Canada",
@@ -2574,7 +2574,7 @@
 {
     "id": 281,
     "last_name": "Gilbert",
-    "img": "/hockey/img/players/gilbert.jpg",
+    "img": "/Hockey/img/players/gilbert.jpg",
     "full_name": "Rod Gilbert",
     "team": "Retired",
     "nationality": "Canada",
@@ -2584,7 +2584,7 @@
 {
     "id": 284,
     "last_name": "Howe",
-    "img": "/hockey/img/players/m howe.jpg",
+    "img": "/Hockey/img/players/m howe.jpg",
     "full_name": "Mark Howe",
     "team": "Retired",
     "nationality": "Canada",
@@ -2594,7 +2594,7 @@
 {
     "id": 285,
     "last_name": "Barber",
-    "img": "/hockey/img/players/barber.jpg",
+    "img": "/Hockey/img/players/barber.jpg",
     "full_name": "Bill Barber",
     "team": "Retired",
     "nationality": "Canada",
@@ -2604,7 +2604,7 @@
 {
     "id": 287,
     "last_name": "Nolan",
-    "img": "/hockey/img/players/nolan.jpg",
+    "img": "/Hockey/img/players/nolan.jpg",
     "full_name": "Owen Nolan",
     "team": "Retired",
     "nationality": "Canada",
@@ -2614,7 +2614,7 @@
 {
     "id": 289,
     "last_name": "Sutter",
-    "img": "/hockey/img/players/sutter.jpg",
+    "img": "/Hockey/img/players/sutter.jpg",
     "full_name": "Brian Sutter",
     "team": "Retired",
     "nationality": "Canada",
@@ -2624,7 +2624,7 @@
 {
     "id": 295,
     "last_name": "Gartner",
-    "img": "/hockey/img/players/gartner.jpg",
+    "img": "/Hockey/img/players/gartner.jpg",
     "full_name": "Mike Gartner",
     "team": "Retired",
     "nationality": "Canada",
@@ -2634,7 +2634,7 @@
 {
     "id": 296,
     "last_name": "Langway",
-    "img": "/hockey/img/players/langway.jpg",
+    "img": "/Hockey/img/players/langway.jpg",
     "full_name": "Rod Langway",
     "team": "Retired",
     "nationality": "USA",
@@ -2644,7 +2644,7 @@
 {
     "id": 298,
     "last_name": "Zubov",
-    "img": "/hockey/img/players/zubov.jpg",
+    "img": "/Hockey/img/players/zubov.jpg",
     "full_name": "Sergei Zubov",
     "team": "Retired",
     "nationality": "Russia",
@@ -2654,7 +2654,7 @@
 {
     "id": 300,
     "last_name": "Rafalski",
-    "img": "/hockey/img/players/rafalski.jpg",
+    "img": "/Hockey/img/players/rafalski.jpg",
     "full_name": "Brian Rafalski",
     "team": "Retired",
     "nationality": "USA",
@@ -2664,7 +2664,7 @@
 {
     "id": 301,
     "last_name": "Palffy",
-    "img": "/hockey/img/players/palffy.jpg",
+    "img": "/Hockey/img/players/palffy.jpg",
     "full_name": "Zigmund Palffy",
     "team": "Retired",
     "nationality": "Slovakia",
@@ -2674,7 +2674,7 @@
 {
     "id": 302,
     "last_name": "Berard",
-    "img": "/hockey/img/players/berard.jpg",
+    "img": "/Hockey/img/players/berard.jpg",
     "full_name": "Bryan Berard",
     "team": "Retired",
     "nationality": "USA",
@@ -2684,7 +2684,7 @@
 {
     "id": 303,
     "last_name": "LeClair",
-    "img": "/hockey/img/players/leclair.jpg",
+    "img": "/Hockey/img/players/leclair.jpg",
     "full_name": "John LeClair",
     "team": "Retired",
     "nationality": "USA",
@@ -2694,7 +2694,7 @@
 {
     "id": 304,
     "last_name": "Clark",
-    "img": "/hockey/img/players/clark.jpg",
+    "img": "/Hockey/img/players/clark.jpg",
     "full_name": "Wendel Clark",
     "team": "Retired",
     "nationality": "Canada",
@@ -2704,7 +2704,7 @@
 {
     "id": 306,
     "last_name": "Kovalchuk",
-    "img": "/hockey/img/players/kovalchuk.jpg",
+    "img": "/Hockey/img/players/kovalchuk.jpg",
     "full_name": "Ilya Kovalchuk",
     "team": "Spartak Moscow (Russia)",
     "nationality": "Russia",
@@ -2714,7 +2714,7 @@
 {
     "id": 306,
     "last_name": "L Hughes",
-    "img": "/hockey/img/players/l hughes.jpg",
+    "img": "/Hockey/img/players/l hughes.jpg",
     "full_name": "Luke Hughes",
     "team": "New Jersey Devils",
     "nationality": "USA",
@@ -2724,7 +2724,7 @@
 {
     "id": 307,
     "last_name": "Coyle",
-    "img": "/hockey/img/players/coyle.jpg",
+    "img": "/Hockey/img/players/coyle.jpg",
     "full_name": "Charlie Coyle",
     "team": "Boston Bruins",
     "nationality": "USA",
@@ -2734,7 +2734,7 @@
 {
     "id": 308,
     "last_name": "Kotkaniemi",
-    "img": "/hockey/img/players/kotkaniemi.jpg",
+    "img": "/Hockey/img/players/kotkaniemi.jpg",
     "full_name": "Jesperi Kotkaniemi",
     "team": "Carolina Hurricanes",
     "nationality": "Finland",
@@ -2744,7 +2744,7 @@
 {
     "id": 309,
     "last_name": "Jarvis",
-    "img": "/hockey/img/players/jarvis.jpg",
+    "img": "/Hockey/img/players/jarvis.jpg",
     "full_name": "Seth Jarvis",
     "team": "Carolina Hurricanes",
     "nationality": "Canada",
@@ -2754,7 +2754,7 @@
 {
     "id": 312,
     "last_name": "Lehkonen",
-    "img": "/hockey/img/players/lehkonen.jpg",
+    "img": "/Hockey/img/players/lehkonen.jpg",
     "full_name": "Artturi Lehkonen",
     "team": "Colorado Avalanche",
     "nationality": "Finland",
@@ -2764,7 +2764,7 @@
 {
     "id": 313,
     "last_name": "Girard",
-    "img": "/hockey/img/players/girard.jpg",
+    "img": "/Hockey/img/players/girard.jpg",
     "full_name": "Samuel Girard",
     "team": "Colorado Avalanche",
     "nationality": "Canada",
@@ -2774,7 +2774,7 @@
 {
     "id": 314,
     "last_name": "Drouin",
-    "img": "/hockey/img/players/drouin.jpg",
+    "img": "/Hockey/img/players/drouin.jpg",
     "full_name": "Jonathan Drouin",
     "team": "Colorado Avalanche",
     "nationality": "Canada",
@@ -2784,7 +2784,7 @@
 {
     "id": 315,
     "last_name": "Fantilli",
-    "img": "/hockey/img/players/fantilli.jpg",
+    "img": "/Hockey/img/players/fantilli.jpg",
     "full_name": "Adam Fantilli",
     "team": "Columbus Blue Jackets",
     "nationality": "Canada",
@@ -2794,7 +2794,7 @@
 {
     "id": 316,
     "last_name": "Dadonov",
-    "img": "/hockey/img/players/dadonov.jpg",
+    "img": "/Hockey/img/players/dadonov.jpg",
     "full_name": "Evgenii Dadonov",
     "team": "Dallas Stars",
     "nationality": "Russia",
@@ -2804,7 +2804,7 @@
 {
     "id": 317,
     "last_name": "Copp",
-    "img": "/hockey/img/players/copp.jpg",
+    "img": "/Hockey/img/players/copp.jpg",
     "full_name": "Andrew Copp",
     "team": "Detroit Red Wings",
     "nationality": "USA",
@@ -2814,7 +2814,7 @@
 {
     "id": 319,
     "last_name": "Rasmussen",
-    "img": "/hockey/img/players/rasmussen.jpg",
+    "img": "/Hockey/img/players/rasmussen.jpg",
     "full_name": "Michael Rasmussen",
     "team": "Detroit Red Wings",
     "nationality": "Canada",
@@ -2824,7 +2824,7 @@
 {
     "id": 320,
     "last_name": "Maatta",
-    "img": "/hockey/img/players/maatta.jpg",
+    "img": "/Hockey/img/players/maatta.jpg",
     "full_name": "Olli Maatta",
     "team": "Detroit Red Wings",
     "nationality": "Finland",
@@ -2834,7 +2834,7 @@
 {
     "id": 321,
     "last_name": "Chiarot",
-    "img": "/hockey/img/players/chiarot.jpg",
+    "img": "/Hockey/img/players/chiarot.jpg",
     "full_name": "Ben Chiarot",
     "team": "Detroit Red Wings",
     "nationality": "Canada",
@@ -2844,7 +2844,7 @@
 {
     "id": 322,
     "last_name": "Ceci",
-    "img": "/hockey/img/players/ceci.jpg",
+    "img": "/Hockey/img/players/ceci.jpg",
     "full_name": "Cody Ceci",
     "team": "Edmonton Oilers",
     "nationality": "Canada",
@@ -2854,7 +2854,7 @@
 {
     "id": 324,
     "last_name": "Bennett",
-    "img": "/hockey/img/players/bennett.jpg",
+    "img": "/Hockey/img/players/bennett.jpg",
     "full_name": "Sam Bennett",
     "team": "Florida Panthers",
     "nationality": "Canada",
@@ -2864,7 +2864,7 @@
 {
     "id": 325,
     "last_name": "Cousins",
-    "img": "/hockey/img/players/cousins.jpg",
+    "img": "/Hockey/img/players/cousins.jpg",
     "full_name": "Nick Cousins",
     "team": "Florida Panthers",
     "nationality": "Canada",
@@ -2874,7 +2874,7 @@
 {
     "id": 326,
     "last_name": "Foligno",
-    "img": "/hockey/img/players/m foligno.jpg",
+    "img": "/Hockey/img/players/m foligno.jpg",
     "full_name": "Marcus Foligno",
     "team": "Minnesota Wild",
     "nationality": "USA",
@@ -2884,7 +2884,7 @@
 {
     "id": 328,
     "last_name": "Maroon",
-    "img": "/hockey/img/players/maroon.jpg",
+    "img": "/Hockey/img/players/maroon.jpg",
     "full_name": "Pat Maroon",
     "team": "Minnesota Wild",
     "nationality": "USA",
@@ -2894,7 +2894,7 @@
 {
     "id": 330,
     "last_name": "Wideman",
-    "img": "/hockey/img/players/wideman.jpg",
+    "img": "/Hockey/img/players/wideman.jpg",
     "full_name": "Chris Wideman",
     "team": "Montreal Canadiens",
     "nationality": "USA",
@@ -2904,7 +2904,7 @@
 {
     "id": 331,
     "last_name": "Palat",
-    "img": "/hockey/img/players/palat.jpg",
+    "img": "/Hockey/img/players/palat.jpg",
     "full_name": "Ondrej Palat",
     "team": "New Jersey Devils",
     "nationality": "Czech Republic",
@@ -2914,7 +2914,7 @@
 {
     "id": 332,
     "last_name": "Lazar",
-    "img": "/hockey/img/players/lazar.jpg",
+    "img": "/Hockey/img/players/lazar.jpg",
     "full_name": "Curtis Lazar",
     "team": "New Jersey Devils",
     "nationality": "Canada",
@@ -2924,7 +2924,7 @@
 {
     "id": 333,
     "last_name": "Pageau",
-    "img": "/hockey/img/players/j-b pageau.jpg",
+    "img": "/Hockey/img/players/j-b pageau.jpg",
     "full_name": "Jean-Gabriel Pageau",
     "team": "New York Islanders",
     "nationality": "Canada",
@@ -2934,7 +2934,7 @@
 {
     "id": 334,
     "last_name": "Romanov",
-    "img": "/hockey/img/players/romanov.jpg",
+    "img": "/Hockey/img/players/romanov.jpg",
     "full_name": "Alexander Romanov",
     "team": "New York Islanders",
     "nationality": "Russia",
@@ -2944,7 +2944,7 @@
 {
     "id": 335,
     "last_name": "Palmieri",
-    "img": "/hockey/img/players/palmieri.jpg",
+    "img": "/Hockey/img/players/palmieri.jpg",
     "full_name": "Kyle Palmieri",
     "team": "New York Islanders",
     "nationality": "USA",
@@ -2954,7 +2954,7 @@
 {
     "id": 336,
     "last_name": "Lafreniere",
-    "img": "/hockey/img/players/lafreniere.jpg",
+    "img": "/Hockey/img/players/lafreniere.jpg",
     "full_name": "Alexis Lafreniere",
     "team": "New York Rangers",
     "nationality": "Canada",
@@ -2964,7 +2964,7 @@
 {
     "id": 337,
     "last_name": "Gustafsson",
-    "img": "/hockey/img/players/gustafsson.jpg",
+    "img": "/Hockey/img/players/gustafsson.jpg",
     "full_name": "Erik Gustafsson",
     "team": "New York Rangers",
     "nationality": "Sweden",
@@ -2974,7 +2974,7 @@
 {
     "id": 339,
     "last_name": "Sanderson",
-    "img": "/hockey/img/players/sanderson.jpg",
+    "img": "/Hockey/img/players/sanderson.jpg",
     "full_name": "Jake Sanderson",
     "team": "Ottawa Senators",
     "nationality": "USA",
@@ -2984,7 +2984,7 @@
 {
     "id": 340,
     "last_name": "M Joseph",
-    "img": "/hockey/img/players/M Joseph.jpg",
+    "img": "/Hockey/img/players/M Joseph.jpg",
     "full_name": "Mathieu Joseph",
     "team": "Ottawa Senators",
     "nationality": "Canada",
@@ -2994,7 +2994,7 @@
 {
     "id": 341,
     "last_name": "Deslauriers",
-    "img": "/hockey/img/players/deslauriers.jpg",
+    "img": "/Hockey/img/players/deslauriers.jpg",
     "full_name": "Nicolas Deslauriers",
     "team": "Phildadelphia Flyers",
     "nationality": "Canada",
@@ -3004,7 +3004,7 @@
 {
     "id": 342,
     "last_name": "Poehling",
-    "img": "/hockey/img/players/poehling.jpg",
+    "img": "/Hockey/img/players/poehling.jpg",
     "full_name": "Ryan Poehling",
     "team": "Phildadelphia Flyers",
     "nationality": "USA",
@@ -3014,7 +3014,7 @@
 {
     "id": 343,
     "last_name": "Pettersson",
-    "img": "/hockey/img/players/pettersson.jpg",
+    "img": "/Hockey/img/players/pettersson.jpg",
     "full_name": "Marcus Pettersson",
     "team": "Pittsburgh Penguins",
     "nationality": "Sweden",
@@ -3024,7 +3024,7 @@
 {
     "id": 344,
     "last_name": "Eller",
-    "img": "/hockey/img/players/eller.jpg",
+    "img": "/Hockey/img/players/eller.jpg",
     "full_name": "Lars Eller",
     "team": "Pittsburgh Penguins",
     "nationality": "Denmark",
@@ -3034,7 +3034,7 @@
 {
     "id": 345,
     "last_name": "P-O Joseph",
-    "img": "/hockey/img/players/P-O joseph.jpg",
+    "img": "/Hockey/img/players/P-O joseph.jpg",
     "full_name": "Pierre-Olivier Joseph",
     "team": "Pittsburgh Penguins",
     "nationality": "Canada",
@@ -3044,7 +3044,7 @@
 {
     "id": 348,
     "last_name": "Gourde",
-    "img": "/hockey/img/players/gourde.jpg",
+    "img": "/Hockey/img/players/gourde.jpg",
     "full_name": "Yanni Gourde",
     "team": "Seattle Kraken",
     "nationality": "Canada",
@@ -3054,7 +3054,7 @@
 {
     "id": 349,
     "last_name": "Schultz",
-    "img": "/hockey/img/players/schultz.jpg",
+    "img": "/Hockey/img/players/schultz.jpg",
     "full_name": "Justin Schultz",
     "team": "Seattle Kraken",
     "nationality": "Canada",
@@ -3064,7 +3064,7 @@
 {
     "id": 350,
     "last_name": "Yamamoto",
-    "img": "/hockey/img/players/yamamoto.jpg",
+    "img": "/Hockey/img/players/yamamoto.jpg",
     "full_name": "Kailer Yamamoto",
     "team": "Seattle Kraken",
     "nationality": "USA",
@@ -3074,7 +3074,7 @@
 {
     "id": 351,
     "last_name": "Bellemare",
-    "img": "/hockey/img/players/bellemare.jpg",
+    "img": "/Hockey/img/players/bellemare.jpg",
     "full_name": "Pierre-E Bellemare",
     "team": "Seattle Kraken",
     "nationality": "France",
@@ -3084,7 +3084,7 @@
 {
     "id": 352,
     "last_name": "Saad",
-    "img": "/hockey/img/players/saad.jpg",
+    "img": "/Hockey/img/players/saad.jpg",
     "full_name": "Brandon Saad",
     "team": "St Louis Blues",
     "nationality": "USA",
@@ -3094,7 +3094,7 @@
 {
     "id": 353,
     "last_name": "Scandella",
-    "img": "/hockey/img/players/scandella.jpg",
+    "img": "/Hockey/img/players/scandella.jpg",
     "full_name": "Marco Scandella",
     "team": "St Louis Blues",
     "nationality": "Canada",
@@ -3104,7 +3104,7 @@
 {
     "id": 354,
     "last_name": "Domi",
-    "img": "/hockey/img/players/m domi.jpg",
+    "img": "/Hockey/img/players/m domi.jpg",
     "full_name": "Max Domi",
     "team": "Toronto Maple Leafs",
     "nationality": "Canada",
@@ -3114,7 +3114,7 @@
 {
     "id": 355,
     "last_name": "Bertuzzi",
-    "img": "/hockey/img/players/t bertuzzi.jpg",
+    "img": "/Hockey/img/players/t bertuzzi.jpg",
     "full_name": "Tyler Bertuzzi",
     "team": "Toronto Maple Leafs",
     "nationality": "Canada",
@@ -3124,7 +3124,7 @@
 {
     "id": 360,
     "last_name": "Martinez",
-    "img": "/hockey/img/players/martinez.jpg",
+    "img": "/Hockey/img/players/martinez.jpg",
     "full_name": "Alec Martinez",
     "team": "Vegas Golden Knights",
     "nationality": "USA",
@@ -3134,7 +3134,7 @@
 {
     "id": 361,
     "last_name": "N Roy",
-    "img": "/hockey/img/players/n roy.jpg",
+    "img": "/Hockey/img/players/n roy.jpg",
     "full_name": "Nicolas Roy",
     "team": "Vegas Golden Knights",
     "nationality": "Canada",
@@ -3144,7 +3144,7 @@
 {
     "id": 362,
     "last_name": "Carrier",
-    "img": "/hockey/img/players/carrier.jpg",
+    "img": "/Hockey/img/players/carrier.jpg",
     "full_name": "William Carrier",
     "team": "Vegas Golden Knights",
     "nationality": "Canada",
@@ -3154,7 +3154,7 @@
 {
     "id": 363,
     "last_name": "Kolesar",
-    "img": "/hockey/img/players/kolesar.jpg",
+    "img": "/Hockey/img/players/kolesar.jpg",
     "full_name": "Keegan Kolesar",
     "team": "Vegas Golden Knights",
     "nationality": "Canada",
@@ -3164,7 +3164,7 @@
 {
     "id": 364,
     "last_name": "Strome",
-    "img": "/hockey/img/players/d strome.jpg",
+    "img": "/Hockey/img/players/d strome.jpg",
     "full_name": "Dylan Strome",
     "team": "Washington Capitals",
     "nationality": "Canada",
@@ -3174,7 +3174,7 @@
 {
     "id": 366,
     "last_name": "Sandin",
-    "img": "/hockey/img/players/sandin.jpg",
+    "img": "/Hockey/img/players/sandin.jpg",
     "full_name": "Rasmus Sandin",
     "team": "Washington Capitals",
     "nationality": "Sweden",
@@ -3184,7 +3184,7 @@
 {
     "id": 367,
     "last_name": "Edmundson",
-    "img": "/hockey/img/players/edmundson.jpg",
+    "img": "/Hockey/img/players/edmundson.jpg",
     "full_name": "Joel Edmundson",
     "team": "Washington Capitals",
     "nationality": "Canada",
@@ -3194,7 +3194,7 @@
 {
     "id": 368,
     "last_name": "Mantha",
-    "img": "/hockey/img/players/mantha.jpg",
+    "img": "/Hockey/img/players/mantha.jpg",
     "full_name": "Anthony Mantha",
     "team": "Washington Capitals",
     "nationality": "Canada",
@@ -3204,7 +3204,7 @@
 {
     "id": 369,
     "last_name": "Lindgren",
-    "img": "/hockey/img/players/lindgren.jpg",
+    "img": "/Hockey/img/players/lindgren.jpg",
     "full_name": "Charlie Lindgren",
     "team": "Washington Capitals",
     "nationality": "USA",
@@ -3214,7 +3214,7 @@
 {
     "id": 370,
     "last_name": "Van Riemsdyk",
-    "img": "/hockey/img/players/t van riemsdyk.jpg",
+    "img": "/Hockey/img/players/t van riemsdyk.jpg",
     "full_name": "Trevor van Riemsdyk",
     "team": "Washington Capitals",
     "nationality": "USA",
@@ -3224,7 +3224,7 @@
 {
     "id": 371,
     "last_name": "Dowd",
-    "img": "/hockey/img/players/n dowd.jpg",
+    "img": "/Hockey/img/players/n dowd.jpg",
     "full_name": "Nic Dowd",
     "team": "Washington Capitals",
     "nationality": "USA",
@@ -3234,7 +3234,7 @@
 {
     "id": 372,
     "last_name": "Oshie",
-    "img": "/hockey/img/players/tj oshie.jpg",
+    "img": "/Hockey/img/players/tj oshie.jpg",
     "full_name": "TJ Oshie",
     "team": "Washington Capitals",
     "nationality": "USA",
@@ -3244,7 +3244,7 @@
 {
     "id": 375,
     "last_name": "Domi",
-    "img": "/hockey/img/players/domi.jpg",
+    "img": "/Hockey/img/players/domi.jpg",
     "full_name": "Tie Domi",
     "team": "Retired",
     "nationality": "Canada",
@@ -3254,7 +3254,7 @@
 {
     "id": 376,
     "last_name": "G Murray",
-    "img": "/hockey/img/players/G Murray.jpg",
+    "img": "/Hockey/img/players/G Murray.jpg",
     "full_name": "Glen Murray",
     "team": "Retired",
     "nationality": "Canada",
@@ -3264,7 +3264,7 @@
 {
     "id": 377,
     "last_name": "Lucic",
-    "img": "/hockey/img/players/Lucic.jpg",
+    "img": "/Hockey/img/players/Lucic.jpg",
     "full_name": "Milan Lucic",
     "team": "Boston Bruins",
     "nationality": "Canada",
@@ -3274,7 +3274,7 @@
 {
     "id": 378,
     "last_name": "B Campbell",
-    "img": "/hockey/img/players/B Campbell.jpg",
+    "img": "/Hockey/img/players/B Campbell.jpg",
     "full_name": "Brian Campbell",
     "team": "Retired",
     "nationality": "Canada",
@@ -3284,7 +3284,7 @@
 {
     "id": 379,
     "last_name": "Hannan",
-    "img": "/hockey/img/players/Hannan.jpg",
+    "img": "/Hockey/img/players/Hannan.jpg",
     "full_name": "Dave Hannan",
     "team": "Retired",
     "nationality": "Canada",
@@ -3294,7 +3294,7 @@
 {
     "id": 380,
     "last_name": "Larionov",
-    "img": "/hockey/img/players/Larionov.jpg",
+    "img": "/Hockey/img/players/Larionov.jpg",
     "full_name": "Igor Larionov",
     "team": "Retired",
     "nationality": "Russia",
@@ -3304,7 +3304,7 @@
 {
     "id": 381,
     "last_name": "McCarty",
-    "img": "/hockey/img/players/McCarty.jpg",
+    "img": "/Hockey/img/players/McCarty.jpg",
     "full_name": "Darren McCarty",
     "team": "Retired",
     "nationality": "Canada",
@@ -3314,7 +3314,7 @@
 {
     "id": 382,
     "last_name": "Draper",
-    "img": "/hockey/img/players/Draper.jpg",
+    "img": "/Hockey/img/players/Draper.jpg",
     "full_name": "Kris Draper",
     "team": "Retired",
     "nationality": "Canada",
@@ -3324,7 +3324,7 @@
 {
     "id": 383,
     "last_name": "Holmstrom",
-    "img": "/hockey/img/players/T Holmstrom.jpg",
+    "img": "/Hockey/img/players/T Holmstrom.jpg",
     "full_name": "Tomas Holmstrom",
     "team": "Retired",
     "nationality": "Sweden",
@@ -3334,7 +3334,7 @@
 {
     "id": 385,
     "last_name": "Weiss",
-    "img": "/hockey/img/players/Weiss.jpg",
+    "img": "/Hockey/img/players/Weiss.jpg",
     "full_name": "Stephen Weiss",
     "team": "Retired",
     "nationality": "Canada",
@@ -3344,7 +3344,7 @@
 {
     "id": 386,
     "last_name": "R Dvorak",
-    "img": "/hockey/img/players/R Dvorak.jpg",
+    "img": "/Hockey/img/players/R Dvorak.jpg",
     "full_name": "Radek Dvorak",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3354,7 +3354,7 @@
 {
     "id": 388,
     "last_name": "N Horton",
-    "img": "/hockey/img/players/N Horton.jpg",
+    "img": "/Hockey/img/players/N Horton.jpg",
     "full_name": "Nathan Horton",
     "team": "Retired",
     "nationality": "Canada",
@@ -3364,7 +3364,7 @@
 {
     "id": 389,
     "last_name": "Upshall",
-    "img": "/hockey/img/players/Upshall.jpg",
+    "img": "/Hockey/img/players/Upshall.jpg",
     "full_name": "Scottie Upshall",
     "team": "Retired",
     "nationality": "Canada",
@@ -3374,7 +3374,7 @@
 {
     "id": 392,
     "last_name": "Souray",
-    "img": "/hockey/img/players/Souray.jpg",
+    "img": "/Hockey/img/players/Souray.jpg",
     "full_name": "Sheldon Souray",
     "team": "Retired",
     "nationality": "Canada",
@@ -3384,7 +3384,7 @@
 {
     "id": 393,
     "last_name": "Keane",
-    "img": "/hockey/img/players/Keane.jpg",
+    "img": "/Hockey/img/players/Keane.jpg",
     "full_name": "Mike Keane",
     "team": "Retired",
     "nationality": "Canada",
@@ -3394,7 +3394,7 @@
 {
     "id": 394,
     "last_name": "Gionta",
-    "img": "/hockey/img/players/Gionta.jpg",
+    "img": "/Hockey/img/players/Gionta.jpg",
     "full_name": "Brian Gionta",
     "team": "Retired",
     "nationality": "USA",
@@ -3404,7 +3404,7 @@
 {
     "id": 395,
     "last_name": "Fisher",
-    "img": "/hockey/img/players/Fisher.jpg",
+    "img": "/Hockey/img/players/Fisher.jpg",
     "full_name": "Mike Fisher",
     "team": "Retired",
     "nationality": "Canada",
@@ -3414,7 +3414,7 @@
 {
     "id": 396,
     "last_name": "Phillips",
-    "img": "/hockey/img/players/Phillips.jpg",
+    "img": "/Hockey/img/players/Phillips.jpg",
     "full_name": "Chris Phillips",
     "team": "Retired",
     "nationality": "Canada",
@@ -3424,7 +3424,7 @@
 {
     "id": 397,
     "last_name": "Bonk",
-    "img": "/hockey/img/players/Bonk.jpg",
+    "img": "/Hockey/img/players/Bonk.jpg",
     "full_name": "Radek Bonk",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3434,7 +3434,7 @@
 {
     "id": 398,
     "last_name": "Turris",
-    "img": "/hockey/img/players/Turris.jpg",
+    "img": "/Hockey/img/players/Turris.jpg",
     "full_name": "Kyle Turris",
     "team": "Retired",
     "nationality": "Canada",
@@ -3444,7 +3444,7 @@
 {
     "id": 399,
     "last_name": "Ciccarelli",
-    "img": "/hockey/img/players/Ciccarelli.jpg",
+    "img": "/Hockey/img/players/Ciccarelli.jpg",
     "full_name": "Dino Ciccarelli",
     "team": "Retired",
     "nationality": "Canada",
@@ -3454,7 +3454,7 @@
 {
     "id": 400,
     "last_name": "Bradley",
-    "img": "/hockey/img/players/Bradley.jpg",
+    "img": "/Hockey/img/players/Bradley.jpg",
     "full_name": "Brian Bradley",
     "team": "Retired",
     "nationality": "Canada",
@@ -3464,7 +3464,7 @@
 {
     "id": 401,
     "last_name": "Kubina",
-    "img": "/hockey/img/players/Kubina.jpg",
+    "img": "/Hockey/img/players/Kubina.jpg",
     "full_name": "Pavel Kubina",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3474,7 +3474,7 @@
 {
     "id": 402,
     "last_name": "T Johnson",
-    "img": "/hockey/img/players/T Johnson.jpg",
+    "img": "/Hockey/img/players/T Johnson.jpg",
     "full_name": "Tyler Johnson",
     "team": "Chicago Balckhawks",
     "nationality": "USA",
@@ -3484,7 +3484,7 @@
 {
     "id": 403,
     "last_name": "Ysebaert",
-    "img": "/hockey/img/players/Ysebaert.jpg",
+    "img": "/Hockey/img/players/Ysebaert.jpg",
     "full_name": "Paul Ysebaert",
     "team": "Retired",
     "nationality": "Canada",
@@ -3494,7 +3494,7 @@
 {
     "id": 404,
     "last_name": "F Potvin",
-    "img": "/hockey/img/players/F Potvin.jpg",
+    "img": "/Hockey/img/players/F Potvin.jpg",
     "full_name": "Felix Potvin",
     "team": "Retired",
     "nationality": "Canada",
@@ -3504,7 +3504,7 @@
 {
     "id": 406,
     "last_name": "D Tucker",
-    "img": "/hockey/img/players/D Tucker.jpg",
+    "img": "/Hockey/img/players/D Tucker.jpg",
     "full_name": "Darcy Tucker",
     "team": "Retired",
     "nationality": "Canada",
@@ -3514,7 +3514,7 @@
 {
     "id": 407,
     "last_name": "McCabe",
-    "img": "/hockey/img/players/McCabe.jpg",
+    "img": "/Hockey/img/players/McCabe.jpg",
     "full_name": "Bryan McCabe",
     "team": "Retired",
     "nationality": "Canada",
@@ -3524,7 +3524,7 @@
 {
     "id": 408,
     "last_name": "Wesley",
-    "img": "/hockey/img/players/Wesley.jpg",
+    "img": "/Hockey/img/players/Wesley.jpg",
     "full_name": "Glen Wesley",
     "team": "Retired",
     "nationality": "Canada",
@@ -3534,7 +3534,7 @@
 {
     "id": 409,
     "last_name": "Irbe",
-    "img": "/hockey/img/players/Irbe.jpg",
+    "img": "/Hockey/img/players/Irbe.jpg",
     "full_name": "Arturs Irbe",
     "team": "Retired",
     "nationality": "Latvia",
@@ -3544,7 +3544,7 @@
 {
     "id": 410,
     "last_name": "Kapanen",
-    "img": "/hockey/img/players/Kapanen.jpg",
+    "img": "/Hockey/img/players/Kapanen.jpg",
     "full_name": "Sami Kapanen",
     "team": "Retired",
     "nationality": "Finland",
@@ -3554,7 +3554,7 @@
 {
     "id": 411,
     "last_name": "Vyborny",
-    "img": "/hockey/img/players/Vyborny.jpg",
+    "img": "/Hockey/img/players/Vyborny.jpg",
     "full_name": "David Vyborny",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3564,7 +3564,7 @@
 {
     "id": 412,
     "last_name": "Umberger",
-    "img": "/hockey/img/players/Umberger.jpg",
+    "img": "/Hockey/img/players/Umberger.jpg",
     "full_name": "RJ Umberger",
     "team": "Retired",
     "nationality": "USA",
@@ -3574,7 +3574,7 @@
 {
     "id": 413,
     "last_name": "Wisniewski",
-    "img": "/hockey/img/players/Wisniewski.jpg",
+    "img": "/Hockey/img/players/Wisniewski.jpg",
     "full_name": "James Wisniewski",
     "team": "Retired",
     "nationality": "USA",
@@ -3584,7 +3584,7 @@
 {
     "id": 414,
     "last_name": "MacLean",
-    "img": "/hockey/img/players/MacLean.jpg",
+    "img": "/Hockey/img/players/MacLean.jpg",
     "full_name": "John MacLean",
     "team": "Retired",
     "nationality": "Canada",
@@ -3594,7 +3594,7 @@
 {
     "id": 415,
     "last_name": "K Muller",
-    "img": "/hockey/img/players/K Muller.jpg",
+    "img": "/Hockey/img/players/K Muller.jpg",
     "full_name": "Kirk Muller",
     "team": "Retired",
     "nationality": "Canada",
@@ -3604,7 +3604,7 @@
 {
     "id": 416,
     "last_name": "Langenbrunner",
-    "img": "/hockey/img/players/Langenbrunner.jpg",
+    "img": "/Hockey/img/players/Langenbrunner.jpg",
     "full_name": "Jamie Langenbrunner",
     "team": "Retired",
     "nationality": "USA",
@@ -3614,7 +3614,7 @@
 {
     "id": 417,
     "last_name": "Arnott",
-    "img": "/hockey/img/players/Arnott.jpg",
+    "img": "/Hockey/img/players/Arnott.jpg",
     "full_name": "Jason Arnott",
     "team": "Retired",
     "nationality": "Canada",
@@ -3624,7 +3624,7 @@
 {
     "id": 418,
     "last_name": "Zajac",
-    "img": "/hockey/img/players/Zajac.jpg",
+    "img": "/Hockey/img/players/Zajac.jpg",
     "full_name": "Travis Zajac",
     "team": "Retired",
     "nationality": "Canada",
@@ -3634,7 +3634,7 @@
 {
     "id": 419,
     "last_name": "Sykora",
-    "img": "/hockey/img/players/Sykora.jpg",
+    "img": "/Hockey/img/players/Sykora.jpg",
     "full_name": "Petr Sykora",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3644,7 +3644,7 @@
 {
     "id": 420,
     "last_name": "Pandolfo",
-    "img": "/hockey/img/players/Pandolfo.jpg",
+    "img": "/Hockey/img/players/Pandolfo.jpg",
     "full_name": "Jay Pandolfo",
     "team": "Retired",
     "nationality": "USA",
@@ -3654,7 +3654,7 @@
 {
     "id": 421,
     "last_name": "B Sutter",
-    "img": "/hockey/img/players/B Sutter.jpg",
+    "img": "/Hockey/img/players/B Sutter.jpg",
     "full_name": "Brent Sutter",
     "team": "Retired",
     "nationality": "Canada",
@@ -3664,7 +3664,7 @@
 {
     "id": 422,
     "last_name": "Jonsson",
-    "img": "/hockey/img/players/Jonsson.jpg",
+    "img": "/Hockey/img/players/Jonsson.jpg",
     "full_name": "Kenny Jonsson",
     "team": "Retired",
     "nationality": "Sweden",
@@ -3674,7 +3674,7 @@
 {
     "id": 423,
     "last_name": "Beukeboom",
-    "img": "/hockey/img/players/Beukeboom.jpg",
+    "img": "/Hockey/img/players/Beukeboom.jpg",
     "full_name": "Jeff Beukeboom",
     "team": "Retired",
     "nationality": "Canada",
@@ -3684,7 +3684,7 @@
 {
     "id": 424,
     "last_name": "Hartnell",
-    "img": "/hockey/img/players/Hartnell.jpg",
+    "img": "/Hockey/img/players/Hartnell.jpg",
     "full_name": "Scott Hartnell",
     "team": "Retired",
     "nationality": "Canada",
@@ -3694,7 +3694,7 @@
 {
     "id": 425,
     "last_name": "Mullen",
-    "img": "/hockey/img/players/Mullen.jpg",
+    "img": "/Hockey/img/players/Mullen.jpg",
     "full_name": "Joe Mullen",
     "team": "Retired",
     "nationality": "USA",
@@ -3704,7 +3704,7 @@
 {
     "id": 426,
     "last_name": "K Stevens",
-    "img": "/hockey/img/players/K Stevens.jpg",
+    "img": "/Hockey/img/players/K Stevens.jpg",
     "full_name": "Kevin Stevens",
     "team": "Retired",
     "nationality": "USA",
@@ -3714,7 +3714,7 @@
 {
     "id": 427,
     "last_name": "R Brown",
-    "img": "/hockey/img/players/R Brown.jpg",
+    "img": "/Hockey/img/players/R Brown.jpg",
     "full_name": "Rob Brown",
     "team": "Retired",
     "nationality": "Canada",
@@ -3724,7 +3724,7 @@
 {
     "id": 428,
     "last_name": "Neal",
-    "img": "/hockey/img/players/Neal.jpg",
+    "img": "/Hockey/img/players/Neal.jpg",
     "full_name": "James Neal",
     "team": "Retired",
     "nationality": "Canada",
@@ -3734,7 +3734,7 @@
 {
     "id": 429,
     "last_name": "D Hunter",
-    "img": "/hockey/img/players/D Hunter.jpg",
+    "img": "/Hockey/img/players/D Hunter.jpg",
     "full_name": "Dale Hunter",
     "team": "Retired",
     "nationality": "Canada",
@@ -3744,7 +3744,7 @@
 {
     "id": 430,
     "last_name": "Johansson",
-    "img": "/hockey/img/players/Johansson.jpg",
+    "img": "/Hockey/img/players/Johansson.jpg",
     "full_name": "Calle Johansson",
     "team": "Retired",
     "nationality": "Sweden",
@@ -3754,7 +3754,7 @@
 {
     "id": 431,
     "last_name": "Pivonka",
-    "img": "/hockey/img/players/Pivonka.jpg",
+    "img": "/Hockey/img/players/Pivonka.jpg",
     "full_name": "Michal Pivonka",
     "team": "Retired",
     "nationality": "Czech Republic",
@@ -3764,7 +3764,7 @@
 {
     "id": 432,
     "last_name": "Hatcher",
-    "img": "/hockey/img/players/Hatcher.jpg",
+    "img": "/Hockey/img/players/Hatcher.jpg",
     "full_name": "Kevin Hatcher",
     "team": "Retired",
     "nationality": "USA",
@@ -3774,7 +3774,7 @@
 {
     "id": 433,
     "last_name": "Amonte",
-    "img": "/hockey/img/players/Amonte.jpg",
+    "img": "/Hockey/img/players/Amonte.jpg",
     "full_name": "Tony Amonte",
     "team": "Retired",
     "nationality": "USA",
@@ -3784,7 +3784,7 @@
 {
     "id": 434,
     "last_name": "Larmer",
-    "img": "/hockey/img/players/Larmer.jpg",
+    "img": "/Hockey/img/players/Larmer.jpg",
     "full_name": "Steve Larmer",
     "team": "Retired",
     "nationality": "Canada",
@@ -3794,7 +3794,7 @@
 {
     "id": 435,
     "last_name": "Olczyk",
-    "img": "/hockey/img/players/Olczyk.jpg",
+    "img": "/Hockey/img/players/Olczyk.jpg",
     "full_name": "Eddie Olczyk",
     "team": "Retired",
     "nationality": "USA",
@@ -3804,7 +3804,7 @@
 {
     "id": 436,
     "last_name": "Kamensky",
-    "img": "/hockey/img/players/Kamensky.jpg",
+    "img": "/Hockey/img/players/Kamensky.jpg",
     "full_name": "Valeri Kamensky",
     "team": "Retired",
     "nationality": "Russia",
@@ -3814,7 +3814,7 @@
 {
     "id": 437,
     "last_name": "Lehtinen",
-    "img": "/hockey/img/players/Lehtinen.jpg",
+    "img": "/Hockey/img/players/Lehtinen.jpg",
     "full_name": "Jere Lehtinen",
     "team": "Retired",
     "nationality": "Finland",
@@ -3824,7 +3824,7 @@
 {
     "id": 438,
     "last_name": "Morrow",
-    "img": "/hockey/img/players/Morrow.jpg",
+    "img": "/Hockey/img/players/Morrow.jpg",
     "full_name": "Brenden Morrow",
     "team": "Retired",
     "nationality": "Canada",
@@ -3834,7 +3834,7 @@
 {
     "id": 439,
     "last_name": "Broten",
-    "img": "/hockey/img/players/Broten.jpg",
+    "img": "/Hockey/img/players/Broten.jpg",
     "full_name": "Neal Broten",
     "team": "Retired",
     "nationality": "USA",
@@ -3844,7 +3844,7 @@
 {
     "id": 440,
     "last_name": "D Hatcher",
-    "img": "/hockey/img/players/D Hatcher.jpg",
+    "img": "/Hockey/img/players/D Hatcher.jpg",
     "full_name": "Derian Hatcher",
     "team": "Retired",
     "nationality": "USA",
@@ -3854,7 +3854,7 @@
 {
     "id": 442,
     "last_name": "Rolston",
-    "img": "/hockey/img/players/Rolston.jpg",
+    "img": "/Hockey/img/players/Rolston.jpg",
     "full_name": "Brian Rolston",
     "team": "Retired",
     "nationality": "USA",
@@ -3864,7 +3864,7 @@
 {
     "id": 443,
     "last_name": "Granlund",
-    "img": "/hockey/img/players/Granlund.jpg",
+    "img": "/Hockey/img/players/Granlund.jpg",
     "full_name": "Mikael Granlund",
     "team": "San Jose Sharks",
     "nationality": "Finland",
@@ -3874,7 +3874,7 @@
 {
     "id": 444,
     "last_name": "PM Bouchard",
-    "img": "/hockey/img/players/PM Bouchard.jpg",
+    "img": "/Hockey/img/players/PM Bouchard.jpg",
     "full_name": "Pierre-Marc Bouchard",
     "team": "Retired",
     "nationality": "Canada",
@@ -3884,7 +3884,7 @@
 {
     "id": 446,
     "last_name": "C Smith",
-    "img": "/hockey/img/players/C Smith.jpg",
+    "img": "/Hockey/img/players/C Smith.jpg",
     "full_name": "Craig Smith",
     "team": "Dallas Stars",
     "nationality": "USA",
@@ -3894,7 +3894,7 @@
 {
     "id": 447,
     "last_name": "Hamhuis",
-    "img": "/hockey/img/players/Hamhuis.jpg",
+    "img": "/Hockey/img/players/Hamhuis.jpg",
     "full_name": "Dan Hamhuis",
     "team": "Retired",
     "nationality": "Canada",
@@ -3904,7 +3904,7 @@
 {
     "id": 448,
     "last_name": "Elliott",
-    "img": "/hockey/img/players/Elliott.jpg",
+    "img": "/Hockey/img/players/Elliott.jpg",
     "full_name": "Brian Elliott",
     "team": "Retired",
     "nationality": "Canada",
@@ -3914,7 +3914,7 @@
 {
     "id": 449,
     "last_name": "Steen",
-    "img": "/hockey/img/players/Steen.jpg",
+    "img": "/Hockey/img/players/Steen.jpg",
     "full_name": "Thomas Steen",
     "team": "Retired",
     "nationality": "Sweden",
@@ -3924,7 +3924,7 @@
 {
     "id": 450,
     "last_name": "Little",
-    "img": "/hockey/img/players/Little.jpg",
+    "img": "/Hockey/img/players/Little.jpg",
     "full_name": "Bryan Little",
     "team": "Arizona Coyotes",
     "nationality": "Canada",
@@ -3934,7 +3934,7 @@
 {
     "id": 451,
     "last_name": "Hunter",
-    "img": "/hockey/img/players/Hunter.jpg",
+    "img": "/Hockey/img/players/Hunter.jpg",
     "full_name": "Dave Hunter",
     "team": "Retired",
     "nationality": "Canada",
@@ -3944,7 +3944,7 @@
 {
     "id": 452,
     "last_name": "M Hunter",
-    "img": "/hockey/img/players/M Hunter.jpg",
+    "img": "/Hockey/img/players/M Hunter.jpg",
     "full_name": "Mark Hunter",
     "team": "Retired",
     "nationality": "Canada",

@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Svechnikov",
-    "img": "/hockey/img/players/Svechnikov.jpg",
+    "img": "/Hockey/img/players/Svechnikov.jpg",
     "full_name": "Andrei Svechnikov",
     "birth_date": "26-03-2000",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Aho",
-    "img": "/hockey/img/players/Aho.jpg",
+    "img": "/Hockey/img/players/Aho.jpg",
     "full_name": "Sebastian Aho",
     "birth_date": "26-07-1997",
 
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Necas",
-    "img": "/hockey/img/players/Necas.jpg",
+    "img": "/Hockey/img/players/Necas.jpg",
     "full_name": "Martin Necas",
     "birth_date": "15-01-1999",
 
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "last_name": "Slavin",
-    "img": "/hockey/img/players/Slavin.jpg",
+    "img": "/Hockey/img/players/Slavin.jpg",
     "full_name": "Jaccob Slavin",
     "birth_date": "01-05-1994",
 
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "last_name": "Burns",
-    "img": "/hockey/img/players/Burns.jpg",
+    "img": "/Hockey/img/players/Burns.jpg",
     "full_name": "Brent Burns",
     "birth_date": "09-03-1985",
 
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "last_name": "Andersen",
-    "img": "/hockey/img/players/Andersen.jpg",
+    "img": "/Hockey/img/players/Andersen.jpg",
     "full_name": "Frederik Andersen",
     "birth_date": "02-10-1989",
 

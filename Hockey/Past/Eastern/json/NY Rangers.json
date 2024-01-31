@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Panarin",
-        "img": "/hockey/img/players/Panarin.jpg",
+        "img": "/Hockey/img/players/Panarin.jpg",
         "full_name": "Artemi Panarin",
         "team": "New York Rangers",
         "nationality": "Russia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Stepan",
-        "img": "/hockey/img/players/Stepan.jpg",
+        "img": "/Hockey/img/players/Stepan.jpg",
         "full_name": "Derek Stepan",
         "team": "Retired",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Zuccarello",
-        "img": "/hockey/img/players/Zuccarello.jpg",
+        "img": "/Hockey/img/players/Zuccarello.jpg",
         "full_name": "Mats Zuccarello",
         "team": "Minnesota Wild",
         "nationality": "Norway",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "McDonagh",
-        "img": "/hockey/img/players/McDonagh.jpg",
+        "img": "/Hockey/img/players/McDonagh.jpg",
         "full_name": "Ryan McDonagh",
         "team": "Nashville Predators",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "M Staal",
-        "img": "/hockey/img/players/M Staal.jpg",
+        "img": "/Hockey/img/players/M Staal.jpg",
         "full_name": "Marc Staal",
         "team": "Philadelphia Flyers",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Lundqvist",
-        "img": "/hockey/img/players/Lundqvist.jpg",
+        "img": "/Hockey/img/players/Lundqvist.jpg",
         "full_name": "Henrik Lundqvist",
         "team": "Retired",
         "nationality": "Sweden",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "MacKinnon",
-        "img": "/hockey/img/players/MacKinnon.jpg",
+        "img": "/Hockey/img/players/MacKinnon.jpg",
         "full_name": "Nathan MacKinnon",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "McDavid",
-        "img": "/hockey/img/players/McDavid.jpg",
+        "img": "/Hockey/img/players/McDavid.jpg",
         "full_name": "Connor McDavid",
         "team": "Edmonton Oilers",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Crosby",
-        "img": "/hockey/img/players/Crosby.jpg",
+        "img": "/Hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Makar",
-        "img": "/hockey/img/players/Makar.jpg",
+        "img": "/Hockey/img/players/Makar.jpg",
         "full_name": "Cale Makar",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Hamilton",
-        "img": "/hockey/img/players/Hamilton.jpg",
+        "img": "/Hockey/img/players/Hamilton.jpg",
         "full_name": "Dougie Hamilton",
         "team": "New Jersey Devils",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Jarry",
-        "img": "/hockey/img/players/Jarry.jpg",
+        "img": "/Hockey/img/players/Jarry.jpg",
         "full_name": "Tristan Jarry",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",

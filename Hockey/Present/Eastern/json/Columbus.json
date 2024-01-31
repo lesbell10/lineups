@@ -2,7 +2,7 @@
     {
     "id": 1,
     "last_name": "Gaudreau",
-    "img": "/hockey/img/players/Gaudreau.jpg",
+    "img": "/Hockey/img/players/Gaudreau.jpg",
     "full_name": "Johnny Gaudreau",
     "birth_date": "13-08-1993",
 
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "K Johnson",
-    "img": "/hockey/img/players/K Johnson.jpg",
+    "img": "/Hockey/img/players/K Johnson.jpg",
     "full_name": "Kent Johnson",
     "birth_date": "01-10-2001",
 
@@ -29,7 +29,7 @@
   {
     "id": 3,
     "last_name": "Laine",
-    "img": "/hockey/img/players/Laine.jpg",
+    "img": "/Hockey/img/players/Laine.jpg",
     "full_name": "Patrik Laine",
     "birth_date": "19-04-1998",
 
@@ -43,7 +43,7 @@
   {
     "id": 4,
     "last_name": "Werenski",
-    "img": "/hockey/img/players/Werenski.jpg",
+    "img": "/Hockey/img/players/Werenski.jpg",
     "full_name": "Zach Werenski",
     "birth_date": "19-07-1997",
 
@@ -57,7 +57,7 @@
   {
     "id": 5,
     "last_name": "Provorov",
-    "img": "/hockey/img/players/Provorov.jpg",
+    "img": "/Hockey/img/players/Provorov.jpg",
     "full_name": "Ivan Provorov",
     "birth_date": "13-01-1997",
 
@@ -71,7 +71,7 @@
   {
     "id": 6,
     "last_name": "Merzlikins",
-    "img": "/hockey/img/players/Merzlikins.jpg",
+    "img": "/Hockey/img/players/Merzlikins.jpg",
     "full_name": "Elvis Merzlikins",
     "birth_date": "13-04-1994",
 

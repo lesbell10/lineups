@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "M Tkachuk",
-    "img": "/hockey/img/players/M Tkachuk.jpg",
+    "img": "/Hockey/img/players/M Tkachuk.jpg",
     "full_name": "Matthew Tkachuk",
     "birth_date": "11-12-1997",
 
@@ -16,7 +16,7 @@
     {
     "id": 2,
     "last_name": "Barkov",
-    "img": "/hockey/img/players/Barkov.jpg",
+    "img": "/Hockey/img/players/Barkov.jpg",
     "full_name": "Aleksander Barkov",
     "birth_date": "02-09-1995",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Verhaeghe",
-    "img": "/hockey/img/players/Verhaeghe.jpg",
+    "img": "/Hockey/img/players/Verhaeghe.jpg",
     "full_name": "Carter Verhaeghe",
     "birth_date": "23-08-1995",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Ekblad",
-    "img": "/hockey/img/players/Ekblad.jpg",
+    "img": "/Hockey/img/players/Ekblad.jpg",
     "full_name": "Aaron Ekblad",
     "birth_date": "07-02-1996",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Montour",
-    "img": "/hockey/img/players/Montour.jpg",
+    "img": "/Hockey/img/players/Montour.jpg",
     "full_name": "Brandon Montour",
     "birth_date": "11-04-1994",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "Bobrovsky",
-    "img": "/hockey/img/players/Bobrovsky.jpg",
+    "img": "/Hockey/img/players/Bobrovsky.jpg",
     "full_name": "Sergei Bobrovsky",
     "birth_date": "20-09-1988",
 

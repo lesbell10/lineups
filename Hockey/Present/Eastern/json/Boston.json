@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Marchand",
-    "img": "/hockey/img/players/Marchand.jpg",
+    "img": "/Hockey/img/players/Marchand.jpg",
     "full_name": "Brad Marchand",
     "birth_date": "11-05-1988",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "Zacha",
-    "img": "/hockey/img/players/Zacha.jpg",
+    "img": "/Hockey/img/players/Zacha.jpg",
     "full_name": "Pavel Zacha",
     "birth_date": "06-04-1997",
     "team": "Boston Bruins",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "last_name": "Pastrnak",
-    "img": "/hockey/img/players/Pastrnak.jpg",
+    "img": "/Hockey/img/players/Pastrnak.jpg",
     "full_name": "David Pastrnak",
     "birth_date": "25-05-1996",
 
@@ -42,7 +42,7 @@
   {
     "id": 4,
     "last_name": "McAvoy",
-    "img": "/hockey/img/players/McAvoy.jpg",
+    "img": "/Hockey/img/players/McAvoy.jpg",
     "full_name": "Charlie McAvoy",
     "birth_date": "21-12-1997",
 
@@ -56,7 +56,7 @@
   {
     "id": 5,
     "last_name": "Carlo",
-    "img": "/hockey/img/players/Carlo.jpg",
+    "img": "/Hockey/img/players/Carlo.jpg",
     "full_name": "Brandon Carlo",
     "birth_date": "26-11-1996",
 
@@ -70,7 +70,7 @@
   {
     "id": 6,
     "last_name": "Ullmark",
-    "img": "/hockey/img/players/Ullmark.jpg",
+    "img": "/Hockey/img/players/Ullmark.jpg",
     "full_name": "Linus Ullmark",
     "birth_date": "31-07-1993",
 

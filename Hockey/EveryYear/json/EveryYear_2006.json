@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "P Forsberg",
-    "img": "/hockey/img/players/P Forsberg.jpg",
+    "img": "/Hockey/img/players/P Forsberg.jpg",
     "full_name": "Peter Forsberg",
     "birth_date": "20-07-1973",
     "team": "Retired",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "last_name": "Sakic",
-    "img": "/hockey/img/players/Sakic.jpg",
+    "img": "/Hockey/img/players/Sakic.jpg",
     "full_name": "Joe Sakic",
     "birth_date": "07-07-1969",
     "team": "Retired",
@@ -27,7 +27,7 @@
   {
     "id": 3,
     "last_name": "Iginla",
-    "img": "/hockey/img/players/Iginla.jpg",
+    "img": "/Hockey/img/players/Iginla.jpg",
     "full_name": "Jarome Iginla",
     "birth_date": "01-07-1977",
     "team": "Retired",
@@ -39,7 +39,7 @@
   {
     "id": 4,
     "last_name": "S Niedermayer",
-    "img": "/hockey/img/players/S Niedermayer.jpg",
+    "img": "/Hockey/img/players/S Niedermayer.jpg",
     "full_name": "Scott Niedermayer",
     "birth_date": "31-08-1973",
     "team": "Retired",
@@ -51,7 +51,7 @@
   {
     "id": 5,
     "last_name": "Lidstrom",
-    "img": "/hockey/img/players/Lidstrom.jpg",
+    "img": "/Hockey/img/players/Lidstrom.jpg",
     "full_name": "Nicklas Lidstrom",
     "birth_date": "28-04-1970",
     "team": "Retired",
@@ -63,7 +63,7 @@
   {
     "id": 6,
     "last_name": "Brodeur",
-    "img": "/hockey/img/players/Brodeur.jpg",
+    "img": "/Hockey/img/players/Brodeur.jpg",
     "full_name": "Martin Brodeur",
     "birth_date": "06-05-1972",
     "team": "Retired",

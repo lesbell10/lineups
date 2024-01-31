@@ -2,7 +2,7 @@
         {
         "id": 1,
         "last_name": "Nylander",
-        "img": "/hockey/img/players/Nylander.jpg",
+        "img": "/Hockey/img/players/Nylander.jpg",
         "full_name": "William Nylander",
         "team": "Toronto Maple Leafs",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Matthews",
-        "img": "/hockey/img/players/Matthews.jpg",
+        "img": "/Hockey/img/players/Matthews.jpg",
         "full_name": "Auston Matthews",
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Marner",
-        "img": "/hockey/img/players/Marner.jpg",
+        "img": "/Hockey/img/players/Marner.jpg",
         "full_name": "Mitch Marner",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Rielly",
-        "img": "/hockey/img/players/Rielly.jpg",
+        "img": "/Hockey/img/players/Rielly.jpg",
         "full_name": "Morgan Rielly",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Brodie",
-        "img": "/hockey/img/players/Brodie.jpg",
+        "img": "/Hockey/img/players/Brodie.jpg",
         "full_name": "TJ Brodie",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Samsonov",
-        "img": "/hockey/img/players/Samsonov.jpg",
+        "img": "/Hockey/img/players/Samsonov.jpg",
         "full_name": "Ilya Samsonov",
         "team": "Washington Capitals",
         "nationality": "Russia",

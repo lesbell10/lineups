@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Necas",
-        "img": "/hockey/img/players/Necas.jpg",
+        "img": "/Hockey/img/players/Necas.jpg",
         "full_name": "Martin Necas",
         "team": "Carolina Hurricanes",
         "nationality": "Czech Republic",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Hertl",
-        "img": "/hockey/img/players/Hertl.jpg",
+        "img": "/Hockey/img/players/Hertl.jpg",
         "full_name": "Tomas Hertl",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Pastrnak",
-        "img": "/hockey/img/players/Pastrnak.jpg",
+        "img": "/Hockey/img/players/Pastrnak.jpg",
         "full_name": "David Pastrnak",
         "team": "Boston Bruins",
         "nationality": "Czech Republic",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Rutta",
-        "img": "/hockey/img/players/Rutta.jpg",
+        "img": "/Hockey/img/players/Rutta.jpg",
         "full_name": "Jan Rutta",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Simek",
-        "img": "/hockey/img/players/Simek.jpg",
+        "img": "/Hockey/img/players/Simek.jpg",
         "full_name": "Radim Simek",
         "team": "San Jose Sharks",
         "nationality": "Czech Republic",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Vanecek",
-        "img": "/hockey/img/players/Vanecek.jpg",
+        "img": "/Hockey/img/players/Vanecek.jpg",
         "full_name": "Vitek Vanecek",
         "team": "New Jersey Devils",
         "nationality": "Czech Republic",

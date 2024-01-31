@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Marchand",
-        "img": "/hockey/img/players/Marchand.jpg",
+        "img": "/Hockey/img/players/Marchand.jpg",
         "full_name": "Brad Marchand",
         "team": "Boston Bruins",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Bergeron",
-        "img": "/hockey/img/players/Bergeron.jpg",
+        "img": "/Hockey/img/players/Bergeron.jpg",
         "full_name": "Patrice Bergeron",
         "team": "Retired",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Pastrnak",
-        "img": "/hockey/img/players/Pastrnak.jpg",
+        "img": "/Hockey/img/players/Pastrnak.jpg",
         "full_name": "David Pastrnak",
         "team": "Boston Bruins",
         "nationality": "Czech Republic",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Chara",
-        "img": "/hockey/img/players/Chara.jpg",
+        "img": "/Hockey/img/players/Chara.jpg",
         "full_name": "Zdeno Chara",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Krug",
-        "img": "/hockey/img/players/Krug.jpg",
+        "img": "/Hockey/img/players/Krug.jpg",
         "full_name": "Torey Krug",
         "team": "St Louis Blues",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Rask",
-        "img": "/hockey/img/players/Rask.jpg",
+        "img": "/Hockey/img/players/Rask.jpg",
         "full_name": "Tuukka Rask",
         "team": "Retired",
         "nationality": "Finland",

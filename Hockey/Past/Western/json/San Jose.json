@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Couture",
-        "img": "/hockey/img/players/Couture.jpg",
+        "img": "/Hockey/img/players/Couture.jpg",
         "full_name": "Logan Couture",
         "team": "San Jose Sharks",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Thornton",
-        "img": "/hockey/img/players/Thornton.jpg",
+        "img": "/Hockey/img/players/Thornton.jpg",
         "full_name": "Joe Thornton",
         "team": "Retired",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Pavelski",
-        "img": "/hockey/img/players/Pavelski.jpg",
+        "img": "/Hockey/img/players/Pavelski.jpg",
         "full_name": "Joe Pavelski",
         "team": "Dallas Stars",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Burns",
-        "img": "/hockey/img/players/Burns.jpg",
+        "img": "/Hockey/img/players/Burns.jpg",
         "full_name": "Brent Burns",
         "team": "Carolina Hurricanes",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Vlasic",
-        "img": "/hockey/img/players/Vlasic.jpg",
+        "img": "/Hockey/img/players/Vlasic.jpg",
         "full_name": "Marc-Édouard Vlasic",
         "team": "San Jose Sharks",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "M Jones",
-        "img": "/hockey/img/players/M Jones.jpg",
+        "img": "/Hockey/img/players/M Jones.jpg",
         "full_name": "Martin Jones",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",

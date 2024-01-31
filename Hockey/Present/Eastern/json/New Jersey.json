@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Bratt",
-    "img": "/hockey/img/players/Bratt.jpg",
+    "img": "/Hockey/img/players/Bratt.jpg",
     "full_name": "Jesper Bratt",
     "birth_date": "30-07-1998",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "J Hughes",
-    "img": "/hockey/img/players/J Hughes.jpg",
+    "img": "/Hockey/img/players/J Hughes.jpg",
     "full_name": "Jack Hughes",
     "birth_date": "14-05-2001",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Hischier",
-    "img": "/hockey/img/players/Hischier.jpg",
+    "img": "/Hockey/img/players/Hischier.jpg",
     "full_name": "Nico Hischier",
     "birth_date": "04-01-1999",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Hamilton",
-    "img": "/hockey/img/players/Hamilton.jpg",
+    "img": "/Hockey/img/players/Hamilton.jpg",
     "full_name": "Dougie Hamilton",
     "birth_date": "17-06-1993",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Siegenthaler",
-    "img": "/hockey/img/players/Siegenthaler.jpg",
+    "img": "/Hockey/img/players/Siegenthaler.jpg",
     "full_name": "Jonas Siegenthaler",
     "birth_date": "06-05-1997",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "Vanecek",
-    "img": "/hockey/img/players/Vanecek.jpg",
+    "img": "/Hockey/img/players/Vanecek.jpg",
     "full_name": "Vitek Vanecek",
     "birth_date": "09-01-1996",
 

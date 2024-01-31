@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Malkin",
-        "img": "/hockey/img/players/Malkin.jpg",
+        "img": "/Hockey/img/players/Malkin.jpg",
         "full_name": "Evgeni Malkin",
         "team": "Pittsburgh Penguins",
         "nationality": "Russia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Crosby",
-        "img": "/hockey/img/players/Crosby.jpg",
+        "img": "/Hockey/img/players/Crosby.jpg",
         "full_name": "Sidney Crosby",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Rust",
-        "img": "/hockey/img/players/Rust.jpg",
+        "img": "/Hockey/img/players/Rust.jpg",
         "full_name": "Bryan Rust",
         "team": "Pittsburgh Penguins",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Letang",
-        "img": "/hockey/img/players/Letang.jpg",
+        "img": "/Hockey/img/players/Letang.jpg",
         "full_name": "Kris Letang",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Marino",
-        "img": "/hockey/img/players/Marino.jpg",
+        "img": "/Hockey/img/players/Marino.jpg",
         "full_name": "John Marino",
         "team": "Pittsburgh Penguins",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Jarry",
-        "img": "/hockey/img/players/Jarry.jpg",
+        "img": "/Hockey/img/players/Jarry.jpg",
         "full_name": "Tristan Jarry",
         "team": "Pittsburgh Penguins",
         "nationality": "Canada",

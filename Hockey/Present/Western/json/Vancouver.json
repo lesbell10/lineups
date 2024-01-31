@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Kuzmenko",
-        "img": "/hockey/img/players/Kuzmenko.jpg",
+        "img": "/Hockey/img/players/Kuzmenko.jpg",
         "full_name": "Vladislav Kuzmenko",
         "team": "Vancouver Canucks",
         "nationality": "Russia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Pettersson",
-        "img": "/hockey/img/players/Pettersson.jpg",
+        "img": "/Hockey/img/players/Pettersson.jpg",
         "full_name": "Elias Pettersson",
         "team": "Vancouver Canucks",
         "nationality": "Sweden",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Miller",
-        "img": "/hockey/img/players/JT Miller.jpg",
+        "img": "/Hockey/img/players/JT Miller.jpg",
         "full_name": "JT Miller",
         "team": "Vancouver Canucks",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Q Hughes",
-        "img": "/hockey/img/players/Q Hughes.jpg",
+        "img": "/Hockey/img/players/Q Hughes.jpg",
         "full_name": "Quinn Hughes",
         "team": "Vancouver Canucks",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Hronek",
-        "img": "/hockey/img/players/Hronek.jpg",
+        "img": "/Hockey/img/players/Hronek.jpg",
         "full_name": "Filip Hronek",
         "team": "Vancouver Canucks",
         "nationality": "Czech Republic",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Demko",
-        "img": "/hockey/img/players/Demko.jpg",
+        "img": "/Hockey/img/players/Demko.jpg",
         "full_name": "Thatcher Demko",
         "team": "Vancouver Canucks",
         "nationality": "USA",

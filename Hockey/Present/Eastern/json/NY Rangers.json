@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Panarin",
-    "img": "/hockey/img/players/Panarin.jpg",
+    "img": "/Hockey/img/players/Panarin.jpg",
     "full_name": "Artemi Panarin",
     "team": "New York Rangers",
     "nationality": "Russia",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "Zibanejad",
-    "img": "/hockey/img/players/Zibanejad.jpg",
+    "img": "/Hockey/img/players/Zibanejad.jpg",
     "full_name": "Mika Zibanejad",
     "team": "New York Rangers",
     "nationality": "Sweden",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "Kreider",
-    "img": "/hockey/img/players/Kreider.jpg",
+    "img": "/Hockey/img/players/Kreider.jpg",
     "full_name": "Chris Kreider",
     "team": "New York Rangers",
     "nationality": "USA",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "Fox",
-    "img": "/hockey/img/players/Fox.jpg",
+    "img": "/Hockey/img/players/Fox.jpg",
     "full_name": "Adam Fox",
     "team": "New York Rangers",
     "nationality": "USA",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "K Miller",
-    "img": "/hockey/img/players/K Miller.jpg",
+    "img": "/Hockey/img/players/K Miller.jpg",
     "full_name": "K'Andre Miller",
     "team": "New York Rangers",
     "nationality": "USA",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "Shesterkin",
-    "img": "/hockey/img/players/Shesterkin.jpg",
+    "img": "/Hockey/img/players/Shesterkin.jpg",
     "full_name": "Igor Shesterkin",
     "team": "New York Rangers",
     "nationality": "Russia",

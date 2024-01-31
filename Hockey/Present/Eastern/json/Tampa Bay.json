@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Stamkos",
-        "img": "/hockey/img/players/Stamkos.jpg",
+        "img": "/Hockey/img/players/Stamkos.jpg",
         "full_name": "Steven Stamkos",
         "team": "Tampa Bay Lightning",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Point",
-        "img": "/hockey/img/players/Point.jpg",
+        "img": "/Hockey/img/players/Point.jpg",
         "full_name": "Brayden Point",
         "team": "Tampa Bay Lightning",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Kucherov",
-        "img": "/hockey/img/players/Kucherov.jpg",
+        "img": "/Hockey/img/players/Kucherov.jpg",
         "full_name": "Nikita Kucherov",
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Hedman",
-        "img": "/hockey/img/players/Hedman.jpg",
+        "img": "/Hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Cernak",
-        "img": "/hockey/img/players/Cernak.jpg",
+        "img": "/Hockey/img/players/Cernak.jpg",
         "full_name": "Erik Cernak",
         "team": "Tampa Bay Lightning",
         "nationality": "Slovakia",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Vasilevskiy",
-        "img": "/hockey/img/players/Vasilevskiy.jpg",
+        "img": "/Hockey/img/players/Vasilevskiy.jpg",
         "full_name": "Andrei Vasilevskiy",
         "team": "Tampa Bay Lightning",
         "nationality": "Russia",

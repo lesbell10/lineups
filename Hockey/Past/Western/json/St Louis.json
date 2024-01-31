@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Backes",
-        "img": "/hockey/img/players/Backes.jpg",
+        "img": "/Hockey/img/players/Backes.jpg",
         "full_name": "David Backes",
         "team": "Retired",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "O'Reilly",
-        "img": "/hockey/img/players/O'Reilly.jpg",
+        "img": "/Hockey/img/players/O'Reilly.jpg",
         "full_name": "Ryan O'Reilly",
         "team": "Nashville Predators",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Tarasenko",
-        "img": "/hockey/img/players/Tarasenko.jpg",
+        "img": "/Hockey/img/players/Tarasenko.jpg",
         "full_name": "Vladimir Tarasenko",
         "team": "Ottawa Senators",
         "nationality": "Russia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Pietrangelo",
-        "img": "/hockey/img/players/Pietrangelo.jpg",
+        "img": "/Hockey/img/players/Pietrangelo.jpg",
         "full_name": "Alex Pietrangelo",
         "team": "Vegas Golden Knights",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Shattenkirk",
-        "img": "/hockey/img/players/Shattenkirk.jpg",
+        "img": "/Hockey/img/players/Shattenkirk.jpg",
         "full_name": "Kevin Shattenkirk",
         "team": "Boston Bruins",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Binnington",
-        "img": "/hockey/img/players/Binnington.jpg",
+        "img": "/Hockey/img/players/Binnington.jpg",
         "full_name": "Jordan Binnington",
         "team": "St Louis Blues",
         "nationality": "Canada",

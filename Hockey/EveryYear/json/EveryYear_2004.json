@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "St Louis",
-    "img": "/hockey/img/players/St%20Louis.jpg",
+    "img": "/Hockey/img/players/St%20Louis.jpg",
     "full_name": "Martin St Louis",
     "team": "Retired",
     "nationality": "Canada",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "Thornton",
-    "img": "/hockey/img/players/Thornton.jpg",
+    "img": "/Hockey/img/players/Thornton.jpg",
     "full_name": "Joe Thornton",
     "team": "Retired",
     "nationality": "Canada",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "Iginla",
-    "img": "/hockey/img/players/Iginla.jpg",
+    "img": "/Hockey/img/players/Iginla.jpg",
     "full_name": "Jarome Iginla",
     "team": "Retired",
     "nationality": "Canada",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "S Niedermayer",
-    "img": "/hockey/img/players/S Niedermayer.jpg",
+    "img": "/Hockey/img/players/S Niedermayer.jpg",
     "full_name": "Scott Niedermayer",
     "team": "Retired",
     "nationality": "Canada",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "Stevens",
-    "img": "/hockey/img/players/Stevens.jpg",
+    "img": "/Hockey/img/players/Stevens.jpg",
     "full_name": "Scott Stevens",
     "team": "Retired",
     "nationality": "Canada",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "Brodeur",
-    "img": "/hockey/img/players/Brodeur.jpg",
+    "img": "/Hockey/img/players/Brodeur.jpg",
     "full_name": "Martin Brodeur",
     "team": "Retired",
     "nationality": "Canada",

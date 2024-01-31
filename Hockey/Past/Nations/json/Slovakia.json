@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Tatar",
-        "img": "/hockey/img/players/Tatar.jpg",
+        "img": "/Hockey/img/players/Tatar.jpg",
         "full_name": "Tomas Tatar",
         "team": "Seattle Kraken",
         "nationality": "Slovakia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Hossa",
-        "img": "/hockey/img/players/Hossa.jpg",
+        "img": "/Hockey/img/players/Hossa.jpg",
         "full_name": "Marian Hossa",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Gaborik",
-        "img": "/hockey/img/players/Gaborik.jpg",
+        "img": "/Hockey/img/players/Gaborik.jpg",
         "full_name": "Marian Gaborik",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Chara",
-        "img": "/hockey/img/players/Chara.jpg",
+        "img": "/Hockey/img/players/Chara.jpg",
         "full_name": "Zdeno Chara",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Sekera",
-        "img": "/hockey/img/players/Sekera.jpg",
+        "img": "/Hockey/img/players/Sekera.jpg",
         "full_name": "Andrej Sekera",
         "team": "Retired",
         "nationality": "Slovakia",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Halak",
-        "img": "/hockey/img/players/Halak.jpg",
+        "img": "/Hockey/img/players/Halak.jpg",
         "full_name": "Jaroslav Halak",
         "team": "Free Agent",
         "nationality": "Slovakia",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Stutzle",
-        "img": "/hockey/img/players/Stutzle.jpg",
+        "img": "/Hockey/img/players/Stutzle.jpg",
         "full_name": "Tim Stutzle",
         "team": "Ottawa Senators",
         "nationality": "Germany",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Draisaitl",
-        "img": "/hockey/img/players/Draisaitl.jpg",
+        "img": "/Hockey/img/players/Draisaitl.jpg",
         "full_name": "Leon Draisaitl",
         "team": "Edmonton Oilers",
         "nationality": "Germany",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Sturm",
-        "img": "/hockey/img/players/Sturm.jpg",
+        "img": "/Hockey/img/players/Sturm.jpg",
         "full_name": "Nico Sturm",
         "team": "San Jose Sharks",
         "nationality": "Germany",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Seider",
-        "img": "/hockey/img/players/Seider.jpg",
+        "img": "/Hockey/img/players/Seider.jpg",
         "full_name": "Moritz Seider",
         "team": "Detroit Red Wings",
         "nationality": "Germany",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Gawanke",
-        "img": "/hockey/img/players/Gawanke.jpg",
+        "img": "/Hockey/img/players/Gawanke.jpg",
         "full_name": "Leon Gawanke",
         "team": "San Jose Sharks",
         "nationality": "Germany",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Grubauer",
-        "img": "/hockey/img/players/Grubauer.jpg",
+        "img": "/Hockey/img/players/Grubauer.jpg",
         "full_name": "Philipp Grubauer",
         "team": "Seattle Kraken",
         "nationality": "Germany",

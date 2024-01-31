@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "J Robertson",
-        "img": "/hockey/img/players/J Robertson.jpg",
+        "img": "/Hockey/img/players/J Robertson.jpg",
         "full_name": "Jason Robertson",
         "team": "Dallas Stars",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Matthews",
-        "img": "/hockey/img/players/Matthews.jpg",
+        "img": "/Hockey/img/players/Matthews.jpg",
         "full_name": "Auston Matthews",
         "team": "Toronto Maple Leafs",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "M Tkachuk",
-        "img": "/hockey/img/players/M Tkachuk.jpg",
+        "img": "/Hockey/img/players/M Tkachuk.jpg",
         "full_name": "Matthew Tkachuk",
         "team": "Florida Panthers",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Fox",
-        "img": "/hockey/img/players/Fox.jpg",
+        "img": "/Hockey/img/players/Fox.jpg",
         "full_name": "Adam Fox",
         "team": "New York Rangers",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "McAvoy",
-        "img": "/hockey/img/players/McAvoy.jpg",
+        "img": "/Hockey/img/players/McAvoy.jpg",
         "full_name": "Charlie McAvoy",
         "team": "Boston Bruins",
         "nationality": "USA",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Hellebuyck",
-        "img": "/hockey/img/players/Hellebuyck.jpg",
+        "img": "/Hockey/img/players/Hellebuyck.jpg",
         "full_name": "Connor Hellebuyck",
         "team": "Winnipeg Jets",
         "nationality": "USA",

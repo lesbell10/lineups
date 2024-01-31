@@ -15,7 +15,7 @@ give me this:
 
 Hockey: 
 give me this:
-(id start with 1), (last_name) (img /hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goaltender), (description: 8 words) in json format
+(id start with 1), (last_name) (img /Hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goaltender), (description: 8 words) in json format
 
 Basket: 
 give me this:
@@ -45,7 +45,7 @@ https://chat.openai.com/c/95a22ec8-db07-4985-a086-d5eade860f19
   {
     "id": 1,
     "last_name" : "",
-    "img": "/hockey/img/players/{last_name}.jpg"
+    "img": "/Hockey/img/players/{last_name}.jpg"
     "full_name": "",
     "team": "",
     "nationality": "(country name)",

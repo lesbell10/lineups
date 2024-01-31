@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Ovechkin",
-        "img": "/hockey/img/players/Ovechkin.jpg",
+        "img": "/Hockey/img/players/Ovechkin.jpg",
         "full_name": "Alexander Ovechkin",
         "team": "Washington Capitals",
         "nationality": "Russia",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Kuznetsov",
-        "img": "/hockey/img/players/Kuznetsov.jpg",
+        "img": "/Hockey/img/players/Kuznetsov.jpg",
         "full_name": "Evgeny Kuznetsov",
         "team": "Washington Capitals",
         "nationality": "Russia",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Wilson",
-        "img": "/hockey/img/players/Wilson.jpg",
+        "img": "/Hockey/img/players/Wilson.jpg",
         "full_name": "Tom Wilson",
         "team": "Washington Capitals",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Carlson",
-        "img": "/hockey/img/players/Carlson.jpg",
+        "img": "/Hockey/img/players/Carlson.jpg",
         "full_name": "John Carlson",
         "team": "Washington Capitals",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Fehervary",
-        "img": "/hockey/img/players/Fehervary.jpg",
+        "img": "/Hockey/img/players/Fehervary.jpg",
         "full_name": "Martin Fehervary",
         "team": "Washington Capitals",
         "nationality": "Slovakia",
@@ -52,7 +52,7 @@
     {
         "id":6,
         "last_name": "Kuemper",
-        "img": "/hockey/img/players/Kuemper.jpg",
+        "img": "/Hockey/img/players/Kuemper.jpg",
         "full_name": "Darcy Kuemper",
         "team": "Arizona Coyotes",
         "nationality": "Canada",

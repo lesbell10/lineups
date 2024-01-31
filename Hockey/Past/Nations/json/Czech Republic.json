@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Voracek",
-        "img": "/hockey/img/players/Voracek.jpg",
+        "img": "/Hockey/img/players/Voracek.jpg",
         "full_name": "Jakub Voracek",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Krejci",
-        "img": "/hockey/img/players/Krejci.jpg",
+        "img": "/Hockey/img/players/Krejci.jpg",
         "full_name": "David Krejci",
         "team": "Retired",
         "nationality": "Czech Republic",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Pastrnak",
-        "img": "/hockey/img/players/Pastrnak.jpg",
+        "img": "/Hockey/img/players/Pastrnak.jpg",
         "full_name": "David Pastrnak",
         "team": "Boston Bruins",
         "nationality": "Czech Republic",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Gudas",
-        "img": "/hockey/img/players/Gudas.jpg",
+        "img": "/Hockey/img/players/Gudas.jpg",
         "full_name": "Radko Gudas",
         "team": "Anaheim Ducks",
         "nationality": "Czech Republic",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Kempny",
-        "img": "/hockey/img/players/Kempny.jpg",
+        "img": "/Hockey/img/players/Kempny.jpg",
         "full_name": "Michal Kempny",
         "team": "HC Sparta Praha (Czech)",
         "nationality": "Czech Republic",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Mrazek",
-        "img": "/hockey/img/players/Mrazek.jpg",
+        "img": "/Hockey/img/players/Mrazek.jpg",
         "full_name": "Petr Mrazek",
         "team": "Chicago Blackhawks",
         "nationality": "Czech Republic",

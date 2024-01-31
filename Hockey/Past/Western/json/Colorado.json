@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Landeskog",
-        "img": "/hockey/img/players/Landeskog.jpg",
+        "img": "/Hockey/img/players/Landeskog.jpg",
         "full_name": "Gabriel Landeskog",
         "team": "Colorado Avalanche",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "MacKinnon",
-        "img": "/hockey/img/players/MacKinnon.jpg",
+        "img": "/Hockey/img/players/MacKinnon.jpg",
         "full_name": "Nathan MacKinnon",
         "team": "Colorado Avalanche",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Rantanen",
-        "img": "/hockey/img/players/Rantanen.jpg",
+        "img": "/Hockey/img/players/Rantanen.jpg",
         "full_name": "Mikko Rantanen",
         "team": "Colorado Avalanche",
         "nationality": "Finland",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "E Johnson",
-        "img": "/hockey/img/players/E Johnson.jpg",
+        "img": "/Hockey/img/players/E Johnson.jpg",
         "full_name": "Erik Johnson",
         "team": "Buffalo Sabres",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Barrie",
-        "img": "/hockey/img/players/Barrie.jpg",
+        "img": "/Hockey/img/players/Barrie.jpg",
         "full_name": "Tyson Barrie",
         "team": "Nashville Predators",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Varlamov",
-        "img": "/hockey/img/players/Varlamov.jpg",
+        "img": "/Hockey/img/players/Varlamov.jpg",
         "full_name": "Semyon Varlamov",
         "team": "New York Islanders",
         "nationality": "Russia",

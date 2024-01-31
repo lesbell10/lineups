@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Huberdeau",
-        "img": "/hockey/img/players/Huberdeau.jpg",
+        "img": "/Hockey/img/players/Huberdeau.jpg",
         "full_name": "Jonathan Huberdeau",
         "team": "Calgary Flames",
         "nationality": "Canada",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Barkov",
-        "img": "/hockey/img/players/Barkov.jpg",
+        "img": "/Hockey/img/players/Barkov.jpg",
         "full_name": "Aleksander Barkov",
         "team": "Florida Panthers",
         "nationality": "Finland",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Hoffman",
-        "img": "/hockey/img/players/Hoffman.jpg",
+        "img": "/Hockey/img/players/Hoffman.jpg",
         "full_name": "Mike Hoffman",
         "team": "San Jose Sharks",
         "nationality": "Canadian",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Ekblad",
-        "img": "/hockey/img/players/Ekblad.jpg",
+        "img": "/Hockey/img/players/Ekblad.jpg",
         "full_name": "Aaron Ekblad",
         "team": "Florida Panthers",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Yandle",
-        "img": "/hockey/img/players/Yandle.jpg",
+        "img": "/Hockey/img/players/Yandle.jpg",
         "full_name": "Keith Yandle",
         "team": "Retired",
         "nationality": "American",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Luongo",
-        "img": "/hockey/img/players/Luongo.jpg",
+        "img": "/Hockey/img/players/Luongo.jpg",
         "full_name": "Roberto Luongo",
         "team": "Retired",
         "nationality": "Canada",

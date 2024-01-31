@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Vanek",
-    "img": "/hockey/img/players/Vanek.jpg",
+    "img": "/Hockey/img/players/Vanek.jpg",
     "full_name": "Thomas Vanek",
     "team": "Retired",
     "nationality": "Austria",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "Eichel",
-    "img": "/hockey/img/players/Eichel.jpg",
+    "img": "/Hockey/img/players/Eichel.jpg",
     "full_name": "Jack Eichel",
     "team": "Vegas Golden Knights",
     "nationality": "USA",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "O'Reilly",
-    "img": "/hockey/img/players/O'Reilly.jpg",
+    "img": "/Hockey/img/players/O'Reilly.jpg",
     "full_name": "Ryan O'Reilly",
     "team": "Nashville Predtors",
     "nationality": "Canada",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "Ristolainen",
-    "img": "/hockey/img/players/Ristolainen.jpg",
+    "img": "/Hockey/img/players/Ristolainen.jpg",
     "full_name": "Rasmus Ristolainen",
     "team": "Philadelphia Flyers",
     "nationality": "Finland",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "Myers",
-    "img": "/hockey/img/players/Myers.jpg",
+    "img": "/Hockey/img/players/Myers.jpg",
     "full_name": "Tyler Myers",
     "team": "Vancouver Canucks",
     "nationality": "Canada",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "R Miller",
-    "img": "/hockey/img/players/R Miller.jpg",
+    "img": "/Hockey/img/players/R Miller.jpg",
     "full_name": "Ryan Miller",
     "team": "Retired",
     "nationality": "USA",

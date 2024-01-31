@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Pettersson",
-        "img": "/hockey/img/players/Pettersson.jpg",
+        "img": "/Hockey/img/players/Pettersson.jpg",
         "full_name": "Elias Pettersson",
         "team": "Vancouver Canucks",
         "nationality": "Sweden",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Zibanejad",
-        "img": "/hockey/img/players/Zibanejad.jpg",
+        "img": "/Hockey/img/players/Zibanejad.jpg",
         "full_name": "Mika Zibanejad",
         "team": "New York Rangers",
         "nationality": "Sweden",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "E Lindholm",
-        "img": "/hockey/img/players/E Lindholm.jpg",
+        "img": "/Hockey/img/players/E Lindholm.jpg",
         "full_name": "Elias Lindholm",
         "team": "Calgary Flames",
         "nationality": "Sweden",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Hedman",
-        "img": "/hockey/img/players/Hedman.jpg",
+        "img": "/Hockey/img/players/Hedman.jpg",
         "full_name": "Victor Hedman",
         "team": "Tampa Bay Lightning",
         "nationality": "Sweden",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "E Karlsson",
-        "img": "/hockey/img/players/E Karlsson.jpg",
+        "img": "/Hockey/img/players/E Karlsson.jpg",
         "full_name": "Erik Karlsson",
         "team": "Pittsburgh Penguins",
         "nationality": "Sweden",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Ullmark",
-        "img": "/hockey/img/players/Ullmark.jpg",
+        "img": "/Hockey/img/players/Ullmark.jpg",
         "full_name": "Linus Ullmark",
         "team": "Boston Bruins",
         "nationality": "Sweden",

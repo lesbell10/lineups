@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Maccelli",
-        "img": "/hockey/img/players/Maccelli.jpg",
+        "img": "/Hockey/img/players/Maccelli.jpg",
         "full_name": "Matias Maccelli",
         "team": "Arizona Coyotes",
         "nationality": "Finland",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Schmaltz",
-        "img": "/hockey/img/players/Schmaltz.jpg",
+        "img": "/Hockey/img/players/Schmaltz.jpg",
         "full_name": "Nick Schmaltz",
         "team": "Arizona Coyotes",
         "nationality": "USA",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Keller",
-        "img": "/hockey/img/players/Keller.jpg",
+        "img": "/Hockey/img/players/Keller.jpg",
         "full_name": "Clayton Keller",
         "team": "Arizona Coyotes",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Dumba",
-        "img": "/hockey/img/players/Dumba.jpg",
+        "img": "/Hockey/img/players/Dumba.jpg",
         "full_name": "Matt Dumba",
         "team": "Arizona Coyotes",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Durzi",
-        "img": "/hockey/img/players/Durzi.jpg",
+        "img": "/Hockey/img/players/Durzi.jpg",
         "full_name": "Sean Durzi",
         "team": "Arizona Coyotes",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Vejmelka",
-        "img": "/hockey/img/players/Vejmelka.jpg",
+        "img": "/Hockey/img/players/Vejmelka.jpg",
         "full_name": "Karel Vejmelka",
         "team": "Arizona Coyotes",
         "nationality": "Czech Republic",

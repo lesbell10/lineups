@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Gaudreau",
-        "img": "/hockey/img/players/Gaudreau.jpg",
+        "img": "/Hockey/img/players/Gaudreau.jpg",
         "full_name": "Johnny Gaudreau",
         "team": "Columbus Blue Jackets",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Monahan",
-        "img": "/hockey/img/players/Monahan.jpg",
+        "img": "/Hockey/img/players/Monahan.jpg",
         "full_name": "Sean Monahan",
         "team": "Montreal Canadiens",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "M Tkachuk",
-        "img": "/hockey/img/players/M Tkachuk.jpg",
+        "img": "/Hockey/img/players/M Tkachuk.jpg",
         "full_name": "Matthew Tkachuk",
         "team": "Florida Panthers",
         "nationality": "USA",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Giordano",
-        "img": "/hockey/img/players/Giordano.jpg",
+        "img": "/Hockey/img/players/Giordano.jpg",
         "full_name": "Mark Giordano",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Brodie",
-        "img": "/hockey/img/players/Brodie.jpg",
+        "img": "/Hockey/img/players/Brodie.jpg",
         "full_name": "TJ Brodie",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Kiprusoff",
-        "img": "/hockey/img/players/Kiprusoff.jpg",
+        "img": "/Hockey/img/players/Kiprusoff.jpg",
         "full_name": "Miikka Kiprusoff",
         "team": "Retired",
         "nationality": "Finland",

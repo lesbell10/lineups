@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "B Tkachuk",
-        "img": "/hockey/img/players/B Tkachuk.jpg",
+        "img": "/Hockey/img/players/B Tkachuk.jpg",
         "full_name": "Brady Tkachuk",
         "team": "Ottawa Senators",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Stutzle",
-        "img": "/hockey/img/players/Stutzle.jpg",
+        "img": "/Hockey/img/players/Stutzle.jpg",
         "full_name": "Tim Stutzle",
         "team": "Ottawa Senators",
         "nationality": "Germany",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Tarasenko",
-        "img": "/hockey/img/players/Tarasenko.jpg",
+        "img": "/Hockey/img/players/Tarasenko.jpg",
         "full_name": "Vladimir Tarasenko",
         "team": "Ottawa Senators",
         "nationality": "Russia",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Chabot",
-        "img": "/hockey/img/players/Chabot.jpg",
+        "img": "/Hockey/img/players/Chabot.jpg",
         "full_name": "Thomas Chabot",
         "team": "Ottawa Senators",
         "nationality": "Canada",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Chychrun",
-        "img": "/hockey/img/players/Chychrun.jpg",
+        "img": "/Hockey/img/players/Chychrun.jpg",
         "full_name": "Jakob Chychrun",
         "team": "Ottawa Senators",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Korpisalo",
-        "img": "/hockey/img/players/Korpisalo.jpg",
+        "img": "/Hockey/img/players/Korpisalo.jpg",
         "full_name": "Joonas Korpisalo",
         "team": "Ottawa Senators",
         "nationality": "Finland",

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Dach",
-    "img": "/hockey/img/players/Dach.jpg",
+    "img": "/Hockey/img/players/Dach.jpg",
     "full_name": "Kirby Dach",
     "birth_date": "21-01-2001",
 
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "last_name": "Suzuki",
-    "img": "/hockey/img/players/Suzuki.jpg",
+    "img": "/Hockey/img/players/Suzuki.jpg",
     "full_name": "Nick Suzuki",
     "birth_date": "10-08-1999",
 
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "last_name": "Caufield",
-    "img": "/hockey/img/players/Caufield.jpg",
+    "img": "/Hockey/img/players/Caufield.jpg",
     "full_name": "Cole Caufield",
     "birth_date": "02-01-2001",
 
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "last_name": "Matheson",
-    "img": "/hockey/img/players/Matheson.jpg",
+    "img": "/Hockey/img/players/Matheson.jpg",
     "full_name": "Mike Matheson",
     "birth_date": "27-02-1994",
 
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "last_name": "Guhle",
-    "img": "/hockey/img/players/Guhle.jpg",
+    "img": "/Hockey/img/players/Guhle.jpg",
     "full_name": "Kaiden Guhle",
     "birth_date": "18-01-2002",
 
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "last_name": "J Allen",
-    "img": "/hockey/img/players/J Allen.jpg",
+    "img": "/Hockey/img/players/J Allen.jpg",
     "full_name": "Jake Allen",
     "birth_date": "07-08-1990",
 

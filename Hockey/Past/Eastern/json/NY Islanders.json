@@ -2,7 +2,7 @@
     {
         "id": 1,
         "last_name": "Lee",
-        "img": "/hockey/img/players/Lee.jpg",
+        "img": "/Hockey/img/players/Lee.jpg",
         "full_name": "Anders Lee",
         "team": "New York Islanders",
         "nationality": "USA",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "last_name": "Tavares",
-        "img": "/hockey/img/players/Tavares.jpg",
+        "img": "/Hockey/img/players/Tavares.jpg",
         "full_name": "John Tavares",
         "team": "Toronto Maple Leafs",
         "nationality": "Canada",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "last_name": "Barzal",
-        "img": "/hockey/img/players/Barzal.jpg",
+        "img": "/Hockey/img/players/Barzal.jpg",
         "full_name": "Mathew Barzal",
         "team": "New York Islanders",
         "nationality": "Canada",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "last_name": "Leddy",
-        "img": "/hockey/img/players/Leddy.jpg",
+        "img": "/Hockey/img/players/Leddy.jpg",
         "full_name": "Nick Leddy",
         "team": "St Louis Blues",
         "nationality": "USA",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "last_name": "Boychuk",
-        "img": "/hockey/img/players/Boychuk.jpg",
+        "img": "/Hockey/img/players/Boychuk.jpg",
         "full_name": "Johnny Boychuk",
         "team": "Retired",
         "nationality": "Canada",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "last_name": "Greiss",
-        "img": "/hockey/img/players/Greiss.jpg",
+        "img": "/Hockey/img/players/Greiss.jpg",
         "full_name": "Thomas Greiss",
         "team": "Retired",
         "nationality": "Germany",
