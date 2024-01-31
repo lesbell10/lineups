@@ -190,7 +190,7 @@ function updatePlayerInfo() {
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/Wallpapers/zidane.jpg";
+        smallpic.src = "/football/img/wallpapers/zidane.jpg";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2004.json");
@@ -233,7 +233,7 @@ function updatePlayerInfo() {
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/Wallpapers/gerrard.jpg";
+        smallpic.src = "/football/img/wallpapers/gerrard.jpg";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2005.json");
@@ -275,7 +275,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ronaldo.jpg";
+        smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2006.json");
         MainFetchPopUp("./json/EveryYear_2006.json");
@@ -317,7 +317,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/henry.jpg";
+        smallpic.src = "/football/img/wallpapers/henry.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2007.json");
         MainFetchPopUp("./json/EveryYear_2007.json");
@@ -361,7 +361,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ronaldinho.jpg";
+        smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2008.json");
         MainFetchPopUp("./json/EveryYear_2008.json");
@@ -405,7 +405,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Xavi.jpg";
+        smallpic.src = "/football/img/wallpapers/Xavi.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2009.json");
         MainFetchPopUp("./json/EveryYear_2009.json");
@@ -449,7 +449,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Kaka.jpg";
+        smallpic.src = "/football/img/wallpapers/Kaka.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2010.json");
         MainFetchPopUp("./json/EveryYear_2010.json");
@@ -493,7 +493,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        document.getElementById("smallpic").src = "/football/img/Wallpapers/Iniesta.webp";
+        document.getElementById("smallpic").src = "/football/img/wallpapers/Iniesta.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2011.json");
         MainFetchPopUp("./json/EveryYear_2011.json");
@@ -536,7 +536,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ozil.png";
+        smallpic.src = "/football/img/wallpapers/Ozil.png";
 
         // FIFAFetchPopUp("./json/EveryYear_2012.json");
         MainFetchPopUp("./json/EveryYear_2012.json");
@@ -580,7 +580,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        document.getElementById("smallpic").src = "/football/img/Wallpapers/Rooney.jpg";
+        document.getElementById("smallpic").src = "/football/img/wallpapers/Rooney.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2013.json");
         MainFetchPopUp("./json/EveryYear_2013.json");
@@ -624,7 +624,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ribery.jpg";
+        smallpic.src = "/football/img/wallpapers/Ribery.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2014.json");
         MainFetchPopUp("./json/EveryYear_2014.json");
@@ -668,7 +668,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ibrahimovic.jpg";
+        smallpic.src = "/football/img/wallpapers/Ibrahimovic.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2015.json");
         MainFetchPopUp("./json/EveryYear_2015.json");
@@ -711,7 +711,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Robben.jpg";
+        smallpic.src = "/football/img/wallpapers/Robben.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2016.json");
         MainFetchPopUp("./json/EveryYear_2016.json");
@@ -755,7 +755,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Lewandowski.jpg";
+        smallpic.src = "/football/img/wallpapers/Lewandowski.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2017.json");
         MainFetchPopUp("./json/EveryYear_2017.json");
@@ -798,7 +798,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Suarez.jpg";
+        smallpic.src = "/football/img/wallpapers/Suarez.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2018.json");
         MainFetchPopUp("./json/EveryYear_2018.json");
@@ -841,7 +841,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Neymar.jpg";
+        smallpic.src = "/football/img/wallpapers/Neymar.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2019.json");
         MainFetchPopUp("./json/EveryYear_2019.json");
@@ -884,7 +884,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Hazard.jpg";
+        smallpic.src = "/football/img/wallpapers/Hazard.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2020.json");
         MainFetchPopUp("./json/EveryYear_2020.json");
@@ -926,7 +926,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/C Ronaldo.webp";
+        smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2021.json");
         MainFetchPopUp("./json/EveryYear_2021.json");
@@ -969,7 +969,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Salah.jpg";
+        smallpic.src = "/football/img/wallpapers/Salah.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2022.json");
         MainFetchPopUp("./json/EveryYear_2022.json");
@@ -1012,7 +1012,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Benzema.jpg";
+        smallpic.src = "/football/img/wallpapers/Benzema.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2023.json");
         MainFetchPopUp("./json/EveryYear_2023.json");
@@ -1055,7 +1055,7 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Haaland.jpg";
+        smallpic.src = "/football/img/wallpapers/Haaland.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2024.json");
         MainFetchPopUp("./json/EveryYear_2024.json");
@@ -1144,7 +1144,7 @@ const updateDropdown = () => {
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/Wallpapers/zidane.png";
+        smallpic.src = "/football/img/wallpapers/zidane.png";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2004.json");
@@ -1187,7 +1187,7 @@ const updateDropdown = () => {
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
 
-        smallpic.src = "/football/img/Wallpapers/gerrard.jpg";
+        smallpic.src = "/football/img/wallpapers/gerrard.jpg";
 
         // // FIFAFetchPopUp("./json/EveryYear_2005.json");
         MainFetchPopUp("./json/EveryYear_2005.json");
@@ -1229,7 +1229,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ronaldo.jpg";
+        smallpic.src = "/football/img/wallpapers/Ronaldo.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2006.json");
         MainFetchPopUp("./json/EveryYear_2006.json");
@@ -1271,7 +1271,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/henry.jpg";
+        smallpic.src = "/football/img/wallpapers/henry.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2007.json");
         MainFetchPopUp("./json/EveryYear_2007.json");
@@ -1315,7 +1315,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ronaldinho.jpg";
+        smallpic.src = "/football/img/wallpapers/Ronaldinho.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2008.json");
         MainFetchPopUp("./json/EveryYear_2008.json");
@@ -1359,7 +1359,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Xavi.jpg";
+        smallpic.src = "/football/img/wallpapers/Xavi.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2009.json");
         MainFetchPopUp("./json/EveryYear_2009.json");
@@ -1403,7 +1403,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Kaka.jpg";
+        smallpic.src = "/football/img/wallpapers/Kaka.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2010.json");
         MainFetchPopUp("./json/EveryYear_2010.json");
@@ -1447,7 +1447,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        document.getElementById("smallpic").src = "/football/img/Wallpapers/Iniesta.webp";
+        document.getElementById("smallpic").src = "/football/img/wallpapers/Iniesta.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2011.json");
         MainFetchPopUp("./json/EveryYear_2011.json");
@@ -1490,7 +1490,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ozil.png";
+        smallpic.src = "/football/img/wallpapers/Ozil.png";
 
         // FIFAFetchPopUp("./json/EveryYear_2012.json");
         MainFetchPopUp("./json/EveryYear_2012.json");
@@ -1534,7 +1534,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        document.getElementById("smallpic").src = "/football/img/Wallpapers/Rooney.jpg";
+        document.getElementById("smallpic").src = "/football/img/wallpapers/Rooney.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2013.json");
         MainFetchPopUp("./json/EveryYear_2013.json");
@@ -1578,7 +1578,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ribery.jpg";
+        smallpic.src = "/football/img/wallpapers/Ribery.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2014.json");
         MainFetchPopUp("./json/EveryYear_2014.json");
@@ -1622,7 +1622,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Ibrahimovic.jpg";
+        smallpic.src = "/football/img/wallpapers/Ibrahimovic.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2015.json");
         MainFetchPopUp("./json/EveryYear_2015.json");
@@ -1665,7 +1665,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Robben.jpg";
+        smallpic.src = "/football/img/wallpapers/Robben.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2016.json");
         MainFetchPopUp("./json/EveryYear_2016.json");
@@ -1709,7 +1709,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Lewandowski.jpg";
+        smallpic.src = "/football/img/wallpapers/Lewandowski.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2017.json");
         MainFetchPopUp("./json/EveryYear_2017.json");
@@ -1752,7 +1752,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Suarez.jpg";
+        smallpic.src = "/football/img/wallpapers/Suarez.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2018.json");
         MainFetchPopUp("./json/EveryYear_2018.json");
@@ -1795,7 +1795,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Neymar.jpg";
+        smallpic.src = "/football/img/wallpapers/Neymar.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2019.json");
         MainFetchPopUp("./json/EveryYear_2019.json");
@@ -1838,7 +1838,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Hazard.jpg";
+        smallpic.src = "/football/img/wallpapers/Hazard.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2020.json");
         MainFetchPopUp("./json/EveryYear_2020.json");
@@ -1880,7 +1880,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/C Ronaldo.webp";
+        smallpic.src = "/football/img/wallpapers/C Ronaldo.webp";
 
         // FIFAFetchPopUp("./json/EveryYear_2021.json");
         MainFetchPopUp("./json/EveryYear_2021.json");
@@ -1923,7 +1923,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Salah.jpg";
+        smallpic.src = "/football/img/wallpapers/Salah.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2022.json");
         MainFetchPopUp("./json/EveryYear_2022.json");
@@ -1966,7 +1966,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Benzema.jpg";
+        smallpic.src = "/football/img/wallpapers/Benzema.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2023.json");
         MainFetchPopUp("./json/EveryYear_2023.json");
@@ -2009,7 +2009,7 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/Wallpapers/Haaland.jpg";
+        smallpic.src = "/football/img/wallpapers/Haaland.jpg";
 
         // FIFAFetchPopUp("./json/EveryYear_2024.json");
         MainFetchPopUp("./json/EveryYear_2024.json");
