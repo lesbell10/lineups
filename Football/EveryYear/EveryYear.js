@@ -37,68 +37,68 @@ window.onload = function () {
 };
 
 // Function to create an object with image sources and paragraph texts
-// function getData() {
-//     const data = {
-//         selectedYear: selectedYear,
-//         images: {},
-//         paragraphs: {}
-//     };
+function getData() {
+    const data = {
+        selectedYear: selectedYear,
+        images: {},
+        paragraphs: {}
+    };
 
-//     // Assuming STC2, FR2, etc. are your image elements and STC, FR, etc. are your paragraph elements
-//     const elements = [STC, STC2, FR, FR2, AMC, AMC2, FL, FL2, CMR, CMR2, CML, CML2, DR, DR2, DCR, DCR2, DCL, DCL2, DL, DL2, GK, GK2];
-//     elements.forEach(element => {
-//         if (element.tagName === 'IMG') {
-//             data.images[element.id] = element.src;
-//         } else if (element.tagName === 'P') {
-//             data.paragraphs[element.id] = element.textContent;
-//         }
-//     });
+    // Assuming STC2, FR2, etc. are your image elements and STC, FR, etc. are your paragraph elements
+    const elements = [STC, STC2, FR, FR2, AMC, AMC2, FL, FL2, CMR, CMR2, CML, CML2, DR, DR2, DCR, DCR2, DCL, DCL2, DL, DL2, GK, GK2];
+    elements.forEach(element => {
+        if (element.tagName === 'IMG') {
+            data.images[element.id] = element.src;
+        } else if (element.tagName === 'P') {
+            data.paragraphs[element.id] = element.textContent;
+        }
+    });
 
-//     return data;
-// }
+    return data;
+}
 
-// // Function to save data to localStorage
-// function saveToLocalStorage() {
-//     const data = getData();
-//     localStorage.setItem('footballAppData', JSON.stringify(data));
-// }
+// Function to save data to localStorage
+function saveToLocalStorage() {
+    const data = getData();
+    localStorage.setItem('footballAppData', JSON.stringify(data));
+}
 
-// // Function to load data from localStorage
-// function loadFromLocalStorage() {
-//     const savedData = localStorage.getItem('footballAppData');
-//     if (savedData) {
-//         const data = JSON.parse(savedData);
-//         selectedYear = data.selectedYear; // Update selectedYear
-//         yearSelector.value = data.selectedYear;
+// Function to load data from localStorage
+function loadFromLocalStorage() {
+    const savedData = localStorage.getItem('footballAppData');
+    if (savedData) {
+        const data = JSON.parse(savedData);
+        selectedYear = data.selectedYear; // Update selectedYear
+        yearSelector.value = data.selectedYear;
 
-//         // Update images and paragraphs
-//         Object.keys(data.images).forEach(id => {
-//             const element = document.getElementById(id);
-//             if (element) element.src = data.images[id];
-//         });
-//         Object.keys(data.paragraphs).forEach(id => {
-//             const element = document.getElementById(id);
-//             if (element) element.textContent = data.paragraphs[id];
-//         });
+        // Update images and paragraphs
+        Object.keys(data.images).forEach(id => {
+            const element = document.getElementById(id);
+            if (element) element.src = data.images[id];
+        });
+        Object.keys(data.paragraphs).forEach(id => {
+            const element = document.getElementById(id);
+            if (element) element.textContent = data.paragraphs[id];
+        });
 
-//         updatePlayerInfo(); // Update UI based on loaded data
-//     }
-// }
+        updatePlayerInfo(); // Update UI based on loaded data
+    }
+}
 
-// yearSelector.addEventListener("change", () => {
-//     updatePlayerInfo();
-//     saveToLocalStorage();
-// });
+yearSelector.addEventListener("change", () => {
+    updatePlayerInfo();
+    // saveToLocalStorage();
+});
 
-// // Define a function to clear local storage
-// const clearLocalStorage = () => {
-//     localStorage.clear();
-//     console.log('localStorage cleared after 2 hours.');
-// };
+// Define a function to clear local storage
+const clearLocalStorage = () => {
+    localStorage.clear();
+    console.log('localStorage cleared after 2 hours.');
+};
 
-// // Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
-// const timeoutInMilliseconds = 10000; // 2 hours
-// setTimeout(clearLocalStorage, timeoutInMilliseconds);
+// Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
+const timeoutInMilliseconds = 10000; // 2 hours
+setTimeout(clearLocalStorage, timeoutInMilliseconds);
 
 
 let previousValue = msgLabel.textContent
