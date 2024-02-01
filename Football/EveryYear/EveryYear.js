@@ -97,7 +97,7 @@ const clearLocalStorage = () => {
 };
 
 // Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
-const timeoutInMilliseconds = 10000; // 2 hours
+const timeoutInMilliseconds = 1000; // 2 hours
 setTimeout(clearLocalStorage, timeoutInMilliseconds);
 
 
@@ -168,7 +168,7 @@ function updatePlayerInfo() {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho";
+        FL.textContent = "Ronaldinho15";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
@@ -211,7 +211,7 @@ function updatePlayerInfo() {
         STC.textContent = "Henry";
         FR.textContent = "Totti";
         AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho4";
+        FL.textContent = "Ronaldinho";
         CMR.textContent = "Gerrard";
         CML.textContent = "Vieira";
         DR.textContent = "Thuram";
