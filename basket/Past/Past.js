@@ -76,7 +76,7 @@ function updatePlayerInfo() {
 
     smallpic.src = "/basket/img/wallpapers/james 4.jpg";
 
-    MainFetchPopUp("/basket/past/past.json");
+    MainFetchPopUp("/Basket/Past/Past.json");
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'
