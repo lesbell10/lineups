@@ -211,7 +211,7 @@ function updatePlayerInfo() {
         STC.textContent = "Henry";
         FR.textContent = "Totti";
         AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho";
+        FL.textContent = "Ronaldinho2";
         CMR.textContent = "Gerrard";
         CML.textContent = "Vieira";
         DR.textContent = "Thuram";
