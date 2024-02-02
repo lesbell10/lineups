@@ -37,7 +37,7 @@ Promise.all([
     loadJSON('/Football/Others.json'),
     // loadJSON('/Football/Present/Present.json'),
     loadJSON('/Football/Present/Clubs/json/Manchester City.json'),
-    // loadJSON('/Football/Present/Clubs/json/real madrid.json'),
+    loadJSON('/Football/Present/Clubs/json/real madrid.json'),
     // loadJSON('/Football/Present/Clubs/json/paris saint-germain.json'),
     // loadJSON('/Football/Present/Clubs/json/bayern munich.json'),
     // loadJSON('/Football/Present/Clubs/json/liverpool.json'),
