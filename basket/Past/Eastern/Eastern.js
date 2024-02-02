@@ -16,7 +16,7 @@ const coach = document.querySelector(".coach");
 const msgLabel = document.querySelector(".label");
 
 window.onload = function () {
-  loadSelectedYearFromLocalStorage();
+
 };
 
 // Function to create an object with image sources and paragraph texts
@@ -70,7 +70,7 @@ function loadFromLocalStorage() {
 
 yearSelector.addEventListener("change", () => {
   updatePlayerInfo();
-  saveSelectedYearToLocalStorage(selectedYear);
+
 });
 
 // Define a function to clear local storage

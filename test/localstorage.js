@@ -22,7 +22,7 @@ FromLocalStorage() {
 
 yearSelector.addEventListener("change", () => {
     updatePlayerInfo();
-    saveSelectedYearToLocalStorage(selectedYear);
+
 });
 
 // Define a function to clear local storage
