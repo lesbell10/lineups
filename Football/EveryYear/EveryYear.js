@@ -34,7 +34,6 @@ window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
     loadFromLocalStorage();
-    window.location.reload(true)
 };
 
 // Function to create an object with image sources and paragraph texts
@@ -168,8 +167,8 @@ function updatePlayerInfo() {
     if (selectedYear == "0") {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
-        AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho44";
+        AMC.textContent = "Zidane5";
+        FL.textContent = "Ronaldinho";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
