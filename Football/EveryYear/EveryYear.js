@@ -33,7 +33,7 @@ window.onload = function () {
     yearSelector.selectedIndex = 0;
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
-    // loadFromLocalStorage();
+    loadFromLocalStorage();
 };
 
 // Function to create an object with image sources and paragraph texts
@@ -87,7 +87,7 @@ function loadFromLocalStorage() {
 
 yearSelector.addEventListener("change", () => {
     updatePlayerInfo();
-    // saveToLocalStorage();
+    saveToLocalStorage();
 });
 
 // Define a function to clear local storage
@@ -168,7 +168,7 @@ function updatePlayerInfo() {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Zidane5";
-        FL.textContent = "Ronaldinho";
+        FL.textContent = "Ronaldinho44";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
