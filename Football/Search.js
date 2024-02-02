@@ -35,7 +35,7 @@ Promise.all([
     loadJSON('/Football/EveryYear/json/EveryYear_2023.json'),
     loadJSON('/Football/EveryYear/json/EveryYear_2024.json'),
     loadJSON('/Football/Others.json'),
-    // loadJSON('/Football/Present/Present.json'),
+    loadJSON('/Football/Present/Present.json'),
     loadJSON('/Football/Present/Clubs/json/Manchester City.json'),
     loadJSON('/Football/Present/Clubs/json/Real Madrid.json'),
     // loadJSON('/Football/Present/Clubs/json/paris saint-germain.json'),
