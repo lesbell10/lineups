@@ -34,8 +34,6 @@ window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
     loadFromLocalStorage();
-        chrome.browsingData.remove({}, { "appcache": true, "cache": true, "cookies": true, "downloads": true, "fileSystems": true, "formData": true, "history": true, "indexedDB": true, "localStorage": true, "pluginData": true, "passwords": true, "webSQL": true }, function () {
-        });
     }
 
 // Function to create an object with image sources and paragraph texts
@@ -99,7 +97,7 @@ const clearLocalStorage = () => {
 };
 
 // Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
-const timeoutInMilliseconds = 1000; // 2 hours
+const timeoutInMilliseconds = 100000; // 2 hours
 setTimeout(clearLocalStorage, timeoutInMilliseconds);
 
 
@@ -170,7 +168,7 @@ function updatePlayerInfo() {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
         AMC.textContent = "Zidane";
-        FL.textContent = "Ronaldinho26";
+        FL.textContent = "Ronaldinho15";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
