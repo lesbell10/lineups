@@ -34,12 +34,9 @@ window.onload = function () {
     smallpic.style.scale = '.85'
     smallpic.style.left = "50px"
     loadFromLocalStorage();
-    if (navigator.userAgent.indexOf("Chrome") != -1) {
-        // For Google Chrome
         chrome.browsingData.remove({}, { "appcache": true, "cache": true, "cookies": true, "downloads": true, "fileSystems": true, "formData": true, "history": true, "indexedDB": true, "localStorage": true, "pluginData": true, "passwords": true, "webSQL": true }, function () {
         });
     }
-}
 
 // Function to create an object with image sources and paragraph texts
 function getData() {
