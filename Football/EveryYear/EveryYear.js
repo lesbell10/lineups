@@ -97,7 +97,7 @@ const clearLocalStorage = () => {
 };
 
 // Set a timeout to call the clearLocalStorage function after 2 hours (2 hours * 60 minutes per hour * 60 seconds per minute * 1000 milliseconds per second)
-const timeoutInMilliseconds = 1000; // 2 hours
+const timeoutInMilliseconds = 1000000000; // 2 hours
 setTimeout(clearLocalStorage, timeoutInMilliseconds);
 
 
