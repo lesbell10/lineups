@@ -167,7 +167,7 @@ function updatePlayerInfo() {
     if (selectedYear == "0") {
         STC.textContent = "Henry";
         FR.textContent = "C Ronaldo";
-        AMC.textContent = "Zidane";
+        AMC.textContent = "Zidane5";
         FL.textContent = "Ronaldinho";
         CMR.textContent = "Lampard";
         CML.textContent = "Pirlo";
