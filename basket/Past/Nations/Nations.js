@@ -232,7 +232,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/Past/nations/json/europe.json");
+        MainFetchPopUp("/basket/Past/nations/json/usa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
