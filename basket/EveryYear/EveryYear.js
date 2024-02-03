@@ -108,7 +108,7 @@ function updatePlayerInfo() {
         PF2.src = "/basket/img/players/" + PF.textContent + ".png";
         C2.src = "/basket/img/players/" + C.textContent + ".png";
 
-        smallpic.src = "/basket/img/wallpapers/embiid.jpg";
+        smallpic.src = "/basket/img/wallpapers/Embiid.jpg";
 
         MainFetchPopUp("./json/EveryYear_2024.json");
 
