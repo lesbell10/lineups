@@ -306,7 +306,7 @@ function updatePlayerInfo() {
 
     smallpic.addEventListener('mouseover', () => {
       sideModal.style.display = 'block'
-      sideModal.textContent = "From 2010 to 2020, the Cleveland Cavaliers experienced a historic period, highlighted by LeBron James' return, a 2016 NBA Championship victory, and four consecutive NBA Finals appearances. Post-2018, they entered a rebuilding phase, focusing on nurturing young talent"
+      sideModal.textContent = "From 2010 to 2020, the Cleveland Cavaliers experienced a historic period, highlighted by LeBron James' return, a 2016 NBA Championship victory, and four consecutive NBA Finals appearances. Post-2018, they entered a rebuilding phase, focusing on nurturing young talent."
     })
 
     smallpic.addEventListener("mouseout", () => {
