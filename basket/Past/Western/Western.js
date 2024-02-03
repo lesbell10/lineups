@@ -195,7 +195,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/houston.gif";
 
-        MainFetchPopUp("/basket/Past/Western/json/houston.json");
+        MainFetchPopUp("/basket/Past/Western/json/Houston.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
