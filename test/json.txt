@@ -17,7 +17,7 @@ Hockey:
 give me this:
 (id start with 1), (last_name) (img /Hockey/img/players/{last name}.jpg), (full_name at least 2 words), team, (nationality like this: Canada), position(left winger,center, right defenseman, goaltender), (description: 8 words) in json format
 
-Basket: 
+basket: 
 give me this:
 (id start with 1), (last_name) (img /basket/img/players/{last name}.png), (full_name at least 2 words), team, (nationality like this: Canada), 2 positions like this: Point Guard, Small Forward, (description: 8 words) in json format
 
