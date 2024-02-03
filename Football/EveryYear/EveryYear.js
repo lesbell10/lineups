@@ -113,7 +113,7 @@ function updatePlayerInfo() {
         CML.textContent = "Pirlo";
         DR.textContent = "Cafu";
         DCR.textContent = "Terry";
-        DCL.textContent = "Maldiniiiii";
+        DCL.textContent = "Maldini";
         DL.textContent = "R Carlos";
         GK.textContent = "Buffon";
 
