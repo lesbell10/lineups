@@ -114,7 +114,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/anaheim.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/anaheim.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/anaheim.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -145,7 +145,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/arizona.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/arizona.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/arizona.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -176,7 +176,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/calgary.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/calgary.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/calgary.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -207,7 +207,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/chicago.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/chicago.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/chicago.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -238,7 +238,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/colorado.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/colorado.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/colorado.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -270,7 +270,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/dallas.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/dallas.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/dallas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -301,7 +301,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/edmonton.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/edmonton.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/edmonton.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -332,7 +332,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/los angeles.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/los angeles.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/los angeles.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -363,7 +363,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/minnesota.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/minnesota.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/minnesota.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -394,7 +394,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/nashville.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/nashville.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/nashville.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -425,7 +425,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/san jose.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/san jose.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/san jose.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -458,7 +458,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/st. louis.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/st louis.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/st louis.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -490,7 +490,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/vancouver.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/vancouver.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/vancouver.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -522,7 +522,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/vegas.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/vegas.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/vegas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -554,7 +554,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/winnipeg.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/winnipeg.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/winnipeg.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -623,7 +623,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/anaheim.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/anaheim.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/anaheim.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -654,7 +654,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/arizona.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/arizona.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/arizona.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -685,7 +685,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/calgary.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/calgary.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/calgary.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -716,7 +716,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/chicago.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/chicago.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/chicago.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -747,7 +747,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/colorado.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/colorado.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/colorado.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -779,7 +779,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/dallas.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/dallas.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/dallas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -810,7 +810,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/edmonton.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/edmonton.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/edmonton.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -841,7 +841,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/los angeles.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/los angeles.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/los angeles.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -872,7 +872,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/minnesota.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/minnesota.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/minnesota.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -903,7 +903,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/nashville.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/nashville.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/nashville.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -934,7 +934,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/san jose.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/san jose.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/san jose.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -967,7 +967,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/st. louis.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/st louis.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/st louis.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -999,7 +999,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/vancouver.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/vancouver.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/vancouver.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1031,7 +1031,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/vegas.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/vegas.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/vegas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1063,7 +1063,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/winnipeg.gif";
 
-        MainFetchPopUp("/hockey/past/western/json/winnipeg.json");
+        MainFetchPopUp("/Hockey/Past/Western/json/winnipeg.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

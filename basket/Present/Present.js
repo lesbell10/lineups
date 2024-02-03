@@ -75,7 +75,7 @@ function updatePlayerInfo() {
 
     smallpic.src = "/basket/img/wallpapers/embiid.jpg";
 
-    MainFetchPopUp("/basket/present/present.json");
+    MainFetchPopUp("/basket/Present/Present.json");
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'

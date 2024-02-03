@@ -1,6 +1,6 @@
 let managersData; // Define a variable to store the managers data.
 
-fetch('/hockey/managers.json')
+fetch('/Hockey/managers.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok ' + response.statusText);

@@ -129,9 +129,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/man city.webp";
+        smallpic.src = "/Football/img/logos/man city.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/manchester city.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/manchester city.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -170,9 +170,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/real madrid.webp";
+        smallpic.src = "/Football/img/logos/real madrid.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/real madrid.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/real madrid.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -211,9 +211,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/psg.webp";
+        smallpic.src = "/Football/img/logos/psg.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/paris saint-germain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -253,9 +253,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/bayern munich.webp";
+        smallpic.src = "/Football/img/logos/bayern munich.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/bayern munich.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -296,9 +296,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/liverpool.webp";
+        smallpic.src = "/Football/img/logos/liverpool.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/liverpool.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/liverpool.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -339,9 +339,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/barcelona.webp";
+        smallpic.src = "/Football/img/logos/barcelona.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/barcelona.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/barcelona.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -381,9 +381,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/chelsea.webp";
+        smallpic.src = "/Football/img/logos/chelsea.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/chelsea.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/chelsea.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -424,9 +424,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/man utd.webp";
+        smallpic.src = "/Football/img/logos/man utd.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/manchester united.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/manchester united.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -466,9 +466,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/juventus.webp";
+        smallpic.src = "/Football/img/logos/juventus.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/juventus.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/juventus.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -507,9 +507,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/arsenal.webp";
+        smallpic.src = "/Football/img/logos/arsenal.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/arsenal.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/arsenal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -548,9 +548,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/inter milan.webp";
+        smallpic.src = "/Football/img/logos/inter milan.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/inter milan.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/inter milan.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -589,9 +589,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/atletico madrid.webp";
+        smallpic.src = "/Football/img/logos/atletico madrid.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/atletico madrid.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/atletico madrid.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -630,9 +630,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/ac milan.webp";
+        smallpic.src = "/Football/img/logos/ac milan.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/ac milan.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -671,9 +671,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/napoli.webp";
+        smallpic.src = "/Football/img/logos/napoli.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/napoli.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/napoli.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -712,9 +712,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/tottenham.webp";
+        smallpic.src = "/Football/img/logos/tottenham.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/tottenham.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/tottenham.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -754,9 +754,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/as roma.webp";
+        smallpic.src = "/Football/img/logos/as roma.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/as roma.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/as roma.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -842,9 +842,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/man city.webp";
+        smallpic.src = "/Football/img/logos/man city.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/manchester city.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/manchester city.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -883,9 +883,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/real madrid.webp";
+        smallpic.src = "/Football/img/logos/real madrid.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/real madrid.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/real madrid.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -924,9 +924,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/psg.webp";
+        smallpic.src = "/Football/img/logos/psg.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/paris saint-germain.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/paris saint-germain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -966,9 +966,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/bayern munich.webp";
+        smallpic.src = "/Football/img/logos/bayern munich.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/bayern munich.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/bayern munich.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1009,9 +1009,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/liverpool.webp";
+        smallpic.src = "/Football/img/logos/liverpool.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/liverpool.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/liverpool.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1052,9 +1052,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/barcelona.webp";
+        smallpic.src = "/Football/img/logos/barcelona.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/barcelona.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/barcelona.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1094,9 +1094,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/chelsea.webp";
+        smallpic.src = "/Football/img/logos/chelsea.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/chelsea.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/chelsea.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1137,9 +1137,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/man utd.webp";
+        smallpic.src = "/Football/img/logos/man utd.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/manchester united.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/manchester united.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1179,9 +1179,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/juventus.webp";
+        smallpic.src = "/Football/img/logos/juventus.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/juventus.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/juventus.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1220,9 +1220,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/arsenal.webp";
+        smallpic.src = "/Football/img/logos/arsenal.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/arsenal.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/arsenal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1261,9 +1261,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/inter milan.webp";
+        smallpic.src = "/Football/img/logos/inter milan.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/inter milan.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/inter milan.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1302,9 +1302,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/atletico madrid.webp";
+        smallpic.src = "/Football/img/logos/atletico madrid.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/atletico madrid.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/atletico madrid.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1343,9 +1343,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/ac milan.webp";
+        smallpic.src = "/Football/img/logos/ac milan.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/ac milan.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/ac milan.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1384,9 +1384,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/napoli.webp";
+        smallpic.src = "/Football/img/logos/napoli.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/napoli.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/napoli.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1425,9 +1425,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/tottenham.webp";
+        smallpic.src = "/Football/img/logos/tottenham.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/tottenham.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/tottenham.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1467,9 +1467,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/as roma.webp";
+        smallpic.src = "/Football/img/logos/as roma.webp";
 
-        MainFetchPopUp("/football/past/clubs/json/as roma.json");
+        MainFetchPopUp("/Football/Past/Clubs/json/as roma.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

@@ -94,9 +94,9 @@ function updatePlayerInfo() {
     DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
     GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-    smallpic.src = "/football/img/wallpapers/messi 2.jpg";
+    smallpic.src = "/Football/img/wallpapers/messi 2.jpg";
 
-    MainFetchPopUp("/football/past/past.json");
+    MainFetchPopUp("/Football/Past/Past.json");
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'

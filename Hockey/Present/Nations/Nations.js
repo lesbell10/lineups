@@ -118,7 +118,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/canada.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/canada.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/canada.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -150,7 +150,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/czech republic.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/czech republic.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -183,7 +183,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/finland.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/finland.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/finland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -215,7 +215,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/germany.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/germany.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/germany.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -247,7 +247,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/russia.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/russia.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/russia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -279,7 +279,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/slovakia.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/slovakia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -311,7 +311,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/sweden.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/sweden.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/sweden.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -342,7 +342,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/switzerland.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/switzerland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -376,7 +376,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/usa.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/united states.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/united states.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -446,7 +446,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/canada.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/canada.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/canada.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -478,7 +478,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/czech republic.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/czech republic.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -511,7 +511,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/finland.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/finland.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/finland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -543,7 +543,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/germany.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/germany.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/germany.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -575,7 +575,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/russia.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/russia.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/russia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -607,7 +607,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/slovakia.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/slovakia.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/slovakia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -639,7 +639,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/sweden.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/sweden.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/sweden.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -670,7 +670,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/switzerland.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/switzerland.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/switzerland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -704,7 +704,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/usa.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/united states.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/united states.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

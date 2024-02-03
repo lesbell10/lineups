@@ -111,7 +111,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/europe.png";
 
-        MainFetchPopUp("/basket/present/nations/json/europe.json");
+        MainFetchPopUp("/basket/Present/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -123,7 +123,7 @@ function updatePlayerInfo() {
         });
 
         // managers.textContent = "Head Coach: Jose Mourinho"
-        // man_img.src = "/football/img/managers/mourinho.webp"
+        // man_img.src = "/Football/img/managers/mourinho.webp"
     }
 
 
@@ -142,7 +142,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/rest of world.png";
 
-        MainFetchPopUp("/basket/present/nations/json/rest of world.json");
+        MainFetchPopUp("/basket/Present/nations/json/rest of world.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -170,7 +170,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/present/nations/json/usa.json");
+        MainFetchPopUp("/basket/Present/nations/json/usa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -239,7 +239,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/europe.png";
 
-        MainFetchPopUp("/basket/present/nations/json/europe.json");
+        MainFetchPopUp("/basket/Present/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -251,7 +251,7 @@ const updateDropdown = () => {
         });
 
         // managers.textContent = "Head Coach: Jose Mourinho"
-        // man_img.src = "/football/img/managers/mourinho.webp"
+        // man_img.src = "/Football/img/managers/mourinho.webp"
     }
 
 
@@ -270,7 +270,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/rest of world.png";
 
-        MainFetchPopUp("/basket/present/nations/json/rest of world.json");
+        MainFetchPopUp("/basket/Present/nations/json/rest of world.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -298,7 +298,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/present/nations/json/usa.json");
+        MainFetchPopUp("/basket/Present/nations/json/usa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

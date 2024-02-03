@@ -131,9 +131,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/france.webp"
+        smallpic.src = "/Football/img/logos/france.webp"
 
-        MainFetchPopUp("/football/present/nations/json/france.json");
+        MainFetchPopUp("/Football/Present/nations/json/france.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -172,9 +172,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/brazil.webp"
+        smallpic.src = "/Football/img/logos/brazil.webp"
 
-        MainFetchPopUp("/football/present/nations/json/brazil.json");
+        MainFetchPopUp("/Football/Present/nations/json/brazil.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -215,9 +215,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/spain.webp"
+        smallpic.src = "/Football/img/logos/spain.webp"
 
-        MainFetchPopUp("/football/present/nations/json/spain.json");
+        MainFetchPopUp("/Football/Present/nations/json/spain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -257,9 +257,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/england.webp"
+        smallpic.src = "/Football/img/logos/england.webp"
 
-        MainFetchPopUp("/football/present/nations/json/england.json");
+        MainFetchPopUp("/Football/Present/nations/json/england.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -299,9 +299,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/germany.webp"
+        smallpic.src = "/Football/img/logos/germany.webp"
 
-        MainFetchPopUp("/football/present/nations/json/germany.json");
+        MainFetchPopUp("/Football/Present/nations/json/germany.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -341,9 +341,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/argentina.webp"
+        smallpic.src = "/Football/img/logos/argentina.webp"
 
-        MainFetchPopUp("/football/present/nations/json/argentina.json");
+        MainFetchPopUp("/Football/Present/nations/json/argentina.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -383,9 +383,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/italy.webp"
+        smallpic.src = "/Football/img/logos/italy.webp"
 
-        MainFetchPopUp("/football/present/nations/json/italy.json");
+        MainFetchPopUp("/Football/Present/nations/json/italy.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -425,9 +425,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/portugal.webp"
+        smallpic.src = "/Football/img/logos/portugal.webp"
 
-        MainFetchPopUp("/football/present/nations/json/portugal.json");
+        MainFetchPopUp("/Football/Present/nations/json/portugal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -466,9 +466,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/belgium.webp"
+        smallpic.src = "/Football/img/logos/belgium.webp"
 
-        MainFetchPopUp("/football/present/nations/json/belgium.json");
+        MainFetchPopUp("/Football/Present/nations/json/belgium.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -508,9 +508,9 @@ function updatePlayerInfo() {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/netherlands.webp"
+        smallpic.src = "/Football/img/logos/netherlands.webp"
 
-        MainFetchPopUp("/football/present/nations/json/netherlands.json");
+        MainFetchPopUp("/Football/Present/nations/json/netherlands.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -600,9 +600,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/france.webp"
+        smallpic.src = "/Football/img/logos/france.webp"
 
-        MainFetchPopUp("/football/present/nations/json/france.json");
+        MainFetchPopUp("/Football/Present/nations/json/france.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -641,9 +641,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/brazil.webp"
+        smallpic.src = "/Football/img/logos/brazil.webp"
 
-        MainFetchPopUp("/football/present/nations/json/brazil.json");
+        MainFetchPopUp("/Football/Present/nations/json/brazil.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -684,9 +684,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/spain.webp"
+        smallpic.src = "/Football/img/logos/spain.webp"
 
-        MainFetchPopUp("/football/present/nations/json/spain.json");
+        MainFetchPopUp("/Football/Present/nations/json/spain.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -726,9 +726,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/england.webp"
+        smallpic.src = "/Football/img/logos/england.webp"
 
-        MainFetchPopUp("/football/present/nations/json/england.json");
+        MainFetchPopUp("/Football/Present/nations/json/england.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -768,9 +768,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/germany.webp"
+        smallpic.src = "/Football/img/logos/germany.webp"
 
-        MainFetchPopUp("/football/present/nations/json/germany.json");
+        MainFetchPopUp("/Football/Present/nations/json/germany.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -810,9 +810,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/argentina.webp"
+        smallpic.src = "/Football/img/logos/argentina.webp"
 
-        MainFetchPopUp("/football/present/nations/json/argentina.json");
+        MainFetchPopUp("/Football/Present/nations/json/argentina.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -852,9 +852,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/italy.webp"
+        smallpic.src = "/Football/img/logos/italy.webp"
 
-        MainFetchPopUp("/football/present/nations/json/italy.json");
+        MainFetchPopUp("/Football/Present/nations/json/italy.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -894,9 +894,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/portugal.webp"
+        smallpic.src = "/Football/img/logos/portugal.webp"
 
-        MainFetchPopUp("/football/present/nations/json/portugal.json");
+        MainFetchPopUp("/Football/Present/nations/json/portugal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -935,9 +935,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/belgium.webp"
+        smallpic.src = "/Football/img/logos/belgium.webp"
 
-        MainFetchPopUp("/football/present/nations/json/belgium.json");
+        MainFetchPopUp("/Football/Present/nations/json/belgium.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -977,9 +977,9 @@ const updateDropdown = () => {
         DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
         GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/football/img/logos/netherlands.webp"
+        smallpic.src = "/Football/img/logos/netherlands.webp"
 
-        MainFetchPopUp("/football/present/nations/json/netherlands.json");
+        MainFetchPopUp("/Football/Present/nations/json/netherlands.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

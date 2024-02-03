@@ -71,7 +71,7 @@ function updatePlayerInfo() {
 
     smallpic.src = "/Hockey/img/wallpapers/crosby.jpg";
 
-    MainFetchPopUp("/hockey/past/past.json");
+    MainFetchPopUp("/Hockey/Past/Past.json");
 
     smallpic.addEventListener('mouseover', () => {
         sideModal.style.display = 'block'

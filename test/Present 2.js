@@ -118,7 +118,7 @@ function updatePlayerInfo() {
     //                     sideModal.style.display = 'none'; // Hide the modal
     //         }); 
 
-    // FetchPopUp("/football/present/present.json");
+    // FetchPopUp("/Football/Present/Present.json");
 
 
     function clearAndFadeInElements() {

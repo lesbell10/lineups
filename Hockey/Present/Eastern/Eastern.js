@@ -112,7 +112,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/boston.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/boston.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/boston.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -154,7 +154,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/buffalo.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/buffalo.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/buffalo.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -197,7 +197,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/carolina.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/carolina.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/carolina.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -241,7 +241,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/columbus.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/columbus.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/columbus.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -282,7 +282,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/detroit.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/detroit.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/detroit.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -324,7 +324,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/florida.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/florida.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/florida.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -367,7 +367,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/montreal.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/montreal.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/montreal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -409,7 +409,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/new jersey.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/new jersey.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/new jersey.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -452,7 +452,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/ny islanders.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ny islanders.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ny islanders.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -494,7 +494,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/ny rangers.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ny rangers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -535,7 +535,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/ottawa.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ottawa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -576,7 +576,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/philadelphia.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/philadelphia.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/philadelphia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -618,7 +618,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/pittsburgh.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/pittsburgh.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/pittsburgh.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -660,7 +660,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/tampa bay.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/tampa bay.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/tampa bay.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -702,7 +702,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/toronto.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/toronto.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/toronto.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -744,7 +744,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/washington.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/washington.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/washington.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -824,7 +824,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/boston.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/boston.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/boston.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -866,7 +866,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/buffalo.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/buffalo.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/buffalo.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -909,7 +909,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/carolina.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/carolina.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/carolina.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -953,7 +953,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/columbus.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/columbus.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/columbus.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -994,7 +994,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/detroit.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/detroit.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/detroit.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1036,7 +1036,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/florida.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/florida.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/florida.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1079,7 +1079,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/montreal.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/montreal.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/montreal.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1121,7 +1121,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/new jersey.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/new jersey.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/new jersey.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1164,7 +1164,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/ny islanders.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ny islanders.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ny islanders.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1206,7 +1206,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/ny rangers.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ny rangers.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ny rangers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1247,7 +1247,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/ottawa.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/ottawa.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/ottawa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1288,7 +1288,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/philadelphia.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/philadelphia.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/philadelphia.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1330,7 +1330,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/pittsburgh.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/pittsburgh.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/pittsburgh.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1372,7 +1372,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/tampa bay.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/tampa bay.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/tampa bay.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1414,7 +1414,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/toronto.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/toronto.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/toronto.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -1456,7 +1456,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/Hockey/img/logos/washington.gif";
 
-        MainFetchPopUp("/hockey/present/eastern/json/washington.json");
+        MainFetchPopUp("/Hockey/Present/Eastern/json/washington.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

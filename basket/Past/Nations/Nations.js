@@ -110,7 +110,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/past/nations/json/usa.json");
+        MainFetchPopUp("/basket/Past/nations/json/usa.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -136,7 +136,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/europe.png";
 
-        MainFetchPopUp("/basket/past/nations/json/europe.json");
+        MainFetchPopUp("/basket/Past/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -164,7 +164,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/rest of world.png";
 
-        MainFetchPopUp("/basket/past/nations/json/rest of world.json");
+        MainFetchPopUp("/basket/Past/nations/json/rest of world.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -232,7 +232,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/usa.gif";
 
-        MainFetchPopUp("/basket/past/nations/json/europe.json");
+        MainFetchPopUp("/basket/Past/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -258,7 +258,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/europe.png";
 
-        MainFetchPopUp("/basket/past/nations/json/europe.json");
+        MainFetchPopUp("/basket/Past/nations/json/europe.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -286,7 +286,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/rest of world.png";
 
-        MainFetchPopUp("/basket/past/nations/json/rest of world.json");
+        MainFetchPopUp("/basket/Past/nations/json/rest of world.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

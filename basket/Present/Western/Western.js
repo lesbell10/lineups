@@ -109,7 +109,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/dallas.gif";
 
-        MainFetchPopUp("/basket/present/western/json/dallas.json");
+        MainFetchPopUp("/basket/Present/Western/json/dallas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -137,7 +137,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/denver.gif";
 
-        MainFetchPopUp("/basket/present/western/json/denver.json");
+        MainFetchPopUp("/basket/Present/Western/json/denver.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -165,7 +165,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/golden state.gif";
 
-        MainFetchPopUp("/basket/present/western/json/golden state.json");
+        MainFetchPopUp("/basket/Present/Western/json/golden state.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -192,7 +192,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/houston.gif";
 
-        MainFetchPopUp("/basket/present/western/json/houston.json");
+        MainFetchPopUp("/basket/Present/Western/json/houston.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -220,7 +220,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/la clippers.gif";
 
-        MainFetchPopUp("/basket/present/western/json/la clippers.json");
+        MainFetchPopUp("/basket/Present/Western/json/la clippers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -247,7 +247,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/la lakers.gif";
 
-        MainFetchPopUp("/basket/present/western/json/la lakers.json");
+        MainFetchPopUp("/basket/Present/Western/json/la lakers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -274,7 +274,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/memphis.gif";
 
-        MainFetchPopUp("/basket/present/western/json/memphis.json");
+        MainFetchPopUp("/basket/Present/Western/json/memphis.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -302,7 +302,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/minnesota.gif";
 
-        MainFetchPopUp("/basket/present/western/json/minnesota.json");
+        MainFetchPopUp("/basket/Present/Western/json/minnesota.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -330,7 +330,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/new orleans.gif";
 
-        MainFetchPopUp("/basket/present/western/json/new orleans.json");
+        MainFetchPopUp("/basket/Present/Western/json/new orleans.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -357,7 +357,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/oklahoma city.gif";
 
-        MainFetchPopUp("/basket/present/western/json/oklahoma city.json");
+        MainFetchPopUp("/basket/Present/Western/json/oklahoma city.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -384,7 +384,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/phoenix.gif";
 
-        MainFetchPopUp("/basket/present/western/json/phoenix.json");
+        MainFetchPopUp("/basket/Present/Western/json/phoenix.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -412,7 +412,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/portland.gif";
 
-        MainFetchPopUp("/basket/present/western/json/portland.json");
+        MainFetchPopUp("/basket/Present/Western/json/portland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -440,7 +440,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/sacramento.gif";
 
-        MainFetchPopUp("/basket/present/western/json/sacramento.json");
+        MainFetchPopUp("/basket/Present/Western/json/sacramento.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -468,7 +468,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/san antonio.gif";
 
-        MainFetchPopUp("/basket/present/western/json/san antonio.json");
+        MainFetchPopUp("/basket/Present/Western/json/san antonio.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -495,7 +495,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/basket/img/logos/utah.gif";
 
-        MainFetchPopUp("/basket/present/western/json/utah.json");
+        MainFetchPopUp("/basket/Present/Western/json/utah.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -563,7 +563,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/dallas.gif";
 
-        MainFetchPopUp("/basket/present/western/json/dallas.json");
+        MainFetchPopUp("/basket/Present/Western/json/dallas.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -591,7 +591,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/denver.gif";
 
-        MainFetchPopUp("/basket/present/western/json/denver.json");
+        MainFetchPopUp("/basket/Present/Western/json/denver.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -619,7 +619,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/golden state.gif";
 
-        MainFetchPopUp("/basket/present/western/json/golden state.json");
+        MainFetchPopUp("/basket/Present/Western/json/golden state.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -646,7 +646,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/houston.gif";
 
-        MainFetchPopUp("/basket/present/western/json/houston.json");
+        MainFetchPopUp("/basket/Present/Western/json/houston.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -674,7 +674,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/la clippers.gif";
 
-        MainFetchPopUp("/basket/present/western/json/la clippers.json");
+        MainFetchPopUp("/basket/Present/Western/json/la clippers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -701,7 +701,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/la lakers.gif";
 
-        MainFetchPopUp("/basket/present/western/json/la lakers.json");
+        MainFetchPopUp("/basket/Present/Western/json/la lakers.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -728,7 +728,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/memphis.gif";
 
-        MainFetchPopUp("/basket/present/western/json/memphis.json");
+        MainFetchPopUp("/basket/Present/Western/json/memphis.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -756,7 +756,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/minnesota.gif";
 
-        MainFetchPopUp("/basket/present/western/json/minnesota.json");
+        MainFetchPopUp("/basket/Present/Western/json/minnesota.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -784,7 +784,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/new orleans.gif";
 
-        MainFetchPopUp("/basket/present/western/json/new orleans.json");
+        MainFetchPopUp("/basket/Present/Western/json/new orleans.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -811,7 +811,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/oklahoma city.gif";
 
-        MainFetchPopUp("/basket/present/western/json/oklahoma city.json");
+        MainFetchPopUp("/basket/Present/Western/json/oklahoma city.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -838,7 +838,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/phoenix.gif";
 
-        MainFetchPopUp("/basket/present/western/json/phoenix.json");
+        MainFetchPopUp("/basket/Present/Western/json/phoenix.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -866,7 +866,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/portland.gif";
 
-        MainFetchPopUp("/basket/present/western/json/portland.json");
+        MainFetchPopUp("/basket/Present/Western/json/portland.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -894,7 +894,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/sacramento.gif";
 
-        MainFetchPopUp("/basket/present/western/json/sacramento.json");
+        MainFetchPopUp("/basket/Present/Western/json/sacramento.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -922,7 +922,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/san antonio.gif";
 
-        MainFetchPopUp("/basket/present/western/json/san antonio.json");
+        MainFetchPopUp("/basket/Present/Western/json/san antonio.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'
@@ -949,7 +949,7 @@ const updateDropdown = () => {
 
         smallpic.src = "/basket/img/logos/utah.gif";
 
-        MainFetchPopUp("/basket/present/western/json/utah.json");
+        MainFetchPopUp("/basket/Present/Western/json/utah.json");
 
         smallpic.addEventListener('mouseover', () => {
             sideModal.style.display = 'block'

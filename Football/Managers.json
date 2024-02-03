@@ -2,7 +2,7 @@
   {
     "id": 1,
     "last_name": "Ferguson",
-    "img": "/football/img/managers/Ferguson.webp",
+    "img": "/Football/img/managers/Ferguson.webp",
     "full_name": "Sir Alex Ferguson",
     "team": "Retired",
     "nationality": "Scotland",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "last_name": "Wenger",
-    "img": "/football/img/managers/Wenger.webp",
+    "img": "/Football/img/managers/Wenger.webp",
     "full_name": "Arsene Wenger",
     "team": "Retired",
     "nationality": "France",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "last_name": "Guardiola",
-    "img": "/football/img/managers/Guardiola.webp",
+    "img": "/Football/img/managers/Guardiola.webp",
     "full_name": "Pep Guardiola",
     "team": "Manchester City",
     "nationality": "Spain",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "last_name": "Mourinho",
-    "img": "/football/img/managers/Mourinho.webp",
+    "img": "/Football/img/managers/Mourinho.webp",
     "full_name": "José Mourinho",
     "team": "AS Roma",
     "nationality": "Portugal",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "last_name": "Ancelotti",
-    "img": "/football/img/managers/Ancelotti.webp",
+    "img": "/Football/img/managers/Ancelotti.webp",
     "full_name": "Carlo Ancelotti",
     "team": "Real Madrid",
     "nationality": "Italy",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "last_name": "Lippi",
-    "img": "/football/img/managers/Lippi.webp",
+    "img": "/Football/img/managers/Lippi.webp",
     "full_name": "Marcello Lippi",
     "team": "No Club",
     "nationality": "Italy",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "last_name": "Klopp",
-    "img": "/football/img/managers/Klopp.webp",
+    "img": "/Football/img/managers/Klopp.webp",
     "full_name": "Jürgen Klopp",
     "team": "Liverpool",
     "nationality": "Germany",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "last_name": "Zidane",
-    "img": "/football/img/managers/Zidane.webp",
+    "img": "/Football/img/managers/Zidane.webp",
     "full_name": "Zinedine Zidane",
     "team": "No Club",
     "nationality": "France",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "last_name": "del Bosque",
-    "img": "/football/img/managers/del Bosque.webp",
+    "img": "/Football/img/managers/del Bosque.webp",
     "full_name": "Vicente del Bosque",
     "team": "Retired",
     "nationality": "Spain",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "last_name": "Capello",
-    "img": "/football/img/managers/Capello.webp",
+    "img": "/Football/img/managers/Capello.webp",
     "full_name": "Fabio Capello",
     "team": "Retired",
     "nationality": "Italy",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "last_name": "Hitzfeld",
-    "img": "/football/img/managers/Hitzfeld.webp",
+    "img": "/Football/img/managers/Hitzfeld.webp",
     "full_name": "Ottmar Hitzfeld",
     "team": "Retired",
     "nationality": "Germany",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "last_name": "Robson",
-    "img": "/football/img/managers/Robson.webp",
+    "img": "/Football/img/managers/Robson.webp",
     "full_name": "Sir Bobby Robson",
     "team": "Retired",
     "nationality": "England",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "last_name": "van Gaal",
-    "img": "/football/img/managers/van Gaal.webp",
+    "img": "/Football/img/managers/van Gaal.webp",
     "full_name": "Louis van Gaal",
     "team": "No Club",
     "nationality": "Netherlands",
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "last_name": "Trapattoni",
-    "img": "/football/img/managers/Trapattoni.webp",
+    "img": "/Football/img/managers/Trapattoni.webp",
     "full_name": "Giovanni Trapattoni",
     "team": "Retired",
     "nationality": "Italy",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "last_name": "Hiddink",
-    "img": "/football/img/managers/Hiddink.webp",
+    "img": "/Football/img/managers/Hiddink.webp",
     "full_name": "Guus Hiddink",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "last_name": "Bielsa",
-    "img": "/football/img/managers/Bielsa.webp",
+    "img": "/Football/img/managers/Bielsa.webp",
     "full_name": "Marcelo Bielsa",
     "team": "Uruguay",
     "nationality": "Argentina",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "last_name": "Benitez",
-    "img": "/football/img/managers/Benitez.webp",
+    "img": "/Football/img/managers/Benitez.webp",
     "full_name": "Rafa Benitez",
     "team": "Celta Vigo",
     "nationality": "Spaon",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "last_name": "Pellegrini",
-    "img": "/football/img/managers/Pellegrini.webp",
+    "img": "/Football/img/managers/Pellegrini.webp",
     "full_name": "Manuel Pellegrini",
     "team": "Real Betis",
     "nationality": "Chile",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "last_name": "Ranieri",
-    "img": "/football/img/managers/Ranieri.webp",
+    "img": "/Football/img/managers/Ranieri.webp",
     "full_name": "Claudio Ranieri",
     "team": "Cagliari",
     "nationality": "Italy",
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "last_name": "Mancini",
-    "img": "/football/img/managers/Mancini.webp",
+    "img": "/Football/img/managers/Mancini.webp",
     "full_name": "Roberto Mancini",
     "team": "Saudi Arabia",
     "nationality": "Italy",
@@ -202,7 +202,7 @@
   {
     "id": 21,
     "last_name": "Eriksson",
-    "img": "/football/img/managers/Eriksson.webp",
+    "img": "/Football/img/managers/Eriksson.webp",
     "full_name": "Sven-Goran Eriksson",
     "team": "Retired",
     "nationality": "Sweden",
@@ -212,7 +212,7 @@
   {
     "id": 22,
     "last_name": "Rijkaard",
-    "img": "/football/img/managers/Rijkaard.webp",
+    "img": "/Football/img/managers/Rijkaard.webp",
     "full_name": "Frank Rijkaard",
     "team": "Retired",
     "nationality": "Netherlands",
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "last_name": "Conte",
-    "img": "/football/img/managers/Conte.webp",
+    "img": "/Football/img/managers/Conte.webp",
     "full_name": "Antonio Conte",
     "team": "No Club",
     "nationality": "Italy",
@@ -232,7 +232,7 @@
   {
     "id": 24,
     "last_name": "Smith",
-    "img": "/football/img/managers/Smith.webp",
+    "img": "/Football/img/managers/Smith.webp",
     "full_name": "Walter Smith",
     "team": "Retired",
     "nationality": "Scotland",
@@ -242,7 +242,7 @@
   {
     "id": 25,
     "last_name": "Deschamps",
-    "img": "/football/img/managers/Deschamps.webp",
+    "img": "/Football/img/managers/Deschamps.webp",
     "full_name": "Didier Deschamps",
     "team": "France",
     "nationality": "France",
@@ -252,7 +252,7 @@
   {
     "id": 26,
     "last_name": "Jesus",
-    "img": "/football/img/managers/Jesus.webp",
+    "img": "/Football/img/managers/Jesus.webp",
     "full_name": "Jorge Jesus",
     "team": "Al Hilal",
     "nationality": "Portugal",
@@ -262,7 +262,7 @@
   {
     "id": 27,
     "last_name": "Scolari",
-    "img": "/football/img/managers/Scolari.webp",
+    "img": "/Football/img/managers/Scolari.webp",
     "full_name": "Luiz Felipe Scolari",
     "team": "Altetico Mineiro",
     "nationality": "Brazil",
@@ -272,7 +272,7 @@
   {
     "id": 28,
     "last_name": "Tuchel",
-    "img": "/football/img/managers/Tuchel.webp",
+    "img": "/Football/img/managers/Tuchel.webp",
     "full_name": "Thomas Tuchel",
     "team": "Bayern Munich",
     "nationality": "Germany",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "last_name": "Rodgers",
-    "img": "/football/img/managers/Rodgers.webp",
+    "img": "/Football/img/managers/Rodgers.webp",
     "full_name": "Brendan Rodgers",
     "team": "Celtic",
     "nationality": "Northern Ireland",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "last_name": "Klinsmann",
-    "img": "/football/img/managers/Klinsmann.webp",
+    "img": "/Football/img/managers/Klinsmann.webp",
     "full_name": "Jürgen Klinsmann",
     "team": "South Korea",
     "nationality": "Germany",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "last_name": "Jardim",
-    "img": "/football/img/managers/Jardim.webp",
+    "img": "/Football/img/managers/Jardim.webp",
     "full_name": "Leonardo Jardim",
     "team": "Al Rayyan",
     "nationality": "Portugal",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "last_name": "Low",
-    "img": "/football/img/managers/Low.webp",
+    "img": "/Football/img/managers/Low.webp",
     "full_name": "Joachim Low",
     "team": "No Club",
     "nationality": "Germany",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "last_name": "Advocaat",
-    "img": "/football/img/managers/Advocaat.webp",
+    "img": "/Football/img/managers/Advocaat.webp",
     "full_name": "Dick Advocaat",
     "team": "No Club",
     "nationality": "Netherlands",
@@ -332,7 +332,7 @@
   {
     "id": 34,
     "last_name": "Aragones",
-    "img": "/football/img/managers/Aragones.webp",
+    "img": "/Football/img/managers/Aragones.webp",
     "full_name": "Luis Aragones",
     "team": "Retired",
     "nationality": "Spain",
@@ -342,7 +342,7 @@
   {
     "id": 35,
     "last_name": "Heynckes",
-    "img": "/football/img/managers/Heynckes.webp",
+    "img": "/Football/img/managers/Heynckes.webp",
     "full_name": "Jupp Heynckes",
     "team": "Retired",
     "nationality": "German",
@@ -352,7 +352,7 @@
   {
     "id": 36,
     "last_name": "Dalglish",
-    "img": "/football/img/managers/Dalglish.webp",
+    "img": "/Football/img/managers/Dalglish.webp",
     "full_name": "Kenny Dalglish",
     "team": "No Club",
     "nationality": "Scottish",
@@ -362,7 +362,7 @@
   {
     "id": 37,
     "last_name": "van Basten",
-    "img": "/football/img/managers/van Basten.webp",
+    "img": "/Football/img/managers/van Basten.webp",
     "full_name": "Marco van Basten",
     "team": "No Club",
     "nationality": "Netherlands",
@@ -372,7 +372,7 @@
   {
     "id": 38,
     "last_name": "Allegri",
-    "img": "/football/img/managers/Allegri.webp",
+    "img": "/Football/img/managers/Allegri.webp",
     "full_name": "Massimiliano Allegri",
     "team": "Juventus",
     "nationality": "Italy",
@@ -382,7 +382,7 @@
   {
     "id": 39,
     "last_name": "Koeman",
-    "img": "/football/img/managers/Koeman.webp",
+    "img": "/Football/img/managers/Koeman.webp",
     "full_name": "Ronald Koeman",
     "team": "Netherlands",
     "nationality": "Netherlands",
@@ -392,7 +392,7 @@
   {
     "id": 40,
     "last_name": "Houllier",
-    "img": "/football/img/managers/Houllier.webp",
+    "img": "/Football/img/managers/Houllier.webp",
     "full_name": "Gerard Houllier",
     "team": "Retired",
     "nationality": "France",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "last_name": "Villas-Boas",
-    "img": "/football/img/managers/Villas-Boas.webp",
+    "img": "/Football/img/managers/Villas-Boas.webp",
     "full_name": "Andre Villas-Boas",
     "team": "No Club",
     "nationality": "Portugal",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "last_name": "Bilic",
-    "img": "/football/img/managers/Bilic.webp",
+    "img": "/Football/img/managers/Bilic.webp",
     "full_name": "Slaven Bilic",
     "team": "Al Fateh",
     "nationality": "Croatia",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "last_name": "Hodgson",
-    "img": "/football/img/managers/Hodgson.webp",
+    "img": "/Football/img/managers/Hodgson.webp",
     "full_name": "Roy Hodgson",
     "team": "Crystal Palace",
     "nationality": "England",
@@ -432,7 +432,7 @@
   {
     "id": 44,
     "last_name": "Camacho",
-    "img": "/football/img/managers/Camacho.webp",
+    "img": "/Football/img/managers/Camacho.webp",
     "full_name": "Jose Antonio Camacho",
     "team": "No Club",
     "nationality": "Spain",
@@ -442,7 +442,7 @@
   {
     "id": 45,
     "last_name": "Terim",
-    "img": "/football/img/managers/Terim.webp",
+    "img": "/Football/img/managers/Terim.webp",
     "full_name": "Fatih Terim",
     "team": "Panathinaikos",
     "nationality": "Turkey",
@@ -452,7 +452,7 @@
   {
     "id": 46,
     "last_name": "Flores",
-    "img": "/football/img/managers/Flores.webp",
+    "img": "/Football/img/managers/Flores.webp",
     "full_name": "Quique Sánchez Flores",
     "team": "Sevilla",
     "nationality": "Spain",
@@ -462,7 +462,7 @@
   {
     "id": 47,
     "last_name": "Schuster",
-    "img": "/football/img/managers/Schuster.webp",
+    "img": "/Football/img/managers/Schuster.webp",
     "full_name": "Bernd Schuster",
     "team": "No Club",
     "nationality": "Germany",
@@ -472,7 +472,7 @@
   {
     "id": 48,
     "last_name": "Di Matteo",
-    "img": "/football/img/managers/Di Matteo.webp",
+    "img": "/Football/img/managers/Di Matteo.webp",
     "full_name": "Roberto Di Matteo",
     "team": "Jeonbuk",
     "nationality": "Italy",
@@ -482,7 +482,7 @@
   {
     "id": 49,
     "last_name": "Martinez",
-    "img": "/football/img/managers/Martinez.webp",
+    "img": "/Football/img/managers/Martinez.webp",
     "full_name": "Roberto Martínez",
     "team": "Portugal",
     "nationality": "Spain",
@@ -492,7 +492,7 @@
   {
     "id": 50,
     "last_name": "L Enrique",
-    "img": "/football/img/managers/L Enrique.webp",
+    "img": "/Football/img/managers/L Enrique.webp",
     "full_name": "Luis Enrique",
     "team": "PSG",
     "nationality": "Spain",
@@ -502,7 +502,7 @@
     {
     "id": 51,
     "last_name": "Simeone",
-    "img": "/football/img/managers/Simeone.webp",
+    "img": "/Football/img/managers/Simeone.webp",
     "full_name": "Diego Simeone",
     "team": "Atletico Madrid",
     "nationality": "Argentina",
@@ -512,7 +512,7 @@
   {
     "id": 55,
     "last_name": "Pochettino",
-    "img": "/football/img/managers/Pochettino.webp",
+    "img": "/Football/img/managers/Pochettino.webp",
     "full_name": "Mauricio Pochettino",
     "team": "Chelsea",
     "nationality": "Argentina",
@@ -522,7 +522,7 @@
   {
     "id": 59,
     "last_name": "ten Hag",
-    "img": "/football/img/managers/ten Hag.webp",
+    "img": "/Football/img/managers/ten Hag.webp",
     "full_name": "Erik ten Hag",
     "team": "Manchester United",
     "nationality": "Netherlands",
@@ -532,7 +532,7 @@
   {
     "id": 60,
     "last_name": "Favre",
-    "img": "/football/img/managers/Favre.webp",
+    "img": "/Football/img/managers/Favre.webp",
     "full_name": "Lucien Favre",
     "team": "No Club",
     "nationality": "Switzerland",
@@ -542,7 +542,7 @@
   {
     "id": 62,
     "last_name": "F de Boer",
-    "img": "/football/img/managers/F de Boer.webp",
+    "img": "/Football/img/managers/F de Boer.webp",
     "full_name": "Frank de Boer",
     "team": "Al Jazira",
     "nationality": "Netherlands",
@@ -552,7 +552,7 @@
   {
     "id": 64,
     "last_name": "Sarri",
-    "img": "/football/img/managers/Sarri.webp",
+    "img": "/Football/img/managers/Sarri.webp",
     "full_name": "Maurizio Sarri",
     "team": "Lazio",
     "nationality": "Italy",
@@ -562,7 +562,7 @@
   {
     "id": 65,
     "last_name": "Allardyce",
-    "img": "/football/img/managers/Allardyce.webp",
+    "img": "/Football/img/managers/Allardyce.webp",
     "full_name": "Sam Allardyce",
     "team": "Leeds United",
     "nationality": "England",
@@ -572,7 +572,7 @@
   {
     "id": 66,
     "last_name": "Nancy",
-    "img": "/football/img/managers/Nancy.webp",
+    "img": "/Football/img/managers/Nancy.webp",
     "full_name": "Wilfried Nancy",
     "team": "Columbus Crew",
     "nationality": "France",
@@ -582,7 +582,7 @@
 {
     "id": 67,
     "last_name": "S Inzaghi",
-    "img": "/football/img/managers/S Inzaghi.webp",
+    "img": "/Football/img/managers/S Inzaghi.webp",
     "full_name": "Simone Inzaghi",
     "team": "Inter Milan",
     "nationality": "Italy",
@@ -592,7 +592,7 @@
   {
     "id": 68,
     "last_name": "Spalletti",
-    "img": "/football/img/managers/Spalletti.webp",
+    "img": "/Football/img/managers/Spalletti.webp",
     "full_name": "Luciano Spalletti",
     "team": "Italy",
     "nationality": "Italy",
@@ -602,7 +602,7 @@
   {
     "id": 69,
     "last_name": "Scaloni",
-    "img": "/football/img/managers/Scaloni.webp",
+    "img": "/Football/img/managers/Scaloni.webp",
     "full_name": "Lionel Scaloni",
     "team": "Argentina",
     "nationality": "Argentina",
@@ -612,7 +612,7 @@
   {
     "id": 70,
     "last_name": "Arteta",
-    "img": "/football/img/managers/Arteta.webp",
+    "img": "/Football/img/managers/Arteta.webp",
     "full_name": "Mikel Arteta",
     "team": "Arsenal",
     "nationality": "Spain",
@@ -622,7 +622,7 @@
   {
     "id": 71,
     "last_name": "Nagelsmann",
-    "img": "/football/img/managers/Nagelsmann.webp",
+    "img": "/Football/img/managers/Nagelsmann.webp",
     "full_name": "Julian Nagelsmann",
     "team": "Germany",
     "nationality": "Germany",
@@ -632,7 +632,7 @@
   {
     "id": 72,
     "last_name": "Pioli",
-    "img": "/football/img/managers/Pioli.webp",
+    "img": "/Football/img/managers/Pioli.webp",
     "full_name": "Stefano Pioli",
     "team": "AC Milan",
     "nationality": "Italy",
@@ -642,7 +642,7 @@
   {
     "id": 73,
     "last_name": "Xavi Hernandez",
-    "img": "/football/img/managers/Xavi Hernandez.webp",
+    "img": "/Football/img/managers/Xavi Hernandez.webp",
     "full_name": "Xavi",
     "team": "Barcelona",
     "nationality": "Spain",
@@ -652,7 +652,7 @@
   {
     "id": 74,
     "last_name": "Emery",
-    "img": "/football/img/managers/Emery.webp",
+    "img": "/Football/img/managers/Emery.webp",
     "full_name": "Unai Emery",
     "team": "Aston Villa",
     "nationality": "Spain",
@@ -662,7 +662,7 @@
   {
     "id": 75,
     "last_name": "Postecoglou",
-    "img": "/football/img/managers/Postecoglou.webp",
+    "img": "/Football/img/managers/Postecoglou.webp",
     "full_name": "Ange Postecoglou",
     "team": "Tottenham Hotspur",
     "nationality": "Australia",
@@ -672,7 +672,7 @@
   {
     "id": 76,
     "last_name": "Fuente",
-    "img": "/football/img/managers/Fuente.webp",
+    "img": "/Football/img/managers/Fuente.webp",
     "full_name": "Luis de la Fuente",
     "team": "Spain",
     "nationality": "Spain",
@@ -682,7 +682,7 @@
   {
     "id": 77,
     "last_name": "Southgate",
-    "img": "/football/img/managers/Southgate.webp",
+    "img": "/Football/img/managers/Southgate.webp",
     "full_name": "Gareth Southgate",
     "team": "England",
     "nationality": "England",
@@ -692,7 +692,7 @@
   {
   "id": 78,
   "last_name": "Mazzarri",
-  "img": "/football/img/managers/Mazzarri.webp",
+  "img": "/Football/img/managers/Mazzarri.webp",
   "full_name": "Walter Mazzarri",
   "team": "Napoli",
   "nationality": "Italy",

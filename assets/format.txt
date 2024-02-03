@@ -4,7 +4,7 @@
   {
     "id": 1,
     "last_name": ,
-    "img": "/football/hockey/basket/img/players/{last_name}.webp.jpg.png",
+    "img": "/Football/Hockey/basket/img/players/{last_name}.webp.jpg.png",
     "full_name": ,
     "team": "Retired",
     "nationality": (name of country),
@@ -14,5 +14,5 @@
 
 
     Fifa pics – transfermarkt - webp
-    Nhl pics – hockey-reference/hockey db - jpg
+    Nhl pics – hockey-reference/Hockey db - jpg
     Nba pics – espn/2k ratings - png

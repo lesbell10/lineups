@@ -34,26 +34,26 @@ function loadJSON(filePath) {
 
 // Load data from all JSON files and merge them
 Promise.all([
-    loadJSON('/football/everyyear/json/EveryYear_2005.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2006.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2007.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2008.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2009.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2010.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2011.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2012.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2013.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2014.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2015.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2016.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2017.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2018.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2019.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2020.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2021.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2022.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2023.json'),
-    loadJSON('/football/everyyear/json/EveryYear_2024.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2005.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2006.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2007.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2008.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2009.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2010.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2011.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2012.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2013.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2014.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2015.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2016.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2017.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2018.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2019.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2020.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2021.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2022.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2023.json'),
+    loadJSON('/Football/EveryYear/json/EveryYear_2024.json'),
 ]).then(files => {
     allPlayers = files.reduce((acc, file) => acc.concat(file), []);
     // Call startProgram after allPlayers is populated
@@ -209,8 +209,8 @@ function updatePlayerInfo(selectedYear) {
         }
     });
 
-    smallpic.src = `/football/img/logos/${team.teamName}.webp`;
-    MainFetchPopUp(`/football/present/clubs/json/${team.teamName}.json`);
+    smallpic.src = `/Football/img/logos/${team.teamName}.webp`;
+    MainFetchPopUp(`/Football/Present/Clubs/json/${team.teamName}.json`);
 }
 
 yearSelector.addEventListener('change', () => updatePlayerInfo(yearSelector.value));
@@ -262,7 +262,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/canada.png";
 
-        MainFetchPopUp("/hockey/present/nations/json/canada.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/canada.json");
     }
 
     if (selectedYear === "1") {
@@ -283,7 +283,7 @@ function updatePlayerInfo() {
 
         smallpic.src = "/Hockey/img/logos/czech republic.webp";
 
-        MainFetchPopUp("/hockey/present/nations/json/czech republic.json");
+        MainFetchPopUp("/Hockey/Present/nations/json/czech republic.json");
     }
 
 
