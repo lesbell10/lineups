@@ -178,4 +178,13 @@ updatePlayerInfo();
 //     }
 // });
 
-
+function calculateLocalStorageSpaceUsed() {
+    let total = 0;
+    for (let key in localStorage) {
+        if (localStorage.hasOwnProperty(key)) {
+            total += localStorage[key].length * 2; // Each character is 16 bits (2 bytes)
+            total += key.length * 2; // Don't forget to count the key's size as well
+        }
+    }
+    return total;
+}
