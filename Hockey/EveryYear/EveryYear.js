@@ -102,7 +102,7 @@ function updatePlayerInfo() {
 
     if (selectedYear == "20") {
         FL.textContent = "Draisaitl";
-        FC.textContent = "McDavid";
+        FC.textContent = "McDavid97";
         FR.textContent = "Pastrnak";
         DL.textContent = "Makar";
         DR.textContent = "Josi";
