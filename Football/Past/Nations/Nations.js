@@ -555,20 +555,6 @@ function updatePlayerInfo() {
     clearAndFadeInElements();
 }
 
-document.addEventListener('DOMContentLoaded', function () {
-
-    // Load the previously selected value from localStorage
-    const selectedValue = localStorage.getItem('selectedDropdownValue');
-    if (selectedValue) {
-        yearSelector.value = selectedValue;
-    }
-
-    yearSelector.addEventListener('change', function (event) {
-        localStorage.setItem('selectedDropdownValue', yearSelector.value);
-        updatePlayerInfo();
-    });
-});
-
 // Initial update based on the default year (2020)
 updatePlayerInfo();
 
