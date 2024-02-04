@@ -108,7 +108,7 @@ function updatePlayerInfo() {
     if (selectedYear == "4") {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
-        AMC.textContent = "Griezmann10";
+        AMC.textContent = "Griezmann";
         FL.textContent = "Mbappe";
         CMR.textContent = "Pogba";
         CML.textContent = "Kante";
