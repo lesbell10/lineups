@@ -586,7 +586,7 @@ const updateDropdown = () => {
     if (selectedYear == "4") {
         STC.textContent = "Benzema";
         FR.textContent = "Ribery";
-        AMC.textContent = "Griezmann";
+        AMC.textContent = "Griezmann10";
         FL.textContent = "Mbappe";
         CMR.textContent = "Pogba";
         CML.textContent = "Kante";
